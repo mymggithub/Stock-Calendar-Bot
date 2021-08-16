@@ -21,4 +21,4 @@ When it was time to download the data I put the range for about 10 years back of
 If I ran into problems with obtaining data the job of the bot was to skip that stock.
 
 After all of that I was left with a smaller list of stocks to work with.
-Totaling around 7,083 stocks as seen in the raw folder 
+Totaling around 7,083 stocks as seen in the data/raw folder 
