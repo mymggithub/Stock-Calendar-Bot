@@ -10,4 +10,4 @@ Here is others videos that provide about the same idea of the original video:
 
 
 
-#### Disclaimer: I am not clamming that I know the formula used in Matt Choi program, nor is this meant to give finacial advice. This is more an attempt of data manipulation only out of interest.
+#### Disclaimer: I am not clamming that I know the formula used in Matt Choi program, nor is this meant to give finacial advice. This is more only out of interest of data mining and data analisist.
