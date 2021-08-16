@@ -11,3 +11,14 @@ Here is others videos that provide about the same idea of the original video:
 
 
 #### Disclaimer: I am not clamming that I know the formula used in Matt Choi program, nor is this meant to give finacial advice. This is more only out of interest of data mining and data analisist.
+
+
+
+I went to this website to obtain the list of stocks names in the US [gurufocus](https://www.gurufocus.com/stock_list.php).
+![image](https://user-images.githubusercontent.com/21014768/129580026-f789fa8b-fcf2-4d5f-9b7a-5a4421b478b8.png)
+
+When it was time to download the data I put the range for about 10 years back of data.
+If I ran into problems with obtaining data the job of the bot was to skip that stock.
+
+After all of that I was left with a smaller list of stocks to work with.
+Totaling around 7,083 stocks as seen in the raw folder 
