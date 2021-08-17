@@ -1,0 +1,156 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,ZZLL,ZZLL Information Technology Inc,0.12999999523162842,True,2012.0,,,,,,,,,,
+1,ZYRX,Zyrox Mining International Inc,0.032999999821186066,True,2012.0,,,,,,,,,,
+2,ZYQG,ZYQC Group Holding Ltd,3.5,True,2012.0,,,,,,,,,,
+3,ZNGA,Zynga Inc,8.015000343322754,True,2011.0,,,,,,,,,,
+4,ZYXI,Zynex Inc,13.505000114440918,False,2009.0,,04-10,06-24,5.0,5.0,6.0,6.0,02-03,04-18,4.901126877666568
+5,ZYNE,Zynerba Pharmaceuticals Inc,3.9333999156951904,True,2015.0,,,,,,,,,,
+6,ZYME,Zymeworks Inc,40.70000076293945,True,2017.0,,,,,,,,,,
+7,ZCOR,Zyla Life Sciences,$2.05 ,True,,No data fetched for symbol ZCOR using YahooDailyReader,,,,,,,,,
+8,CNET,ZW Data Action Technologies Inc,1.4600000381469727,False,2009.0,,08-15,10-29,5.0,5.0,6.0,6.0,08-15,10-29,8.629259490485305
+9,ZVLO,Zvelo Inc,0.009999999776482582,False,2009.0,,12-22,03-07,7.0,7.0,4.0,4.0,12-22,03-07,34.50592795193743
+10,ZRVT,Zurvita Holdings Inc,0.10000000149011612,False,2009.0,,01-25,04-09,4.0,4.0,7.0,7.0,01-25,04-09,9.786642202615068
+11,ZURVY,Zurich Insurance Group AG,40.154998779296875,False,2009.0,,11-12,01-26,9.0,9.0,2.0,2.0,12-08,02-21,5.521247631262889
+12,ZFSVF,Zurich Insurance Group AG,401.4599914550781,False,2010.0,,11-16,01-30,8.0,8.0,2.0,2.0,11-16,01-30,5.9259711338483605
+13,ZRSEF,Zur Rose Group AG,242.0,True,2018.0,,,,,,,,,,
+14,ZUO,Zuora Inc,11.079999923706055,True,2018.0,,,,,,,,,,
+15,ZAHLY,Zuoan Fashion Ltd,$0.01 ,True,,'Date',,,,,,,,,
+16,ZNCM,Zunicom Inc,0.009999999776482582,False,2009.0,,12-26,03-11,7.0,7.0,4.0,4.0,12-26,03-11,14.857031190903346
+17,ZMTBY,Zumtobel Group AG,4.519999980926514,True,2016.0,,,,,,,,,,
+18,ZMTBF,Zumtobel Group AG,$6.84 ,True,,No data fetched for symbol ZMTBF using YahooDailyReader,,,,,,,,,
+19,ZUMZ,Zumiez Inc,34.150001525878906,False,2009.0,,01-22,04-06,6.0,6.0,5.0,5.0,01-22,04-06,2.647507853278855
+20,ZULU,Zulu Tek Inc,0.05000000074505806,False,2009.0,,01-04,03-19,3.0,3.0,7.0,7.0,01-04,03-19,34.99833345466623
+21,ZUGFF,Zug Estates Holding AG,"$1,420.00 ",True,,No data fetched for symbol ZUGFF using YahooDailyReader,,,,,,,,,
+22,ZTO,ZTO Express (Cayman) Inc,30.000099182128906,True,2016.0,,,,,,,,,,
+23,ZTSTF,Ztest Electronics Inc,0.16680000722408295,True,2012.0,,,,,,,,,,
+24,ZTCOY,ZTE Corp,5.400000095367432,False,2010.0,,08-28,11-11,8.0,8.0,2.0,2.0,08-28,11-11,10.54303963695888
+25,ZTCOF,ZTE Corp,2.700000047683716,False,2010.0,,08-28,11-11,7.0,7.0,3.0,3.0,08-28,11-11,9.56951613596975
+26,ZSTN,ZST Digital Networks Inc,0.007699999958276749,False,2009.0,,12-23,03-08,5.0,5.0,6.0,6.0,12-23,03-08,22.31176064395401
+27,ZS,Zscaler Inc,139.5850067138672,True,2018.0,,,,,,,,,,
+28,ZSPH,ZS Pharma Inc,$89.98 ,True,,'Date',,,,,,,,,
+29,SRTTY,Zozo Inc,4.806000232696533,True,2019.0,,,,,,,,,,
+30,SATLF,Zozo Inc,24.209999084472656,True,2013.0,,,,,,,,,,
+31,ZVO,Zovio Inc,4.260000228881836,True,2019.0,,,,,,,,,,
+32,ZSAN,Zosano Pharma Corp,0.477400004863739,True,2015.0,,,,,,,,,,
+33,ZLPSF,zooplus AG,171.5,True,2014.0,,,,,,,,,,
+34,ZNOGF,Zoono Group Ltd,1.0499999523162842,True,2020.0,,,,,,,,,,
+35,ZPAS,Zoompass Holdings Inc,0.22300000488758087,True,2016.0,,,,,,,,,,
+36,ZMMDF,ZoomMed Inc,0.006000000052154064,True,2019.0,,,,,,,,,,
+37,ZLIOY,Zoomlion Heavy Industry Science and Technology Co,9.329999923706055,True,2012.0,,,,,,,,,,
+38,ZLIOF,Zoomlion Heavy Industry Science and Technology Co,1.0099999904632568,True,2012.0,,,,,,,,,,
+39,ZI,ZoomInfo Technologies Inc,42.52000045776367,True,2020.0,,,,,,,,,,
+40,ZUMRF,ZoomerMedia Ltd,0.03999999910593033,True,2012.0,,,,,,,,,,
+41,ZMDTF,Zoomd Technologies Ltd,0.23919999599456787,True,2020.0,,,,,,,,,,
+42,ZMWYF,ZoomAway Travel Inc,0.027000000700354576,True,2012.0,,,,,,,,,,
+43,ZM,Zoom Video Communications Inc,411.6000061035156,True,2019.0,,,,,,,,,,
+44,ZMTP,Zoom Telephonics Inc,2.490000009536743,False,2009.0,,03-11,05-25,4.0,4.0,7.0,7.0,03-11,05-25,7.975275897384804
+45,ZTNO,Zoom Technologies Inc,0.19750000536441803,False,2009.0,,12-17,03-02,7.0,7.0,4.0,4.0,12-17,03-02,25.517239980382858
+46,ZMMM,Zoom Companies Inc,$3.20 ,True,,No data fetched for symbol ZMMM using YahooDailyReader,,,,,,,,,
+47,ZDGGF,Zoo Digital Group PLC,0.7099999785423279,True,2019.0,,,,,,,,,,
+48,EREPF,Zonte Metals Inc,0.1940000057220459,False,2010.0,,11-07,01-21,5.0,5.0,5.0,5.0,11-07,01-21,21.17290863878411
+49,ZTLLF,Zonetail Inc,0.05000000074505806,True,2020.0,,,,,,,,,,
+50,ZDPY,Zoned Properties Inc,0.44999998807907104,False,2010.0,,01-31,04-15,4.0,4.0,6.0,6.0,01-31,04-15,9.547014431463971
+51,ZRESF,Zone Resources Inc,$0.01 ,True,,No data fetched for symbol ZRESF using YahooDailyReader,,,,,,,,,
+52,ZOM,Zomedica Corp,0.14959999918937683,True,2017.0,,,,,,,,,,
+53,ZOJIF,Zojirushi Corp,15.0,True,2017.0,,,,,,,,,,
+54,ZGNX,Zogenix Inc,20.149999618530273,False,2010.0,,10-27,01-10,4.0,4.0,6.0,6.0,10-27,01-10,8.480725701880985
+55,ZTS,Zoetis Inc,165.3300018310547,True,2013.0,,,,,,,,,,
+56,ZOEIF,Zoetic International PLC,0.6100000143051147,True,2015.0,,,,,,,,,,
+57,ZOLRZ,Zoeller Co,$18.50 ,True,,No data fetched for symbol ZOLRZ using YahooDailyReader,,,,,,,,,
+58,ZOES,Zoe?s Kitchen Inc,12.760000228881836,True,2014.0,,,,,,,,,,
+59,ZODFY,Zodiac Aerospace,$6.20 ,True,,No data fetched for symbol ZODFY using YahooDailyReader,,,,,,,,,
+60,ZODFF,Zodiac Aerospace,$30.37 ,True,,No data fetched for symbol ZODFF using YahooDailyReader,,,,,,,,,
+61,ZNRG,Znergy Inc,0.15160000324249268,True,2014.0,,,,,,,,,,
+62,ZKIN,ZK International Group Co Ltd,1.6273000240325928,True,2017.0,,,,,,,,,,
+63,ZIXI,Zix Corp,7.090000152587891,False,2009.0,,03-23,06-06,5.0,5.0,6.0,6.0,03-23,06-06,12.319585618959296
+64,ZIVO,Zivo Bioscience Inc,0.14949999749660492,False,2009.0,,01-21,04-05,4.0,4.0,7.0,7.0,01-21,04-05,8.197610258613073
+65,ZIPL,Ziplink Inc,0.14300000667572021,True,2012.0,,,,,,,,,,
+66,ZIZTF,Zip Co Ltd,5.150000095367432,True,2020.0,,,,,,,,,,
+67,ZIOP,ZIOPHARM Oncology Inc,2.677999973297119,False,2009.0,,01-08,03-23,9.0,9.0,2.0,2.0,01-08,03-23,11.51453725202872
+68,ZION,Zions Bancorp NA,38.130001068115234,False,2009.0,,09-01,11-15,7.0,7.0,4.0,4.0,09-01,11-15,3.857908261525356
+69,ZNOG,Zion Oil & Gas Inc,0.6815000176429749,True,2020.0,,,,,,,,,,
+70,ZNZNF,Zinzino Holding AB,4.900000095367432,True,2015.0,,,,,,,,,,
+71,CZXMF,Zincx Resources Corp,0.07999999821186066,False,2010.0,,07-08,09-21,5.0,5.0,5.0,5.0,07-08,09-21,9.439378179399316
+72,ZIMFF,Zinco Mining Corp,$0.03 ,True,,No data fetched for symbol ZIMFF using YahooDailyReader,,,,,,,,,
+73,MGXRF,Zinc8 Energy Solutions Inc,0.17800000309944153,True,2019.0,,,,,,,,,,
+74,ZZZOF,Zinc One Resources Inc,0.005750000011175871,True,2014.0,,,,,,,,,,
+75,ZTMUF,Zimtu Capital Corp,0.15399999916553497,True,2012.0,,,,,,,,,,
+76,ZMPLF,Zimplats Holdings Ltd,7.269999980926514,False,2010.0,,11-10,01-24,6.0,6.0,4.0,4.0,11-10,01-24,7.112156287084707
+77,ZBH,Zimmer Biomet Holdings Inc,147.27000427246094,False,2009.0,,12-09,02-22,9.0,9.0,2.0,2.0,12-09,02-22,7.186566889958272
+78,ZIMCF,Zim Corp,0.060100000351667404,False,2009.0,,07-19,10-02,2.0,2.0,9.0,9.0,07-19,10-02,19.68449472959443
+79,ZG,Zillow Group Inc,108.14810180664062,True,2011.0,,,,,,,,,,
+80,Z,Zillow Group Inc,106.23989868164062,True,2015.0,,,,,,,,,,
+81,ZIJMY,Zijin Mining Group Co Ltd,17.489999771118164,True,2011.0,,,,,,,,,,
+82,ZIJMF,Zijin Mining Group Co Ltd,0.9599999785423279,False,2010.0,,09-24,12-08,5.0,5.0,5.0,5.0,09-24,12-08,10.99829409826257
+83,ZIGNY,Zignago Vetro SpA,$0.01 ,True,,No data fetched for symbol ZIGNY using YahooDailyReader,,,,,,,,,
+84,ZIGGF,Ziggo Holding B.V.,$43.39 ,True,,No data fetched for symbol ZIGGF using YahooDailyReader,,,,,,,,,
+85,ZGCO,Ziegler Companies Inc,40.2599983215332,False,2009.0,,03-15,05-29,2.0,2.0,6.0,6.0,03-15,05-29,7.0868564007884185
+86,ZICX,Zicix Corp,0.009100000374019146,True,2012.0,,,,,,,,,,
+87,ZHUZY,Zhuzhou CRRC Times Electric Co Ltd,15.725000381469727,True,2015.0,,,,,,,,,,
+88,ZHUZF,Zhuzhou CRRC Times Electric Co Ltd,3.180000066757202,False,2010.0,,04-29,07-13,2.0,2.0,8.0,8.0,09-06,11-20,1.4676631778281632
+89,ZHULF,Zhulian Corp Bhd,$0.68 ,True,,No data fetched for symbol ZHULF using YahooDailyReader,,,,,,,,,
+90,ZHUD,Zhuding International Ltd,0.01269999984651804,False,2010.0,,11-21,02-04,3.0,3.0,7.0,7.0,11-21,02-04,19.076613232874067
+91,ZHSHF,Zhongsheng Group Holdings Ltd,6.900000095367432,True,2020.0,,,,,,,,,,
+92,ZSHGY,Zhongsheng Group Holdings Ltd,62.75,True,2014.0,,,,,,,,,,
+93,ZCMD,ZHONGCHAO Inc,1.7799999713897705,True,2020.0,,,,,,,,,,
+94,ZZHGF,ZhongAn Online P&C Insurance Co Ltd,5.05374002456665,True,2017.0,,,,,,,,,,
+95,ZYJT,Zhong Ya International Ltd,5.5,False,2010.0,,05-19,08-02,0.0,0.0,9.0,9.0,05-19,08-02,13.563685323164885
+96,ZDAOF,Zhidao International (Holdings) Ltd,$0.23 ,True,,No data fetched for symbol ZDAOF using YahooDailyReader,,,,,,,,,
+97,RBTK,Zhen Ding Resources Inc,2.5,True,2012.0,,,,,,,,,,
+98,ZHEXY,Zhejiang Expressway Co Ltd,$12.15 ,True,,No data fetched for symbol ZHEXY using YahooDailyReader,,,,,,,,,
+99,ZHEXF,Zhejiang Expressway Co Ltd,0.75,False,2010.0,,03-14,05-28,4.0,4.0,6.0,6.0,09-13,11-27,5.516453712931408
+100,ZPIN,Zhaopin Ltd,$18.20 ,True,,'Date',,,,,,,,,
+101,ZHAOY,Zhaojin Mining Industry Co Ltd,$0.01 ,True,,No data fetched for symbol ZHAOY using YahooDailyReader,,,,,,,,,
+102,ZHAOF,Zhaojin Mining Industry Co Ltd,1.309999942779541,False,2010.0,,06-11,08-25,6.0,6.0,4.0,4.0,07-05,09-18,8.287254411735343
+103,ZHYLF,Zhaoheng Hydropower Ltd,0.009999999776482582,True,2012.0,,,,,,,,,,
+104,ZVTK,Zevotek Inc,0.007300000172108412,True,2012.0,,,,,,,,,,
+105,ZEUCF,ZeU Technologies Inc,0.11747000366449356,True,2020.0,,,,,,,,,,
+106,ZGSI,Zero Gravity Solutions Inc,0.8999999761581421,True,2013.0,,,,,,,,,,
+107,ZPHYF,Zephyr Minerals Ltd,0.11999999731779099,True,2016.0,,,,,,,,,,
+108,VNHLF,Zephyr Energy PLC,0.008999999612569809,True,2012.0,,,,,,,,,,
+109,ZEON,Zeons Corp,1.0,False,2010.0,,11-23,02-06,8.0,8.0,2.0,2.0,11-23,02-06,44.95835866320211
+110,ZEOOF,Zeon Corp,11.149999618530273,True,2018.0,,,,,,,,,,
+111,ZNTL,Zentalis Pharmaceuticals Inc,43.849998474121094,True,2020.0,,,,,,,,,,
+112,ZSHOF,Zensho Holdings Co Ltd,$10.50 ,True,,No data fetched for symbol ZSHOF using YahooDailyReader,,,,,,,,,
+113,ZNRNF,Zenrin Co Ltd,29.25,True,2019.0,,,,,,,,,,
+114,ZDEC,Zenovia Digital Exchange Corp,0.009499999694526196,True,2014.0,,,,,,,,,,
+115,ZENO,Zenosense Inc,0.013399999588727951,True,2014.0,,,,,,,,,,
+116,ZNKKY,ZENKOKU HOSHO Co Ltd,15.399999618530273,True,2017.0,,,,,,,,,,
+117,CANIF,Zenith Energy Ltd,$0.03 ,True,,No data fetched for symbol CANIF using YahooDailyReader,,,,,,,,,
+118,ZHCLF,Zenith Capital Corp,0.05999999865889549,True,2020.0,,,,,,,,,,
+119,BLSTF,Zenitas Healthcare Ltd,0.0949999988079071,True,2012.0,,,,,,,,,,
+120,ZEN,Zendesk Inc,127.47000122070312,True,2014.0,,,,,,,,,,
+121,ZBISF,Zenabis Global Inc,$0.06 ,True,,'Date',,,,,,,,,
+122,ZENYF,ZEN Graphene Solutions Ltd,1.2400000095367432,True,2012.0,,,,,,,,,,
+123,ZLTQ,ZELTIQ Aesthetics Inc,$56.48 ,True,,'Date',,,,,,,,,
+124,ZLDAF,Zelira Therapeutics Ltd,0.0485600009560585,True,2017.0,,,,,,,,,,
+125,AMOO,Zeecol International Inc,$0.03 ,True,,No data fetched for symbol AMOO using YahooDailyReader,,,,,,,,,
+126,ZDGE,Zedge Inc,$3.51 ,True,,'Date',,,,,,,,,
+127,CRFQF,Zedcor Inc,0.08699999749660492,True,2015.0,,,,,,,,,,
+128,ZMSPF,Zecotek Photonics Inc,0.0064500002190470695,False,2009.0,,12-12,02-25,2.0,2.0,9.0,9.0,12-12,02-25,7.711746944014661
+129,ZBRA,Zebra Technologies Corp,$336.29 ,True,,'Date',,,,,,,,,
+130,ZEAL,Zealand Pharma A/S,35.529998779296875,True,2017.0,,,,,,,,,,
+131,ZLDPF,Zealand Pharma A/S,36.0,True,2013.0,,,,,,,,,,
+132,ZCLCF,ZCL Composites Inc,$7.55 ,True,,No data fetched for symbol ZCLCF using YahooDailyReader,,,,,,,,,
+133,ZCCMF,ZCCM Investments Holdings PLC,$1.50 ,True,,No data fetched for symbol ZCCMF using YahooDailyReader,,,,,,,,,
+134,ZAZUF,Zazu Metals Corp,$0.23 ,True,,No data fetched for symbol ZAZUF using YahooDailyReader,,,,,,,,,
+135,ZAZA,ZaZa Energy Corp,0.007000000216066837,True,2012.0,,,,,,,,,,
+136,ZAYO,Zayo Group Holdings Inc,$34.99 ,True,,No data fetched for symbol ZAYO using YahooDailyReader,,,,,,,,,
+137,ZARFF,Zargon Oil & Gas Ltd,0.03999999910593033,False,2010.0,,11-16,01-30,2.0,2.0,8.0,8.0,11-16,01-30,-21.763671577066297
+138,ZRDZF,Zardoya Otis SA,9.59000015258789,True,2019.0,,,,,,,,,,
+139,ZAPNF,Zapf Creation AG,33.45249938964844,True,2017.0,,,,,,,,,,
+140,ZNAE,Zane Interactive Publishing Inc,0.010599999688565731,True,2012.0,,,,,,,,,,
+141,ZNGGF,Zanaga Iron Ore Co Ltd,0.11900000274181366,True,2019.0,,,,,,,,,,
+142,ZFPPF,Zambeef Products PLC,$0.07 ,True,,No data fetched for symbol ZFPPF using YahooDailyReader,,,,,,,,,
+143,ZMRK,Zalemark Holding Co Inc,0.007699999958276749,True,2013.0,,,,,,,,,,
+144,ZLNDY,Zalando SE,46.834999084472656,True,2015.0,,,,,,,,,,
+145,ZLDSF,Zalando SE,104.4749984741211,True,2015.0,,,,,,,,,,
+146,ZAIS,ZAIS Group Holdings Inc,4.090000152587891,True,2013.0,,,,,,,,,,
+147,ZLAB,Zai Lab Ltd,104.75,True,2017.0,,,,,,,,,,
+148,ZAGG,Zagg Inc,3.2300000190734863,False,2009.0,,05-14,07-28,5.0,5.0,6.0,6.0,05-14,07-28,8.972055620015519
+149,ZFGN,Zafgen Inc,$0.99 ,True,,No data fetched for symbol ZFGN using YahooDailyReader,,,,,,,,,
+150,ZADDF,Zadar Ventures Ltd,0.15000000596046448,True,2016.0,,,,,,,,,,
+151,ZAAG,ZA Group Inc,0.004999999888241291,True,2012.0,,,,,,,,,,
+152,YAHOY,Z Holdings Corp,11.682999610900879,False,2010.0,,05-22,08-05,8.0,8.0,2.0,2.0,05-22,08-05,7.370195946587187
+153,YAHOF,Z Holdings Corp,5.71999979019165,True,2014.0,,,,,,,,,,
+154,ZNRGF,Z Energy Ltd,1.7200000286102295,True,2016.0,,,,,,,,,,

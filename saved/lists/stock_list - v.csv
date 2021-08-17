@@ -1,0 +1,501 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,VZHGF,VZ Holding AG,84.80000305175781,True,2018.0,,,,,,,,,,
+1,VYST,Vystar Corp,0.04349999874830246,False,2010.0,,12-15,02-28,4.0,4.0,6.0,6.0,12-15,02-28,19.899652857517903
+2,VYND,Vynleads Inc,0.5,True,2020.0,,,,,,,,,,
+3,VYNE,VYNE Therapeutics Inc,1.6699999570846558,True,2020.0,,,,,,,,,,
+4,VYCO,Vycor Medical Inc,0.09000000357627869,True,2013.0,,,,,,,,,,
+5,VWR,VWR Corp,$33.25 ,True,,'Date',,,,,,,,,
+6,VWIN,VW Win Century Inc,$1.00 ,True,,No data fetched for symbol VWIN using YahooDailyReader,,,,,,,,,
+7,VVCVF,VVC Exploration Corp,0.05649799853563309,True,2012.0,,,,,,,,,,
+8,VUZI,Vuzix Corporation,3.880000114440918,False,2010.0,,05-01,07-15,5.0,5.0,5.0,5.0,05-01,07-15,8.36920388573874
+9,VUME,VuMee Inc,0.03999999910593033,True,2012.0,,,,,,,,,,
+10,VULMF,Vulcan Minerals Inc,0.05979999899864197,False,2009.0,,07-23,10-06,2.0,2.0,9.0,9.0,07-23,10-06,5.3652001645370415
+11,VMC,Vulcan Materials Co,139.38999938964844,False,2009.0,,10-24,01-07,6.0,6.0,5.0,5.0,10-21,01-04,8.825522775867073
+12,VULC,Vulcan International Corp,150.0,False,2009.0,,09-18,12-02,6.0,6.0,5.0,5.0,09-18,12-02,4.303596031337906
+13,VKPPF,Vukile Property Fund Ltd,$1.36 ,True,,No data fetched for symbol VKPPF using YahooDailyReader,,,,,,,,,
+14,VTVT,vTv Therapeutics Inc,1.9299999475479126,True,2015.0,,,,,,,,,,
+15,VTTI,VTTI Energy Partners LP,$19.50 ,True,,'Date',,,,,,,,,
+16,VWLTF,Vtion Wireless Technology AG,$3.27 ,True,,No data fetched for symbol VWLTF using YahooDailyReader,,,,,,,,,
+17,VTGBF,VTG AG,$25.06 ,True,,No data fetched for symbol VTGBF using YahooDailyReader,,,,,,,,,
+18,VTKLY,VTech Holdings Ltd,7.659999847412109,True,2011.0,,,,,,,,,,
+19,VTKLF,VTech Holdings Ltd,6.929999828338623,True,2012.0,,,,,,,,,,
+20,VSTHY,VSTECS Holdings Ltd,14.069999694824219,True,2018.0,,,,,,,,,,
+21,VSTHF,VSTECS Holdings Ltd,$0.40 ,True,,No data fetched for symbol VSTHF using YahooDailyReader,,,,,,,,,
+22,VSEC,VSE Corp,35.5,False,2009.0,,10-24,01-07,6.0,6.0,5.0,5.0,09-01,11-15,6.577585773465913
+23,VSBGF,VSBLTY Groupe Technologies Corp,0.13369999825954437,True,2019.0,,,,,,,,,,
+24,VSBN,VSB Bancorp Inc,20.25,False,2009.0,,08-28,11-11,8.0,8.0,3.0,3.0,03-21,06-04,3.9654815913263466
+25,VRM,Vroom Inc,36.47999954223633,True,2020.0,,,,,,,,,,
+26,VRDT,VRDT Corp,$0.46 ,True,,'Date',,,,,,,,,
+27,VRPMF,Vranken Pommery Monopole,$32.00 ,True,,No data fetched for symbol VRPMF using YahooDailyReader,,,,,,,,,
+28,VRRCF,VR Resources Ltd,0.20739999413490295,True,2018.0,,,,,,,,,,
+29,VRHD,VR Holdings Inc,1.5,True,2019.0,,,,,,,,,,
+30,VPRB,VPR Brands LP,0.019999999552965164,True,2014.0,,,,,,,,,,
+31,SRBBF,VPN Technologies Inc,0.07010000199079514,True,2018.0,,,,,,,,,,
+32,VIH,VPC Impact Acquisition Holdings,10.199999809265137,False,2009.0,,03-01,05-15,4.0,4.0,3.0,3.0,03-01,05-15,7.168619922651407
+33,VUPPF,VP Bank AG,131.25,True,2012.0,,,,,,,,,,
+34,BKVZY,Vozrozhdenie Bank,$7.00 ,True,,No data fetched for symbol BKVZY using YahooDailyReader,,,,,,,,,
+35,VYYRF,Voyageur Pharmaceuticals Ltd,0.03017999976873398,True,2017.0,,,,,,,,,,
+36,CPEFF,Voyageur Mineral Explorers Corp,0.2533000111579895,True,2018.0,,,,,,,,,,
+37,VYGR,Voyager Therapeutics Inc,8.329999923706055,True,2015.0,,,,,,,,,,
+38,VYGVF,Voyager Digital Ltd,0.8324999809265137,True,2014.0,,,,,,,,,,
+39,PPR,Voya Prime Rate Trust,4.409999847412109,False,2009.0,,12-14,02-27,7.0,7.0,4.0,4.0,12-14,02-27,4.177322773526641
+40,IRR,Voya Natural Resources Equity Income Fund,2.5799999237060547,False,2009.0,,01-22,04-06,8.0,8.0,3.0,3.0,01-15,03-30,-4.646980727267204
+41,IID,Voya International High Dividend Equity Income Fun,4.480000019073486,False,2009.0,,02-05,04-20,6.0,6.0,5.0,5.0,02-16,05-01,2.8868232157483256
+42,IDE,"Voya Infrastructure, Industrials and Materials Fun",10.270000457763672,False,2010.0,,12-10,02-23,7.0,7.0,3.0,3.0,10-15,12-29,2.1340713507030844
+43,IGD,Voya Global Equity Dividend and Premium Opportunit,5.079999923706055,False,2009.0,,02-11,04-26,9.0,6.0,2.0,5.0,02-16,05-01,2.31312459876683
+44,IGA,Voya Global Advantage and Premium Opportunity Fund,8.539999961853027,False,2009.0,,05-14,07-28,7.0,7.0,4.0,4.0,10-15,12-29,1.9746271018098167
+45,VOYA,Voya Financial Inc,57.34000015258789,True,2013.0,,,,,,,,,,
+46,IHD,Voya Emerging Markets High Dividend Equity Fund,7.309999942779541,True,2011.0,,,,,,,,,,
+47,IAE,Voya Asia Pacific High Dividend Equity Income Fund,8.420000076293945,False,2009.0,,08-26,11-09,5.0,5.0,6.0,6.0,07-08,09-21,2.6414501262486367
+48,VOXX,VOXX International Corp,11.579999923706055,False,2009.0,,02-02,04-17,6.0,6.0,5.0,5.0,02-02,04-17,5.8218226721335276
+49,VJET,voxeljet AG,12.220000267028809,True,2013.0,,,,,,,,,,
+50,VOXR,Voxcorp Inc,$0.51 ,True,,'Date',,,,,,,,,
+51,VOXCF,Vox Royalty Corp,1.8282599449157715,True,2020.0,,,,,,,,,,
+52,SSHPF,Vow ASA,3.4000000953674316,True,2019.0,,,,,,,,,,
+53,VOSSY,Vossloh AG,4.199999809265137,True,2012.0,,,,,,,,,,
+54,VOSSF,Vossloh AG,41.029998779296875,True,2012.0,,,,,,,,,,
+55,VNO,Vornado Realty Trust,39.93000030517578,False,2009.0,,10-20,01-03,7.0,6.0,4.0,5.0,11-12,01-26,3.9482536743909606
+56,VONHF,Vontobel Holding AG,53.599998474121094,True,2019.0,,,,,,,,,,
+57,VNT,Vontier Corp,31.18000030517578,True,2020.0,,,,,,,,,,
+58,VONOY,Vonovia SE,34.470001220703125,True,2020.0,,,,,,,,,,
+59,VNNVF,Vonovia SE,68.18000030517578,True,2013.0,,,,,,,,,,
+60,VG,Vonage Holdings Corp,13.020000457763672,False,2009.0,,06-11,08-25,7.0,7.0,4.0,4.0,06-11,08-25,10.116584471399355
+61,VOMT,Vomart International Auto Parts Inc,$0.35 ,True,,No data fetched for symbol VOMT using YahooDailyReader,,,,,,,,,
+62,VOLVY,Volvo AB,$8.72 ,True,,'Date',,,,,,,,,
+63,VOLVF,Volvo AB,23.299999237060547,False,2009.0,,03-14,05-28,8.0,8.0,3.0,3.0,01-20,04-04,5.643918307988923
+64,VOLAF,Volvo AB,20.899999618530273,False,2010.0,,03-23,06-06,5.0,5.0,5.0,5.0,02-13,04-28,3.0262360982062906
+65,VLVLY,Volvo AB,23.219999313354492,True,2018.0,,,,,,,,,,
+66,VLUTF,Volution Group PLC,$2.13 ,True,,No data fetched for symbol VLUTF using YahooDailyReader,,,,,,,,,
+67,VLTC,Voltari Corp,$0.81 ,True,,No data fetched for symbol VLTC using YahooDailyReader,,,,,,,,,
+68,VLTAF,Voltalia SA,21.5,True,2020.0,,,,,,,,,,
+69,ENJLY,Volt Power Group Ltd,$1.94 ,True,,No data fetched for symbol ENJLY using YahooDailyReader,,,,,,,,,
+70,VOLT,Volt Information Sciences Inc,1.649999976158142,False,2009.0,,11-19,02-02,5.0,5.0,6.0,6.0,11-19,02-02,11.018582942343755
+71,VPAHF,Volpara Health Technologies Ltd,0.9800000190734863,True,2018.0,,,,,,,,,,
+72,VWAPY,Volkswagen AG,17.959999084472656,True,2012.0,,,,,,,,,,
+73,VLKPF,Volkswagen AG,178.5,False,2010.0,,10-11,12-25,5.0,5.0,5.0,5.0,10-11,12-25,11.335446213495604
+74,VWAGY,Volkswagen AG,19.219999313354492,True,2019.0,,,,,,,,,,
+75,VLKAF,Volkswagen AG,192.75,False,2010.0,,10-11,12-25,5.0,5.0,5.0,5.0,10-11,12-25,10.17348945703914
+76,VNRX,VolitionRX Ltd,3.569999933242798,True,2012.0,,,,,,,,,,
+77,VLXGF,Volex PLC,2.150599956512451,True,2012.0,,,,,,,,,,
+78,VLEOF,Voleo Trading Systems Inc,0.11760000139474869,True,2012.0,,,,,,,,,,
+79,VLMZF,Volcanic Gold Mines Inc,0.3449999988079071,True,2014.0,,,,,,,,,,
+80,VOHO,Volcan Holdings Inc,0.019999999552965164,True,2012.0,,,,,,,,,,
+81,VCANF,Volcan Compania Minera SAA,0.6255199909210205,True,2013.0,,,,,,,,,,
+82,VPLM,Voip-Pal.com Inc,0.01334999967366457,False,2010.0,,12-20,03-05,6.0,6.0,4.0,4.0,12-20,03-05,21.281661270237397
+83,VMII,Voice Mobility International Inc,0.02500000037252903,True,2012.0,,,,,,,,,,
+84,VSST,Voice Assist Inc,0.00800000037997961,True,2012.0,,,,,,,,,,
+85,VLPNY,voestalpine AG,6.0,False,2010.0,,09-26,12-10,5.0,5.0,5.0,5.0,09-26,12-10,5.406609847659173
+86,VLPNF,voestalpine AG,30.0,False,2009.0,,05-02,07-16,4.0,4.0,5.0,5.0,05-02,07-16,3.829596870747528
+87,VDKB,Vodka Brands Corp,1.024999976158142,True,2016.0,,,,,,,,,,
+88,VDQSF,Vodis Pharmaceuticals Inc,0.04390000179409981,True,2015.0,,,,,,,,,,
+89,VODPF,Vodafone Group PLC,1.6299999952316284,False,2009.0,,10-01,12-15,2.0,2.0,9.0,9.0,06-15,08-29,3.6936719741691344
+90,VOD,Vodafone Group PLC,16.469999313354492,False,2009.0,,05-20,08-03,3.0,3.0,8.0,8.0,06-15,08-29,3.2873359790870484
+91,VODAF,Vodacom Group Ltd,7.949999809265137,True,2012.0,,,,,,,,,,
+92,VDMCY,Vodacom Group Ltd,8.039999961853027,True,2012.0,,,,,,,,,,
+93,VCMMF,Vocus Group Ltd,2.8499999046325684,True,2016.0,,,,,,,,,,
+94,VCRA,Vocera Communications Inc,33.38999938964844,True,2012.0,,,,,,,,,,
+95,VOC,VOC Energy Trust,2.009999990463257,True,2011.0,,,,,,,,,,
+96,VOBIF,Vobile Group Ltd,1.5099999904632568,True,2019.0,,,,,,,,,,
+97,VSTKF,VNV Global AB,5.538300037384033,True,2019.0,,,,,,,,,,
+99,VMW,VMware Inc,147.8000030517578,False,2009.0,,03-06,05-20,5.0,5.0,6.0,6.0,03-06,05-20,9.900464971442874
+100,VMOTF,Vmoto Ltd,$0.03 ,True,,No data fetched for symbol VMOTF using YahooDailyReader,,,,,,,,,
+101,VIZSF,Vizsla Resources Corp,1.0928000211715698,True,2019.0,,,,,,,,,,
+102,VXSYF,ViXS Systems Inc,$0.21 ,True,,No data fetched for symbol VXSYF using YahooDailyReader,,,,,,,,,
+103,VVUSQ,VIVUS Inc,0.10000000149011612,False,2009.0,,03-29,06-12,4.0,4.0,7.0,7.0,03-29,06-12,13.989476308491659
+104,RDGL,Vivos Inc,0.02800000086426735,False,2009.0,,11-13,01-27,3.0,3.0,7.0,7.0,11-13,01-27,-8.067841470876122
+105,PRBGF,Vivoryon Therapeutics AG,$5.95 ,True,,No data fetched for symbol PRBGF using YahooDailyReader,,,,,,,,,
+106,VVPR,Vivopower International PLC,9.430000305175781,True,2015.0,,,,,,,,,,
+107,VVCIF,VIVO Cannabis Inc,0.09399999678134918,True,2018.0,,,,,,,,,,
+108,PCPAF,Vivione Biosciences Inc,$0.01 ,True,,No data fetched for symbol PCPAF using YahooDailyReader,,,,,,,,,
+109,VSLR,Vivint Solar Inc,43.08000183105469,True,2014.0,,,,,,,,,,
+110,VVNT,Vivint Smart Home Inc,21.0,True,2017.0,,,,,,,,,,
+111,VVDL,Vivid Learning Systems,0.30000001192092896,True,2012.0,,,,,,,,,,
+112,VCII,ViviCells International Inc,0.026499999687075615,False,2009.0,,08-29,11-12,3.0,3.0,8.0,8.0,08-29,11-12,13.817808206903909
+113,VIVC,Vivic Corp,2.4000000953674316,True,2018.0,,,,,,,,,,
+114,VVIL,Vivial Inc,$10.00 ,True,,No data fetched for symbol VVIL using YahooDailyReader,,,,,,,,,
+115,VIVE,Viveve Medical Inc,0.503000020980835,False,2010.0,,12-26,03-11,4.0,4.0,6.0,6.0,12-26,03-11,12.250509088186908
+116,VIVHY,Vivendi SA,30.170000076293945,True,2011.0,,,,,,,,,,
+117,VIVEF,Vivendi SA,30.5,False,2009.0,,05-30,08-13,4.0,3.0,7.0,8.0,07-11,09-24,6.036522400250379
+118,VAM,Vivaldi Opportunities Fund,$11.04 ,True,,No data fetched for symbol VAM using YahooDailyReader,,,,,,,,,
+119,VIVK,Vivakor Inc,0.46950000524520874,False,2009.0,,12-30,03-15,5.0,5.0,6.0,6.0,12-30,03-15,-7.249640988698771
+120,VAUCF,Viva Gold Corp,0.1850000023841858,True,2018.0,,,,,,,,,,
+121,VIVAF,Viva China Holdings Ltd,$0.10 ,True,,No data fetched for symbol VIVAF using YahooDailyReader,,,,,,,,,
+122,VBIZF,Viva Biotech Holdings,1.0,True,2019.0,,,,,,,,,,
+123,VTRU,Vitru Ltd,13.899999618530273,True,2020.0,,,,,,,,,,
+124,VTRLY,Vitrolife AB,26.109399795532227,True,2016.0,,,,,,,,,,
+125,VITIF,Vitrolife AB,$19.40 ,True,,No data fetched for symbol VITIF using YahooDailyReader,,,,,,,,,
+126,VITOF,Vitro SAB de CV,1.2300000190734863,True,2012.0,,,,,,,,,,
+127,VODG,Vitro Diagnostics Inc,0.4000000059604645,False,2009.0,,05-27,08-10,4.0,4.0,7.0,7.0,05-27,08-10,20.760005723886906
+128,VCIGF,Vitreous Glass Inc,2.800100088119507,True,2017.0,,,,,,,,,,
+129,VTEPY,Vitec Group (The) PLC,$19.50 ,True,,No data fetched for symbol VTEPY using YahooDailyReader,,,,,,,,,
+130,VTEPF,Vitec Group (The) PLC,11.649999618530273,True,2013.0,,,,,,,,,,
+131,VXEL,Vitaxel Group Ltd,0.03200000151991844,True,2016.0,,,,,,,,,,
+132,VSBC,VitaSpring Biomedical Co Ltd,10.899999618530273,True,2019.0,,,,,,,,,,
+133,VTSYF,Vitasoy International Holdings Ltd,4.28000020980835,False,2010.0,,08-29,11-12,7.0,7.0,3.0,3.0,08-29,11-12,9.275497077583738
+134,VPRIF,Vitality Products Inc,0.08940000087022781,True,2018.0,,,,,,,,,,
+135,VBIO,Vitality Biopharma Inc,0.12999999523162842,True,2012.0,,,,,,,,,,
+136,VTMXF,Vital Metals Ltd,0.014999999664723873,True,2020.0,,,,,,,,,,
+137,VKSKF,Vital KSK Holdings Inc,9.199999809265137,True,2019.0,,,,,,,,,,
+138,VITL,Vital Farms Inc,29.760000228881836,True,2020.0,,,,,,,,,,
+139,SNYXF,Vital Energy Inc,$0.08 ,True,,No data fetched for symbol SNYXF using YahooDailyReader,,,,,,,,,
+140,VTAE,Vitae Pharmaceuticals Inc,$21.00 ,True,,'Date',,,,,,,,,
+141,VTIAF,Vita 34 AG,13.86240005493164,True,2020.0,,,,,,,,,,
+142,VMAN,Visual Management Sciences Inc,$0.01 ,True,,'Date',,,,,,,,,
+143,BVHMF,Vistry Group PLC,10.050000190734863,True,2012.0,,,,,,,,,,
+144,VST,Vistra Corp,18.200000762939453,True,2016.0,,,,,,,,,,
+145,VC,Visteon Corp,114.91000366210938,False,2010.0,,10-10,12-24,6.0,5.0,4.0,5.0,10-10,12-24,7.593395766042183
+146,VMAC,Vistas Media Acquisition Co Inc,9.850000381469727,True,2020.0,,,,,,,,,,
+147,VTGN,VistaGen Therapeutics Inc,0.7103999853134155,True,2011.0,,,,,,,,,,
+148,VSTO,Vista Outdoor Inc,20.989999771118164,True,2015.0,,,,,,,,,,
+149,VIST,Vista Oil & Gas SAB de CV,2.440000057220459,True,2019.0,,,,,,,,,,
+150,VGZ,Vista Gold Corp,0.9922999739646912,False,2009.0,,12-21,03-06,8.0,8.0,3.0,3.0,12-21,03-06,12.453715342767662
+151,VISL,Vislink Technologies Inc,1.2999999523162842,True,2012.0,,,,,,,,,,
+152,VKSC,Viskase Companies Inc,1.159999966621399,False,2009.0,,02-21,05-06,6.0,6.0,5.0,5.0,02-21,05-06,7.944289732001897
+153,VSSSF,Visionstate Corp,0.027000000700354576,True,2018.0,,,,,,,,,,
+154,VISN,VisionChina Media Inc,0.08699999749660492,True,2018.0,,,,,,,,,,
+155,VSTCQ,Vision Technology Corp,0.010599999688565731,False,2009.0,,04-02,06-16,3.0,3.0,8.0,8.0,04-02,06-16,51.89583352944464
+156,ABEPF,Vision Lithium Inc,0.021199999377131462,True,2012.0,,,,,,,,,,
+157,VIHD,Vision Hydrogen Corp,4.550000190734863,True,2020.0,,,,,,,,,,
+158,VSFFF,Vision Fame International Holding Ltd,$0.84 ,True,,No data fetched for symbol VSFFF using YahooDailyReader,,,,,,,,,
+159,VGMIF,Visible Gold Mines Inc,0.18850000202655792,False,2010.0,,05-25,08-08,4.0,4.0,6.0,6.0,05-25,08-08,5.4737942738321514
+160,VCOR,Visiber57 Corp,1.0,True,2016.0,,,,,,,,,,
+161,VPG,Vishay Precision Group Inc,28.850000381469727,False,2010.0,,09-19,12-03,5.0,5.0,5.0,5.0,09-19,12-03,5.517155271728438
+162,VSH,Vishay Intertechnology Inc,18.329999923706055,False,2009.0,,10-11,12-25,7.0,7.0,4.0,4.0,10-10,12-24,8.995718266069114
+163,VLMGF,Viscount Mining Corp,0.3449999988079071,True,2015.0,,,,,,,,,,
+164,VSCFF,Viscofan SA,$60.03 ,True,,No data fetched for symbol VSCFF using YahooDailyReader,,,,,,,,,
+165,V,Visa Inc,203.8800048828125,False,2009.0,,05-15,07-29,9.0,9.0,2.0,2.0,05-15,07-29,6.0045480369059145
+166,VRTU,Virtusa Corp,50.02000045776367,False,2009.0,,08-10,10-24,7.0,7.0,4.0,4.0,08-10,10-24,8.016475002948246
+167,VOIL,Virtus Oil & Gas Corp,$0.03 ,True,,No data fetched for symbol VOIL using YahooDailyReader,,,,,,,,,
+168,VRTS,Virtus Investment Partners Inc,178.75,False,2009.0,,09-29,12-13,6.0,6.0,5.0,5.0,09-29,12-13,12.36954374714071
+169,VGI,Virtus Global Multi-Sector Inc,11.300000190734863,True,2012.0,,,,,,,,,,
+170,VSCP,VirtualScopics Inc,$4.04 ,True,,'Date',,,,,,,,,
+171,VTLR,VirtualArmour International Inc,0.018300000578165054,True,2018.0,,,,,,,,,,
+172,QEBR,Virtual Medical International Inc,0.3725000023841858,True,2012.0,,,,,,,,,,
+173,VRVR,Virtual Interactive Technologies Corp,2.009999990463257,True,2019.0,,,,,,,,,,
+174,VIRT,Virtu Financial Inc,22.56999969482422,True,2015.0,,,,,,,,,,
+175,VTSI,VirTra Inc,4.070000171661377,True,2012.0,,,,,,,,,,
+176,VHC,VirnetX Holding Corp,5.3400001525878915,False,2009.0,,03-20,06-03,7.0,7.0,4.0,4.0,03-20,06-03,15.426093701195756
+177,VRDSF,Viridis Holdings Corp,0.05590000003576279,True,2012.0,,,,,,,,,,
+178,PTRS,Virginia Partners Bk Fredericksburg VA,5.929999828338623,True,2017.0,,,,,,,,,,
+179,VABK,Virginia National Bankshares Corp,25.200000762939453,False,2009.0,,11-01,01-15,8.0,8.0,3.0,3.0,04-21,07-05,5.647936487295426
+180,VEGYF,Virginia Energy Resources Inc,0.06750000268220901,True,2012.0,,,,,,,,,,
+181,VCBS,Virginia Community B,$59.60 ,True,,No data fetched for symbol VCBS using YahooDailyReader,,,,,,,,,
+182,VABB,Virginia Bank Bancshares Inc,13.260000228881836,True,2012.0,,,,,,,,,,
+183,CYBBF,Virgin Money UK PLC,1.2300000190734863,True,2016.0,,,,,,,,,,
+184,CBBYF,Virgin Money UK PLC,1.2400000095367432,True,2016.0,,,,,,,,,,
+185,VRGDF,Virgin Money Holdings (UK) PLC,$5.19 ,True,,No data fetched for symbol VRGDF using YahooDailyReader,,,,,,,,,
+186,SPCE,Virgin Galactic Holdings Inc,23.309999465942383,True,2017.0,,,,,,,,,,
+187,VBHLF,Virgin Australia Holdings Ltd,0.15000000596046448,False,2010.0,,08-24,11-07,3.0,3.0,7.0,7.0,08-24,11-07,7.96967036081086
+188,VA,Virgin America Inc,$56.98 ,True,,'Date',,,,,,,,,
+189,VREOF,Vireo Health International Inc,1.149999976158142,True,2019.0,,,,,,,,,,
+190,VIRC,Virco Manufacturing Corp,2.240000009536743,False,2009.0,,09-24,12-08,7.0,7.0,4.0,4.0,09-24,12-08,2.9247949148164927
+191,VRBCF,Virbac SA,244.0,True,2013.0,,,,,,,,,,
+192,VRACY,Viralytics Ltd,3.75,True,2012.0,,,,,,,,,,
+193,VIR,Vir Biotechnology Inc,29.020000457763672,True,2019.0,,,,,,,,,,
+194,VQSLF,VIQ Solutions Inc,3.2100000381469727,True,2012.0,,,,,,,,,,
+195,VIPS,Vipshop Holdings Ltd,24.239999771118164,True,2012.0,,,,,,,,,,
+196,VIPR,VIPR Industries Inc,$0.05 ,True,,'Date',,,,,,,,,
+197,VNOM,Viper Energy Partners LP,10.100000381469727,True,2014.0,,,,,,,,,,
+198,VIOSF,Viosolar Inc,$0.18 ,True,,No data fetched for symbol VIOSF using YahooDailyReader,,,,,,,,,
+199,VOQP,VioQuest Pharmaceuticals Inc,0.017000000923871994,False,2009.0,,02-15,04-30,6.0,6.0,5.0,5.0,02-15,04-30,3.5658353517647385
+200,VIOT,Viomi Technology Co Ltd,6.130000114440918,True,2018.0,,,,,,,,,,
+201,VMEMQ,Violin Memory Inc,$0.01 ,True,,'Date',,,,,,,,,
+202,VYTPF,Vinythai PCL,0.7599999904632568,True,2018.0,,,,,,,,,,
+203,NDYN,Vinings Holdings Inc,0.18000000715255737,False,2009.0,,10-24,01-07,3.0,3.0,8.0,8.0,10-24,01-07,1.1890882504074043
+204,VNNYF,Vinergy Cannabis Capital Inc,0.014999999664723873,True,2017.0,,,,,,,,,,
+205,VINS,Vindicator Silver Lead Mining Co,0.25,False,2009.0,,08-14,10-28,1.0,1.0,10.0,10.0,08-14,10-28,14.625729887183526
+206,VDAHY,Vinda International Holdings Ltd,31.010000228881836,True,2012.0,,,,,,,,,,
+207,VDAHF,Vinda International Holdings Ltd,2.7899999618530273,True,2013.0,,,,,,,,,,
+208,BBIG,Vinco Ventures Inc,1.4600000381469727,True,2020.0,,,,,,,,,,
+209,VCISY,Vinci SA,25.540000915527344,False,2009.0,,03-23,06-06,8.0,8.0,3.0,3.0,03-23,06-06,5.031611860987064
+210,VCISF,Vinci SA,103.2300033569336,False,2009.0,,11-17,01-31,7.0,7.0,4.0,4.0,11-17,01-31,5.66364654548082
+211,VNCE,Vince Holding Corp,5.449999809265137,True,2013.0,,,,,,,,,,
+212,VCOYY,Vina Concha Y Toro SA,39.47999954223633,True,2009.0,,,,,,,,,,
+213,VMRSF,Vimy Resources Ltd,0.23000000417232513,True,2020.0,,,,,,,,,,
+214,VIMC,Vimicro International Corp,0.1899999976158142,True,2019.0,,,,,,,,,,
+215,VLGEA,Village Super Market Inc,23.579999923706055,False,2009.0,,09-19,12-03,5.0,5.0,6.0,6.0,09-19,12-03,5.591938166793871
+216,VLRDY,Village Roadshow Ltd,19.209999084472656,True,2019.0,,,,,,,,,,
+217,VLRDF,Village Roadshow Ltd,1.899999976158142,True,2012.0,,,,,,,,,,
+218,VFF,Village Farms International Inc,7.989999771118164,True,2019.0,,,,,,,,,,
+219,VBFC,Village Bank and Trust Financial Corp,31.989999771118164,False,2009.0,,11-12,01-26,8.0,8.0,3.0,3.0,11-12,01-26,9.571250369617694
+220,VKTX,Viking Therapeutics Inc,6.309999942779541,True,2015.0,,,,,,,,,,
+221,VGCEF,Viking Gold Exploration Inc,$0.01 ,True,,'Date',,,,,,,,,
+222,VKIN,Viking Energy Group Inc,0.12999999523162842,False,2009.0,,09-07,11-21,6.0,6.0,5.0,5.0,09-07,11-21,11.979321420261787
+223,VIGLF,Vigil Health Solutions Inc,0.27000001072883606,True,2018.0,,,,,,,,,,
+224,GNHAY,Vifor Pharma AG,29.625,True,2015.0,,,,,,,,,,
+225,GNHAF,Vifor Pharma AG,125.37999725341797,False,2010.0,,04-30,07-14,1.0,1.0,6.0,6.0,05-12,07-26,13.66873094284601
+226,VRAY,ViewRay Inc,3.7300000190734863,True,2015.0,,,,,,,,,,
+227,VBIX,ViewBix Inc,0.02500000037252903,True,2012.0,,,,,,,,,,
+228,VTNMF,Vietnam Manufacturing and Export Processing (Holdi,$0.05 ,True,,No data fetched for symbol VTNMF using YahooDailyReader,,,,,,,,,
+229,VNMHF,VietNam Holding Ltd,2.0999999046325684,True,2012.0,,,,,,,,,,
+230,VIAAY,Vienna International Airport,5.5,False,2010.0,,10-16,12-30,4.0,4.0,6.0,6.0,10-16,12-30,9.046339738899624
+231,FGWLF,Vienna International Airport,31.39550018310547,True,2014.0,,,,,,,,,,
+232,VNRGF,Vienna Insurance Group AG,22.600000381469727,True,2017.0,,,,,,,,,,
+233,VNRFY,Vienna Insurance Group AG,4.400000095367432,False,2010.0,,11-10,01-24,6.0,6.0,4.0,4.0,11-10,01-24,3.0823331335395654
+234,VMD,Viemed Healthcare Inc,9.15999984741211,True,2019.0,,,,,,,,,,
+235,VIE,Viela Bio Inc,34.97999954223633,True,2019.0,,,,,,,,,,
+236,VDRFF,Vidrala SA,109.12930297851562,True,2020.0,,,,,,,,,,
+237,VDTH,Videocon d2h Ltd,8.489999771118164,True,2015.0,,,,,,,,,,
+238,NIHK,Video River Networks Inc,0.008999999612569809,False,2009.0,,12-26,03-11,6.0,6.0,5.0,5.0,12-26,03-11,20.77233577530645
+239,VIDE,Video Display Corp,1.2599999904632568,False,2009.0,,08-13,10-27,4.0,4.0,7.0,7.0,08-13,10-27,0.7060157258074916
+240,VTXPF,Victrex PLC,27.25,True,2013.0,,,,,,,,,,
+241,VSQTF,Victory Square Technologies Inc,0.3231000006198883,True,2016.0,,,,,,,,,,
+242,VRCFF,Victory Resources Corp,0.10000000149011612,False,2009.0,,11-09,01-23,2.0,2.0,9.0,9.0,11-09,01-23,5.869839422841379
+243,VYEY,Victory Oilfield Tech Inc,0.1899999976158142,True,2012.0,,,,,,,,,,
+244,VNCKF,Victory Nickel Inc,0.020099999383091927,False,2010.0,,12-19,03-04,8.0,8.0,2.0,2.0,12-19,03-04,16.44926240868588
+245,NGEMF,Victory Mountain Ventures Ltd,$0.01 ,True,,No data fetched for symbol NGEMF using YahooDailyReader,,,,,,,,,
+246,VKMTF,Victory Metals Inc,0.4535999894142151,True,2019.0,,,,,,,,,,
+247,VCTR,Victory Capital Holdings Inc,18.389999389648438,True,2018.0,,,,,,,,,,
+248,VTYB,Victory Bancorp Inc,9.5,True,2018.0,,,,,,,,,,
+249,VCOGF,Victoria Oil & Gas PLC,0.029999999329447746,True,2012.0,,,,,,,,,,
+250,VITFF,Victoria Gold Corp,9.130000114440918,False,2009.0,,12-12,02-25,6.0,6.0,5.0,5.0,12-12,02-25,14.964206887648963
+251,VMTG,Victor Mining Industry Group Inc,0.05999999865889549,True,2012.0,,,,,,,,,,
+252,VICR,Vicor Corp,82.0199966430664,False,2009.0,,06-21,09-04,5.0,5.0,6.0,6.0,06-21,09-04,5.3708727544870065
+253,VCON,Vicon Industries Inc,13.119999885559082,False,2009.0,,08-19,11-02,3.0,3.0,8.0,8.0,08-19,11-02,0.9330404729021918
+254,CNRAF,Vicinity Centres,1.2599999904632568,True,2012.0,,,,,,,,,,
+255,VICI,VICI Properties Inc,25.8700008392334,True,2018.0,,,,,,,,,,
+256,SDCVF,Vicat SA,40.45000076293945,True,2020.0,,,,,,,,,,
+257,VICP,Vicapsys Life Sciences Inc,1.5,True,2012.0,,,,,,,,,,
+258,VBRCF,VibroPower Corp Ltd,0.1599999964237213,True,2019.0,,,,,,,,,,
+259,VBSCF,Vibe Growth Corp,0.5078999996185303,True,2019.0,,,,,,,,,,
+260,VIBVY,VIB Vermoegen AG,33.349998474121094,True,2015.0,,,,,,,,,,
+261,VVDB,Viavid Broadcasting Inc,0.012500000186264515,True,2012.0,,,,,,,,,,
+262,VIAV,Viavi Solutions Inc,13.6850004196167,False,2009.0,,01-30,04-14,10.0,10.0,1.0,1.0,01-30,04-14,10.652833963045012
+263,VTRS,Viatris Inc,17.42180061340332,False,2009.0,,10-22,01-05,8.0,8.0,3.0,3.0,10-22,01-05,9.541596710059144
+264,VRTT,Viatar CTC Solutions Inc,0.012500000186264515,True,2015.0,,,,,,,,,,
+265,VGREF,Viaspace Green Energy Inc,0.8400999903678894,False,2010.0,,12-01,02-14,3.0,3.0,7.0,7.0,12-01,02-14,4.024469630080272
+266,VSAT,Viasat Inc,34.75,False,2009.0,,08-28,11-11,6.0,6.0,5.0,5.0,08-28,11-11,5.8336854388836334
+267,VVI,Viad Corp,29.229999542236328,False,2009.0,,11-09,01-23,6.0,6.0,5.0,5.0,11-09,01-23,7.638821611650429
+268,VIACA,ViacomCBS Inc,35.38999938964844,True,2019.0,,,,,,,,,,
+269,VIAC,ViacomCBS Inc,33.9900016784668,True,2019.0,,,,,,,,,,
+270,VBVT,Viabuilt Ventures Inc,0.10100000351667404,True,2015.0,,,,,,,,,,
+271,GBXPY,Via Varejo SA,3.213599920272827,True,2012.0,,,,,,,,,,
+272,GBXPF,Via Varejo SA,$3.40 ,True,,No data fetched for symbol GBXPF using YahooDailyReader,,,,,,,,,
+273,VIAO,VIA optronics AG,11.5,True,2020.0,,,,,,,,,,
+274,VGRBF,Vgrab Communications Inc,0.5595999956130981,True,2013.0,,,,,,,,,,
+275,VGPBF,VGP SA,133.25,True,2020.0,,,,,,,,,,
+276,VGGMF,VGI PCL,$0.16 ,True,,No data fetched for symbol VGGMF using YahooDailyReader,,,,,,,,,
+277,VGLS,VG Life Sciences Inc,0.014949999749660492,True,2013.0,,,,,,,,,,
+278,VFC,VF Corp,84.87000274658203,False,2009.0,,05-20,08-03,8.0,7.0,3.0,4.0,05-20,08-03,7.670561383543166
+279,VEXTF,Vext Science Inc,0.3199999928474426,True,2019.0,,,,,,,,,,
+280,VXMFF,Vexim,$23.67 ,True,,No data fetched for symbol VXMFF using YahooDailyReader,,,,,,,,,
+281,VETOF,Vetoquinol SA,$55.53 ,True,,No data fetched for symbol VETOF using YahooDailyReader,,,,,,,,,
+282,VTNA,VetaNova Inc,0.07509999722242355,False,2009.0,,07-19,10-02,2.0,2.0,9.0,9.0,07-19,10-02,24.265843295197925
+283,CKSNY,Vesuvius PLC,4.570000171661377,True,2012.0,,,,,,,,,,
+284,CKSNF,Vesuvius PLC,5.449999809265137,True,2011.0,,,,,,,,,,
+285,VRTB,Vestin Realty Mortgage II Inc,760.0,True,2017.0,,,,,,,,,,
+286,VRTA,Vestin Realty Mortgage I Inc,1.5499999523162842,False,2009.0,,03-19,06-02,4.0,4.0,7.0,7.0,03-19,06-02,17.98842265077605
+287,VWSYF,Vestas Wind Systems A/S,196.4499969482422,False,2009.0,,02-08,04-23,7.0,7.0,4.0,4.0,02-08,04-23,7.345479982155031
+288,VWDRY,Vestas Wind Systems A/S,66.11000061035156,False,2009.0,,03-09,05-23,7.0,7.0,4.0,4.0,02-04,04-19,6.482920375981604
+289,VRAHF,Verusa Holding AS,2.930490016937256,True,2019.0,,,,,,,,,,
+290,VERU,Veru Inc,3.0399999618530273,False,2009.0,,11-01,01-15,6.0,6.0,5.0,5.0,11-01,01-15,3.5791195847023847
+291,VTXX,Vertx Corp,0.10000000149011612,True,2017.0,,,,,,,,,,
+292,VTMTF,Vertu Motors PLC,0.33340001106262207,True,2017.0,,,,,,,,,,
+293,VRT,Vertiv Holdings Co,18.6200008392334,True,2018.0,,,,,,,,,,
+294,CVVRF,Vertical Exploration Inc,0.025100000202655792,True,2013.0,,,,,,,,,,
+295,VCSY,Vertical Computer Systems Inc,0.01759999990463257,False,2009.0,,09-27,12-11,4.0,4.0,7.0,7.0,09-27,12-11,1.701697053887652
+296,VRCC,Vertical Communications Inc,$0.02 ,True,,No data fetched for symbol VRCC using YahooDailyReader,,,,,,,,,
+297,VCIF,Vertical Capital Income Fund,10.0,True,2019.0,,,,,,,,,,
+298,VRTX,Vertex Pharmaceuticals Inc,215.2100067138672,False,2009.0,,11-03,01-17,10.0,10.0,1.0,1.0,11-03,01-17,3.8828134212697454
+299,VERX,Vertex Inc,26.100000381469727,True,2020.0,,,,,,,,,,
+300,VTNR,Vertex Energy Inc,0.5382999777793884,False,2009.0,,12-15,02-28,7.0,7.0,4.0,4.0,12-15,02-28,8.510735458017955
+301,CRXPF,Vert Infrastructure Ltd,0.02500000037252903,True,2018.0,,,,,,,,,,
+302,VRSSF,Versus Systems Inc,0.3237000107765198,True,2012.0,,,,,,,,,,
+303,VSM,Versum Materials Inc,$52.99 ,True,,No data fetched for symbol VSM using YahooDailyReader,,,,,,,,,
+304,VRS,Verso Corp,10.699999809265137,True,2016.0,,,,,,,,,,
+305,VERS,Verseon Corp,0.030899999663233757,True,2016.0,,,,,,,,,,
+306,VRSRF,Versarien PLC,0.5400000214576721,True,2018.0,,,,,,,,,,
+307,VSRI,Versar Inc,$0.15 ,True,,'Date',,,,,,,,,
+308,VPYYF,VersaPay Corp,$2.00 ,True,,No data fetched for symbol VPYYF using YahooDailyReader,,,,,,,,,
+309,VERF,Versailles Financial Corporation,21.0,True,2016.0,,,,,,,,,,
+310,VRRKF,VersaBank,5.369999885559082,True,2013.0,,,,,,,,,,
+312,VRCA,Verrica Pharmaceuticals Inc,9.460000038146973,True,2018.0,,,,,,,,,,
+313,VRRM,Verra Mobility Corp,12.380000114440918,True,2017.0,,,,,,,,,,
+314,VONI,Veroni Brands Corp,0.6000000238418579,True,2020.0,,,,,,,,,,
+315,VRNA,Verona Pharma PLC,7.050000190734863,True,2017.0,,,,,,,,,,
+316,VNAPF,Verona Pharma PLC,0.7599999904632568,True,2013.0,,,,,,,,,,
+317,VNLPF,Vernalis PLC,$0.22 ,True,,No data fetched for symbol VNLPF using YahooDailyReader,,,,,,,,,
+318,VNLPY,Vernalis PLC,0.3820500075817108,True,2012.0,,,,,,,,,,
+319,VET,Vermilion Energy Inc,3.5799999237060547,False,2010.0,,12-11,02-24,4.0,4.0,6.0,6.0,08-25,11-08,-1.1805932790800673
+320,VZ,Verizon Communications Inc,60.040000915527344,False,2009.0,,10-16,12-30,5.0,4.0,6.0,7.0,10-16,12-30,4.8907201596537995
+321,VERI,Veritone Inc,17.420000076293945,True,2017.0,,,,,,,,,,
+322,VRTV,Veritiv Corp,18.790000915527344,True,2014.0,,,,,,,,,,
+323,VBTX,Veritex Holdings Inc,21.93000030517578,True,2014.0,,,,,,,,,,
+324,VTEQ,VeriTeQ Corp,0.03700000047683716,True,2012.0,,,,,,,,,,
+325,VRTC,Veritec Inc,0.03999999910593033,False,2009.0,,03-07,05-21,6.0,6.0,5.0,5.0,03-07,05-21,14.648720210731607
+326,VRTHF,Veritas Pharma Inc,0.11479999870061874,True,2016.0,,,,,,,,,,
+327,VFRM,Veritas Farms Inc,0.23999999463558197,True,2017.0,,,,,,,,,,
+328,VRSK,Verisk Analytics Inc,204.3699951171875,False,2009.0,,04-24,07-08,6.0,6.0,5.0,5.0,04-24,07-08,4.305673729433384
+329,VRSN,VeriSign Inc,196.44000244140625,False,2009.0,,02-17,05-02,9.0,9.0,2.0,2.0,02-17,05-02,3.4337210727609464
+330,YNGFF,Veris Gold Corp,0.007899999618530273,False,2009.0,,08-31,11-14,6.0,6.0,5.0,5.0,08-31,11-14,5.539834013635912
+331,VPOSF,Veripos Inc,$5.88 ,True,,No data fetched for symbol VPOSF using YahooDailyReader,,,,,,,,,
+332,VRNT,Verint Systems Inc,56.68000030517578,False,2009.0,,09-20,12-04,8.0,8.0,3.0,3.0,09-20,12-04,6.474674676188132
+333,ISDCF,Verimatrix,3.365000009536743,True,2012.0,,,,,,,,,,
+334,VRME,VerifyMe Inc,3.069999933242798,False,2009.0,,03-06,05-20,5.0,5.0,6.0,6.0,03-06,05-20,-0.13512940155299613
+335,VSMR,Verify Smart Corp.,0.012000000104308128,False,2009.0,,02-01,04-16,4.0,4.0,7.0,7.0,02-01,04-16,-7.33324158650409
+336,PAY,VeriFone Systems Inc,23.030000686645508,True,2012.0,,,,,,,,,,
+337,VERY,Vericity Inc,10.529999732971191,True,2019.0,,,,,,,,,,
+338,VCEL,Vericel Corp,23.68000030517578,False,2009.0,,10-29,01-12,7.0,7.0,4.0,4.0,10-29,01-12,12.755287800731127
+339,FCGYF,Veresen Inc,$14.94 ,True,,'Date',,,,,,,,,
+340,VER,VEREIT Inc,7.269999980926514,True,2011.0,,,,,,,,,,
+341,VRDR,Verde Resources Inc,0.013000000268220901,True,2013.0,,,,,,,,,,
+342,VBHI,Verde Bio Holdings Inc,0.026900000870227814,True,2020.0,,,,,,,,,,
+343,AMHPF,Verde AgriTech PLC,0.550000011920929,False,2010.0,,02-05,04-20,4.0,4.0,6.0,6.0,02-05,04-20,8.594447028597783
+344,OEZVY,Verbund AG,13.609999656677246,False,2010.0,,08-09,10-23,4.0,4.0,6.0,6.0,08-09,10-23,7.2813535833747824
+345,OEZVF,Verbund AG,44.279998779296875,False,2010.0,,04-11,06-25,1.0,1.0,9.0,9.0,08-26,11-09,4.868232595176703
+346,VBVBF,VERBIO Vereinigte BioEnergie AG,11.949999809265137,True,2019.0,,,,,,,,,,
+347,VERB,Verb Technology Co Inc,1.0800000429153442,True,2014.0,,,,,,,,,,
+348,VSTM,Verastem Inc,1.4800000190734863,True,2012.0,,,,,,,,,,
+349,VCYT,Veracyte Inc,51.439998626708984,True,2013.0,,,,,,,,,,
+350,VRA,Vera Bradley Inc,9.020000457763672,False,2010.0,,08-25,11-08,5.0,5.0,5.0,5.0,08-25,11-08,9.832743093367707
+351,VNE,Veoneer Inc,18.110000610351562,True,2018.0,,,,,,,,,,
+352,VEON,VEON Ltd,1.4500000476837158,False,2009.0,,05-23,08-06,7.0,7.0,4.0,4.0,05-23,08-06,6.392942657605178
+353,VEOEY,Veolia Environnement SA,22.100000381469727,False,2009.0,,03-22,06-05,8.0,8.0,3.0,3.0,12-08,02-21,6.0640071773030755
+354,VEOEF,Veolia Environnement SA,21.950000762939453,False,2010.0,,03-02,05-16,7.0,7.0,3.0,3.0,03-02,05-16,6.437890537567768
+355,SNSFF,Venzee Technologies Inc,0.05700000002980232,False,2010.0,,01-03,03-18,8.0,8.0,2.0,2.0,01-03,03-18,27.128583594288827
+356,VERO,Venus Concept Inc,2.3299999237060547,True,2017.0,,,,,,,,,,
+357,UROFF,Venturi Ventures Inc,$0.04 ,True,,No data fetched for symbol UROFF using YahooDailyReader,,,,,,,,,
+358,VTEXF,Venturex Resources Ltd,$0.17 ,True,,No data fetched for symbol VTEXF using YahooDailyReader,,,,,,,,,
+359,VENV,Venture Vanadium Inc,1.149999976158142,True,2019.0,,,,,,,,,,
+360,VTMLF,Venture Minerals Ltd,0.03500000014901161,True,2014.0,,,,,,,,,,
+361,VEMLY,Venture Corp Ltd,71.83000183105469,True,2012.0,,,,,,,,,,
+362,VEMLF,Venture Corp Ltd,14.199999809265137,True,2012.0,,,,,,,,,,
+363,CVHIF,Ventura Cannabis and Wellness Corp,0.02525000087916851,True,2015.0,,,,,,,,,,
+364,VPTDF,VentriPoint Diagnostics Ltd,0.06400000303983688,False,2010.0,,12-24,03-09,6.0,6.0,4.0,4.0,12-24,03-09,13.68020878957617
+365,VTR,Ventas Inc,48.720001220703125,False,2009.0,,11-12,01-26,7.0,7.0,4.0,4.0,03-15,05-29,9.137096293207222
+366,VNTA,Ventana Biotech Inc,0.02500000037252903,False,2009.0,,04-03,06-17,2.0,2.0,7.0,7.0,04-03,06-17,12.903137368971713
+367,VNDKF,VendTek Systems Inc,$0.04 ,True,,'Date',,,,,,,,,
+368,VDTAF,Vendetta Mining Corp,0.05000000074505806,True,2016.0,,,,,,,,,,
+369,VNTR,Venator Materials PLC,2.0,True,2017.0,,,,,,,,,,
+370,VMNT,Vemanti Group Inc,0.4020000100135803,True,2016.0,,,,,,,,,,
+371,VLXC,Veltex Corp,0.4749999940395355,True,2012.0,,,,,,,,,,
+372,LFCYF,Veloxis Pharmaceuticals A/S,$0.86 ,True,,No data fetched for symbol LFCYF using YahooDailyReader,,,,,,,,,
+373,VLDR,Velodyne Lidar Inc,16.360000610351562,True,2020.0,,,,,,,,,,
+374,OXFCF,Velocys PLC,0.09000000357627869,False,2009.0,,11-05,01-19,5.0,5.0,6.0,6.0,11-05,01-19,-17.935846597959422
+375,VPGI,Velocity Portfolio Group Inc,3.2000000476837163,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,11-12,01-26,3.2725926945550636
+376,VLCJF,Velocity Minerals Ltd,0.3912000060081482,True,2012.0,,,,,,,,,,
+377,VEL,Velocity Financial Inc,6.050000190734863,True,2020.0,,,,,,,,,,
+378,VCYE,Velocity Energy Inc.,0.00860000029206276,True,2012.0,,,,,,,,,,
+379,VLLTF,Velocity Data Inc,0.4659000039100647,True,2019.0,,,,,,,,,,
+380,VLNSF,Velan Inc,4.579999923706055,True,2013.0,,,,,,,,,,
+381,VDEKF,Veidekke ASA,10.0,True,2017.0,,,,,,,,,,
+382,VEGL,Vegalab Inc,0.11999999731779099,True,2017.0,,,,,,,,,,
+383,SOVZF,Vega Mining Inc,$0.04 ,True,,No data fetched for symbol SOVZF using YahooDailyReader,,,,,,,,,
+384,VKEMF,VEF Ltd,0.3621799945831299,True,2018.0,,,,,,,,,,
+385,VEEV,Veeva Systems Inc,274.25,True,2013.0,,,,,,,,,,
+386,VECO,Veeco Instruments Inc,16.040000915527344,False,2009.0,,01-31,04-15,7.0,7.0,4.0,4.0,01-31,04-15,10.602243825358581
+387,VDNRF,Vedanta Resources Ltd,10.630000114440918,True,2012.0,,,,,,,,,,
+388,VEDL,Vedanta Ltd,6.25,False,2009.0,,10-23,01-06,2.0,2.0,9.0,9.0,10-19,01-02,-2.6826466657620767
+389,VEGPF,Vectura Group PLC,1.5299999713897705,True,2011.0,,,,,,,,,,
+390,VEC,Vectrus Inc,47.33000183105469,True,2014.0,,,,,,,,,,
+391,VVC,Vectren Corp,72.37999725341797,True,2012.0,,,,,,,,,,
+392,VECT,VECTr Systems Inc,$0.07 ,True,,No data fetched for symbol VECT using YahooDailyReader,,,,,,,,,
+393,VETTF,Vector Ltd,2.9000000953674316,False,2010.0,,03-10,05-24,5.0,5.0,5.0,5.0,03-10,05-24,6.3855534905174105
+394,VGR,Vector Group Ltd,11.050000190734863,False,2009.0,,07-09,09-22,6.0,6.0,5.0,5.0,07-02,09-15,6.2441213717122
+395,VTIQ,VectoIQ Acquisition Corp,$33.97 ,True,,No data fetched for symbol VTIQ using YahooDailyReader,,,,,,,,,
+396,VTIQW,VectoIQ Acquisition Corp,$15.60 ,True,,No data fetched for symbol VTIQW using YahooDailyReader,,,,,,,,,
+397,VNWTF,Vecima Networks Inc,10.0,False,2009.0,,10-03,12-17,7.0,6.0,4.0,5.0,07-05,09-18,4.4829867389861695
+398,VDPH,VDO-PH International Inc,0.03200000151991844,True,2011.0,,,,,,,,,,
+399,SVACD,VBI Vaccines Inc,$4.61 ,True,,No data fetched for symbol SVACD using YahooDailyReader,,,,,,,,,
+400,VBIV,VBI Vaccines Inc,2.75,False,2009.0,,12-24,03-09,5.0,5.0,6.0,6.0,12-24,03-09,21.551077979005566
+401,VXLLF,Vaxil Bio Ltd,0.07069999724626541,True,2016.0,,,,,,,,,,
+402,SEEEF,Vaxil Bio Ltd,$0.02 ,True,,No data fetched for symbol SEEEF using YahooDailyReader,,,,,,,,,
+403,PCVX,Vaxcyte Inc,34.720001220703125,True,2020.0,,,,,,,,,,
+404,VXRT,Vaxart Inc,6.400000095367432,False,2009.0,,11-03,01-17,6.0,6.0,5.0,5.0,11-03,01-17,7.152624392177677
+405,VTTCF,Vatic Ventures Corp,$0.07 ,True,,No data fetched for symbol VTTCF using YahooDailyReader,,,,,,,,,
+406,VTTGF,VAT Group AG,$259.02 ,True,,No data fetched for symbol VTTGF using YahooDailyReader,,,,,,,,,
+407,VACNY,VAT Group AG,19.0,True,2018.0,,,,,,,,,,
+408,VSNDF,Vastned Retail NV,15.814200401306152,True,2014.0,,,,,,,,,,
+409,VSTA,Vasta Platform Ltd,13.3100004196167,True,2020.0,,,,,,,,,,
+410,VASO,Vaso Corporation,0.032999999821186066,False,2009.0,,11-08,01-22,4.0,4.0,7.0,7.0,11-08,01-22,9.952105383189368
+411,VASC,Vascular Solutions Inc,$56.00 ,True,,'Date',,,,,,,,,
+412,VBLT,Vascular Biogenics Ltd,1.190000057220459,True,2014.0,,,,,,,,,,
+413,VSMD,Vasamed Inc,0.009999999776482582,False,2009.0,,03-23,06-06,2.0,2.0,9.0,9.0,03-23,06-06,15.045991506300089
+414,VRTK,Vartech Systems Inc,1.5,True,2012.0,,,,,,,,,,
+415,VARGF,Varta AG,132.75,True,2019.0,,,,,,,,,,
+416,VRNS,Varonis Systems Inc,121.95999908447266,True,2014.0,,,,,,,,,,
+417,PLTSF,Variscan Mines Ltd,$0.04 ,True,,No data fetched for symbol PLTSF using YahooDailyReader,,,,,,,,,
+418,VAR,Varian Medical Systems Inc,173.50999450683594,False,2009.0,,10-02,12-16,7.0,7.0,4.0,4.0,10-02,12-16,8.467370673279715
+419,VREX,Varex Imaging Corp,14.760000228881836,True,2017.0,,,,,,,,,,
+420,VARHF,Vard Holdings Ltd,$0.15 ,True,,No data fetched for symbol VARHF using YahooDailyReader,,,,,,,,,
+421,VRCV,Varca Ventures Inc,0.017500000074505806,True,2012.0,,,,,,,,,,
+422,VAPO,Vapotherm Inc,26.059999465942383,True,2018.0,,,,,,,,,,
+423,VHUB,Vapor Hub International Inc,0.01600000075995922,True,2013.0,,,,,,,,,,
+424,VPPNY,Vapiano SE,4.0,True,2017.0,,,,,,,,,,
+425,VPPNF,Vapiano SE,$7.00 ,True,,No data fetched for symbol VPPNF using YahooDailyReader,,,,,,,,,
+426,VANTF,Vantex Resources Ltd,0.1518000066280365,True,2012.0,,,,,,,,,,
+427,VTGFF,Vantage Goldfields Ltd,$0.05 ,True,,No data fetched for symbol VTGFF using YahooDailyReader,,,,,,,,,
+428,VEAC,Vantage Energy Acquisition Corp,10.220000267028809,True,2017.0,,,,,,,,,,
+429,VTDRF,Vantage Drilling International,3.0,True,2020.0,,,,,,,,,,
+430,VMNGF,Vanstar Mining Resources Inc,1.0540000200271606,True,2018.0,,,,,,,,,,
+431,VNSN,Vansen Pharma Inc,$0.03 ,True,,No data fetched for symbol VNSN using YahooDailyReader,,,,,,,,,
+432,VNKEF,Vanke Overseas Investment Holding Co Ltd,0.27000001072883606,True,2019.0,,,,,,,,,,
+433,VNJA,Vanjia Corp,5.75,True,2016.0,,,,,,,,,,
+434,VGRDF,Vanguarda Agro SA,$1.44 ,True,,No data fetched for symbol VGRDF using YahooDailyReader,,,,,,,,,
+435,VNRSQ,Vanguard Natural Resources LLC,$0.03 ,True,,'Date',,,,,,,,,
+436,VNRRQ,Vanguard Natural Resources Inc,$0.02 ,True,,No data fetched for symbol VNRRQ using YahooDailyReader,,,,,,,,,
+437,VGLDF,Vangold Mining Corp,0.17949999868869781,False,2009.0,,01-27,04-11,6.0,6.0,4.0,4.0,01-27,04-11,-9.73078963278151
+438,ORDRF,Vango Mining Ltd,0.06199999898672104,True,2012.0,,,,,,,,,,
+439,VNDA,Vanda Pharmaceuticals Inc,12.359999656677246,False,2009.0,,10-26,01-09,4.0,4.0,7.0,7.0,10-26,01-09,8.743823321134528
+440,VNCI,Vancord Capital Inc,0.019999999552965164,False,2009.0,,07-22,10-05,1.0,1.0,10.0,10.0,07-22,10-05,4.592171577204478
+441,APAFF,Vanadiumcorp Resource Inc,0.05000000074505806,False,2009.0,,11-12,01-26,3.0,3.0,8.0,8.0,11-12,01-26,9.861110097004275
+442,VDMRF,Vanadium One Iron Corp,0.07509999722242355,True,2014.0,,,,,,,,,,
+443,URCFF,Vanadian Energy Corp,0.04024999961256981,True,2016.0,,,,,,,,,,
+444,VLNVF,Van Lanschot Kempen NV,14.463299751281738,True,2016.0,,,,,,,,,,
+445,VDEVF,Van de Velde NV,23.899999618530273,True,2013.0,,,,,,,,,,
+446,VMPT,Vampt America Inc,$0.05 ,True,,No data fetched for symbol VMPT using YahooDailyReader,,,,,,,,,
+447,VVV,Valvoline Inc,22.579999923706055,True,2016.0,,,,,,,,,,
+448,VHLGF,Valuetronics Holdings Ltd,0.4000000059604645,True,2019.0,,,,,,,,,,
+449,VPGLF,Value Partners Group Ltd,0.5,False,2009.0,,08-29,11-12,5.0,4.0,6.0,7.0,08-29,11-12,14.128209398479896
+450,VALU,Value Line Inc,28.100000381469727,False,2009.0,,09-04,11-18,6.0,5.0,5.0,6.0,09-04,11-18,3.599498335563774
+451,VEII,Value Exchange International Inc,0.07100000232458115,True,2013.0,,,,,,,,,,
+452,VRSCF,Valterra Resource Corp,0.06750000268220901,True,2011.0,,,,,,,,,,
+453,VLTHF,Valtech SE,$9.30 ,True,,'Date',,,,,,,,,
+454,VLLSF,Valsoia SpA,$19.05 ,True,,No data fetched for symbol VLLSF using YahooDailyReader,,,,,,,,,
+455,GIXEF,Valoro Resources Inc,$0.09 ,True,,No data fetched for symbol GIXEF using YahooDailyReader,,,,,,,,,
+456,KVLQF,ValOre Metals Corp,0.19024300575256348,False,2009.0,,11-17,01-31,5.0,5.0,6.0,6.0,11-17,01-31,13.525064567469244
+457,MKRMF,Valora Holding AG,179.1999969482422,False,2010.0,,01-09,03-24,5.0,5.0,5.0,5.0,01-09,03-24,5.009665332858172
+458,VOYRF,Valor Resources Ltd,0.009999999776482582,True,2012.0,,,,,,,,,,
+459,INRLF,Valneva SE,6.949999809265137,False,2010.0,,12-22,03-07,4.0,4.0,6.0,6.0,12-22,03-07,-1.1062522043970922
+460,VMI,Valmont Industries Inc,160.38999938964844,False,2009.0,,10-02,12-16,7.0,7.0,4.0,4.0,10-02,12-16,5.867589003711821
+461,VMRI,Valmie Resources Inc,0.02500000037252903,True,2013.0,,,,,,,,,,
+462,VLMTY,Valmet Corp,24.0,True,2019.0,,,,,,,,,,
+463,VOYJF,Valmet Corp,25.770000457763672,True,2014.0,,,,,,,,,,
+464,VLOWY,Vallourec SA,5.199999809265137,True,2011.0,,,,,,,,,,
+465,VLOUF,Vallourec SA,27.690000534057617,False,2010.0,,03-15,05-29,3.0,3.0,7.0,7.0,03-15,05-29,-3.3249717431805923
+466,VLLX,Valley Republic Bancorp,20.5,False,2009.0,,04-23,07-07,6.0,6.0,5.0,5.0,04-23,07-07,5.1139756589433985
+467,VLY,Valley National Bancorp,9.199999809265137,False,2009.0,,09-25,12-09,8.0,6.0,3.0,5.0,09-25,12-09,5.685505018830344
+468,VCBP,Valley Commerce Bancorp,$21.00 ,True,,'Date',,,,,,,,,
+469,VR,Validus Holdings Ltd,0.019999999552965164,True,2012.0,,,,,,,,,,
+470,VLDI,Validian Corp,0.010999999940395355,False,2009.0,,07-06,09-19,2.0,2.0,9.0,9.0,07-06,09-19,15.15496584480178
+471,VSSPY,Valid Solucoes eServicos de Seguranca em Meios de,$3.04 ,True,,No data fetched for symbol VSSPY using YahooDailyReader,,,,,,,,,
+472,VALIF,Valiant Holding AG,$100.00 ,True,,No data fetched for symbol VALIF using YahooDailyReader,,,,,,,,,
+473,PSRU,Valiant Eagle Inc,0.017500000074505806,False,2009.0,,12-31,03-16,5.0,5.0,6.0,6.0,12-31,03-16,-4.0206547377193536
+474,VHI,Valhi Inc,14.020000457763672,False,2009.0,,10-28,01-11,5.0,5.0,6.0,6.0,10-28,01-11,5.680438641972757
+475,VALGF,ValGold Resources Ltd,0.09799999743700027,True,2012.0,,,,,,,,,,
+476,PNWRF,Valeura Energy Inc,0.3160000145435333,True,2012.0,,,,,,,,,,
+477,VLP,Valero Energy Partners LP,42.2400016784668,True,2013.0,,,,,,,,,,
+478,VLO,Valero Energy Corp,50.81999969482422,False,2009.0,,09-20,12-04,8.0,7.0,3.0,4.0,09-20,12-04,5.709196138998691
+479,VLRXQ,Valeritas Holdings Inc,0.019999999552965164,True,2016.0,,,,,,,,,,
+480,VLEEY,Valeo SA,18.360000610351562,False,2010.0,,03-28,06-11,7.0,7.0,3.0,3.0,11-12,01-26,6.927616299658425
+481,VLEEF,Valeo SA,37.0,False,2009.0,,02-16,05-01,7.0,7.0,4.0,4.0,02-16,05-01,8.023742603668572
+482,VPHIF,Valeo Pharma Inc,0.6601999998092651,True,2020.0,,,,,,,,,,
+483,VTMC,Valentine Mark Corp,0.2750000059604645,True,2012.0,,,,,,,,,,
+484,VNRCF,Valener Inc,$19.60 ,True,,No data fetched for symbol VNRCF using YahooDailyReader,,,,,,,,,
+485,VALEF,Vale SA,$6.16 ,True,,No data fetched for symbol VALEF using YahooDailyReader,,,,,,,,,
+486,VALE,Vale SA,12.680000305175781,False,2009.0,,08-22,11-05,6.0,6.0,5.0,5.0,08-22,11-05,5.941588306747395
+487,VTIFF,Valdor Technology International Inc,$0.01 ,True,,No data fetched for symbol VTIFF using YahooDailyReader,,,,,,,,,
+488,VALPQ,Valaris PLC,0.07999999821186066,True,2020.0,,,,,,,,,,
+489,VDOMF,Val-dÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢Or Mining Corp,0.10199999809265137,True,2011.0,,,,,,,,,,
+490,VAIAF,Vaisala Oyj,46.0,True,2012.0,,,,,,,,,,
+491,MTN,Vail Resorts Inc,272.4100036621094,False,2009.0,,05-14,07-28,8.0,8.0,3.0,3.0,05-14,07-28,8.144485080497986
+492,VADP,Vado Corp,10.470000267028809,True,2019.0,,,,,,,,,,
+493,VCNYY,Vacon Oyj,$12.30 ,True,,No data fetched for symbol VCNYY using YahooDailyReader,,,,,,,,,
+494,VCNYF,Vacon Oyj,41.650001525878906,True,2018.0,,,,,,,,,,
+495,VCNX,Vaccinex Inc,1.9600000381469727,True,2018.0,,,,,,,,,,
+496,VCEX,Vaccex Inc,0.3700000047683716,False,2009.0,,06-11,08-25,2.0,2.0,9.0,9.0,06-11,08-25,14.790706325780747
+497,EGY,VAALCO Energy Inc,1.75,False,2009.0,,12-13,02-26,5.0,5.0,6.0,6.0,12-13,02-26,8.258294698995861
+498,VAQTF,va-Q-tec AG,52.5,True,2020.0,,,,,,,,,,
+499,VODOF,V1 Group Ltd,$0.04 ,True,,No data fetched for symbol VODOF using YahooDailyReader,,,,,,,,,
+500,VCHYF,V Technology Co Ltd,178.85000610351562,True,2019.0,,,,,,,,,,
+501,VIPK,V IP Comlink,0.006000000052154064,False,2009.0,,07-26,10-09,2.0,2.0,8.0,8.0,07-26,10-09,26.28030290457729

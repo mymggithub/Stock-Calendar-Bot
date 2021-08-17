@@ -1,0 +1,629 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,LYSGF,Lysogene SA,2.410000086,TRUE,2020,,,,,,,,,,
+1,LYRA,Lyra Therapeutics Inc,10.89999962,TRUE,2020,,,,,,,,,,
+2,LYBC,Lyons Bancorp Inc,35,FALSE,2009,,28-Dec,13-Mar,8,8,3,3,28-Dec,13-Mar,11.204372
+3,LYB,LyondellBasell Industries NV,82.19999695,FALSE,2010,,24-Aug,7-Nov,8,8,2,2,4-Sep,18-Nov,5.338106983
+4,LVLEF,Lynden Energy Corp,$0.34 ,TRUE,,No data fetched for symbol LVLEF using YahooDailyReader,,,,,,,,,
+5,LYSDY,Lynas Corp Ltd,2.539999962,FALSE,2010,,18-Dec,3-Mar,4,4,6,6,18-Dec,3-Mar,10.96128791
+6,LYSCF,Lynas Corp Ltd,2.513000011,FALSE,2009,,17-May,31-Jul,4,4,7,7,17-May,31-Jul,9.444756442
+7,LYFT,Lyft Inc,39.77000046,TRUE,2019,,,,,,,,,,
+8,LYDIF,Lydian International Ltd,0.015,TRUE,2013,,,,,,,,,,
+9,LDL,Lydall Inc,24.12999916,FALSE,2009,,19-May,2-Aug,4,4,7,7,19-May,2-Aug,7.312668046
+10,LYOPF,Lycopodium Ltd,$0.92 ,TRUE,,No data fetched for symbol LYOPF using YahooDailyReader,,,,,,,,,
+11,GGBBF,LXRandCo Inc,0.161699995,TRUE,2018,,,,,,,,,,
+12,LXWKF,LWP Capital Inc,$0.02 ,TRUE,,No data fetched for symbol LXWKF using YahooDailyReader,,,,,,,,,
+13,LVMUY,LVMH Moet Hennessy Louis Vuitton SE,114.7699966,FALSE,2009,,26-May,9-Aug,7,7,4,4,26-May,9-Aug,5.028474271
+14,LVMHF,LVMH Moet Hennessy Louis Vuitton SE,574.289978,FALSE,2010,,9-Apr,23-Jun,6,6,4,4,26-May,9-Aug,4.782284568
+15,LZDLF,Luz Del Sur SAA,7.143320084,TRUE,2018,,,,,,,,,,
+16,LUXGF,Luxottica Group SpA,$58.25 ,TRUE,,No data fetched for symbol LUXGF using YahooDailyReader,,,,,,,,,
+17,LUXTY,Luxottica Group SpA,$55.80 ,TRUE,,No data fetched for symbol LUXTY using YahooDailyReader,,,,,,,,,
+18,LXFT,Luxoft Holding Inc,$58.99 ,TRUE,,No data fetched for symbol LXFT using YahooDailyReader,,,,,,,,,
+19,LXFR,Luxfer Holdings PLC,14.57999992,TRUE,2012,,,,,,,,,,
+20,LXEEF,Luxempart SA,$41.50 ,TRUE,,No data fetched for symbol LXEEF using YahooDailyReader,,,,,,,,,
+21,TSTEF,Luxe Holdings Ltd,0.205599993,TRUE,2017,,,,,,,,,,
+22,LXAM,Lux Amber Corp,3.99000001,TRUE,2020,,,,,,,,,,
+23,LUVU,Luvu Brands Inc,0.099600002,TRUE,2011,,,,,,,,,,
+24,LBC,Luther Burbank Corp,10.43999958,TRUE,2017,,,,,,,,,,
+25,LUPTF,Lupatech SA,$13.97 ,TRUE,,No data fetched for symbol LUPTF using YahooDailyReader,,,,,,,,,
+26,LUPAQ,Lupatech SA,0.25999999,FALSE,2009,,23-Dec,8-Mar,4,4,7,7,23-Dec,8-Mar,15.92722853
+27,LPKGF,Lupaka Gold Corp,0.02472,TRUE,2012,,,,,,,,,,
+28,LUOYF,Luoyang Glass Co Ltd,0.469999999,TRUE,2012,,,,,,,,,,
+29,LKCO,Luokung Technology Corp,0.417800009,TRUE,2019,,,,,,,,,,
+30,LUNMF,Lundin Mining Corp,6.78000021,FALSE,2009,,26-Aug,9-Nov,7,7,4,4,26-Aug,9-Nov,4.098933475
+31,LUNCF,Lundin Mining Corp,$4.90 ,TRUE,,No data fetched for symbol LUNCF using YahooDailyReader,,,,,,,,,
+32,FTMNF,Lundin Gold Inc,8.534999847,FALSE,2009,,10-Aug,24-Oct,6,6,5,5,10-Aug,24-Oct,6.816718839
+33,LNEGY,Lundin Energy AB,24.34499931,TRUE,2012,,,,,,,,,,
+34,LNDNY,Lundin Energy AB,$18.26 ,TRUE,,No data fetched for symbol LNDNY using YahooDailyReader,,,,,,,,,
+35,LNDNF,Lundin Energy AB,24.87700081,FALSE,2010,,13-Mar,27-May,5,5,5,5,28-Nov,11-Feb,6.301712813
+36,LUNA,Luna Innovations Inc,7.690000057,FALSE,2009,,21-Oct,4-Jan,7,7,4,4,21-Oct,4-Jan,7.659550104
+37,LGCUF,Luna Gold Corp,$1.22 ,TRUE,,'Date',,,,,,,,,
+38,GTTXF,LumX Group Ltd,$0.20 ,TRUE,,No data fetched for symbol GTTXF using YahooDailyReader,,,,,,,,,
+39,LUMO,Lumos Pharma Inc,15.96000004,TRUE,2011,,,,,,,,,,
+40,LMOS,Lumos Networks Corp,$17.98 ,TRUE,,'Date',,,,,,,,,
+41,LUMIF,Luminex Resources Corp,0.625999987,TRUE,2018,,,,,,,,,,
+42,LMNX,Luminex Corp,21.12000084,FALSE,2009,,4-Mar,18-May,7,7,4,4,4-Mar,18-May,5.310584916
+43,LRGR,Luminar Media Group Inc,0.071000002,TRUE,2014,,,,,,,,,,
+44,LMGDF,Lumina Gold Corp,0.617999971,TRUE,2014,,,,,,,,,,
+45,QUTEF,Lumibird,12.89659977,TRUE,2017,,,,,,,,,,
+46,LITE,Lumentum Holdings Inc,80.69000244,TRUE,2015,,,,,,,,,,
+47,LMPLF,Lumenpulse Inc,$16.03 ,TRUE,,'Date',,,,,,,,,
+48,LMNS,Lumenis Ltd,$13.76 ,TRUE,,'Date',,,,,,,,,
+49,LUMN,Lumen Technologies Inc,9.93999958,TRUE,2020,,,,,,,,,,
+50,LL,Lumber Liquidators Holdings Inc,26.80999947,FALSE,2009,,6-Aug,20-Oct,5,5,6,6,6-Aug,20-Oct,8.55463039
+51,LUMB,Lumbee Guaranty Bank,10.48999977,TRUE,2019,,,,,,,,,,
+52,LULU,Lululemon Athletica Inc,336.9299927,FALSE,2009,,29-Oct,12-Jan,7,7,4,4,29-Oct,12-Jan,10.82902877
+53,LKSGF,Luks Group (Vietnam Holdings) Co Ltd,0.140000001,FALSE,2009,,12-Sep,26-Nov,6,6,5,5,26-Sep,10-Dec,1.232179638
+54,LKFLF,Luk Fook Holdings (International) Ltd,2.519999981,TRUE,2013,,,,,,,,,,
+55,PGTMF,Luff Enterprises Ltd,0.00942,TRUE,2016,,,,,,,,,,
+56,LU,Lufax Holding Ltd,14.86999989,TRUE,2020,,,,,,,,,,
+57,LDSN,Luduson G Inc,$0.13 ,TRUE,,No data fetched for symbol LDSN using YahooDailyReader,,,,,,,,,
+58,LKMNF,Lucky Minerals Inc,0.05765,TRUE,2017,,,,,,,,,,
+59,LFEX,Lucky Friday Extension Mining Co,0.039999999,FALSE,2009,,17-Oct,31-Dec,1,1,10,10,17-Oct,31-Dec,15.34236604
+60,LWEL,Luckwel Pharmaceuticals Inc,4,TRUE,2015,,,,,,,,,,
+61,LKNCY,Luckin Coffee Inc,4.78000021,TRUE,2019,,,,,,,,,,
+62,LUCFF,Lucid Entertainment Inc,$0.06 ,TRUE,,'Date',,,,,,,,,
+63,LUCAF,Lucas Bols NV,$16.55 ,TRUE,,No data fetched for symbol LUCAF using YahooDailyReader,,,,,,,,,
+64,LUCRF,Lucara Diamond Corp,0.419400007,TRUE,2011,,,,,,,,,,
+65,LCPDF,Lucapa Diamond Co Ltd,$0.01 ,TRUE,,No data fetched for symbol LCPDF using YahooDailyReader,,,,,,,,,
+66,LUB,Luby's Inc,2.900000095,FALSE,2009,,4-Nov,18-Jan,6,6,5,5,4-Nov,18-Jan,3.124302085
+67,LBAO,Luboa Group Inc,2.650000095,TRUE,2019,,,,,,,,,,
+68,LTC,LTC Properties Inc,37.31999969,FALSE,2009,,15-Mar,29-May,8,7,3,4,15-Mar,29-May,5.580184414
+69,LSRGL,LSR Group PJSC,$2.53 ,TRUE,,No data fetched for symbol LSRGL using YahooDailyReader,,,,,,,,,
+70,LSLPF,LSL Property Services PLC,2.789999962,TRUE,2014,,,,,,,,,,
+71,LSITF,LSI Software SA,$1.72 ,TRUE,,No data fetched for symbol LSITF using YahooDailyReader,,,,,,,,,
+72,LYTS,LSI Industries Inc,7.599999905,FALSE,2009,,9-Sep,23-Nov,4,4,7,7,9-Sep,23-Nov,8.693220339
+73,LSSCF,LSC Lithium Corp,$0.49 ,TRUE,,No data fetched for symbol LSSCF using YahooDailyReader,,,,,,,,,
+74,LKSDQ,LSC Communications Inc,0.0111,TRUE,2019,,,,,,,,,,
+75,LXU,LSB Industries Inc,2.109999895,FALSE,2009,,4-Jan,19-Mar,8,8,3,3,4-Jan,19-Mar,3.06523423
+76,LRE,LRR Energy LP,$4.32 ,TRUE,,'Date',,,,,,,,,
+77,LPPSY,LPP SA,$32.17 ,TRUE,,No data fetched for symbol LPPSY using YahooDailyReader,,,,,,,,,
+78,LPLA,LPL Financial Holdings Inc,91.69999695,FALSE,2010,,27-Oct,10-Jan,7,7,3,3,27-Oct,10-Jan,10.11107913
+79,LPKFF,LPKF Laser & Electronics AG,24.70000076,TRUE,2011,,,,,,,,,,
+80,LOXO,Loxo Oncology Inc,$234.66 ,TRUE,,No data fetched for symbol LOXO using YahooDailyReader,,,,,,,,,
+81,LOW,Lowe's Companies Inc,157.9700012,FALSE,1990,,8-Jan,23-Mar,18,17,12,13,8-Jan,23-Mar,5.246146415
+82,LOWRF,Low & Bonar PLC,$0.16 ,TRUE,,No data fetched for symbol LOWRF using YahooDailyReader,,,,,,,,,
+83,LRCFF,Lovitt Resources Inc,0.129999995,TRUE,2018,,,,,,,,,,
+84,LOVV,Love International Group Inc,0.920000017,TRUE,2016,,,,,,,,,,
+85,LPX,Louisiana-Pacific Corp,33.31000137,FALSE,2009,,27-Oct,10-Jan,7,7,4,4,27-Oct,10-Jan,9.920926871
+86,LCNTU,Louisiana Central Oil & Gas Co,555.0999756,TRUE,2012,,,,,,,,,,
+87,LTEC,LOUD Technologies Inc,0.02,FALSE,2009,,3-Jun,17-Aug,4,4,7,7,3-Jun,17-Aug,13.14102631
+88,LTTSF,Lotus Ventures Inc,0.100000001,TRUE,2018,,,,,,,,,,
+89,LTUS,Lotus Pharmaceuticals,0.0085,TRUE,2012,,,,,,,,,,
+90,LTSSF,Lotus Bakeries NV,"$2,500.00 ",TRUE,,No data fetched for symbol LTSSF using YahooDailyReader,,,,,,,,,
+91,LTTOF,Lotto24 AG,$12.30 ,TRUE,,No data fetched for symbol LTTOF using YahooDailyReader,,,,,,,,,
+92,LTTFF,Lotte Corp,$0.63 ,TRUE,,No data fetched for symbol LTTFF using YahooDailyReader,,,,,,,,,
+93,MMCLF,Los Cerros Ltd,$0.01 ,TRUE,,No data fetched for symbol MMCLF using YahooDailyReader,,,,,,,,,
+94,LSANF,Los Andes Copper Ltd,4.53000021,FALSE,2009,,16-Jun,30-Aug,5,5,6,6,16-Jun,30-Aug,12.70295077
+95,LRCPF,Lorraine Copper Corp,$0.21 ,TRUE,,No data fetched for symbol LRCPF using YahooDailyReader,,,,,,,,,
+96,RIDE,Lordstown Motors Corp,27.5,TRUE,2019,,,,,,,,,,
+97,LRDG,Lord Global Corp,3.5,TRUE,2016,,,,,,,,,,
+98,LORL,Loral Space & Communications Inc,20.26000023,FALSE,2009,,8-Jul,21-Sep,5,5,6,6,22-Aug,5-Nov,5.094239498
+99,LUPGF,LoopUp Group PLC,1.480000019,TRUE,2020,,,,,,,,,,
+100,LPPPF,LOOPShare Ltd,0.059349999,TRUE,2018,,,,,,,,,,
+101,LPTV,Loop Media Inc,1.700000048,TRUE,2020,,,,,,,,,,
+102,RACMF,Loop Insights Inc,0.560109973,TRUE,2020,,,,,,,,,,
+103,LOOP,Loop Industries Inc,7.139999866,TRUE,2017,,,,,,,,,,
+104,LOIMY,Loomis AB,$40.50 ,TRUE,,No data fetched for symbol LOIMY using YahooDailyReader,,,,,,,,,
+105,LOIMF,Loomis AB,22.64999962,FALSE,2009,,30-Mar,13-Jun,4,4,7,7,30-Mar,13-Jun,9.77556789
+106,LOOK,LookSmart Ltd,$0.65 ,TRUE,,'Date',,,,,,,,,
+107,LKST,LookSmart Group Inc,1.25,TRUE,2016,,,,,,,,,,
+108,LKKRF,Lookers PLC,1.090000033,TRUE,2018,,,,,,,,,,
+109,LZAGY,Lonza Group Ltd,63.52000046,FALSE,2010,,19-May,2-Aug,7,7,3,3,19-May,2-Aug,9.763259631
+110,LZAGF,Lonza Group Ltd,635.2700195,FALSE,2009,,14-May,28-Jul,8,8,3,3,14-May,28-Jul,8.815070414
+111,LNMIY,Lonmin PLC,$1.02 ,TRUE,,No data fetched for symbol LNMIY using YahooDailyReader,,,,,,,,,
+112,LNMIF,Lonmin PLC,$0.98 ,TRUE,,No data fetched for symbol LNMIF using YahooDailyReader,,,,,,,,,
+113,LONKF,Lonking Holdings Ltd,0.25,FALSE,2009,,29-Oct,12-Jan,4,4,7,7,11-Nov,25-Jan,12.52594051
+114,LKHLY,Lonking Holdings Ltd,14.31999969,TRUE,2011,,,,,,,,,,
+115,LWLW,Longwen Group Corp,0.011,TRUE,2012,,,,,,,,,,
+116,LPIH,Longwei Petroleum Investment Holding Ltd,0.01,TRUE,2012,,,,,,,,,,
+117,LGVW,Longview Acquisition Corp,9.829999924,TRUE,2020,,,,,,,,,,
+118,LNGPF,Longfor Group Holdings Ltd,4.949999809,TRUE,2016,,,,,,,,,,
+119,LGFRY,Longfor Group Holdings Ltd,64.07499695,TRUE,2013,,,,,,,,,,
+120,LFIN,Longfin Corp,0.200000003,TRUE,2017,,,,,,,,,,
+121,LOAC,Longevity Acquisition Corp,10.75,TRUE,2018,,,,,,,,,,
+122,CACAD,Long Term Care Operations 360 Inc,5.25,TRUE,2020,,,,,,,,,,
+123,WFREF,Long Run Exploration Ltd,$0.55 ,TRUE,,No data fetched for symbol WFREF using YahooDailyReader,,,,,,,,,
+124,LBCC,Long Blockchain Corp,0.075000003,FALSE,2009,,25-Mar,8-Jun,6,6,5,5,25-Mar,8-Jun,-68.77685366
+125,LONEQ,Lonestar Resources US Inc,0.041999999,TRUE,2020,,,,,,,,,,
+126,LNSPF,LondonMetric Property PLC,3,TRUE,2014,,,,,,,,,,
+127,LNSTY,London Stock Exchange Group PLC,26.82999992,TRUE,2018,,,,,,,,,,
+128,LDNXF,London Stock Exchange Group PLC,107.0999985,FALSE,2009,,7-Jul,20-Sep,9,9,2,2,7-Jul,20-Sep,10.06542434
+129,LONCF,Loncor Resources Inc,0.546452999,FALSE,2010,,24-Dec,9-Mar,7,7,3,3,24-Dec,9-Mar,20.6028436
+130,LMRMF,Lomiko Metals Inc,0.039999999,TRUE,2012,,,,,,,,,,
+131,LOMA,Loma Negra Cia Industria Argentina SA,5.050000191,TRUE,2017,,,,,,,,,,
+132,LOLI,Lollipop Corp,$1.05 ,TRUE,,No data fetched for symbol LOLI using YahooDailyReader,,,,,,,,,
+133,LOKNF,Lok'n Store Group PLC,$6.07 ,TRUE,,No data fetched for symbol LOKNF using YahooDailyReader,,,,,,,,,
+134,LRENY,Lojas Renner SA,8.869999886,TRUE,2017,,,,,,,,,,
+135,LOJPF,Lojas Americanas SA,$5.56 ,TRUE,,No data fetched for symbol LOJPF using YahooDailyReader,,,,,,,,,
+136,LOAMF,Lojas Americanas SA,$4.22 ,TRUE,,No data fetched for symbol LOAMF using YahooDailyReader,,,,,,,,,
+137,LOJN,LoJack Corp,$6.44 ,TRUE,,'Date',,,,,,,,,
+138,LOGM,LogMeIn Inc,86.04000092,FALSE,2009,,25-Aug,8-Nov,5,5,6,6,25-Aug,8-Nov,12.45305771
+139,LOGI,Logitech International SA,81.05999756,FALSE,2009,,6-Jul,19-Sep,6,6,5,5,4-Aug,18-Oct,3.17341204
+140,LTKBF,Logistec Corp,23.88400078,TRUE,2012,,,,,,,,,,
+141,LGIQ,Logiq Inc,7.989999771,TRUE,2018,,,,,,,,,,
+142,AHFCF,Logiq Asset Management Ltd.,0.230000004,FALSE,2009,,7-Aug,21-Oct,3,2,8,9,26-Mar,9-Jun,3.934896065
+143,LOGQ,Logicquest Technology Inc,0.114500001,TRUE,2012,,,,,,,,,,
+144,LOGC,LogicBio Therapeutics Inc,5.909999847,TRUE,2018,,,,,,,,,,
+145,LOGN,Logansport Financial Corp,50,FALSE,2009,,27-Aug,10-Nov,10,9,1,2,27-Aug,10-Nov,4.523762072
+146,LPHHF,Logan Property Holdings Co Ltd,1.554640055,TRUE,2020,,,,,,,,,,
+147,LIIZF,Logan International Inc,$1.28 ,TRUE,,No data fetched for symbol LIIZF using YahooDailyReader,,,,,,,,,
+148,LGNC,Logan Clay Products Co,225,TRUE,2012,,,,,,,,,,
+149,L,Loews Corp,43.06999969,FALSE,2009,,26-Aug,9-Nov,7,6,4,5,26-Aug,9-Nov,4.269441995
+150,LSMLF,Lodestar Minerals Ltd,0.008,TRUE,2018,,,,,,,,,,
+151,LSMG,Lode-Star Mining Inc,0.064999998,FALSE,2010,,2-Jan,17-Mar,6,6,4,4,2-Jan,17-Mar,19.99089311
+152,LMT,Lockheed Martin Corp,377.5599976,FALSE,2009,,7-Nov,21-Jan,10,9,1,2,7-Nov,21-Jan,3.794638541
+153,PXAMF,Location Sciences Group PLC,0.009,TRUE,2014,,,,,,,,,,
+154,LZRFY,Localiza Rent A Car SA,12.06499958,TRUE,2012,,,,,,,,,,
+155,LZRFF,Localiza Rent A Car SA,$11.48 ,TRUE,,No data fetched for symbol LZRFF using YahooDailyReader,,,,,,,,,
+156,LBLCF,Loblaw Companies Ltd,49.13000107,FALSE,2009,,27-Mar,10-Jun,5,5,6,6,27-Mar,10-Jun,5.924222275
+157,GTSIF,Lobe Sciences Ltd,0.039999999,TRUE,2019,,,,,,,,,,
+158,LFLS,Loans4Less.Com,0.02,FALSE,2009,,17-Mar,31-May,3,3,8,8,17-Mar,31-May,-395.81495
+159,LNPR,LNPR Group Inc,$0.30 ,TRUE,,No data fetched for symbol LNPR using YahooDailyReader,,,,,,,,,
+160,LMWW,LMWW Holdings Inc,0.005,TRUE,2016,,,,,,,,,,
+161,SCD,Lmp Capital & Income Fund Inc,11.09000015,FALSE,2009,,28-Oct,11-Jan,8,8,3,3,8-Dec,21-Feb,3.496597631
+162,LMPX,LMP Automotive Holdings Inc,22.95000076,TRUE,2019,,,,,,,,,,
+163,LMIA,LMI Aerospace Inc,$13.99 ,TRUE,,'Date',,,,,,,,,
+164,LMFA,LM Funding America Inc,0.608399987,TRUE,2015,,,,,,,,,,
+165,LLDTF,Lloyds Banking Group PLC,0.460000008,FALSE,2010,,12-Dec,25-Feb,7,7,3,3,12-Dec,25-Feb,6.621404915
+166,LYG,Lloyds Banking Group PLC,1.830000043,FALSE,2009,,21-Feb,6-May,7,7,4,4,21-Feb,6-May,2.239351913
+167,LLEIF,Lleidanetworks Serveis Telematics SA,9.989999771,TRUE,2020,,,,,,,,,,
+168,LKQ,LKQ Corp,35.66999817,FALSE,2009,,5-Jul,18-Sep,6,6,5,5,5-Jul,18-Sep,9.245455172
+169,LKAI,LKA Gold Inc,0.09245,FALSE,2009,,21-Jun,4-Sep,4,4,7,7,21-Jun,4-Sep,8.530417403
+170,LIZI,Lizhi Inc,2.450000048,TRUE,2020,,,,,,,,,,
+171,LZENF,Lizhan Environmental Corp,0.006,TRUE,2012,,,,,,,,,,
+172,LIXT,Lixte Biotech Holdings Inc,0.949800014,FALSE,2009,,22-Jan,6-Apr,8,8,3,3,22-Jan,6-Apr,21.413611
+173,JSGRY,Lixil Group Corp,44.22999954,FALSE,2010,,21-Aug,4-Nov,5,5,5,5,22-Aug,5-Nov,3.028960724
+174,JSGCF,Lixil Group Corp,13.14999962,TRUE,2012,,,,,,,,,,
+175,LXEH,Lixiang Education Holding Co Ltd,9.199999809,TRUE,2020,,,,,,,,,,
+176,LVZPF,Livzon Pharmaceutical Group Inc,3.700000048,TRUE,2018,,,,,,,,,,
+177,LVGO,Livongo Health Inc,139.7700043,TRUE,2019,,,,,,,,,,
+178,LIVV,LivingVentures Inc,$0.06 ,TRUE,,No data fetched for symbol LIVV using YahooDailyReader,,,,,,,,,
+179,LVCLY,Living Cell Technologies Ltd,0.109999999,FALSE,2009,,28-Aug,11-Nov,5,5,6,6,28-Aug,11-Nov,21.62624911
+180,LVCLF,Living Cell Technologies Ltd,0.01,FALSE,2009,,21-Aug,4-Nov,3,3,8,8,21-Aug,4-Nov,15.19290112
+181,LTDH,Living 3D Holdings Inc,1.5,FALSE,2010,,22-Jul,5-Oct,3,3,7,7,22-Jul,5-Oct,10.31238793
+182,LIVX,LiveXLive Media Inc,1.840000033,TRUE,2017,,,,,,,,,,
+183,LVWD,LiveWorld Inc,0.090000004,FALSE,2009,,22-Jan,6-Apr,5,5,6,6,22-Jan,6-Apr,26.0002037
+184,LVVV,Livewire Ergogenics Inc,0.0053,TRUE,2011,,,,,,,,,,
+185,LVTSF,LiveTiles Ltd,0.135000005,TRUE,2018,,,,,,,,,,
+186,RAMP,LiveRamp Holdings Inc,58.5,FALSE,2009,,28-Aug,11-Nov,8,8,3,3,28-Aug,11-Nov,12.83594378
+187,LPSN,LivePerson Inc,52.90000153,FALSE,2009,,22-May,5-Aug,5,5,6,6,22-May,5-Aug,14.23644208
+188,LTHM,Livent Corp,14.5,TRUE,2018,,,,,,,,,,
+189,LICH,Livechain Inc,0.01075,TRUE,2012,,,,,,,,,,
+190,LIVE,Live Ventures Inc,12.64999962,FALSE,2009,,5-Oct,19-Dec,4,4,7,7,5-Oct,19-Dec,18.06803599
+191,LOB,Live Oak Bancshares Inc,44.63000107,TRUE,2015,,,,,,,,,,
+192,LOAK,Live Oak Acquisition Corp,11.21000004,TRUE,2020,,,,,,,,,,
+193,LYV,Live Nation Entertainment Inc,67.08999634,FALSE,2009,,6-Apr,20-Jun,7,7,4,4,6-Apr,20-Jun,11.71227709
+194,LMSC,Live Microsystems Inc,0.850000024,FALSE,2009,,28-Dec,13-Mar,6,6,5,5,28-Dec,13-Mar,11.15629787
+195,LIVC,Live Current Media Inc,0.050000001,FALSE,2009,,16-Dec,1-Mar,8,8,3,3,16-Dec,1-Mar,-11.56375924
+196,LIVN,LivaNova PLC,50.99000168,TRUE,2015,,,,,,,,,,
+197,LIVK,LIV Capital Acquisition Corp,9.892999649,TRUE,2020,,,,,,,,,,
+198,LTFD,Littlefield Corp,0.130700007,FALSE,2009,,19-Mar,2-Jun,5,5,6,6,19-Mar,2-Jun,-2.016077081
+199,LTUU,Little Sioux Corn Processors LLC,525,TRUE,2014,,,,,,,,,,
+200,LTUC,Little Sioux Corn Processors LLC,$650.00 ,TRUE,,No data fetched for symbol LTUC using YahooDailyReader,,,,,,,,,
+201,LFUS,Littelfuse Inc,230.9900055,FALSE,2009,,25-Sep,9-Dec,9,8,2,3,25-Sep,9-Dec,8.917188964
+202,LTSY,Litian Group Inc,4,TRUE,2020,,,,,,,,,,
+203,CWVWF,Lithoquest Diamonds Inc,0.041499998,TRUE,2013,,,,,,,,,,
+204,LIXXF,Lithium X Energy Corp,$1.99 ,TRUE,,No data fetched for symbol LIXXF using YahooDailyReader,,,,,,,,,
+205,NRGMF,Lithium South Development Corp,0.223000005,FALSE,2009,,26-Oct,9-Jan,4,4,7,7,26-Oct,9-Jan,6.635985428
+206,LTHHF,Lithium Power International Ltd,0.152500004,TRUE,2017,,,,,,,,,,
+207,LXENF,Lithium Energi Exploration Inc,0.057500001,TRUE,2017,,,,,,,,,,
+208,LTUM,Lithium Corp,0.191,FALSE,2009,,10-Nov,24-Jan,5,5,6,6,10-Nov,24-Jan,14.16174962
+209,LTMCF,Lithium Chile Inc,0.186728001,TRUE,2018,,,,,,,,,,
+210,LMMFF,Lithium Australia NL,0.0425,TRUE,2017,,,,,,,,,,
+211,LAC,Lithium Americas Corp,10.78999996,FALSE,2009,,15-Dec,28-Feb,8,8,3,3,15-Dec,28-Feb,20.92070264
+212,LBTI,Lithium & Boron Technology Inc,0.389999986,TRUE,2012,,,,,,,,,,
+213,LAD,Lithia Motors Inc,274.1099854,FALSE,2009,,19-May,2-Aug,4,4,7,7,19-May,2-Aug,17.717262
+214,LLNKF,LiteLink Technologies Inc,0.0137,TRUE,2018,,,,,,,,,,
+215,LTCCF,Lite Access Technologies Inc,0.344599992,TRUE,2015,,,,,,,,,,
+216,LSIIF,Lisi SA,23,TRUE,2013,,,,,,,,,,
+217,LQMT,Liquidmetal Technologies Inc,0.086000003,FALSE,2009,,18-Dec,3-Mar,6,6,5,5,18-Dec,3-Mar,11.87622795
+218,LQDT,Liquidity Services Inc,8.989999771,FALSE,2009,,17-Jul,30-Sep,7,7,4,4,17-Jul,30-Sep,8.698474195
+219,LQDA,Liquidia Technologies Inc,3.380000114,TRUE,2018,,,,,,,,,,
+220,LQNGF,Liquid Nutrition Group Inc,$0.10 ,TRUE,,No data fetched for symbol LQNGF using YahooDailyReader,,,,,,,,,
+221,YVR,Liquid Media Group Ltd,1.820000052,FALSE,2009,,1-Mar,15-May,7,7,4,4,1-Mar,15-May,12.42852353
+222,LNGLY,Liquefied Natural Gas Ltd,0.0561,TRUE,2014,,,,,,,,,,
+223,LIQT,LiqTech International Inc,7,TRUE,2011,,,,,,,,,,
+224,LPMDF,Lippo Malls Indonesia Retail Trust,0.066,FALSE,2010,,31-Dec,16-Mar,10,8,0,2,17-Dec,2-Mar,5.645180956
+225,LPPCF,Lippo China Resources Ltd,0.015,TRUE,2020,,,,,,,,,,
+226,LPCN,Lipocine Inc,1.379999995,TRUE,2013,,,,,,,,,,
+227,LGF.A,Lions Gate Entertainment Corp,$9.49 ,TRUE,,No data fetched for symbol LGF.A using YahooDailyReader,,,,,,,,,
+228,LGF.B,Lions Gate Entertainment Corp,25.61000061,TRUE,2016,,,,,,,,,,
+229,LCAP,Lionheart Acquisition Corp II,9.770000458,TRUE,2020,,,,,,,,,,
+230,LIOX,Lionbridge Technologies Inc,$5.75 ,TRUE,,'Date',,,,,,,,,
+231,LOMLF,Lion One Metals Ltd,1.133000016,FALSE,2010,,16-Dec,1-Mar,5,5,5,5,16-Dec,1-Mar,10.14266721
+232,LGHL,Lion Group Holding Ltd,2.579999924,TRUE,2019,,,,,,,,,,
+233,LIOPY,Lion Corp,32,TRUE,2020,,,,,,,,,,
+234,LIOPF,Lion Corp,23.20000076,TRUE,2014,,,,,,,,,,
+235,LINX,Linx SA,6.789999962,TRUE,2019,,,,,,,,,,
+236,LNTEF,LINTEC Corp,24.25,TRUE,2015,,,,,,,,,,
+237,LNCOQ,LinnCo LLC,$0.04 ,TRUE,,'Date',,,,,,,,,
+238,LWLL,Linkwell Corp,0.150999993,TRUE,2009,,,,,,,,,,
+239,LNKD,LinkedIn Corp,$195.96 ,TRUE,,'Date',,,,,,,,,
+240,LNKB,Linkbancorp Inc,11,TRUE,2020,,,,,,,,,,
+241,LBKLF,Linkbal Inc,3.680000067,TRUE,2019,,,,,,,,,,
+242,LRSV,Link Reservations Inc,0.0175,TRUE,2016,,,,,,,,,,
+243,LKREF,Link Real Estate Investment Trust,9.170000076,FALSE,2009,,26-Apr,10-Jul,5,5,6,6,2-Apr,16-Jun,5.079691194
+244,LKM,Link Motion Inc,0.153899997,TRUE,2012,,,,,,,,,,
+245,LMGHF,LINK Mobility Group Holding ASA,6.102670193,TRUE,2020,,,,,,,,,,
+246,LGLOF,Link Global Technologies Inc,0.303600013,TRUE,2020,,,,,,,,,,
+247,LNNTF,Linius Technologies Ltd,0.015,TRUE,2018,,,,,,,,,,
+248,LINUF,LiNiu Technology Group,0.050000001,FALSE,2009,,31-Dec,16-Mar,10,10,1,1,31-Dec,16-Mar,13.27946406
+249,LMDCF,Lingo Media Corp,0.07,FALSE,2009,,23-Dec,8-Mar,4,4,7,7,23-Dec,8-Mar,7.764560932
+250,LGBOF,Lingbao Gold Co Ltd,$0.16 ,TRUE,,No data fetched for symbol LGBOF using YahooDailyReader,,,,,,,,,
+251,LLTC,Linear Technology Corp,$65.00 ,TRUE,,'Date',,,,,,,,,
+252,LCTX,Lineage Cell Therapeutics Inc,1.350000024,FALSE,2009,,10-Aug,24-Oct,6,6,5,5,10-Aug,24-Oct,8.899856176
+253,LNNFF,LINE Corp,49.62749863,TRUE,2016,,,,,,,,,,
+254,LN,LINE Corp,51.65999985,TRUE,2016,,,,,,,,,,
+255,LNN,Lindsay Corp,114.9899979,FALSE,2009,,1-Sep,15-Nov,8,8,3,3,1-Sep,15-Nov,6.549639314
+256,LIN,Linde PLC,250.3000031,FALSE,2009,,6-Oct,20-Dec,8,7,3,4,1-Oct,15-Dec,3.908845861
+257,LIND,Lindblad Expeditions Holdings Inc,12.24499989,TRUE,2013,,,,,,,,,,
+258,LPBC,Lincoln Park Bancorp,6.5,FALSE,2009,,20-Apr,4-Jul,5,5,6,6,20-Apr,4-Jul,9.018713794
+259,LNC,Lincoln National Corp,43.91999817,FALSE,2009,,1-Sep,15-Nov,8,8,3,3,1-Sep,15-Nov,8.705242807
+260,LNCLF,Lincoln Gold Mining Inc,0.150780007,TRUE,2013,,,,,,,,,,
+261,LECO,Lincoln Electric Holdings Inc,114.5899963,FALSE,2009,,29-Aug,12-Nov,9,9,2,2,29-Aug,12-Nov,7.52894584
+262,LINC,Lincoln Educational Services Corp,5.929999828,FALSE,2009,,2-Nov,16-Jan,7,6,4,5,2-Nov,16-Jan,15.69845603
+263,LNCYF,Linc Energy Ltd,$0.10 ,TRUE,,No data fetched for symbol LNCYF using YahooDailyReader,,,,,,,,,
+264,LNCGY,Linc Energy Ltd,$1.18 ,TRUE,,'Date',,,,,,,,,
+265,LIMAF,Linamar Corp,46.66249847,FALSE,2010,,11-Oct,25-Dec,4,4,6,6,11-Oct,25-Dec,6.569491201
+266,LMNR,Limoneira Co,14.80000019,FALSE,2009,,21-May,4-Aug,4,4,7,7,21-May,4-Aug,8.199509429
+267,LVGI,Limitless Venture Group Inc,0.052299999,FALSE,2009,,12-Mar,26-May,4,4,7,7,12-Mar,26-May,23.14270485
+268,LMNL,Liminal Biosciences Inc,4.420000076,TRUE,2013,,,,,,,,,,
+269,LMST,Limestone Bancorp Inc,11.96000004,FALSE,2009,,9-Jul,22-Sep,5,5,6,6,9-Jul,22-Sep,5.765531084
+270,LLNW,Limelight Networks Inc,4.105000019,FALSE,2009,,19-Jan,3-Apr,8,8,3,3,19-Jan,3-Apr,10.36442594
+271,LIME,Lime Energy Co,6.070000172,TRUE,2012,,,,,,,,,,
+272,LIDM,Limco Del Mar,65,TRUE,2016,,,,,,,,,,
+273,LMB,Limbach Holdings Inc,11.14000034,TRUE,2014,,,,,,,,,,
+274,LLEXQ,Lilis Energy Inc,0.0055,FALSE,2009,,2-Dec,15-Feb,7,7,4,4,2-Dec,15-Feb,10.85744202
+275,LWLG,Lightwave Logic Inc,0.644999981,FALSE,2009,,28-Dec,13-Mar,7,7,4,4,28-Dec,13-Mar,11.95077015
+276,LVPR,Lightstone Value Plus Real Estate Investment Trust,$8.67 ,TRUE,,No data fetched for symbol LVPR using YahooDailyReader,,,,,,,,,
+277,LSPD,Lightspeed POS Inc,42.99000168,TRUE,2020,,,,,,,,,,
+278,MURCF,Lightspeed Discoveries Inc,0.159999996,FALSE,2009,,28-Nov,11-Feb,5,5,6,6,28-Nov,11-Feb,14.13338662
+279,LPTH,LightPath Technologies Inc,2.890000105,FALSE,2009,,23-May,6-Aug,7,7,4,4,23-May,6-Aug,14.765437
+280,HMKTF,Lightning Ventures Inc,0.006,TRUE,2014,,,,,,,,,,
+281,LITB,LightInTheBox Holding Co Ltd,2.74000001,TRUE,2013,,,,,,,,,,
+282,LSCG,Lighting Science Group Corp,0.270000011,FALSE,2009,,7-Jan,22-Mar,9,9,2,2,7-Jan,22-Mar,21.49175262
+283,LHGI,Lighthouse Global Holdings Inc,0.01,FALSE,2009,,18-Mar,1-Jun,5,5,6,6,18-Mar,1-Jun,21.18142727
+284,LGHT,Lighthouse Bank Ca,$26.25 ,TRUE,,No data fetched for symbol LGHT using YahooDailyReader,,,,,,,,,
+285,LTBR,Lightbridge Corp,2.960000038,FALSE,2009,,2-Jan,17-Mar,7,7,4,4,2-Jan,17-Mar,3.571941922
+286,LGSXY,Light SA,4.050000191,FALSE,2010,,20-Jun,3-Sep,4,4,6,6,23-Jun,6-Sep,7.494254799
+287,LGMH,Light Media Holdings Inc,0.159999996,TRUE,2013,,,,,,,,,,
+288,LGND,Ligand Pharmaceuticals Inc,81.48000336,FALSE,2009,,15-May,29-Jul,7,7,4,4,15-May,29-Jul,12.37105661
+289,NXCLF,Lifull Co Ltd,3.789999962,TRUE,2017,,,,,,,,,,
+290,LWAY,Lifeway Foods Inc,6.769999981,FALSE,2009,,4-Jun,18-Aug,5,5,6,6,4-Jun,18-Aug,2.402850965
+291,LFWWF,LifeWatch AG,$14.35 ,TRUE,,No data fetched for symbol LFWWF using YahooDailyReader,,,,,,,,,
+292,LFVN,Lifevantage Corp,11.14999962,FALSE,2009,,26-Jun,9-Sep,5,5,6,6,26-Jun,9-Sep,11.36966731
+293,LCUT,Lifetime Brands Inc,13.44999981,FALSE,2009,,13-May,27-Jul,4,4,7,7,13-May,27-Jul,10.38030302
+294,LFSYY,Lifestyle International Holdings Ltd,22.25,TRUE,2014,,,,,,,,,,
+295,LFSYF,Lifestyle International Holdings Ltd,0.860000014,TRUE,2013,,,,,,,,,,
+296,LCOMF,Lifestyle Communities Ltd,6.889999866,TRUE,2020,,,,,,,,,,
+297,LSTYF,Lifestyle China Group Ltd,0.174999997,TRUE,2017,,,,,,,,,,
+298,LSFG,Lifestore Financial Group Inc,31.25,FALSE,2009,,22-Oct,5-Jan,5,5,6,6,22-Oct,5-Jan,11.47152015
+299,LSAC,LifeSci Acquisition Corp,16.20000076,TRUE,2020,,,,,,,,,,
+300,LQWC,LifeQuest World Corp,0.197400004,FALSE,2009,,4-Apr,18-Jun,2,2,9,9,4-Apr,18-Jun,8.145551103
+301,LPNT,LifePoint Health Inc,64.98999786,TRUE,2012,,,,,,,,,,
+302,LIFNF,Lifenet Insurance Co,$3.20 ,TRUE,,No data fetched for symbol LIFNF using YahooDailyReader,,,,,,,,,
+303,LCTC,Lifeloc Technologies Inc,2.400000095,TRUE,2012,,,,,,,,,,
+304,LIFX,Life360 Inc,2.900000095,TRUE,2019,,,,,,,,,,
+305,LTCP,Life's Time Capsule Services Inc,0.0065,FALSE,2010,,19-Mar,2-Jun,1,1,9,9,19-Mar,2-Jun,-25.13479705
+306,LSYC,Life Systems Inc,0.100000001,TRUE,2017,,,,,,,,,,
+307,LSI,Life Storage Inc,112.0500031,FALSE,2009,,1-Sep,15-Nov,7,6,4,5,1-Sep,15-Nov,5.13688277
+308,CDCZF,Life Science Developments Ltd,$0.02 ,TRUE,,No data fetched for symbol CDCZF using YahooDailyReader,,,,,,,,,
+309,LPHIQ,Life Partners Holdings Inc,$0.03 ,TRUE,,'Date',,,,,,,,,
+310,LFER,Life On Earth Inc,0.029999999,TRUE,2014,,,,,,,,,,
+311,LINSA,Life Insurance Co,22.5,TRUE,2012,,,,,,,,,,
+312,LINS,Life Insurance Co,67,FALSE,2009,,14-Mar,28-May,2,2,9,9,5-Mar,19-May,9.792169497
+313,TAFFF,Life Healthcare Group Ltd,$0.01 ,TRUE,,No data fetched for symbol TAFFF using YahooDailyReader,,,,,,,,,
+314,LTGHY,Life Healthcare Group Holdings Ltd,4.53000021,TRUE,2013,,,,,,,,,,
+315,LTGHF,Life Healthcare Group Holdings Ltd,0.949999988,TRUE,2011,,,,,,,,,,
+316,LFXG,Life Exchange Inc,$0.14 ,TRUE,,No data fetched for symbol LFXG using YahooDailyReader,,,,,,,,,
+317,LCMD,Life Care Medical Devices Ltd,$0.03 ,TRUE,,No data fetched for symbol LCMD using YahooDailyReader,,,,,,,,,
+318,LFBCF,Life & Banc Split Corp,4.790780067,FALSE,2010,,13-Mar,27-May,5,4,5,6,13-Mar,27-May,8.274483347
+319,LFCAF,Lifco AB,79.52089691,TRUE,2020,,,,,,,,,,
+320,LLAZF,Liechtensteinische Landesbank AG,$38.30 ,TRUE,,No data fetched for symbol LLAZF using YahooDailyReader,,,,,,,,,
+321,LDRUF,LiDCO Group PLC,0.077600002,TRUE,2012,,,,,,,,,,
+322,LDDAF,Lida Resources Inc,0.032499999,TRUE,2020,,,,,,,,,,
+323,LICT,LICT Corp,17000,FALSE,2009,,26-Jun,9-Sep,5,5,6,6,26-Jun,9-Sep,7.915643262
+324,LTRPB,Liberty TripAdvisor Holdings Inc,32.52999878,TRUE,2014,,,,,,,,,,
+325,LTRPA,Liberty TripAdvisor Holdings Inc,2.650000095,TRUE,2014,,,,,,,,,,
+326,LSXMK,Liberty SiriusXM Group,42.79000092,TRUE,2016,,,,,,,,,,
+327,LSXMB,Liberty SiriusXM Group,47.41999817,TRUE,2016,,,,,,,,,,
+328,LSXMA,Liberty SiriusXM Group,42.63999939,TRUE,2016,,,,,,,,,,
+329,LPT,Liberty Property Trust,$61.95 ,TRUE,,No data fetched for symbol LPT using YahooDailyReader,,,,,,,,,
+330,LBPE,Liberty Petroleum Corp,120,TRUE,2012,,,,,,,,,,
+331,LRTTF,Liberty One Lithium Corp,0.039999999,TRUE,2017,,,,,,,,,,
+332,LBRT,Liberty Oilfield Services Inc,9.590000153,TRUE,2018,,,,,,,,,,
+333,LILAB,Liberty Latin America Ltd,14.90989971,TRUE,2015,,,,,,,,,,
+334,LILAK,Liberty Latin America Ltd,11.93000031,TRUE,2015,,,,,,,,,,
+335,LILA,Liberty Latin America Ltd,11.92000008,TRUE,2015,,,,,,,,,,
+336,LIHC,Liberty International Holding Corp,0.039999999,TRUE,2012,,,,,,,,,,
+337,LIBHB,Liberty Homes Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+338,LBBTF,Liberty Holdings Ltd,$9.53 ,TRUE,,No data fetched for symbol LBBTF using YahooDailyReader,,,,,,,,,
+339,LHSIF,Liberty Health Sciences Inc,0.357199997,TRUE,2014,,,,,,,,,,
+340,LGDTF,Liberty Gold Corp,1.389999986,TRUE,2011,,,,,,,,,,
+341,LBGO,Liberty Gold Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+342,LBTYK,Liberty Global PLC,22.10000038,FALSE,2009,,11-Dec,24-Feb,8,8,3,3,11-Dec,24-Feb,7.505223204
+343,LBTYB,Liberty Global PLC,24.44000053,FALSE,2009,,18-May,1-Aug,7,7,4,4,18-May,1-Aug,5.619094344
+344,LBTYA,Liberty Global PLC,22.80999947,FALSE,2009,,11-Dec,24-Feb,7,7,4,4,11-Dec,24-Feb,7.28512605
+345,FWONB,Liberty Formula One Group,37.97999954,TRUE,2017,,,,,,,,,,
+346,FWONK,Liberty Formula One Group,41.99499893,TRUE,2014,,,,,,,,,,
+347,FWONA,Liberty Formula One Group,37.81000137,TRUE,2013,,,,,,,,,,
+348,LEXEB,Liberty Expedia Holdings Inc,$47.90 ,TRUE,,No data fetched for symbol LEXEB using YahooDailyReader,,,,,,,,,
+349,LEXEA,Liberty Expedia Holdings Inc,$50.42 ,TRUE,,No data fetched for symbol LEXEA using YahooDailyReader,,,,,,,,,
+350,LDDFF,Liberty Defense Holdings Ltd,0.046100002,TRUE,2019,,,,,,,,,,
+351,LBRDB,Liberty Broadband Corp,145.4700012,TRUE,2014,,,,,,,,,,
+352,LBRDK,Liberty Broadband Corp,157.3399963,TRUE,2014,,,,,,,,,,
+353,LBRDA,Liberty Broadband Corp,156.5099945,TRUE,2014,,,,,,,,,,
+354,BATRB,Liberty Braves Group,28.5,TRUE,2016,,,,,,,,,,
+355,BATRK,Liberty Braves Group,24.04999924,TRUE,2016,,,,,,,,,,
+356,BATRA,Liberty Braves Group,24.26000023,TRUE,2016,,,,,,,,,,
+357,LBBB,Liberty Bell Bank,1.899999976,TRUE,2012,,,,,,,,,,
+358,LBSI,Liberty Bancshares Inc,51.54999924,TRUE,2019,,,,,,,,,,
+359,LBCP,Liberty Bancorp Inc,$41.79 ,TRUE,,No data fetched for symbol LBCP using YahooDailyReader,,,,,,,,,
+360,LIBC,Liberty Bancorp,20.10000038,FALSE,2009,,22-Sep,6-Dec,4,4,7,7,22-Sep,6-Dec,2.517331212
+361,ASG,Liberty All Star Growth Fund Inc,8.130000114,FALSE,2009,,18-May,1-Aug,9,7,2,4,10-Feb,25-Apr,3.840330937
+362,USA,Liberty All Star Equity Fund,6.480000019,FALSE,2009,,23-May,6-Aug,8,7,3,4,3-Feb,18-Apr,1.743744447
+363,LBCMF,Libero Copper & Gold Corp,0.068800002,TRUE,2013,,,,,,,,,,
+364,LBBRF,Liberbank SA,0.170000002,TRUE,2017,,,,,,,,,,
+365,LBMH,Liberator Medical Holdings Inc,$3.35 ,TRUE,,'Date',,,,,,,,,
+366,LSYN,Liberated Syndication Inc,3.660000086,TRUE,2017,,,,,,,,,,
+367,LBYYQ,Libbey Inc,0.039999999,FALSE,2009,,2-Jul,15-Sep,5,5,6,6,2-Jul,15-Sep,-9.23760264
+368,LLIT,Lianluo Smart Ltd,3.700099945,FALSE,2010,,24-Dec,9-Mar,8,8,2,2,24-Dec,9-Mar,17.88575533
+369,LHUAF,Lianhua Supermarket Holdings Co Ltd,0.170000002,TRUE,2012,,,,,,,,,,
+370,LNDT,LianDi Clean Technology Inc,0.02,FALSE,2010,,20-May,3-Aug,3,3,7,7,20-May,3-Aug,-3.751278131
+371,LIEG,LI3 Energy Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+372,LNNGY,Li Ning Co Ltd,143.75,TRUE,2012,,,,,,,,,,
+373,LNNGF,Li Ning Co Ltd,5.800000191,FALSE,2009,,10-Sep,24-Nov,3,3,8,8,10-Sep,24-Nov,3.60169226
+374,LI,Li Auto Inc,35.49000168,TRUE,2020,,,,,,,,,,
+375,LFUGY,Li & Fung Ltd,$0.22 ,TRUE,,No data fetched for symbol LFUGY using YahooDailyReader,,,,,,,,,
+376,LFUGF,Li & Fung Ltd,0.159999996,FALSE,2010,,2-Jul,15-Sep,5,5,5,5,16-Jan,31-Mar,3.529123251
+377,LHCG,LHC Group Inc,203.5700073,FALSE,2009,,25-May,8-Aug,5,5,6,6,25-May,8-Aug,8.11798145
+378,DFNS,LGL Systems Acquisition Corp,9.97990036,TRUE,2020,,,,,,,,,,
+379,LGL,LGL Group Inc,8.890000343,FALSE,2009,,16-Nov,30-Jan,6,6,5,5,16-Nov,30-Jan,9.031281133
+380,LGIH,LGI Homes Inc,110.4499969,TRUE,2013,,,,,,,,,,
+381,LFAP,LGBTQ Loyalty Holdings Inc,0.0059,TRUE,2012,,,,,,,,,,
+382,LGAH,LGA Holdings Inc,0.041000001,TRUE,2012,,,,,,,,,,
+383,LGHMF,LG Household & Health Care Ltd,$67.87 ,TRUE,,'Date',,,,,,,,,
+384,LGHHF,LG Household & Health Care Ltd,$559.66 ,TRUE,,No data fetched for symbol LGHHF using YahooDailyReader,,,,,,,,,
+385,LPL,LG Display Co Ltd,6.690000057,FALSE,2009,,12-Nov,26-Jan,4,4,7,7,11-Oct,25-Dec,5.67215677
+386,LGCLF,LG Chem Ltd,$280.00 ,TRUE,,No data fetched for symbol LGCLF using YahooDailyReader,,,,,,,,,
+387,LGCEY,LG Chem Ltd,$118.90 ,TRUE,,No data fetched for symbol LGCEY using YahooDailyReader,,,,,,,,,
+388,LFAC,LF Capital Acquisition Corp,10.56999969,TRUE,2018,,,,,,,,,,
+389,LYRSY,Leyshon Resources Ltd,$2.05 ,TRUE,,'Date',,,,,,,,,
+390,LEYOF,Leyou Technologies Holdings Ltd,0.305000007,TRUE,2018,,,,,,,,,,
+391,LXK,Lexmark International Inc,$40.49 ,TRUE,,'Date',,,,,,,,,
+392,LXP,Lexington Realty Trust,10.53999996,FALSE,2009,,5-Jun,19-Aug,7,7,4,4,28-Sep,12-Dec,2.80759652
+393,LXGTF,Lexington Biosciences Inc,0.07305,TRUE,2017,,,,,,,,,,
+394,LXMO,Lexington B & L Financial Corp,$29.00 ,TRUE,,'Date',,,,,,,,,
+395,LX,LexinFintech Holdings Ltd,7.679999828,TRUE,2017,,,,,,,,,,
+396,LXRX,Lexicon Pharmaceuticals Inc,1.600000024,FALSE,2009,,2-May,16-Jul,5,5,6,6,2-May,16-Jul,10.83806627
+397,LXRP,Lexaria Bioscience Corp,0.211999997,FALSE,2009,,3-Aug,17-Oct,4,4,7,7,3-Aug,17-Oct,-6.968289371
+398,LEXVF,Lexam VG Gold Inc,$0.16 ,TRUE,,No data fetched for symbol LEXVF using YahooDailyReader,,,,,,,,,
+399,LXXGF,Lexagene Holdings Inc,0.611999989,TRUE,2017,,,,,,,,,,
+400,LWCL,Lewis & Clark Bancorp,23.25,TRUE,2012,,,,,,,,,,
+401,LVNVF,Levon Resources Ltd,$0.16 ,TRUE,,No data fetched for symbol LVNVF using YahooDailyReader,,,,,,,,,
+402,LVCNF,Leviathan Natural Products Inc,0.158000007,TRUE,2018,,,,,,,,,,
+403,LVISF,Levi Strauss Japan Kabushiki Kaisha,$14.28 ,TRUE,,No data fetched for symbol LVISF using YahooDailyReader,,,,,,,,,
+404,LEVI,Levi Strauss & Co,18.71999931,TRUE,2019,,,,,,,,,,
+405,LVSYF,Lever Style Corp,0.035,TRUE,2020,,,,,,,,,,
+406,LVBX,LevelBlox Inc,0.0133,TRUE,2012,,,,,,,,,,
+407,LEVL,Level One Bancorp Inc,19.51000023,TRUE,2018,,,,,,,,,,
+408,LCRTF,Leucrotta Exploration Inc,0.49981001,TRUE,2014,,,,,,,,,,
+409,LGWXY,Let?s Gowex SA,$10.04 ,TRUE,,No data fetched for symbol LGWXY using YahooDailyReader,,,,,,,,,
+410,LESL,Leslies Inc,21.5,TRUE,2020,,,,,,,,,,
+411,LYSFY,Leroy Seafood Group ASA,11.14000034,TRUE,2014,,,,,,,,,,
+412,LYSFF,Leroy Seafood Group ASA,6.5,TRUE,2013,,,,,,,,,,
+413,LVNSD,LeoNovus Inc,0.282014012,TRUE,2020,,,,,,,,,,
+414,LNNNY,Leoni AG,1.879999995,TRUE,2014,,,,,,,,,,
+415,LNNNF,Leoni AG,6.753399849,TRUE,2013,,,,,,,,,,
+416,LEON,Leone Asset Management Inc,0.130999997,TRUE,2012,,,,,,,,,,
+417,FINMY,Leonardo SpA,3.390000105,FALSE,2010,,20-Nov,3-Feb,5,5,5,5,20-Nov,3-Feb,7.771352247
+418,FINMF,Leonardo SpA,6.590000153,FALSE,2010,,7-Jul,20-Sep,5,5,5,5,7-Jul,20-Sep,4.652510959
+419,LEFUF,Leon's Furniture Ltd,15.23400021,TRUE,2012,,,,,,,,,,
+420,LEOPF,Leo Palace21 Corp,$1.60 ,TRUE,,No data fetched for symbol LEOPF using YahooDailyReader,,,,,,,,,
+421,LNZNF,Lenzing AG,52.97000122,TRUE,2012,,,,,,,,,,
+422,LASLY,Lentuo International Inc,0.0057,TRUE,2012,,,,,,,,,,
+423,LENTY,Lenta PLC,1.774700046,TRUE,2020,,,,,,,,,,
+424,LNSR,LENSAR Inc,9.210000038,TRUE,2020,,,,,,,,,,
+425,LNXW,Lenox Wealth Management Inc,16250,TRUE,2012,,,,,,,,,,
+426,LNVGY,Lenovo Group Ltd,14.03999996,FALSE,2009,,26-Aug,9-Nov,5,5,6,6,26-Aug,9-Nov,9.305886792
+427,LNVGF,Lenovo Group Ltd,0.68779999,FALSE,2009,,7-Jun,21-Aug,5,5,6,6,26-Aug,9-Nov,9.271411134
+428,LII,Lennox International Inc,296.1499939,FALSE,2009,,26-Sep,10-Dec,10,10,1,1,15-Oct,29-Dec,9.672753338
+429,LEN.B,Lennar Corp,$61.35 ,TRUE,,'Date',,,,,,,,,
+430,LEN,Lennar Corp,76.48000336,FALSE,2009,,2-Nov,16-Jan,8,8,3,3,2-Nov,16-Jan,10.03952451
+431,LLESY,Lendlease Group,10.625,FALSE,2010,,11-Dec,24-Feb,8,6,2,4,11-Dec,24-Feb,6.350833583
+432,LLESF,Lendlease Group,10.5,FALSE,2010,,2-Jan,17-Mar,9,8,1,2,2-Jan,17-Mar,4.43686419
+433,TREE,LendingTree Inc,286.6700134,FALSE,2009,,27-Sep,11-Dec,6,6,5,5,27-Sep,11-Dec,10.94010924
+434,LC,LendingClub Corp,6.53000021,TRUE,2014,,,,,,,,,,
+435,LMND,Lemonade Inc,63.79000092,TRUE,2020,,,,,,,,,,
+436,LEMMF,Lemminkainen Oyj,$30.32 ,TRUE,,No data fetched for symbol LEMMF using YahooDailyReader,,,,,,,,,
+437,LMAT,LeMaitre Vascular Inc,38,FALSE,2009,,22-Jun,5-Sep,7,7,4,4,22-Jun,5-Sep,11.99696429
+438,LMHDF,LEM Holding SA,"$1,415.00 ",TRUE,,No data fetched for symbol LMHDF using YahooDailyReader,,,,,,,,,
+439,LEKOF,Lekoil Ltd,0.050000001,TRUE,2013,,,,,,,,,,
+440,LEJU,Leju Holdings Ltd,2.369999886,TRUE,2014,,,,,,,,,,
+441,LACQ,Leisure Acquisition Corp,10.5,TRUE,2018,,,,,,,,,,
+442,MRTDF,Leigh Creek Energy Ltd,$0.17 ,TRUE,,No data fetched for symbol MRTDF using YahooDailyReader,,,,,,,,,
+443,LDOS,Leidos Holdings Inc,99.52999878,FALSE,2009,,26-Oct,9-Jan,9,9,2,2,26-Oct,9-Jan,7.695205269
+444,LTRKF,Lehman Trikes Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+445,LGRVF,Legrand SA,82.43000031,TRUE,2012,,,,,,,,,,
+446,LGRDY,Legrand SA,17.17000008,TRUE,2019,,,,,,,,,,
+447,LEG,Leggett & Platt Inc,42.56000137,FALSE,2009,,28-Oct,11-Jan,9,7,2,4,28-Oct,11-Jan,4.159909858
+448,CEM,"Legg Mason Partners Fund Advisor, LLC",16.62000084,FALSE,2010,,8-Dec,21-Feb,5,5,5,5,7-Dec,20-Feb,3.496613941
+449,LM,Legg Mason Inc,49.99000168,FALSE,2009,,8-Feb,23-Apr,7,7,4,4,8-Feb,23-Apr,9.282103329
+450,LPSIF,Legend Power Systems Inc,0.270779997,TRUE,2013,,,,,,,,,,
+451,LGNRF,Legend Holdings Ltd,1.35284996,TRUE,2020,,,,,,,,,,
+452,NOATF,Legend Gold Corp,$0.28 ,TRUE,,No data fetched for symbol NOATF using YahooDailyReader,,,,,,,,,
+453,LEGN,Legend Biotech Corp,27.94000053,TRUE,2020,,,,,,,,,,
+454,LRCI,Legal Research Center Inc,$0.05 ,TRUE,,'Date',,,,,,,,,
+455,LLFP,Legal Life Plans Inc,$0.40 ,TRUE,,'Date',,,,,,,,,
+456,LGGNY,Legal & General Group PLC,17.01000023,FALSE,2010,,3-Sep,17-Nov,6,6,4,4,3-Sep,17-Nov,8.732235968
+457,LGGNF,Legal & General Group PLC,3.450000048,FALSE,2010,,3-Sep,17-Nov,7,7,3,3,3-Sep,17-Nov,5.265812338
+458,LTXB,LegacyTexas Financial Group Inc,$42.54 ,TRUE,,No data fetched for symbol LTXB using YahooDailyReader,,,,,,,,,
+459,LGYV,Legacy Ventures International Inc,0.899999976,TRUE,2017,,,,,,,,,,
+460,LTHO,Legacy Technology Holdings Inc,0.079999998,FALSE,2009,,14-Jul,27-Sep,3,3,8,8,14-Jul,27-Sep,4.380768688
+461,LRNRF,Legacy Iron Ore Ltd,$0.05 ,TRUE,,No data fetched for symbol LRNRF using YahooDailyReader,,,,,,,,,
+462,LEGH,Legacy Housing Corp,14.89000034,TRUE,2018,,,,,,,,,,
+463,LEAI,Legacy Education Alliance Inc,0.051600002,TRUE,2014,,,,,,,,,,
+464,LGC,Legacy Acquisition Corp,10.15999985,TRUE,2017,,,,,,,,,,
+465,LEGIF,LEG Immobilien AG,138,TRUE,2013,,,,,,,,,,
+466,LPCUF,Lee?s Pharmaceutical Holdings Ltd,$1.15 ,TRUE,,No data fetched for symbol LPCUF using YahooDailyReader,,,,,,,,,
+467,LPHM,Lee Pharmaceuticals,0.021500001,FALSE,2009,,10-Jul,23-Sep,5,5,6,6,10-Jul,23-Sep,-4.465285241
+468,LEFA,LEE Fine Arts Inc,$6.08 ,TRUE,,No data fetched for symbol LEFA using YahooDailyReader,,,,,,,,,
+469,LFEEF,Lee Feed Mill PLC,$0.08 ,TRUE,,No data fetched for symbol LFEEF using YahooDailyReader,,,,,,,,,
+470,LEE,Lee Enterprises Inc,0.974799991,FALSE,2009,,17-Nov,31-Jan,7,7,4,4,17-Nov,31-Jan,10.87359301
+471,LMPMY,Lee & Man Paper Manufacturing Ltd,7.789999962,FALSE,2010,,27-Aug,10-Nov,5,5,5,5,27-Aug,10-Nov,6.748358434
+472,LMPMF,Lee & Man Paper Manufacturing Ltd,0.529999971,FALSE,2009,,13-Mar,27-May,4,4,7,7,16-Jan,31-Mar,6.184045238
+473,LFGP,Ledyard Financial Group Inc,19,FALSE,2009,,6-Oct,20-Dec,8,5,3,6,29-Aug,12-Nov,4.370859917
+474,LMSAF,Ledesma SA,$0.10 ,TRUE,,No data fetched for symbol LMSAF using YahooDailyReader,,,,,,,,,
+475,LCTSF,Lectra,24.35440063,TRUE,2017,,,,,,,,,,
+476,SLDZF,Lebanese Co for Dev&Rec of Beirut,$8.98 ,TRUE,,No data fetched for symbol SLDZF using YahooDailyReader,,,,,,,,,
+477,LEAT,Leatt Corp,7,FALSE,2009,,9-Sep,23-Nov,7,7,4,4,9-Sep,23-Nov,12.40009997
+478,LTRE,Learning Tree International Inc,0.414999992,FALSE,2009,,24-Aug,7-Nov,3,3,8,8,24-Aug,7-Nov,7.609731256
+479,LTTHF,Learning Technologies Group PLC,1.690600038,TRUE,2018,,,,,,,,,,
+480,LEA,Lear Corp,141.1699982,FALSE,2009,,25-Sep,9-Dec,9,9,2,2,25-Sep,9-Dec,9.213893367
+481,LLAB,LeapLab Corp,2.924999952,TRUE,2018,,,,,,,,,,
+482,LF,Leapfrog Enterprises Inc,$1.00 ,TRUE,,'Date',,,,,,,,,
+483,LPTX,Leap Therapeutics Inc,1.5,TRUE,2017,,,,,,,,,,
+484,LPTC,Leap Technology Inc,0.007,FALSE,2009,,7-Dec,20-Feb,4,4,7,7,7-Dec,20-Feb,13.39531107
+485,LNLHF,LeanLife Health Inc,0.0294,TRUE,2018,,,,,,,,,,
+486,LMCNF,Leagold Mining Corp,$1.87 ,TRUE,,No data fetched for symbol LMCNF using YahooDailyReader,,,,,,,,,
+487,LBUY,Leafbuyer Technologies Inc,0.064999998,TRUE,2017,,,,,,,,,,
+488,LOFB,Leaf Of Faith Beverage Inc,0.044,TRUE,2012,,,,,,,,,,
+489,LEMLF,Leaf Mobile Inc,0.170100003,TRUE,2020,,,,,,,,,,
+490,LEAF,Leaf Group Ltd,5.320000172,TRUE,2011,,,,,,,,,,
+491,LEMIF,Leading Edge Materials Corp,0.137250006,TRUE,2013,,,,,,,,,,
+492,IVWFF,LeadFX Inc,$0.73 ,TRUE,,No data fetched for symbol IVWFF using YahooDailyReader,,,,,,,,,
+493,LHIL,Leader Hill Corp,2.299999952,TRUE,2020,,,,,,,,,,
+494,LDRXF,Leader Energy Services Ltd,$0.01 ,TRUE,,No data fetched for symbol LDRXF using YahooDailyReader,,,,,,,,,
+495,LCHD,Leader Capital Holdings Corp,3,TRUE,2019,,,,,,,,,,
+496,LEIC,Lead Innovation Corp,1,TRUE,2018,,,,,,,,,,
+497,LESAF,Le Saunda Holdings Ltd,0.050000001,FALSE,2009,,2-Jun,16-Aug,3,3,8,8,6-Apr,20-Jun,6.522590392
+498,SLLTF,Le Mare Gold Corp,0.034469999,TRUE,2017,,,,,,,,,,
+499,LCUAF,Le Chateau Inc,$0.05 ,TRUE,,No data fetched for symbol LCUAF using YahooDailyReader,,,,,,,,,
+500,LDRH,LDR Holding Corp,$36.98 ,TRUE,,'Date',,,,,,,,,
+501,LDKYQ,LDK Solar Co Ltd,$0.01 ,TRUE,,No data fetched for symbol LDKYQ using YahooDailyReader,,,,,,,,,
+502,LGCHF,LCT Holdings Ltd,0.330000013,FALSE,2009,,1-Sep,15-Nov,5,5,6,6,31-Aug,14-Nov,7.416169549
+503,LCNB,LCNB Corp,14.80000019,FALSE,2009,,23-Apr,7-Jul,7,3,4,8,12-Apr,26-Jun,2.643831288
+504,LCII,LCI Industries Inc,124.6600037,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,30-Oct,13-Jan,6.229717781
+505,LAZY,Lazydays Holdings Inc,14.81000042,TRUE,2018,,,,,,,,,,
+506,LKII,Lazare Kaplan International Inc,$0.75 ,TRUE,,'Date',,,,,,,,,
+507,LAZ,Lazard Ltd,36.79999924,FALSE,2009,,26-Oct,9-Jan,8,7,3,4,26-Oct,9-Jan,6.081479058
+508,LGI,Lazard Global Total Return & Inc Fd Inc,16.65999985,FALSE,2009,,16-Feb,1-May,8,8,3,3,15-Feb,30-Apr,2.479456605
+509,LAYN,Layne Christensen Co,15.40999985,TRUE,2012,,,,,,,,,,
+510,LAXAF,Laxai Pharma Ltd,0.009,TRUE,2012,,,,,,,,,,
+511,LAWS,Lawson Products Inc,49.59999847,FALSE,2009,,22-Sep,6-Dec,4,4,7,7,22-Sep,6-Dec,14.16880923
+512,LWSOF,Lawson Inc,$47.50 ,TRUE,,No data fetched for symbol LWSOF using YahooDailyReader,,,,,,,,,
+513,LMEFF,Laurion Mineral Exploration Inc,0.170100003,FALSE,2009,,19-Jun,2-Sep,7,7,4,4,19-Jun,2-Sep,33.82188282
+514,LRCDF,Laurentian Bank of Canada,23.76000023,FALSE,2010,,10-Sep,24-Nov,4,4,6,6,17-Oct,31-Dec,1.958043158
+515,LPRRF,Laurent-Perrier,89.69999695,TRUE,2012,,,,,,,,,,
+516,LAUR,Laureate Education Inc,14.18000031,TRUE,2017,,,,,,,,,,
+517,LHTCF,Launch Tech Co Ltd,$0.87 ,TRUE,,'Date',,,,,,,,,
+518,LSCC,Lattice Semiconductor Corp,39.79999924,FALSE,2009,,28-Oct,11-Jan,7,7,4,4,28-Oct,11-Jan,12.22448272
+519,LBLTF,Lattice Biologics Ltd,0.02227,FALSE,2010,,14-Jun,28-Aug,2,2,6,6,14-Jun,28-Aug,12.54539041
+520,LNRDY,Latin Resources Ltd,$1.25 ,TRUE,,No data fetched for symbol LNRDY using YahooDailyReader,,,,,,,,,
+521,LMSQF,Latin Metals Inc,0.078910001,TRUE,2014,,,,,,,,,,
+522,LTLM,Lateral Media Inc,$0.55 ,TRUE,,No data fetched for symbol LTLM using YahooDailyReader,,,,,,,,,
+523,SIJDF,Latecoere SA,5.440000057,TRUE,2017,,,,,,,,,,
+524,LCWYF,Latchways PLC,$15.50 ,TRUE,,No data fetched for symbol LCWYF using YahooDailyReader,,,,,,,,,
+525,LTMAQ,LATAM Airlines Group SA,1.519999981,FALSE,2009,,25-Aug,8-Nov,7,7,4,4,25-Aug,8-Nov,9.491698889
+526,LSMNF,lastminute.com NV,25.17420006,TRUE,2019,,,,,,,,,,
+527,AZNVF,Last Mile Holdings Ltd,0.0221,TRUE,2012,,,,,,,,,,
+528,LSDAF,Lassonde Industries Inc,125.5299988,TRUE,2013,,,,,,,,,,
+529,LASKF,Lassila & Tikanoja Oyj,14,TRUE,2015,,,,,,,,,,
+530,LSRCY,Lasertec Corp,19.45999908,TRUE,2020,,,,,,,,,,
+531,LSRCF,Lasertec Corp,78.5,TRUE,2019,,,,,,,,,,
+532,LMTI,Laser Master International Inc,0.050000001,FALSE,2009,,15-Mar,29-May,3,3,8,8,15-Mar,29-May,17.99212484
+533,LHO,LaSalle Hotel Properties,32.06000137,TRUE,2012,,,,,,,,,,
+534,LSXEF,LaSalle Exploration Corp,0.104400001,TRUE,2020,,,,,,,,,,
+535,LVS,Las Vegas Sands Corp,57.33000183,FALSE,2009,,26-Aug,9-Nov,8,8,3,3,26-Aug,9-Nov,8.820134774
+536,LTOUF,Larsen & Toubro Ltd,11.30000019,FALSE,2009,,16-May,30-Jul,6,6,5,5,16-May,30-Jul,13.1297252
+537,LRMR,Larimar Therapeutics Inc,21.20999908,TRUE,2014,,,,,,,,,,
+538,LGORF,Largo Resources Ltd,0.769999981,FALSE,2010,,19-May,2-Aug,4,4,6,6,19-May,2-Aug,9.214238472
+539,LPI,Laredo Petroleum Inc,11.11999989,TRUE,2011,,,,,,,,,,
+540,LRDC,Laredo Oil Inc,0.01,FALSE,2009,,7-Jan,22-Mar,6,6,5,5,7-Jan,22-Mar,11.79522503
+541,LMRXF,Laramide Resources Ltd,0.163379997,FALSE,2009,,13-Nov,27-Jan,4,4,7,7,13-Nov,27-Jan,14.01713365
+542,LRAXF,Lara Exploration Ltd,0.56931603,FALSE,2009,,8-Jun,22-Aug,6,6,5,5,8-Jun,22-Aug,6.422676266
+543,LAREF,Lar Espana Real Estate Socimi SA,4.150000095,TRUE,2014,,,,,,,,,,
+544,LPSB,LaPorte Bancorp Inc,$17.15 ,TRUE,,'Date',,,,,,,,,
+545,LPAD,LaPolla Industries Inc,$1.02 ,TRUE,,'Date',,,,,,,,,
+546,LPDHF,Lapidoth Capital Ltd,$4.35 ,TRUE,,No data fetched for symbol LPDHF using YahooDailyReader,,,,,,,,,
+547,LAOXF,Laox Co Ltd,11,TRUE,2019,,,,,,,,,,
+548,LNXSY,Lanxess AG,12,TRUE,2020,,,,,,,,,,
+549,LNXSF,Lanxess AG,64,TRUE,2012,,,,,,,,,,
+550,LTRX,Lantronix Inc,4.389999866,FALSE,2009,,17-Nov,31-Jan,6,6,5,5,17-Nov,31-Jan,16.54810913
+551,LNTH,Lantheus Holdings Inc,12.35000038,TRUE,2015,,,,,,,,,,
+552,LTRN,Lantern Pharma Inc,16.42000008,TRUE,2020,,,,,,,,,,
+553,LCI,Lannett Co Inc,6.210000038,FALSE,2009,,22-Aug,5-Nov,5,5,6,6,22-Aug,5-Nov,7.270146843
+554,LMMHF,Langham Hospitality Investments and Langham Hospit,0.144999996,TRUE,2020,,,,,,,,,,
+555,LSTR,Landstar System Inc,131.4100037,FALSE,2009,,31-Oct,14-Jan,8,8,3,3,31-Oct,14-Jan,4.33663996
+556,LDSSF,Landscape Acquisition Holdings Ltd,8.300000191,TRUE,2018,,,,,,,,,,
+557,LE,Lands' End Inc,21.03000069,TRUE,2014,,,,,,,,,,
+558,LNDSF,Landore Resources Ltd,$0.02 ,TRUE,,No data fetched for symbol LNDSF using YahooDailyReader,,,,,,,,,
+559,LMRK,Landmark Infrastructure Partners LP,10.28999996,TRUE,2014,,,,,,,,,,
+560,LDKB,Landmark Bancorp Inc,10.5,FALSE,2010,,19-Mar,2-Jun,5,3,5,7,19-Mar,2-Jun,6.75704174
+561,LARK,Landmark Bancorp Inc,24.65999985,FALSE,2009,,6-Apr,20-Jun,8,7,3,4,5-Apr,19-Jun,4.3655814
+562,LGYRF,Landis+Gyr Group AG,63.53269958,TRUE,2019,,,,,,,,,,
+563,LDGYY,Landis+Gyr Group AG,15.64999962,TRUE,2018,,,,,,,,,,
+564,LDRZF,Landi Renzo SpA,$0.97 ,TRUE,,No data fetched for symbol LDRZF using YahooDailyReader,,,,,,,,,
+565,LNDC,Landec Corp,10.17000008,FALSE,2009,,13-May,27-Jul,7,7,4,4,13-May,27-Jul,6.210916148
+566,LCA,Landcadia Holdings II Inc,14.96000004,TRUE,2019,,,,,,,,,,
+567,LDR,Landauer Inc,$67.20 ,TRUE,,'Date',,,,,,,,,
+568,LSGOY,Land Securities Group PLC,$14.60 ,TRUE,,No data fetched for symbol LSGOY using YahooDailyReader,,,,,,,,,
+569,LSGOF,Land Securities Group PLC,9.520000458,TRUE,2012,,,,,,,,,,
+570,LDSCY,Land Securities Group PLC,9.43999958,TRUE,2017,,,,,,,,,,
+571,LDHOF,Land and Houses PCL,$0.33 ,TRUE,,No data fetched for symbol LDHOF using YahooDailyReader,,,,,,,,,
+572,LDXHF,Land and Houses PCL,$0.30 ,TRUE,,No data fetched for symbol LDXHF using YahooDailyReader,,,,,,,,,
+573,LANZ,Lancer Orthodontics Inc,0.330000013,FALSE,2009,,20-Dec,5-Mar,5,5,6,6,20-Dec,5-Mar,10.02086193
+574,LANC,Lancaster Colony Corp,178.2700043,FALSE,2009,,20-Oct,3-Jan,3,3,8,8,21-Sep,5-Dec,8.363882333
+575,LCSHF,Lancashire Holdings Ltd,9.75,FALSE,2010,,9-Sep,23-Nov,5,5,5,5,9-Sep,23-Nov,5.715669166
+576,LMPRF,Lamprell PLC,0.419,TRUE,2012,,,,,,,,,,
+577,LLLI,Lamperd Less Lethal Inc,0.0142,FALSE,2009,,24-Mar,7-Jun,5,5,6,6,24-Mar,7-Jun,9.600121523
+578,LMDFF,Lamda Development SA,$8.01 ,TRUE,,No data fetched for symbol LMDFF using YahooDailyReader,,,,,,,,,
+579,LW,Lamb Weston Holdings Inc,73.23999786,TRUE,2016,,,,,,,,,,
+580,LAMR,Lamar Advertising Co,76.77999878,FALSE,2009,,6-Sep,20-Nov,8,8,3,3,8-Sep,22-Nov,12.49415855
+581,LRCX,Lam Research Corp,430.3299866,FALSE,2009,,20-Sep,4-Dec,6,6,5,5,20-Sep,4-Dec,10.66871746
+582,LKSB,Lakeside Bancshares Inc LA,12.05000019,TRUE,2019,,,,,,,,,,
+583,LAKE,Lakeland Industries Inc,20.61000061,FALSE,2009,,29-Mar,12-Jun,8,8,3,3,29-Mar,12-Jun,4.400368363
+584,LKFN,Lakeland Financial Corp,53.93999863,FALSE,2009,,28-May,11-Aug,4,4,7,7,28-May,11-Aug,5.028155404
+585,LBAI,Lakeland Bancorp Inc,12.26000023,FALSE,2009,,23-Mar,6-Jun,5,5,6,6,23-Mar,6-Jun,5.700828709
+586,EQTXF,Lake Winn Resources Corp,0.172000006,TRUE,2014,,,,,,,,,,
+587,LVCA,Lake Victoria Mining Co Inc,0.022,FALSE,2009,,20-Aug,3-Nov,7,7,4,4,20-Aug,3-Nov,-4.738399089
+588,LSBG,Lake Sunapee Bank Group,$21.94 ,TRUE,,'Date',,,,,,,,,
+589,LSG,Lake Shore Gold Corp,$1.47 ,TRUE,,'Date',,,,,,,,,
+590,LSBK,Lake Shore Bancorp Inc,12.81000042,FALSE,2009,,20-Nov,3-Feb,8,7,3,4,20-Nov,3-Feb,4.119579361
+591,LLKKF,Lake Resources NL,0.046,TRUE,2018,,,,,,,,,,
+592,LAKF,Lake Forest Minerals Inc,5.000100136,TRUE,2019,,,,,,,,,,
+593,LKCRU,Lake Area Corn Processors LLC,2.5,TRUE,2018,,,,,,,,,,
+594,LAIX,LAIX Inc,1.549999952,TRUE,2018,,,,,,,,,,
+595,LSF,Laird Superfood Inc,47.5,TRUE,2020,,,,,,,,,,
+596,LARRF,Laird PLC,2.579999924,TRUE,2013,,,,,,,,,,
+597,LSIHF,Lai Sun Garment (International) Ltd,$0.90 ,TRUE,,No data fetched for symbol LSIHF using YahooDailyReader,,,,,,,,,
+598,LVSDF,Lai Sun Development Co Ltd,0.691799998,TRUE,2014,,,,,,,,,,
+599,LFHLF,Lai Fung Holdings Ltd,1.263900042,TRUE,2012,,,,,,,,,,
+600,LGDDF,Lagardere SCA,31,FALSE,2010,,5-Mar,19-May,4,4,6,6,19-Nov,2-Feb,5.730219159
+601,LFYC,Lafayette Community Bancorp,$16.85 ,TRUE,,'Date',,,,,,,,,
+602,HCMLY,LafargeHolcim Ltd,10.27000046,FALSE,2010,,16-Feb,1-May,6,6,4,4,31-Jan,15-Apr,4.522833721
+603,HCMLF,LafargeHolcim Ltd,52.15000153,FALSE,2009,,15-Feb,30-Apr,7,7,4,4,16-Feb,1-May,7.437956579
+604,LBRG,Ladybug Resource Group Inc,0.01,FALSE,2010,,24-May,7-Aug,3,3,7,7,24-May,7-Aug,13.87561952
+605,LTS,Ladenburg Thalmann Financial Services Inc,$3.49 ,TRUE,,No data fetched for symbol LTS using YahooDailyReader,,,,,,,,,
+606,LADR,Ladder Capital Corp,8.640000343,TRUE,2014,,,,,,,,,,
+607,LDCOY,Ladbrokes Coral Group PLC,2.177999973,TRUE,2012,,,,,,,,,,
+608,LDBKF,Ladbrokes Coral Group PLC,2.319999933,TRUE,2012,,,,,,,,,,
+609,LTXFF,Labrador Technologies Inc,0.0075,TRUE,2019,,,,,,,,,,
+610,LIFZF,Labrador Iron Ore Royalty Corp,18.62249947,FALSE,2010,,29-Oct,12-Jan,5,5,5,5,29-Oct,12-Jan,2.486722357
+611,LBRMF,Labrador Iron Mines Holdings Ltd,0.043900002,TRUE,2017,,,,,,,,,,
+612,NKOSF,Labrador Gold Corp,0.349999994,TRUE,2013,,,,,,,,,,
+613,LH,Laboratory Corp of America Holdings,199.0299988,FALSE,2009,,7-May,21-Jul,8,8,3,3,7-May,21-Jul,6.049277757
+614,LXSGF,Labixiaoxin Snacks Group Ltd,$0.06 ,TRUE,,No data fetched for symbol LXSGF using YahooDailyReader,,,,,,,,,
+615,LAACZ,LAACO Ltd,2200,FALSE,2009,,23-Mar,6-Jun,9,8,2,3,3-Sep,17-Nov,4.058892411
+616,LZB,La-Z-Boy Inc,39.49000168,FALSE,2009,,7-Sep,21-Nov,6,6,5,5,7-Sep,21-Nov,5.689314488
+617,LJPC,La Jolla Pharmaceutical Co,4.420000076,TRUE,2012,,,,,,,,,,
+618,LFDJF,La Francaise Des Jeux SA,39.75,TRUE,2020,,,,,,,,,,
+619,LHX,L3Harris Technologies Inc,196.3500061,FALSE,2009,,29-Oct,12-Jan,6,6,5,5,29-Oct,12-Jan,6.349199025
+620,FSTR,L.B. Foster Co,14.85999966,FALSE,2009,,2-Oct,16-Dec,5,5,6,6,2-Oct,16-Dec,6.718681216
+621,LRLCY,L'Oreal SA,74.29000092,FALSE,2009,,16-Mar,30-May,8,8,3,3,28-Feb,13-May,6.762033258
+622,LRLCF,L'Oreal SA,374.0599976,FALSE,2010,,20-Feb,5-May,8,8,2,2,24-Mar,7-Jun,5.868664166
+623,LCCTY,L'Occitane International SA,$8.65 ,TRUE,,No data fetched for symbol LCCTY using YahooDailyReader,,,,,,,,,
+624,LCCTF,L'Occitane International SA,1.730000019,TRUE,2012,,,,,,,,,,
+625,LBGUF,L E Lundbergforetagen AB,46.39899826,TRUE,2020,,,,,,,,,,
+626,LB,L Brands Inc,33.61000061,FALSE,2009,,17-Sep,1-Dec,6,6,5,5,25-Aug,8-Nov,11.42155961
+627,LLEN,L & L Energy Inc,$0.02 ,TRUE,,No data fetched for symbol LLEN using YahooDailyReader,,,,,,,,,

@@ -1,0 +1,1266 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,PZN,Pzena Investment Management Inc,6.389999866485596,False,2009.0,,09-08,11-22,6.0,5.0,5.0,6.0,09-08,11-22,8.444954473353997
+1,PZCUY,PZ Cussons PLC,5.619999885559082,True,2014.0,,,,,,,,,,
+2,PZCUF,PZ Cussons PLC,$2.60 ,True,,No data fetched for symbol PZCUF using YahooDailyReader,,,,,,,,,
+3,PYYX,Pyxus International Inc,4.599999904632568,True,2020.0,,,,,,,,,,
+4,PYXSQ,Pyxus International Inc,0.15000000596046448,False,2009.0,,01-29,04-13,6.0,6.0,5.0,5.0,01-29,04-13,3.0561461562700125
+5,PXS,Pyxis Tankers Inc,0.8734999895095825,True,2015.0,,,,,,,,,,
+6,PYROF,Pyrolyx AG,2.5866000652313232,True,2019.0,,,,,,,,,,
+7,PYRNF,PyroGenesis Canada Inc,2.880000114440918,True,2011.0,,,,,,,,,,
+8,PYNGF,Pyng Medical Corp,$0.30 ,True,,'Date',,,,,,,,,
+9,PXPEF,PXP Energy Corp,0.10000000149011612,True,2018.0,,,,,,,,,,
+10,PWCO,PwrCor Inc,0.07445000112056732,True,2012.0,,,,,,,,,,
+11,PMTHF,PW Medtech Group Ltd,$0.23 ,True,,No data fetched for symbol PMTHF using YahooDailyReader,,,,,,,,,
+12,PVH,PVH Corp,78.53500366210938,False,2009.0,,02-11,04-26,7.0,7.0,4.0,4.0,02-11,04-26,8.076656352566468
+13,TPLKF,PVA TePla AG,16.5,True,2012.0,,,,,,,,,,
+14,PVNNF,PV Nano Cell Ltd,0.14000000059604645,True,2017.0,,,,,,,,,,
+15,PVCRF,PV Crystalox Solar PLC,0.8100000023841858,True,2013.0,,,,,,,,,,
+16,PUYI,Puyi Inc,5.849999904632568,True,2019.0,,,,,,,,,,
+17,NEW,Puxin Ltd,7.460000038146973,True,2018.0,,,,,,,,,,
+18,PPT,Putnam Premier Income Trust,4.635000228881836,False,2009.0,,02-22,05-07,9.0,9.0,2.0,2.0,01-20,04-04,-0.3106400925307267
+19,PMO,Putnam Municipal Opportunities Trust,13.369500160217285,False,2009.0,,03-15,05-29,7.0,6.0,4.0,5.0,06-08,08-22,1.7584358856825943
+20,PIM,Putnam Master Intermediate Income Trust,4.150000095367432,False,2009.0,,02-28,05-13,9.0,8.0,2.0,3.0,01-25,04-09,-0.484064650748521
+21,PMM,Putnam Managed Municipal Income Trust,7.880000114440918,False,2009.0,,03-15,05-29,8.0,7.0,3.0,4.0,03-15,05-29,2.85508722514822
+22,PUNB,Putnam County National Bank,$105.00 ,True,,No data fetched for symbol PUNB using YahooDailyReader,,,,,,,,,
+23,PHPYF,Pushpay Holdings Ltd,5.019999980926514,True,2016.0,,,,,,,,,,
+24,PUSOF,Pushfor Investments Inc,0.027400000020861626,True,2019.0,,,,,,,,,,
+25,PRPPF,Purplebricks Group PLC,0.7799999713897705,True,2016.0,,,,,,,,,,
+26,PRPL,Purple Innovation Inc,29.68000030517578,True,2015.0,,,,,,,,,,
+27,PUFLF,Purifloh Ltd,3.0899999141693115,True,2019.0,,,,,,,,,,
+28,WTRSY,Purifloh Ltd,$0.05 ,True,,No data fetched for symbol WTRSY using YahooDailyReader,,,,,,,,,
+29,PRTC,PureTech Health PLC,40.209999084472656,True,2020.0,,,,,,,,,,
+30,PTCHF,PureTech Health PLC,3.880000114440918,True,2015.0,,,,,,,,,,
+31,PURY,PureRay Corp,0.007000000216066837,False,2009.0,,07-15,09-28,6.0,6.0,4.0,4.0,07-15,09-28,27.600657840921613
+32,PUMGF,Purepoint Uranium Group Inc,0.03999999910593033,False,2009.0,,12-04,02-17,6.0,6.0,5.0,5.0,12-04,02-17,27.13904162352781
+33,PRGLY,Puregold Price Club Inc,$6.86 ,True,,No data fetched for symbol PRGLY using YahooDailyReader,,,,,,,,,
+34,PGCMF,Puregold Price Club Inc,0.9100000262260437,True,2013.0,,,,,,,,,,
+35,PDEP,PureDepth Inc,$0.02 ,True,,'Date',,,,,,,,,
+36,PCRTF,PureCircle Ltd,1.0099999904632568,False,2010.0,,12-04,02-17,4.0,4.0,6.0,6.0,12-04,02-17,6.54616344241171
+37,PUBC,PureBase Corp,0.0689999982714653,True,2015.0,,,,,,,,,,
+38,PVNX,Pure Vanilla Exchange Inc,$0.01 ,True,,No data fetched for symbol PVNX using YahooDailyReader,,,,,,,,,
+39,PPEHF,Pure Technologies Ltd,$7.29 ,True,,'Date',,,,,,,,,
+40,PSTG,Pure Storage Inc,18.594999313354492,True,2015.0,,,,,,,,,,
+41,PMULF,Pure Multi-Family REIT LP,$7.60 ,True,,No data fetched for symbol PMULF using YahooDailyReader,,,,,,,,,
+42,PDTRF,Pure Industrial Real Estate Trust,$6.28 ,True,,No data fetched for symbol PDTRF using YahooDailyReader,,,,,,,,,
+43,PHCG,Pure Harvest Cannabis Group Inc,0.3230000138282776,True,2018.0,,,,,,,,,,
+44,LRTNF,Pure Gold Mining Inc,1.7200000286102295,True,2014.0,,,,,,,,,,
+45,PRCNF,Pure Global Cannabis Inc,0.004999999888241291,True,2018.0,,,,,,,,,,
+46,CKATF,Pure Foods Tasmania Ltd,$0.26 ,True,,No data fetched for symbol CKATF using YahooDailyReader,,,,,,,,,
+47,PEMIF,Pure Energy Minerals Ltd,0.09009999781847,True,2016.0,,,,,,,,,,
+48,RKSFF,Pure E&P Norway AS,$0.77 ,True,,No data fetched for symbol RKSFF using YahooDailyReader,,,,,,,,,
+49,PCYO,Pure Cycle Corp,10.015000343322754,False,2009.0,,12-16,03-01,7.0,7.0,4.0,4.0,12-16,03-01,6.6795394586539185
+50,PCST,Pure Capital Solutions Inc,0.10199999809265137,True,2013.0,,,,,,,,,,
+51,PURE,PURE Bioscience Inc,1.1799999475479126,False,2009.0,,04-03,06-17,8.0,8.0,3.0,3.0,04-03,06-17,6.822280294638173
+52,PACQ,Pure Acquisition Corp,10.100000381469727,True,2018.0,,,,,,,,,,
+53,PURA,Puration Inc,0.00930000003427267,True,2012.0,,,,,,,,,,
+54,PFTI,Puradyn Filter Technologies Inc,0.009999999776482582,False,2009.0,,07-02,09-15,5.0,5.0,6.0,6.0,07-02,09-15,4.9132982593796255
+55,PCTVY,Punch Taverns PLC,$3.04 ,True,,No data fetched for symbol PCTVY using YahooDailyReader,,,,,,,,,
+56,PCTVF,Punch Taverns PLC,$2.17 ,True,,'Date',,,,,,,,,
+57,URBT,Punch Animation Inc,0.0430000014603138,False,2009.0,,04-10,06-24,4.0,4.0,7.0,7.0,04-10,06-24,37.276600504869016
+58,PKNHF,Puncak Niaga Holdings Bhd,$1.06 ,True,,No data fetched for symbol PKNHF using YahooDailyReader,,,,,,,,,
+59,PUPKF,Pumpkin Patch Ltd,$0.19 ,True,,'Date',,,,,,,,,
+60,PUMSY,Puma SE,9.859999656677246,True,2018.0,,,,,,,,,,
+61,PMMAF,Puma SE,99.55999755859375,True,2012.0,,,,,,,,,,
+62,PUXPF,Puma Exploration Inc,0.17739999294281006,False,2009.0,,10-30,01-13,5.0,5.0,6.0,6.0,10-30,01-13,8.212041142206438
+63,PBYI,Puma Biotechnology Inc,9.710000038146973,True,2012.0,,,,,,,,,,
+64,PHM,PulteGroup Inc,43.939998626708984,False,2009.0,,11-12,01-26,6.0,6.0,5.0,5.0,11-12,01-26,9.523841739610381
+65,PLSDF,Pulse Seismic Inc,0.699999988079071,False,2010.0,,12-16,03-01,6.0,6.0,4.0,4.0,12-16,03-01,5.837817693960536
+66,PLFX,Pulse Evolution Corp,0.026000000536441803,True,2015.0,,,,,,,,,,
+67,PLSE,Pulse Biosciences Inc,14.437600135803223,True,2016.0,,,,,,,,,,
+68,LUNG,Pulmonx Corp,47.20000076293945,True,2020.0,,,,,,,,,,
+69,PULM,Pulmatrix Inc,1.0850000381469727,True,2014.0,,,,,,,,,,
+70,PULB,Pulaski Financial Corp,$16.17 ,True,,'Date',,,,,,,,,
+71,PHCF,Puhui Wealth Investment Management Co Ltd,2.8299999237060547,True,2019.0,,,,,,,,,,
+72,PUGB,Puget Sound Bancorp Inc,$37.25 ,True,,'Date',,,,,,,,,
+73,PDPTF,PUDO Inc,1.4500000476837158,True,2015.0,,,,,,,,,,
+74,PCRAF,Pucara Gold Ltd,0.5421599745750427,True,2020.0,,,,,,,,,,
+75,PUSH,Publix Super Markets Inc,20.0,True,2013.0,,,,,,,,,,
+76,PEQU,Publishers Equipment Corp,$0.01 ,True,,'Date',,,,,,,,,
+77,PUBGY,Publicis Groupe SA,11.187000274658203,False,2009.0,,11-13,01-27,7.0,7.0,4.0,4.0,11-13,01-27,6.174710132428713
+78,PGPEF,Publicis Groupe SA,45.400001525878906,False,2010.0,,11-24,02-07,8.0,8.0,2.0,2.0,11-24,02-07,6.321670418359593
+79,PSA,Public Storage,228.49000549316406,False,2009.0,,11-21,02-04,8.0,8.0,3.0,3.0,12-16,03-01,4.729026503068821
+80,PPIZF,Public Service Properties Investments Ltd,$0.62 ,True,,No data fetched for symbol PPIZF using YahooDailyReader,,,,,,,,,
+81,PEG,Public Service Enterprise Group Inc,57.474998474121094,False,2009.0,,08-06,10-20,6.0,5.0,5.0,6.0,03-16,05-30,5.149944140358813
+82,PUPOF,Public Power Corp SA,5.739999771118164,True,2012.0,,,,,,,,,,
+83,PBCFF,Public Financial Holdings Ltd,$0.43 ,True,,No data fetched for symbol PBCFF using YahooDailyReader,,,,,,,,,
+84,PCMC,Public Co Management Corp,0.10999999940395355,True,2012.0,,,,,,,,,,
+85,PBLOF,Public Bank Bhd,3.5899999141693115,True,2019.0,,,,,,,,,,
+86,PUTRY,Ptt PCL,5.010000228881836,True,2015.0,,,,,,,,,,
+87,PUTRF,Ptt PCL,1.2000000476837158,False,2010.0,,08-26,11-09,6.0,5.0,4.0,5.0,02-18,05-03,6.213063470436842
+88,PTTPF,Ptt PCL,1.2000000476837158,True,2012.0,,,,,,,,,,
+89,PTGCF,PTT Global Chemical PCL,1.350000023841858,True,2017.0,,,,,,,,,,
+90,PGCPF,PTT Global Chemical PCL,1.690000057220459,True,2014.0,,,,,,,,,,
+91,PCHUY,PTT Global Chemical PCL,6.380000114440918,True,2013.0,,,,,,,,,,
+92,PXEUF,PTT Exploration & Production PCL,$1.96 ,True,,No data fetched for symbol PXEUF using YahooDailyReader,,,,,,,,,
+93,PTXLF,PTT Exploration & Production PCL,2.440000057220459,True,2012.0,,,,,,,,,,
+94,PEXUF,PTT Exploration & Production PCL,1.899999976158142,True,2015.0,,,,,,,,,,
+95,PEXNY,PTT Exploration & Production PCL,5.25,False,2010.0,,12-23,03-08,8.0,5.0,2.0,5.0,12-23,03-08,7.212121373789255
+96,PTSH,PTS Inc,1.75,True,2012.0,,,,,,,,,,
+97,PTK,PTK Acquisition Corp,9.770000457763672,True,2020.0,,,,,,,,,,
+98,PTERF,Pteris Global Ltd,$0.47 ,True,,No data fetched for symbol PTERF using YahooDailyReader,,,,,,,,,
+99,PTCT,PTC Therapeutics Inc,62.22999954223633,True,2013.0,,,,,,,,,,
+100,PTC,PTC Inc,99.11000061035156,False,2009.0,,09-29,12-13,7.0,7.0,4.0,4.0,09-29,12-13,7.536930077968551
+101,PTXKY,PT XL Axiata TBK,3.0799999237060547,True,2012.0,,,,,,,,,,
+102,PTXAF,PT XL Axiata TBK,$0.17 ,True,,No data fetched for symbol PTXAF using YahooDailyReader,,,,,,,,,
+103,PTCXF,PT Wilmar Cahaya Indonesia Tbk,0.11999999731779099,True,2019.0,,,,,,,,,,
+104,PTNDY,PT Vale Indonesia Tbk,16.579999923706055,True,2012.0,,,,,,,,,,
+105,PTNDF,PT Vale Indonesia Tbk,0.335099995136261,False,2010.0,,09-25,12-09,5.0,5.0,5.0,5.0,09-25,12-09,9.732290906027275
+106,UNLRY,PT Unilever Indonesia Tbk,10.470000267028809,True,2012.0,,,,,,,,,,
+107,UNLRF,PT Unilever Indonesia Tbk,0.5631999969482422,True,2012.0,,,,,,,,,,
+108,PTFRY,PT Tower Bersama Infrastructure Tbk,5.199999809265137,True,2012.0,,,,,,,,,,
+109,PTFRF,PT Tower Bersama Infrastructure Tbk,$0.44 ,True,,No data fetched for symbol PTFRF using YahooDailyReader,,,,,,,,,
+110,PTTMF,PT Timah Tbk,0.029999999329447746,True,2012.0,,,,,,,,,,
+111,TLKMF,PT Telekomunikasi Indonesia (Persero) Tbk,0.2249470055103302,True,2012.0,,,,,,,,,,
+112,TLK,PT Telekomunikasi Indonesia (Persero) Tbk,22.190000534057617,False,2009.0,,03-26,06-09,4.0,4.0,7.0,7.0,03-25,06-08,6.7098427018289915
+113,SEDKF,PT Sumber Energi Andalan Tbk,0.022099999710917473,True,2020.0,,,,,,,,,,
+114,PSUGF,PT Sugih Energy Tbk,$36.28 ,True,,No data fetched for symbol PSUGF using YahooDailyReader,,,,,,,,,
+115,PTHIY,PT Solusi Bangun Indonesia Tbk,3.4000000953674316,True,2012.0,,,,,,,,,,
+116,PTHIF,PT Solusi Bangun Indonesia Tbk,0.06499999761581421,True,2013.0,,,,,,,,,,
+117,PSMUF,PT Sinar Mas Multiartha Tbk,$0.06 ,True,,'Date',,,,,,,,,
+118,PSGTY,PT Semen Indonesia (Persero) Tbk,15.789999961853027,False,2010.0,,11-12,01-26,6.0,6.0,4.0,4.0,11-12,01-26,6.096883316613722
+119,PSGTF,PT Semen Indonesia (Persero) Tbk,0.75,True,2012.0,,,,,,,,,,
+120,SMNUF,PT Sarana Menara Nusantara Tbk,0.07999999821186066,True,2012.0,,,,,,,,,,
+121,PPLFY,PT PP London Sumatra Indonesia Tbk,3.119999885559082,True,2013.0,,,,,,,,,,
+122,PPLFF,PT PP London Sumatra Indonesia Tbk,0.07500000298023224,True,2013.0,,,,,,,,,,
+123,PPAAY,PT Perusahaan Gas Negara Tbk,3.4800000190734863,True,2011.0,,,,,,,,,,
+124,PPAAF,PT Perusahaan Gas Negara Tbk,0.09520000219345093,False,2010.0,,12-23,03-08,7.0,8.0,3.0,2.0,12-30,03-15,-0.3749818711259872
+125,PTPNF,PT Panin Financial Tbk,$0.01 ,True,,No data fetched for symbol PTPNF using YahooDailyReader,,,,,,,,,
+126,PBHKF,PT MNC Investama Tbk,$0.01 ,True,,No data fetched for symbol PBHKF using YahooDailyReader,,,,,,,,,
+127,PMDKY,PT Mitra Adiperkasa Tbk,9.0600004196167,True,2012.0,,,,,,,,,,
+128,PMDKF,PT Mitra Adiperkasa Tbk,0.019999999552965164,True,2012.0,,,,,,,,,,
+129,PTMEY,PT Media Nusantara Citra Tbk,5.510000228881836,True,2012.0,,,,,,,,,,
+130,PTMEF,PT Media Nusantara Citra Tbk,$0.06 ,True,,No data fetched for symbol PTMEF using YahooDailyReader,,,,,,,,,
+131,PTMYF,PT Mayora Indah Tbk,$2.00 ,True,,No data fetched for symbol PTMYF using YahooDailyReader,,,,,,,,,
+132,PINDF,PT Malindo Feedmill Tbk,$0.10 ,True,,No data fetched for symbol PINDF using YahooDailyReader,,,,,,,,,
+133,PTLKF,PT Lippo Karawaci Tbk,0.007000000216066837,True,2012.0,,,,,,,,,,
+134,PLPGF,PT Lippo General Insurance Tbk,"$3,818.64 ",True,,No data fetched for symbol PLPGF using YahooDailyReader,,,,,,,,,
+135,PLUNF,PT Lautan Luas Tbk,$0.05 ,True,,No data fetched for symbol PLUNF using YahooDailyReader,,,,,,,,,
+136,PKRKY,PT Krakatau Steel (Persero) Tbk,$9.41 ,True,,No data fetched for symbol PKRKY using YahooDailyReader,,,,,,,,,
+137,PTKFY,PT Kalbe Farma Tbk,19.950000762939453,True,2012.0,,,,,,,,,,
+138,PTKFF,PT Kalbe Farma Tbk,0.10000000149011612,True,2012.0,,,,,,,,,,
+139,PTJSY,PT Jasa Marga (Persero) Tbk,4.440000057220459,True,2014.0,,,,,,,,,,
+140,PTJSF,PT Jasa Marga (Persero) Tbk,0.30000001192092896,True,2012.0,,,,,,,,,,
+141,PTITF,PT Indosat Tbk,0.14499999582767487,True,2012.0,,,,,,,,,,
+142,PTINY,PT Indosat Tbk,$13.75 ,True,,'Date',,,,,,,,,
+143,PIFMY,PT Indofood Sukses Makmur Tbk,24.299999237060547,False,2010.0,,12-21,03-06,7.0,7.0,3.0,3.0,12-21,03-06,9.82630134280043
+144,PIFMF,PT Indofood Sukses Makmur Tbk,0.4699999988079071,True,2012.0,,,,,,,,,,
+145,PNDFF,PT Indofood CBP Sukses Makmur Tbk,0.6000000238418579,True,2020.0,,,,,,,,,,
+146,PIFFY,PT Indofood CBP Sukses Makmur Tbk,15.710000038146973,True,2013.0,,,,,,,,,,
+147,PIKQF,PT Indah Kiat Pulp & Paper Corp Tbk,1.100000023841858,True,2013.0,,,,,,,,,,
+148,PTGOF,PT Global Mediacom Tbk,0.02500000037252903,True,2014.0,,,,,,,,,,
+149,PTGJY,PT Gajah Tunggal Tbk,$7.44 ,True,,No data fetched for symbol PTGJY using YahooDailyReader,,,,,,,,,
+150,PTGJF,PT Gajah Tunggal Tbk,$0.15 ,True,,No data fetched for symbol PTGJF using YahooDailyReader,,,,,,,,,
+151,PPOKF,PT Charoen Pokphand Indonesia Tbk,0.44999998807907104,True,2019.0,,,,,,,,,,
+152,PTPIF,PT Chandra Asri Petrochemical Tbk,0.6000000238418579,True,2013.0,,,,,,,,,,
+153,PTCAY,PT Chandra Asri Petrochemical Tbk,12.970000267028809,True,2012.0,,,,,,,,,,
+154,PCAEF,PT Cardig Aero Services Tbk,$0.07 ,True,,No data fetched for symbol PCAEF using YahooDailyReader,,,,,,,,,
+155,BSPDY,PT Bumi Serpong Damai Tbk,10.805000305175781,True,2020.0,,,,,,,,,,
+156,BSPDF,PT Bumi Serpong Damai Tbk,$0.08 ,True,,No data fetched for symbol BSPDF using YahooDailyReader,,,,,,,,,
+157,TBNGY,PT Bukit Asam Tbk,3.299999952316284,True,2011.0,,,,,,,,,,
+158,PBATF,PT Bukit Asam Tbk,0.11999999731779099,True,2013.0,,,,,,,,,,
+159,BYRSF,PT Bayan Resources Tbk,0.7699999809265137,True,2017.0,,,,,,,,,,
+160,PPERY,PT Bank Mandiri (Persero) Tbk,9.029899597167969,False,2009.0,,11-12,01-26,7.0,7.0,4.0,4.0,11-12,01-26,6.417085990847138
+161,PPERF,PT Bank Mandiri (Persero) Tbk,0.435699999332428,True,2012.0,,,,,,,,,,
+162,PTNAF,PT Bank CIMB Niaga Tbk,$0.06 ,True,,'Date',,,,,,,,,
+163,PBCRY,PT Bank Central Asia Tbk,58.4900016784668,True,2012.0,,,,,,,,,,
+164,PBCRF,PT Bank Central Asia Tbk,2.25,False,2010.0,,09-25,12-09,2.0,5.0,8.0,5.0,12-06,02-19,5.318464859462266
+165,BTABF,PT Bank BTPN Syariah Tbk,$0.25 ,True,,'Date',,,,,,,,,
+166,PTAIY,PT Astra International Tbk,7.740099906921387,True,2011.0,,,,,,,,,,
+167,PTAIF,PT Astra International Tbk,0.42250001430511475,True,2012.0,,,,,,,,,,
+168,PAEKY,PT Aneka Tambang (Persero) Tbk,3.4200000762939453,True,2012.0,,,,,,,,,,
+169,PAEKF,PT Aneka Tambang (Persero) Tbk,0.041999999433755875,True,2012.0,,,,,,,,,,
+170,PKCPY,PT AKR Corporindo Tbk,$6.22 ,True,,No data fetched for symbol PKCPY using YahooDailyReader,,,,,,,,,
+171,PKCPF,PT AKR Corporindo Tbk,$0.54 ,True,,No data fetched for symbol PKCPF using YahooDailyReader,,,,,,,,,
+172,PADEF,PT Adaro Energy Tbk,0.05999999865889549,True,2018.0,,,,,,,,,,
+173,ADOOY,PT Adaro Energy Tbk,4.309999942779541,True,2012.0,,,,,,,,,,
+174,ACEHF,PT Ace Hardware Indonesia Tbk,0.09000000357627869,True,2012.0,,,,,,,,,,
+175,PMD,Psychemedics Corp,4.2179999351501465,False,2009.0,,10-28,01-11,7.0,7.0,4.0,4.0,12-18,03-03,11.106264249311874
+176,DCNPF,Psyched Wellness Ltd,0.11999999731779099,True,2012.0,,,,,,,,,,
+177,PSPSY,PSP Swiss Property AG,$9.50 ,True,,'Date',,,,,,,,,
+178,PSPSF,PSP Swiss Property AG,127.30000305175781,True,2011.0,,,,,,,,,,
+179,GLHD,PSH Group Holdings Inc,0.75,True,2012.0,,,,,,,,,,
+180,PSSGF,PSG Group Ltd,2.549999952316284,True,2013.0,,,,,,,,,,
+181,PSBQ,PSB Holdings Inc,20.799999237060547,False,2009.0,,06-05,08-19,10.0,8.0,1.0,3.0,01-20,04-04,5.7704839463518915
+182,PSBP,PSB Holding Corp,20.75,True,2012.0,,,,,,,,,,
+183,PSB,PS Business Parks Inc,134.08999633789062,False,2009.0,,03-15,05-29,8.0,8.0,3.0,3.0,03-15,05-29,5.598101206561824
+184,PRYMY,Prysmian SpA,15.149999618530273,True,2012.0,,,,,,,,,,
+185,PRYMF,Prysmian SpA,30.899999618530273,False,2009.0,,07-12,09-25,6.0,6.0,5.0,5.0,07-12,09-25,7.964151251901643
+186,PRMLY,Prumo Logistica SA,3.0399999618530273,True,2012.0,,,,,,,,,,
+187,LLXLF,Prumo Logistica SA,$0.29 ,True,,No data fetched for symbol LLXLF using YahooDailyReader,,,,,,,,,
+188,PKREY,Pruksa Real Estate PCL,$11.00 ,True,,No data fetched for symbol PKREY using YahooDailyReader,,,,,,,,,
+189,PUKPF,Prudential PLC,16.90399932861328,False,2010.0,,10-14,12-28,8.0,8.0,2.0,2.0,10-14,12-28,4.9821851544131635
+190,PUK,Prudential PLC,33.65999984741211,False,2009.0,,02-28,05-13,8.0,8.0,3.0,3.0,02-27,05-12,6.318739640860669
+191,PRU,Prudential Financial Inc,74.45500183105469,False,2009.0,,10-10,12-24,6.0,6.0,5.0,5.0,03-23,06-06,7.168375801642572
+192,PBIP,Prudential Bancorp Inc,12.524999618530273,False,2009.0,,04-18,07-02,6.0,5.0,5.0,6.0,04-18,07-02,3.6378123523418537
+193,BGAOY,Proximus SA,4.090000152587891,False,2009.0,,11-16,01-30,5.0,5.0,6.0,6.0,05-22,08-05,3.5411561634888016
+194,BGAOF,Proximus SA,20.510000228881836,False,2009.0,,11-12,01-26,3.0,3.0,8.0,8.0,11-12,01-26,2.9656481202772254
+195,PRXM,Proxim Wireless Corp,1.2000000476837158,False,2009.0,,08-28,11-11,7.0,7.0,4.0,4.0,08-28,11-11,14.471592234419589
+196,PFS,Provident Financial Services Inc,15.010000228881836,False,2009.0,,10-01,12-15,5.0,5.0,6.0,6.0,05-14,07-28,5.356600503981345
+197,FPLPY,Provident Financial PLC,3.7699999809265137,True,2011.0,,,,,,,,,,
+198,FPLPF,Provident Financial PLC,1.9321999549865723,True,2012.0,,,,,,,,,,
+199,PROV,Provident Financial Holdings Inc,13.600000381469727,False,2009.0,,04-20,07-04,7.0,6.0,4.0,5.0,07-09,09-22,7.516835309357727
+200,PVBC,Provident Bancorp Inc,9.729999542236328,True,2015.0,,,,,,,,,,
+201,PVDRF,Providence Resources PLC,0.10499999672174454,True,2012.0,,,,,,,,,,
+202,PVRS,Providence Resources Inc,0.005900000222027302,True,2012.0,,,,,,,,,,
+203,PRRVF,Providence Gold Mines Inc,0.09000000357627869,True,2017.0,,,,,,,,,,
+204,PWX,Providence & Worcester Railroad Co,$25.03 ,True,,'Date',,,,,,,,,
+205,PRVB,Provention Bio Inc,14.6899995803833,True,2018.0,,,,,,,,,,
+206,PVCT,Provectus Biopharmaceuticals Inc,0.06880000233650208,False,2009.0,,12-17,03-02,7.0,7.0,4.0,4.0,12-17,03-02,17.130450309636604
+207,PSCO,ProtoSource Corp,0.01209999993443489,True,2012.0,,,,,,,,,,
+208,PKTX,ProtoKinetix Inc,0.09399999678134918,False,2009.0,,10-31,01-14,7.0,7.0,4.0,4.0,10-31,01-14,9.755998831963453
+209,PRLB,Proto Labs Inc,131.25,True,2012.0,,,,,,,,,,
+210,PTOVF,Proto Corp,$16.65 ,True,,No data fetched for symbol PTOVF using YahooDailyReader,,,,,,,,,
+211,PPMD,Protide Pharmaceuticals Inc,0.15000000596046448,False,2009.0,,01-31,04-15,8.0,8.0,3.0,3.0,01-31,04-15,29.602417848560552
+212,PRTA,Prothena Corp PLC,11.930000305175781,True,2012.0,,,,,,,,,,
+213,PTI,Proteostasis Therapeutics Inc,1.0800000429153442,True,2016.0,,,,,,,,,,
+214,PRTO,Proteon Therapeutics Inc,$33.41 ,True,,No data fetched for symbol PRTO using YahooDailyReader,,,,,,,,,
+215,PMSNF,Proteome Sciences PLC,0.03999999910593033,False,2010.0,,01-07,03-22,5.0,5.0,5.0,5.0,01-07,03-22,17.475217436131373
+216,PTEO,Proteo Inc,0.09000000357627869,False,2009.0,,03-14,05-28,3.0,3.0,8.0,8.0,03-14,05-28,13.025575550085357
+217,PSKRF,Protector Forsikring ASA,5.449100017547607,True,2017.0,,,,,,,,,,
+218,PTVCB,Protective Insurance Corp,14.279899597167969,False,2009.0,,04-14,06-28,6.0,6.0,5.0,5.0,05-22,08-05,4.733169030430858
+219,PTVCA,Protective Insurance Corp,15.057999610900879,False,2009.0,,11-02,01-16,5.0,5.0,6.0,6.0,05-30,08-13,3.313603239892014
+220,PCSO,Protective Capital Structures Corp,1.9500000476837158,True,2012.0,,,,,,,,,,
+221,PRTT,Protect Pharmaceutical Corp,2.4000000953674316,True,2018.0,,,,,,,,,,
+222,PTQQF,Protech Home Medical Corp,1.1849000453948975,True,2012.0,,,,,,,,,,
+223,PKNOF,Proteak Uno SAPI B de CV,$0.49 ,True,,No data fetched for symbol PKNOF using YahooDailyReader,,,,,,,,,
+224,TARA,Protara Therapeutics Inc,21.739999771118164,True,2014.0,,,,,,,,,,
+225,PLX,Protalix BioTherapeutics Inc,3.744999885559082,False,2009.0,,12-15,02-28,6.0,6.0,5.0,5.0,12-15,02-28,13.548410741872553
+226,PTGX,Protagonist Therapeutics Inc,22.25,True,2016.0,,,,,,,,,,
+227,PTIX,Protagenic Therapeutics Inc,1.0499999523162842,True,2012.0,,,,,,,,,,
+228,PROSF,Prosus NV,104.62000274658203,True,2019.0,,,,,,,,,,
+229,PROSY,Prosus NV,20.899999618530273,True,2020.0,,,,,,,,,,
+230,PFGHF,Prosperous Future Holdings Ltd,$0.05 ,True,,No data fetched for symbol PFGHF using YahooDailyReader,,,,,,,,,
+231,PSRVF,Prospero Silver Corp,0.1385599970817566,True,2011.0,,,,,,,,,,
+232,PREUF,Prosperity Real Estate Investment Trust,0.3100000023841858,True,2012.0,,,,,,,,,,
+233,PB,Prosperity Bancshares Inc,60.540000915527344,False,2009.0,,10-15,12-29,8.0,8.0,3.0,3.0,01-06,03-21,0.7677143776892675
+234,GXRFF,Prospera Energy Inc,0.020360000431537628,True,2018.0,,,,,,,,,,
+235,PRGCF,Prosper Gold Corp,0.38670000433921814,True,2016.0,,,,,,,,,,
+236,POHGF,Prospector Offshore Drilling SA,$1.76 ,True,,No data fetched for symbol POHGF using YahooDailyReader,,,,,,,,,
+237,PSEC,Prospect Capital Corp,5.313399791717529,False,2009.0,,12-12,02-25,8.0,7.0,3.0,4.0,12-09,02-22,5.1071136672483375
+238,SCCRF,ProSmart Enterprises Inc,0.06610000133514404,True,2016.0,,,,,,,,,,
+239,PROS,ProSight Global Inc,12.699999809265137,True,2019.0,,,,,,,,,,
+240,PBSFY,ProSiebenSat 1 Media SE,3.6700000762939453,True,2012.0,,,,,,,,,,
+241,PBSFF,ProSiebenSat 1 Media SE,14.850000381469727,False,2009.0,,03-15,05-29,7.0,7.0,4.0,4.0,10-04,12-18,9.079579593190658
+242,PGCSF,Prosegur Compania De Seguridad SA,5.800000190734863,True,2019.0,,,,,,,,,,
+243,PGUCY,Prosegur Cash SA,6.329999923706055,True,2019.0,,,,,,,,,,
+244,PGUUF,Prosegur Cash SA,0.949999988079071,True,2018.0,,,,,,,,,,
+245,PRSEY,Prosafe SE,0.09000000357627869,True,2013.0,,,,,,,,,,
+246,PRSEF,Prosafe SE,0.09000000357627869,True,2012.0,,,,,,,,,,
+247,PRO,Pros Holdings Inc,42.79999923706055,False,2009.0,,05-15,07-29,6.0,6.0,5.0,5.0,05-15,07-29,12.576587452309086
+248,PRQR,ProQR Therapeutics NV,4.050000190734863,True,2014.0,,,,,,,,,,
+249,PTAC,PropTech Acquisition Corp,10.220000267028809,True,2020.0,,,,,,,,,,
+250,STKR,ProPhotonix Ltd,0.07400000095367432,False,2009.0,,02-21,05-06,6.0,6.0,5.0,5.0,02-21,05-06,19.44504547075248
+251,PRPH,ProPhase Labs Inc,7.794000148773193,False,2009.0,,07-26,10-09,6.0,5.0,5.0,6.0,07-26,10-09,13.431134956852546
+252,PUMP,ProPetro Holding Corp,5.429999828338623,True,2017.0,,,,,,,,,,
+253,PSAC,Property Solutions Acquisition Corp,9.770000457763672,True,2020.0,,,,,,,,,,
+254,PROM,Propel Media Inc,0.05999999865889549,False,2009.0,,01-04,03-19,6.0,6.0,5.0,5.0,01-04,03-19,4.480499076629685
+255,PFPT,Proofpoint Inc,98.19999694824219,True,2012.0,,,,,,,,,,
+256,PPRRF,ProntoForms Corp,0.6917139887809753,True,2016.0,,,,,,,,,,
+257,PYYIF,Promotora Y Operadora de Infraestructura SAB de CV,$7.51 ,True,,No data fetched for symbol PYYIF using YahooDailyReader,,,,,,,,,
+258,PYOIF,Promotora Y Operadora de Infraestructura SAB de CV,6.311299800872803,True,2012.0,,,,,,,,,,
+259,PUODY,Promotora Y Operadora de Infraestructura SAB de CV,158.33999633789062,False,2009.0,,12-12,02-25,9.0,9.0,2.0,2.0,12-12,02-25,5.846750050534014
+260,PRISY,Promotora de Informaciones SA,0.9549999833106995,False,2010.0,,11-17,01-31,6.0,5.0,4.0,5.0,11-17,01-31,7.2794810234102965
+261,GPOPF,Promotora de Informaciones SA,0.550000011920929,False,2010.0,,10-04,12-18,3.0,3.0,7.0,7.0,10-04,12-18,0.3522702892648045
+262,PGVI,Promithian Global Ventures Inc,6.789999961853027,True,2014.0,,,,,,,,,,
+263,ARFXF,ProMIS Neurosciences Inc,0.07890000194311142,False,2009.0,,05-09,07-23,5.0,5.0,6.0,6.0,05-09,07-23,9.821902152145071
+264,PMTWF,Promethean World PLC,$0.59 ,True,,No data fetched for symbol PMTWF using YahooDailyReader,,,,,,,,,
+265,PLD,Prologis Inc,100.25,False,2009.0,,08-11,10-25,6.0,6.0,5.0,5.0,02-28,05-13,8.966628355668723
+266,PRLO,Prologic Management Systems Inc,0.006200000178068876,True,2012.0,,,,,,,,,,
+267,PGNY,Progyny Inc,28.8799991607666,True,2019.0,,,,,,,,,,
+268,PGRD,Proguard Acquisition Corp,0.10000000149011612,False,2009.0,,12-17,03-02,4.0,4.0,7.0,7.0,12-17,03-02,7.654580718920694
+269,BIN,Progressive Waste Solutions Ltd,0.050999999046325684,True,2016.0,,,,,,,,,,
+270,ASHXF,Progressive Planet Solutions Inc,0.03500000014901161,False,2010.0,,11-26,02-09,2.0,2.0,8.0,8.0,11-26,02-09,2.873826832851085
+271,PGSC,Progressive Green Solutions Inc,0.00800000037997961,True,2014.0,,,,,,,,,,
+272,PGR,Progressive Corp,94.31999969482422,False,2009.0,,01-22,04-06,9.0,8.0,2.0,3.0,02-03,04-18,9.645349843997938
+273,RXMD,Progressive Care Inc,0.032749999314546585,False,2010.0,,11-10,01-24,5.0,5.0,5.0,5.0,11-10,01-24,19.62901284590738
+274,PRGS,Progress Software Corp,39.540000915527344,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,11-13,01-27,6.8331587672231855
+275,PREX,"Progress Energy, Inc.",0.6100000143051147,True,2012.0,,,,,,,,,,
+276,PROG,Progenity Inc,4.159999847412109,True,2020.0,,,,,,,,,,
+277,PGNX,Progenics Pharmaceuticals Inc,4.099999904632568,False,2009.0,,05-05,07-19,7.0,7.0,4.0,4.0,05-05,07-19,8.61417560709959
+278,PROF,Profound Medical Corp,18.803800582885742,True,2019.0,,,,,,,,,,
+279,PPMT,Profit Planners Management Inc,0.04670000076293945,True,2012.0,,,,,,,,,,
+280,PFIE,Profire Energy Inc,0.8098000288009644,False,2010.0,,02-11,04-26,7.0,7.0,3.0,3.0,02-11,04-26,6.073005190131672
+281,PAAC,Proficient Alpha Acquisition Corp,7.610000133514404,True,2019.0,,,,,,,,,,
+282,PFHD,Professional Holding Corp,14.779999732971191,True,2020.0,,,,,,,,,,
+283,IPDN,Professional Diversity Network Inc,1.0800000429153442,True,2013.0,,,,,,,,,,
+284,PRWYF,Prodways Group SA,2.240000009536743,True,2020.0,,,,,,,,,,
+285,PRAC,Productivity Technologies Corp,0.08309999853372574,True,2012.0,,,,,,,,,,
+286,ABMMF,Prodigy Gold NL,0.07000000029802322,True,2019.0,,,,,,,,,,
+287,PCYN,Procyon Corp,0.2800000011920929,False,2009.0,,12-20,03-05,7.0,7.0,4.0,4.0,12-20,03-05,-11.745942077569143
+288,PG,Procter & Gamble Co,142.07000732421875,False,2009.0,,06-25,09-08,6.0,6.0,5.0,5.0,10-22,01-05,2.790492762020438
+289,PRRCF,ProCredit Holding AG & Co KGaA,6.122099876403809,True,2020.0,,,,,,,,,,
+290,PRMK,Proconcept Marketing Group Inc,0.00989999994635582,False,2010.0,,06-15,08-29,3.0,3.0,6.0,6.0,06-15,08-29,12.919675982182422
+291,PCSA,Processa Pharmaceuticals Inc,4.579999923706055,True,2014.0,,,,,,,,,,
+292,PBBIF,Probi AB,45.04999923706055,True,2016.0,,,,,,,,,,
+293,PROBF,Probe Metals Inc,1.25,False,2009.0,,05-07,07-21,4.0,4.0,7.0,7.0,05-07,07-21,18.946604965157324
+294,PRA,ProAssurance Corp,16.030000686645508,False,2009.0,,05-20,08-03,7.0,7.0,4.0,4.0,05-20,08-03,3.646749318821044
+295,PMRA,ProAmerica Bank (CA),$10.20 ,True,,'Date',,,,,,,,,
+296,HUBWF,Proactis SA,0.20999999344348907,False,2009.0,,04-03,06-17,3.0,3.0,7.0,7.0,04-03,06-17,6.576409622834183
+297,PDEX,Pro-Dex Inc,35.599998474121094,False,2009.0,,08-14,10-28,7.0,7.0,4.0,4.0,08-14,10-28,15.999868715122213
+298,PMCUF,Pro Medicus Ltd,23.083999633789062,True,2014.0,,,,,,,,,,
+299,PVTB,PrivateBancorp Inc,$60.97 ,True,,'Date',,,,,,,,,
+300,PRVT,Private Media Group Inc,0.004999999888241291,True,2012.0,,,,,,,,,,
+301,PBAM,Private Bancorp of America Inc,19.0,True,2012.0,,,,,,,,,,
+302,PMOZ,PrismOne Group Inc,0.019999999552965164,True,2013.0,,,,,,,,,,
+303,PRZM,Prism Technologies Group Inc,0.019999999552965164,False,2009.0,,12-16,03-01,6.0,5.0,5.0,6.0,12-16,03-01,1.3605227626281393
+304,PSDLF,Prism Medical Ltd,$10.73 ,True,,'Date',,,,,,,,,
+305,PRTH,Priority Technology Holdings Inc,3.7500998973846436,True,2016.0,,,,,,,,,,
+306,PRNB,Principia Biopharma Inc,100.05000305175781,True,2018.0,,,,,,,,,,
+307,PSWW,Principal Solar Inc,0.25,True,2011.0,,,,,,,,,,
+308,PGZ,Principal Real Estate Income Fund,11.619999885559082,True,2013.0,,,,,,,,,,
+309,PFG,Principal Financial Group Inc,48.11000061035156,False,2009.0,,05-18,08-01,5.0,5.0,6.0,6.0,05-29,08-12,3.5544787617000986
+310,PCPG,Principal Capital Group Inc,0.009999999776482582,True,2009.0,,,,,,,,,,
+311,PIAC,Princeton Capital Corp,0.14000000059604645,False,2009.0,,02-12,04-27,7.0,7.0,4.0,4.0,02-12,04-27,3.1054078964419527
+312,PRSG,Primus Guaranty Ltd,$0.12 ,True,,No data fetched for symbol PRSG using YahooDailyReader,,,,,,,,,
+313,PRIM,Primoris Services Corp,22.770000457763672,False,2009.0,,08-22,11-05,7.0,7.0,4.0,4.0,08-22,11-05,9.416766126324896
+314,PRMW,Primo Water Corp,14.972100257873535,True,2020.0,,,,,,,,,,
+315,BUGVF,Primo Nutraceuticals Inc,0.07240000367164612,True,2019.0,,,,,,,,,,
+316,PPPMF,Primero Mining Corp,0.23503999412059784,True,2012.0,,,,,,,,,,
+317,PRI,Primerica Inc,128.63999938964844,False,2010.0,,09-19,12-03,6.0,6.0,4.0,4.0,09-19,12-03,10.225794928732922
+318,PNRG,PrimeEnergy Resources Corp,62.529998779296875,False,2009.0,,08-12,10-26,6.0,6.0,5.0,5.0,08-12,10-26,5.5824620072601565
+319,PPFS,Prime Pacific Financial Services Inc,$1.71 ,True,,'Date',,,,,,,,,
+320,PRMNF,Prime Mining Corp,1.1449999809265137,False,2010.0,,11-08,01-22,4.0,4.0,6.0,6.0,11-08,01-22,3.5184044729790656
+321,PMDRF,Prime Meridian Resources Corp,0.05999999865889549,True,2012.0,,,,,,,,,,
+322,PMHG,Prime Meridian Holding Co,16.0,True,2018.0,,,,,,,,,,
+323,PIAI,Prime Impact Acquisition I,9.760000228881836,True,2020.0,,,,,,,,,,
+324,PGCG,Prime Global Capital Group Inc,0.07000000029802322,False,2010.0,,03-12,05-26,5.0,5.0,5.0,5.0,03-12,05-26,-0.02609669142353376
+325,PMHV,Prime Bank,16.299999237060547,True,2012.0,,,,,,,,,,
+326,PACQF,Prime Acquisition Corp,0.03999999910593033,True,2012.0,,,,,,,,,,
+327,PHPRF,Primary Health Properties PLC,1.8895000219345093,True,2020.0,,,,,,,,,,
+328,PRMY,Primary Bk,17.0,True,2016.0,,,,,,,,,,
+329,PMSO,Primal Solutions Inc,0.010499999858438969,False,2009.0,,02-22,05-07,1.0,1.0,10.0,10.0,02-22,05-07,1.8680553204612549
+330,PSMT,Pricesmart Inc,79.37000274658203,False,2009.0,,08-29,11-12,3.0,3.0,8.0,8.0,08-29,11-12,8.757871222964647
+331,PCRBF,Pricer AB,3.1600000858306885,True,2012.0,,,,,,,,,,
+332,PCRBY,Pricer AB,$2.18 ,True,,No data fetched for symbol PCRBY using YahooDailyReader,,,,,,,,,
+334,PRGX,PRGX Global Inc,6.545000076293945,False,2009.0,,10-30,01-13,5.0,5.0,6.0,6.0,10-30,01-13,4.896193386097236
+335,PVNC,Prevention Insurance.com,1.0099999904632568,True,2012.0,,,,,,,,,,
+336,PRVCF,PreveCeutical Medical Inc,0.031599998474121094,True,2017.0,,,,,,,,,,
+337,PRVL,Prevail Therapeutics Inc,9.9399995803833,True,2019.0,,,,,,,,,,
+338,PVG,Pretium Resources Inc,11.6899995803833,True,2011.0,,,,,,,,,,
+339,PGINF,Prestige International Inc,8.300000190734863,True,2018.0,,,,,,,,,,
+340,PBH,Prestige Consumer Healthcare Inc,36.380001068115234,False,2009.0,,02-28,05-13,6.0,6.0,5.0,5.0,02-28,05-13,7.416076341738774
+341,PREC,Prestige Cars International Inc,0.040800001472234726,True,2015.0,,,,,,,,,,
+342,PBIO,Pressure BioSciences Inc,1.659999966621399,False,2009.0,,12-29,03-14,10.0,10.0,1.0,1.0,12-29,03-14,24.3554556961474
+343,PGND,Press Ganey Holdings Inc,$40.50 ,True,,'Date',,,,,,,,,
+344,SQFT,Presidio Property Trust Inc,3.619999885559082,True,2020.0,,,,,,,,,,
+345,PSDO,Presidio Inc,$16.60 ,True,,No data fetched for symbol PSDO using YahooDailyReader,,,,,,,,,
+346,PDOB,Presidio Bank,$27.96 ,True,,No data fetched for symbol PDOB using YahooDailyReader,,,,,,,,,
+347,PDNLB,Presidential Realty Corp,0.05000000074505806,True,2012.0,,,,,,,,,,
+348,PDNLA,Presidential Realty Corp,0.10999999940395355,False,2009.0,,09-29,12-13,5.0,5.0,6.0,6.0,09-29,12-13,11.669630872229753
+349,PPCGF,President Energy PLC,0.023000000044703484,True,2013.0,,,,,,,,,,
+350,PSTTF,Prescient Therapeutics Ltd,0.054999999701976776,True,2017.0,,,,,,,,,,
+351,LENSF,Presbia PLC,0.010499999858438969,True,2015.0,,,,,,,,,,
+352,PRBZF,Premium Brands Holdings Corp,73.37999725341797,True,2011.0,,,,,,,,,,
+353,PBEV,Premium Beverage Group Inc,0.05009999871253967,True,2012.0,,,,,,,,,,
+354,PGI,Premiere Global Services Inc,19350.0,True,2012.0,,,,,,,,,,
+355,ARKTF,Premier Veterinary Group PLC,0.3499999940395355,True,2013.0,,,,,,,,,,
+356,PVLY,Premier Valley Bank,$7.83 ,True,,'Date',,,,,,,,,
+357,PMPG,Premier Products Group Inc,0.009750000201165676,False,2009.0,,12-14,02-27,4.0,4.0,6.0,6.0,12-14,02-27,15.526617277088489
+358,PPRW,Premier Power Renewable Energy Inc,0.007899999618530273,True,2012.0,,,,,,,,,,
+359,PPCQ,Premier Pacific Construction Inc,0.05999999865889549,True,2015.0,,,,,,,,,,
+360,PMOIY,Premier Oil PLC,0.2199999988079071,False,2009.0,,12-17,03-02,4.0,4.0,7.0,7.0,12-17,03-02,5.500253902021379
+361,PMOIF,Premier Oil PLC,0.27000001072883606,False,2010.0,,12-19,03-04,5.0,5.0,5.0,5.0,12-19,03-04,9.0452666737616
+362,PKTUF,Premier Marketing PLC,$0.24 ,True,,No data fetched for symbol PKTUF using YahooDailyReader,,,,,,,,,
+363,PIPI,Premier Investment Properties Inc,0.0052999998442828655,True,2012.0,,,,,,,,,,
+364,PIFR,Premier Information Management Inc,0.017999999225139618,False,2009.0,,12-29,03-14,6.0,6.0,5.0,5.0,12-29,03-14,-36.66666660603369
+365,PINC,Premier Inc,33.83000183105469,True,2013.0,,,,,,,,,,
+366,PIRGF,Premier Gold Mines Ltd,1.909999966621399,False,2009.0,,05-23,08-06,5.0,5.0,6.0,6.0,05-23,08-06,13.065001561786938
+367,PRRFY,Premier Foods PLC,5.78000020980835,False,2010.0,,11-19,02-02,5.0,5.0,5.0,5.0,11-19,02-02,11.21076210898075
+368,PFODF,Premier Foods PLC,1.1399999856948853,False,2009.0,,01-21,04-05,6.0,6.0,5.0,5.0,01-21,04-05,8.721191016389941
+369,PFC,Premier Financial Corp,20.8799991607666,False,2009.0,,01-31,04-15,7.0,7.0,4.0,4.0,01-31,04-15,-1.928406895654173
+370,PFBI,Premier Financial Bancorp Inc,13.899999618530273,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,03-15,05-29,7.314157176836817
+371,PIFLF,Premier Farnell PLC,$2.30 ,True,,'Date',,,,,,,,,
+372,PRDGF,Premier Diversified Holdings Inc,0.010999999940395355,True,2014.0,,,,,,,,,,
+373,PDIV,Premier Development & Investment Inc,0.21799999475479126,True,2012.0,,,,,,,,,,
+374,PRCB,Premier Commercial Bancorp,$16.80 ,True,,No data fetched for symbol PRCB using YahooDailyReader,,,,,,,,,
+375,PARA,Premara Financial Inc,$12.65 ,True,,No data fetched for symbol PARA using YahooDailyReader,,,,,,,,,
+376,PRLD,Prelude Therapeutics Inc,55.125,True,2020.0,,,,,,,,,,
+377,PLLRF,Prelios SpA,0.08500000089406967,True,2019.0,,,,,,,,,,
+378,PLPC,Preformed Line Products Co,59.619998931884766,False,2009.0,,10-08,12-22,3.0,3.0,8.0,8.0,10-08,12-22,11.205710464434569
+379,PDTTF,Preferred Dental Technologies Inc,0.009999999776482582,True,2018.0,,,,,,,,,,
+380,OCBM,Preferred Commerce Inc,0.10000000149011612,True,2014.0,,,,,,,,,,
+381,PFBC,Preferred Bank,37.849998474121094,False,2009.0,,03-23,06-06,7.0,7.0,4.0,4.0,03-23,06-06,5.007967933451352
+382,APTS,Preferred Apartment Communities Inc,8.430000305175781,True,2011.0,,,,,,,,,,
+383,PMEDF,Predictmedix Inc,0.328000009059906,True,2020.0,,,,,,,,,,
+384,PRED,Predictive Technology Group Inc,0.13050000369548798,False,2009.0,,11-16,01-30,4.0,4.0,7.0,7.0,11-16,01-30,3.383617936412353
+385,POAI,Predictive Oncology Inc,0.6970000267028809,False,2010.0,,05-23,08-06,2.0,2.0,8.0,8.0,05-23,08-06,11.500645821091087
+386,INOTF,Predictiv AI Inc,0.12479999661445618,True,2016.0,,,,,,,,,,
+387,PEYE,Precision Optics Corp Inc,1.2599999904632568,False,2009.0,,03-28,06-11,4.0,4.0,7.0,7.0,03-28,06-11,17.453435076035145
+388,PDS,Precision Drilling Corp,17.059999465942383,False,2009.0,,12-08,02-21,7.0,7.0,4.0,4.0,12-08,02-21,11.408974181948604
+389,PCP,Precision Castparts Corp,0.20499999821186066,True,2018.0,,,,,,,,,,
+390,DTIL,Precision BioSciences Inc,9.65999984741211,True,2019.0,,,,,,,,,,
+391,PACI,Precision Auto Care Inc,$1.74 ,True,,'Date',,,,,,,,,
+392,PRBCF,Precise Biometrics AB,0.17100000381469727,True,2013.0,,,,,,,,,,
+393,PREIF,Precipitate Gold Corp,0.20149999856948853,True,2012.0,,,,,,,,,,
+394,PRPO,Precipio Inc,2.200000047683716,True,2017.0,,,,,,,,,,
+395,PSPUF,Precious Shipping PCL,$0.40 ,True,,No data fetched for symbol PSPUF using YahooDailyReader,,,,,,,,,
+396,PSGFF,Precious Shipping PCL,0.1599999964237213,False,2009.0,,02-03,04-18,7.0,5.0,4.0,6.0,07-29,10-12,6.936255952681228
+397,PMMTF,Precious Metals and Mining Trust,1.7699999809265137,False,2009.0,,06-16,08-30,7.0,7.0,4.0,4.0,06-16,08-30,8.0434618042171
+398,AOTUF,Precinct Properties New Zealand Ltd,1.190000057220459,True,2012.0,,,,,,,,,,
+399,PGEN,Precigen Inc,6.110000133514404,True,2013.0,,,,,,,,,,
+400,PRTR,Precicion Trim Inc,0.15000000596046448,False,2009.0,,01-02,03-17,4.0,4.0,7.0,7.0,01-02,03-17,10.055099446814246
+401,HLTY,Precheck Health Service Inc,0.18000000715255737,True,2017.0,,,,,,,,,,
+402,PAXH,PreAxia Health Care Payment Systems Inc,1.5,True,2012.0,,,,,,,,,,
+403,PRAX,Praxis Precision Medicines Inc,33.560001373291016,True,2020.0,,,,,,,,,,
+404,PREKF,PrairieSky Royalty Ltd,7.388500213623047,True,2014.0,,,,,,,,,,
+405,PRPRF,Prairie Provident Resources Inc,0.008999999612569809,True,2012.0,,,,,,,,,,
+406,PRRDF,Prairie Mining Ltd,$0.32 ,True,,No data fetched for symbol PRRDF using YahooDailyReader,,,,,,,,,
+407,PRRE,Praetorian Property Inc,0.02070000022649765,True,2014.0,,,,,,,,,,
+408,PRDSY,Prada SpA,9.229999542236328,True,2011.0,,,,,,,,,,
+409,PRDSF,Prada SpA,4.75,True,2012.0,,,,,,,,,,
+410,PRAH,PRA Health Sciences Inc,111.19999694824219,True,2014.0,,,,,,,,,,
+411,PRAA,PRA Group Inc,39.970001220703125,False,2009.0,,04-08,06-22,7.0,7.0,4.0,4.0,04-08,06-22,11.333899826486814
+412,PQG,PQ Group Holdings Inc,12.595000267028809,True,2017.0,,,,,,,,,,
+413,SNNGF,PPX Mining Corp,0.03999999910593033,True,2012.0,,,,,,,,,,
+414,PPL,PPL Corp,29.239999771118164,False,2009.0,,08-26,11-09,5.0,5.0,6.0,6.0,08-26,11-09,3.0534223811306807
+415,PLPKF,PPK Group Ltd,3.8499999046325684,True,2019.0,,,,,,,,,,
+416,PPG,PPG Industries Inc,142.9600067138672,False,2009.0,,10-14,12-28,8.0,8.0,3.0,3.0,10-14,12-28,7.184743059356897
+417,PPD,PPD Inc,34.22999954223633,True,2020.0,,,,,,,,,,
+418,PPCMF,PPC Ltd,$0.45 ,True,,No data fetched for symbol PPCMF using YahooDailyReader,,,,,,,,,
+419,PPCLY,PPC Ltd,0.07000000029802322,False,2009.0,,07-08,09-21,4.0,4.0,7.0,7.0,07-08,09-21,-3.9787027141922313
+420,TLUXF,PP Prime PCL,$0.07 ,True,,No data fetched for symbol TLUXF using YahooDailyReader,,,,,,,,,
+421,PXXLF,Poxel SA,7.699999809265137,True,2017.0,,,,,,,,,,
+422,PZAKY,Powszechny Zaklad Ubezpieczen SA,7.405799865722656,True,2016.0,,,,,,,,,,
+423,PWZYF,Powszechny Zaklad Ubezpieczen SA,6.25,True,2020.0,,,,,,,,,,
+424,PWON,Powin Energy Corp,1.5,False,2010.0,,05-26,08-09,4.0,4.0,6.0,6.0,05-26,08-09,15.421821495797785
+425,PWVI,PowerVerde Inc,0.8199999928474426,False,2009.0,,06-09,08-23,8.0,8.0,3.0,3.0,06-09,08-23,12.649422030160643
+426,PSTO,Powerstorm Holdings Inc,0.10000000149011612,True,2014.0,,,,,,,,,,
+427,POWR,PowerSecure International Inc,$18.76 ,True,,'Date',,,,,,,,,
+428,PSFT,Powersafe Technology Corp,0.019999999552965164,False,2009.0,,11-04,01-18,1.0,1.0,10.0,10.0,11-04,01-18,2.151263290674804
+429,PWFL,PowerFleet Inc,6.730000019073486,False,2009.0,,12-15,02-28,7.0,7.0,4.0,4.0,12-15,02-28,11.796548426588204
+430,PCELF,PowerCell Sweden AB,31.149999618530273,True,2018.0,,,,,,,,,,
+431,PBTS,Powerbridge Technologies Co Ltd,2.299999952316284,True,2019.0,,,,,,,,,,
+432,PWWBF,PowerBand Solutions Inc,0.1889999955892563,True,2018.0,,,,,,,,,,
+433,PSIX,Power Solutions International Inc,5.25,True,2012.0,,,,,,,,,,
+434,PW,Power REIT,27.520000457763672,False,2009.0,,12-15,02-28,5.0,5.0,6.0,6.0,12-15,02-28,5.201317328429176
+435,PWRV,Power of the Dream Ventures Inc,$0.01 ,True,,'Date',,,,,,,,,
+436,PWRMF,Power Metals Corp,0.20000000298023224,True,2013.0,,,,,,,,,,
+437,POWI,Power Integrations Inc,68.30000305175781,False,2009.0,,10-19,01-02,6.0,6.0,5.0,5.0,10-19,01-02,8.049586488681166
+438,CBBWF,Power Group Projects Corp,0.03999999910593033,True,2017.0,,,,,,,,,,
+439,POFNF,Power Financial Corp,$27.51 ,True,,No data fetched for symbol POFNF using YahooDailyReader,,,,,,,,,
+440,PEFF,Power Efficiency Corp,0.05999999865889549,True,2009.0,,,,,,,,,,
+441,PWCDF,Power Corporation of Canada,22.3700008392334,False,2009.0,,09-01,11-15,7.0,7.0,4.0,4.0,09-25,12-09,2.8452904134561443
+442,PWCHF,Power Chips PLC,$2.25 ,True,,'Date',,,,,,,,,
+443,HGKGY,Power Assets Holdings Ltd,5.351200103759766,False,2009.0,,01-03,03-18,9.0,8.0,2.0,3.0,01-04,03-19,3.1111143799540466
+444,HGKGF,Power Assets Holdings Ltd,5.309999942779541,True,2011.0,,,,,,,,,,
+445,POWL,Powell Industries Inc,25.65999984741211,False,2009.0,,05-26,08-09,7.0,7.0,4.0,4.0,05-26,08-09,0.08980747570187175
+446,POWD,Powder River Coal Corp,$0.31 ,True,,No data fetched for symbol POWD using YahooDailyReader,,,,,,,,,
+447,POWN,POW Entertainment Inc,$0.04 ,True,,'Date',,,,,,,,,
+448,PDLDF,Poundland Group PLC,$2.88 ,True,,No data fetched for symbol PDLDF using YahooDailyReader,,,,,,,,,
+449,SLYQF,Pounce Technologies Inc,$0.03 ,True,,No data fetched for symbol SLYQF using YahooDailyReader,,,,,,,,,
+450,PSHGF,Pou Sheng International (Holdings) Ltd,0.18000000715255737,True,2016.0,,,,,,,,,,
+451,PTBS,Potomac Bancshares Inc,12.0,False,2009.0,,11-22,02-05,8.0,8.0,3.0,3.0,11-20,02-03,4.9573773125209275
+452,POTN,Potnetwork Holdings Inc,0.008500000461935997,True,2016.0,,,,,,,,,,
+453,PCH,PotlatchDeltic Corp,43.47999954223633,False,2009.0,,11-16,01-30,8.0,8.0,3.0,3.0,11-12,01-26,1.1868463315072502
+454,PBPB,Potbelly Corp,4.070000171661377,True,2013.0,,,,,,,,,,
+455,PTAM,Potash America Inc,0.00800000037997961,False,2010.0,,03-26,06-09,5.0,5.0,5.0,5.0,03-26,06-09,4.589108205052816
+456,PSTNY,PostNL NV,1.3509999513626099,True,2018.0,,,,,,,,,,
+457,TNTFF,PostNL NV,2.9800000190734863,False,2009.0,,06-06,08-20,5.0,5.0,6.0,6.0,06-06,08-20,-15.125635642903427
+458,PCDAF,Postmedia Network Canada Corp,1.2554999589920044,True,2014.0,,,,,,,,,,
+459,PITAF,Poste Italiane SpA,8.378040313720703,True,2020.0,,,,,,,,,,
+460,PMBY,POSTD Merchant Banque,0.01850000023841858,True,2020.0,,,,,,,,,,
+461,PSTVY,Postal Savings Bank Of China Co Ltd,$11.50 ,True,,No data fetched for symbol PSTVY using YahooDailyReader,,,,,,,,,
+462,PSTL,Postal Realty Trust Inc,15.960000038146973,True,2019.0,,,,,,,,,,
+463,PPS,Post Properties Inc,$65.02 ,True,,'Date',,,,,,,,,
+464,POST,Post Holdings Inc,97.66000366210938,True,2012.0,,,,,,,,,,
+465,POSC,Positron Corp,0.23549999296665192,False,2009.0,,12-03,02-16,2.0,2.0,9.0,9.0,12-03,02-16,22.078142917241035
+466,PPHI,Positive Physicians Holdings Inc,6.0,True,2019.0,,,,,,,,,,
+467,PRRSF,Posera Ltd,$0.09 ,True,,No data fetched for symbol PRRSF using YahooDailyReader,,,,,,,,,
+468,PSDNF,Poseidon Nickel Ltd,0.05999999865889549,False,2009.0,,08-16,10-30,4.0,4.0,7.0,7.0,08-16,10-30,5.123193451097599
+469,PSTX,Poseida Therapeutics Inc,11.725000381469727,True,2020.0,,,,,,,,,,
+470,PKX,POSCO,53.11000061035156,False,2009.0,,10-31,01-14,5.0,5.0,6.0,6.0,05-23,08-06,4.2205217847933465
+471,POSAF,POSaBIT Systems Corp,0.11659999936819077,True,2019.0,,,,,,,,,,
+472,PVARF,Porvair PLC,7.110000133514404,True,2013.0,,,,,,,,,,
+473,PORS,Portus Corp,$0.13 ,True,,'Date',,,,,,,,,
+474,PRSI,Portsmouth Square Inc,45.0,False,2009.0,,01-24,04-08,5.0,5.0,6.0,6.0,01-24,04-08,8.650511827321731
+475,PTLA,Portola Pharmaceuticals Inc,18.030000686645508,True,2013.0,,,,,,,,,,
+476,PFFOF,Portofino Resources Inc,0.09059999883174896,True,2018.0,,,,,,,,,,
+477,PSGUF,Porto Seguro SA,$5.53 ,True,,No data fetched for symbol PSGUF using YahooDailyReader,,,,,,,,,
+478,PNRXF,Porto Energy Corp,0.009999999776482582,True,2011.0,,,,,,,,,,
+479,POTMF,Portmeirion Group PLC,4.0,True,2020.0,,,,,,,,,,
+480,PTMN,Portman Ridge Finance Corp,1.5,False,2009.0,,08-08,10-22,7.0,7.0,4.0,4.0,08-15,10-29,5.5219293975957875
+481,POR,Portland General Electric Co,42.13999938964844,False,2009.0,,09-29,12-13,7.0,7.0,4.0,4.0,09-29,12-13,5.715513885510568
+482,PDESF,Portico International Holdings Ltd,$0.35 ,True,,No data fetched for symbol PDESF using YahooDailyReader,,,,,,,,,
+483,ULNV,Porter Holding International Inc,2.009999990463257,True,2017.0,,,,,,,,,,
+484,PTGEF,Portage Biotech Inc,12.260000228881836,False,2009.0,,03-22,06-05,3.0,3.0,8.0,8.0,03-22,06-05,22.73028291076615
+485,PTAUY,Port of Tauranga Ltd,20.360000610351562,True,2014.0,,,,,,,,,,
+486,PTAUF,Port of Tauranga Ltd,$3.48 ,True,,No data fetched for symbol PTAUF using YahooDailyReader,,,,,,,,,
+487,POAHY,Porsche Automobil Holding SE,6.670000076293945,False,2010.0,,10-01,12-15,3.0,3.0,7.0,7.0,10-01,12-15,15.714663224363987
+488,POAHF,Porsche Automobil Holding SE,67.9000015258789,False,2009.0,,10-11,12-25,5.0,5.0,6.0,6.0,10-11,12-25,9.398581885624283
+489,BPOP,Popular Inc,49.900001525878906,False,2009.0,,09-21,12-05,8.0,8.0,3.0,3.0,09-21,12-05,4.2368840256683376
+490,PLKI,Popeyes Louisiana Kitchen Inc,$79.00 ,True,,'Date',,,,,,,,,
+491,POPE,Pope Resources LP,$98.00 ,True,,No data fetched for symbol POPE using YahooDailyReader,,,,,,,,,
+492,PFFEF,Pool Safe Inc,0.03500000014901161,True,2020.0,,,,,,,,,,
+493,POOL,Pool Corp,335.010009765625,False,2009.0,,04-11,06-25,10.0,10.0,1.0,1.0,04-11,06-25,8.801092205222716
+494,PONT,Pontiac Bancorp Inc,430.0,True,2013.0,,,,,,,,,,
+495,PSSEF,Ponsse Oyj,25.219999313354492,True,2013.0,,,,,,,,,,
+496,PARD,Poniard Pharmaceuticals Inc,0.07000000029802322,False,2009.0,,05-30,08-13,3.0,3.0,8.0,8.0,05-30,08-13,7.445859397225284
+497,PNDHF,Pond Technologies Holdings Inc,0.22599999606609344,True,2018.0,,,,,,,,,,
+498,OPYGY,Polyus PJSC,106.0,False,2009.0,,07-24,10-07,7.0,7.0,4.0,4.0,07-24,10-07,7.603059113715062
+499,PLZLY,Polyus Gold International Ltd,$2.90 ,True,,'Date',,,,,,,,,
+500,PGILF,Polyus Gold International Ltd,$2.96 ,True,,No data fetched for symbol PGILF using YahooDailyReader,,,,,,,,,
+501,PYPD,PolyPid Ltd,9.430000305175781,True,2020.0,,,,,,,,,,
+502,CALZF,Polynovo Ltd,2.099900007247925,True,2012.0,,,,,,,,,,
+503,POYYF,Polymetal International PLC,24.8700008392334,True,2012.0,,,,,,,,,,
+504,AUCOY,Polymetal International PLC,22.15999984741211,True,2015.0,,,,,,,,,,
+505,PLM,PolyMet Mining Corp,3.2946999073028564,False,2009.0,,12-11,02-24,7.0,7.0,4.0,4.0,12-11,02-24,10.870766978407852
+506,PLYR,Polymeric Resources Corp,64.0,True,2012.0,,,,,,,,,,
+507,POLXF,Polydex Pharmaceuticals Ltd,1.0499999523162842,False,2009.0,,10-12,12-26,5.0,5.0,6.0,6.0,10-12,12-26,7.186099258420054
+508,PLCM,Polycom Inc,$12.47 ,True,,'Date',,,,,,,,,
+509,PHKIF,Poly Property Group Co Ltd,0.33730000257492065,True,2013.0,,,,,,,,,,
+510,PPOEF,Polska Grupa Energetyczna SA,$3.03 ,True,,No data fetched for symbol PPOEF using YahooDailyReader,,,,,,,,,
+511,PGPKY,Polska Grupa Energetyczna SA,$6.96 ,True,,No data fetched for symbol PGPKY using YahooDailyReader,,,,,,,,,
+512,PBCP,Polonia Bancorp Inc,$11.10 ,True,,'Date',,,,,,,,,
+513,POLJF,Polo Resources Ltd,0.029999999329447746,False,2009.0,,05-27,08-10,2.0,2.0,9.0,9.0,05-27,08-10,13.943001356732127
+514,PBKOF,Pollard Banknote Ltd,16.782100677490234,True,2013.0,,,,,,,,,,
+515,POGWY,Polish Oil and Gas Company (PGNiG) SA,9.020000457763672,True,2020.0,,,,,,,,,,
+516,MLSIF,Polimex - Mostostal SA,$0.99 ,True,,No data fetched for symbol MLSIF using YahooDailyReader,,,,,,,,,
+517,PXXXF,PolarX Ltd,$1.48 ,True,,No data fetched for symbol PXXXF using YahooDailyReader,,,,,,,,,
+518,PTE,PolarityTE Inc,0.9133999943733215,False,2009.0,,10-27,01-10,4.0,3.0,7.0,8.0,10-27,01-10,5.1485183096576606
+519,RAMPF,Polaris Infrastructure Inc,10.9399995803833,False,2009.0,,12-11,02-24,2.0,2.0,9.0,9.0,12-11,02-24,2.540685322587833
+520,PII,Polaris Inc,91.62999725341797,False,2009.0,,05-12,07-26,7.0,7.0,4.0,4.0,05-12,07-26,10.270940326866103
+521,PLLWF,Polarean Imaging PLC,0.38999998569488525,True,2018.0,,,,,,,,,,
+522,PLRUF,Polarcus Ltd,$0.03 ,True,,No data fetched for symbol PLRUF using YahooDailyReader,,,,,,,,,
+523,PLRCF,Polar Resources Corp,$0.05 ,True,,No data fetched for symbol PLRCF using YahooDailyReader,,,,,,,,,
+524,POLA,Polar Power Inc,4.014999866485596,True,2016.0,,,,,,,,,,
+525,PLRRF,Polar Capital Holdings PLC,6.420000076293945,True,2017.0,,,,,,,,,,
+526,PORBF,Pola Orbis Holdings Inc,17.885000228881836,True,2014.0,,,,,,,,,,
+527,PBTHF,Pointsbet Holdings Ltd,8.399999618530273,True,2019.0,,,,,,,,,,
+528,PCOM,Points International Ltd,10.260000228881836,True,2011.0,,,,,,,,,,
+529,PNTR,Pointer Telocation Ltd,$15.27 ,True,,No data fetched for symbol PNTR using YahooDailyReader,,,,,,,,,
+530,PCNT,Point of Care Nano-Technology Inc,0.029999999329447746,True,2012.0,,,,,,,,,,
+531,FMTNF,Point Loma Resources Ltd,0.008750000037252903,True,2012.0,,,,,,,,,,
+532,PBSOQ,Point Blank Solutions Inc,$0.12 ,True,,No data fetched for symbol PBSOQ using YahooDailyReader,,,,,,,,,
+533,PTSXQ,Point 360,$0.02 ,True,,No data fetched for symbol PTSXQ using YahooDailyReader,,,,,,,,,
+534,POETF,POET Technologies Inc,0.3644999861717224,False,2009.0,,01-31,04-15,8.0,8.0,3.0,3.0,01-31,04-15,25.01314331382089
+535,PTBBU,Poet Biorefining LLC,0.6100000143051147,True,2018.0,,,,,,,,,,
+536,PBSK,Poage Bankshares Inc,25.309999465942383,True,2012.0,,,,,,,,,,
+537,POYN,Po Yuen Cultural Holdings (Hong Kong) Co Ltd,0.8999999761581421,True,2015.0,,,,,,,,,,
+538,PNM,PNM Resources Inc,49.119998931884766,False,2009.0,,09-30,12-14,8.0,8.0,3.0,3.0,09-30,12-14,5.465801230265945
+539,PNC,PNC Financial Services Group Inc,128.38409423828125,False,2009.0,,10-24,01-07,9.0,9.0,2.0,2.0,10-24,01-07,7.427108647561701
+540,PMVP,PMV Pharmaceuticals Inc,32.2599983215332,True,2020.0,,,,,,,,,,
+541,PMVC,PMV Consumer Acquisition Corp,9.680000305175781,True,2020.0,,,,,,,,,,
+542,PMIR,PMI Group Inc,0.25,True,2013.0,,,,,,,,,,
+543,PMCS,PMC-Sierra Inc,$11.65 ,True,,'Date',,,,,,,,,
+544,PLRTF,Plymouth Rock Technologies Inc,0.17990000545978546,True,2017.0,,,,,,,,,,
+545,PLYM,Plymouth Industrial REIT Inc,13.109999656677246,True,2017.0,,,,,,,,,,
+546,PFNL,Plymouth Financial Corp,0.02019999921321869,True,2012.0,,,,,,,,,,
+547,PGEM,Ply Gem Holdings Inc,21.649999618530273,True,2013.0,,,,,,,,,,
+548,PLXP,PLx Pharma Inc,5.210000038146973,True,2014.0,,,,,,,,,,
+549,PLSQF,Plus500 Ltd,19.700000762939453,True,2015.0,,,,,,,,,,
+550,PSTV,Plus Therapeutics Inc,2.180000066757202,False,2009.0,,12-22,03-07,7.0,7.0,4.0,4.0,12-22,03-07,11.835326223042856
+551,PLPRF,Plus Products Inc,0.43849998712539673,True,2018.0,,,,,,,,,,
+552,PSTI,Pluristem Therapeutics Inc,9.539999961853027,False,2009.0,,11-20,02-03,6.0,6.0,5.0,5.0,11-20,02-03,1.05392707619479
+553,PLCKF,Plurilock Security Inc,0.2870999872684479,True,2020.0,,,,,,,,,,
+554,MANY,Plures Technologies Inc,0.04919999837875366,True,2019.0,,,,,,,,,,
+555,PS,Pluralsight Inc,16.0,True,2018.0,,,,,,,,,,
+556,PLBC,Plumas Bancorp,22.760000228881836,False,2009.0,,03-28,06-11,9.0,9.0,2.0,2.0,03-28,06-11,9.158600951179695
+557,PCL,Plum Creek Timber Co Inc,1400.0,True,2015.0,,,,,,,,,,
+558,PLUG,Plug Power Inc,24.0049991607666,False,2009.0,,09-13,11-27,4.0,4.0,7.0,7.0,09-13,11-27,6.672894907457203
+559,PLRX,Pliant Therapeutics Inc,27.1200008392334,True,2020.0,,,,,,,,,,
+560,PLXXF,Plexus Holdings PLC,0.17000000178813934,True,2014.0,,,,,,,,,,
+561,PLXS,Plexus Corp,74.20999908447266,False,2009.0,,09-22,12-06,6.0,6.0,5.0,5.0,09-22,12-06,3.3855893560770998
+562,PLNNF,PLENUS Co Ltd,14.199999809265137,True,2018.0,,,,,,,,,,
+563,PLEJF,Plejd AB,$5.06 ,True,,No data fetched for symbol PLEJF using YahooDailyReader,,,,,,,,,
+564,PHTCF,PLDT Inc,23.75,False,2010.0,,03-15,05-29,4.0,4.0,6.0,6.0,04-29,07-13,10.875561044655724
+565,PHI,PLDT Inc,28.360000610351562,False,2009.0,,03-01,05-15,7.0,6.0,4.0,5.0,03-22,06-05,4.7928591148735995
+566,PLZAF,Plazza AG,$230.00 ,True,,No data fetched for symbol PLZAF using YahooDailyReader,,,,,,,,,
+567,PAZRF,Plaza Retail REIT,2.759999990463257,True,2014.0,,,,,,,,,,
+568,PZBW,Plaza Bank Wa,$1.52 ,True,,'Date',,,,,,,,,
+569,PLZZ,Plaza Bancorp,$8.25 ,True,,No data fetched for symbol PLZZ using YahooDailyReader,,,,,,,,,
+570,PYTCY,Playtech PLC,8.800000190734863,True,2011.0,,,,,,,,,,
+571,PYTCF,Playtech PLC,4.900000095367432,False,2009.0,,02-25,05-10,5.0,4.0,6.0,7.0,03-26,06-09,8.552476823095818
+572,PMTYF,Playmates Toys Ltd,0.03999999910593033,True,2012.0,,,,,,,,,,
+573,PYHOF,Playmates Holdings Ltd,0.10499999672174454,False,2009.0,,01-31,04-15,5.0,7.0,6.0,4.0,09-12,11-26,11.70329751163406
+574,PLGNF,Playgon Games Inc,0.27799999713897705,True,2020.0,,,,,,,,,,
+575,PLYFF,Playfair Mining Ltd,0.08196000009775162,False,2009.0,,12-24,03-09,6.0,6.0,5.0,5.0,12-24,03-09,18.555411478648196
+576,PNTV,Players Network,0.007000000216066837,False,2009.0,,04-17,07-01,5.0,5.0,6.0,6.0,04-17,07-01,-3.729391775146144
+577,PYBX,PlayBOX US Inc,0.02552499994635582,False,2009.0,,08-05,10-19,6.0,6.0,5.0,5.0,08-05,10-19,15.658117176667607
+578,AGS,PlayAGS Inc,4.326099872589111,True,2018.0,,,,,,,,,,
+579,PLYA,Playa Hotels & Resorts NV,4.5,True,2015.0,,,,,,,,,,
+580,PLLAF,Play LA Inc,$0.10 ,True,,No data fetched for symbol PLLAF using YahooDailyReader,,,,,,,,,
+581,PLAZF,Platzer Fastigheter Holding AB,7.190999984741211,True,2018.0,,,,,,,,,,
+582,PTOZF,Plato Gold Corp,0.02160000056028366,True,2018.0,,,,,,,,,,
+583,PLG,Platinum Group Metals Ltd,2.0227999687194824,False,2009.0,,12-22,03-07,6.0,6.0,5.0,5.0,12-22,03-07,19.65956762024807
+584,PANXF,Platinex Inc,0.03523999825119972,True,2018.0,,,,,,,,,,
+585,PTNUF,Platina Resources Ltd,0.03999999910593033,True,2012.0,,,,,,,,,,
+586,PLUUF,Plateau Energy Metals Inc,0.1656000018119812,False,2009.0,,11-26,02-09,5.0,5.0,6.0,6.0,11-26,02-09,16.87998841650143
+587,PLLMF,Plata Latina Minerals Corp,0.0210999995470047,True,2013.0,,,,,,,,,,
+588,PFSQF,Plastoform Holdings Ltd,$0.20 ,True,,No data fetched for symbol PFSQF using YahooDailyReader,,,,,,,,,
+589,PTOI,Plastic2Oil Inc,0.024800000712275505,False,2010.0,,12-19,03-04,6.0,6.0,4.0,4.0,12-19,03-04,12.907049213938407
+590,PASTF,Plastic Omnium,23.149999618530273,True,2016.0,,,,,,,,,,
+591,PLTYF,Plastec Technologies Ltd,5.150000095367432,True,2011.0,,,,,,,,,,
+592,PLSNF,Plasson Industries Ltd,$42.67 ,True,,No data fetched for symbol PLSNF using YahooDailyReader,,,,,,,,,
+593,PLTXF,PlantX Life Inc,0.37689998745918274,True,2020.0,,,,,,,,,,
+594,PLT,Plantronics Inc,22.940000534057617,False,2009.0,,02-17,05-02,6.0,6.0,5.0,5.0,02-17,05-02,7.583273446142766
+595,PLHCF,Plant Health Care PLC,0.12999999523162842,False,2009.0,,03-21,06-04,5.0,5.0,6.0,6.0,03-21,06-04,10.12078903746076
+596,PSAKF,PLANT Co Ltd,$9.21 ,True,,No data fetched for symbol PSAKF using YahooDailyReader,,,,,,,,,
+597,PNXPD,Planet Ventures Inc,0.33809998631477356,True,2020.0,,,,,,,,,,
+598,PLPM,Planet Payment Inc,$4.49 ,True,,'Date',,,,,,,,,
+599,PNRFF,Planet Media,$3.42 ,True,,No data fetched for symbol PNRFF using YahooDailyReader,,,,,,,,,
+600,POHEF,Planet Health Corp,$0.22 ,True,,No data fetched for symbol POHEF using YahooDailyReader,,,,,,,,,
+601,PLAG,Planet Green Holdings Corp,1.9299999475479126,False,2009.0,,12-27,03-12,8.0,8.0,3.0,3.0,12-27,03-12,11.228432437434128
+602,PLNT,Planet Fitness Inc,65.11000061035156,True,2015.0,,,,,,,,,,
+603,PNTC,Planet America Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+604,PLNHF,Planet 13 Holdings Inc,3.744999885559082,True,2018.0,,,,,,,,,,
+605,PLNR,Planar Systems Inc,$6.58 ,True,,'Date',,,,,,,,,
+606,PTEEF,Plaintree Systems Inc,0.10329999774694443,False,2009.0,,07-17,09-30,5.0,5.0,6.0,6.0,07-17,09-30,2.2297631805388103
+607,PAGP,Plains GP Holdings LP,7.940000057220459,True,2013.0,,,,,,,,,,
+608,PAA,Plains All American Pipeline LP,7.940000057220459,False,2009.0,,12-06,02-19,8.0,7.0,3.0,4.0,12-06,02-19,7.085704855656054
+609,PRCK,Placer Creek Mining Co,0.015799999237060547,True,2012.0,,,,,,,,,,
+610,CBAOF,PLA Administradora Industrial S de RL de CV,1.4177000522613525,True,2015.0,,,,,,,,,,
+611,PSZKY,PKO Bank Polski SA,5.170000076293945,True,2011.0,,,,,,,,,,
+612,PSZKF,PKO Bank Polski SA,5.285699844360352,True,2013.0,,,,,,,,,,
+613,PJXRF,PJX Resources Inc,0.11699999868869781,True,2018.0,,,,,,,,,,
+614,PJT,PJT Partners Inc,69.3499984741211,True,2015.0,,,,,,,,,,
+615,URAYY,PJSC Uralkali,$8.60 ,True,,No data fetched for symbol URAYY using YahooDailyReader,,,,,,,,,
+616,MFOYY,PJSC MegaFon,9.800000190734863,True,2013.0,,,,,,,,,,
+617,LUKOY,PJSC Lukoil,64.44000244140625,False,2009.0,,12-11,02-24,6.0,6.0,5.0,5.0,09-23,12-07,5.120182593173727
+618,LUKOF,PJSC Lukoil,$54.01 ,True,,'Date',,,,,,,,,
+619,PZRIF,Pizza Pizza Royalty Corp,6.860000133514404,False,2010.0,,03-23,06-06,6.0,5.0,4.0,5.0,03-15,05-29,2.1065770657452467
+620,PXLW,Pixelworks Inc,2.5999999046325684,False,2009.0,,10-31,01-14,8.0,8.0,3.0,3.0,10-31,01-14,0.5996824384871707
+621,PVTTF,Pivotal Therapeutics Inc,0.04399999976158142,True,2012.0,,,,,,,,,,
+622,PVLYL,Pivotal Systems Corp,$0.71 ,True,,No data fetched for symbol PVLYL using YahooDailyReader,,,,,,,,,
+623,PVTL,Pivotal Software Inc,$15.00 ,True,,No data fetched for symbol PVTL using YahooDailyReader,,,,,,,,,
+624,PIC,Pivotal Investment Corp II,10.960000038146973,True,2019.0,,,,,,,,,,
+625,PVT,Pivotal Acquisition Corp,$9.90 ,True,,No data fetched for symbol PVT using YahooDailyReader,,,,,,,,,
+626,PVVTF,Pivot Technology Solutions Inc,1.986930012702942,True,2017.0,,,,,,,,,,
+627,PBI,Pitney Bowes Inc,5.835000038146973,False,2009.0,,08-13,10-27,8.0,6.0,3.0,5.0,08-12,10-26,6.611811812070826
+628,SLTFF,Pistol Bay Mining Inc,0.029160000383853912,True,2014.0,,,,,,,,,,
+629,PLLIF,Pirelli & C SpA,4.335400104522705,True,2019.0,,,,,,,,,,
+630,PPAMF,Pirelli & C SpA,$9.09 ,True,,'Date',,,,,,,,,
+631,BPIRY,Piraeus Bank SA,2.299999952316284,True,2016.0,,,,,,,,,,
+632,BPIRF,Piraeus Bank SA,1.2099000215530396,True,2017.0,,,,,,,,,,
+633,BKBEF,Pipestone Energy Corp,0.44999998807907104,True,2019.0,,,,,,,,,,
+634,PIPR,Piper Sandler Cos,92.3207015991211,False,2009.0,,10-29,01-12,7.0,7.0,4.0,4.0,10-23,01-06,11.51821914400332
+635,PTEFF,Pioneering Technology Corp,0.0638199970126152,False,2009.0,,04-20,07-04,4.0,4.0,7.0,7.0,04-20,07-04,16.899628853257653
+636,PRRR,Pioneer Railcorp,$18.80 ,True,,No data fetched for symbol PRRR using YahooDailyReader,,,,,,,,,
+637,PPSI,Pioneer Power Solutions Inc,3.4330999851226807,True,2013.0,,,,,,,,,,
+638,POGS,Pioneer Oil & Gas,0.04500000178813934,False,2009.0,,02-17,05-02,5.0,5.0,6.0,6.0,02-17,05-02,15.283759055260795
+639,PXD,Pioneer Natural Resources Co,94.0199966430664,False,2009.0,,12-08,02-21,8.0,8.0,3.0,3.0,12-08,02-21,9.49655309446834
+640,MHI,Pioneer Municipal High Income Trust,12.101699829101562,False,2009.0,,03-16,05-30,7.0,6.0,4.0,5.0,03-16,05-30,3.6203196374784827
+641,MAV,Pioneer Muni High Income Advantage Tr,11.350000381469727,False,2009.0,,03-19,06-02,9.0,8.0,2.0,3.0,03-16,05-30,3.277288061441069
+642,PHT,Pioneer High Income Trust,8.470000267028809,False,2009.0,,03-20,06-03,7.0,6.0,4.0,5.0,03-28,06-11,4.400114154944809
+643,PHD,Pioneer Floating Rate Trust,10.425000190734863,False,2009.0,,01-14,03-29,9.0,8.0,2.0,3.0,02-11,04-26,0.3808990124763445
+644,PESXQ,Pioneer Energy Services Corp,$0.03 ,True,,No data fetched for symbol PESXQ using YahooDailyReader,,,,,,,,,
+645,HNW,Pioneer Diversified High Income Trust,13.8100004196167,False,2009.0,,08-06,10-20,7.0,6.0,4.0,5.0,12-15,02-28,3.7134262102186097
+646,PNCOF,Pioneer Corp,$0.57 ,True,,No data fetched for symbol PNCOF using YahooDailyReader,,,,,,,,,
+647,PNCOY,Pioneer Corp,$0.51 ,True,,No data fetched for symbol PNCOY using YahooDailyReader,,,,,,,,,
+648,PNBI,Pioneer Bankshares Inc,23.0,False,2009.0,,11-02,01-16,5.0,5.0,6.0,6.0,09-29,12-13,3.906707137445209
+649,PBKC,Pioneer Bankcorp Inc,33.2400016784668,True,2019.0,,,,,,,,,,
+650,PONB,Pioneer Bancshares Inc,19.25,True,2016.0,,,,,,,,,,
+651,PBFS,Pioneer Bancorp Inc,10.399999618530273,True,2019.0,,,,,,,,,,
+652,PINS,Pinterest Inc,65.26000213623047,True,2019.0,,,,,,,,,,
+653,PT,Pintec Technology Holdings Ltd,0.8500000238418579,True,2018.0,,,,,,,,,,
+654,PPNT,Pinpoint Recvry Solution Corp,$0.66 ,True,,No data fetched for symbol PPNT using YahooDailyReader,,,,,,,,,
+655,PNW,Pinnacle West Capital Corp,84.33499908447266,False,2009.0,,05-09,07-23,9.0,8.0,2.0,3.0,05-09,07-23,4.529040474304533
+656,PINWF,Pinnacle Renewable Energy Inc,6.300000190734863,True,2019.0,,,,,,,,,,
+657,PF,Pinnacle Foods Inc,66.66000366210938,True,2013.0,,,,,,,,,,
+658,PNFP,Pinnacle Financial Partners Inc,53.83000183105469,False,2009.0,,10-13,12-27,7.0,7.0,4.0,4.0,10-13,12-27,10.127830291856784
+659,PNKZV,Pinnacle Entertainment Inc,$10.94 ,True,,No data fetched for symbol PNKZV using YahooDailyReader,,,,,,,,,
+660,PNK,Pinnacle Entertainment Inc,32.54999923706055,True,2016.0,,,,,,,,,,
+661,PPBN,Pinnacle Bankshares Corp,21.25,False,2009.0,,11-16,01-30,6.0,6.0,5.0,5.0,11-16,01-30,9.025434811626313
+662,PNNB,Pinnacle Bank Of Oregon,0.006000000052154064,False,2009.0,,12-11,02-24,4.0,4.0,7.0,7.0,12-11,02-24,-132.3104917283325
+663,PBNK,Pinnacle Bank,8.050000190734863,False,2009.0,,04-16,06-30,6.0,6.0,5.0,5.0,04-16,06-30,8.591954422325237
+664,PCLB,Pinnacle Bancshares Inc,28.5,False,2009.0,,05-18,08-01,7.0,7.0,4.0,4.0,04-18,07-02,6.439909543981796
+665,PNINF,Pininfarina Spa,1.3200000524520874,True,2018.0,,,,,,,,,,
+666,PME,Pingtan Marine Enterprise Ltd,1.9800000190734863,True,2011.0,,,,,,,,,,
+667,PING,Ping Identity Holding Corp,20.969999313354492,True,2019.0,,,,,,,,,,
+668,PNGAY,Ping An Insurance (Group) Co. of China Ltd,23.09000015258789,False,2009.0,,09-29,12-13,5.0,5.0,6.0,6.0,09-29,12-13,11.086268055596491
+669,PIAIF,Ping An Insurance (Group) Co. of China Ltd,11.369999885559082,False,2009.0,,08-30,11-13,5.0,5.0,6.0,6.0,09-29,12-13,11.031274810520973
+670,PANHF,Ping An Healthcare And Technology Co Ltd,12.998299598693848,True,2019.0,,,,,,,,,,
+671,PIAHY,Ping An Healthcare And Technology Co Ltd,28.5,True,2020.0,,,,,,,,,,
+672,PNPFF,Pinetree Capital Ltd,1.0,False,2009.0,,08-19,11-02,3.0,3.0,8.0,8.0,08-19,11-02,-5.890656380766578
+673,PNSTF,Pinestar Gold Inc,$0.06 ,True,,No data fetched for symbol PNSTF using YahooDailyReader,,,,,,,,,
+674,PLWN,Pinelawn Cemetery,525.0,True,2011.0,,,,,,,,,,
+675,PNPL,Pineapple Express Inc,0.10999999940395355,True,2014.0,,,,,,,,,,
+676,PVMCF,Pine Valley Mining Corp,0.006000000052154064,False,2009.0,,12-09,02-22,7.0,7.0,4.0,4.0,12-09,02-22,53.337303550018675
+677,DNLYF,Pine Point Mining Ltd,0.16019999980926514,True,2012.0,,,,,,,,,,
+678,PIFYF,Pine Cliff Energy Ltd,0.22599999606609344,True,2013.0,,,,,,,,,,
+679,PDD,Pinduoduo Inc,138.82000732421875,True,2018.0,,,,,,,,,,
+680,RCS,PIMCO Strategic Global Government,6.488100051879883,False,2009.0,,12-16,03-01,8.0,7.0,3.0,4.0,04-24,07-08,2.4932960617654296
+681,PYN,PIMCO New York Municipal Income Fund III,8.720000267028809,False,2009.0,,03-20,06-03,7.0,6.0,4.0,5.0,06-15,08-29,2.626900626466898
+682,PNI,PIMCO New York Municipal Income Fund II,10.493599891662598,False,2009.0,,03-21,06-04,8.0,8.0,3.0,3.0,07-17,09-30,2.8270464833727345
+683,PNF,PIMCO New York Municipal Income Fund,11.520000457763672,False,2009.0,,03-15,05-29,8.0,8.0,3.0,3.0,03-15,05-29,4.574380337215189
+684,PMX,PIMCO Municipal Income Fund III,11.59000015258789,False,2009.0,,03-14,05-28,8.0,7.0,3.0,4.0,03-16,05-30,3.175000487269475
+685,PML,PIMCO Municipal Income Fund II,13.9350004196167,False,2009.0,,03-15,05-29,8.0,7.0,3.0,4.0,03-18,06-01,5.243959687271723
+686,PMF,PIMCO Municipal Income Fund,13.520000457763672,False,2009.0,,11-15,01-29,8.0,8.0,3.0,3.0,03-16,05-30,5.344366741029959
+687,PFN,PIMCO Income Strategy Fund II,9.425000190734863,False,2009.0,,03-18,06-01,9.0,8.0,2.0,3.0,03-15,05-29,5.498543538345992
+688,PKO,PIMCO Income Opportunity Fund,23.610000610351562,False,2009.0,,03-23,06-06,9.0,8.0,2.0,3.0,03-02,05-16,0.8669341300990343
+689,PHK,PIMCO High Income Fund,5.653800010681152,False,2009.0,,11-14,01-28,9.0,9.0,2.0,2.0,11-27,02-10,1.8764555250232533
+690,PGP,PIMCO Global Stocksplus & Income Fund,8.894200325012207,False,2009.0,,12-11,02-24,9.0,9.0,2.0,2.0,12-11,02-24,5.321315558075834
+691,PFL,PIMCO Floating Rate Income Fund,10.619999885559082,False,2009.0,,11-16,01-30,9.0,7.0,2.0,4.0,03-15,05-29,5.316408813175442
+692,NRGX,PIMCO Energy & Tactical Credit Opportunities,7.53000020980835,True,2019.0,,,,,,,,,,
+693,PDI,PIMCO Dynamic Income Fund,25.758399963378906,True,2012.0,,,,,,,,,,
+694,PCI,PIMCO Dynamic Credit & Mortgage Income Fund,19.969999313354492,True,2013.0,,,,,,,,,,
+695,PCN,PIMCO Corporate & Income Strategy Fund,16.610000610351562,False,2009.0,,03-15,05-29,9.0,9.0,2.0,2.0,03-18,06-01,7.11598490283532
+696,PTY,PIMCO Corporate & Income Opportunity Fds,16.989900588989258,False,2009.0,,10-28,01-11,10.0,10.0,1.0,1.0,12-31,03-16,4.805596740576103
+697,PCQ,PIMCO California Municipal Income Fund,17.329999923706055,False,2009.0,,03-27,06-10,7.0,6.0,4.0,5.0,03-15,05-29,5.212410755674019
+698,PZC,PIMCO CA Muni Income Fund III,10.390000343322754,False,2009.0,,03-15,05-29,9.0,6.0,2.0,5.0,11-14,01-28,4.0301639753490885
+699,PCK,PIMCO CA Muni Income Fund II,9.220000267028809,False,2009.0,,03-20,06-03,9.0,9.0,2.0,2.0,03-15,05-29,3.6384674658490272
+700,RAEWF,Pima Zinc Corp,0.17800000309944153,True,2014.0,,,,,,,,,,
+701,PLBN,Pilot Bancshares Inc,3.0,False,2009.0,,05-18,08-01,6.0,6.0,5.0,5.0,05-18,08-01,10.854750896652815
+702,PRLE,Pillarstone Capital REIT,1.149999976158142,False,2009.0,,02-06,04-21,7.0,7.0,4.0,4.0,02-06,04-21,26.949020597012066
+703,PPC,Pilgrims Pride Corp,18.530000686645508,False,2009.0,,10-16,12-30,8.0,8.0,3.0,3.0,10-16,12-30,12.889969549868756
+704,PLRM,Pilgrim Bancshares Inc,22.959999084472656,True,2014.0,,,,,,,,,,
+705,PILBF,Pilbara Minerals Ltd,0.458050012588501,True,2016.0,,,,,,,,,,
+706,PIKL,Piksel Inc,0.005900000222027302,True,2018.0,,,,,,,,,,
+707,PIHLF,Pihlajalinna Oyj,16.450000762939453,True,2016.0,,,,,,,,,,
+708,PIGEF,Pigeon Corp,33.05619812011719,True,2013.0,,,,,,,,,,
+709,PGENY,Pigeon Corp,11.279999732971191,True,2012.0,,,,,,,,,,
+710,PIRS,Pieris Pharmaceuticals Inc,2.6700000762939453,True,2015.0,,,,,,,,,,
+711,PTOAD,Pieridae Energy Ltd,$0.44 ,True,,No data fetched for symbol PTOAD using YahooDailyReader,,,,,,,,,
+712,PIRRQ,Pier 1 Imports Inc,0.15000000596046448,False,2009.0,,10-09,12-23,5.0,5.0,6.0,6.0,10-09,12-23,9.120753793825594
+713,PDM,Piedmont Office Realty Trust Inc,15.390000343322754,False,2010.0,,11-20,02-03,6.0,6.0,4.0,4.0,03-09,05-23,-1.1256220782979829
+714,PNY,Piedmont Natural Gas Co Inc,$60.02 ,True,,'Date',,,,,,,,,
+715,PDDTF,Piedmont Lithium Ltd,0.2800000011920929,True,2018.0,,,,,,,,,,
+716,PLL,Piedmont Lithium Ltd,25.049999237060547,True,2018.0,,,,,,,,,,
+717,PCBN,Piedmont Community Bank Group Inc,0.0071000000461936,True,2012.0,,,,,,,,,,
+718,PICO,PICO Holdings Inc,9.015000343322754,False,2009.0,,02-04,04-19,5.0,5.0,6.0,6.0,02-04,04-19,5.0644926174454605
+719,PCOFF,Pico Far East Holdings Ltd,0.33000001311302185,True,2016.0,,,,,,,,,,
+720,PKPYY,Pick N Pay Stores Ltd,17.5,True,2012.0,,,,,,,,,,
+721,PPASF,Pick N Pay Stores Ltd,2.75,True,2020.0,,,,,,,,,,
+722,PPCCY,PICC Property and Casualty Co Ltd,20.239999771118164,True,2012.0,,,,,,,,,,
+723,PPCCF,PICC Property and Casualty Co Ltd,0.7738000154495239,True,2012.0,,,,,,,,,,
+724,PIAGF,Piaggio & C. SpA,3.1500000953674316,False,2009.0,,03-16,05-30,7.0,7.0,4.0,4.0,02-24,05-09,8.46716451286396
+725,PGGCY,Piaggio & C. SpA,$12.21 ,True,,No data fetched for symbol PGGCY using YahooDailyReader,,,,,,,,,
+726,DOC,Physicians Realty Trust,17.850000381469727,True,2013.0,,,,,,,,,,
+727,PHX,PHX Minerals Inc,1.6914000511169434,False,2009.0,,05-03,07-17,6.0,6.0,5.0,5.0,05-03,07-17,5.79952290601538
+728,PHXHF,PHX Energy Services Corp,1.2200000286102295,False,2009.0,,08-22,11-05,4.0,4.0,7.0,7.0,08-22,11-05,5.63988061394095
+729,PHUN,Phunware Inc,0.6899999976158142,True,2016.0,,,,,,,,,,
+730,PHR,Phreesia Inc,40.375,True,2019.0,,,,,,,,,,
+731,PLAB,Photronics Inc,11.074999809265137,False,2009.0,,10-06,12-20,5.0,5.0,6.0,6.0,10-06,12-20,8.954816712408098
+732,PTZH,Photozou Holdings Inc,0.800000011920929,True,2020.0,,,,,,,,,,
+733,POCEF,Photon Control Inc,1.2627700567245483,True,2018.0,,,,,,,,,,
+734,PHCUF,PhotoCure ASA,8.75,True,2013.0,,,,,,,,,,
+735,POMOF,Photo-Me International PLC,$1.45 ,True,,'Date',,,,,,,,,
+736,PSLKF,Phoslock Environmental Technologies Ltd,0.14000000059604645,True,2019.0,,,,,,,,,,
+737,PHOJY,PhosAgro PJSC,13.439800262451172,True,2018.0,,,,,,,,,,
+738,PXHI,PhoneX Holdings Inc,0.20000000298023224,True,2013.0,,,,,,,,,,
+739,PHBR,PhoneBrasil International Inc,0.050999999046325684,True,2012.0,,,,,,,,,,
+740,DNK,Phoenix Tree Holdings Ltd,3.799999952316284,True,2020.0,,,,,,,,,,
+741,PXSNF,Phoenix Solar AG,0.04500000178813934,True,2019.0,,,,,,,,,,
+742,FENG,Phoenix New Media Ltd,2.2699999809265137,True,2011.0,,,,,,,,,,
+743,PHXMF,Phoenix Medical Software Inc,$0.10 ,True,,No data fetched for symbol PHXMF using YahooDailyReader,,,,,,,,,
+744,PXSTF,Phoenix Media Investment Holdings Ltd,0.029999999329447746,True,2012.0,,,,,,,,,,
+745,PLSI,Phoenix Life Sciences International Ltd,0.3499999940395355,True,2014.0,,,,,,,,,,
+746,IPHXF,Phoenix Holdings Ltd,$3.19 ,True,,No data fetched for symbol IPHXF using YahooDailyReader,,,,,,,,,
+747,PNXGF,Phoenix Group Holdings PLC,8.760000228881836,True,2013.0,,,,,,,,,,
+748,PGLD,Phoenix Gold International Inc,$0.01 ,True,,'Date',,,,,,,,,
+749,ANEGY,Phoenix Global Resources PLC,$12.00 ,True,,No data fetched for symbol ANEGY using YahooDailyReader,,,,,,,,,
+750,PXFG,Phoenix Footwear Group Inc,0.11744999885559082,False,2009.0,,12-21,03-06,6.0,6.0,5.0,5.0,12-21,03-06,13.859195891382225
+751,PXCLF,Phoenix Copper Ltd,0.4918000102043152,True,2018.0,,,,,,,,,,
+752,PNX,Phoenix Companies Inc,12.239999771118164,True,2019.0,,,,,,,,,,
+753,PHXCF,Phoenix Canada Oil Co Ltd,0.9768700003623962,True,2018.0,,,,,,,,,,
+754,PXPP,Phoenix Apps Inc,0.009800000116229057,True,2018.0,,,,,,,,,,
+755,PHVAF,Phivida Holdings Inc,0.03799999877810478,True,2017.0,,,,,,,,,,
+756,PHIO,Phio Pharmaceuticals Corp,2.1600000858306885,True,2012.0,,,,,,,,,,
+757,PHWBF,PhilWeb Corporation,$0.46 ,True,,No data fetched for symbol PHWBF using YahooDailyReader,,,,,,,,,
+758,AKRRF,Philly Shipyard ASA,6.744999885559082,True,2013.0,,,,,,,,,,
+759,PDRG,Phillips Edison Grocery Center REIT II Inc,$0.01 ,True,,No data fetched for symbol PDRG using YahooDailyReader,,,,,,,,,
+760,PHEC,Phillips Edison Grocery Center REIT I Inc,$9.16 ,True,,No data fetched for symbol PHEC using YahooDailyReader,,,,,,,,,
+761,PSXP,Phillips 66 Partners LP,25.235000610351562,True,2013.0,,,,,,,,,,
+762,PSX,Phillips 66,60.82500076293945,True,2012.0,,,,,,,,,,
+763,PHIXF,Philippine Metals Inc,0.07378000020980835,True,2012.0,,,,,,,,,,
+764,PM,Philip Morris International Inc,77.0250015258789,False,2009.0,,02-04,04-19,8.0,8.0,3.0,3.0,02-04,04-19,6.905525249696559
+765,PHPMF,Philip Morris CR AS,$673.36 ,True,,'Date',,,,,,,,,
+766,PXMFF,Philex Mining Corporation,0.08399999886751175,False,2010.0,,01-09,03-24,10.0,7.0,0.0,3.0,03-29,06-12,16.01413323764681
+767,PHGD,Phil-Good Products Inc,3.0,True,2012.0,,,,,,,,,,
+768,PAHC,Phibro Animal Health Corp,18.989999771118164,True,2014.0,,,,,,,,,,
+769,PHIKQ,PHI Inc,$0.09 ,True,,No data fetched for symbol PHIKQ using YahooDailyReader,,,,,,,,,
+770,PHIIQ,PHI Inc,$0.26 ,True,,No data fetched for symbol PHIIQ using YahooDailyReader,,,,,,,,,
+771,PHH,PHH Corp,11.0,True,2009.0,,,,,,,,,,
+772,PHAT,Phathom Pharmaceuticals Inc,42.5,True,2019.0,,,,,,,,,,
+773,PHAS,PhaseBio Pharmaceuticals Inc,3.680000066757202,True,2018.0,,,,,,,,,,
+774,SOCLF,Pharos Energy PLC,0.14000000059604645,False,2009.0,,03-27,06-10,6.0,6.0,5.0,5.0,03-27,06-10,5.520520300362687
+775,PTGCY,PHarol SGPS SA,0.14499999582767487,True,2015.0,,,,,,,,,,
+776,PHRZF,PHarol SGPS SA,0.11999999731779099,True,2012.0,,,,,,,,,,
+777,PNEXF,Pharnext SA,3.559999942779541,True,2019.0,,,,,,,,,,
+778,MLLDF,Pharmocann Global Ltd,$1.08 ,True,,No data fetched for symbol MLLDF using YahooDailyReader,,,,,,,,,
+779,PHGUF,Pharming Group,1.2200000286102295,False,2009.0,,09-29,12-13,5.0,5.0,5.0,5.0,09-29,12-13,8.316307847116189
+780,PMC,PharMerica Corp,$29.25 ,True,,'Date',,,,,,,,,
+781,PCHM,PharmChem Inc,3.8499999046325684,True,2012.0,,,,,,,,,,
+782,PXSLY,Pharmaxis Ltd,1.1100000143051147,False,2009.0,,03-11,05-25,3.0,3.0,8.0,8.0,03-11,05-25,9.94365157884002
+783,PMXSF,Pharmaxis Ltd,0.07840000092983246,True,2012.0,,,,,,,,,,
+784,PHBI,Pharmagreen Biotech Inc,0.01489999983459711,True,2018.0,,,,,,,,,,
+785,LMLLF,Pharmadrug Inc,0.025443000718951225,True,2017.0,,,,,,,,,,
+786,PMCB,PharmaCyte Biotech Inc,0.006500000134110451,False,2009.0,,12-22,03-07,5.0,5.0,6.0,6.0,12-22,03-07,10.361352403868684
+787,PUPPF,Pharmacolog i Uppsala AB,0.6923999786376953,True,2018.0,,,,,,,,,,
+788,PCLOF,PharmaCielo Ltd,0.6132000088691711,True,2019.0,,,,,,,,,,
+789,PBSV,Pharma-Bio Serv Inc,1.3600000143051147,False,2009.0,,07-20,10-03,4.0,4.0,7.0,7.0,07-20,10-03,5.2727169732520585
+790,PHMMF,Pharma Mar SA,110.0,False,2009.0,,03-23,06-06,2.0,2.0,9.0,9.0,03-23,06-06,10.747542373500105
+791,PMCL,Pharm Control Ltd,$0.01 ,True,,No data fetched for symbol PMCL using YahooDailyReader,,,,,,,,,
+792,PGTI,PGT Innovations Inc,18.260000228881836,False,2009.0,,03-15,05-29,5.0,5.0,6.0,6.0,03-15,05-29,16.426158646673745
+793,PGSWF,PGS Software SA,3.3213000297546387,True,2020.0,,,,,,,,,,
+794,PGSVY,PGS ASA,0.3799999952316284,False,2009.0,,12-04,02-17,4.0,4.0,7.0,7.0,12-04,02-17,2.2467652776481124
+795,PGEJF,PGS ASA,0.2800000011920929,False,2009.0,,12-02,02-15,6.0,6.0,5.0,5.0,12-02,02-15,8.416513606822226
+796,ISD,PGIM High Yield Fund Inc,14.414999961853027,True,2012.0,,,,,,,,,,
+797,GHY,"PGIM Global High Yield Fund, Inc",13.720800399780273,True,2012.0,,,,,,,,,,
+798,PGAI,PGI Inc,0.00559999980032444,True,2012.0,,,,,,,,,,
+799,PGWFF,PGG Wrightson Ltd,1.5399999618530273,True,2012.0,,,,,,,,,,
+800,PCG,PG&E Corp,12.375,False,2009.0,,02-15,04-30,6.0,6.0,5.0,5.0,02-16,05-01,1.1340035632092988
+801,PFSW,PFSweb Inc,6.730000019073486,False,2009.0,,02-28,05-13,6.0,6.0,5.0,5.0,02-28,05-13,15.731648502087548
+802,PFE,Pfizer Inc,35.935001373291016,False,2009.0,,10-01,12-15,7.0,6.0,4.0,5.0,09-01,11-15,4.0422337021121715
+803,PFNX,Pfenex Inc,12.75,True,2014.0,,,,,,,,,,
+804,PFFVF,Pfeiffer Vacuum Technology AG,195.0,False,2009.0,,03-19,06-02,5.0,5.0,6.0,6.0,11-18,02-01,7.724850342775233
+805,PFBOF,PFB Corp,15.161100387573242,True,2013.0,,,,,,,,,,
+806,PEYUF,Peyto Exploration & Development Corp,2.109999895095825,False,2009.0,,03-10,05-24,6.0,6.0,5.0,5.0,03-10,05-24,8.908435938879437
+807,PXPHF,Pexip Holding ASA,7.449999809265137,True,2020.0,,,,,,,,,,
+808,PUGOY,Peugeot SA,23.10700035095215,False,2009.0,,05-14,07-28,8.0,8.0,3.0,3.0,11-11,01-25,4.65813316319566
+809,PEUGF,Peugeot SA,22.469999313354492,True,2012.0,,,,,,,,,,
+810,PETV,PetVivo Holdings Inc,1.440000057220459,True,2014.0,,,,,,,,,,
+811,PSJEF,Petsec Energy Ltd,0.07000000029802322,True,2019.0,,,,,,,,,,
+812,PSJEY,Petsec Energy Ltd,0.07000000029802322,False,2010.0,,12-18,03-03,5.0,5.0,5.0,5.0,12-18,03-03,9.10616702189272
+813,PAHGF,Pets at Home Group PLC,5.179999828338623,True,2017.0,,,,,,,,,,
+814,PTRUF,Petrus Resources Ltd,0.13910000026226044,False,2010.0,,09-30,12-14,1.0,1.0,7.0,7.0,09-30,12-14,-2.8053966209444243
+815,PWSEF,Petrowest Corp,$0.06 ,True,,No data fetched for symbol PWSEF using YahooDailyReader,,,,,,,,,
+816,PQEFF,Petroteq Energy Inc,0.03894999995827675,True,2014.0,,,,,,,,,,
+817,PTALF,PetroTal Corp,0.10000000149011612,False,2009.0,,12-07,02-20,7.0,7.0,4.0,4.0,12-07,02-20,10.474641551247645
+818,PSUD,Petrosun Inc,0.07999999821186066,False,2010.0,,08-03,10-17,5.0,5.0,5.0,5.0,08-03,10-17,25.59606660540956
+819,PRHRQ,PetroShare Corp,0.004999999888241291,True,2018.0,,,,,,,,,,
+820,PSHIF,PetroShale Inc,0.07999999821186066,True,2012.0,,,,,,,,,,
+821,PQUEQ,Petroquest Energy Inc,0.019999999552965164,True,2012.0,,,,,,,,,,
+822,PPLKY,Petropavlovsk PLC,0.07999999821186066,True,2012.0,,,,,,,,,,
+823,PPLKF,Petropavlovsk PLC,0.07999999821186066,True,2012.0,,,,,,,,,,
+824,PNFTF,Petroneft Resources PLC,0.019999999552965164,False,2010.0,,09-09,11-23,3.0,3.0,7.0,7.0,09-09,11-23,8.047155513552923
+825,PNAGF,Petronas Gas Bhd,3.865000009536743,True,2015.0,,,,,,,,,,
+826,PNADF,Petronas Dagangan Bhd,5.400000095367432,True,2012.0,,,,,,,,,,
+827,PECGF,Petronas Chemicals Group Bhd,1.6699999570846558,True,2015.0,,,,,,,,,,
+828,PETZF,Petron Corporation,$0.05 ,True,,No data fetched for symbol PETZF using YahooDailyReader,,,,,,,,,
+829,PTRO,Petrominerals Corp,0.009999999776482582,False,2009.0,,03-08,05-22,4.0,4.0,7.0,7.0,03-08,05-22,20.10910336512133
+830,PCQRF,Petrolympic Ltd,0.05000000074505806,False,2009.0,,02-23,05-08,3.0,3.0,8.0,8.0,02-23,05-08,5.3836546597652015
+831,BBLS,Petrolia Energy Corp,0.019999999552965164,False,2009.0,,12-20,03-05,4.0,4.0,7.0,7.0,12-20,03-05,7.419180032181232
+832,AGRYF,Petroleum Services Group ASA,$0.09 ,True,,No data fetched for symbol AGRYF using YahooDailyReader,,,,,,,,,
+833,PBR.A,Petroleo Brasileiro SA Petrobras,$8.83 ,True,,No data fetched for symbol PBR.A using YahooDailyReader,,,,,,,,,
+834,PBR,Petroleo Brasileiro SA Petrobras,9.125,False,2009.0,,08-25,11-08,5.0,5.0,6.0,6.0,08-25,11-08,3.3943641733960934
+835,PGAS,Petrogress Inc,0.016499999910593033,True,2014.0,,,,,,,,,,
+836,PTCO,PetroGas Co,0.3709999918937683,True,2015.0,,,,,,,,,,
+837,PFRRF,PetroFrontier Corp,0.02314000017940998,True,2013.0,,,,,,,,,,
+838,POFCY,Petrofac Ltd,1.0,True,2011.0,,,,,,,,,,
+839,POFCF,Petrofac Ltd,2.0,False,2009.0,,02-16,05-01,7.0,7.0,4.0,4.0,02-19,05-04,-1.04418543765037
+840,PTCP,Petrocorp Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+841,PCCYF,PetroChina Co Ltd,0.3199999928474426,False,2009.0,,08-23,11-06,6.0,6.0,5.0,5.0,08-23,11-06,1.4987567859201083
+842,PTR,PetroChina Co Ltd,32.69499969482422,False,2009.0,,08-28,11-11,4.0,4.0,7.0,7.0,08-28,11-11,2.2643652859878642
+843,PEFGF,Petrobras Argentina SA,$1.39 ,True,,'Date',,,,,,,,,
+844,PZE,Petrobras Argentina SA,11.329999923706055,True,2012.0,,,,,,,,,,
+845,PTAXF,Petroamerica Oil Corp,$0.87 ,True,,No data fetched for symbol PTAXF using YahooDailyReader,,,,,,,,,
+846,PTVRF,Petro-Victory Energy Corp,0.29510000348091125,True,2014.0,,,,,,,,,,
+847,CAOJF,Petro Welt Technologies AG,$6.15 ,True,,No data fetched for symbol CAOJF using YahooDailyReader,,,,,,,,,
+848,PVEIF,Petro Viking Energy Inc,$0.03 ,True,,No data fetched for symbol PVEIF using YahooDailyReader,,,,,,,,,
+849,PTRC,Petro River Oil Corp,0.03700000047683716,True,2012.0,,,,,,,,,,
+850,HRTPY,Petro Rio SA,$3.86 ,True,,No data fetched for symbol HRTPY using YahooDailyReader,,,,,,,,,
+851,HRTPF,Petro Rio SA,$0.50 ,True,,No data fetched for symbol HRTPF using YahooDailyReader,,,,,,,,,
+852,PRTDF,Petro Matad Ltd,0.029999999329447746,False,2010.0,,12-15,02-28,4.0,4.0,6.0,6.0,12-15,02-28,24.72079859446569
+853,PDMDF,Petra Diamonds Ltd,0.01600000075995922,True,2012.0,,,,,,,,,,
+854,PAIC,Petra Acquisition Inc,9.800000190734863,True,2020.0,,,,,,,,,,
+855,PETS,PetMed Express Inc,29.565000534057617,False,2009.0,,01-27,04-11,6.0,6.0,5.0,5.0,10-17,12-31,5.775330913557961
+856,PTKHF,Petkim Petrokimya Holding AS,0.6600000262260437,True,2018.0,,,,,,,,,,
+857,PETQ,PetIQ Inc,28.18000030517578,True,2017.0,,,,,,,,,,
+858,DUVNF,Peruvian Metals Corp,0.024210000410676003,True,2013.0,,,,,,,,,,
+859,GGNPF,Perusahaan Rokok Tjap Gudang Garam Tbk,3.009999990463257,False,2009.0,,05-12,07-26,2.0,3.0,9.0,8.0,05-11,07-25,8.886707579490796
+860,GDNGY,Perusahaan Rokok Tjap Gudang Garam Tbk,12.109999656677246,True,2019.0,,,,,,,,,,
+861,PRSP,Perspecta Inc,22.31999969482422,True,2018.0,,,,,,,,,,
+862,PRSNF,Personas Social Incorporated,0.029999999329447746,True,2020.0,,,,,,,,,,
+863,PSNL,Personalis Inc,29.190000534057617,True,2019.0,,,,,,,,,,
+864,PRBDF,Personal Group Holdings PLC,6.600100040435791,True,2013.0,,,,,,,,,,
+865,TEMPF,Persol Holdings Co Ltd,14.3100004196167,True,2017.0,,,,,,,,,,
+866,PSMMY,Persimmon PLC,77.26000213623047,True,2014.0,,,,,,,,,,
+867,PSMMF,Persimmon PLC,37.17559814453125,True,2012.0,,,,,,,,,,
+868,PSTH,Pershing Square Tontine Holdings Ltd,23.77389907836914,True,2020.0,,,,,,,,,,
+869,PSGR,Pershing Resources Co Inc,0.011500000022351742,False,2009.0,,05-13,07-27,4.0,4.0,7.0,7.0,05-13,07-27,15.465754815494122
+870,PGLC,Pershing Gold Corp,1.1200000047683716,True,2012.0,,,,,,,,,,
+871,PMNXF,Perseus Mining Ltd,0.8500000238418579,False,2010.0,,05-08,07-22,6.0,6.0,4.0,4.0,05-08,07-22,-0.10231264405328748
+872,PERY,Perry Ellis International Inc,27.5,True,2012.0,,,,,,,,,,
+873,PRGO,Perrigo Co PLC,48.04999923706055,False,2009.0,,05-22,08-05,6.0,6.0,5.0,5.0,05-22,08-05,3.886769727720212
+874,PRPLF,Perpetual Ltd,21.5,True,2015.0,,,,,,,,,,
+875,PRPI,Perpetual Industries Inc,0.20200000703334808,True,2014.0,,,,,,,,,,
+876,PFOH,Perpetual Federal Savings Bank,25.38990020751953,False,2009.0,,05-03,07-17,7.0,7.0,4.0,4.0,05-03,07-17,6.444577475120286
+877,PMGYF,Perpetual Energy Inc,0.05999999865889549,False,2009.0,,03-24,06-07,4.0,4.0,7.0,7.0,03-24,06-07,4.499873207408241
+878,PDRDY,Pernod Ricard SA,38.1150016784668,False,2009.0,,09-30,12-14,7.0,7.0,4.0,4.0,09-30,12-14,4.722292388870638
+879,PDRDF,Pernod Ricard SA,191.36000061035156,False,2009.0,,09-30,12-14,6.0,6.0,5.0,5.0,09-30,12-14,4.5842456930955775
+880,PTXTQ,Pernix Therapeutics Holdings Inc,$0.03 ,True,,No data fetched for symbol PTXTQ using YahooDailyReader,,,,,,,,,
+881,PRXG,Pernix Group Inc,0.1860000044107437,True,2012.0,,,,,,,,,,
+882,PRT,PermRock Royalty Trust,2.3726999759674072,True,2018.0,,,,,,,,,,
+883,PVL,Permianville Royalty Trust,0.6139000058174133,True,2011.0,,,,,,,,,,
+884,PBT,Permian Basin Royalty Trust,2.7179999351501465,False,2009.0,,12-11,02-24,8.0,7.0,3.0,4.0,12-13,02-26,7.689451629175241
+885,OILCF,Permex Petroleum Corp,0.02500000037252903,True,2018.0,,,,,,,,,,
+886,ILPMY,Permanent TSB Group Holdings PLC,0.6100000143051147,True,2015.0,,,,,,,,,,
+887,ILPMF,Permanent TSB Group Holdings PLC,0.5699999928474426,False,2010.0,,11-29,02-12,4.0,4.0,6.0,6.0,11-29,02-12,17.540414696285502
+888,PERT,Permanent Technologies Inc,0.052000001072883606,False,2009.0,,12-07,02-20,9.0,9.0,2.0,2.0,12-07,02-20,16.487695742208118
+889,PPIH,Perma-Pipe International Holdings Inc,5.3850998878479,False,2009.0,,11-13,01-27,6.0,6.0,5.0,5.0,11-13,01-27,4.774093640249348
+890,PESI,Perma-Fix Environmental Services Inc,6.420000076293945,False,2009.0,,07-02,09-15,7.0,7.0,4.0,4.0,07-02,09-15,1.2670557862670648
+891,OOIL,Perkins Oil & Gas Inc,0.029999999329447746,True,2017.0,,,,,,,,,,
+892,PKI,PerkinElmer Inc,129.33999633789062,False,2009.0,,11-12,01-26,9.0,9.0,2.0,2.0,11-12,01-26,7.227868817951295
+893,PKLBF,Perk Labs Inc,0.039000000804662704,True,2017.0,,,,,,,,,,
+894,PRKI,Perk International Inc,0.014000000432133675,True,2014.0,,,,,,,,,,
+895,PERI,Perion Network Ltd,7.671000003814697,False,2009.0,,11-16,01-30,5.0,5.0,6.0,6.0,11-16,01-30,5.933936493908497
+896,NWFFF,Perimeter Medical Imaging AI Inc,1.6000000238418581,False,2010.0,,07-02,09-15,3.0,3.0,7.0,7.0,07-02,09-15,8.647016191963921
+897,PDAC,Peridot Acquisition Corp,9.730400085449219,True,2020.0,,,,,,,,,,
+898,PSEM,Pericom Semiconductor Corp,$17.74 ,True,,'Date',,,,,,,,,
+899,PERFQ,Perfumania Holdings Inc,$1.92 ,True,,'Date',,,,,,,,,
+900,PFMT,Performant Financial Corp,0.6949999928474426,True,2012.0,,,,,,,,,,
+901,PSHG,Performance Shipping Inc,5.170000076293945,True,2011.0,,,,,,,,,,
+902,PFGC,Performance Food Group Co,45.400001525878906,True,2015.0,,,,,,,,,,
+903,PRFT,Perficient Inc,46.349998474121094,False,2009.0,,11-10,01-24,7.0,7.0,4.0,4.0,11-10,01-24,7.758626106062263
+904,AUSDF,Perenti Global Ltd,0.7964000105857849,True,2013.0,,,,,,,,,,
+905,PNNLF,Perennial International Ltd,HK$ 0.12,True,,No data fetched for symbol PNNLF using YahooDailyReader,,,,,,,,,
+906,PGID,Peregrine Industries Inc,0.07000000029802322,False,2009.0,,01-20,04-04,3.0,3.0,8.0,8.0,01-20,04-04,5.368712876123984
+907,PGDIF,Peregrine Diamonds Ltd,$0.19 ,True,,No data fetched for symbol PGDIF using YahooDailyReader,,,,,,,,,
+908,PRDO,Perdoceo Education Corp,11.119999885559082,False,2009.0,,11-09,01-23,7.0,7.0,4.0,4.0,11-09,01-23,8.077856278085438
+909,PRCP,Perceptron Inc,6.954999923706055,False,2009.0,,06-22,09-05,6.0,6.0,5.0,5.0,06-22,09-05,9.169202668620489
+910,PPTDF,PeptiDream Inc,49.560001373291016,True,2014.0,,,,,,,,,,
+911,PEP,PepsiCo Inc,143.1649932861328,False,2009.0,,05-02,07-16,6.0,6.0,5.0,5.0,03-07,05-21,4.562382509430101
+912,PPSTF,Pepsi-Cola Products Philippines Inc,0.03999999910593033,True,2016.0,,,,,,,,,,
+913,KPFSY,Pepper Food Service Co Ltd,$2.65 ,True,,No data fetched for symbol KPFSY using YahooDailyReader,,,,,,,,,
+914,PEIMF,PepinNini Minerals Ltd,0.14499999582767487,False,2010.0,,08-29,11-12,4.0,4.0,6.0,6.0,08-29,11-12,-6.556702694809253
+915,POM,Pepco Holdings Inc,7960.0,False,2010.0,,08-14,10-28,5.0,5.0,5.0,5.0,08-14,10-28,-0.9266204975216144
+916,PBY,Pep Boys - Manny Moe & Jack,25.8799991607666,True,2018.0,,,,,,,,,,
+917,PPSF,Peoples-Sidney Financial Corp,9.5,False,2009.0,,08-02,10-16,6.0,5.0,5.0,6.0,08-02,10-16,7.234190554178472
+918,PPAL,Peoples Trust Company Of St. Albans,57.5,False,2009.0,,03-23,06-06,6.0,6.0,5.0,5.0,03-21,06-04,8.67428777138011
+919,PPLL,Peoples Ltd,63.93000030517578,True,2012.0,,,,,,,,,,
+920,PFIS,Peoples Financial Services Corp,39.47999954223633,False,2009.0,,10-06,12-20,7.0,7.0,4.0,4.0,10-06,12-20,6.7388300456502055
+921,PFBX,Peoples Financial Corp,13.300000190734863,False,2009.0,,04-14,06-28,5.0,5.0,6.0,6.0,04-14,06-28,-0.2302307220086487
+922,PEDH,Peoples Educational Holdings Inc,0.125,False,2009.0,,07-10,09-23,5.0,5.0,6.0,6.0,07-10,09-23,15.518488396831712
+923,PBVA,Peoples Bankshares Inc,$54.50 ,True,,No data fetched for symbol PBVA using YahooDailyReader,,,,,,,,,
+924,PBCO,Peoples Bank of Commerce OR,11.75,False,2009.0,,09-30,12-14,7.0,7.0,4.0,4.0,09-30,12-14,7.247954194804598
+925,PPBB,Peoples Bancorp Wash,140.0,True,2017.0,,,,,,,,,,
+926,PEBK,Peoples Bancorp of North Carolina Inc,23.110000610351562,False,2009.0,,02-20,05-05,9.0,9.0,2.0,2.0,02-21,05-06,0.6428261665465259
+927,PEBO,Peoples Bancorp Inc (Marietta OH),25.280000686645508,False,2009.0,,05-14,07-28,8.0,7.0,3.0,4.0,05-14,07-28,3.267176020632282
+928,PEBC,Peoples Bancorp Inc,24.600000381469727,True,2013.0,,,,,,,,,,
+929,PBCT,People's United Financial Inc,12.680000305175781,False,2009.0,,09-26,12-10,5.0,4.0,6.0,7.0,09-26,12-10,6.03713834613021
+930,PFDHF,People's Food Holdings Ltd,0.9150000214576721,True,2012.0,,,,,,,,,,
+931,PPLXF,People Corp,7.25,True,2019.0,,,,,,,,,,
+932,PEN,Penumbra Inc,259.9049987792969,True,2015.0,,,,,,,,,,
+933,PNR,Pentair PLC,52.849998474121094,False,2009.0,,09-06,11-20,8.0,8.0,3.0,3.0,09-06,11-20,6.654697348942066
+934,PNOCF,Penta-Ocean Construction Co Ltd,6.010000228881836,True,2011.0,,,,,,,,,,
+935,PAG,Penske Automotive Group Inc,59.189998626708984,False,2009.0,,05-18,08-01,6.0,6.0,5.0,5.0,05-18,08-01,8.943458167821605
+936,PMT,PennyMac Mortgage Investment Trust,16.850000381469727,False,2009.0,,10-30,01-13,6.0,6.0,5.0,5.0,10-15,12-29,2.244121104199849
+937,PFSI,PennyMac Financial Services Inc,56.42499923706055,True,2013.0,,,,,,,,,,
+938,PTXP,PennTex Midstream Partners LP,$20.00 ,True,,'Date',,,,,,,,,
+939,PAWH,Pennsylvania Warehousing & Safe Deposit Co,5250.0,True,2012.0,,,,,,,,,,
+940,PEI,Pennsylvania Real Estate Investment Trust,0.5800999999046326,False,2009.0,,03-11,05-25,4.0,3.0,7.0,8.0,03-11,05-25,4.6738550185476955
+941,PWOD,Penns Woods Bancorp Inc,25.350000381469727,False,2009.0,,05-06,07-20,3.0,3.0,8.0,8.0,08-13,10-27,3.746714187460775
+942,PEGRY,Pennon Group PLC,27.045000076293945,True,2020.0,,,,,,,,,,
+943,PEGRF,Pennon Group PLC,13.868000030517578,True,2012.0,,,,,,,,,,
+944,PNNX,Pennexx Foods Inc,0.07000000029802322,True,2012.0,,,,,,,,,,
+945,PFLT,PennantPark Floating Rate Capital Ltd,9.975000381469727,True,2011.0,,,,,,,,,,
+946,PNNT,Pennant Park Investment Corp,4.019999980926514,False,2009.0,,01-24,04-08,8.0,8.0,3.0,3.0,06-29,09-12,4.270671731039287
+947,PNTG,Pennant Group Inc,46.724998474121094,True,2019.0,,,,,,,,,,
+948,PVAC,Penn Virginia Corp,8.710000038146973,True,2016.0,,,,,,,,,,
+949,PVAHQ,Penn Virginia Corp,$0.02 ,True,,'Date',,,,,,,,,
+950,PENN,Penn National Gaming Inc,68.1500015258789,False,2009.0,,10-29,01-12,5.0,5.0,6.0,6.0,10-29,01-12,8.548701771823563
+951,PEBA,Penn Bancshares Inc,21.000099182128906,True,2012.0,,,,,,,,,,
+952,PENMF,Peninsula Energy Ltd,0.05000000074505806,True,2013.0,,,,,,,,,,
+953,PGHEF,Pengrowth Energy Corp,$0.04 ,True,,No data fetched for symbol PGHEF using YahooDailyReader,,,,,,,,,
+954,PGH,Pengrowth Energy Corp,10.390000343322754,True,2012.0,,,,,,,,,,
+955,PCOA,Pendrell Corp,95000.0,True,2012.0,,,,,,,,,,
+956,PDGNF,Pendragon PLC,0.15000000596046448,True,2014.0,,,,,,,,,,
+957,PNDDF,Pender Growth Fund Inc,2.5699899196624756,True,2017.0,,,,,,,,,,
+958,PBA,Pembina Pipeline Corp,23.860000610351562,False,2010.0,,03-10,05-24,6.0,6.0,4.0,4.0,03-14,05-28,8.36259143582432
+959,PMCCF,Peloton Minerals Corp,0.10693000257015228,True,2013.0,,,,,,,,,,
+960,PTON,Peloton Interactive Inc,103.3478012084961,True,2019.0,,,,,,,,,,
+961,PGXPF,Pelangio Exploration Inc,0.11999999731779099,False,2010.0,,12-16,03-01,7.0,7.0,3.0,3.0,12-16,03-01,22.153696799189607
+962,PKIN,Pekin Life Insurance Co,12.25,False,2009.0,,02-18,05-03,8.0,7.0,3.0,4.0,08-21,11-04,1.0641682470126368
+963,PEGA,Pegasystems Inc,124.12000274658203,False,2009.0,,03-23,06-06,6.0,6.0,5.0,5.0,03-23,06-06,10.473292406324925
+964,PGUZ,Pegasus Pharmaceuticals Inc,0.005489999894052744,True,2012.0,,,,,,,,,,
+965,LOGX,PeerLogix Inc,0.052000001072883606,True,2015.0,,,,,,,,,,
+966,PRVW,Peer Review Mediation & Arbitration Inc,$1.80 ,True,,'Date',,,,,,,,,
+967,PLHTF,Peel Hotels PLC,$1.30 ,True,,No data fetched for symbol PLHTF using YahooDailyReader,,,,,,,,,
+968,PKAYQ,Peekay Boutiques Inc,$1.75 ,True,,No data fetched for symbol PKAYQ using YahooDailyReader,,,,,,,,,
+969,PBBSF,Peekaboo Beans Inc,0.03720000013709068,True,2013.0,,,,,,,,,,
+970,BASCF,Pedro Resources Ltd,0.3264999985694885,True,2013.0,,,,,,,,,,
+971,PED,PEDEVCO Corp,1.3300000429153442,False,2009.0,,12-28,03-13,5.0,5.0,6.0,6.0,12-28,03-13,13.120512591009314
+972,PEB,Pebblebrook Hotel Trust,18.719999313354492,False,2009.0,,10-29,01-12,6.0,6.0,5.0,5.0,10-21,01-04,4.4350453776670475
+973,VSLUF,Pebble Beach Systems Group PLC,0.1599999964237213,True,2019.0,,,,,,,,,,
+974,PTSS,Peartrack Security Systems Inc,0.029999999329447746,False,2009.0,,05-29,08-12,7.0,7.0,4.0,4.0,05-29,08-12,23.02430956491371
+975,PSORF,Pearson PLC,7.150000095367432,True,2012.0,,,,,,,,,,
+976,PSO,Pearson PLC,8.4399995803833,False,2009.0,,02-28,05-13,6.0,6.0,5.0,5.0,04-19,07-03,3.0929711988345576
+977,PGC,Peapack Gladstone Financial Corp,21.170000076293945,False,2009.0,,04-18,07-02,7.0,6.0,4.0,5.0,04-18,07-02,4.012783220510512
+978,RSMAF,Peako Ltd,0.014290000312030315,True,2017.0,,,,,,,,,,
+979,KTNNF,Peakbirch Logic Inc,1.0350099802017212,True,2017.0,,,,,,,,,,
+980,PSPRY,Peak Sport Products Co Ltd,$5.58 ,True,,No data fetched for symbol PSPRY using YahooDailyReader,,,,,,,,,
+981,PSPRF,Peak Sport Products Co Ltd,$0.32 ,True,,No data fetched for symbol PSPRF using YahooDailyReader,,,,,,,,,
+982,PKRLY,Peak Resources Ltd,$1.22 ,True,,No data fetched for symbol PKRLY using YahooDailyReader,,,,,,,,,
+983,PKREF,Peak Resources Ltd,0.05999999865889549,True,2013.0,,,,,,,,,,
+984,SKIS,Peak Resorts Inc,$11.00 ,True,,No data fetched for symbol SKIS using YahooDailyReader,,,,,,,,,
+985,PKKFF,Peak Positioning Technologies Inc,1.190000057220459,True,2014.0,,,,,,,,,,
+986,PKPH,Peak Pharmaceuticals Inc,0.014000000432133675,True,2014.0,,,,,,,,,,
+987,HEGLF,Peak Minerals Ltd,0.016200000420212746,False,2010.0,,06-06,08-20,4.0,4.0,6.0,6.0,06-06,08-20,5.92050539646594
+988,BTU,Peabody Energy Corp,1.100000023841858,True,2017.0,,,,,,,,,,
+989,BTUUQ,Peabody Energy Corp,$0.38 ,True,,'Date',,,,,,,,,
+990,PEABF,Peab AB,$8.51 ,True,,No data fetched for symbol PEABF using YahooDailyReader,,,,,,,,,
+991,PDSB,PDS Biotechnology Corp,1.9900000095367432,True,2015.0,,,,,,,,,,
+992,PDLB,PDL Community Bancorp,10.59000015258789,True,2017.0,,,,,,,,,,
+993,PDLI,PDL BioPharma Inc,2.4049999713897705,False,2009.0,,02-05,04-20,6.0,5.0,5.0,6.0,06-24,09-07,0.9073529470951974
+994,PDGRY,PDG Realty SA Empreendimentos e Participacoes,2.0,False,2010.0,,08-07,10-21,4.0,4.0,6.0,6.0,08-07,10-21,4.717897182497794
+995,PDFS,PDF Solutions Inc,21.1299991607666,False,2009.0,,10-05,12-19,7.0,7.0,4.0,4.0,10-05,12-19,12.398330142663868
+996,PDCE,PDC Energy Inc,16.117799758911133,False,2009.0,,01-09,03-24,9.0,9.0,2.0,2.0,01-09,03-24,3.1941849338953983
+997,PDRX,PD-RX Pharmaceuticals Inc,2.75,False,2009.0,,03-23,06-06,5.0,5.0,6.0,6.0,03-23,06-06,1.4148347461160402
+998,PCTI,PCTEL Inc,6.260000228881836,False,2009.0,,10-28,01-11,7.0,7.0,4.0,4.0,10-28,01-11,5.66043570078262
+999,PCTL,PCT Ltd,0.02160000056028366,True,2016.0,,,,,,,,,,
+1000,PCSB,PCSB Financial Corp,15.699999809265137,True,2017.0,,,,,,,,,,
+1001,PCSV,PCS Edventures!.com Inc,0.019999999552965164,False,2009.0,,06-08,08-22,5.0,5.0,6.0,6.0,06-08,08-22,20.24346760387321
+1002,PCMI,PCM Inc,$35.01 ,True,,No data fetched for symbol PCMI using YahooDailyReader,,,,,,,,,
+1003,PCM,Pcm Fund Inc,10.166500091552734,False,2009.0,,03-23,06-06,9.0,8.0,2.0,3.0,03-21,06-04,7.096448094135143
+1004,PCWLF,PCCW Ltd,0.5973799824714661,False,2009.0,,03-31,06-14,7.0,7.0,4.0,4.0,11-21,02-04,4.539961863211427
+1005,PCCWY,PCCW Ltd,6.0,False,2009.0,,03-28,06-11,9.0,9.0,2.0,2.0,11-08,01-22,3.681843642554168
+1006,PCB,PCB Bancorp,10.693300247192383,True,2018.0,,,,,,,,,,
+1007,PCPPF,PC Partner Group Ltd,0.13500000536441803,True,2020.0,,,,,,,,,,
+1008,PCGR,PC Group Inc,0.004999999888241291,False,2009.0,,07-22,10-05,6.0,6.0,5.0,5.0,07-22,10-05,-37.44963291323518
+1009,PCGLF,PC Gold Inc,$0.06 ,True,,No data fetched for symbol PCGLF using YahooDailyReader,,,,,,,,,
+1010,CNXN,PC Connection Inc,45.25,False,2009.0,,10-29,01-12,6.0,6.0,5.0,5.0,10-19,01-02,12.915366668316944
+1011,PBFX,PBF Logistics LP,8.920000076293945,True,2014.0,,,,,,,,,,
+1012,PBF,PBF Energy Inc,7.09499979019165,True,2012.0,,,,,,,,,,
+1013,PBCA,PBB Bancorp,20.049999237060547,True,2015.0,,,,,,,,,,
+1014,PBNC,PB Financial Corp,32.0,True,2019.0,,,,,,,,,,
+1015,PBBI,PB Bancorp Inc,$15.25 ,True,,No data fetched for symbol PBBI using YahooDailyReader,,,,,,,,,
+1016,PYYRF,PÃƒÂ¶yry Oyj,$8.62 ,True,,No data fetched for symbol PYYRF using YahooDailyReader,,,,,,,,,
+1017,PZZPF,Paz Oil Co Ltd,140.0,True,2019.0,,,,,,,,,,
+1018,PAYS,PaySign Inc,4.184999942779541,False,2009.0,,05-19,08-02,8.0,8.0,3.0,3.0,05-19,08-02,21.513942949880672
+1019,NVAFF,Paysafe Group PLC,$7.35 ,True,,No data fetched for symbol NVAFF using YahooDailyReader,,,,,,,,,
+1020,PYPTF,PayPoint PLC,7.25,True,2014.0,,,,,,,,,,
+1021,PYPL,PayPal Holdings Inc,190.72000122070312,True,2015.0,,,,,,,,,,
+1022,PYNVF,Paynova AB,$0.04 ,True,,No data fetched for symbol PYNVF using YahooDailyReader,,,,,,,,,
+1023,PCTY,Paylocity Holding Corp,193.57000732421875,True,2014.0,,,,,,,,,,
+1024,PAYC,Paycom Software Inc,391.5,True,2014.0,,,,,,,,,,
+1025,PAYX,Paychex Inc,91.79000091552734,False,2009.0,,10-01,12-15,8.0,8.0,3.0,3.0,10-01,12-15,7.235522973527316
+1026,PBOX,Paybox Corp,22.5,True,2012.0,,,,,,,,,,
+1027,PAYA,Paya Holdings Inc,10.79990005493164,True,2020.0,,,,,,,,,,
+1028,PAXYF,Paxys Inc,$0.05 ,True,,No data fetched for symbol PAXYF using YahooDailyReader,,,,,,,,,
+1029,PXMBF,Paxman AB,4.449999809265137,True,2019.0,,,,,,,,,,
+1030,PXGYF,Pax Global Technology Ltd,0.6570000052452087,True,2014.0,,,,,,,,,,
+1031,PAVM,PAVmed Inc,1.7400000095367432,True,2016.0,,,,,,,,,,
+1032,MUEL,Paul Mueller Co,31.25,False,2009.0,,07-21,10-04,6.0,6.0,5.0,5.0,07-21,10-04,7.310646449078179
+1033,PLHNF,Paul Hartmann AG,396.25,True,2014.0,,,,,,,,,,
+1034,PTEN,Patterson-UTI Energy Inc,4.224999904632568,False,2009.0,,10-24,01-07,7.0,6.0,4.0,5.0,09-04,11-18,3.7124061857563664
+1035,PDCO,Patterson Companies Inc,26.780000686645508,False,2009.0,,09-06,11-20,9.0,9.0,2.0,2.0,09-06,11-20,5.265199344971537
+1036,PEGI,Pattern Energy Group Inc,$26.74 ,True,,No data fetched for symbol PEGI using YahooDailyReader,,,,,,,,,
+1037,PATZF,Patrys Ltd,0.019999999552965164,True,2019.0,,,,,,,,,,
+1038,PTZIF,Patrizia AG,24.149999618530273,True,2016.0,,,,,,,,,,
+1039,PATI,Patriot Transportation Holding Inc,9.003800392150879,True,2015.0,,,,,,,,,,
+1040,PTSC,Patriot Scientific Corp,0.005750000011175871,False,2009.0,,07-07,09-20,6.0,6.0,5.0,5.0,07-07,09-20,20.12676101775933
+1041,PTOTF,Patriot One Technologies Inc,0.4375,True,2018.0,,,,,,,,,,
+1042,PNTPQ,Patriot National Inc,0.023000000044703484,True,2015.0,,,,,,,,,,
+1043,PNBK,Patriot National Bancorp Inc,7.239999771118164,False,2009.0,,12-24,03-09,7.0,7.0,4.0,4.0,12-24,03-09,7.295869115375285
+1044,PGOL,Patriot Gold Corp,0.12070000171661377,False,2009.0,,08-10,10-24,7.0,7.0,4.0,4.0,08-10,10-24,2.7636512603864976
+1045,PFDB,Patriot Federal Bank NY,$11.00 ,True,,No data fetched for symbol PFDB using YahooDailyReader,,,,,,,,,
+1046,PATAQ,Patriot Coal Corp,$16.00 ,True,,No data fetched for symbol PATAQ using YahooDailyReader,,,,,,,,,
+1047,PATK,Patrick Industries Inc,61.380001068115234,False,2009.0,,12-11,02-24,6.0,6.0,5.0,5.0,12-15,02-28,14.182674709395366
+1048,PPRG,Patient Portal Technologies Inc,0.03999999910593033,False,2009.0,,01-02,03-17,7.0,7.0,4.0,4.0,01-02,03-17,21.8441941627666
+1049,PASO,Patient Access Solutions Inc,0.019408000633120537,True,2012.0,,,,,,,,,,
+1050,PBHC,Pathfinder Bancorp Inc,11.510000228881836,False,2009.0,,11-11,01-25,7.0,7.0,4.0,4.0,12-26,03-11,6.638103244629412
+1051,PTHN,Patheon NV,$34.98 ,True,,'Date',,,,,,,,,
+1052,HGLD,Patagonia Gold Corp,0.11180000007152557,True,2019.0,,,,,,,,,,
+1053,PATAF,Patagonia Gold Corp,$0.43 ,True,,No data fetched for symbol PATAF using YahooDailyReader,,,,,,,,,
+1054,PSSR,PASSUR Aerospace Inc,0.3199999928474426,False,2009.0,,02-16,05-01,7.0,7.0,4.0,4.0,02-16,05-01,6.644256198015086
+1055,PASG,Passage Bio Inc,16.469999313354492,True,2020.0,,,,,,,,,,
+1056,PSYTF,Pason Systems Inc,5.099999904632568,False,2009.0,,03-28,06-11,5.0,5.0,6.0,6.0,03-28,06-11,7.550104561264732
+1057,EFRGF,Pasofino Gold Ltd,0.14402499794960022,True,2017.0,,,,,,,,,,
+1058,PSXRF,Pasinex Resources Ltd,0.02500000037252903,True,2015.0,,,,,,,,,,
+1059,PSGP,Pasco Group Holding Co,$0.01 ,True,,No data fetched for symbol PSGP using YahooDailyReader,,,,,,,,,
+1060,BIMUF,Pascal Biosciences Inc,0.10729999840259552,True,2015.0,,,,,,,,,,
+1061,PSBR,Pascack Bancorp Inc,$10.95 ,True,,'Date',,,,,,,,,
+1062,PARPF,Parx Materials NV,1.850000023841858,True,2020.0,,,,,,,,,,
+1063,PRTY,Party City Holdco Inc,4.119999885559082,True,2015.0,,,,,,,,,,
+1064,BNBMF,Partners Value Investments Inc,$26.79 ,True,,No data fetched for symbol BNBMF using YahooDailyReader,,,,,,,,,
+1065,PTSRF,Partners Real Estate Investment Trust,0.5099999904632568,True,2013.0,,,,,,,,,,
+1066,PGPHF,Partners Group Holding AG,995.0,True,2015.0,,,,,,,,,,
+1067,PBKX,Partners Bank of California,9.949999809265137,True,2014.0,,,,,,,,,,
+1068,PTRS,Partners Bancorp,5.5,True,2017.0,,,,,,,,,,
+1069,PRE,PartnerRe Ltd,0.07999999821186066,True,2019.0,,,,,,,,,,
+1070,PTNR,Partner Communications Co Ltd,4.900000095367432,False,2009.0,,08-11,10-25,2.0,2.0,9.0,9.0,08-11,10-25,11.050675404497518
+1071,PSN,Parsons Corp,32.54999923706055,True,2019.0,,,,,,,,,,
+1072,PE,Parsley Energy Inc,11.944999694824219,True,2014.0,,,,,,,,,,
+1073,PAOTF,Parrot SA,4.919000148773193,False,2010.0,,04-12,06-26,3.0,3.0,7.0,7.0,04-12,06-26,10.85740292931102
+1074,PARQF,Parques Reunidos Servicios Centrales SA,$15.70 ,True,,No data fetched for symbol PARQF using YahooDailyReader,,,,,,,,,
+1075,PARNF,Parnell Pharmaceuticals Holdings Ltd,0.2800000011920929,True,2014.0,,,,,,,,,,
+1076,PMLAY,Parmalat SpA,$2.85 ,True,,No data fetched for symbol PMLAY using YahooDailyReader,,,,,,,,,
+1077,PLATF,Parmalat SpA,3.359999895095825,False,2009.0,,02-18,05-04,6.0,6.0,4.0,4.0,02-18,05-04,5.76421329796165
+1078,PWNNY,Parkway Minerals NL,$4.69 ,True,,No data fetched for symbol PWNNY using YahooDailyReader,,,,,,,,,
+1079,PRKWF,Parkway Life Real Estate Investment Trust,2.799999952316284,True,2011.0,,,,,,,,,,
+1080,PKY,Parkway Inc,$19.04 ,True,,'Date',,,,,,,,,
+1081,PKKW,Parkway Acquisition Corp,9.199999809265137,True,2018.0,,,,,,,,,,
+1082,PKSGY,Parkson Retail Group Ltd,1.1100000143051147,True,2012.0,,,,,,,,,,
+1083,PKSGF,Parkson Retail Group Ltd,0.05999999865889549,False,2009.0,,08-19,11-02,2.0,2.0,8.0,8.0,02-26,05-12,1.5583082535061046
+1084,PKSSF,Parkson Holdings Bhd,$0.63 ,True,,No data fetched for symbol PKSSF using YahooDailyReader,,,,,,,,,
+1085,PRKA,Parks! America Inc,0.4300000071525574,False,2009.0,,11-01,01-15,5.0,5.0,6.0,6.0,11-01,01-15,16.404913940856126
+1086,PKIUF,Parkland Corp,30.6200008392334,False,2010.0,,08-27,11-10,6.0,6.0,4.0,4.0,03-27,06-10,5.692279697568321
+1087,PKTEF,Parkit Enterprise Inc,0.11500000208616257,False,2010.0,,08-11,10-25,5.0,5.0,5.0,5.0,08-11,10-25,3.8553238518382873
+1088,PRKR,Parkervision Inc,0.3700000047683716,False,2009.0,,12-30,03-15,9.0,9.0,2.0,2.0,12-30,03-15,22.77083425328135
+1089,PH,Parker Hannifin Corp,260.95001220703125,False,1990.0,,09-25,12-09,18.0,16.0,12.0,14.0,09-27,12-11,7.464339334490001
+1090,PKDC,Parker Drilling Co,3.880000114440918,True,2020.0,,,,,,,,,,
+1091,PKDSQ,Parker Drilling Co,$0.24 ,True,,No data fetched for symbol PKDSQ using YahooDailyReader,,,,,,,,,
+1092,PKBK,Parke Bancorp Inc,14.510000228881836,False,2009.0,,12-10,02-23,9.0,9.0,2.0,2.0,12-10,02-23,9.975639040271853
+1093,PKCOY,Park24 Co Ltd,15.039999961853027,True,2016.0,,,,,,,,,,
+1094,PKCOF,Park24 Co Ltd,14.479999542236328,True,2013.0,,,,,,,,,,
+1095,PKOH,Park-Ohio Holdings Corp,26.68000030517578,False,2009.0,,10-22,01-05,5.0,5.0,6.0,6.0,10-24,01-07,9.27443428372599
+1096,PSTB,Park Sterling Corp,$12.87 ,True,,'Date',,,,,,,,,
+1097,PRK,Park National Corp,102.4000015258789,False,2009.0,,09-24,12-08,6.0,5.0,5.0,6.0,09-05,11-19,6.508868489773367
+1098,PRRWF,Park Lawn Corp,21.938199996948242,True,2017.0,,,,,,,,,,
+1099,PLWCF,Park Lawn Co Ltd,$7.00 ,True,,'Date',,,,,,,,,
+1100,PK,Park Hotels & Resorts Inc,15.079999923706055,True,2017.0,,,,,,,,,,
+1101,PCYG,Park City Group Inc,4.715000152587891,False,2009.0,,05-17,07-31,6.0,6.0,5.0,5.0,05-17,07-31,6.194676320178281
+1102,PFED,Park Bancorp Inc,$0.16 ,True,,'Date',,,,,,,,,
+1103,PKE,Park Aerospace Corp,12.34000015258789,False,2009.0,,11-16,01-30,7.0,4.0,4.0,7.0,05-20,08-03,4.549005103495981
+1104,PNRLY,Paringa Resources Ltd,0.022199999541044235,True,2018.0,,,,,,,,,,
+1105,PNGZF,Paringa Resources Ltd,0.017500000074505806,True,2015.0,,,,,,,,,,
+1106,PRGAF,Pargesa Holding SA,89.25,False,2009.0,,03-25,06-08,7.0,7.0,4.0,4.0,11-20,02-03,3.5498670945258515
+1107,PARXF,Parex Resources Inc,12.239999771118164,False,2010.0,,12-07,02-20,4.0,4.0,6.0,6.0,12-07,02-20,7.2378256734740924
+1108,TEUM,Pareteum Corp,0.38999998569488525,False,2009.0,,08-25,11-08,6.0,6.0,5.0,5.0,08-25,11-08,-5.271260278641658
+1109,PDER,Pardee Resources Co Inc,137.0,False,2009.0,,03-31,06-14,6.0,6.0,5.0,5.0,04-05,06-19,5.668931935416207
+1110,PRCOF,Parco Co Ltd,$7.50 ,True,,No data fetched for symbol PRCOF using YahooDailyReader,,,,,,,,,
+1111,PTNYF,ParcelPal Technology Inc,0.05999999865889549,True,2017.0,,,,,,,,,,
+1112,PRTK,Paratek Pharmaceuticals Inc,6.085000038146973,False,2009.0,,12-14,02-27,6.0,6.0,5.0,5.0,12-14,02-27,4.012383931262508
+1113,PRBAY,Parana Banco SA,$18.29 ,True,,No data fetched for symbol PRBAY using YahooDailyReader,,,,,,,,,
+1114,PRMRF,Paramount Resources Ltd,2.680000066757202,False,2009.0,,07-09,09-22,7.0,7.0,4.0,4.0,07-09,09-22,3.9892666366414447
+1115,PGRE,Paramount Group Inc,9.46500015258789,True,2014.0,,,,,,,,,,
+1116,PZG,Paramount Gold Nevada Corp,1.0499999523162842,True,2015.0,,,,,,,,,,
+1117,PBHDF,Paramount Bed Holding Co Ltd,38.70000076293945,True,2017.0,,,,,,,,,,
+1118,PARLF,Parallel Mining Corp,0.1049100011587143,True,2018.0,,,,,,,,,,
+1119,PRLX,Parallax Health Sciences Inc,0.029999999329447746,False,2010.0,,01-10,03-25,7.0,7.0,3.0,3.0,01-10,03-25,15.087765127101585
+1120,PGNT,Paragon Technologies Inc,4.010000228881836,True,2011.0,,,,,,,,,,
+1121,PRGNF,Paragon Shipping Inc,0.007000000216066837,True,2017.0,,,,,,,,,,
+1122,PGNPQ,Paragon Offshore PLC,$0.03 ,True,,'Date',,,,,,,,,
+1123,PAGDF,Paragon ID,33.84159851074219,True,2018.0,,,,,,,,,,
+1124,PARGF,Paragon Group of Companies (The) PLC,$5.39 ,True,,No data fetched for symbol PARGF using YahooDailyReader,,,,,,,,,
+1125,PGNN,Paragon Financial Solutions Inc,9.0,False,2009.0,,01-02,03-17,9.0,9.0,2.0,2.0,01-02,03-17,9.100842646982569
+1127,PRXXF,Paradox Interactive AB,29.649999618530273,True,2017.0,,,,,,,,,,
+1128,PARF,Paradise Inc,7.929999828338623,False,2009.0,,03-24,06-07,7.0,7.0,4.0,4.0,03-24,06-07,9.72174017184181
+1129,PDSSF,Paradise Entertainment Ltd,0.11339999735355377,True,2013.0,,,,,,,,,,
+1130,PSYS,Paradigm System Solutions Inc,0.050999999046325684,False,2010.0,,04-17,07-01,3.0,3.0,7.0,7.0,04-17,07-01,25.301741614936056
+1131,PBIGF,Paradigm Biopharmaceuticals Ltd,2.2100000381469727,True,2019.0,,,,,,,,,,
+1132,PABL,Parabel Inc,$1.70 ,True,,'Date',,,,,,,,,
+1133,PAR,PAR Technology Corp,51.500999450683594,False,2009.0,,08-07,10-21,5.0,5.0,6.0,6.0,08-07,10-21,9.568776455697787
+1134,PARR,Par Pacific Holdings Inc,11.630000114440918,True,2012.0,,,,,,,,,,
+1135,PCPJ,PaperClip Inc,0.550000011920929,True,2012.0,,,,,,,,,,
+1136,FRSH,Papa Murphy?s Holdings Inc,$6.45 ,True,,No data fetched for symbol FRSH using YahooDailyReader,,,,,,,,,
+1137,PZZA,Papa John's International Inc,79.25,False,2009.0,,02-27,05-12,8.0,7.0,3.0,4.0,02-27,05-12,10.406920547057293
+1138,PNTOF,Pantoro Ltd,$0.15 ,True,,'Date',,,,,,,,,
+1139,PTHRF,Pantheon Resources PLC,0.5099999904632568,True,2013.0,,,,,,,,,,
+1140,POROF,Panoro Minerals Ltd,0.09000000357627869,True,2012.0,,,,,,,,,,
+1141,PESAF,Panoro Energy ASA,2.130000114440918,True,2012.0,,,,,,,,,,
+1142,PANRF,Panoramic Resources Ltd,0.09000000357627869,False,2009.0,,06-04,08-18,7.0,7.0,4.0,4.0,06-04,08-18,6.358799731537019
+1143,PNNOF,PannErgy Plc,$2.10 ,True,,No data fetched for symbol PNNOF using YahooDailyReader,,,,,,,,,
+1144,PMRGF,Panmure Gordon & Co PLC,$0.61 ,True,,No data fetched for symbol PMRGF using YahooDailyReader,,,,,,,,,
+1145,KGHZF,Pangolin Diamonds Corp,0.019999999552965164,True,2013.0,,,,,,,,,,
+1146,PANL,Pangaea Logistics Solutions Ltd,2.674999952316284,True,2013.0,,,,,,,,,,
+1147,PNRA,Panera Bread Co,$314.93 ,True,,'Date',,,,,,,,,
+1148,PNLT,Paneltech International Holdings Inc,0.019999999552965164,True,2012.0,,,,,,,,,,
+1149,P,Pandora Media Inc,8.380000114440918,True,2012.0,,,,,,,,,,
+1150,PDRB,Pandora Bancshares Inc,50.75,False,2009.0,,11-20,02-03,3.0,1.0,8.0,10.0,06-23,09-06,4.8156726232615785
+1151,PANDY,Pandora A/S,24.200000762939453,True,2011.0,,,,,,,,,,
+1152,PNDZF,Pandora A/S,94.30000305175781,False,2010.0,,10-11,12-25,5.0,5.0,5.0,5.0,10-11,12-25,6.833932770645279
+1153,PAND,Pandion Therapeutics Inc,15.3100004196167,True,2020.0,,,,,,,,,,
+1154,PUCCF,Pancontinental Resources Corp,0.07999999821186066,True,2018.0,,,,,,,,,,
+1155,PNAJF,PanAust Ltd,$1.40 ,True,,No data fetched for symbol PNAJF using YahooDailyReader,,,,,,,,,
+1156,PCRFY,Panasonic Corp,10.479000091552734,False,2009.0,,05-20,08-03,7.0,7.0,4.0,4.0,05-20,08-03,2.5089751976572767
+1157,PCRFF,Panasonic Corp,10.524999618530273,False,2010.0,,10-15,12-29,3.0,6.0,7.0,4.0,10-04,12-18,3.1385700631151696
+1158,PLWTY,Panalpina Welttransport (Holding) AG,54.16999816894531,True,2015.0,,,,,,,,,,
+1159,PLWTF,Panalpina Welttransport (Holding) AG,$274.54 ,True,,No data fetched for symbol PLWTF using YahooDailyReader,,,,,,,,,
+1160,PANA,Panacea Acquisition Corp,10.109999656677246,True,2020.0,,,,,,,,,,
+1161,PPPLF,Pan Pacific Petroleum NL,$0.01 ,True,,'Date',,,,,,,,,
+1162,DQJCY,Pan Pacific International Holdings Corp,24.28499984741211,False,2010.0,,09-10,11-24,7.0,7.0,3.0,3.0,09-10,11-24,9.76379548300356
+1163,DQJCF,Pan Pacific International Holdings Corp,23.8799991607666,True,2013.0,,,,,,,,,,
+1164,PPFC,Pan Pacific Bank,$4.65 ,True,,'Date',,,,,,,,,
+1165,POEFF,Pan Orient Energy Corp,0.4749000072479248,False,2009.0,,11-02,01-16,5.0,4.0,6.0,7.0,11-02,01-16,4.820289555845163
+1166,PAOC,Pan Ocean Container Supplies Ltd,$0.01 ,True,,No data fetched for symbol PAOC using YahooDailyReader,,,,,,,,,
+1167,PNHGF,Pan Hong Holdings Group Ltd,$0.01 ,True,,No data fetched for symbol PNHGF using YahooDailyReader,,,,,,,,,
+1168,PGNRF,Pan Global Resources Inc,0.3091000020503998,True,2012.0,,,,,,,,,,
+1169,PGLO,Pan Global Corp,0.006500000134110451,True,2014.0,,,,,,,,,,
+1170,PAAS,Pan American Silver Corp,30.257999420166016,False,2009.0,,07-01,09-14,4.0,3.0,7.0,8.0,07-07,09-20,5.9644569586429945
+1171,MXOM,Pan American Goldfields Ltd,0.007000000216066837,True,2016.0,,,,,,,,,,
+1172,GFRCF,Pan American Fertilizer Corp,$0.06 ,True,,'Date',,,,,,,,,
+1173,PAMB,Pan American Bank,$29.01 ,True,,No data fetched for symbol PAMB using YahooDailyReader,,,,,,,,,
+1174,PAFRF,Pan African Resources PLC,0.28999999165534973,True,2013.0,,,,,,,,,,
+1175,PMPAF,Pampa Energia SA,0.3799999952316284,True,2012.0,,,,,,,,,,
+1176,PAM,Pampa Energia SA,12.943599700927734,False,2009.0,,08-23,11-06,3.0,3.0,8.0,8.0,08-23,11-06,12.913392054743284
+1177,PAMI,PAM Holdings Inc,$0.10 ,True,,'Date',,,,,,,,,
+1178,PPTKF,Paltek Corp,$7.15 ,True,,No data fetched for symbol PPTKF using YahooDailyReader,,,,,,,,,
+1179,PALT,Paltalk Inc,1.1299999952316284,False,2009.0,,12-14,02-27,4.0,4.0,7.0,7.0,12-14,02-27,16.032085509048482
+1180,PCCOF,Paltac Corp,$48.10 ,True,,No data fetched for symbol PCCOF using YahooDailyReader,,,,,,,,,
+1181,PLMR,Palomar Holdings Inc,73.38999938964844,True,2019.0,,,,,,,,,,
+1182,PANW,Palo Alto Networks Inc,286.2449951171875,True,2012.0,,,,,,,,,,
+1183,PTTTS,Palmetto Real Estate Trust,7.0,True,2012.0,,,,,,,,,,
+1184,NKORF,Palladium One Mining Inc,0.10999999940395355,True,2016.0,,,,,,,,,,
+1185,PLFRY,Palfinger AG,25.020000457763672,False,2009.0,,03-01,05-15,7.0,7.0,4.0,4.0,12-29,03-14,5.918998138511306
+1186,PLFRF,Palfinger AG,22.950000762939453,True,2016.0,,,,,,,,,,
+1187,PRIEF,Paleo Resources Inc,0.012000000104308128,True,2012.0,,,,,,,,,,
+1188,PLYN,Palayan Resources Inc,0.6000000238418579,True,2020.0,,,,,,,,,,
+1189,PTN,Palatin Technologies Inc,0.4250999987125397,False,2009.0,,03-02,05-16,6.0,6.0,5.0,5.0,03-02,05-16,12.613324977720616
+1190,PLTR,Palantir Technologies Inc,18.45949935913086,True,2020.0,,,,,,,,,,
+1191,PLMNF,Palamina Corp,0.14000000059604645,True,2016.0,,,,,,,,,,
+1192,PALAF,Paladin Energy Ltd,0.10000000149011612,False,2009.0,,12-10,02-23,5.0,5.0,6.0,6.0,12-10,02-23,16.52730213125759
+1193,PALAY,Paladin Energy Ltd,$0.02 ,True,,No data fetched for symbol PALAY using YahooDailyReader,,,,,,,,,
+1194,PBOAF,Palabora Mining Co Ltd,11.5,True,2009.0,,,,,,,,,,
+1195,PTPKF,Pakuwon Jati Tbk,0.03500000014901161,True,2014.0,,,,,,,,,,
+1196,PAIOF,Paion Ag,2.5,True,2012.0,,,,,,,,,,
+1197,PDPYF,Painted Pony Energy Ltd,0.517549991607666,True,2013.0,,,,,,,,,,
+1198,PRFX,PainReform Ltd,4.204999923706055,True,2020.0,,,,,,,,,,
+1199,PAYD,Paid Inc,3.009999990463257,True,2017.0,,,,,,,,,,
+1200,PAGS,PagSeguro Digital Ltd,43.39500045776367,True,2018.0,,,,,,,,,,
+1201,PD,PagerDuty Inc,30.350000381469727,True,2019.0,,,,,,,,,,
+1202,MPGPY,PageGroup PLC,10.949999809265137,True,2015.0,,,,,,,,,,
+1203,MPGPF,PageGroup PLC,6.150000095367432,False,2010.0,,03-10,05-24,4.0,4.0,4.0,4.0,11-11,01-25,5.9862001197507855
+1204,PAE,PAE Inc,9.885000228881836,True,2018.0,,,,,,,,,,
+1205,IDEIF,Padtec Holding SA,$3.42 ,True,,No data fetched for symbol IDEIF using YahooDailyReader,,,,,,,,,
+1206,PACW,PacWest Bancorp,24.270000457763672,False,2009.0,,10-17,12-31,8.0,8.0,3.0,3.0,10-17,12-31,9.752276071869804
+1207,PACXF,Pacton Gold Inc,0.7699999809265137,True,2018.0,,,,,,,,,,
+1208,PTVE,Pactiv Evergreen Inc,15.609999656677246,True,2020.0,,,,,,,,,,
+1209,PTTCF,Pact Group Holdings Ltd,$1.52 ,True,,No data fetched for symbol PTTCF using YahooDailyReader,,,,,,,,,
+1210,PKG,Packaging Corp of America,128.72000122070312,False,2009.0,,09-24,12-08,8.0,8.0,3.0,3.0,09-24,12-08,6.6866570036231385
+1211,PCRX,Pacira BioSciences Inc,66.78500366210938,True,2011.0,,,,,,,,,,
+1212,PMYLF,Pacifico Minerals Ltd,0.019999999552965164,True,2020.0,,,,,,,,,,
+1213,PHLI,PacificHealth Laboratories Inc,0.005499999970197678,False,2009.0,,01-02,03-17,8.0,8.0,3.0,3.0,01-02,03-17,27.01842377980587
+1214,PWBO,Pacific West Bank West Linn Oregon,10.989999771118164,False,2009.0,,12-24,03-09,7.0,7.0,4.0,4.0,12-24,03-09,7.895936820555532
+1215,PACV,Pacific Ventures Group Inc,0.46000000834465027,True,2012.0,,,,,,,,,,
+1216,PVBK,Pacific Valley Bank,6.760000228881836,False,2009.0,,10-01,12-15,5.0,5.0,6.0,6.0,10-01,12-15,9.444017114013779
+1217,PSUNQ,Pacific Sunwear of California Inc,$0.01 ,True,,'Date',,,,,,,,,
+1218,PSBC,Pacific State Bancorp,0.017799999564886093,False,2009.0,,12-22,03-07,4.0,4.0,7.0,7.0,12-22,03-07,28.300703089073753
+1219,PSNWF,Pacific Star Network Ltd,$0.01 ,True,,No data fetched for symbol PSNWF using YahooDailyReader,,,,,,,,,
+1220,PFSF,Pacific Software Inc,2.5,True,2011.0,,,,,,,,,,
+1221,PPOTF,Pacific Silk Road Resources Group Inc,0.016699999570846558,True,2012.0,,,,,,,,,,
+1222,PEXZF,Pacific Ridge Exploration Ltd,0.05999999865889549,False,2009.0,,06-17,08-31,6.0,6.0,5.0,5.0,06-17,08-31,17.620557553290464
+1223,PPBI,Pacific Premier Bancorp Inc,29.059999465942383,False,2009.0,,01-14,03-29,9.0,9.0,2.0,2.0,09-22,12-06,7.554100181809424
+1224,PFOSF,Pacific Online Systems Corp,$25.38 ,True,,No data fetched for symbol PFOSF using YahooDailyReader,,,,,,,,,
+1225,PCOLF,Pacific Online Ltd,0.12999999523162842,True,2012.0,,,,,,,,,,
+1226,PCFO,Pacific Office Properties Trust Inc,$0.05 ,True,,No data fetched for symbol PCFO using YahooDailyReader,,,,,,,,,
+1227,PMBC,Pacific Mercantile Bancorp,4.670000076293945,False,2009.0,,03-08,05-22,6.0,6.0,5.0,5.0,03-08,05-22,4.847616482194156
+1228,PCROF,Pacific Iron Ore Corp,$0.11 ,True,,No data fetched for symbol PCROF using YahooDailyReader,,,,,,,,,
+1229,PCIMF,Pacific Imperial Mines Inc,0.026799999177455902,True,2014.0,,,,,,,,,,
+1230,PFHO,Pacific Health Care Organization Inc,0.9700000286102295,False,2009.0,,02-23,05-08,6.0,6.0,5.0,5.0,02-23,05-08,12.971348406852044
+1231,PGTK,Pacific Green Technologies Inc,0.9994999766349792,True,2012.0,,,,,,,,,,
+1232,PFLC,Pacific Financial Corp,8.600000381469727,False,2009.0,,11-20,02-03,7.0,7.0,4.0,4.0,10-28,01-11,5.400141590050505
+1233,PEIX,Pacific Ethanol Inc,5.335000038146973,False,2009.0,,08-18,11-01,6.0,6.0,5.0,5.0,08-18,11-01,1.6738854825890332
+1234,PEBN,Pacific Enterprise Bancorp Irvine California,12.0,True,2017.0,,,,,,,,,,
+1235,PEMC,Pacific Energy & Mining Co,0.06499999761581421,True,2012.0,,,,,,,,,,
+1236,PEMSF,Pacific Empire Minerals Corp,0.06509000062942505,True,2018.0,,,,,,,,,,
+1237,PFGTF,Pacific Edge Ltd,0.5,True,2016.0,,,,,,,,,,
+1238,PACDQ,Pacific Drilling SA,0.03500000014901161,True,2020.0,,,,,,,,,,
+1239,TSRUF,Pacific Current Group Ltd,3.700000047683716,False,2010.0,,09-04,11-18,6.0,6.0,4.0,4.0,12-29,03-14,5.189718689286416
+1240,PCBK,Pacific Continental Corp,2.0209999084472656,True,2019.0,,,,,,,,,,
+1241,PCHK,Pacific Conquest Holdings Inc,0.029999999329447746,False,2010.0,,03-23,06-06,1.0,1.0,9.0,9.0,03-23,06-06,24.125097009500237
+1242,PCBC,Pacific Commerce Bancorp,13.25,True,2012.0,,,,,,,,,,
+1243,ROYTL,Pacific Coast Oil Trust,0.10999999940395355,True,2019.0,,,,,,,,,,
+1244,PCDVF,Pacific Century Regional Developments Ltd,0.2199999988079071,True,2014.0,,,,,,,,,,
+1245,PCPDF,Pacific Century Premium Developments Ltd,0.10000000149011612,True,2020.0,,,,,,,,,,
+1246,PFBDY,Pacific Brands Ltd,$3.20 ,True,,No data fetched for symbol PFBDY using YahooDailyReader,,,,,,,,,
+1247,PBMLF,Pacific Booker Minerals Inc,1.606600046157837,False,2009.0,,07-15,09-28,6.0,6.0,5.0,5.0,07-15,09-28,6.933519416410752
+1248,PACB,Pacific Biosciences of California Inc,15.193400382995605,False,2010.0,,11-17,01-31,4.0,4.0,6.0,6.0,11-17,01-31,11.967938238922734
+1249,PBMFF,Pacific Bay Minerals Ltd,0.039000000804662704,True,2012.0,,,,,,,,,,
+1250,PCFBY,Pacific Basin Shipping Ltd,3.240000009536743,True,2011.0,,,,,,,,,,
+1251,PCFBF,Pacific Basin Shipping Ltd,0.17000000178813934,False,2009.0,,09-03,11-17,6.0,6.0,5.0,5.0,09-03,11-17,6.325424470611688
+1252,PFAIF,Pacific Andes International Holdings Ltd,$0.03 ,True,,'Date',,,,,,,,,
+1253,PFBN,Pacific Alliance Bank CA,7.0,False,2009.0,,12-05,02-18,7.0,6.0,4.0,5.0,12-05,02-18,9.089782013781493
+1254,PHF,Pacholder High Yield Fund Inc,$7.98 ,True,,'Date',,,,,,,,,
+1255,PCMXF,Pace PLC,$6.23 ,True,,'Date',,,,,,,,,
+1256,PMDL,Pace Medical Inc,0.009999999776482582,False,2009.0,,05-06,07-20,2.0,2.0,9.0,9.0,05-06,07-20,17.491350172751066
+1257,PCVFF,PACE Development Corp PCL,$0.01 ,True,,No data fetched for symbol PCVFF using YahooDailyReader,,,,,,,,,
+1258,PCAR,PACCAR Inc,89.0,False,2009.0,,11-01,01-15,7.0,7.0,4.0,4.0,08-31,11-14,4.846533074122768
+1259,PACRF,Pac Roots Cannabis Corp,0.12700000405311584,True,2020.0,,,,,,,,,,
+1260,PRSAF,PA Resources AB,$1.05 ,True,,No data fetched for symbol PRSAF using YahooDailyReader,,,,,,,,,
+1261,PTOS,P2 Solar Inc,0.004000000189989805,False,2009.0,,12-21,03-06,9.0,9.0,2.0,2.0,12-21,03-06,21.780308546357446
+1262,CTIMF,P2 Gold Inc,0.3199999928474426,True,2019.0,,,,,,,,,,
+1263,PIOE,P10 Holdings Inc,4.949999809265137,True,2017.0,,,,,,,,,,
+1264,PTSI,P.A.M. Transportation Services Inc,46.349998474121094,False,2009.0,,09-03,11-17,8.0,8.0,3.0,3.0,09-03,11-17,9.10218938851863
+1265,PIPKY,P&I Personal & Informatik AG,$21.84 ,True,,No data fetched for symbol PIPKY using YahooDailyReader,,,,,,,,,
+1266,PFIN,P & F Industries Inc,4.769999980926514,False,2009.0,,05-14,07-28,7.0,7.0,4.0,4.0,12-14,02-27,8.04953768883691

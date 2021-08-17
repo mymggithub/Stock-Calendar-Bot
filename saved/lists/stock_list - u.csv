@@ -1,0 +1,344 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,UBAZF,Uzabase Inc,20.25,True,2019.0,,,,,,,,,,
+1,UXIN,Uxin Ltd,1.350000023841858,True,2018.0,,,,,,,,,,
+2,UXCLF,UXC Ltd,$0.88 ,True,,'Date',,,,,,,,,
+3,UWHR,Uwharrie Capital Corp,5.25,False,2009.0,,01-18,04-02,2.0,2.0,9.0,9.0,01-18,04-02,7.3614920598849825
+4,UVFT,UV Flu Technologies Inc,0.013700000010430813,False,2009.0,,04-11,06-25,7.0,7.0,4.0,4.0,04-11,06-25,13.825824558685307
+5,UTZ,Utz Brands Inc,19.100000381469727,True,2020.0,,,,,,,,,,
+6,UTSI,UTStarcom Holdings Corp,0.949999988079071,False,2009.0,,08-06,10-20,3.0,3.0,8.0,8.0,08-06,10-20,6.3405777194602635
+7,UOEMF,Utilico Emerging Markets Trust PLC,$1.55 ,True,,No data fetched for symbol UOEMF using YahooDailyReader,,,,,,,,,
+8,UTIW,UTi Worldwide Inc,$7.09 ,True,,'Date',,,,,,,,,
+9,UTGN,UTG Inc,25.0,False,2009.0,,05-05,07-19,3.0,3.0,8.0,8.0,05-05,07-19,7.591440254242246
+10,UTMD,Utah Medical Products Inc,84.44000244140625,False,2009.0,,09-13,11-27,5.0,5.0,6.0,6.0,09-13,11-27,5.2382017616500205
+11,USPI,USSPI Media Inc,$0.23 ,True,,'Date',,,,,,,,,
+12,USSJY,USS Co Ltd,29.049999237060547,True,2012.0,,,,,,,,,,
+13,USSJF,USS Co Ltd,17.049999237060547,True,2012.0,,,,,,,,,,
+14,USMD,USMD Holdings Inc,$22.64 ,True,,'Date',,,,,,,,,
+15,USIO,Usio Inc,1.5700000524520874,False,2009.0,,07-11,09-24,6.0,6.0,5.0,5.0,07-11,09-24,11.839085101758794
+16,USNZY,"Usinas Siderurgicas de Minas Gerais,S.A.",2.0799999237060547,False,2010.0,,08-27,11-10,6.0,6.0,4.0,4.0,08-27,11-10,5.399889574051364
+17,USDMY,"Usinas Siderurgicas de Minas Gerais,S.A.",$13.12 ,True,,No data fetched for symbol USDMY using YahooDailyReader,,,,,,,,,
+18,UHOIF,Ushio Inc,12.65999984741211,True,2015.0,,,,,,,,,,
+19,USHAF,Usha Resources Ltd,0.20000000298023224,True,2020.0,,,,,,,,,,
+20,USGPF,USG People BV,$18.89 ,True,,'Date',,,,,,,,,
+21,USDP,USD Partners LP,3.3399999141693115,True,2014.0,,,,,,,,,,
+22,UCMDF,USCOM Ltd,$0.10 ,True,,No data fetched for symbol UCMDF using YahooDailyReader,,,,,,,,,
+23,USNA,Usana Health Sciences Inc,74.81999969482422,False,2009.0,,05-13,07-27,3.0,3.0,8.0,8.0,05-13,07-27,3.9297292307975096
+24,USAB,USAmeribancorp Inc,$75.00 ,True,,No data fetched for symbol USAB using YahooDailyReader,,,,,,,,,
+25,ZMDC,USA Zhimingde International Group Corp,0.15000000596046448,True,2012.0,,,,,,,,,,
+26,USAK,USA Truck Inc,9.779999732971191,False,2009.0,,12-19,03-04,8.0,8.0,3.0,3.0,12-19,03-04,6.4315094090719676
+27,USAT,USA Technologies Inc,8.260000228881836,False,2009.0,,11-15,01-29,6.0,6.0,5.0,5.0,11-15,01-29,13.284860979611025
+28,USRI,USA Recycling Industries Inc,0.03500000014901161,True,2012.0,,,,,,,,,,
+29,USAQ,USA Equities Corp,0.550000011920929,True,2013.0,,,,,,,,,,
+30,USAC,USA Compression Partners LP,11.960000038146973,True,2013.0,,,,,,,,,,
+31,USDF,US-DADI Fertilizer Industry International Inc,0.008249999955296516,True,2013.0,,,,,,,,,,
+32,UCBB,US-China Biomedical Technology Inc,0.05999999865889549,True,2013.0,,,,,,,,,,
+33,USVR,US VR Global.com Inc,$50.00 ,True,,No data fetched for symbol USVR using YahooDailyReader,,,,,,,,,
+34,USRM,US Stem Cell Inc,0.007000000216066837,True,2015.0,,,,,,,,,,
+35,SLCA,US Silica Holdings Inc,4.21999979019165,True,2012.0,,,,,,,,,,
+36,USPH,US Physical Therapy Inc,106.55999755859375,False,2009.0,,04-06,06-20,7.0,7.0,4.0,4.0,04-06,06-20,10.036432828401852
+37,USPE,US Personnel Inc,$0.01 ,True,,No data fetched for symbol USPE using YahooDailyReader,,,,,,,,,
+38,UCLE,US Nuclear Corp,0.1599999964237213,True,2015.0,,,,,,,,,,
+39,USNU,US Neurosurgical Holding Inc,0.3100000023841858,False,2009.0,,03-16,05-30,3.0,3.0,8.0,8.0,03-16,05-30,18.72423821689212
+40,USMT,US Metro Bancorp,2.5,False,2009.0,,10-21,01-04,2.0,2.0,9.0,9.0,10-21,01-04,11.858839116126804
+41,USLG,US Lighting Group Inc,0.17299999296665192,True,2016.0,,,,,,,,,,
+42,GROW,US Global Investors Inc,3.0799999237060547,False,2009.0,,06-25,09-08,5.0,5.0,6.0,6.0,06-25,09-08,11.315810414276251
+43,HTM,US Geothermal Inc,5.449999809265137,True,2012.0,,,,,,,,,,
+44,USFD,US Foods Holding Corp,30.729999542236328,True,2016.0,,,,,,,,,,
+45,USEG,US Energy Corp,3.430000066757202,False,2009.0,,12-13,02-26,7.0,7.0,4.0,4.0,12-13,02-26,5.049526168629522
+46,ECOL,US Ecology Inc,35.0,False,2009.0,,05-13,07-27,6.0,6.0,5.0,5.0,05-05,07-19,4.559495073975248
+47,USCR,US Concrete Inc,37.18000030517578,False,2010.0,,03-30,06-13,8.0,8.0,2.0,2.0,03-30,06-13,8.774692514565926
+48,USCFF,US Cobalt Inc,$0.77 ,True,,No data fetched for symbol USCFF using YahooDailyReader,,,,,,,,,
+49,USBC,US Biotec Inc,0.4729999899864197,True,2013.0,,,,,,,,,,
+50,URZZF,URZ Energy Corp,$0.38 ,True,,No data fetched for symbol URZZF using YahooDailyReader,,,,,,,,,
+51,NULTF,URU Metals Ltd,5.400000095367432,True,2014.0,,,,,,,,,,
+52,LFDEF,UrtheCast Corp,0.05000000074505806,False,2010.0,,07-28,10-11,4.0,4.0,6.0,6.0,07-28,10-11,-7.874615390018254
+53,UBP,Urstadt Biddle Properties Inc,11.729999542236328,False,2009.0,,09-27,12-11,6.0,5.0,5.0,6.0,02-16,05-01,0.901567722033505
+54,UBA,Urstadt Biddle Properties Inc,12.670000076293945,False,2009.0,,11-13,01-27,7.0,7.0,4.0,4.0,10-04,12-18,3.8248317628268813
+55,UROV,Urovant Sciences Ltd,16.190000534057617,True,2018.0,,,,,,,,,,
+56,URGN,UroGen Pharma Ltd,21.610000610351562,True,2017.0,,,,,,,,,,
+57,URBDF,Urbi Desarrollos Urbanos SAB de CV,0.6359999775886536,True,2013.0,,,,,,,,,,
+58,UBNSF,Urbanise.com Ltd,$0.03 ,True,,No data fetched for symbol UBNSF using YahooDailyReader,,,,,,,,,
+59,UBMRF,Urbanimmersive Inc,0.05999999865889549,True,2017.0,,,,,,,,,,
+60,URNAF,Urbana Corp,1.909999966621399,False,2010.0,,03-21,06-04,8.0,5.0,2.0,5.0,03-21,06-04,5.385321851958883
+61,UBAAF,Urbana Corp,2.009999990463257,False,2009.0,,03-01,05-15,6.0,6.0,5.0,5.0,03-01,05-15,3.5906961817578
+62,UGRO,Urban-gro Inc,1.0,True,2019.0,,,,,,,,,,
+63,UBBVF,Urban&Civic PLC,$3.99 ,True,,No data fetched for symbol UBBVF using YahooDailyReader,,,,,,,,,
+64,MYT,Urban Tea Inc,1.7400000095367432,True,2015.0,,,,,,,,,,
+65,URBN,Urban Outfitters Inc,28.979999542236328,False,2009.0,,06-26,09-09,5.0,5.0,6.0,6.0,06-26,09-09,11.213123762842095
+66,UONEK,Urban One Inc,1.1100000143051147,False,2009.0,,01-02,03-17,8.0,8.0,3.0,3.0,01-02,03-17,13.790524030684265
+67,UONE,Urban One Inc,5.050000190734863,False,2009.0,,02-02,04-17,8.0,8.0,3.0,3.0,02-02,04-17,7.7995875788704945
+68,URHY,Urban Hydroponics Inc,$0.04 ,True,,No data fetched for symbol URHY using YahooDailyReader,,,,,,,,,
+69,UE,Urban Edge Properties,13.239999771118164,True,2015.0,,,,,,,,,,
+70,UBNZF,Urban Communications Inc,$0.05 ,True,,'Date',,,,,,,,,
+71,URVNF,Uravan Minerals Inc,0.009580000303685665,True,2013.0,,,,,,,,,,
+72,URCCF,Uranium Royalty Corp,0.8600000143051147,True,2020.0,,,,,,,,,,
+73,URPTF,Uranium Participation Corp,3.0799999237060547,False,2009.0,,10-01,12-15,4.0,4.0,7.0,7.0,10-01,12-15,4.819587318569266
+74,UFEFF,Uranium Focused Energy Fund,$1.89 ,True,,No data fetched for symbol UFEFF using YahooDailyReader,,,,,,,,,
+75,UEC,Uranium Energy Corp,0.9599999785423279,False,2009.0,,10-31,01-14,3.0,3.0,8.0,8.0,10-31,01-14,13.513449248766612
+76,UREYF,Urals Energy PCL,$0.45 ,True,,No data fetched for symbol UREYF using YahooDailyReader,,,,,,,,,
+77,URG,Ur-Energy Inc,0.46000000834465027,False,2009.0,,10-31,01-14,7.0,7.0,4.0,4.0,10-31,01-14,10.779606258781783
+78,UQM,UQM Technologies Inc,$1.71 ,True,,No data fetched for symbol UQM using YahooDailyReader,,,,,,,,,
+79,UPWK,Upwork Inc,34.810001373291016,True,2018.0,,,,,,,,,,
+80,UPPR,Upper Street Marketing Inc,0.019999999552965164,False,2009.0,,12-17,03-02,3.0,3.0,8.0,8.0,12-17,03-02,9.608874863883477
+81,UPNRY,Uponor Oyj,10.800000190734863,True,2015.0,,,,,,,,,,
+82,UPNRF,Uponor Oyj,19.559999465942383,True,2012.0,,,,,,,,,,
+83,UPMMY,UPM-Kymmene Oyj,31.520000457763672,True,2019.0,,,,,,,,,,
+84,UPMKY,UPM-Kymmene Oyj,$26.45 ,True,,No data fetched for symbol UPMKY using YahooDailyReader,,,,,,,,,
+85,UPMKF,UPM-Kymmene Oyj,31.360000610351562,False,2010.0,,03-14,05-28,8.0,8.0,2.0,2.0,01-21,04-05,6.814076332133892
+86,UPNT,Uplift Nutrition Inc,$0.05 ,True,,No data fetched for symbol UPNT using YahooDailyReader,,,,,,,,,
+87,UPLD,Upland Software Inc,44.290000915527344,True,2014.0,,,,,,,,,,
+88,UDTRL,Updater Inc,$0.88 ,True,,No data fetched for symbol UDTRL using YahooDailyReader,,,,,,,,,
+89,UPDC,UPD Holding Corp,0.019999999552965164,False,2009.0,,06-27,09-10,4.0,4.0,7.0,7.0,06-27,09-10,17.842547304047912
+90,UCCPF,Upco International Inc,0.025629999116063118,True,2018.0,,,,,,,,,,
+91,TIGR,UP Fintech Holding Ltd,7.170000076293945,True,2019.0,,,,,,,,,,
+92,UOLI,Uonlive Corp,0.550000011920929,True,2012.0,,,,,,,,,,
+93,UOMO,UOMO Media Inc,0.09000000357627869,False,2009.0,,01-28,04-12,6.0,6.0,5.0,5.0,01-28,04-12,-85.15595975833459
+94,UOLGY,UOL Group Ltd,22.190000534057617,False,2009.0,,02-17,05-02,5.0,5.0,6.0,6.0,02-11,04-26,5.9553951456453005
+95,UOLGF,UOL Group Ltd,5.049699783325195,True,2012.0,,,,,,,,,,
+96,UNYAF,UNY Group Holdings Co Ltd,$5.82 ,True,,'Date',,,,,,,,,
+97,UNM,Unum Group,21.440000534057617,False,2009.0,,08-22,11-05,7.0,7.0,4.0,4.0,08-22,11-05,3.2585201702682034
+98,UNRH,UNR Holdings Inc,$0.18 ,True,,'Date',,,,,,,,,
+99,UVSP,Univest Financial Corp,19.1299991607666,False,2009.0,,04-18,07-02,5.0,4.0,6.0,7.0,04-18,07-02,2.518650661929537
+100,UNIB,University Bancorp Inc,12.949999809265137,False,2009.0,,11-30,02-13,6.0,6.0,5.0,5.0,11-30,02-13,15.369195100954302
+101,UTRK,Universal Tracking Solutions Inc,0.039000000804662704,True,2012.0,,,,,,,,,,
+102,UTI,Universal Technical Institute Inc,5.829999923706055,False,2009.0,,05-07,07-21,6.0,6.0,5.0,5.0,05-07,07-21,3.872532426056344
+103,USAP,Universal Stainless & Alloy Products Inc,6.809999942779541,False,2009.0,,01-22,04-06,7.0,7.0,4.0,4.0,01-22,04-06,6.7430801186519735
+104,UNSS,Universal Solar Technology Inc,0.009999999776482582,False,2009.0,,08-13,10-27,2.0,2.0,8.0,8.0,08-13,10-27,8.692989809147832
+105,UUU,Universal Security Instruments Inc,2.9200000762939453,False,2009.0,,11-06,01-20,4.0,4.0,7.0,7.0,11-06,01-20,5.986659002909915
+106,UVRBY,Universal Robina Corporation,31.09000015258789,True,2014.0,,,,,,,,,,
+107,UVRBF,Universal Robina Corporation,3.1500000953674316,False,2010.0,,03-21,06-04,5.0,4.0,5.0,6.0,03-14,05-28,8.331975987866992
+108,GIMU,Universal Resources,$0.02 ,True,,No data fetched for symbol GIMU using YahooDailyReader,,,,,,,,,
+109,UPIN,Universal Power Industry Corp,0.03099999949336052,False,2009.0,,05-15,07-29,5.0,5.0,6.0,6.0,05-15,07-29,11.935676597000628
+110,UPGI,Universal Power Group Inc,2.2300000190734863,True,2012.0,,,,,,,,,,
+111,UMGP,Universal Media Group Inc,0.23000000417232513,True,2016.0,,,,,,,,,,
+112,UFMG,Universal Manufacturing Co,0.12999999523162842,False,2009.0,,02-17,05-02,7.0,7.0,4.0,4.0,02-17,05-02,-27.5509380162914
+113,ULH,Universal Logistics Holdings Inc,22.850000381469727,False,2009.0,,05-21,08-04,4.0,4.0,7.0,7.0,05-21,08-04,8.337508544166804
+114,UVE,Universal Insurance Holdings Inc,14.180000305175781,False,2009.0,,06-30,09-13,7.0,6.0,4.0,5.0,08-09,10-23,2.3232041743295824
+115,UNIV,Universal Infotainment Systems Corp,0.05000000074505806,False,2009.0,,05-15,07-29,1.0,1.0,9.0,9.0,05-15,07-29,26.18259184237466
+116,UHID,Universal Health Services Inc,104.0,True,2012.0,,,,,,,,,,
+117,UHS,Universal Health Services Inc,133.9499969482422,False,2009.0,,04-21,07-05,8.0,8.0,3.0,3.0,04-21,07-05,6.2873262798402845
+118,UHT,Universal Health Realty Income Trust,59.68000030517578,False,2009.0,,11-12,01-26,8.0,8.0,3.0,3.0,11-13,01-27,4.491986164543926
+119,UETMF,Universal Entertainment Corp,18.399999618530273,True,2012.0,,,,,,,,,,
+120,UEIC,Universal Electronics Inc,48.38999938964844,False,2009.0,,05-24,08-07,7.0,7.0,4.0,4.0,05-24,08-07,6.476558067555523
+121,OLED,Universal Display Corp,220.10000610351562,False,2009.0,,06-26,09-09,6.0,6.0,5.0,5.0,06-26,09-09,12.901621321689822
+122,UVV,Universal Corp,45.20000076293945,False,2009.0,,08-31,11-14,8.0,8.0,3.0,3.0,01-11,03-26,1.6175242852720366
+123,ECMXF,Universal Copper Ltd,0.07343000173568726,True,2017.0,,,,,,,,,,
+124,UVBIF,Universal Biosensors Inc,$0.20 ,True,,'Date',,,,,,,,,
+125,UNVC,UNIVEC Inc,0.0239499993622303,False,2009.0,,06-23,09-06,3.0,3.0,8.0,8.0,06-23,09-06,25.12939311445523
+126,UNVR,Univar Solutions Inc,17.399999618530273,True,2015.0,,,,,,,,,,
+127,UVPOF,Univanich Palm Oil PCL,0.12999999523162842,False,2010.0,,08-20,11-03,3.0,2.0,7.0,8.0,07-08,09-21,2.7297254834539317
+128,U,Unity Software Inc,116.30999755859375,True,2020.0,,,,,,,,,,
+129,BGOMF,Unity Mining Ltd,$0.02 ,True,,'Date',,,,,,,,,
+130,UBX,Unity Biotechnology Inc,4.730000019073486,True,2018.0,,,,,,,,,,
+131,UNTY,Unity Bancorp Inc,17.399999618530273,False,2009.0,,03-27,06-10,5.0,5.0,6.0,6.0,03-27,06-10,8.083817238603137
+132,UTRX,Unitronix Corp,0.014000000432133675,True,2012.0,,,,,,,,,,
+133,UNTOF,Unitronics (1989) (RG) Ltd,$6.00 ,True,,No data fetched for symbol UNTOF using YahooDailyReader,,,,,,,,,
+134,UTL,Unitil Corp,37.470001220703125,False,2009.0,,05-15,07-29,6.0,5.0,5.0,6.0,05-15,07-29,4.632748934161519
+135,UNIKF,Unitika Ltd,3.130000114440918,True,2020.0,,,,,,,,,,
+136,UNIT,Uniti Group Inc,10.600000381469727,True,2015.0,,,,,,,,,,
+137,UIFC,Uniti Financial Corp,$3.96 ,True,,No data fetched for symbol UIFC using YahooDailyReader,,,,,,,,,
+138,UNH,UnitedHealth Group Inc,337.0,False,2009.0,,05-04,07-18,10.0,10.0,1.0,1.0,05-04,07-18,6.5501729463986935
+139,UG,United-Guardian Inc,14.479999542236328,False,2009.0,,11-08,01-22,7.0,7.0,4.0,4.0,10-28,01-11,7.0523174529950845
+140,UUGWF,United Utilities Group PLC,11.479999542236328,True,2012.0,,,,,,,,,,
+141,UUGRY,United Utilities Group PLC,24.780000686645508,False,2009.0,,03-23,06-06,6.0,6.0,5.0,5.0,03-23,06-06,7.249214828169535
+142,UUICF,United Urban Investment Corp,"$1,015.00 ",True,,No data fetched for symbol UUICF using YahooDailyReader,,,,,,,,,
+143,PUTKY,United Tractors Tbk,32.029998779296875,False,2009.0,,09-01,11-15,8.0,8.0,3.0,3.0,06-02,08-16,9.452247806075858
+144,PUTKF,United Tractors Tbk,0.9800000190734863,True,2012.0,,,,,,,,,,
+145,UTHR,United Therapeutics Corp,136.6699981689453,False,2009.0,,11-12,01-26,7.0,7.0,4.0,4.0,11-12,01-26,9.398696703890108
+146,UNTN,United Tennessee Bankshares Inc,18.420000076293945,False,2009.0,,02-17,05-02,6.0,6.0,5.0,5.0,05-15,07-29,5.052592235786575
+147,X,United States Steel Corp,11.09000015258789,False,2009.0,,10-10,12-24,6.0,6.0,5.0,5.0,10-10,12-24,8.717412567863684
+148,USLM,United States Lime & Minerals Inc,100.19999694824219,False,2009.0,,05-15,07-29,4.0,4.0,7.0,7.0,05-14,07-28,8.133912319947807
+149,USM,United States Cellular Corp,31.219999313354492,False,2009.0,,10-02,12-16,4.0,4.0,7.0,7.0,10-02,12-16,5.2436319397737385
+150,USBL,United States Basketball League Inc,0.10000000149011612,True,2014.0,,,,,,,,,,
+151,UAMY,United States Antimony Corp,0.4099999964237213,False,2009.0,,03-31,06-14,3.0,3.0,8.0,8.0,03-31,06-14,15.143685168962044
+152,UBFO,United Security Bancshares,6.929999828338623,False,2009.0,,02-24,05-09,5.0,5.0,6.0,6.0,02-24,05-09,-0.446750741535471
+153,URYL,United Royale Holdings Corp,6.5,True,2017.0,,,,,,,,,,
+154,URHG,United Resources Holdings Group Inc,0.029999999329447746,False,2009.0,,03-16,05-30,4.0,4.0,7.0,7.0,03-16,05-30,15.123368827127473
+155,URI,United Rentals Inc,207.25,False,2009.0,,10-12,12-26,7.0,7.0,4.0,4.0,10-12,12-26,14.33734299103308
+156,URAL,United Rail Inc,3.5,False,2009.0,,12-16,03-01,7.0,7.0,4.0,4.0,12-16,03-01,16.876066970503807
+157,UPBMF,United Plantation Berhad,$3.18 ,True,,No data fetched for symbol UPBMF using YahooDailyReader,,,,,,,,,
+158,UPS,United Parcel Service Inc,166.47999572753906,False,2009.0,,09-27,12-11,6.0,6.0,5.0,5.0,05-29,08-12,5.805805071662776
+159,UOVEY,United Overseas Bank Ltd,33.209999084472656,False,2009.0,,02-28,05-13,5.0,5.0,6.0,6.0,02-19,05-04,6.614739788608347
+160,UOVEF,United Overseas Bank Ltd,13.859999656677246,False,2009.0,,03-20,06-03,5.0,5.0,6.0,6.0,03-04,05-18,7.728383170814293
+161,UNTDV,"United Online, Inc.",$12.19 ,True,,No data fetched for symbol UNTDV using YahooDailyReader,,,,,,,,,
+162,UNTD,United Online Inc,$11.00 ,True,,'Date',,,,,,,,,
+163,UNFI,United Natural Foods Inc,16.770000457763672,False,2009.0,,11-05,01-19,5.0,5.0,6.0,6.0,11-05,01-19,3.1893617266931784
+164,UNBK,United National Bank,26.0,True,2012.0,,,,,,,,,,
+165,UDMG,United Mortgage Trust,$0.10 ,True,,'Date',,,,,,,,,
+166,UMC,United Microelectronics Corp,5.630000114440918,False,2009.0,,05-23,08-06,7.0,7.0,4.0,4.0,08-21,11-04,4.9466128999854915
+167,UMLGF,United Malt Group Ltd,3.190000057220459,True,2020.0,,,,,,,,,,
+168,UBMCF,United Lithium Corp,0.4607999920845032,True,2018.0,,,,,,,,,,
+169,ULIHF,United Laboratories International Holdings Ltd,$0.50 ,True,,No data fetched for symbol ULIHF using YahooDailyReader,,,,,,,,,
+170,UDIRF,United Internet AG,38.95000076293945,True,2012.0,,,,,,,,,,
+171,UIHC,United Insurance Holdings Corp,4.650000095367432,False,2009.0,,10-22,01-05,7.0,7.0,4.0,4.0,10-22,01-05,6.031963303317919
+172,UILCY,United Industrial Corp Ltd,$48.16 ,True,,No data fetched for symbol UILCY using YahooDailyReader,,,,,,,,,
+173,UILCF,United Industrial Corp Ltd,1.5499999523162842,True,2015.0,,,,,,,,,,
+174,UHGSF,United Hunter Oil & Gas Corp,0.08139999955892563,True,2019.0,,,,,,,,,,
+175,UEEC,United Health Products Inc,1.1770000457763672,True,2012.0,,,,,,,,,,
+176,UFODF,United Food Holdings Ltd,0.4000000059604645,True,2015.0,,,,,,,,,,
+177,UFCS,United Fire Group Inc,23.489999771118164,False,2009.0,,05-06,07-20,5.0,5.0,6.0,6.0,05-06,07-20,4.630190285531486
+178,UBNK,United Financial Bancorp Inc,$14.12 ,True,,No data fetched for symbol UBNK using YahooDailyReader,,,,,,,,,
+179,RCKB,United Financial Bancorp Inc,$13.16 ,True,,'Date',,,,,,,,,
+180,UETH,United Ethanol LLC,$28.00 ,True,,No data fetched for symbol UETH using YahooDailyReader,,,,,,,,,
+181,UNEGF,United Energy Group Ltd,0.12999999523162842,True,2012.0,,,,,,,,,,
+182,UNRG,United Energy Corp,0.04010000079870224,False,2009.0,,06-26,09-09,5.0,5.0,6.0,6.0,06-26,09-09,31.630354555947264
+183,UDFI,United Development Funding IV,1.399999976158142,True,2018.0,,,,,,,,,,
+184,UNDVL,United Development Funding III LP,$3.50 ,True,,'Date',,,,,,,,,
+185,UCSO,United Consortium Ltd,0.005499999970197678,False,2010.0,,11-12,01-26,2.0,2.0,8.0,8.0,11-12,01-26,18.02031731775955
+186,URSSF,United Company RUSAL International PJSC,$0.35 ,True,,No data fetched for symbol URSSF using YahooDailyReader,,,,,,,,,
+187,UCFC,United Community Financial Corp,$10.93 ,True,,No data fetched for symbol UCFC using YahooDailyReader,,,,,,,,,
+188,UCBI,United Community Banks Inc,24.969999313354492,False,2009.0,,01-31,04-15,7.0,7.0,4.0,4.0,01-31,04-15,4.640776641733488
+189,UCBA,United Community Bancorp,27.850000381469727,True,2012.0,,,,,,,,,,
+190,UCAP,United Capital Corp,4.710000038146973,True,2013.0,,,,,,,,,,
+191,UCCDF,United Cacao Ltd SEZC,$1.66 ,True,,No data fetched for symbol UCCDF using YahooDailyReader,,,,,,,,,
+192,CCU,United Breweries Co Inc,14.300000190734863,False,2009.0,,02-09,04-24,5.0,5.0,6.0,6.0,02-06,04-21,4.6474160559831885
+193,UBSI,United Bankshares Inc,29.520000457763672,False,2009.0,,10-17,12-31,7.0,7.0,4.0,4.0,10-14,12-28,7.5841543242969465
+194,UBKZF,United Bank for Africa PLC,$8.83 ,True,,No data fetched for symbol UBKZF using YahooDailyReader,,,,,,,,,
+195,UBOH,United Bancshares Inc,22.959999084472656,False,2009.0,,05-22,08-05,7.0,7.0,4.0,4.0,05-22,08-05,5.7326416243596645
+196,UBAB,United Bancorp Of Alabama Inc,23.549999237060547,False,2009.0,,06-20,09-03,3.0,3.0,8.0,8.0,05-24,08-07,-8.819211942649318
+197,UBCP,United Bancorp Inc,12.5,False,2009.0,,10-19,01-02,5.0,3.0,6.0,8.0,10-19,01-02,7.44623225822179
+198,UASB,United American Savings Bank,$42.20 ,True,,'Date',,,,,,,,,
+199,UAHC,United American Healthcare Corp,0.04899999871850014,True,2013.0,,,,,,,,,,
+200,UAMA,United American Corp,0.05000000074505806,True,2012.0,,,,,,,,,,
+201,UABK,United American Bank,35.70000076293945,True,2012.0,,,,,,,,,,
+202,UAL,United Airlines Holdings Inc,40.939998626708984,False,2009.0,,10-02,12-16,8.0,8.0,3.0,3.0,10-02,12-16,13.819795729930872
+203,UTGPF,UNITE Group PLC,14.531599998474121,True,2016.0,,,,,,,,,,
+204,UITFF,Unit4 NV,$52.41 ,True,,'Date',,,,,,,,,
+205,UNTCQ,Unit Corp,0.03999999910593033,False,2009.0,,09-01,11-15,5.0,5.0,6.0,6.0,09-01,11-15,-11.966290474369789
+206,UIS,Unisys Corp,13.9399995803833,False,2009.0,,08-29,11-12,5.0,5.0,6.0,6.0,08-29,11-12,10.356143953367496
+207,USYNF,Unisync Corp,1.305799961090088,True,2016.0,,,,,,,,,,
+208,USSHF,Uniserve Communications Corp,0.03060000017285347,True,2013.0,,,,,,,,,,
+209,UNIR,Uniroyal Global Engineered Products Inc,2.0,True,2011.0,,,,,,,,,,
+210,BSPOF,Unirita Inc,$17.57 ,True,,No data fetched for symbol BSPOF using YahooDailyReader,,,,,,,,,
+211,QURE,uniQure NV,46.15999984741211,True,2014.0,,,,,,,,,,
+212,UPZS,Unique Foods Corp,0.019999999552965164,True,2012.0,,,,,,,,,,
+213,UFAB,Unique Fabricating Inc,4.0,True,2015.0,,,,,,,,,,
+214,YYLBB,Uniprop Manufactured Housing Communities Income Fu,170.0,False,2009.0,,01-02,03-18,0.0,0.0,10.0,10.0,01-02,03-18,0.0
+215,XXUP,Uniprop Income Fund II,$6.26 ,True,,No data fetched for symbol XXUP using YahooDailyReader,,,,,,,,,
+216,UPRZF,Unipres Corp,18.600000381469727,True,2016.0,,,,,,,,,,
+217,UNPLF,UnipolSai SPA,2.369999885559082,True,2016.0,,,,,,,,,,
+218,UPZPF,Unipol Gruppo SpA,4.3765997886657715,True,2012.0,,,,,,,,,,
+219,UFGSY,Unipol Gruppo SpA,2.009999990463257,False,2009.0,,03-20,06-03,3.0,3.0,8.0,8.0,03-20,06-03,19.44943167363971
+220,UNPRF,Uniper SE,33.0,True,2017.0,,,,,,,,,,
+221,BPPUY,Unione di Banche Italiane SpA,$8.00 ,True,,No data fetched for symbol BPPUY using YahooDailyReader,,,,,,,,,
+222,BPPUF,Unione di Banche Italiane SpA,$2.39 ,True,,No data fetched for symbol BPPUF using YahooDailyReader,,,,,,,,,
+223,UNP,Union Pacific Corp,204.5500030517578,False,2009.0,,10-29,01-12,8.0,8.0,3.0,3.0,10-29,01-12,7.495690979115037
+224,UNHLF,Union Medical Healthcare Ltd,$0.53 ,True,,No data fetched for symbol UNHLF using YahooDailyReader,,,,,,,,,
+225,UFCP,Union Financial Corp,4.550000190734863,True,2020.0,,,,,,,,,,
+226,UDHI,Union Dental Holdings Inc,0.0385500006377697,False,2009.0,,06-13,08-27,7.0,7.0,4.0,4.0,06-13,08-27,-124.87344534281702
+227,UGHL,Union Bridge Holdings Ltd,0.20000000298023224,True,2018.0,,,,,,,,,,
+228,UNB,Union Bankshares Inc,26.5,False,2009.0,,10-12,12-26,8.0,8.0,3.0,3.0,10-12,12-26,6.111882523464414
+229,UBOPF,Union Bank Of The Philippines Inc,1.159999966621399,True,2019.0,,,,,,,,,,
+230,CEMTY,Union Andina De Cementos SAA,$8.76 ,True,,'Date',,,,,,,,,
+231,LATN,Union Acquisition Corp II,9.9399995803833,True,2019.0,,,,,,,,,,
+232,UNISZ,Unilife Corp,$0.02 ,True,,No data fetched for symbol UNISZ using YahooDailyReader,,,,,,,,,
+233,UNISQ,Unilife Corp,$0.02 ,True,,'Date',,,,,,,,,
+234,UNLYF,Unilever PLC,58.849998474121094,False,2010.0,,02-12,04-27,5.0,5.0,5.0,5.0,02-15,04-30,5.600446211813236
+235,UL,Unilever PLC,59.18000030517578,False,2009.0,,02-19,05-04,5.0,5.0,6.0,6.0,02-19,05-04,3.8345266796210895
+236,UNLVF,Unilever NV,59.439998626708984,False,2010.0,,03-20,06-03,5.0,2.0,5.0,8.0,05-10,07-24,4.468735239180144
+237,UNLNF,Unilever NV,$61.89 ,True,,No data fetched for symbol UNLNF using YahooDailyReader,,,,,,,,,
+238,UN,Unilever NV,58.97999954223633,False,2009.0,,02-17,05-02,5.0,5.0,6.0,6.0,02-17,05-02,2.809223350598668
+239,UGDIF,Unigold Inc,0.3100000023841858,False,2010.0,,11-25,02-08,3.0,3.0,7.0,7.0,11-25,02-08,9.30411160575376
+240,UIFD,Unifunds Ltd,$0.06 ,True,,No data fetched for symbol UIFD using YahooDailyReader,,,,,,,,,
+241,UNF,UniFirst Corp,195.5500030517578,False,2009.0,,10-21,01-04,5.0,5.0,6.0,6.0,10-21,01-04,8.01868091944207
+242,UFFRF,Unifin Financiera SAB de CV SOFOM ENR,0.8593000173568726,True,2016.0,,,,,,,,,,
+243,UOIP,UnifiedOnline Inc,$0.02 ,True,,No data fetched for symbol UOIP using YahooDailyReader,,,,,,,,,
+244,UFI,Unifi Inc,15.220000267028809,False,2009.0,,08-22,11-05,4.0,4.0,7.0,7.0,08-22,11-05,7.203487908201548
+245,UNCRY,UniCredit SpA,4.992499828338623,True,2017.0,,,,,,,,,,
+246,UNCFF,UniCredit SpA,9.890000343322754,False,2009.0,,05-26,08-09,5.0,5.0,6.0,6.0,05-26,08-09,0.625143379397416
+247,UNAM,Unico American Corp,5.0,False,2009.0,,07-27,10-10,3.0,3.0,8.0,8.0,07-27,10-10,6.073836846598599
+248,UNICY,Unicharm Corp,10.020000457763672,False,2010.0,,01-24,04-08,7.0,7.0,3.0,3.0,01-24,04-08,5.4152330615571165
+249,UNCHF,Unicharm Corp,49.86800003051758,True,2012.0,,,,,,,,,,
+250,UNJCF,Unicaja Banco SA,$0.82 ,True,,No data fetched for symbol UNJCF using YahooDailyReader,,,,,,,,,
+251,UNIRF,Unibail-Rodamco-Westfield,3.0999999046325684,True,2018.0,,,,,,,,,,
+252,UNRDY,Unibail-Rodamco-Westfield,$22.00 ,True,,No data fetched for symbol UNRDY using YahooDailyReader,,,,,,,,,
+253,UNBLF,Unibail-Rodamco-Westfield,72.0,True,2013.0,,,,,,,,,,
+254,UNIEF,Uni-Select Inc,5.453999996185303,True,2016.0,,,,,,,,,,
+255,UPCHY,Uni-President China Holdings Ltd,95.0,True,2015.0,,,,,,,,,,
+256,UNPSF,Uni-President China Holdings Ltd,0.8299999833106995,True,2014.0,,,,,,,,,,
+257,UNEX,Unex Holdings Inc,2.5,True,2020.0,,,,,,,,,,
+258,UGSI,Underground Solutions Inc,$0.09 ,True,,'Date',,,,,,,,,
+259,UA,Under Armour Inc,14.6899995803833,True,2015.0,,,,,,,,,,
+260,UAA,Under Armour Inc,16.690000534057617,False,2009.0,,05-16,07-30,9.0,9.0,2.0,2.0,05-16,07-30,14.198835634555161
+261,UNPA,UNB Corp,112.05000305175781,False,2009.0,,04-26,07-10,3.0,3.0,8.0,8.0,04-14,06-28,0.8507652811754496
+262,UUMTF,UMT United Mobility Technology AG,6.688000202178955,True,2020.0,,,,,,,,,,
+263,UMPQ,Umpqua Holdings Corp,14.199999809265137,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-27,12-11,7.795959419747198
+264,UMICY,Umicore SA,10.59000015258789,True,2018.0,,,,,,,,,,
+265,UMICF,Umicore SA,41.95000076293945,False,2009.0,,02-04,04-19,6.0,6.0,5.0,5.0,02-04,04-19,8.480911091127393
+266,UMH,UMH Properties Inc,14.40999984741211,False,2009.0,,03-18,06-01,5.0,4.0,6.0,7.0,03-16,05-30,8.703817886532129
+267,UMGMF,UMG Media Ltd,$0.04 ,True,,No data fetched for symbol UMGMF using YahooDailyReader,,,,,,,,,
+268,UMFG,UMF Group Inc,0.006000000052154064,True,2012.0,,,,,,,,,,
+269,UMEWF,UMeWorld Ltd,0.09000000357627869,False,2009.0,,06-16,08-30,6.0,6.0,5.0,5.0,06-16,08-30,9.22963372828527
+270,UMCN,UMC Inc,0.006000000052154064,False,2009.0,,08-15,10-29,4.0,4.0,7.0,7.0,08-15,10-29,-20.13888716421751
+271,UCIX,Umbra Companies Inc,5.0,False,2009.0,,01-18,04-02,4.0,4.0,7.0,7.0,01-18,04-02,4.939680252588063
+272,UMBF,UMB Financial Corp,69.20999908447266,False,2009.0,,09-06,11-20,8.0,7.0,3.0,4.0,09-06,11-20,3.8214846889401466
+273,UMAX,Umax Group Corp,0.33000001311302185,True,2013.0,,,,,,,,,,
+274,UMHL,Umatrin Holding Ltd,0.012400000356137753,True,2012.0,,,,,,,,,,
+275,ULVAF,ULVAC Inc,$26.90 ,True,,No data fetched for symbol ULVAF using YahooDailyReader,,,,,,,,,
+276,ULUR,Uluru Inc,0.5099999904632568,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,11-12,01-26,14.175979863363006
+277,UTEK,Ultratech Inc,$30.23 ,True,,'Date',,,,,,,,,
+278,UCLQF,UltraTech Cement Ltd,55.0,True,2013.0,,,,,,,,,,
+279,ULPPF,Ultrapar Participacoes SA,$20.95 ,True,,No data fetched for symbol ULPPF using YahooDailyReader,,,,,,,,,
+280,UGP,Ultrapar Participacoes SA,3.880000114440918,False,2009.0,,01-06,03-21,7.0,7.0,4.0,4.0,11-13,01-27,5.800584335199607
+281,ULBI,Ultralife Corp,6.539999961853027,False,2009.0,,12-11,02-24,8.0,8.0,3.0,3.0,12-11,02-24,5.775873612426318
+282,RARE,Ultragenyx Pharmaceutical Inc,112.81999969482422,True,2014.0,,,,,,,,,,
+283,MJLB,Ultrack Systems Inc,0.007000000216066837,True,2014.0,,,,,,,,,,
+284,ULTXF,Ultra Resources Inc,0.03999999910593033,False,2010.0,,09-09,11-23,4.0,4.0,6.0,6.0,09-09,11-23,0.3482877166014869
+285,UPLCQ,Ultra Petroleum Corp,0.006000000052154064,True,2019.0,,,,,,,,,,
+286,UEHPY,Ultra Electronics Holdings PLC,15.300000190734863,True,2012.0,,,,,,,,,,
+287,UEHPF,Ultra Electronics Holdings PLC,29.799999237060547,True,2015.0,,,,,,,,,,
+288,UCTT,Ultra Clean Holdings Inc,28.229999542236328,False,2009.0,,11-10,01-24,8.0,8.0,3.0,3.0,11-10,01-24,15.843698522411534
+289,USPS,Ultimate Sports Inc,0.016109999269247055,False,2009.0,,11-03,01-17,5.0,5.0,6.0,6.0,11-03,01-17,-8.701175014749943
+290,UTMR,Ultimate Rack Inc,$0.01 ,True,,'Date',,,,,,,,,
+291,ULTA,Ulta Beauty Inc,274.8599853515625,False,2009.0,,04-07,06-21,7.0,7.0,4.0,4.0,04-07,06-21,10.672515067885877
+292,ULPRF,ULS Group Inc,26.510000228881836,True,2018.0,,,,,,,,,,
+293,ULKBF,Ulker Biskuvi Sanayi AS,$5.10 ,True,,No data fetched for symbol ULKBF using YahooDailyReader,,,,,,,,,
+294,UELKY,Ulker Biskuvi Sanayi AS,27.040000915527344,True,2019.0,,,,,,,,,,
+295,UKLLF,UK Oil & Gas PLC,0.009999999776482582,True,2017.0,,,,,,,,,,
+296,UIBGF,UIB Group Ltd,0.019999999552965164,False,2009.0,,04-07,06-21,0.0,0.0,11.0,11.0,04-07,06-21,3.2017590583745683
+297,RGLG,UHF Logistics Group Inc,0.056699998676776886,False,2009.0,,04-03,06-17,2.0,2.0,9.0,9.0,04-03,06-17,13.230680647505936
+298,UGLLF,UGL Ltd,$2.40 ,True,,No data fetched for symbol UGLLF using YahooDailyReader,,,,,,,,,
+299,UGI,UGI Corp,36.040000915527344,False,2009.0,,04-04,06-18,7.0,7.0,4.0,4.0,03-22,06-05,6.655085031636799
+300,UGEIF,UGE International Ltd,1.2561999559402466,True,2014.0,,,,,,,,,,
+301,UFPT,UFP Technologies Inc,43.79999923706055,False,2009.0,,05-26,08-09,7.0,7.0,4.0,4.0,05-26,08-09,9.398234561045387
+302,UFPI,UFP Industries Inc,54.25,False,2009.0,,06-28,09-11,6.0,6.0,5.0,5.0,06-28,09-11,6.227375079465697
+303,UEXCF,UEX Corp,0.10999999940395355,False,2009.0,,10-25,01-08,4.0,4.0,7.0,7.0,10-25,01-08,15.707575112915338
+304,UMSBF,UEM Sunrise Bhd,$0.10 ,True,,No data fetched for symbol UMSBF using YahooDailyReader,,,,,,,,,
+305,UEHRF,Uehara Sei Shoji Co Ltd,$3.88 ,True,,No data fetched for symbol UEHRF using YahooDailyReader,,,,,,,,,
+306,UDR,UDR Inc,38.79999923706055,False,2009.0,,03-14,05-28,7.0,6.0,4.0,5.0,05-21,08-04,3.9248783731370116
+307,UDRGY,UDG Healthcare PLC,17.200000762939453,False,2009.0,,04-30,07-14,1.0,1.0,8.0,8.0,04-30,07-14,7.29464172793694
+308,UDHCF,UDG Healthcare PLC,9.300000190734863,True,2014.0,,,,,,,,,,
+309,UCP,UCP Inc,16.0,True,2020.0,,,,,,,,,,
+310,UCPH,UCP Holdings Inc,$0.19 ,True,,'Date',,,,,,,,,
+311,UURAF,Ucore Rare Metals Inc,0.07000000029802322,False,2010.0,,05-17,07-31,6.0,6.0,4.0,4.0,05-17,07-31,11.826227927079143
+312,UCL,Ucloudlink Group Inc,9.0,True,2020.0,,,,,,,,,,
+313,UUCC,UCI International Holdings Inc,$23.00 ,True,,No data fetched for symbol UUCC using YahooDailyReader,,,,,,,,,
+314,UCBJY,UCB SA,53.974998474121094,True,2012.0,,,,,,,,,,
+315,UCBJF,UCB SA,111.8499984741211,False,2009.0,,11-03,01-17,8.0,8.0,3.0,3.0,11-03,01-17,3.906473877231052
+316,UCASU,UC Asset LP,1.690000057220459,True,2020.0,,,,,,,,,,
+317,UBUH,UBU Holdings Inc,$0.25 ,True,,No data fetched for symbol UBUH using YahooDailyReader,,,,,,,,,
+318,UBS,UBS Group AG,14.470000267028809,True,2014.0,,,,,,,,,,
+319,UBMPY,UBM PLC,13.699999809265137,True,2014.0,,,,,,,,,,
+320,UBMOF,UBM PLC,$14.16 ,True,,No data fetched for symbol UBMOF using YahooDailyReader,,,,,,,,,
+321,UBKR,UBK Resources Co,$100.00 ,True,,No data fetched for symbol UBKR using YahooDailyReader,,,,,,,,,
+322,UBSFY,Ubisoft Entertainment,19.059999465942383,False,2010.0,,01-23,04-07,6.0,6.0,4.0,4.0,01-23,04-07,6.132762747873925
+323,UBSFF,Ubisoft Entertainment,96.0,False,2010.0,,05-28,08-11,8.0,8.0,2.0,2.0,05-28,08-11,6.440944234020963
+324,UBIQ,Ubiquity Inc,$0.05 ,True,,'Date',,,,,,,,,
+325,UI,Ubiquiti Inc,243.75,True,2011.0,,,,,,,,,,
+326,UBIA,UBI BlockChain Internet Ltd,0.12999999523162842,True,2017.0,,,,,,,,,,
+327,UBER,Uber Technologies Inc,49.2599983215332,True,2019.0,,,,,,,,,,
+328,UBEOY,Ube Industries Ltd,8.930000305175781,True,2015.0,,,,,,,,,,
+329,UBEOF,Ube Industries Ltd,$21.51 ,True,,No data fetched for symbol UBEOF using YahooDailyReader,,,,,,,,,
+330,UBNC,UB Bancorp,10.75,False,2009.0,,04-24,07-08,8.0,8.0,3.0,3.0,04-24,07-08,6.147713978996571
+331,USDR,UAS Drone Corp,0.18050000071525574,True,2017.0,,,,,,,,,,
+332,UCCC,UAN Cultural & Creative Co Ltd,0.5,True,2019.0,,,,,,,,,,
+333,UACJF,UACJ Corp,$2.65 ,True,,No data fetched for symbol UACJF using YahooDailyReader,,,,,,,,,
+334,UWEFF,U3O8 Corp,0.10999999940395355,False,2009.0,,11-08,01-22,4.0,4.0,7.0,7.0,11-08,01-22,15.805716120162652
+335,USX,U.S. Xpress Enterprises Inc,8.199999809265137,True,2018.0,,,,,,,,,,
+336,USWS,U.S. Well Services Inc,0.3700000047683716,True,2018.0,,,,,,,,,,
+337,USAU,U.S. Gold Corp,9.09000015258789,False,2009.0,,10-29,01-12,6.0,6.0,5.0,5.0,10-29,01-12,-3.4431606061988305
+338,USB,U.S. Bancorp,43.2400016784668,False,2009.0,,05-20,08-03,6.0,6.0,5.0,5.0,05-23,08-06,3.8817322378983152
+339,SWRL,U-Swirl Inc,0.006200000178068876,False,2009.0,,07-17,09-30,7.0,7.0,4.0,4.0,07-17,09-30,2.9416889925095906
+340,UBLXF,u-Blox Holding AG,59.0,True,2012.0,,,,,,,,,,
+341,UNIF,U&I Financial Corp,8.100000381469727,True,2016.0,,,,,,,,,,
+342,USOPY,U S Oil & Gas PLC,3.950000047683716,True,2013.0,,,,,,,,,,

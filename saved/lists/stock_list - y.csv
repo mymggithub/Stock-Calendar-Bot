@@ -1,0 +1,127 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,XCAN,Yutudao Marine Biotechnology Inc,0.5,True,2011.0,,,,,,,,,,
+1,YUSG,YUS International Group Ltd,0.7021999955177307,True,2012.0,,,,,,,,,,
+2,YJ,Yunji Inc,1.8799999952316284,True,2019.0,,,,,,,,,,
+3,ZGYH,Yunhong International,9.899999618530273,True,2020.0,,,,,,,,,,
+4,CTIB,Yunhong CTI Ltd,2.063999891281128,False,2009.0,,11-14,01-28,6.0,6.0,5.0,5.0,11-14,01-28,12.537603690399466
+5,YUMM,Yummies Inc,1.5,True,2012.0,,,,,,,,,,
+6,YUME,YuMe Inc,$3.70 ,True,,'Date',,,,,,,,,
+7,YUMAQ,Yuma Energy Inc,0.08299999684095383,False,2009.0,,02-02,04-17,5.0,5.0,6.0,6.0,02-02,04-17,-8.467947719027864
+8,YUMC,Yum China Holdings Inc,60.47999954223633,True,2016.0,,,,,,,,,,
+9,YUM,Yum Brands Inc,104.19999694824219,False,2009.0,,03-19,06-02,10.0,10.0,1.0,1.0,03-19,06-02,8.438019570529637
+10,YECO,Yulong Eco-Matls Ltd,1.559999942779541,True,2015.0,,,,,,,,,,
+11,GZITF,Yuexiu Transport Infrastructure Ltd,0.6000000238418579,True,2012.0,,,,,,,,,,
+12,YUXXF,Yuexiu Real Estate Investment Trust,0.4300000071525574,True,2012.0,,,,,,,,,,
+13,YUEXF,Yuexiu Property Co Ltd,0.19499999284744263,True,2012.0,,,,,,,,,,
+14,GUAZY,Yuexiu Property Co Ltd,$3.30 ,True,,No data fetched for symbol GUAZY using YahooDailyReader,,,,,,,,,
+15,YUEIY,Yue Yuen Industrial (Holdings) Ltd,9.970000267028809,False,2010.0,,08-30,11-13,6.0,6.0,4.0,4.0,09-21,12-05,5.781309595040482
+16,YUEIF,Yue Yuen Industrial (Holdings) Ltd,1.8200000524520874,False,2010.0,,03-29,06-12,6.0,5.0,4.0,5.0,09-22,12-06,5.66577548783036
+17,YAC,Yucaipa Acquisition Corp,9.859999656677246,True,2020.0,,,,,,,,,,
+18,YUNW,Yuanwang Rich Selenium Agricultural Products Group,$0.25 ,True,,No data fetched for symbol YUNW using YahooDailyReader,,,,,,,,,
+19,YNSGF,YuanShengTai Dairy Farm Ltd,$0.04 ,True,,No data fetched for symbol YNSGF using YahooDailyReader,,,,,,,,,
+20,YTOEF,YTO Express (International) Holdings Ltd,0.7200000286102295,True,2020.0,,,,,,,,,,
+21,YTLPF,YTL Power International Bhd,0.14117999374866486,True,2020.0,,,,,,,,,,
+22,YTLCF,YTL Corp Bhd,$0.26 ,True,,No data fetched for symbol YTLCF using YahooDailyReader,,,,,,,,,
+23,YSTR,Ystrategies Corp,$0.21 ,True,,No data fetched for symbol YSTR using YahooDailyReader,,,,,,,,,
+24,YSSCF,YSS Corp,0.08990000188350677,True,2013.0,,,,,,,,,,
+25,YRCW,YRC Worldwide Inc,5.239999771118164,False,2009.0,,07-10,09-23,3.0,3.0,8.0,8.0,07-10,09-23,1.7511249344023263
+26,YPFSF,YPF Sociedad Anonima,$24.46 ,True,,'Date',,,,,,,,,
+27,YPF,YPF SA,4.820000171661377,False,2009.0,,11-09,01-23,6.0,6.0,5.0,5.0,11-13,01-27,4.494284074862246
+28,YWGRF,Yowie Group Ltd,0.019999999552965164,True,2014.0,,,,,,,,,,
+29,VILGF,Yourgene Health PLC,0.10999999940395355,True,2013.0,,,,,,,,,,
+30,YEVN,Your Event Inc,0.0052999998442828655,True,2019.0,,,,,,,,,,
+31,YCB,Your Community Bankshares Inc,$39.37 ,True,,'Date',,,,,,,,,
+32,YGYI,Youngevity International Inc,0.5200999975204468,True,2012.0,,,,,,,,,,
+33,YOKU,Youku Tudou Inc,$27.54 ,True,,'Date',,,,,,,,,
+34,YUGVF,YouGov PLC,11.359000205993652,True,2013.0,,,,,,,,,,
+35,DAO,Youdao Inc,29.03499984741211,True,2019.0,,,,,,,,,,
+36,YSHOF,Yoshitake Inc,7.900000095367432,True,2020.0,,,,,,,,,,
+37,YKYOF,Yorkey Optical International (Cayman) Ltd,$0.14 ,True,,No data fetched for symbol YKYOF using YahooDailyReader,,,,,,,,,
+38,YRKB,York Traditions Bank,16.0,True,2014.0,,,,,,,,,,
+39,YCRGD,York Corrugating Co,$275.25 ,True,,No data fetched for symbol YCRGD using YahooDailyReader,,,,,,,,,
+40,YRBAF,Yorbeau Resources Inc,0.03720000013709068,True,2018.0,,,,,,,,,,
+41,YXOXY,YOOX Net-A-Porter Group SpA,$48.46 ,True,,No data fetched for symbol YXOXY using YahooDailyReader,,,,,,,,,
+42,YXOXF,YOOX Net-A-Porter Group SpA,$45.48 ,True,,No data fetched for symbol YXOXF using YahooDailyReader,,,,,,,,,
+43,YNKUF,Yonkyu Co Ltd,$11.95 ,True,,No data fetched for symbol YNKUF using YahooDailyReader,,,,,,,,,
+44,YONGY,Yongnam Holdings Ltd,7.150000095367432,True,2013.0,,,,,,,,,,
+45,YMAIF,Yoma Strategic Holdings Ltd,0.21279999613761902,True,2012.0,,,,,,,,,,
+46,YORUY,Yokohama Rubber Co Ltd,15.430000305175781,True,2016.0,,,,,,,,,,
+47,YORUF,Yokohama Rubber Co Ltd,15.789999961853027,True,2015.0,,,,,,,,,,
+48,YOKEY,Yokogawa Electric Corp,32.83000183105469,True,2014.0,,,,,,,,,,
+49,YOKEF,Yokogawa Electric Corp,15.3100004196167,True,2013.0,,,,,,,,,,
+50,YOHOF,Yoho Resources Inc,$0.37 ,True,,No data fetched for symbol YOHOF using YahooDailyReader,,,,,,,,,
+51,YOGAQ,YogaWorks Inc,0.03500000014901161,True,2020.0,,,,,,,,,,
+52,YDWAF,Yodogawa Steel Works Ltd,16.142000198364258,True,2013.0,,,,,,,,,,
+53,YDLE,Yodlee Inc,$17.37 ,True,,No data fetched for symbol YDLE using YahooDailyReader,,,,,,,,,
+54,YNVYF,Ynvisible Interactive Inc,0.23199999332427979,False,2009.0,,12-14,02-27,3.0,3.0,8.0,8.0,12-14,02-27,9.459138138145088
+55,YITYY,YIT Oyj,3.009999990463257,True,2012.0,,,,,,,,,,
+56,YITYF,YIT Oyj,6.550000190734863,True,2012.0,,,,,,,,,,
+57,YRD,Yiren Digital Ltd,3.515000104904175,True,2015.0,,,,,,,,,,
+58,YIPI,Yippy Inc,0.12999999523162842,True,2012.0,,,,,,,,,,
+59,YIPCF,Yip's Chemical Holdings Ltd,0.3700000047683716,False,2009.0,,04-10,06-24,5.0,5.0,6.0,6.0,02-24,05-09,6.770277316495153
+60,YIN,Yintech Investment Holdings Ltd,7.25,True,2016.0,,,,,,,,,,
+61,YITD,Yinhang Internet Technologies Development Inc,0.10700000077486038,True,2013.0,,,,,,,,,,
+62,YTHL,Yingtui Holdings Ltd,$0.04 ,True,,No data fetched for symbol YTHL using YahooDailyReader,,,,,,,,,
+63,YGEHY,Yingli Green Energy Holding Co Ltd,0.10000000149011612,False,2009.0,,05-19,08-02,6.0,6.0,5.0,5.0,05-19,08-02,-0.5983596558404557
+64,UBLI,Yinghong Guangda Technology Ltd,$0.01 ,True,,'Date',,,,,,,,,
+65,YNGDF,Yingde Gases Group Co Ltd,$0.39 ,True,,No data fetched for symbol YNGDF using YahooDailyReader,,,,,,,,,
+66,YINGY,Yingde Gases Group Co Ltd,$7.33 ,True,,No data fetched for symbol YINGY using YahooDailyReader,,,,,,,,,
+67,ELRE,Yinfu Gold Corp,4.25,False,2010.0,,04-28,07-12,3.0,3.0,7.0,7.0,04-28,07-12,30.926018649808398
+68,YDNCF,YIELDPLUS Income Fund,$4.74 ,True,,No data fetched for symbol YDNCF using YahooDailyReader,,,,,,,,,
+69,YTEN,Yield10 Bioscience Inc,6.139999866485596,False,2009.0,,02-04,04-19,8.0,8.0,3.0,3.0,02-04,04-19,4.304662470723634
+70,YHIIF,YHI International Ltd,$0.26 ,True,,'Date',,,,,,,,,
+71,YEXT,Yext Inc,17.5,True,2017.0,,,,,,,,,,
+72,YEWB,Yew Bio-Pharm Group Inc,0.11999999731779099,True,2013.0,,,,,,,,,,
+73,YETI,YETI Holdings Inc,59.084999084472656,True,2018.0,,,,,,,,,,
+74,YELP,Yelp Inc,31.3799991607666,True,2012.0,,,,,,,,,,
+75,YHMGF,Yellowhead Mining Inc,$0.67 ,True,,No data fetched for symbol YHMGF using YahooDailyReader,,,,,,,,,
+76,YLWDF,Yellow Pages Ltd,9.095000267028809,True,2012.0,,,,,,,,,,
+77,YLLWF,Yellow Hat Ltd,$21.44 ,True,,No data fetched for symbol YLLWF using YahooDailyReader,,,,,,,,,
+78,YLLXF,Yellow Cake PLC,2.5999999046325684,True,2018.0,,,,,,,,,,
+79,YBRHF,Yellow Brick Road Holdings Ltd,0.04800000041723251,True,2014.0,,,,,,,,,,
+80,YHEKF,Yeahka Ltd,5.800000190734863,True,2020.0,,,,,,,,,,
+81,YDRMF,YDx Innovation Corp,0.08820000290870667,True,2017.0,,,,,,,,,,
+82,ECPCF,YDUQS Participacoes SA,$11.11 ,True,,No data fetched for symbol ECPCF using YahooDailyReader,,,,,,,,,
+83,YDUQY,YDUQS Participacoes SA,5.130000114440918,True,2012.0,,,,,,,,,,
+84,YBAO,YBCC Inc,0.029999999329447746,False,2009.0,,10-08,12-22,5.0,5.0,6.0,6.0,10-08,12-22,13.16360130443814
+85,YTRA,Yatra Online Inc,1.4800000190734863,True,2016.0,,,,,,,,,,
+86,YASKY,YASKAWA Electric Corp,91.4000015258789,True,2013.0,,,,,,,,,,
+87,YASKF,YASKAWA Electric Corp,42.599998474121094,False,2010.0,,10-31,01-14,4.0,4.0,6.0,6.0,10-31,01-14,14.01896080900596
+88,HERB,Yasheng Group,0.029999999329447746,False,2010.0,,07-02,09-15,4.0,4.0,6.0,6.0,07-02,09-15,-2.6514247135375637
+89,YRAIF,Yara International ASA,39.75,False,2009.0,,04-28,07-12,3.0,3.0,8.0,8.0,05-16,07-30,5.8277558980742725
+90,YARIY,Yara International ASA,19.90999984741211,False,2009.0,,05-12,07-26,3.0,3.0,8.0,8.0,05-12,07-26,3.5871171086043816
+91,YVKBY,Yapi Ve Kredi Bankasi AS,$2.07 ,True,,No data fetched for symbol YVKBY using YahooDailyReader,,,,,,,,,
+92,YZCHF,Yanzhou Coal Mining Co Ltd,0.7353000044822693,True,2012.0,,,,,,,,,,
+93,YZCAY,Yanzhou Coal Mining Co Ltd,7.960000038146973,False,2009.0,,08-29,11-12,7.0,7.0,4.0,4.0,08-29,11-12,7.086043598840869
+94,YNAJF,Yantai North Andre Juice Co Ltd,1.0,False,2010.0,,06-25,09-08,4.0,4.0,6.0,6.0,06-25,09-08,10.873485412721434
+95,YLDGY,Yanlord Land Group Ltd,16.06999969482422,True,2012.0,,,,,,,,,,
+96,YLDGF,Yanlord Land Group Ltd,$1.21 ,True,,No data fetched for symbol YLDGF using YahooDailyReader,,,,,,,,,
+97,YSHLF,Yangzijiang Shipbuilding (Holdings) Ltd,0.6499999761581421,False,2009.0,,03-11,05-25,4.0,4.0,7.0,7.0,11-18,02-01,3.8013806388909703
+98,YRIV,Yangtze River Port and Logistics Ltd,0.14399999380111694,True,2014.0,,,,,,,,,,
+99,YZOFF,Yangtze Optical Fibre and Cable Joint Stock Ltd Co,2.450000047683716,True,2018.0,,,,,,,,,,
+100,YGRAF,Yangarra Resources Ltd,0.42500001192092896,True,2012.0,,,,,,,,,,
+101,YOOIF,Yangaroo Inc,0.09000000357627869,False,2009.0,,01-03,03-18,6.0,6.0,5.0,5.0,01-03,03-18,4.361505472868443
+102,YMMUF,Yang Ming Marine Transport Corp,$4.00 ,True,,No data fetched for symbol YMMUF using YahooDailyReader,,,,,,,,,
+103,YMMTY,Yang Ming Marine Transport Corp,$4.25 ,True,,No data fetched for symbol YMMTY using YahooDailyReader,,,,,,,,,
+104,YNDX,Yandex NV,61.68000030517578,True,2011.0,,,,,,,,,,
+105,YACAF,Yancoal Australia Ltd,1.399999976158142,True,2013.0,,,,,,,,,,
+106,YMZBY,Yamazaki Baking Co Ltd,179.0,True,2012.0,,,,,,,,,,
+107,YMTKF,Yamato Kogyo Co Ltd,23.799999237060547,True,2017.0,,,,,,,,,,
+108,YATRY,Yamato Holdings Co Ltd,24.690000534057617,False,2010.0,,04-05,06-19,6.0,6.0,4.0,4.0,04-05,06-19,6.069618871784277
+109,YATRF,Yamato Holdings Co Ltd,26.06999969482422,True,2013.0,,,,,,,,,,
+110,AUY,Yamana Gold Inc,5.369999885559082,False,2009.0,,12-17,03-02,4.0,4.0,7.0,7.0,12-17,03-02,9.220521973194717
+111,YAMHY,Yamaha Motor Co Ltd,9.359000205993652,True,2020.0,,,,,,,,,,
+112,YAMHF,Yamaha Motor Co Ltd,18.56999969482422,False,2009.0,,03-08,05-22,5.0,6.0,6.0,5.0,10-11,12-25,7.145882893446081
+113,YAMCY,Yamaha Corp,56.150001525878906,False,2009.0,,02-13,04-28,7.0,7.0,4.0,4.0,02-13,04-28,5.27976101218123
+114,YAMCF,Yamaha Corp,47.0,True,2015.0,,,,,,,,,,
+115,YFGSF,Yamaguchi Financial Group Inc,$11.44 ,True,,No data fetched for symbol YFGSF using YahooDailyReader,,,,,,,,,
+116,YMDAF,Yamada Holdings Co Ltd,4.940000057220459,False,2009.0,,03-01,05-15,7.0,6.0,4.0,5.0,03-07,05-21,5.107641700730256
+117,YALA,Yalla Group Ltd,9.354999542236328,True,2020.0,,,,,,,,,,
+118,YKLTY,Yakult Honsha Co Ltd,24.200000762939453,True,2013.0,,,,,,,,,,
+119,YKLTF,Yakult Honsha Co Ltd,46.0,False,2010.0,,01-02,03-17,1.0,1.0,7.0,7.0,01-02,03-17,3.4104046242774566
+120,YAGOY,Yageo Corp,65.5,True,2016.0,,,,,,,,,,
+121,YDVL,Yadkin Valley Corp,12000,False,2010.0,,06-22,09-05,3.0,3.0,7.0,7.0,06-22,09-05,5.129166315445418
+122,YDKN,Yadkin Financial Corp,$34.48 ,True,,'Date',,,,,,,,,
+123,YTFD,Yacht Finders Inc,2.0,True,2017.0,,,,,,,,,,
+124,YMAB,Y-mAbs Therapeutics Inc,43.970001220703125,True,2018.0,,,,,,,,,,
+125,YTRGF,Y T Realty Group Ltd,0.25999999046325684,False,2010.0,,03-27,06-10,5.0,5.0,5.0,5.0,03-27,06-10,-2.209171030083644

@@ -1,0 +1,292 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,JZZI,Jzz Technologies Inc,0.0239,TRUE,2012,,,,,,,,,,
+1,JYSKY,Jyske Bank A/S,6.300000191,TRUE,2014,,,,,,,,,,
+2,JYSKF,Jyske Bank A/S,25.20000076,TRUE,2014,,,,,,,,,,
+3,JVCZY,JVCKenwood Corp,5.510000229,TRUE,2014,,,,,,,,,,
+4,JVCZF,JVCKenwood Corp,$2.38 ,TRUE,,No data fetched for symbol JVCZF using YahooDailyReader,,,,,,,,,
+5,ASZP,JV Group Inc,0.01,TRUE,2012,,,,,,,,,,
+6,JVTSF,Juventus Football Club SpA,0.939899981,TRUE,2012,,,,,,,,,,
+7,JUVAF,Juva Life Inc,0.732450008,TRUE,2020,,,,,,,,,,
+8,JUTHF,Jutha Maritime PCL,0.013,TRUE,2019,,,,,,,,,,
+9,JUTOF,Jutal Offshore Oil Services Ltd,$0.16 ,TRUE,,No data fetched for symbol JUTOF using YahooDailyReader,,,,,,,,,
+10,JUTOY,Jutal Offshore Oil Services Ltd,21.28000069,TRUE,2014,,,,,,,,,,
+11,JSYSF,Justsystems Corp,$7.55 ,TRUE,,'Date',,,,,,,,,
+12,JSTS,Justiss Oil Inc,42.95000076,TRUE,2012,,,,,,,,,,
+13,JE,Just Energy Group Inc,4.860000134,FALSE,2009,,17-Feb,2-May,7,7,4,4,12-Feb,27-Apr,-12.67323874
+14,TKAYY,Just Eat Takeaway.com NV,10.71500015,TRUE,2020,,,,,,,,,,
+15,TKAYF,Just Eat Takeaway.com NV,111.4000015,TRUE,2018,,,,,,,,,,
+16,JSTTY,Just Eat PLC.,$11.10 ,TRUE,,No data fetched for symbol JSTTY using YahooDailyReader,,,,,,,,,
+17,JSTLF,Just Eat PLC.,$11.30 ,TRUE,,No data fetched for symbol JSTLF using YahooDailyReader,,,,,,,,,
+18,JUSHF,Jushi Holdings Inc,2.998399973,TRUE,2019,,,,,,,,,,
+19,JECFF,Jura Energy Corp,0.07175,TRUE,2012,,,,,,,,,,
+20,JUPW,Jupiter Wellness Inc,4.420000076,TRUE,2020,,,,,,,,,,
+21,JMXXF,Jupiter Mines Ltd,0.180000007,TRUE,2019,,,,,,,,,,
+22,JMIH,Jupiter Marine International Holdings Inc,0.022500001,TRUE,2012,,,,,,,,,,
+23,JUPGF,Jupiter Gold Corp,0.899999976,TRUE,2018,,,,,,,,,,
+24,JFHHF,Jupiter Fund Management PLC,3.539999962,TRUE,2020,,,,,,,,,,
+25,JP,Jupai Holdings Ltd,1.889999986,TRUE,2015,,,,,,,,,,
+26,JUNO,Juno Therapeutics Inc,86.95999908,TRUE,2014,,,,,,,,,,
+27,JNP,Juniper Pharmaceuticals Inc,11.5,TRUE,2012,,,,,,,,,,
+28,JNPR,Juniper Networks Inc,21.85000038,FALSE,2009,,1-Oct,15-Dec,6,6,5,5,1-Oct,15-Dec,5.98493114
+29,JIH,Juniper Industrial Holdings Inc,10.02000046,TRUE,2019,,,,,,,,,,
+30,JUVF,Juniata Valley Financial Corp,17.79999924,FALSE,2009,,28-Jul,11-Oct,7,6,4,5,16-Apr,30-Jun,4.112913665
+31,JGHHY,Jungheinrich AG,8.720000267,TRUE,2020,,,,,,,,,,
+32,JGHAF,Jungheinrich AG,38.20000076,TRUE,2016,,,,,,,,,,
+33,JFBHF,Jungfraubahn Holding AG,130,TRUE,2013,,,,,,,,,,
+34,JMIA,Jumia Technologies AG,20.46999931,TRUE,2019,,,,,,,,,,
+35,JMEI,Jumei International Holding Ltd,19.93000031,TRUE,2014,,,,,,,,,,
+36,JUMSY,Jumbo SA,17.13999939,TRUE,2015,,,,,,,,,,
+37,JUMSF,Jumbo SA,18.75,TRUE,2013,,,,,,,,,,
+38,JBAXY,Julius Baer Gruppe AG,10.86999989,FALSE,2010,,1-Nov,15-Jan,5,5,5,5,5-Dec,18-Feb,4.501938052
+39,JBARF,Julius Baer Gruppe AG,53.65000153,TRUE,2012,,,,,,,,,,
+40,JUKIY,Juki Corp,16.38999939,TRUE,2016,,,,,,,,,,
+41,JUHL,Juhl Energy Inc,11.18000031,TRUE,2016,,,,,,,,,,
+42,JUGRF,Juggernaut Exploration Ltd,0.111299999,TRUE,2019,,,,,,,,,,
+43,CNJG,Jufeel International Group,$130.00 ,TRUE,,No data fetched for symbol CNJG using YahooDailyReader,,,,,,,,,
+44,JSCIF,Judges Scientific PLC,29,TRUE,2016,,,,,,,,,,
+45,JUBPF,Jubilee Metals Group PLC,0.115000002,FALSE,2009,,16-Dec,1-Mar,4,4,7,7,16-Dec,1-Mar,2.856551694
+46,JBULF,Jubilee Gold Exploration Ltd,$0.33 ,TRUE,,No data fetched for symbol JBULF using YahooDailyReader,,,,,,,,,
+47,JFIL,Jubilant Flame International Ltd,0.024499999,TRUE,2015,,,,,,,,,,
+48,JTNB,JTNB Bancorp Inc,12.5,FALSE,2009,,23-Oct,6-Jan,6,6,5,5,2-Oct,16-Dec,2.251462258
+49,JTEKY,JTEKT Corp,25.73999977,TRUE,2014,,,,,,,,,,
+50,JTEKF,JTEKT Corp,7.760000229,TRUE,2012,,,,,,,,,,
+51,JSCPY,JSR Corp,23.88999939,FALSE,2010,,26-Oct,9-Jan,7,7,3,3,26-Oct,9-Jan,3.974232655
+52,JSCPF,JSR Corp,$15.22 ,TRUE,,No data fetched for symbol JSCPF using YahooDailyReader,,,,,,,,,
+53,JSLGY,JSL SA,$58.03 ,TRUE,,No data fetched for symbol JSLGY using YahooDailyReader,,,,,,,,,
+54,JSEJF,Jse Ltd,7.78000021,FALSE,2009,,15-Apr,29-Jun,5,5,6,6,29-Oct,12-Jan,4.674480766
+55,JGLCF,JS Global Lifestyle Co Ltd,1.225000024,TRUE,2020,,,,,,,,,,
+56,JSBL,Js Beauty Land Network Technology Inc,4.800000191,TRUE,2019,,,,,,,,,,
+57,JRSS,JRSIS Health Care Corp,0.25999999,TRUE,2016,,,,,,,,,,
+58,TAPP,JRS Holdings Inc,0.360000014,FALSE,2010,,21-Mar,4-Jun,0,0,10,10,21-Mar,4-Jun,9.054905784
+59,JPIVF,JPMorgan Indian Investment Trust PLC,6.699999809,FALSE,2010,,2-May,16-Jul,3,3,7,7,2-May,16-Jul,4.117130252
+60,JPM,JPMorgan Chase & Co,115.25,FALSE,2009,,20-May,3-Aug,7,7,4,4,20-May,3-Aug,5.026853466
+61,JPEI,JPE Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+62,JPAK,Jpak Group Co Ltd,$0.06 ,TRUE,,'Date',,,,,,,,,
+63,JPEP,JP Energy Partners LP,$9.44 ,TRUE,,'Date',,,,,,,,,
+64,YY,JOYY Inc,73.66000366,TRUE,2012,,,,,,,,,,
+65,JOYOF,Joyo Bank Ltd,$4.44 ,TRUE,,No data fetched for symbol JOYOF using YahooDailyReader,,,,,,,,,
+66,JIDG,Joymain International Development Group Inc,0.25,TRUE,2015,,,,,,,,,,
+67,JOY,Joy Global Inc,$28.30 ,TRUE,,'Date',,,,,,,,,
+68,GTVI,Joway Health Industries Group Inc,0.061000001,FALSE,2009,,4-Jan,19-Mar,6,6,5,5,4-Jan,19-Mar,6.794191851
+69,JRNGF,Journey Energy Inc,0.220750004,TRUE,2015,,,,,,,,,,
+70,JMG,Journal Media Group Inc,$12.01 ,TRUE,,'Date',,,,,,,,,
+71,JODRF,Jourdan Resources Inc,$0.04 ,TRUE,,No data fetched for symbol JODRF using YahooDailyReader,,,,,,,,,
+72,JNCE,Jounce Therapeutics Inc,6.619999886,TRUE,2017,,,,,,,,,,
+73,JSHG,Joshua Gold Resources Inc,0.064999998,TRUE,2013,,,,,,,,,,
+74,JPHNF,Josephine Mining Corp,$0.04 ,TRUE,,No data fetched for symbol JPHNF using YahooDailyReader,,,,,,,,,
+75,JOSMF,Josemaria Resources Inc,0.543900013,TRUE,2020,,,,,,,,,,
+76,JNES,Jonestown Bank & Trust Co,20.54999924,TRUE,2012,,,,,,,,,,
+77,JSDA,Jones Soda Co,0.150000006,FALSE,2009,,22-Dec,7-Mar,7,7,4,4,22-Dec,7-Mar,12.18278172
+78,JLL,Jones Lang LaSalle Inc,137.6100006,FALSE,2009,,27-Oct,10-Jan,9,9,2,2,27-Oct,10-Jan,11.19872058
+79,JONEQ,Jones Energy Inc,$0.07 ,TRUE,,No data fetched for symbol JONEQ using YahooDailyReader,,,,,,,,,
+80,JEII,Jones Energy II Inc,0.100000001,TRUE,2019,,,,,,,,,,
+81,JBFCY,Jollibee Foods Corporation,15.89000034,TRUE,2013,,,,,,,,,,
+82,JBFCF,Jollibee Foods Corporation,4.269999981,FALSE,2009,,5-Oct,19-Dec,7,7,4,4,22-Aug,5-Nov,6.024465115
+83,JLMKF,Jolimark Holdings Ltd,0.021,TRUE,2017,,,,,,,,,,
+84,JHPSF,Johnston Press PLC,$0.59 ,TRUE,,No data fetched for symbol JHPSF using YahooDailyReader,,,,,,,,,
+85,JSVGF,Johnson Service Group PLC,1.177332997,TRUE,2020,,,,,,,,,,
+86,JOUT,Johnson Outdoors Inc,84.69999695,FALSE,2009,,16-Apr,30-Jun,8,8,3,3,16-Apr,30-Jun,9.851003856
+87,JMPLY,Johnson Matthey PLC,67.40000153,FALSE,2010,,24-Mar,7-Jun,3,3,7,7,24-Mar,7-Jun,7.187694206
+88,JMPLF,Johnson Matthey PLC,34.34999847,FALSE,2010,,31-Mar,14-Jun,4,4,6,6,31-Mar,14-Jun,6.984769932
+89,JELCF,Johnson Electric Holdings Ltd,2.150000095,TRUE,2014,,,,,,,,,,
+90,JEHLY,Johnson Electric Holdings Ltd,25.96999931,FALSE,2010,,28-Oct,11-Jan,3,3,7,7,21-Aug,4-Nov,12.76086901
+91,JCI,Johnson Controls International PLC,45.95999908,FALSE,2009,,8-Apr,22-Jun,7,7,4,4,3-Apr,17-Jun,6.155260618
+92,JNJ,Johnson & Johnson,147.3699951,FALSE,2009,,1-Oct,15-Dec,7,5,4,6,1-Oct,15-Dec,4.17195507
+93,JW.B,John Wiley & Sons Inc,$34.53 ,TRUE,,No data fetched for symbol JW.B using YahooDailyReader,,,,,,,,,
+94,JW.A,John Wiley & Sons Inc,$34.41 ,TRUE,,'Date',,,,,,,,,
+95,JMSB,John Marshall Bancorp Inc,13.75,TRUE,2017,,,,,,,,,,
+96,HTY,John Hancock Tax-Advantaged Global Shareholder Yie,5.460000038,FALSE,2009,,3-Nov,17-Jan,8,7,3,4,14-Sep,28-Nov,3.337935384
+97,HTD,John Hancock Tax-advantaged Div Inc Fd,20.86000061,FALSE,2009,,20-Mar,3-Jun,8,8,3,3,27-Jun,10-Sep,3.280083773
+98,PDT,John Hancock Premium Div Fund,13.68000031,FALSE,2009,,19-Mar,2-Jun,8,6,3,5,19-Mar,2-Jun,7.847971302
+99,HPS,John Hancock Preferred Income Fund III,16.70999908,FALSE,2009,,23-Jun,6-Sep,9,8,2,3,19-Feb,4-May,2.089364668
+100,HPF,John Hancock Preferred Income Fund II,18.31999969,FALSE,2009,,16-Mar,30-May,9,8,2,3,16-Mar,30-May,6.22439945
+101,HPI,John Hancock Preferred Income Fund,19.03000069,FALSE,2009,,23-Jun,6-Sep,9,8,2,3,16-Mar,30-May,6.107863727
+102,JHI,John Hancock Investors Trust,16.45999908,FALSE,2009,,16-Dec,1-Mar,8,7,3,4,16-Dec,1-Mar,6.283614598
+103,JHS,John Hancock Income Securities Trust,15.67399979,FALSE,2009,,18-Nov,1-Feb,8,6,3,5,18-Mar,1-Jun,4.816746662
+104,HEQ,John Hancock Hedged Equity & Income Fund,10.98999977,TRUE,2011,,,,,,,,,,
+105,BTO,John Hancock Financial Opportunities Fund,26.87999916,FALSE,2009,,21-Oct,4-Jan,6,5,5,6,27-Oct,10-Jan,5.974856033
+106,JBT,John Bean Technologies Corp,105,FALSE,2009,,25-Sep,9-Dec,8,8,3,3,25-Sep,9-Dec,6.424012845
+107,JBSS,John B Sanfilippo & Son Inc,76.25,FALSE,2009,,4-Feb,19-Apr,5,5,6,6,4-Feb,19-Apr,4.286728817
+108,JALC,John Adams Life Corp,0.25999999,TRUE,2012,,,,,,,,,,
+109,JBKHF,Joban Kaihatsu Co Ltd,$3.85 ,TRUE,,No data fetched for symbol JBKHF using YahooDailyReader,,,,,,,,,
+110,JNSH,JNS Holdings Corp,0.0055,FALSE,2009,,29-Aug,12-Nov,4,4,7,7,29-Aug,12-Nov,24.31378252
+111,JNCCF,JNC Resources Inc,0.468329996,TRUE,2020,,,,,,,,,,
+112,JNBYF,JNBY Design Ltd,1.179999948,TRUE,2019,,,,,,,,,,
+113,JMP,JMP Group LLC,2.75999999,FALSE,2009,,15-Oct,29-Dec,4,4,7,7,23-Oct,6-Jan,3.689308659
+114,JMDP,JMD Properties Inc,0.699999988,TRUE,2012,,,,,,,,,,
+115,SJM,JM Smucker Co,115.7699966,FALSE,2009,,5-Feb,20-Apr,8,8,3,3,4-Feb,19-Apr,3.503717529
+116,JLMC,JLM Couture Inc,2.650000095,FALSE,2009,,15-May,29-Jul,4,4,7,7,15-May,29-Jul,7.134130218
+117,JKXOY,JKX Oil & Gas PLC,$9.30 ,TRUE,,No data fetched for symbol JKXOY using YahooDailyReader,,,,,,,,,
+118,JIVE,Jive Software Inc,$5.25 ,TRUE,,'Date',,,,,,,,,
+119,JIUMF,Jiumaojiu International Holdings Ltd,2.166100025,TRUE,2020,,,,,,,,,,
+120,JLRRF,Jiulian Resources Inc,0.1087,TRUE,2020,,,,,,,,,,
+121,JCTG,Jiucaitong Group Ltd,$2.00 ,TRUE,,No data fetched for symbol JCTG using YahooDailyReader,,,,,,,,,
+122,JSHY,Jishanye Inc,0.061000001,TRUE,2014,,,,,,,,,,
+123,JGHG,Jinzisheng Holding Group,0.002,TRUE,2019,,,,,,,,,,
+124,JNDOF,JINS Holdings Inc,74.33000183,TRUE,2013,,,,,,,,,,
+125,JST,Jinpan International Ltd,$5.94 ,TRUE,,'Date',,,,,,,,,
+126,JKS,JinkoSolar Holding Co Ltd,59.43999863,FALSE,2010,,30-Sep,14-Dec,7,7,3,3,30-Sep,14-Dec,6.78666142
+127,JNSTF,Jinhui Shipping and Transportation Ltd,0.368099988,TRUE,2012,,,,,,,,,,
+128,JTXMF,Jingwei Textile Machinery Co Ltd,$1.48 ,TRUE,,No data fetched for symbol JTXMF using YahooDailyReader,,,,,,,,,
+129,JWHI,Jin Wan Hong International Holdings Ltd,0.100000001,TRUE,2016,,,,,,,,,,
+130,JYMHF,Jimmy Choo PLC,$2.95 ,TRUE,,No data fetched for symbol JYMHF using YahooDailyReader,,,,,,,,,
+131,DATE,Jiayuan.com International Ltd,$7.49 ,TRUE,,'Date',,,,,,,,,
+132,JFIN,Jiayin Group Inc,2.890000105,TRUE,2019,,,,,,,,,,
+133,JT,Jianpu Technology Inc,2.900000095,TRUE,2017,,,,,,,,,,
+134,JIXAY,Jiangxi Copper Co Ltd,57.08000183,FALSE,2010,,24-May,7-Aug,4,4,6,6,1-Nov,15-Jan,4.270589752
+135,JIAXF,Jiangxi Copper Co Ltd,1.309999943,FALSE,2010,,23-May,6-Aug,4,4,6,6,23-May,6-Aug,4.750847332
+136,JEXYY,Jiangsu Expressway Co Ltd,24.39999962,FALSE,2010,,27-Sep,11-Dec,4,4,6,6,27-Sep,11-Dec,7.250299801
+137,JEXYF,Jiangsu Expressway Co Ltd,1.059999943,FALSE,2010,,13-Apr,27-Jun,4,4,6,6,23-Oct,6-Jan,5.610984351
+138,JNGHF,Jiangnan Group Ltd,$0.07 ,TRUE,,No data fetched for symbol JNGHF using YahooDailyReader,,,,,,,,,
+139,RZZN,Jialijia Group Corp Ltd,7.599999905,TRUE,2019,,,,,,,,,,
+140,JGCCY,JGC Holdings Corp,18.25,TRUE,2011,,,,,,,,,,
+141,JGCCF,JGC Holdings Corp,10,TRUE,2012,,,,,,,,,,
+142,JGSMY,JG Summit Holdings Inc,24.82859993,TRUE,2014,,,,,,,,,,
+143,JGSHF,JG Summit Holdings Inc,1.281000018,TRUE,2012,,,,,,,,,,
+144,FROG,JFrog Ltd,63.27000046,TRUE,2020,,,,,,,,,,
+145,JFEEF,JFE Holdings Inc,8,TRUE,2011,,,,,,,,,,
+146,JCTCF,Jewett-Cameron Trading Co Ltd,9.199999809,FALSE,2009,,7-May,21-Jul,7,7,4,4,7-May,21-Jul,11.65192881
+147,JTPY,JetPay Corp,5.039999962,TRUE,2012,,,,,,,,,,
+148,JTCMF,Jetcom Inc,0.0032,TRUE,2018,,,,,,,,,,
+149,JBLU,JetBlue Airways Corp,14.63000011,FALSE,2009,,24-Oct,7-Jan,4,4,7,7,24-Oct,7-Jan,8.100425146
+150,JTBK,Jetblack Corp,0.018999999,FALSE,2010,,4-Mar,18-May,2,2,8,8,4-Mar,18-May,30.40950784
+151,DRTGF,Jet2 PLC,18.14999962,TRUE,2012,,,,,,,,,,
+152,JRVMF,Jervois Mining Ltd,0.230000004,TRUE,2019,,,,,,,,,,
+153,JSEOF,Jerusalem Economy Ltd,4.430399895,TRUE,2019,,,,,,,,,,
+154,JYOGF,Jersey Oil and Gas PLC,0.850000024,TRUE,2014,,,,,,,,,,
+155,JRONY,Jeronimo Martins SGPS SA,32.75999832,FALSE,2010,,28-Feb,13-May,8,8,2,2,18-Dec,3-Mar,6.085750339
+156,JRONF,Jeronimo Martins SGPS SA,16.09000015,TRUE,2012,,,,,,,,,,
+157,JCAP,Jernigan Capital Inc,17.21999931,TRUE,2015,,,,,,,,,,
+158,JROOF,Jericho Oil Corp,0.135299996,TRUE,2014,,,,,,,,,,
+159,JRSH,Jerash Holdings (US) Inc,4.989999771,TRUE,2018,,,,,,,,,,
+160,JERT,JER Investors Trust Inc,0.026000001,FALSE,2009,,8-Mar,22-May,5,5,6,6,8-Mar,22-May,22.77583549
+161,DWDZF,Jeotex Inc,0.00633,TRUE,2015,,,,,,,,,,
+162,JELLF,Jeol Ltd,29.54999924,TRUE,2020,,,,,,,,,,
+163,JNPKF,Jenoptik AG,29.64999962,TRUE,2012,,,,,,,,,,
+164,JEMC,JEM Capital Inc,$0.70 ,TRUE,,No data fetched for symbol JEMC using YahooDailyReader,,,,,,,,,
+165,JELD,JELD-WEN Holding Inc,24.18000031,TRUE,2017,,,,,,,,,,
+166,JFBC,Jeffersonville Bancorp,17.25,FALSE,2009,,12-Jul,25-Sep,8,8,3,3,4-Oct,18-Dec,4.892634018
+167,JFWV,Jefferson Security Bank W Va,75,FALSE,2009,,6-May,20-Jul,3,2,8,9,20-Oct,3-Jan,3.484535025
+168,JFBF,Jefferson Bankshares Inc,$15.90 ,TRUE,,No data fetched for symbol JFBF using YahooDailyReader,,,,,,,,,
+169,JEF,Jefferies Financial Group Inc,23.36000061,FALSE,2009,,11-Dec,24-Feb,7,7,4,4,13-Dec,26-Feb,6.112773663
+170,JDEPF,JDE Peets NV,42,TRUE,2020,,,,,,,,,,
+171,JDCMF,JD.com Inc,43.77000046,TRUE,2020,,,,,,,,,,
+172,JD,JD.com Inc,86.25,TRUE,2014,,,,,,,,,,
+173,JDDSF,JD Sports Fashion PLC,9.25,TRUE,2017,,,,,,,,,,
+174,JDSPY,JD Sports Fashion PLC,10.68000031,TRUE,2018,,,,,,,,,,
+175,JDGRY,Jd Group Ltd,$2.92 ,TRUE,,'Date',,,,,,,,,
+176,JDVB,Jd Bancshares Inc,52,FALSE,2009,,7-Sep,21-Nov,4,4,7,7,12-Feb,27-Apr,2.724896978
+177,JCYBF,JCY International Bhd,$0.41 ,TRUE,,No data fetched for symbol JCYBF using YahooDailyReader,,,,,,,,,
+178,MNIQQ,JCK Legacy Co,0.029999999,FALSE,2009,,26-Sep,10-Dec,4,4,7,7,26-Sep,10-Dec,-27.67311229
+179,JCPNQ,JC Penney Co Inc,0.179000005,FALSE,2009,,17-Jan,1-Apr,6,6,5,5,17-Jan,1-Apr,0.76214546
+180,JCDXY,JC Decaux SA,15,TRUE,2014,,,,,,,,,,
+181,JCDXF,JC Decaux SA,24.59000015,FALSE,2009,,28-Oct,11-Jan,9,9,2,2,28-Oct,11-Jan,7.69393575
+182,JBSAY,JBS SA,8.220000267,FALSE,2010,,12-Nov,26-Jan,6,6,4,4,12-Nov,26-Jan,6.389512023
+183,JBSAF,JBS SA,$1.76 ,TRUE,,No data fetched for symbol JBSAF using YahooDailyReader,,,,,,,,,
+184,JBGS,JBG SMITH Properties,30.84000015,TRUE,2017,,,,,,,,,,
+185,JBZY,JB&ZJMY Holding Co Inc,0.041000001,TRUE,2017,,,,,,,,,,
+186,JBHT,JB Hunt Transport Services Inc,132.2100067,FALSE,2009,,27-Sep,11-Dec,8,8,3,3,27-Sep,11-Dec,5.849833798
+187,JAZTF,Jazztel PLC,10.86999989,TRUE,2010,,,,,,,,,,
+188,JAZZ,Jazz Pharmaceuticals PLC,143.8699951,FALSE,2009,,19-May,2-Aug,9,9,2,2,19-May,2-Aug,14.55715835
+189,PNMLF,Jayden Resources Inc,0.039919998,TRUE,2012,,,,,,,,,,
+190,JAXAF,Jaxsta Ltd,0.024599999,TRUE,2020,,,,,,,,,,
+191,JXMNF,Jaxon Mining Inc,0.052999999,TRUE,2016,,,,,,,,,,
+192,JWS,Jaws Acquisition Corp,11.32999992,TRUE,2020,,,,,,,,,,
+193,JMI,JAVELIN Mortgage Investment Corp,$7.18 ,TRUE,,'Date',,,,,,,,,
+194,JTLDF,Jatcorp Ltd,$0.01 ,TRUE,,No data fetched for symbol JTLDF using YahooDailyReader,,,,,,,,,
+195,JASTY,Jastrzebska Spolka Weglowa SA,$6.35 ,TRUE,,No data fetched for symbol JASTY using YahooDailyReader,,,,,,,,,
+196,JAMGF,Jasper Mining Corp,0.042399999,TRUE,2012,,,,,,,,,,
+197,JSPRF,Jasper Investments Ltd,$0.06 ,TRUE,,No data fetched for symbol JSPRF using YahooDailyReader,,,,,,,,,
+198,JASNQ,Jason Industries Inc,0.02,TRUE,2013,,,,,,,,,,
+199,JASUF,Jasmine International PCL,0.100000001,TRUE,2015,,,,,,,,,,
+200,JASMY,Jasmine International PCL,$1.74 ,TRUE,,No data fetched for symbol JASMY using YahooDailyReader,,,,,,,,,
+201,JRDN,Jardinier Corp,0.01,TRUE,2013,,,,,,,,,,
+202,JSHLY,Jardine Strategic Holdings Ltd,12.35999966,FALSE,2009,,27-Dec,12-Mar,10,10,1,1,27-Dec,12-Mar,4.152842664
+203,JDSHF,Jardine Strategic Holdings Ltd,24.20999908,TRUE,2011,,,,,,,,,,
+204,JMHLY,Jardine Matheson Holdings Ltd,51.16999817,FALSE,2009,,18-Dec,3-Mar,9,9,2,2,18-Dec,3-Mar,7.30070492
+205,JARLF,Jardine Matheson Holdings Ltd,51.70000076,FALSE,2009,,21-Dec,6-Mar,9,9,2,2,21-Dec,6-Mar,6.630020712
+206,LLTHF,Jardine Lloyd Thompson Group PLC,24.29999924,TRUE,2012,,,,,,,,,,
+207,JCYGY,Jardine Cycle & Carriage Ltd,31.45000076,TRUE,2012,,,,,,,,,,
+208,JCYCF,Jardine Cycle & Carriage Ltd,14.52000046,TRUE,2012,,,,,,,,,,
+209,JAH,Jarden Corp,$58.97 ,TRUE,,'Date',,,,,,,,,
+210,JAPAY,Japan Tobacco Inc,10.27000046,TRUE,2014,,,,,,,,,,
+211,JAPAF,Japan Tobacco Inc,20.61000061,TRUE,2012,,,,,,,,,,
+212,JOF,Japan Smaller Capitalization Fund Inc,9.079999924,FALSE,2009,,29-Oct,12-Jan,7,7,4,4,19-Dec,4-Mar,3.819211427
+213,JSFNF,Japan Securities Finance Co Ltd,5.099999905,TRUE,2015,,,,,,,,,,
+214,JRFIF,Japan Retail Fund Investment Corp,"$1,820.00 ",TRUE,,No data fetched for symbol JRFIF using YahooDailyReader,,,,,,,,,
+215,JNRFY,Japan Retail Fund Investment Corp,$11.21 ,TRUE,,No data fetched for symbol JNRFY using YahooDailyReader,,,,,,,,,
+216,JREIF,Japan Real Estate Investment Corp,4777,TRUE,2013,,,,,,,,,,
+217,JPRRF,Japan Prime Realty Investment Corp,2857,TRUE,2012,,,,,,,,,,
+218,JPPIF,Japan Post Insurance Co Ltd,12.0302,TRUE,2020,,,,,,,,,,
+219,JPPHY,Japan Post Holdings Co Ltd,6.929999828,TRUE,2018,,,,,,,,,,
+220,JPHLF,Japan Post Holdings Co Ltd,7.960000038,TRUE,2015,,,,,,,,,,
+221,JPSTF,Japan Post Bank Co Ltd,8.300000191,TRUE,2015,,,,,,,,,,
+222,JPTXF,Japan Petroleum Exploration Co Ltd,17.25,TRUE,2013,,,,,,,,,,
+223,JLFNF,Japan Lifeline Co Ltd,11.88000011,TRUE,2013,,,,,,,,,,
+224,NIPOF,Japan Hotel REIT Investment Corp,507,TRUE,2015,,,,,,,,,,
+225,JGLDF,Japan Gold Corp,0.250999987,TRUE,2013,,,,,,,,,,
+226,JFOOF,Japan Foods Holding Ltd,0,TRUE,2014,,,,,,,,,,
+227,OSCUF,Japan Exchange Group Inc,22.33499908,FALSE,2009,,1-Jun,15-Aug,5,6,6,5,21-Mar,4-Jun,6.484606281
+228,JPXGY,Japan Exchange Group Inc,11.06999969,TRUE,2015,,,,,,,,,,
+229,JPDYY,Japan Display Inc,5.369999886,TRUE,2017,,,,,,,,,,
+230,JNNDF,Japan Display Inc,0.550000012,TRUE,2015,,,,,,,,,,
+231,JPAVF,Japan Aviation Electronics Industry Ltd,14.56999969,TRUE,2014,,,,,,,,,,
+232,JASSF,Japan Asset Marketing Co Ltd,$0.80 ,TRUE,,No data fetched for symbol JASSF using YahooDailyReader,,,,,,,,,
+233,JAIVF,Japan Asia Investment Co Ltd,$1.15 ,TRUE,,No data fetched for symbol JAIVF using YahooDailyReader,,,,,,,,,
+234,JTTRY,Japan Airport Terminal Co Ltd,28.13999939,TRUE,2016,,,,,,,,,,
+235,JAIRF,Japan Airport Terminal Co Ltd,32.34999847,TRUE,2012,,,,,,,,,,
+236,JPNRF,Japan Airlines Co Ltd,18.60000038,TRUE,2012,,,,,,,,,,
+237,JAPSY,Japan Airlines Co Ltd,9.449999809,TRUE,2015,,,,,,,,,,
+238,JUHDY,Janus Henderson Group PLC,24.39999962,TRUE,2019,,,,,,,,,,
+239,JHG,Janus Henderson Group PLC,27.05999947,TRUE,2017,,,,,,,,,,
+240,JNS,Janus Capital Group Inc,$14.17 ,TRUE,,'Date',,,,,,,,,
+241,JAN,JanOne Inc,4.199999809,FALSE,2009,,11-Dec,24-Feb,3,3,8,8,11-Dec,24-Feb,10.3231751
+242,JANL,Janel World Trade Ltd.,8.989999771,FALSE,2009,,13-Sep,27-Nov,4,4,7,7,13-Sep,27-Nov,-5.455155474
+243,JAMF,Jamf Holding Corp,33.02000046,TRUE,2020,,,,,,,,,,
+244,JRIV,James River Holdings Corp,0.02,TRUE,2013,,,,,,,,,,
+245,JRVR,James River Group Holdings Ltd,49.54999924,TRUE,2014,,,,,,,,,,
+246,JRCCQ,James River Coal Co,$0.01 ,TRUE,,'Date',,,,,,,,,
+247,JMTM,James Maritime Holdings Inc,2.25,TRUE,2012,,,,,,,,,,
+248,JHIUF,James Hardie Industries PLC,23,FALSE,2010,,17-Nov,31-Jan,6,6,4,4,15-Feb,30-Apr,0.042046094
+249,JHX,James Hardie Industries PLC,28.79999924,FALSE,2009,,20-Oct,3-Jan,6,6,5,5,20-Oct,3-Jan,7.514607602
+250,JMHSF,James Halstead PLC,$4.45 ,TRUE,,No data fetched for symbol JMHSF using YahooDailyReader,,,,,,,,,
+251,JMBRF,James Bay Resources Ltd,0.064599998,TRUE,2017,,,,,,,,,,
+252,JMCCF,Jamco Corp,25.25,TRUE,2017,,,,,,,,,,
+253,JMBA,Jamba Inc,13.01000023,TRUE,2012,,,,,,,,,,
+254,JKRO,Jakroo Inc,0.50999999,TRUE,2018,,,,,,,,,,
+255,JAKK,Jakks Pacific Inc,4.909999847,FALSE,2009,,22-Mar,5-Jun,4,4,7,7,22-Mar,5-Jun,6.500018512
+256,PJIHF,Jakarta International Hotels & Development Tbk,$0.08 ,TRUE,,No data fetched for symbol PJIHF using YahooDailyReader,,,,,,,,,
+257,JGGRF,Jaguar Resources Inc,$0.44 ,TRUE,,No data fetched for symbol JGGRF using YahooDailyReader,,,,,,,,,
+258,JAGGF,Jaguar Mining Inc,5.079999924,FALSE,2009,,31-Jul,14-Oct,4,4,7,7,31-Jul,14-Oct,6.656221009
+259,JAGX,Jaguar Health Inc,0.207900003,TRUE,2015,,,,,,,,,,
+260,JGFCF,Jaguar Financial Corp,0.252099991,FALSE,2010,,29-Mar,12-Jun,1,1,7,7,29-Mar,12-Jun,24.09300605
+261,JGPK,Jagged Peak Inc,2300,TRUE,2015,,,,,,,,,,
+262,JAG,Jagged Peak Energy Inc,$8.23 ,TRUE,,No data fetched for symbol JAG using YahooDailyReader,,,,,,,,,
+263,JFKOF,Jafco Group Co Ltd,46.65000153,TRUE,2013,,,,,,,,,,
+264,BDRGF,Jaeger Resources Corp,0.025,TRUE,2012,,,,,,,,,,
+265,JADSF,Jadestone Energy Inc,0.610000014,TRUE,2016,,,,,,,,,,
+266,TNSTF,Jade Power Trust,0.109999999,TRUE,2017,,,,,,,,,,
+267,MCKRF,Jade Leader Corp,0.033,FALSE,2009,,28-Jun,11-Sep,4,4,7,7,28-Jun,11-Sep,17.18762728
+268,JADG,Jade Global Holdings Inc,0.046,TRUE,2013,,,,,,,,,,
+269,JADA,Jade Art Group Inc,0.104999997,FALSE,2009,,24-Jun,7-Sep,6,6,5,5,24-Jun,7-Sep,13.98925732
+270,JQTMF,Jacquet Metals,$12.53 ,TRUE,,No data fetched for symbol JQTMF using YahooDailyReader,,,,,,,,,
+271,JFGI,Jacobs Financial Group Inc,$0.01 ,TRUE,,No data fetched for symbol JFGI using YahooDailyReader,,,,,,,,,
+272,J,Jacobs Engineering Group Inc,105.2399979,FALSE,2009,,28-Aug,11-Nov,5,5,6,6,28-Aug,11-Nov,5.345741555
+273,JCLY,Jaclyn Inc,$7.90 ,TRUE,,'Date',,,,,,,,,
+274,JXSB,Jacksonville Bancorp Inc,33.65000153,TRUE,2012,,,,,,,,,,
+275,JAXB,Jacksonville Bancorp Inc,$16.45 ,TRUE,,'Date',,,,,,,,,
+276,JKSM,Jacksam Corp,0.200000003,FALSE,2009,,20-Dec,5-Mar,5,5,6,6,20-Dec,5-Mar,25.14203299
+277,JPOTF,Jackpot Digital Inc,0.040399998,FALSE,2009,,23-Jan,7-Apr,5,5,6,6,23-Jan,7-Apr,-8.984278202
+278,JNHMF,Jack Nathan Medical Corp,0.879999995,TRUE,2020,,,,,,,,,,
+279,JACK,Jack In The Box Inc,86.58000183,FALSE,2009,,12-Nov,26-Jan,7,7,4,4,9-Nov,23-Jan,5.280212433
+280,JKHY,Jack Henry & Associates Inc,158.7100067,FALSE,2009,,21-Dec,6-Mar,10,10,1,1,27-May,10-Aug,4.019845936
+281,JCDAF,Jacada Ltd,5.800000191,FALSE,2009,,17-Feb,2-May,7,7,4,4,17-Feb,2-May,5.753461017
+282,JBL,Jabil Inc,37.77999878,FALSE,2009,,13-May,27-Jul,7,7,4,4,13-May,27-Jul,7.286338699
+283,JASO,JA Solar Holdings Co Ltd,7.489999771,TRUE,2009,,,,,,,,,,
+284,JCOM,J2 Global Inc,84.93000031,FALSE,2009,,23-Aug,6-Nov,7,7,4,4,23-Aug,6-Nov,5.172697281
+285,JOJMF,J.O.E.L. Jerusalem Oil Exploration Ltd,$37.30 ,TRUE,,No data fetched for symbol JOJMF using YahooDailyReader,,,,,,,,,
+286,JILL,J.Jill Inc,4.340000153,TRUE,2017,,,,,,,,,,
+287,MAYS,J. W. Mays Inc,23.14999962,FALSE,2009,,3-May,17-Jul,7,7,4,4,3-May,17-Jul,9.244943905
+288,JAX,J. Alexander's Holdings Inc,6.909999847,TRUE,2015,,,,,,,,,,
+289,JJSF,J&J Snack Foods Corp,159.0200043,FALSE,2009,,10-Sep,24-Nov,5,5,6,6,10-Sep,24-Nov,4.681412558
+290,JFROF,J Front Retailing Co Ltd,6.679999828,TRUE,2014,,,,,,,,,,

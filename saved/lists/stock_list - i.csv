@@ -1,0 +1,830 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,IZOZF,Izotropic Corp,0.910000026,TRUE,2019,,,,,,,,,,
+1,IZNN,IZON Network Inc,0.00815,FALSE,2009,,20-Dec,5-Mar,3,3,8,8,20-Dec,5-Mar,-7.115845793
+2,IZEA,IZEA Worldwide Inc,0.758099973,TRUE,2012,,,,,,,,,,
+3,PHYOF,IXICO PLC,0.670000017,FALSE,2009,,3-Jul,16-Sep,1,1,10,10,3-Jul,16-Sep,9.401877962
+4,XXIA,Ixia,$19.65 ,TRUE,,'Date',,,,,,,,,
+5,RGSJY,IWG PLC,$40.50 ,TRUE,,No data fetched for symbol RGSJY using YahooDailyReader,,,,,,,,,
+6,IWGFF,IWG PLC,4.5,FALSE,2009,,15-Feb,30-Apr,7,7,4,4,15-Feb,30-Apr,3.222273091
+7,IWBB,IWEB Inc,2,TRUE,2017,,,,,,,,,,
+8,IWCCF,Iwatsuka Confectionery Co Ltd,$32.20 ,TRUE,,No data fetched for symbol IWCCF using YahooDailyReader,,,,,,,,,
+9,IWTNF,Iwatani Corp,40,TRUE,2020,,,,,,,,,,
+10,IWAL,iWallet Corp,0.0131,TRUE,2014,,,,,,,,,,
+11,IWKCF,Iwaki Co Ltd,$2.25 ,TRUE,,No data fetched for symbol IWKCF using YahooDailyReader,,,,,,,,,
+12,IVH,Ivy High Income Opportunities Fund,12.44999981,TRUE,2013,,,,,,,,,,
+13,IVUFF,IVU Traffic Technologies AG,17.47109985,TRUE,2020,,,,,,,,,,
+14,IVGHF,IVG Immobilien AG,0.035,TRUE,2009,,,,,,,,,,
+15,ISEE,IVERIC bio Inc,5.650000095,TRUE,2013,,,,,,,,,,
+16,IVDA,Iveda Solutions Inc,0.319999993,FALSE,2009,,26-Jan,10-Apr,4,4,7,7,26-Jan,10-Apr,-1.566116134
+17,IVPAF,Ivanhoe Mines Ltd,4.525100231,TRUE,2012,,,,,,,,,,
+18,ITVPY,ITV PLC,12.75,FALSE,2010,,30-Oct,13-Jan,6,6,4,4,30-Oct,13-Jan,8.684153644
+19,ITVPF,ITV PLC,1,FALSE,2009,,30-Oct,13-Jan,7,7,4,4,30-Oct,13-Jan,7.501956662
+20,ITRN,Ituran Location and Control Ltd,16.62000084,FALSE,2009,,22-Mar,5-Jun,5,8,6,3,27-Oct,10-Jan,5.895531225
+21,ITT,ITT Inc,72.65000153,FALSE,2009,,30-Oct,13-Jan,6,6,5,5,30-Oct,13-Jan,9.091343574
+22,ITRO,Itronics Inc,0.646000028,FALSE,2009,,6-Oct,20-Dec,5,5,6,6,6-Oct,20-Dec,3.832859361
+23,ITRI,Itron Inc,75.83000183,FALSE,2009,,4-Aug,18-Oct,6,6,5,5,4-Aug,18-Oct,5.467438521
+24,ITMC,Itoco Inc,0.108999997,FALSE,2009,,14-Aug,28-Oct,3,3,7,7,14-Aug,28-Oct,24.78378863
+25,ITTOY,ITOCHU Techno-Solutions Corp,17.02000046,TRUE,2015,,,,,,,,,,
+26,ITTOF,ITOCHU Techno-Solutions Corp,$11.60 ,TRUE,,No data fetched for symbol ITTOF using YahooDailyReader,,,,,,,,,
+27,ITOCY,ITOCHU Corp,51.83850098,FALSE,2009,,10-Dec,23-Feb,8,8,3,3,10-Dec,23-Feb,5.708233884
+28,ITOCF,ITOCHU Corp,25.87360001,TRUE,2012,,,,,,,,,,
+29,ITONF,ITO EN Ltd,19.75,TRUE,2012,,,,,,,,,,
+30,ITOEF,ITO EN Ltd,59.5,FALSE,2010,,8-Oct,22-Dec,7,7,3,3,9-Feb,24-Apr,6.895068586
+31,ITMPF,ITM Power PLC,4.289999962,TRUE,2013,,,,,,,,,,
+32,IACAF,Ithaca Energy Inc,$1.45 ,TRUE,,No data fetched for symbol IACAF using YahooDailyReader,,,,,,,,,
+33,ITEX,ITEX Corp,3.900000095,FALSE,2009,,16-Feb,1-May,5,5,6,6,10-Feb,25-Apr,8.748385302
+34,ITRM,Iterum Therapeutics PLC,0.502600014,TRUE,2018,,,,,,,,,,
+35,ITI,Iteris Inc,4.659999847,FALSE,2009,,1-Jul,14-Sep,8,8,3,3,1-Jul,14-Sep,7.148618642
+36,ITOS,ITeos Therapeutics Inc,24.67000008,TRUE,2020,,,,,,,,,,
+37,INLB,Item 9 Labs Corp,2,TRUE,2012,,,,,,,,,,
+38,ITC,ITC Holdings Corp,14400,FALSE,2010,,11-Jan,26-Mar,7,7,3,3,11-Jan,26-Mar,9.42513215
+39,ITUB,Itau Unibanco Holding SA,5.389999866,FALSE,2009,,29-Aug,12-Nov,6,6,5,5,29-Aug,12-Nov,6.520721552
+40,ITCB,Itau Corpbanca,4.28000021,FALSE,2009,,12-Nov,26-Jan,6,6,5,5,12-Nov,26-Jan,2.515600862
+41,ICLTF,Itasca Capital Ltd,0.540000021,FALSE,2009,,9-Jul,22-Sep,4,4,7,7,9-Jul,22-Sep,6.136732114
+42,ITMR,Itamar Medical Ltd,17.87999916,TRUE,2019,,,,,,,,,,
+43,ITMMF,Itamar Medical Ltd,0.839999974,TRUE,2013,,,,,,,,,,
+44,ITSPF,Italmobiliare SpA,28.09350014,TRUE,2012,,,,,,,,,,
+45,ITSMF,Italmobiliare SpA,$40.15 ,TRUE,,No data fetched for symbol ITSMF using YahooDailyReader,,,,,,,,,
+46,SPGMF,Italiaonline SpA,2.531500101,TRUE,2019,,,,,,,,,,
+47,ITAMF,Italcementi SpA,$6.52 ,TRUE,,No data fetched for symbol ITAMF using YahooDailyReader,,,,,,,,,
+48,ITALY,Italcementi SpA,$11.45 ,TRUE,,'Date',,,,,,,,,
+49,ITABF,Italcementi SpA,$11.85 ,TRUE,,No data fetched for symbol ITABF using YahooDailyReader,,,,,,,,,
+50,MBCFF,Itafos,0.180000007,TRUE,2016,,,,,,,,,,
+51,ITXXF,Itaconix PLC,0.034000002,TRUE,2020,,,,,,,,,,
+52,ITP,IT Tech Packaging Inc,0.579100013,FALSE,2009,,13-Sep,27-Nov,3,3,8,8,13-Sep,27-Nov,17.02383317
+53,ISWH,ISW Holdings Inc,0.021,FALSE,2010,,5-Mar,19-May,4,4,6,6,5-Mar,19-May,-9.237445225
+54,ISUZY,Isuzu Motors Ltd,9.159999847,FALSE,2009,,2-Jun,16-Aug,5,5,6,6,2-Jun,16-Aug,3.148827544
+55,ISUZF,Isuzu Motors Ltd,9.140000343,TRUE,2012,,,,,,,,,,
+56,STAR,iStar Inc,14.14999962,FALSE,2009,,25-Mar,8-Jun,6,6,5,5,25-Mar,8-Jun,5.924318587
+57,ISDR,Issuer Direct Corp,21.36000061,FALSE,2009,,23-Aug,6-Nov,7,7,4,4,23-Aug,6-Nov,14.52980329
+58,ISFFF,ISS A/S,12.63000011,TRUE,2017,,,,,,,,,,
+59,ISSDY,ISS A/S,8.949999809,TRUE,2014,,,,,,,,,,
+60,ISRMF,Isramco Negev 2 LP,$22.00 ,TRUE,,No data fetched for symbol ISRMF using YahooDailyReader,,,,,,,,,
+61,ISRL,Isramco Inc,$121.65 ,TRUE,,No data fetched for symbol ISRL using YahooDailyReader,,,,,,,,,
+62,ISDAF,Israel Discount Bank Ltd,2.686100006,TRUE,2018,,,,,,,,,,
+63,ISDAY,Israel Discount Bank Ltd,32.29999924,TRUE,2013,,,,,,,,,,
+64,ISCDF,Isracard Ltd,2.380199909,TRUE,2019,,,,,,,,,,
+65,ISCNF,Isracann Biosciences Inc,0.191699997,TRUE,2017,,,,,,,,,,
+66,IRAVF,Isra Vision AG,58.65000153,TRUE,2014,,,,,,,,,,
+67,ISR,Isoray Inc,0.364499986,FALSE,2009,,8-Mar,22-May,6,6,5,5,8-Mar,22-May,16.92326233
+68,IOMT,Isomet Corp,0.029999999,FALSE,2009,,1-May,15-Jul,4,4,7,7,1-May,15-Jul,43.60492536
+69,ISENF,IsoEnergy Ltd,1.100000024,TRUE,2017,,,,,,,,,,
+70,ISOLF,Isodiol International Inc,0.018999999,TRUE,2014,,,,,,,,,,
+71,PPPS,iSocialy Inc,3.25,FALSE,2009,,31-Oct,14-Jan,3,3,8,8,31-Oct,14-Jan,-3.276157755
+72,ISLT,Islet Sciences Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+73,ISHI,Islet Holdings Inc,0.039999999,TRUE,2012,,,,,,,,,,
+74,ISLE,Isle of Capri Casinos Inc,$22.98 ,TRUE,,'Date',,,,,,,,,
+75,IDBP,Island Bancorp Inc,$243.00 ,TRUE,,No data fetched for symbol IDBP using YahooDailyReader,,,,,,,,,
+76,GITEF,Iskandar Waterfront City Bhd,$0.35 ,TRUE,,No data fetched for symbol GITEF using YahooDailyReader,,,,,,,,,
+77,ISGN,iSign Solutions Inc,0.38499999,FALSE,2009,,26-Jun,9-Sep,3,3,8,8,26-Jun,9-Sep,4.315509832
+78,ISDSF,iSign Media Solutions Inc,0.02,FALSE,2009,,28-Sep,12-Dec,4,4,7,7,28-Sep,12-Dec,7.069706823
+79,INTYF,ISG PLC,$2.91 ,TRUE,,No data fetched for symbol INTYF using YahooDailyReader,,,,,,,,,
+80,IMHDY,Isetan Mitsukoshi Holdings Ltd,10.39999962,TRUE,2018,,,,,,,,,,
+81,IMHDF,Isetan Mitsukoshi Holdings Ltd,4.800000191,TRUE,2013,,,,,,,,,,
+82,ISBH,Isbre Holding Corp,$0.01 ,TRUE,,No data fetched for symbol ISBH using YahooDailyReader,,,,,,,,,
+83,IFIT,iSatori Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+84,ISAGY,Isagen SA,$11.72 ,TRUE,,No data fetched for symbol ISAGY using YahooDailyReader,,,,,,,,,
+85,ISBA,Isabella Bank Corp,18.79999924,FALSE,2009,,13-Apr,27-Jun,4,4,7,7,10-Apr,24-Jun,2.262598843
+86,ISAT,ISA Internationale Inc,0.025,FALSE,2009,,10-Feb,25-Apr,5,5,6,6,10-Feb,25-Apr,15.95029191
+87,IRVRF,Irving Resources Inc,1.899999976,TRUE,2016,,,,,,,,,,
+88,IRCP,IRSA Propiedades Comerciales SA,13.88500023,FALSE,2009,,30-Aug,13-Nov,3,3,8,8,30-Aug,13-Nov,11.68740414
+89,IRS,IRSA Inversiones y Representaciones SA,5.039999962,FALSE,2009,,26-Oct,9-Jan,6,6,5,5,24-Sep,8-Dec,10.24737146
+90,IRRAF,IRRAS AB,0.739000022,TRUE,2020,,,,,,,,,,
+91,IRPTF,IRPC PCL,0.140000001,TRUE,2014,,,,,,,,,,
+92,IRPSY,IRPC PCL,8.720000267,TRUE,2018,,,,,,,,,,
+93,IRWD,Ironwood Pharmaceuticals Inc,11.57999992,FALSE,2010,,9-Jan,24-Mar,8,8,2,2,9-Jan,24-Mar,7.306242711
+94,IRNS,Ironstone Group Inc,0.649999976,TRUE,2012,,,,,,,,,,
+95,IRBZF,Ironbark Zinc Ltd,$0.05 ,TRUE,,No data fetched for symbol IRBZF using YahooDailyReader,,,,,,,,,
+96,IRNRF,Iron Road Ltd,0.111000001,TRUE,2014,,,,,,,,,,
+97,IRM,Iron Mountain Inc,25.89999962,FALSE,2009,,8-Dec,21-Feb,6,6,5,5,16-Mar,30-May,4.227152747
+98,OEXFF,Iron Bridge Resources Inc,0.649900019,TRUE,2016,,,,,,,,,,
+99,IRBT,iRobot Corp,75.51999664,FALSE,2009,,27-Nov,10-Feb,4,4,7,7,27-Nov,10-Feb,10.97619464
+100,IKSGY,Irkutskenergo JSC,13.5,TRUE,2012,,,,,,,,,,
+101,IRKTY,Irkut Corporation,$4.85 ,TRUE,,No data fetched for symbol IRKTY using YahooDailyReader,,,,,,,,,
+102,RSHPF,Irish Residential Properties REIT PLC,1.549999952,TRUE,2016,,,,,,,,,,
+103,IRCUF,Irish Continental Group PLC,4.626999855,TRUE,2012,,,,,,,,,,
+104,IRSB,Iris Biotechnologies Inc,$0.04 ,TRUE,,No data fetched for symbol IRSB using YahooDailyReader,,,,,,,,,
+105,IRDM,Iridium Communications Inc,31.71999931,FALSE,2009,,16-May,30-Jul,5,5,6,6,16-May,30-Jul,8.292485533
+106,IRIX,IRIDEX Corp,1.700000048,FALSE,2009,,23-Dec,8-Mar,6,6,5,5,23-Dec,8-Mar,3.672339472
+107,IRTC,iRhythm Technologies Inc,218.4299927,TRUE,2016,,,,,,,,,,
+108,IRDEY,Iren SpA,$26.44 ,TRUE,,No data fetched for symbol IRDEY using YahooDailyReader,,,,,,,,,
+109,IRDEF,Iren SpA,2.450000048,TRUE,2013,,,,,,,,,,
+110,IRLD,Ireland Inc,$0.10 ,TRUE,,No data fetched for symbol IRLD using YahooDailyReader,,,,,,,,,
+111,IRCSF,IRCE SpA,1.850000024,TRUE,2018,,,,,,,,,,
+112,IRMD,iRadimed Corp,23.17000008,TRUE,2014,,,,,,,,,,
+113,IQV,IQVIA Holdings Inc,169.0700073,TRUE,2013,,,,,,,,,,
+114,IQST,iQSTEL Inc,0.075999998,TRUE,2018,,,,,,,,,,
+115,IQ,iQIYI Inc,22.57999992,TRUE,2018,,,,,,,,,,
+116,UBINF,IQGeo Group PLC,$1.00 ,TRUE,,No data fetched for symbol UBINF using YahooDailyReader,,,,,,,,,
+117,IQEPY,IQE PLC,$53.00 ,TRUE,,No data fetched for symbol IQEPY using YahooDailyReader,,,,,,,,,
+118,IQEPF,IQE PLC,0.74000001,TRUE,2012,,,,,,,,,,
+119,FLBSF,IQ-AI Ltd,0.082099997,TRUE,2019,,,,,,,,,,
+120,IQWLF,iQ International AG,0.639999986,TRUE,2020,,,,,,,,,,
+121,IPLB,iPure Labs Inc,0.050999999,TRUE,2014,,,,,,,,,,
+122,IPSOF,Ipsos SA,24.14999962,TRUE,2013,,,,,,,,,,
+123,IDTY,Ipsidy Inc,0.155000001,TRUE,2015,,,,,,,,,,
+124,IPSEY,Ipsen SA,25.11000061,TRUE,2012,,,,,,,,,,
+125,IPSEF,Ipsen SA,102.4540024,TRUE,2012,,,,,,,,,,
+126,IPPQF,Iplayco Corp Ltd,$0.37 ,TRUE,,No data fetched for symbol IPPQF using YahooDailyReader,,,,,,,,,
+127,IPIC,IPic Entertainment Inc,0.200000003,TRUE,2020,,,,,,,,,,
+128,IPGP,IPG Photonics Corp,198.2700043,FALSE,2009,,25-Aug,8-Nov,7,7,4,4,25-Aug,8-Nov,7.754344366
+129,IPIIF,ipet Insurance Co Ltd,$38.55 ,TRUE,,No data fetched for symbol IPIIF using YahooDailyReader,,,,,,,,,
+130,IPCM,IPC Healthcare Inc,$80.17 ,TRUE,,'Date',,,,,,,,,
+131,IPCRF,IPC Corp Ltd,1.200000048,TRUE,2019,,,,,,,,,,
+132,IYQT,iPayment Holdings Inc,$0.10 ,TRUE,,No data fetched for symbol IYQT using YahooDailyReader,,,,,,,,,
+133,IPAS,iPass Inc,3.25,TRUE,2012,,,,,,,,,,
+134,IPZYF,IP Group PLC,1,TRUE,2013,,,,,,,,,,
+135,IOFB,Iowa First Bancshares Corp,27,FALSE,2009,,11-Oct,25-Dec,8,8,3,3,9-Oct,23-Dec,4.092873394
+136,IOVA,Iovance Biotherapeutics Inc,36.5,FALSE,2010,,17-Oct,31-Dec,6,6,4,4,17-Oct,31-Dec,2.469896262
+137,IOUFF,IOU Financial Inc,0.079800002,TRUE,2013,,,,,,,,,,
+138,IOTC,Iota Communications Inc,0.1052,TRUE,2017,,,,,,,,,,
+139,IOOFY,IOOF Holdings Ltd,6.840000153,TRUE,2018,,,,,,,,,,
+140,IOOFF,IOOF Holdings Ltd,2.180000067,TRUE,2017,,,,,,,,,,
+141,IINX,Ionix Technology Inc,0.028000001,TRUE,2016,,,,,,,,,,
+142,IONS,Ionis Pharmaceuticals Inc,50.68000031,FALSE,2009,,2-Oct,16-Dec,6,6,5,5,2-Oct,16-Dec,5.297948057
+143,IONKF,Ionic Brands Corp,0.0164,TRUE,2017,,,,,,,,,,
+144,GSCCF,Ioneer Ltd,0.188999996,TRUE,2018,,,,,,,,,,
+145,IO,ION Geophysical Corp,1.730000019,FALSE,2009,,6-Oct,20-Dec,5,5,6,6,6-Oct,20-Dec,-3.424352926
+146,IOBCF,Ion Beam Applications SA,13.47999954,FALSE,2009,,9-Jan,24-Mar,6,6,5,5,9-Jan,24-Mar,9.677300036
+147,IACA,ION Acquisition Corp 1 Ltd,10.25,TRUE,2020,,,,,,,,,,
+148,IMRTF,Iomart Group PLC,3.700000048,TRUE,2019,,,,,,,,,,
+149,IOIHF,IOI Properties Group Bhd,$0.33 ,TRUE,,No data fetched for symbol IOIHF using YahooDailyReader,,,,,,,,,
+150,IOIOF,IOI Corp Bhd,0.949999988,TRUE,2012,,,,,,,,,,
+151,IDPOF,IOG PLC,$0.24 ,TRUE,,No data fetched for symbol IDPOF using YahooDailyReader,,,,,,,,,
+152,IOFNF,Iofina PLC,0.180000007,FALSE,2009,,22-Mar,5-Jun,5,5,6,6,22-Mar,5-Jun,17.09281131
+153,IOCJY,Iochpe-Maxion SA,0.699999988,FALSE,2009,,23-Jun,6-Sep,6,6,5,5,23-Jun,6-Sep,10.9871981
+154,LTHIF,InZinc Mining Ltd,0.021600001,TRUE,2012,,,,,,,,,,
+155,SEADF,Invuo Technologies AB,0.100000001,TRUE,2013,,,,,,,,,,
+156,IVTY,Invuity Inc,7.389999866,TRUE,2015,,,,,,,,,,
+157,INVO,INVO Bioscience Inc,3.390000105,TRUE,2020,,,,,,,,,,
+158,NVIV,InVivo Therapeutics Holdings Corp,0.579999983,FALSE,2010,,17-May,31-Jul,5,5,5,5,17-May,31-Jul,-26.32137505
+159,IVRO,Invitro International,0.079999998,FALSE,2009,,2-Jan,17-Mar,7,7,4,4,2-Jan,17-Mar,24.67939413
+160,INVH,Invitation Homes Inc,28.29000092,TRUE,2017,,,,,,,,,,
+161,NVTA,Invitae Corp,45.61999893,TRUE,2015,,,,,,,,,,
+162,IVVGF,Invinity Energy Systems PLC,1.789999962,TRUE,2020,,,,,,,,,,
+163,IVINF,Invincible Investment Corp,289.3299866,FALSE,2010,,2-Jan,17-Mar,1,1,9,9,2-Jan,17-Mar,5.367955356
+164,IVITF,Invictus MD Strategies Corp,0.025,TRUE,2016,,,,,,,,,,
+165,IVFZF,Invictus Financial Inc,0.020500001,FALSE,2009,,21-Jul,4-Oct,4,4,7,7,21-Jul,4-Oct,-555.2939162
+166,INVU,Investview Inc,0.022,FALSE,2009,,30-Mar,13-Jun,3,3,8,8,30-Mar,13-Jun,11.57925073
+167,ITIC,Investors Title Co,171.9600067,FALSE,2009,,29-Oct,12-Jan,4,4,7,7,15-Sep,29-Nov,8.04290237
+168,IRET,Investors Real Estate Trust,72.94000244,FALSE,2009,,11-Nov,25-Jan,7,7,4,4,24-Sep,8-Dec,4.12927533
+169,IHRC,Investors Heritage Capital Corporation,43.25,TRUE,2012,,,,,,,,,,
+170,ISBC,Investors Bancorp Inc,9.510000229,FALSE,2009,,22-Aug,5-Nov,9,9,2,2,22-Aug,5-Nov,5.088415715
+171,IVSXF,Investor AB,67.84999847,FALSE,2010,,24-Feb,9-May,8,8,2,2,19-Dec,4-Mar,6.568615082
+172,IVSBY,Investor AB,$20.00 ,TRUE,,No data fetched for symbol IVSBY using YahooDailyReader,,,,,,,,,
+173,IVSBF,Investor AB,69.55000305,FALSE,2010,,8-Feb,23-Apr,7,7,3,3,23-Nov,6-Feb,7.385575742
+174,ITG,Investment Technology Group Inc,$30.23 ,TRUE,,No data fetched for symbol ITG using YahooDailyReader,,,,,,,,,
+175,IVTBF,Investment AB Latour,26.53730011,TRUE,2012,,,,,,,,,,
+176,IVTJY,Investec PLC,4.510000229,TRUE,2019,,,,,,,,,,
+177,IVTJF,Investec PLC,2.420000076,FALSE,2010,,20-Nov,3-Feb,6,6,4,4,2-Jan,17-Mar,7.177571935
+178,ITCFY,Investec Ltd,5.019999981,TRUE,2012,,,,,,,,,,
+179,ICMB,Investcorp Credit Management BDC Inc,4,TRUE,2014,,,,,,,,,,
+180,ISTR,Investar Holding Corp,16.40999985,TRUE,2014,,,,,,,,,,
+181,IGFUF,Investa Office Fund,3.849999905,TRUE,2012,,,,,,,,,,
+182,MHIVF,Invesque Inc,1.825049996,TRUE,2018,,,,,,,,,,
+183,IIM,Invesco Value Municipal Income Trust,15.14000034,FALSE,2009,,21-Mar,4-Jun,6,6,5,5,22-May,5-Aug,0.662921189
+184,VTN,Invesco Trust For Investment Grade New York Munici,12.40999985,FALSE,2009,,19-Mar,2-Jun,7,4,4,7,27-Dec,12-Mar,2.320738148
+185,VGM,Invesco Trust for Investment Grade Municipals,12.72000027,FALSE,2009,,15-Mar,29-May,7,5,4,6,15-Mar,29-May,3.423274648
+186,VVR,Invesco Senior Income Trust,3.799999952,FALSE,2009,,15-Mar,29-May,10,6,1,5,18-Dec,3-Mar,4.425875561
+187,IQI,Invesco Quality Municipal Income Trust,12.51000023,FALSE,2009,,14-Nov,28-Jan,6,5,5,6,12-Jun,26-Aug,2.200316382
+188,VPV,Invesco Pennsylvania Value Municipal Income Trust,12.21000004,FALSE,2009,,16-Mar,30-May,6,5,5,6,15-Mar,29-May,2.897618007
+189,VKQ,Invesco Municipal Trust,12.5,FALSE,2009,,15-Mar,29-May,8,5,3,6,4-Jun,18-Aug,0.407726676
+190,VMO,Invesco Municipal Opportunity Trust,12.42000008,FALSE,2009,,15-Mar,29-May,8,5,3,6,21-Jun,4-Sep,2.401707967
+191,OIA,Invesco Muni Income Opps Trust,7.440000057,FALSE,2009,,13-Nov,27-Jan,7,6,4,5,20-Jul,3-Oct,1.805029699
+192,IVR,Invesco Mortgage Capital Inc,3.230000019,FALSE,2009,,14-Oct,28-Dec,8,8,3,3,9-Oct,23-Dec,4.439329212
+193,IVZ,Invesco Ltd,16.01000023,FALSE,2009,,15-Oct,29-Dec,6,6,5,5,15-Oct,29-Dec,4.335831356
+194,VLT,Invesco High Income Trust II,12.94999981,FALSE,2009,,23-Mar,6-Jun,9,8,2,3,22-Dec,7-Mar,4.088928935
+195,IHTA,Invesco High Income 2024 Target Term,8.130000114,TRUE,2017,,,,,,,,,,
+196,IHIT,Invesco High Income 2023 Target Term Fund,8.100000381,TRUE,2016,,,,,,,,,,
+197,VTA,Invesco Dynamic Credit Opportunities Fund,9.909999847,FALSE,2009,,27-Oct,10-Jan,9,6,2,5,15-Dec,28-Feb,4.577976748
+198,VCV,Invesco California Value Municipal Income Trust,12.52000046,FALSE,2009,,17-Mar,31-May,7,6,4,5,18-Mar,1-Jun,4.961342296
+199,VBF,Invesco Bond Fund,20.35000038,FALSE,2009,,16-Jul,29-Sep,5,5,6,6,16-Jun,30-Aug,2.291875991
+200,VKI,Invesco Advantage Municipal Income Trust II,11.02000046,FALSE,2009,,16-Mar,30-May,6,5,5,6,21-Mar,4-Jun,3.745522196
+201,GNGXF,Inventus Mining Corp,0.099210002,TRUE,2013,,,,,,,,,,
+202,SNAK,Inventure Foods Inc,$4.00 ,TRUE,,'Date',,,,,,,,,
+203,IARE,InvenTrust Properties Corp,1.100000024,TRUE,2014,,,,,,,,,,
+204,IVA,Inventiva SA,13.80000019,TRUE,2020,,,,,,,,,,
+205,IVEVF,Inventiva SA,10.84000015,TRUE,2019,,,,,,,,,,
+206,INVT,Inventergy Global Inc,0.022535,FALSE,2009,,22-Dec,7-Mar,7,7,4,4,22-Dec,7-Mar,18.31108127
+207,IDEA,Invent Ventures Inc,0.01158,TRUE,2012,,,,,,,,,,
+208,INVN,InvenSense Inc,$12.99 ,TRUE,,'Date',,,,,,,,,
+209,IVHI,Invech Holdings Inc,1,TRUE,2012,,,,,,,,,,
+210,IVC,Invacare Corp,8.670000076,FALSE,2009,,1-Oct,15-Dec,5,5,6,6,1-Oct,15-Dec,-4.744387656
+211,ILNLF,INV Metals Inc,0.344920009,FALSE,2009,,21-Mar,4-Jun,2,2,9,9,21-Mar,4-Jun,10.8206782
+212,INUV,Inuvo Inc,0.353899986,FALSE,2009,,2-Oct,16-Dec,4,4,7,7,2-Oct,16-Dec,10.52672648
+213,IUTMF,Inui Global Logistics Co Ltd,11.14999962,TRUE,2020,,,,,,,,,,
+214,ISRG,Intuitive Surgical Inc,733.3800049,FALSE,2009,,13-Nov,27-Jan,9,9,2,2,13-Nov,27-Jan,8.713827107
+215,INTU,Intuit Inc,354.7399902,FALSE,2009,,24-Dec,9-Mar,10,10,1,1,24-Dec,9-Mar,7.227495495
+216,CCRGF,Intu Properties PLC,0.058400001,TRUE,2012,,,,,,,,,,
+217,INTZ,Intrusion Inc,11.57999992,FALSE,2009,,6-Jul,19-Sep,3,3,8,8,6-Jul,19-Sep,22.16265227
+218,INJJF,Intrum AB,$13.10 ,TRUE,,'Date',,,,,,,,,
+219,ITJTY,Intrum AB,30,TRUE,2018,,,,,,,,,,
+220,ISYRF,Intrinsyc Technologies Corp,$1.34 ,TRUE,,No data fetched for symbol ISYRF using YahooDailyReader,,,,,,,,,
+221,IIN,IntriCon Corp,15.85999966,FALSE,2009,,15-Aug,29-Oct,6,6,5,5,15-Aug,29-Oct,7.189011296
+222,IPI,Intrepid Potash Inc,11.07999992,FALSE,2009,,9-Nov,23-Jan,3,3,8,8,9-Nov,23-Jan,-3.580913609
+223,ITPC,Intrepid Capital Corp,194.9499969,FALSE,2010,,20-Jun,3-Sep,5,5,5,5,20-Jun,3-Sep,-2.422616185
+224,IRLTY,Intralot SA,0.158999994,TRUE,2013,,,,,,,,,,
+225,IRLTF,Intralot SA,0.178029999,TRUE,2013,,,,,,,,,,
+226,IL,IntraLinks Holdings Inc,$13.01 ,TRUE,,'Date',,,,,,,,,
+227,ITCI,Intra-Cellular Therapies Inc,26.02000046,TRUE,2014,,,,,,,,,,
+228,INXSF,Intouch Insight Ltd,0.360000014,TRUE,2012,,,,,,,,,,
+229,SHNVF,Intouch Holdings PCL,$1.49 ,TRUE,,No data fetched for symbol SHNVF using YahooDailyReader,,,,,,,,,
+230,SHNUF,Intouch Holdings PCL,1.629999995,TRUE,2012,,,,,,,,,,
+231,INTHY,Intouch Holdings PCL,$6.74 ,TRUE,,No data fetched for symbol INTHY using YahooDailyReader,,,,,,,,,
+232,INTIY,Intime Retail (Group) Co Ltd,$18.70 ,TRUE,,No data fetched for symbol INTIY using YahooDailyReader,,,,,,,,,
+233,INTIF,Intime Retail (Group) Co Ltd,$0.80 ,TRUE,,No data fetched for symbol INTIF using YahooDailyReader,,,,,,,,,
+234,IDMNF,Intigold Mines Ltd,0.017999999,TRUE,2014,,,,,,,,,,
+235,IVAC,Intevac Inc,6.159999847,FALSE,2009,,1-Nov,15-Jan,6,6,5,5,1-Nov,15-Jan,11.94597746
+236,INTT,inTest Corp,5.409999847,FALSE,2009,,6-Nov,20-Jan,6,6,5,5,6-Nov,20-Jan,13.93230194
+237,ISNPY,Intesa Sanpaolo,13.30000019,FALSE,2009,,6-Jul,19-Sep,6,6,5,5,6-Jul,19-Sep,5.583094851
+238,IITSF,Intesa Sanpaolo,2.214999914,FALSE,2009,,6-Jul,19-Sep,6,6,5,5,6-Jul,19-Sep,4.879323965
+239,IITOF,Intesa Sanpaolo,2.890000105,TRUE,2014,,,,,,,,,,
+240,INXN,InterXion Holding NV,$77.41 ,TRUE,,No data fetched for symbol INXN using YahooDailyReader,,,,,,,,,
+241,ITWR,Interworld Corp,$0.08 ,TRUE,,'Date',,,,,,,,,
+242,ITUP,Interups Inc,4.25,TRUE,2016,,,,,,,,,,
+243,ITRUF,Intertrust NV,17.56040001,TRUE,2016,,,,,,,,,,
+244,IKTSY,Intertek Group PLC,80.48999786,TRUE,2012,,,,,,,,,,
+245,IKTSF,Intertek Group PLC,77.61000061,FALSE,2009,,12-Mar,26-May,7,7,4,4,22-Jun,5-Sep,6.670162673
+246,ITPOF,Intertape Polymer Group Inc,16.5,FALSE,2009,,4-Nov,18-Jan,6,6,5,5,4-Nov,18-Jan,11.69405427
+247,ITCLF,Interspace Co Ltd,$9.50 ,TRUE,,No data fetched for symbol ITCLF using YahooDailyReader,,,,,,,,,
+248,ISIL,Intersil Corp,$22.49 ,TRUE,,'Date',,,,,,,,,
+249,ITSHF,Intershop Communications AG,1.070000052,TRUE,2013,,,,,,,,,,
+250,ISVJY,Interserve PLC,$0.01 ,TRUE,,No data fetched for symbol ISVJY using YahooDailyReader,,,,,,,,,
+251,INTX,Intersections Inc,3.670000076,TRUE,2012,,,,,,,,,,
+252,XENT,Intersect ENT Inc,18.12000084,TRUE,2014,,,,,,,,,,
+253,IRRHF,Interroll Holding Ltd,2655.909912,TRUE,2012,,,,,,,,,,
+254,IIPZF,InterRent Real Estate Investment Trust,10.88910007,FALSE,2009,,22-Mar,5-Jun,7,6,4,5,21-Feb,6-May,6.613070826
+255,IRRSF,Interra Resources Ltd,$0.04 ,TRUE,,No data fetched for symbol IRRSF using YahooDailyReader,,,,,,,,,
+256,IPGLF,Interpump Group SpA,30.25,TRUE,2012,,,,,,,,,,
+257,IPV,InterPrivate Acquisition Corp,10.07999992,TRUE,2020,,,,,,,,,,
+258,IRPXF,Interplex Holdings Ltd,$0.54 ,TRUE,,No data fetched for symbol IRPXF using YahooDailyReader,,,,,,,,,
+259,IPLY,Interplay Entertainment Corp,0.01143,FALSE,2009,,29-Sep,13-Dec,3,3,8,8,29-Sep,13-Dec,11.54987786
+260,ITRYY,Interpipe Nyzhnodniprovsky Tube-Rolling Plant PJSC,$2.50 ,TRUE,,No data fetched for symbol ITRYY using YahooDailyReader,,,,,,,,,
+261,INPHQ,Interphase Corp,0.104000002,TRUE,2012,,,,,,,,,,
+262,IDXG,Interpace Biosciences Inc,2.880000114,FALSE,2009,,25-May,8-Aug,5,5,6,6,25-May,8-Aug,-0.078093782
+263,IROIF,InterOil Exploration and Production ASA,$0.70 ,TRUE,,No data fetched for symbol IROIF using YahooDailyReader,,,,,,,,,
+264,IOC,InterOil Corp,$48.36 ,TRUE,,'Date',,,,,,,,,
+265,INTQF,InternetQ PLC,$2.35 ,TRUE,,No data fetched for symbol INTQF using YahooDailyReader,,,,,,,,,
+266,IIJIF,Internet Initiative Japan Inc,46.18000031,TRUE,2017,,,,,,,,,,
+267,IIJIY,Internet Initiative Japan Inc,23.07999992,TRUE,2019,,,,,,,,,,
+268,ITNF,Internet Infinity Inc,0.018999999,TRUE,2012,,,,,,,,,,
+269,IGLDF,Internet Gold-Golden Lines Ltd,5,FALSE,2009,,19-Aug,2-Nov,3,3,8,8,19-Aug,2-Nov,9.650612173
+270,GEEK,Internet America Inc,0.039999999,TRUE,2016,,,,,,,,,,
+271,IZCFF,International Zeolite Corp,0.059999999,FALSE,2010,,14-Mar,28-May,2,2,8,8,14-Mar,28-May,17.9942275
+272,ITWG,International Wire Group Holdings Inc,$10.60 ,TRUE,,No data fetched for symbol ITWG using YahooDailyReader,,,,,,,,,
+273,THM,International Tower Hill Mines Ltd,1.470000029,FALSE,2009,,26-Nov,9-Feb,3,3,8,8,26-Nov,9-Feb,12.20213872
+274,ITXN,International Textile Group Inc,$0.25 ,TRUE,,'Date',,,,,,,,,
+275,ISCO,International Stem Cell Corp,0.532500029,FALSE,2009,,27-Dec,12-Mar,7,7,4,4,27-Dec,12-Mar,8.805035324
+276,ISCB,International Speedway Corp,$45.09 ,TRUE,,No data fetched for symbol ISCB using YahooDailyReader,,,,,,,,,
+277,ISCA,International Speedway Corp,$44.99 ,TRUE,,No data fetched for symbol ISCA using YahooDailyReader,,,,,,,,,
+278,ISLV,International Silver Inc,0.017999999,TRUE,2012,,,,,,,,,,
+279,ISHCQ,International Shipholding Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+280,INSW,International Seaways Inc,16.53000069,TRUE,2016,,,,,,,,,,
+281,ISGI,International Safety Group Inc,0.100000001,TRUE,2019,,,,,,,,,,
+282,IRDYF,International Road Dynamics Inc,$3.08 ,TRUE,,'Date',,,,,,,,,
+283,IRNG,International Ranger Corp,0.0055,FALSE,2009,,2-Jan,17-Mar,7,7,4,4,2-Jan,17-Mar,13.56033793
+284,URANF,International Prospect Ventures Ltd,0.090599999,TRUE,2012,,,,,,,,,,
+285,IPCFF,International Petroleum Corp,1.791800022,TRUE,2017,,,,,,,,,,
+286,IPFPF,International Personal Finance PLC,2,TRUE,2012,,,,,,,,,,
+287,IPKSF,International Parkside Products Inc,$0.05 ,TRUE,,No data fetched for symbol IPKSF using YahooDailyReader,,,,,,,,,
+288,IP,International Paper Co,49.56000137,FALSE,2009,,29-Sep,13-Dec,5,5,6,6,29-Sep,13-Dec,8.254146176
+289,IMTFF,International Montoro Resources Inc,0.050969999,TRUE,2012,,,,,,,,,,
+290,IMXI,International Money Express Inc,15.68000031,TRUE,2017,,,,,,,,,,
+291,ITNM,International Monetary Systems Ltd,4.5,FALSE,2009,,6-Sep,20-Nov,1,1,10,10,6-Sep,20-Nov,9.853610622
+292,IMLMF,International Millennium Mining Corp,$0.01 ,TRUE,,No data fetched for symbol IMLMF using YahooDailyReader,,,,,,,,,
+293,IMLLF,International Meal Co Alimentacao SA,$2.24 ,TRUE,,No data fetched for symbol IMLLF using YahooDailyReader,,,,,,,,,
+294,ILXP,International Luxury Products Inc,$0.20 ,TRUE,,'Date',,,,,,,,,
+295,ITSI,International Lottery & Totalizator Systems,$1.33 ,TRUE,,'Date',,,,,,,,,
+296,ILHMF,International Lithium Corp,0.029999999,TRUE,2012,,,,,,,,,,
+297,ILCC,International Leaders Capital Corp,0.01,TRUE,2017,,,,,,,,,,
+298,ILAL,International Land Alliance Inc,0.560000002,TRUE,2019,,,,,,,,,,
+299,INIS,International Isotopes Inc,0.0491,FALSE,2009,,26-Jul,9-Oct,4,4,7,7,26-Jul,9-Oct,7.730648262
+300,IGIC,International General Insurance Holdings Ltd,7.570000172,TRUE,2018,,,,,,,,,,
+301,IGT,International Game Technology PLC,12.06999969,FALSE,2009,,9-Mar,23-May,4,4,7,7,9-Mar,23-May,6.985561781
+302,IFRTF,International Frontier Resources Corp,0.0135,FALSE,2009,,2-Jul,15-Sep,5,5,6,6,2-Jul,15-Sep,-7.157014462
+303,IFF,International Flavors & Fragrances Inc,112.3899994,FALSE,2009,,22-Feb,7-May,7,7,4,4,11-Mar,25-May,5.226289891
+304,IDVV,International Endeavors Corp,0.0079,TRUE,2017,,,,,,,,,,
+305,IDAD,International Display Advertising Inc,2.5,FALSE,2009,,11-Jan,26-Mar,6,6,5,5,11-Jan,26-Mar,8.162136071
+306,IDND,International Dispensing Corp,0.119999997,FALSE,2009,,28-Dec,13-Mar,7,7,4,4,28-Dec,13-Mar,11.03803665
+307,ILDO,International Daleco Corp,0.016000001,FALSE,2009,,12-Jan,27-Mar,6,6,5,5,12-Jan,27-Mar,15.06071103
+308,ICTEF,International Container Terminal Services Inc,2.140000105,TRUE,2013,,,,,,,,,,
+309,LBHRF,International Consolidated Uranium Inc,0.404100001,TRUE,2015,,,,,,,,,,
+310,ICAGY,International Consolidated Airlines Group SA,4.180099964,FALSE,2009,,11-Nov,25-Jan,6,6,5,5,11-Nov,25-Jan,7.836037532
+311,BABWF,International Consolidated Airlines Group SA,2.11500001,FALSE,2009,,1-Oct,15-Dec,7,7,4,4,1-Oct,15-Dec,10.94335347
+312,COBAF,International Cobalt Corp,0.00865,TRUE,2017,,,,,,,,,,
+313,ILCN,International City Bank,$0.02 ,TRUE,,No data fetched for symbol ILCN using YahooDailyReader,,,,,,,,,
+314,WWCC,International Child Care Corp,$0.07 ,TRUE,,No data fetched for symbol WWCC using YahooDailyReader,,,,,,,,,
+315,ICRD,International Card Establishment Inc,0.027000001,TRUE,2012,,,,,,,,,,
+316,ICQLF,International Capital Equipment Ltd,$0.03 ,TRUE,,No data fetched for symbol ICQLF using YahooDailyReader,,,,,,,,,
+317,IBM,International Business Machines Corp,116.7699966,FALSE,2009,,17-Dec,2-Mar,7,7,4,4,22-Jan,6-Apr,3.509009562
+318,IHLHF,International Bethlehem Mining Corp,0.0164,TRUE,2013,,,,,,,,,,
+319,RHHNF,International Battery Metals Ltd,0.109999999,TRUE,2017,,,,,,,,,,
+320,IBTGF,International Barrier Technology Inc,$0.41 ,TRUE,,'Date',,,,,,,,,
+321,IBOC,International Bancshares Corp,32.09999847,FALSE,2009,,4-Sep,18-Nov,5,5,6,6,26-Sep,10-Dec,7.766551943
+322,IBAL,International Baler Corp,1.269999981,FALSE,2009,,1-Apr,15-Jun,5,5,6,6,1-Apr,15-Jun,7.583631852
+323,IAUS,International Automated Systems Inc,$0.04 ,TRUE,,No data fetched for symbol IAUS using YahooDailyReader,,,,,,,,,
+324,INAPQ,Internap Corp,$0.08 ,TRUE,,No data fetched for symbol INAPQ using YahooDailyReader,,,,,,,,,
+325,ICMVF,Internacional de Ceramica SAB de CV,$2.10 ,TRUE,,No data fetched for symbol ICMVF using YahooDailyReader,,,,,,,,,
+326,IMI,Intermolecular Inc,$1.20 ,TRUE,,No data fetched for symbol IMI using YahooDailyReader,,,,,,,,,
+327,ICGUF,Intermediate Capital Group PLC,16.17000008,TRUE,2013,,,,,,,,,,
+328,ITMSF,Intermap Technologies Corp,0.635699987,FALSE,2010,,3-Jun,17-Aug,5,5,5,5,3-Jun,17-Aug,16.15667587
+329,ITLK,Interlink Products International Inc,0.01,TRUE,2012,,,,,,,,,,
+330,LINK,Interlink Electronics Inc,8.380000114,FALSE,2009,,26-Dec,11-Mar,8,8,3,3,26-Dec,11-Mar,15.03750192
+331,INLAF,Interlapse Technologies Corp,0.2183,TRUE,2014,,,,,,,,,,
+332,IFSPF,Interfor Corp,14.12486744,FALSE,2009,,7-Dec,20-Feb,7,7,4,4,7-Dec,20-Feb,9.940346432
+333,TILE,Interface Inc,8.180000305,FALSE,2009,,10-Feb,25-Apr,7,7,4,4,10-Feb,25-Apr,0.859295179
+334,ITDN,Interdyne Co,0.022600001,TRUE,2012,,,,,,,,,,
+335,IDCC,InterDigital Inc,59.99000168,FALSE,2009,,3-Mar,17-May,7,7,4,4,3-Mar,17-May,0.316799616
+336,IRCLF,Intercure Ltd,0.800000012,TRUE,2019,,,,,,,,,,
+337,IFS,Intercorp Financial Services Inc,25.02000046,TRUE,2019,,,,,,,,,,
+338,ICOR,InterCore Inc,$0.07 ,TRUE,,'Date',,,,,,,,,
+339,ICHGF,InterContinental Hotels Group PLC,61,TRUE,2012,,,,,,,,,,
+340,IHG,InterContinental Hotels Group PLC,60.31999969,FALSE,2009,,19-Oct,2-Jan,7,7,4,4,19-Oct,2-Jan,8.228414316
+341,GXMLF,Intercontinental Gold And Metals Ltd,0.093000002,FALSE,2009,,22-Dec,7-Mar,6,6,5,5,22-Dec,7-Mar,5.816064118
+342,ICE,Intercontinental Exchange Inc,99.45999908,FALSE,2009,,2-Aug,16-Oct,6,6,5,5,6-Apr,20-Jun,7.881284571
+343,IESFY,Interconexion Electrica SA ESP,132,FALSE,2009,,1-Jun,15-Aug,5,5,6,6,1-Jun,15-Aug,5.357851358
+344,ICPT,Intercept Pharmaceuticals Inc,37.36000061,TRUE,2012,,,,,,,,,,
+345,IESCF,Intercept Energy Services Inc,0.01705,TRUE,2012,,,,,,,,,,
+346,IRCDF,Intercede Group PLC,0.293000013,TRUE,2019,,,,,,,,,,
+347,ICCO,Intercare DX Inc,0.034499999,TRUE,2012,,,,,,,,,,
+348,IALS,InterActive Leisure Systems Inc,0.019125,TRUE,2012,,,,,,,,,,
+349,ININ,Interactive Intelligence Group Inc,$60.50 ,TRUE,,'Date',,,,,,,,,
+350,IBKR,Interactive Brokers Group Inc,52.75999832,FALSE,2009,,27-Oct,10-Jan,4,4,7,7,23-Oct,6-Jan,6.958805064
+351,IHGP,Interact Holdings Group Inc,0.023800001,FALSE,2009,,29-Sep,13-Dec,2,2,8,8,29-Sep,13-Dec,-16.4055929
+352,IRCKF,Inter-Rock Minerals Inc,0.252000004,TRUE,2013,,,,,,,,,,
+353,IPPLF,Inter Pipeline Ltd,9.420000076,FALSE,2010,,17-Mar,31-May,5,5,5,5,15-Mar,29-May,6.09819608
+354,IPAR,Inter Parfums Inc,53.27000046,FALSE,2009,,25-Sep,9-Dec,8,8,3,3,25-Sep,9-Dec,8.455351201
+355,IACYF,Inter Action Corp,17.64999962,TRUE,2018,,,,,,,,,,
+356,ITMZF,Intema Solutions Inc,0.023,TRUE,2020,,,,,,,,,,
+357,INTEQ,Intelsat SA,0.495050013,TRUE,2013,,,,,,,,,,
+358,IPCIF,IntelliPharmaCeutics International Inc,0.140100002,FALSE,2009,,23-Apr,7-Jul,7,7,4,4,23-Apr,7-Jul,2.168304905
+359,INLX,Intellinetics Inc,3.5,TRUE,2012,,,,,,,,,,
+360,INS,Intelligent Systems Corp,37.34000015,FALSE,2009,,7-Jul,20-Sep,8,7,3,4,7-Jul,20-Sep,14.70106898
+361,ITLL,Intelligent Cloud Resources Inc,0.0115,TRUE,2016,,,,,,,,,,
+362,IDN,Intellicheck Inc,9.680000305,FALSE,2009,,16-Apr,30-Jun,6,6,5,5,16-Apr,30-Jun,13.93274525
+363,NTLA,Intellia Therapeutics Inc,34.22999954,TRUE,2016,,,,,,,,,,
+364,CRBTF,Intellabridge Technology Corp,0.0104,TRUE,2018,,,,,,,,,,
+365,IQNT,Inteliquent Inc,$22.90 ,TRUE,,'Date',,,,,,,,,
+366,TIGLF,Intelicanna Ltd,$0.86 ,TRUE,,No data fetched for symbol TIGLF using YahooDailyReader,,,,,,,,,
+367,IGXT,Intelgenx Technologies Corp,0.239700004,FALSE,2009,,19-Nov,2-Feb,5,5,6,6,19-Nov,2-Feb,12.24152836
+368,IKMA,IntelaKare Marketing Inc,0.030999999,FALSE,2009,,3-Nov,17-Jan,2,2,8,8,3-Nov,17-Jan,15.93189973
+369,INTC,Intel Corp,45.06000137,FALSE,2009,,21-Oct,4-Jan,5,5,6,6,11-Feb,26-Apr,6.34311464
+370,IGAMF,Integrity Gaming Corp,$0.36 ,TRUE,,No data fetched for symbol IGAMF using YahooDailyReader,,,,,,,,,
+371,IGAP,Integrity Applications Inc,0.389999986,TRUE,2013,,,,,,,,,,
+372,IHTI,Integrative Health Technologies Inc,0.01,TRUE,2012,,,,,,,,,,
+373,INTV,Integrated Ventures Inc,0.024,TRUE,2017,,,,,,,,,,
+374,ISSI,Integrated Silicon Solution Inc,$22.91 ,TRUE,,'Date',,,,,,,,,
+375,IREHF,Integrated Research Ltd,2.720000029,TRUE,2013,,,,,,,,,,
+376,IMTE,Integrated Media Technology Ltd,4.300000191,TRUE,2017,,,,,,,,,,
+377,IGEZF,Integrated Green Energy Solutions Ltd,0.100000001,TRUE,2018,,,,,,,,,,
+378,IFHI,Integrated Financial Holdings Inc,21,TRUE,2020,,,,,,,,,,
+379,IRIG,Integrated Drilling Equipment Holdings Corp,0.02,TRUE,2012,,,,,,,,,,
+380,IDGXF,Integrated Diagnostics Holdings PLC,3.74000001,TRUE,2019,,,,,,,,,,
+381,IDTI,Integrated Device Technology Inc,48.99000168,TRUE,2012,,,,,,,,,,
+382,INBP,Integrated Biopharma Inc,0.600000024,FALSE,2009,,1-Apr,15-Jun,3,3,8,8,1-Apr,15-Jun,4.404967951
+383,ITGQF,Integrated Asset Management Corp,$1.99 ,TRUE,,No data fetched for symbol ITGQF using YahooDailyReader,,,,,,,,,
+384,ITKG,Integral Technologies Inc,0.0045,FALSE,2009,,17-Dec,2-Mar,6,6,5,5,17-Dec,2-Mar,10.20413074
+385,ITRG,Integra Resources Corp,3.289999962,TRUE,2020,,,,,,,,,,
+386,IART,Integra Lifesciences Holdings Corp,55.59000015,FALSE,2009,,22-Apr,6-Jul,8,8,3,3,22-Apr,6-Jul,6.378094803
+387,ICGQF,Integra Gold Corp,$0.70 ,TRUE,,No data fetched for symbol ICGQF using YahooDailyReader,,,,,,,,,
+388,ITGR,Integer Holdings Corp,71.87000275,FALSE,2009,,4-May,18-Jul,9,9,2,2,4-May,18-Jul,6.669714517
+389,IGRXF,Intega Group Ltd,0.170000002,TRUE,2020,,,,,,,,,,
+390,NTEC,Intec Pharma Ltd,3.200000048,TRUE,2015,,,,,,,,,,
+391,ITTGF,Intact Gold Corp,0.016000001,TRUE,2016,,,,,,,,,,
+392,IFCZF,Intact Financial Corp,112.8700027,FALSE,2010,,27-May,10-Aug,5,5,5,5,27-Jun,10-Sep,5.024757001
+393,INSYQ,Insys Therapeutics Inc,$0.04 ,TRUE,,No data fetched for symbol INSYQ using YahooDailyReader,,,,,,,,,
+394,IAUGY,Insurance Australia Group Ltd,17.70000076,FALSE,2010,,18-Feb,3-May,6,6,4,4,18-Feb,3-May,4.146132732
+395,IAUGF,Insurance Australia Group Ltd,3.950000048,TRUE,2012,,,,,,,,,,
+396,INSU,Insurance Acquisition Corp,11.65999985,TRUE,2019,,,,,,,,,,
+397,IGSTF,InsuraGuest Technologies Inc,0.134900004,TRUE,2020,,,,,,,,,,
+398,PODD,Insulet Corp,259.269989,FALSE,2009,,30-Apr,14-Jul,9,9,2,2,30-Apr,14-Jul,10.67644378
+399,INAQ,INSU Acquisition Corp II,9.75,TRUE,2020,,,,,,,,,,
+400,INST,Instructure Inc,$49.00 ,TRUE,,No data fetched for symbol INST using YahooDailyReader,,,,,,,,,
+401,ISTC,Instructivision Inc,0.0076,TRUE,2012,,,,,,,,,,
+402,IIISF,Instem PLC,$4.02 ,TRUE,,No data fetched for symbol IIISF using YahooDailyReader,,,,,,,,,
+403,IIIN,Insteel Industries Inc,24.98500061,FALSE,2009,,20-Oct,3-Jan,4,4,7,7,20-Oct,3-Jan,12.39143949
+404,IBP,Installed Building Products Inc,99.08999634,TRUE,2014,,,,,,,,,,
+405,NSPX,Inspyr Therapeutics Inc,0.012,FALSE,2009,,10-Jan,25-Mar,5,5,6,6,10-Jan,25-Mar,7.136064754
+406,INPRF,Inspur International Ltd,0.300000012,TRUE,2013,,,,,,,,,,
+407,NSPR,InspireMD Inc,0.360100001,TRUE,2011,,,,,,,,,,
+408,INSE,Inspired Entertainment Inc,5.599999905,TRUE,2014,,,,,,,,,,
+409,ROVOF,Inspired Capital PLC,$0.32 ,TRUE,,No data fetched for symbol ROVOF using YahooDailyReader,,,,,,,,,
+410,ISRB,Inspired Builders Inc,0.180000007,TRUE,2012,,,,,,,,,,
+411,INSP,Inspire Medical Systems Inc,172.9799957,TRUE,2018,,,,,,,,,,
+412,ILDIA,Inspiration Lead Co Inc,0.059999999,TRUE,2012,,,,,,,,,,
+413,NSP,Insperity Inc,85.66999817,FALSE,2009,,20-Aug,3-Nov,6,6,5,5,20-Aug,3-Nov,6.966338001
+414,INSM,Insmed Inc,39.38000107,FALSE,2009,,13-Apr,27-Jun,7,7,4,4,13-Apr,27-Jun,9.374935584
+415,INSV,InSite Vision Inc,$0.35 ,TRUE,,'Date',,,,,,,,,
+416,ISIG,Insignia Systems Inc,0.859899998,FALSE,2009,,9-Aug,23-Oct,5,5,6,6,9-Aug,23-Oct,7.679830032
+417,INSI,Insight Select Income Fund,20.92000008,FALSE,2009,,7-Jul,20-Sep,10,10,1,1,29-Dec,14-Mar,2.720280199
+418,NSIT,Insight Enterprises Inc,70.26999664,FALSE,2009,,10-Nov,24-Jan,9,9,2,2,10-Nov,24-Jan,9.744216512
+419,INSG,Inseego Corp,9.340000153,FALSE,2009,,13-May,27-Jul,5,5,6,6,13-May,27-Jul,2.129078065
+420,IBTN,InsCorp Inc,14.10000038,TRUE,2018,,,,,,,,,,
+421,ICPBF,Inscape Corp,0.729600012,FALSE,2009,,8-Nov,22-Jan,4,4,6,6,8-Nov,22-Jan,9.352172491
+422,INREF,InRetail Peru Corp,34.20000076,TRUE,2019,,,,,,,,,,
+423,INRD,Inrad Optics Inc,0.569999993,FALSE,2009,,20-Jan,4-Apr,8,8,3,3,20-Jan,4-Apr,11.89953398
+424,INPCF,Input Capital Corp,0.670000017,TRUE,2013,,,,,,,,,,
+425,IPOOF,InPlay Oil Corp,0.155000001,TRUE,2017,,,,,,,,,,
+426,INPX,Inpixon,1.049999952,TRUE,2012,,,,,,,,,,
+427,IPHI,Inphi Corp,147.6499939,FALSE,2010,,27-Oct,10-Jan,6,6,4,4,27-Oct,10-Jan,11.37768898
+428,IPXHY,Inpex Corp,5.53000021,FALSE,2010,,6-Aug,20-Oct,5,5,5,5,6-Aug,20-Oct,2.496273847
+429,IPXHF,Inpex Corp,6.190000057,TRUE,2013,,,,,,,,,,
+430,INZY,Inozyme Pharma Inc,26.84000015,TRUE,2020,,,,,,,,,,
+431,INO,Inovio Pharmaceuticals Inc,11.03999996,FALSE,2009,,22-Jan,6-Apr,6,6,5,5,22-Jan,6-Apr,11.5116496
+432,INOV,Inovalon Holdings Inc,18.54000092,TRUE,2015,,,,,,,,,,
+433,IVREF,Inovalis Real Estate Investment Trust,6.579899788,TRUE,2016,,,,,,,,,,
+434,INGN,Inogen Inc,34.40999985,TRUE,2014,,,,,,,,,,
+435,IVRVF,InnVest Real Estate Investment Trust,$5.51 ,TRUE,,'Date',,,,,,,,,
+436,IHT,InnSuites Hospitality Trust,2.309999943,FALSE,2009,,11-Nov,25-Jan,6,6,5,5,10-Apr,24-Jun,7.319739159
+437,INNV,Innovus Pharmaceuticals Inc,$1.23 ,TRUE,,No data fetched for symbol INNV using YahooDailyReader,,,,,,,,,
+438,INVA,Innoviva Inc,11.06000042,FALSE,2009,,1-Feb,16-Apr,5,5,6,6,1-Feb,16-Apr,10.12589565
+439,INVS,InnoVision Labs Inc,0.045000002,TRUE,2012,,,,,,,,,,
+440,IVST,Innovest Global Inc,0.218999997,FALSE,2009,,13-Apr,27-Jun,4,4,7,7,13-Apr,27-Jun,5.428647945
+441,IVBXF,Innovent Biologics Inc,6.980000019,TRUE,2019,,,,,,,,,,
+442,IVBIY,Innovent Biologics Inc,$13.00 ,TRUE,,No data fetched for symbol IVBIY using YahooDailyReader,,,,,,,,,
+443,ISSC,Innovative Solutions and Support Inc,6.28000021,FALSE,2009,,4-Dec,17-Feb,7,7,4,4,4-Dec,17-Feb,10.67858158
+444,INNBF,Innovative Pharmaceutical Biotech Ltd,0.02,TRUE,2018,,,,,,,,,,
+445,IPSI,Innovative Payment Solutions Inc,0.021500001,TRUE,2016,,,,,,,,,,
+446,IIPR,Innovative Industrial Properties Inc,150.0700073,TRUE,2016,,,,,,,,,,
+447,IHAI,Innovative Holdings Alliance Inc,0.0055,TRUE,2012,,,,,,,,,,
+448,IVFH,Innovative Food Holdings Inc,0.300000012,TRUE,2012,,,,,,,,,,
+449,IVDN,Innovative Designs Inc,0.406300008,FALSE,2009,,12-Dec,25-Feb,6,6,5,5,12-Dec,25-Feb,10.63416665
+450,IPIX,Innovation Pharmaceuticals Inc,0.177100003,FALSE,2009,,4-Mar,18-May,3,3,8,8,4-Mar,18-May,17.26515541
+451,INVGF,Innovation Group (The) PLC,$0.60 ,TRUE,,'Date',,,,,,,,,
+452,INNI,Innovaro Inc,0.0029,FALSE,2009,,11-Dec,24-Feb,7,7,4,4,11-Dec,24-Feb,17.92450753
+453,INOQ,InnovaQor Inc,1.049999952,TRUE,2020,,,,,,,,,,
+454,INDPF,InnovaDerma PLC,0.529999971,TRUE,2020,,,,,,,,,,
+455,IVGMF,Innova Gaming Group Inc,$1.99 ,TRUE,,No data fetched for symbol IVGMF using YahooDailyReader,,,,,,,,,
+456,IOSP,Innospec Inc,80.76999664,FALSE,2009,,26-Sep,10-Dec,6,6,5,5,28-Aug,11-Nov,9.014280226
+457,IPHS,Innophos Holdings Inc,$31.99 ,TRUE,,No data fetched for symbol IPHS using YahooDailyReader,,,,,,,,,
+458,INNYY,innogy SE,$24.04 ,TRUE,,No data fetched for symbol INNYY using YahooDailyReader,,,,,,,,,
+459,INOD,Innodata Inc,3.75,FALSE,2009,,5-Nov,19-Jan,2,2,9,9,5-Nov,19-Jan,4.973944478
+460,INNL,Innocoll Holdings PLC,$2.35 ,TRUE,,'Date',,,,,,,,,
+461,INNO,Innocap Inc,0.054000001,TRUE,2013,,,,,,,,,,
+462,INWK,InnerWorkings Inc,2.99000001,FALSE,2009,,22-Apr,6-Jul,5,5,6,6,22-Apr,6-Jul,7.517231734
+463,INGXF,Innergex Renewable Energy Inc,17.86300087,FALSE,2010,,16-May,30-Jul,4,4,6,6,20-May,3-Aug,3.101787638
+464,INSHF,Inner Spirit Holdings Ltd,0.0995,TRUE,2018,,,,,,,,,,
+465,IPHYF,Innate Pharma SA,5.039999962,TRUE,2015,,,,,,,,,,
+466,IPHA,Innate Pharma SA,5.119999886,TRUE,2019,,,,,,,,,,
+467,INMB,INmune Bio Inc,8.729999542,TRUE,2019,,,,,,,,,,
+468,INMD,InMode Ltd,42.75999832,TRUE,2019,,,,,,,,,,
+469,IMQCF,Inmobiliaria Colonial SOCIMI SA,7.467899799,TRUE,2014,,,,,,,,,,
+470,INM,InMed Pharmaceuticals Inc,3.529999971,TRUE,2014,,,,,,,,,,
+471,IMASY,Inmarsat PLC,$6.85 ,TRUE,,No data fetched for symbol IMASY using YahooDailyReader,,,,,,,,,
+472,IMASF,Inmarsat PLC,8.800000191,FALSE,2010,,6-Apr,20-Jun,5,5,5,5,6-Feb,21-Apr,5.891004815
+473,INRE,Inland Real Estate Income Trust Inc,$19.63 ,TRUE,,No data fetched for symbol INRE using YahooDailyReader,,,,,,,,,
+474,IRC,Inland Real Estate Corp,1.99000001,TRUE,2019,,,,,,,,,,
+475,INZZZ,Inland Land Appreciation Fund LP,$100.00 ,TRUE,,No data fetched for symbol INZZZ using YahooDailyReader,,,,,,,,,
+476,INTO,Initio Inc,0.560000002,TRUE,2017,,,,,,,,,,
+477,IVTFF,init innovation in traffic systems SE,15.60000038,TRUE,2013,,,,,,,,,,
+478,INBX,Inhibrx Inc,22.97999954,TRUE,2020,,,,,,,,,,
+479,INTI,Inhibitor Therapeutics Inc,0.037999999,TRUE,2013,,,,,,,,,,
+480,BCDH,ingXabo Corp,$0.05 ,TRUE,,No data fetched for symbol BCDH using YahooDailyReader,,,,,,,,,
+481,INGR,Ingredion Inc,76.76999664,FALSE,2009,,25-Sep,9-Dec,6,6,5,5,25-Sep,9-Dec,7.81646138
+482,IM,Ingram Micro Inc,2145.129883,TRUE,2019,,,,,,,,,,
+483,IMKTA,Ingles Markets Inc,36.40000153,FALSE,2009,,22-Sep,6-Dec,4,4,7,7,24-Sep,8-Dec,4.801883978
+484,NGVT,Ingevity Corp,66.30999756,TRUE,2016,,,,,,,,,,
+485,IR,Ingersoll Rand Inc,43.90999985,TRUE,2017,,,,,,,,,,
+486,INGLF,Ingenta PLC,$1.72 ,TRUE,,No data fetched for symbol INGLF using YahooDailyReader,,,,,,,,,
+487,INGIY,Ingenico Group SA,28.66500092,TRUE,2012,,,,,,,,,,
+488,INGIF,Ingenico Group SA,122.5370026,TRUE,2016,,,,,,,,,,
+489,INGEF,Ingenia Communities Group,3.289999962,TRUE,2020,,,,,,,,,,
+490,INGVF,ING Groep NV,9.149999619,FALSE,2010,,19-May,2-Aug,6,6,4,4,30-Aug,13-Nov,6.280729246
+491,ING,ING Groep NV,9.069999695,FALSE,2009,,12-Aug,26-Oct,7,7,4,4,12-Aug,26-Oct,6.084857573
+492,INFU,InfuSystems Holdings Inc,14.82999992,FALSE,2009,,10-Nov,24-Jan,7,7,4,4,10-Nov,24-Jan,12.81128042
+493,IFUUF,Infratil Ltd,3.329999924,TRUE,2018,,,,,,,,,,
+494,IFSUF,Infrastrutture Wireless Italiane SpA,11.94999981,TRUE,2017,,,,,,,,,,
+495,IEA,Infrastructure and Energy Alternatives Inc,11.60000038,TRUE,2016,,,,,,,,,,
+496,HIFR,InfraREIT Inc,$21.11 ,TRUE,,No data fetched for symbol HIFR using YahooDailyReader,,,,,,,,,
+497,IENVF,Infraestructura Energetica Nova SAB de CV,3.799999952,TRUE,2013,,,,,,,,,,
+498,INFY,Infosys Ltd,14.98999977,FALSE,2009,,12-Nov,26-Jan,8,8,3,3,12-Nov,26-Jan,8.411001426
+499,ISHM,InfoSearch Media Inc,0.0057,FALSE,2009,,23-Mar,6-Jun,5,5,6,6,23-Mar,6-Jun,17.47344389
+500,III,Information Services Group Inc,2.690000057,FALSE,2009,,30-Dec,15-Mar,8,8,3,3,30-Dec,15-Mar,7.590728942
+501,IRMTF,Information Services Corp,13.83310032,TRUE,2016,,,,,,,,,,
+502,IAIC,Information Analysis Inc,0.839999974,FALSE,2009,,30-Jan,14-Apr,6,6,5,5,30-Jan,14-Apr,10.32949205
+503,IFPJF,Informa PLC,6.048999786,TRUE,2014,,,,,,,,,,
+504,IFJPY,Informa PLC,15.78999996,TRUE,2011,,,,,,,,,,
+505,INOW,InfoNow Corp,0.00325,FALSE,2009,,14-Jan,29-Mar,4,4,7,7,14-Jan,29-Mar,19.81210983
+506,IFMDF,Infomedia Ltd,0.569999993,TRUE,2018,,,,,,,,,,
+507,IFMOF,Infomart Corp,$8.80 ,TRUE,,No data fetched for symbol IFMOF using YahooDailyReader,,,,,,,,,
+508,BLOX,Infoblox Inc,$26.45 ,TRUE,,'Date',,,,,,,,,
+509,AUCUF,Inflection Resources Ltd,0.294,TRUE,2020,,,,,,,,,,
+510,IFRX,InflaRx NV,4,TRUE,2017,,,,,,,,,,
+511,IPCC,Infinity Property and Casualty Corp,142.8000031,TRUE,2012,,,,,,,,,,
+512,INFI,Infinity Pharmaceuticals Inc,1.769999981,FALSE,2009,,7-Jan,22-Mar,8,8,3,3,7-Jan,22-Mar,10.39849246
+513,IFNY,Infinity Energy Resources Inc,0.148200005,FALSE,2009,,7-Aug,21-Oct,4,4,7,7,7-Aug,21-Oct,5.064678301
+514,INFT,Infinity Bank Santa Ana California,9.199999809,TRUE,2018,,,,,,,,,,
+515,ALSO,Infinity Augmented Reality Inc,$0.04 ,TRUE,,'Date',,,,,,,,,
+516,ARXRF,Infinite Ore Corp,0.049400002,TRUE,2012,,,,,,,,,,
+517,INNX,Infinite Networks Corp,0.0107,TRUE,2012,,,,,,,,,,
+518,IMCI,Infinite Group Inc,0.111000001,FALSE,2009,,7-Apr,21-Jun,3,3,8,8,7-Apr,21-Jun,18.85233883
+519,INFG,Infinite Graphics Inc,600,TRUE,2012,,,,,,,,,,
+520,INFSY,Infinis Energy PLC,$10.80 ,TRUE,,No data fetched for symbol INFSY using YahooDailyReader,,,,,,,,,
+521,INFN,Infinera Corp,6.989999771,FALSE,2009,,31-Jan,15-Apr,6,6,5,5,31-Jan,15-Apr,9.146419924
+522,IFNNY,Infineon Technologies AG,31.62000084,FALSE,2009,,10-Nov,24-Jan,9,9,2,2,10-Nov,24-Jan,10.42279441
+523,IFNNF,Infineon Technologies AG,31.89999962,FALSE,2009,,20-Nov,3-Feb,9,9,2,2,20-Nov,3-Feb,10.65671256
+524,IFGNF,Infigen Energy,0.620000005,FALSE,2009,,6-Jun,20-Aug,6,6,5,5,6-Jun,20-Aug,8.51220011
+525,IFCNF,Inficon Holding AG,735,TRUE,2013,,,,,,,,,,
+526,NRGM,Inergy Midstream LP,$23.39 ,TRUE,,'Date',,,,,,,,,
+527,NEMD,iNeedMD Holdings Inc,0.200000003,TRUE,2016,,,,,,,,,,
+528,CAAOF,INDVR Brands Inc,0.068439998,TRUE,2019,,,,,,,,,,
+529,IDDWF,Indutrade AB,24,TRUE,2018,,,,,,,,,,
+530,INSO,Industry Source Consulting Inc,0.045000002,TRUE,2012,,,,,,,,,,
+531,IDDTF,Industrivarden AB,$17.43 ,TRUE,,No data fetched for symbol IDDTF using YahooDailyReader,,,,,,,,,
+532,IDTVF,Industrivarden AB,19.73699951,TRUE,2013,,,,,,,,,,
+533,IPOAF,Industrias Penoles SAB de CV,15.18999958,FALSE,2009,,6-May,20-Jul,4,4,7,7,23-Jun,6-Sep,8.4137556
+534,ICHBF,Industrias Ch SAB de CV,3.201600075,TRUE,2017,,,,,,,,,,
+535,IDBHF,Industrias Bachoco SAB de CV,3.099999905,TRUE,2016,,,,,,,,,,
+536,IBA,Industrias Bachoco SAB de CV,39.54999924,FALSE,2009,,30-Jun,13-Sep,9,9,2,2,28-Feb,13-May,5.828525459
+537,IDXMF,Industrialex Manufacturing Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+538,ITAC,Industrial Tech Acquisitions Inc,9.720000267,TRUE,2020,,,,,,,,,,
+539,ILPT,Industrial Logistics Properties Trust,21.55999947,TRUE,2018,,,,,,,,,,
+540,IDCBY,Industrial And Commercial Bank Of China Ltd,12.05000019,FALSE,2010,,26-Sep,10-Dec,5,5,5,5,26-Sep,10-Dec,7.03679873
+541,IDCBF,Industrial And Commercial Bank Of China Ltd,0.610000014,FALSE,2009,,13-May,27-Jul,5,5,6,6,22-Sep,6-Dec,6.23659032
+542,IAFSF,Industrial & Financial Systems AB,$29.85 ,TRUE,,'Date',,,,,,,,,
+543,IMCUF,Industria Macchine Automatiche SpA,51.46749878,TRUE,2020,,,,,,,,,,
+544,IDEXY,Industria De Diseno Textil SA,16.19000053,FALSE,2010,,18-May,1-Aug,3,3,7,7,18-May,1-Aug,6.768199909
+545,IDEXF,Industria De Diseno Textil SA,32.5,TRUE,2012,,,,,,,,,,
+546,INDU,Industrea Acquisition Corp,5.119999886,TRUE,2017,,,,,,,,,,
+547,INDXF,Indus Holdings Inc,1.290799975,TRUE,2019,,,,,,,,,,
+548,INDHF,Indus Holding AG,43,TRUE,2017,,,,,,,,,,
+549,QPTRF,Indus Energy NL,$0.01 ,TRUE,,No data fetched for symbol QPTRF using YahooDailyReader,,,,,,,,,
+550,ISMAY,Indra Sistemas SA,3.5,TRUE,2011,,,,,,,,,,
+551,ISMAF,Indra Sistemas SA,7.402699947,TRUE,2012,,,,,,,,,,
+552,INDOY,Indorama Ventures PCL,8.329999924,TRUE,2014,,,,,,,,,,
+553,INDO,Indonesia Energy Corp Ltd,4.558899879,TRUE,2019,,,,,,,,,,
+554,INDFY,Indofood Agri Resources Ltd,10.21000004,TRUE,2011,,,,,,,,,,
+555,INDFF,Indofood Agri Resources Ltd,$0.33 ,TRUE,,No data fetched for symbol INDFF using YahooDailyReader,,,,,,,,,
+556,INDCF,Indochine Mining Ltd,$0.03 ,TRUE,,No data fetched for symbol INDCF using YahooDailyReader,,,,,,,,,
+557,PITPY,Indocement Tunggal Prakarsa Tbk,8.729999542,TRUE,2012,,,,,,,,,,
+558,PITPF,Indocement Tunggal Prakarsa Tbk,1.179999948,TRUE,2013,,,,,,,,,,
+559,PTIZF,Indo Tambangraya Megah Tbk,0.629999995,TRUE,2013,,,,,,,,,,
+560,ITAYY,Indo Tambangraya Megah Tbk,1.100000024,TRUE,2011,,,,,,,,,,
+561,IZQVF,Indivior PLC,1.75999999,TRUE,2014,,,,,,,,,,
+562,INVVY,Indivior PLC,8.800000191,TRUE,2015,,,,,,,,,,
+563,NDVAF,Indiva Ltd,0.166999996,TRUE,2017,,,,,,,,,,
+564,INDVF,IndigoVision Group PLC,$1.30 ,TRUE,,No data fetched for symbol INDVF using YahooDailyReader,,,,,,,,,
+565,IDGBF,Indigo Books & Music Inc,1.819360018,TRUE,2012,,,,,,,,,,
+566,IRCC,Indigenous Roots Corp,0.100000001,FALSE,2010,,1-Mar,15-May,3,3,7,7,1-Mar,15-May,1.065159602
+567,IPUB,indiePub Entertainment Inc,0.100000001,TRUE,2012,,,,,,,,,,
+568,GSMGF,Indiana Resources Ltd,0.025,TRUE,2012,,,,,,,,,,
+569,INNG,Indiana Natural Gas Corp,$279.00 ,TRUE,,'Date',,,,,,,,,
+570,IBBI,Indiana Business Bancorp,$7.12 ,TRUE,,'Date',,,,,,,,,
+571,IDHCF,Indian Hotels Co Ltd,$0.95 ,TRUE,,'Date',,,,,,,,,
+572,IDPPF,Indiabulls Properties Investment Trust,$0.12 ,TRUE,,No data fetched for symbol IDPPF using YahooDailyReader,,,,,,,,,
+573,IGC,India Globalization Capital Inc,1.25999999,FALSE,2009,,11-Aug,25-Oct,6,6,5,5,11-Aug,25-Oct,7.914135523
+574,IAMUY,India Cements Ltd,$6.51 ,TRUE,,No data fetched for symbol IAMUY using YahooDailyReader,,,,,,,,,
+575,IDTCF,Indesit Co,$14.84 ,TRUE,,No data fetched for symbol IDTCF using YahooDailyReader,,,,,,,,,
+576,INNZF,Independent News & Media PLC,$0.11 ,TRUE,,No data fetched for symbol INNZF using YahooDailyReader,,,,,,,,,
+577,IBTX,Independent Bank Group Inc,57.66999817,TRUE,2013,,,,,,,,,,
+578,IBCP,Independent Bank Corp (Ionia MI),17.18000031,FALSE,2010,,30-Oct,13-Jan,7,6,3,4,7-Nov,21-Jan,13.64861562
+579,INDB,Independent Bank Corp,69.12999725,FALSE,2009,,20-May,3-Aug,7,7,4,4,17-May,31-Jul,5.190871332
+580,IBFL,Independent Bancshares Inc,$0.01 ,TRUE,,No data fetched for symbol IBFL using YahooDailyReader,,,,,,,,,
+581,IALB,Independent Alliance Banks Inc,$65.40 ,TRUE,,No data fetched for symbol IALB using YahooDailyReader,,,,,,,,,
+582,IRT,Independence Realty Trust Inc,13.39999962,TRUE,2013,,,,,,,,,,
+583,IHC,Independence Holding Co,40.65000153,FALSE,2009,,6-Oct,20-Dec,7,7,4,4,6-Oct,20-Dec,5.009138052
+584,IEGCF,Independence Gold Corp,0.129023999,TRUE,2012,,,,,,,,,,
+585,ICD,Independence Contract Drilling Inc,3.089999914,TRUE,2014,,,,,,,,,,
+586,IEBS,Independence Bancshares Inc,$0.12 ,TRUE,,'Date',,,,,,,,,
+587,INCY,Incyte Corp,82.73999786,FALSE,2009,,28-Apr,12-Jul,7,7,4,4,28-Apr,12-Jul,9.491011427
+588,PROD,Incorporated Productions,$0.01 ,TRUE,,'Date',,,,,,,,,
+589,SAAS,inContact Inc,$13.99 ,TRUE,,'Date',,,,,,,,,
+590,ICNN,Incoming Inc,0.006,FALSE,2009,,2-Nov,16-Jan,6,6,5,5,2-Nov,16-Jan,-54.20111785
+591,IOR,Income Opportunity Realty Investors Inc,11.55000019,FALSE,2009,,30-Mar,13-Jun,5,5,6,6,30-Mar,13-Jun,10.71146506
+592,INCZY,Incitec Pivot Ltd,1.495000005,TRUE,2015,,,,,,,,,,
+593,ICPVF,Incitec Pivot Ltd,1.350000024,FALSE,2010,,4-Nov,18-Jan,7,7,3,3,4-Nov,18-Jan,4.818760726
+594,INCPY,Inchcape PLC,8.06000042,TRUE,2015,,,,,,,,,,
+595,IHCPF,Inchcape PLC,8.199999809,TRUE,2013,,,,,,,,,,
+596,ICPPF,Inceptus Capital Ltd,0.1611,TRUE,2019,,,,,,,,,,
+597,IMII,Inception Mining Inc,0.021,FALSE,2009,,13-Mar,27-May,5,5,4,4,13-Mar,27-May,0.723247254
+598,INCAF,Inca One Gold Corp,0.400000006,TRUE,2013,,,,,,,,,,
+599,SORT,Inc Jet Holdings Inc,0.360000014,FALSE,2009,,12-Aug,26-Oct,3,3,8,8,12-Aug,26-Oct,1.153409753
+600,INBT,Inbit Corp,2.75,TRUE,2016,,,,,,,,,,
+601,INBC,InBankshares Corp,7.5,TRUE,2020,,,,,,,,,,
+602,NARI,Inari Medical Inc,65.79000092,TRUE,2020,,,,,,,,,,
+603,INAX,InAmerica Inc,$0.02 ,TRUE,,No data fetched for symbol INAX using YahooDailyReader,,,,,,,,,
+604,IVME,In Veritas Medical Diagnostics Inc,0.017000001,TRUE,2012,,,,,,,,,,
+605,IMDC,In Media Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+606,IRGIF,Imvescor Restaurant Group Inc,$3.10 ,TRUE,,No data fetched for symbol IRGIF using YahooDailyReader,,,,,,,,,
+607,IMV,IMV Inc,3.400000095,FALSE,2009,,10-Nov,24-Jan,4,4,7,7,10-Nov,24-Jan,11.13638332
+608,IUGNF,Imugene Ltd,0.071999997,TRUE,2019,,,,,,,,,,
+609,IMS,IMS Health Holdings Inc,$31.34 ,TRUE,,'Date',,,,,,,,,
+610,IPSBF,Impulsora del Desarrollo Y El Empleo En America La,1.649999976,TRUE,2012,,,,,,,,,,
+611,IMPR,Imprivata Inc,$19.26 ,TRUE,,'Date',,,,,,,,,
+612,ZCOM,Impreso Inc,1.049999952,FALSE,2009,,23-Mar,6-Jun,8,8,3,3,23-Mar,6-Jun,9.673222037
+613,IPLNF,Implenia AG,$29.74 ,TRUE,,'Date',,,,,,,,,
+614,IMPZY,Implanet SA,0.075000003,TRUE,2017,,,,,,,,,,
+615,PI,Impinj Inc,34.38999939,TRUE,2016,,,,,,,,,,
+616,IMPV,Imperva Inc,55.74000168,TRUE,2012,,,,,,,,,,
+617,IMPC,Imperial Plantation Corp,$0.02 ,TRUE,,'Date',,,,,,,,,
+618,FNFHF,Imperial Pacific International Holdings Ltd,$0.06 ,TRUE,,No data fetched for symbol FNFHF using YahooDailyReader,,,,,,,,,
+619,IMO,Imperial Oil Ltd,17.20000076,FALSE,2009,,25-Aug,8-Nov,6,6,5,5,25-Aug,8-Nov,1.481069181
+620,IPMLF,Imperial Metals Corp,2.604199886,TRUE,2012,,,,,,,,,,
+621,IHLDY,Imperial Logistics Ltd,2.427999973,FALSE,2009,,20-Aug,3-Nov,3,3,8,8,8-Oct,22-Dec,-9.69595509
+622,IGPFF,Imperial Ginseng Products Ltd,0.197699994,FALSE,2009,,2-Feb,17-Apr,6,6,5,5,2-Feb,17-Apr,7.098548453
+623,IMBBY,Imperial Brands PLC,20.35000038,FALSE,2009,,19-Oct,2-Jan,8,7,3,4,10-Dec,23-Feb,4.082918734
+624,IMBBF,Imperial Brands PLC,20.5,FALSE,2010,,12-Dec,25-Feb,7,7,3,3,12-Dec,25-Feb,4.494212562
+625,IMHC,Imperalis Holding Corp,0.0266,TRUE,2012,,,,,,,,,,
+626,IGPPF,Impellam Group PLC,2.839999914,TRUE,2011,,,,,,,,,,
+627,IPDQF,Impedimed Ltd,0.093000002,TRUE,2012,,,,,,,,,,
+628,IPXAF,Impax Asset Management Group PLC,$3.20 ,TRUE,,No data fetched for symbol IPXAF using YahooDailyReader,,,,,,,,,
+629,IMPUY,Impala Platinum Holdings Ltd,10.61999989,FALSE,2009,,3-Jul,16-Sep,2,2,9,9,10-Nov,24-Jan,8.622332498
+630,IMPUF,Impala Platinum Holdings Ltd,8.640000343,TRUE,2013,,,,,,,,,,
+631,ISVLF,IMPACT Silver Corp,0.736299992,FALSE,2009,,19-Dec,4-Mar,6,6,5,5,19-Dec,4-Mar,16.1180028
+632,IPPTF,Impact Minerals Ltd,0.005,TRUE,2019,,,,,,,,,,
+633,IMH,Impac Mortgage Holdings Inc,1.480000019,FALSE,2009,,16-Dec,1-Mar,6,6,5,5,16-Dec,1-Mar,4.699813489
+634,PRRUF,Immutep Ltd,0.140000001,TRUE,2012,,,,,,,,,,
+635,IMMP,Immutep Ltd,2.019999981,TRUE,2012,,,,,,,,,,
+636,IMRN,Immuron Ltd,7.739999771,TRUE,2017,,,,,,,,,,
+637,IMMPF,ImmuPharma PLC,0.180000007,TRUE,2017,,,,,,,,,,
+638,IMMVF,Immunovia AB,18.20000076,TRUE,2019,,,,,,,,,,
+639,IMVT,Immunovant Inc,50.06999969,TRUE,2019,,,,,,,,,,
+640,IPATF,ImmunoPrecise Antibodies Ltd,1.239899993,TRUE,2013,,,,,,,,,,
+641,IMMU,Immunomedics Inc,87.86000061,FALSE,2009,,7-Mar,21-May,6,6,5,5,7-Mar,21-May,16.92349619
+642,IMNM,Immunome Inc,10.80000019,TRUE,2020,,,,,,,,,,
+643,IMGN,Immunogen Inc,5.739999771,FALSE,2009,,8-May,22-Jul,6,6,5,5,8-May,22-Jul,3.997653284
+644,IMMNF,Immunodiagnostic Systems Holdings PLC,$3.55 ,TRUE,,No data fetched for symbol IMMNF using YahooDailyReader,,,,,,,,,
+645,IMCL,Immunoclin Corp,0.159280002,TRUE,2019,,,,,,,,,,
+646,IMUC,ImmunoCellular Therapeutics Ltd,0.259900004,FALSE,2009,,2-Feb,17-Apr,7,7,4,4,2-Feb,17-Apr,8.234070996
+647,IMUX,Immunic Inc,19,TRUE,2014,,,,,,,,,,
+648,IMUN,Immune Therapeutics Inc,0.015799999,TRUE,2012,,,,,,,,,,
+649,IMDZ,Immune Design Corp,5.849999905,TRUE,2014,,,,,,,,,,
+650,ICCC,ImmuCell Corp,5.599999905,FALSE,2009,,3-May,17-Jul,2,2,9,9,3-May,17-Jul,14.38593735
+651,IMNZY,Immofinanz AG,$7.44 ,TRUE,,No data fetched for symbol IMNZY using YahooDailyReader,,,,,,,,,
+652,IMMZF,Immofinanz AG,17,TRUE,2013,,,,,,,,,,
+653,IMMQF,Immobiliare Grande Distribuzione SiiQ SpA,3.402199984,TRUE,2015,,,,,,,,,,
+654,IMMR,Immersion Corp,8.020000458,FALSE,2009,,18-May,1-Aug,3,3,8,8,18-May,1-Aug,8.215251586
+655,IMKI,Immediatek Inc,0.01,FALSE,2009,,25-Feb,10-May,8,8,3,3,25-Feb,10-May,22.34592368
+656,IMTX,Immatics NV,10.27000046,TRUE,2018,,,,,,,,,,
+657,IMKG,IMK Group Inc,$0.25 ,TRUE,,No data fetched for symbol IMKG using YahooDailyReader,,,,,,,,,
+658,IBKKF,iMining Blockchain and Cryptocurrency Inc,0.059999999,TRUE,2018,,,,,,,,,,
+659,JRVS,IMine Corp,0.014,TRUE,2014,,,,,,,,,,
+660,IMIAY,IMI PLC,29.45000076,TRUE,2013,,,,,,,,,,
+661,IMIAF,IMI PLC,14.14999962,TRUE,2012,,,,,,,,,,
+662,IMSYF,Imex Systems Inc,0.082800001,TRUE,2017,,,,,,,,,,
+663,ADTFF,iMetal Resources Inc,0.097560003,FALSE,2010,,16-Oct,30-Dec,4,4,3,3,16-Oct,30-Dec,8.76949698
+664,IMYSF,Imerys,39.25999832,FALSE,2009,,10-Nov,24-Jan,4,4,5,5,10-Nov,24-Jan,2.737242757
+665,IMBI,iMedia Brands Inc,6.130000114,FALSE,2009,,22-Aug,5-Nov,3,3,8,8,22-Aug,5-Nov,6.609803049
+666,IMDXF,Imdex Ltd,0.964999974,TRUE,2013,,,,,,,,,,
+667,IMDZF,IMCD NV,123,TRUE,2016,,,,,,,,,,
+668,IMCDY,IMCD NV,44.84999847,TRUE,2019,,,,,,,,,,
+669,IDLKF,IMC SA,$2.49 ,TRUE,,No data fetched for symbol IDLKF using YahooDailyReader,,,,,,,,,
+670,IMIMF,IMC International Mining Corp,0.0999,TRUE,2020,,,,,,,,,,
+671,IMAX,Imax Corp,15.47000027,FALSE,2009,,7-Oct,21-Dec,6,6,5,5,7-Oct,21-Dec,11.35462235
+672,IMXCF,IMAX China Holding Inc,1.460000038,TRUE,2015,,,,,,,,,,
+673,IMRA,Imara Inc,20.20999908,TRUE,2020,,,,,,,,,,
+674,IBXXF,Imagion Biosystems Ltd,0.064999998,TRUE,2020,,,,,,,,,,
+675,IDYLF,Imaging Dynamics Co Ltd,0.025490001,TRUE,2012,,,,,,,,,,
+676,IPNFF,ImagineAR Inc,0.116400003,TRUE,2013,,,,,,,,,,
+677,IGNMF,Imagination Technologies Group PLC,$3.50 ,TRUE,,'Date',,,,,,,,,
+678,IMEXD,Imagin Medical Inc,0.246000007,TRUE,2020,,,,,,,,,,
+679,IINHY,Imagi International Holdings Ltd,0.029999999,TRUE,2012,,,,,,,,,,
+680,IINHF,Imagi International Holdings Ltd,$0.24 ,TRUE,,No data fetched for symbol IINHF using YahooDailyReader,,,,,,,,,
+681,IWSY,ImageWare Systems Inc,0.0995,FALSE,2009,,24-Nov,7-Feb,7,7,4,4,24-Nov,7-Feb,20.07845723
+682,ISOL,Image Software Inc,0.024800001,FALSE,2009,,21-Nov,4-Feb,5,5,6,6,21-Nov,4-Feb,19.50081002
+683,ISNS,Image Sensing Systems Inc,4.179999828,FALSE,2009,,22-Aug,5-Nov,8,8,3,3,22-Aug,5-Nov,3.853840519
+684,IMGX,Image Metrics Inc,0.140000001,FALSE,2010,,21-Jul,4-Oct,0,0,10,10,27-Jul,10-Oct,-7.440912068
+685,IMGL,Image International Group Inc,0.021,TRUE,2015,,,,,,,,,,
+686,ICGL,Image Chain Group Ltd Inc,$0.10 ,TRUE,,No data fetched for symbol ICGL using YahooDailyReader,,,,,,,,,
+687,IFLXF,Imaflex Inc,0.579999983,TRUE,2017,,,,,,,,,,
+688,IMAC,IMAC Holdings Inc,1.029999971,TRUE,2019,,,,,,,,,,
+689,IMCNF,IM Cannabis Corp,1.334179997,TRUE,2017,,,,,,,,,,
+690,ILKAY,Iluka Resources Ltd,20.32999992,TRUE,2011,,,,,,,,,,
+691,ILKAF,Iluka Resources Ltd,3.829999924,FALSE,2010,,20-Dec,5-Mar,9,9,1,1,20-Dec,5-Mar,13.42883098
+692,ILATF,iLOOKABOUT Corp,0.354099989,TRUE,2019,,,,,,,,,,
+693,ILMN,Illumina Inc,295.230011,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,30-Oct,13-Jan,10.23640152
+694,ILVOF,Illovo Sugar Ltd,$2.75 ,TRUE,,'Date',,,,,,,,,
+695,ITW,Illinois Tool Works Inc,206.1000061,FALSE,2009,,20-Oct,3-Jan,8,8,3,3,23-Oct,6-Jan,4.891753793
+696,ILII,Illini Corp,$68.80 ,TRUE,,'Date',,,,,,,,,
+697,ILIKF,Ilika PLC,1.360000014,TRUE,2019,,,,,,,,,,
+698,ILIAY,Iliad SA,10.32999992,TRUE,2015,,,,,,,,,,
+699,ILIAF,Iliad SA,194.7859955,TRUE,2013,,,,,,,,,,
+700,ILADF,Iliad Africa Ltd,$1.20 ,TRUE,,No data fetched for symbol ILADF using YahooDailyReader,,,,,,,,,
+701,ILG,ILG Inc,34.13000107,TRUE,2012,,,,,,,,,,
+702,IILGV,ILG Inc,$14.01 ,TRUE,,'Date',,,,,,,,,
+703,IKYCF,Ikyu Corp,$28.50 ,TRUE,,No data fetched for symbol IKYCF using YahooDailyReader,,,,,,,,,
+704,IKNX,Ikonics Corp,5.230000019,FALSE,2009,,9-Dec,22-Feb,8,8,3,3,9-Dec,22-Feb,3.354252896
+705,PRCYF,Ikkuma Resources Corp,$0.36 ,TRUE,,No data fetched for symbol PRCYF using YahooDailyReader,,,,,,,,,
+706,KANG,iKang Healthcare Group Inc,20.53000069,TRUE,2014,,,,,,,,,,
+707,IJMCF,IJM Corp Bhd,$0.76 ,TRUE,,No data fetched for symbol IJMCF using YahooDailyReader,,,,,,,,,
+708,ITOX,IIOT-OXYS Inc,0.008,FALSE,2009,,18-Jul,1-Oct,1,1,9,9,18-Jul,1-Oct,-13.55065097
+709,IIKKF,Iino Kaiun Kaisha Ltd,$5.63 ,TRUE,,No data fetched for symbol IIKKF using YahooDailyReader,,,,,,,,,
+710,ANTOF,Iida Group Holdings Co Ltd,$18.40 ,TRUE,,No data fetched for symbol ANTOF using YahooDailyReader,,,,,,,,,
+711,IIVI,II-VI Inc,60.83000183,FALSE,2009,,26-Oct,9-Jan,6,6,5,5,26-Oct,9-Jan,6.951835132
+712,IH,iHuman Inc,23.20000076,TRUE,2020,,,,,,,,,,
+713,INFO,IHS Markit Ltd,91.18000031,TRUE,2014,,,,,,,,,,
+714,IHICY,IHI Corp,3.529999971,TRUE,2015,,,,,,,,,,
+715,IHICF,IHI Corp,$19.92 ,TRUE,,No data fetched for symbol IHICF using YahooDailyReader,,,,,,,,,
+716,IHHHF,IHH Healthcare Bhd,1.149999976,TRUE,2015,,,,,,,,,,
+717,IHRT,iHeartMedia Inc,10.15999985,TRUE,2019,,,,,,,,,,
+718,IHRTQ,iHeartMedia Inc,$1.00 ,TRUE,,No data fetched for symbol IHRTQ using YahooDailyReader,,,,,,,,,
+719,IGUEF,Iguatemi Empresa de Shopping Centers SA,5.324629784,TRUE,2013,,,,,,,,,,
+720,IPGDF,IGO Ltd,3.585000038,TRUE,2013,,,,,,,,,,
+721,IGOI,iGo Inc,2.700000048,TRUE,2014,,,,,,,,,,
+722,RXDX,Ignyta Inc,26.95000076,TRUE,2013,,,,,,,,,,
+723,IRGTQ,Ignite Restaurant Group Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+724,BILZF,Ignite International Brands Ltd,0.472299993,TRUE,2019,,,,,,,,,,
+725,IGIFF,IGM Financial Inc,26,FALSE,2010,,28-Oct,11-Jan,6,6,4,4,27-Oct,10-Jan,2.658679968
+726,IGMS,IGM Biosciences Inc,57.38999939,TRUE,2019,,,,,,,,,,
+727,IGGGF,IGG Inc,1.059999943,TRUE,2015,,,,,,,,,,
+728,IGEN,iGen Networks Corp,0.0055,FALSE,2009,,18-Mar,1-Jun,6,6,5,5,18-Mar,1-Jun,4.995374561
+729,IGESF,IGas Energy PLC,0.150000006,TRUE,2013,,,,,,,,,,
+730,IGGRF,IG Group Holdings PLC,10.02000046,TRUE,2017,,,,,,,,,,
+731,IGGHY,IG Group Holdings PLC,10.55000019,TRUE,2014,,,,,,,,,,
+732,IFXC,IFX Corp,0.01,TRUE,2012,,,,,,,,,,
+733,IFMK,iFresh Inc,0.745000005,TRUE,2017,,,,,,,,,,
+734,CTCLY,IFM Investments Ltd,$0.13 ,TRUE,,No data fetched for symbol CTCLY using YahooDailyReader,,,,,,,,,
+735,IFBH,Ifb Holdings Inc,$64.25 ,TRUE,,No data fetched for symbol IFBH using YahooDailyReader,,,,,,,,,
+736,IFABF,iFabric Corp,3.25,TRUE,2013,,,,,,,,,,
+737,FYSSY,ifa systems AG,4.75,TRUE,2015,,,,,,,,,,
+738,IROQ,IF Bancorp Inc,20.52000046,TRUE,2011,,,,,,,,,,
+739,IESC,IES Holdings Inc,38.04999924,FALSE,2009,,14-Sep,28-Nov,7,7,4,4,14-Sep,28-Nov,6.483530147
+740,IENT,iEntertainment Network Inc,0.0111,FALSE,2009,,27-Dec,12-Mar,7,7,4,4,27-Dec,12-Mar,31.20314503
+741,IEHC,IEH Corp,14.64999962,FALSE,2009,,19-Apr,3-Jul,7,7,4,4,19-Apr,3-Jul,8.710078909
+742,IEC,IEC Electronics Corp,10.02999973,FALSE,2009,,29-May,12-Aug,8,8,3,3,29-May,12-Aug,6.903669763
+743,IDWM,IDW Media Holdings Inc,3.5,FALSE,2010,,13-Nov,27-Jan,8,7,2,3,13-Nov,27-Jan,6.709125094
+744,IDT,IDT Corp,9.350000381,FALSE,2009,,4-May,18-Jul,6,6,5,5,4-May,18-Jul,15.39832968
+745,DSKY,iDreamSky Technology Ltd,$13.93 ,TRUE,,'Date',,,,,,,,,
+746,IDPUF,IDP Education Ltd,9.600000381,TRUE,2019,,,,,,,,,,
+747,IDRSF,Idorsia Ltd,28.88380051,TRUE,2017,,,,,,,,,,
+748,IDMMF,IDM Mining Ltd,$0.05 ,TRUE,,No data fetched for symbol IDMMF using YahooDailyReader,,,,,,,,,
+749,ILMCY,IDM International Ltd,$0.51 ,TRUE,,No data fetched for symbol ILMCY using YahooDailyReader,,,,,,,,,
+750,ILMCF,IDM International Ltd,$0.01 ,TRUE,,No data fetched for symbol ILMCF using YahooDailyReader,,,,,,,,,
+751,IDLM,Idle Media Inc,0.0053,FALSE,2010,,22-Jun,5-Sep,1,1,9,9,22-Jun,5-Sep,9.013255252
+752,IDXX,IDEXX Laboratories Inc,444.0599976,FALSE,2009,,12-May,26-Jul,9,9,2,2,12-May,26-Jul,8.125342992
+753,IEX,IDEX Corp,197.4600067,FALSE,2009,,30-Oct,13-Jan,9,9,2,2,30-Oct,13-Jan,6.747820596
+754,IDXAF,IDEX Biometrics ASA,0.214000002,TRUE,2014,,,,,,,,,,
+755,IDRA,Idera Pharmaceuticals Inc,3.329999924,FALSE,2009,,15-Jul,28-Sep,4,4,7,7,15-Jul,28-Sep,7.057731022
+756,INVE,Identiv Inc,6.619999886,FALSE,2009,,5-Aug,19-Oct,6,6,5,5,5-Aug,19-Oct,10.17617332
+757,IDTLF,Identillect Technologies Corp,$0.05 ,TRUE,,No data fetched for symbol IDTLF using YahooDailyReader,,,,,,,,,
+758,IDTA,IDenta Corp,0.829999983,TRUE,2017,,,,,,,,,,
+759,IDKOY,Idemitsu Kosan Co Ltd,10.48999977,TRUE,2012,,,,,,,,,,
+760,IDKOF,Idemitsu Kosan Co Ltd,21.20000076,TRUE,2014,,,,,,,,,,
+761,IDYA,IDEAYA Biosciences Inc,13.18999958,TRUE,2019,,,,,,,,,,
+762,IDEX,Ideanomics Inc,1.159999967,FALSE,2009,,7-Jan,22-Mar,7,7,4,4,7-Jan,22-Mar,9.660523586
+763,IPWR,Ideal Power Inc,6.599999905,TRUE,2013,,,,,,,,,,
+764,IDBJF,Idb Holding Corp Ltd,$0.04 ,TRUE,,No data fetched for symbol IDBJF using YahooDailyReader,,,,,,,,,
+765,IDBZF,IDB Development Corp Ltd,$0.53 ,TRUE,,No data fetched for symbol IDBZF using YahooDailyReader,,,,,,,,,
+766,IDAM,Idarado Mining Co,1.450000048,TRUE,2012,,,,,,,,,,
+767,IIBK,Idaho Independent Bank,$20.20 ,TRUE,,No data fetched for symbol IIBK using YahooDailyReader,,,,,,,,,
+768,IDFB,Idaho First Bank,6,FALSE,2009,,30-Dec,15-Mar,8,8,3,3,30-Dec,15-Mar,12.16834666
+769,GLDRF,Idaho Champion Gold Mines Canada Inc,0.183500007,TRUE,2019,,,,,,,,,,
+770,IDA,Idacorp Inc,90.45999908,FALSE,2009,,29-Sep,13-Dec,8,7,3,4,29-Sep,13-Dec,5.757478517
+771,IDWAF,ID Watchdog Inc,$0.40 ,TRUE,,No data fetched for symbol IDWAF using YahooDailyReader,,,,,,,,,
+772,IDPE,ID Perfumes Inc,0.039999999,TRUE,2013,,,,,,,,,,
+773,ICUI,ICU Medical Inc,185.8500061,FALSE,2009,,23-Mar,6-Jun,6,6,5,5,23-Mar,6-Jun,7.300263259
+774,ICTSF,ICTS International NV,3.200000048,FALSE,2009,,17-Jun,31-Aug,4,4,7,7,17-Jun,31-Aug,18.43962214
+775,ICTG,ICTC Group Inc,64.33000183,TRUE,2012,,,,,,,,,,
+776,ICPWQ,ICPW Liquidation Corp,0.112999998,TRUE,2012,,,,,,,,,,
+777,ICCT,iCoreConnect Inc,0.075000003,FALSE,2009,,19-Apr,3-Jul,4,4,7,7,19-Apr,3-Jul,-11.07895663
+778,ICON,Iconix Brand Group Inc,0.779999971,FALSE,2009,,22-Dec,7-Mar,9,9,2,2,22-Dec,7-Mar,9.949345321
+779,BVTEF,Iconic Minerals Ltd,0.083999999,TRUE,2013,,,,,,,,,,
+780,ICNB,Iconic Brands Inc,0.200000003,TRUE,2012,,,,,,,,,,
+781,ICLR,Icon PLC,186.2599945,FALSE,2009,,6-May,20-Jul,8,8,3,3,6-May,20-Jul,11.11628168
+782,ICEVL,ICON Leasing Fund Eleven LLC,$3.12 ,TRUE,,No data fetched for symbol ICEVL using YahooDailyReader,,,,,,,,,
+783,ICNQU,ICON Equipment & Corporate Infrastructure Fund Fou,$303.50 ,TRUE,,No data fetched for symbol ICNQU using YahooDailyReader,,,,,,,,,
+784,ICNOF,Icon Energy Ltd,0.015,TRUE,2013,,,,,,,,,,
+785,ICTQ,ICON ECI Fund Fifteen LP,$414.00 ,TRUE,,No data fetched for symbol ICTQ using YahooDailyReader,,,,,,,,,
+786,ICOTF,iCo Therapeutics Inc,0.028999999,TRUE,2012,,,,,,,,,,
+787,ICLK,iClick Interactive Asia Group Ltd,7.409999847,TRUE,2017,,,,,,,,,,
+788,ICL,ICL Group Ltd,4.159999847,FALSE,2009,,4-Nov,18-Jan,7,7,4,4,3-Nov,17-Jan,2.319774029
+789,IBN,ICICI Bank Ltd,13.27000046,FALSE,2009,,22-Aug,5-Nov,5,5,6,6,22-Aug,5-Nov,9.862572043
+790,ICHR,Ichor Holdings Ltd,28.56999969,TRUE,2016,,,,,,,,,,
+791,ICHSF,Ichiyoshi Securities Co Ltd,$8.50 ,TRUE,,No data fetched for symbol ICHSF using YahooDailyReader,,,,,,,,,
+792,FCRQF,Ichigo Office REIT Investment Corp,$585.00 ,TRUE,,No data fetched for symbol FCRQF using YahooDailyReader,,,,,,,,,
+793,ICHIF,Ichigo Inc,3.200000048,TRUE,2013,,,,,,,,,,
+794,ICFI,ICF International Inc,74.23000336,FALSE,2009,,21-May,4-Aug,6,6,5,5,21-May,4-Aug,5.480303482
+795,ICUSF,Icecure Medical Ltd,0.239999995,TRUE,2013,,,,,,,,,,
+796,ICCLF,ICC Labs Inc,$1.23 ,TRUE,,No data fetched for symbol ICCLF using YahooDailyReader,,,,,,,,,
+797,ICCH,ICC Holdings Inc,13.52000046,TRUE,2017,,,,,,,,,,
+798,ICNAF,Icanic Brands Co Inc,0.361099988,TRUE,2016,,,,,,,,,,
+799,IEP,Icahn Enterprises LP,52.29000092,FALSE,2009,,4-Jun,18-Aug,8,8,3,3,23-Aug,6-Nov,4.993890381
+800,CDMGF,Icade,72.24610138,TRUE,2012,,,,,,,,,,
+801,ICAD,icad Inc,9.25,FALSE,2009,,26-Jul,9-Oct,6,6,5,5,26-Jul,9-Oct,-1.439642588
+802,ICCGF,ICA Gruppen AB,51.23709869,TRUE,2017,,,,,,,,,,
+803,IBWC,IBW Financial Corp,30.25,TRUE,2012,,,,,,,,,,
+804,IBJHF,Ibstock PLC,1.929999948,TRUE,2017,,,,,,,,,,
+805,IBIO,iBio Inc,1.679999948,FALSE,2009,,3-Jan,18-Mar,10,10,1,1,3-Jan,18-Mar,24.13178212
+806,IBIDF,Ibiden Co Ltd,41.79999924,TRUE,2013,,,,,,,,,,
+807,IBIBF,IBI Group Inc,5.650000095,FALSE,2009,,20-Dec,5-Mar,7,7,4,4,12-Dec,25-Feb,13.05101302
+808,IBXNF,Ibex Technologies Inc,0.217769995,TRUE,2013,,,,,,,,,,
+809,IBEX,IBEX Holdings Ltd,18.12999916,TRUE,2020,,,,,,,,,,
+810,IBXM,IBEX Advanced Mortgage Technology Inc,$0.25 ,TRUE,,No data fetched for symbol IBXM using YahooDailyReader,,,,,,,,,
+811,IBKC,IBERIABANK Corp,43.08000183,FALSE,2009,,22-Apr,6-Jul,6,6,5,5,22-Apr,6-Jul,0.584996586
+812,IBDSF,Iberdrola SA,13.52499962,FALSE,2009,,23-Apr,7-Jul,5,5,6,6,23-Apr,7-Jul,3.244511666
+813,IBDRY,Iberdrola SA,53.65000153,FALSE,2009,,30-May,13-Aug,5,5,6,6,19-May,2-Aug,1.782032873
+814,IAALF,IBC Advanced Alloys Corp,0.11564,FALSE,2009,,20-Dec,5-Mar,2,2,9,9,20-Dec,5-Mar,5.824724062
+815,IARSF,IAR Systems Group AB,$24.90 ,TRUE,,No data fetched for symbol IARSF using YahooDailyReader,,,,,,,,,
+816,ITHUF,iAnthus Capital Holdings Inc,0.097999997,TRUE,2018,,,,,,,,,,
+817,IAG,Iamgold Corp,3.359999895,FALSE,2009,,10-Jun,24-Aug,4,4,7,7,10-Jun,24-Aug,3.873275823
+818,IAHL,IAHL Corp,0.189999998,FALSE,2010,,14-Feb,29-Apr,1,1,9,9,14-Feb,29-Apr,17.96405405
+819,IAC,IAC/InterActiveCorp,134.8300018,FALSE,2009,,13-May,27-Jul,8,8,3,3,13-May,27-Jul,10.63532893
+820,IAA,IAA Inc,61.84000015,TRUE,2019,,,,,,,,,,
+821,IAFNF,iA Financial Corp,35.28160095,TRUE,2013,,,,,,,,,,
+822,IIIV,i3 Verticals Inc,24.79000092,TRUE,2018,,,,,,,,,,
+823,BLITF,i3 Interactive Inc,0.221860006,TRUE,2020,,,,,,,,,,
+824,IWMG,I-Wellness Marketing Group Inc,0.01,TRUE,2013,,,,,,,,,,
+825,IONI,I-ON Digital Corp,0.153899997,TRUE,2016,,,,,,,,,,
+826,IMAHF,I-Minerals Inc,0.01805,FALSE,2010,,20-Sep,4-Dec,5,5,5,5,20-Sep,4-Dec,9.140952632
+827,IMAB,I-MAB,37.84000015,TRUE,2020,,,,,,,,,,
+828,ICABY,i-CABLE Communications Ltd,0.170000002,FALSE,2009,,22-Jul,5-Oct,5,5,6,6,22-Jul,5-Oct,-9.785604076

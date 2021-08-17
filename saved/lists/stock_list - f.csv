@@ -1,0 +1,869 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,FYFFF,Fyffes PLC,$2.33 ,TRUE,,'Date',,,,,,,,,
+1,FXEN,FX Energy Inc,$1.15 ,TRUE,,'Date',,,,,,,,,
+2,FVCB,FVCBankcorp Inc,12.76000023,TRUE,2015,,,,,,,,,,
+3,FVPI,FV Pharma International Corp,65,TRUE,2014,,,,,,,,,,
+4,FYGGY,Fuyao Glass Industry Group Co Ltd,$0.63 ,TRUE,,No data fetched for symbol FYGGY using YahooDailyReader,,,,,,,,,
+5,FFHL,Fuwei Films (Holdings) Co Ltd,5.420000076,FALSE,2009,,12-Nov,26-Jan,6,6,5,5,12-Nov,26-Jan,8.279198137
+6,FTRS,Futuris Co,0.379900008,TRUE,2020,,,,,,,,,,
+7,THIXY,Futuren SA,$1.63 ,TRUE,,No data fetched for symbol THIXY using YahooDailyReader,,,,,,,,,
+8,FF,FutureFuel Corp,11.96500015,TRUE,2011,,,,,,,,,,
+9,FUTS,Future Science Holdings Inc,0.0095,TRUE,2012,,,,,,,,,,
+10,FRNWF,Future PLC,25.99559975,TRUE,2014,,,,,,,,,,
+11,FIGM,Future International Group Corp,5,TRUE,2018,,,,,,,,,,
+12,FTFT,Future FinTech Group Inc,2.130000114,FALSE,2009,,22-Nov,5-Feb,6,6,5,5,22-Nov,5-Feb,11.67096888
+13,FFRMF,Future Farm Technologies Inc,0.022,FALSE,2009,,13-Dec,26-Feb,4,4,7,7,13-Dec,26-Feb,13.14226487
+14,FTRHF,Future Bright Holdings Ltd,0.02,TRUE,2014,,,,,,,,,,
+15,FAMDF,Futura Medical PLC,0.150000006,TRUE,2012,,,,,,,,,,
+16,FUTU,Futu Holdings Ltd,43,TRUE,2019,,,,,,,,,,
+17,FBILF,Futaba Industrial Co Ltd,$3.87 ,TRUE,,No data fetched for symbol FBILF using YahooDailyReader,,,,,,,,,
+18,FUBAF,Futaba Corp,8.895000458,TRUE,2013,,,,,,,,,,
+19,FUSXF,Fusionex International PLC,$8.15 ,TRUE,,No data fetched for symbol FUSXF using YahooDailyReader,,,,,,,,,
+20,FUSN,Fusion Pharmaceuticals Inc,12.625,TRUE,2020,,,,,,,,,,
+21,FUIG,Fusion Interactive Corp,0.011,TRUE,2013,,,,,,,,,,
+22,FSNNQ,Fusion Connect Inc,$0.01 ,TRUE,,No data fetched for symbol FSNNQ using YahooDailyReader,,,,,,,,,
+23,FUSE,Fusion Acquisition Corp,9.840100288,TRUE,2020,,,,,,,,,,
+24,DROP,Fuse Science Inc,0.0098,TRUE,2012,,,,,,,,,,
+25,FZMD,Fuse Medical Inc,0.100000001,FALSE,2009,,22-Nov,5-Feb,7,7,4,4,22-Nov,5-Feb,29.28830592
+26,FUST,Fuse Group Holding Inc,0.119999997,TRUE,2017,,,,,,,,,,
+27,FUSEF,Fuse Cobalt Inc,0.02238,FALSE,2010,,8-Dec,21-Feb,6,6,4,4,8-Dec,21-Feb,-1.520725314
+28,FURY,Fury Gold Mines Ltd,1.389999986,TRUE,2014,,,,,,,,,,
+29,FUSAF,Furusato Industries Ltd,$10.50 ,TRUE,,No data fetched for symbol FUSAF using YahooDailyReader,,,,,,,,,
+30,FUWAY,Furukawa Electric Co Ltd,11.84000015,TRUE,2012,,,,,,,,,,
+31,FUWAF,Furukawa Electric Co Ltd,25,FALSE,2009,,21-Oct,4-Jan,2,3,9,8,10-Apr,24-Jun,4.05786795
+32,FRM,Furmanite Corp,0.035,TRUE,2017,,,,,,,,,,
+33,FUGMF,Fura Gems Inc,0.108099997,TRUE,2012,,,,,,,,,,
+34,FQFC,Fuquan Financial Co,0.006,FALSE,2009,,31-Dec,16-Mar,7,7,4,4,31-Dec,16-Mar,29.37941226
+35,FQCC,Fuquan Capital Management Inc,0.050000001,TRUE,2014,,,,,,,,,,
+36,FNKO,Funko Inc,8.819999695,TRUE,2017,,,,,,,,,,
+37,FDCHF,Funding Circle Holdings PLC,1,TRUE,2018,,,,,,,,,,
+38,FNDM,Fund.com Inc,2.75999999,FALSE,2010,,21-Aug,4-Nov,2,2,8,8,21-Aug,4-Nov,25.22390158
+39,FNCX,Function(x) Inc,0.009,TRUE,2012,,,,,,,,,,
+40,FCMKF,Funcom SE,1.799999952,TRUE,2013,,,,,,,,,,
+41,FUAIY,Funai Electric Co Ltd,0.800000012,TRUE,2012,,,,,,,,,,
+42,FUAIF,Funai Electric Co Ltd,6.179999828,TRUE,2016,,,,,,,,,,
+43,FCPS,FuLuCai Productions Ltd,$0.10 ,TRUE,,No data fetched for symbol FCPS using YahooDailyReader,,,,,,,,,
+44,FULT,Fulton Financial Corp,13.11999989,FALSE,2009,,22-Sep,6-Dec,8,8,3,3,29-Oct,12-Jan,5.23101849
+45,FLLHF,Fullshare Holdings Ltd,$0.10 ,TRUE,,No data fetched for symbol FLLHF using YahooDailyReader,,,,,,,,,
+46,FULO,Fullnet Communications Inc,0.071000002,FALSE,2009,,9-Jun,23-Aug,1,1,10,10,9-Jun,23-Aug,3.045273914
+47,FTUAF,Fuller Smith & Turner PLC,$13.93 ,TRUE,,No data fetched for symbol FTUAF using YahooDailyReader,,,,,,,,,
+48,FULCY,Fullcast Holding Co Ltd,$19.77 ,TRUE,,No data fetched for symbol FULCY using YahooDailyReader,,,,,,,,,
+49,FLMTF,Full Metal Minerals Ltd,0.061999999,TRUE,2012,,,,,,,,,,
+50,FLL,Full House Resorts Inc,3.267800093,FALSE,2009,,19-Sep,3-Dec,5,5,6,6,19-Sep,3-Dec,13.43256001
+51,FAPXF,Full Apex (Holdings) Ltd,0.100000001,TRUE,2010,,,,,,,,,,
+52,FAGI,Full Alliance Group Inc,0.009,TRUE,2012,,,,,,,,,,
+53,FORK,Fuling Global Inc,2.339999914,TRUE,2015,,,,,,,,,,
+54,FLGT,Fulgent Genetics Inc,43.31000137,TRUE,2016,,,,,,,,,,
+55,FULC,Fulcrum Therapeutics Inc,11.14999962,TRUE,2019,,,,,,,,,,
+56,FKKFY,Fukuoka Financial Group Inc,7.389999866,TRUE,2016,,,,,,,,,,
+57,FKKFF,Fukuoka Financial Group Inc,$3.06 ,TRUE,,No data fetched for symbol FKKFF using YahooDailyReader,,,,,,,,,
+58,FKCIF,Fukui Computer Holdings Inc,33,TRUE,2019,,,,,,,,,,
+59,FDDSF,Fukuda Denshi Co Ltd,$24.35 ,TRUE,,No data fetched for symbol FDDSF using YahooDailyReader,,,,,,,,,
+60,FJXLF,Fujix Ltd,$3.11 ,TRUE,,No data fetched for symbol FJXLF using YahooDailyReader,,,,,,,,,
+61,FJTSY,Fujitsu Ltd,25.65999985,FALSE,2009,,5-Jun,19-Aug,7,7,4,4,5-Jun,19-Aug,6.371307381
+62,FJTSF,Fujitsu Ltd,127.9800034,TRUE,2012,,,,,,,,,,
+63,FGELF,Fujitsu General Ltd,19.10000038,TRUE,2015,,,,,,,,,,
+64,FKDNF,Fujitsu Frontech Ltd,14.05000019,TRUE,2020,,,,,,,,,,
+65,FJTCY,Fujitech Co Ltd,20.79000092,TRUE,2014,,,,,,,,,,
+66,FMAKF,Fujimak Corp,$6.90 ,TRUE,,No data fetched for symbol FMAKF using YahooDailyReader,,,,,,,,,
+67,FKURF,Fujikura Ltd,$5.50 ,TRUE,,'Date',,,,,,,,,
+68,FUJIY,FUJIFILM Holdings Corp,55.27999878,FALSE,2009,,2-Oct,16-Dec,5,5,6,6,2-Oct,16-Dec,5.079605808
+69,FUJIF,FUJIFILM Holdings Corp,54.04000092,FALSE,2009,,1-Oct,15-Dec,7,7,4,4,1-Oct,15-Dec,4.065070941
+70,FJIOF,Fujicco Co Ltd,$12.61 ,TRUE,,No data fetched for symbol FJIOF using YahooDailyReader,,,,,,,,,
+71,FUJSF,FUJI Seal International Inc,17.93000031,TRUE,2015,,,,,,,,,,
+72,FOOZF,Fuji Oozx Inc,$4.55 ,TRUE,,No data fetched for symbol FOOZF using YahooDailyReader,,,,,,,,,
+73,FJTNY,FUJI Media Holdings Inc,5.079999924,TRUE,2013,,,,,,,,,,
+74,FJTNF,FUJI Media Holdings Inc,9.100000381,TRUE,2012,,,,,,,,,,
+75,FELTY,Fuji Electric Co Ltd,8.03579998,TRUE,2011,,,,,,,,,,
+76,FELTF,Fuji Electric Co Ltd,39.79999924,TRUE,2014,,,,,,,,,,
+77,FMMFF,Fuji Corp,17.79000092,FALSE,2010,,12-Aug,26-Oct,6,6,4,4,1-Feb,16-Apr,4.117443762
+78,FURGF,Fugro NV,4.670000076,FALSE,2009,,26-Feb,11-May,6,6,5,5,25-Feb,10-May,4.809426341
+79,FFNGY,Fufeng Group Ltd,$11.40 ,TRUE,,'Date',,,,,,,,,
+80,FCEL,FuelCell Energy Inc,5.639900208,FALSE,2009,,1-Feb,16-Apr,4,4,7,7,1-Feb,16-Apr,1.549136439
+81,FTEK,Fuel Tech Inc,1.01030004,FALSE,2009,,1-Sep,15-Nov,4,4,7,7,1-Sep,15-Nov,8.686892691
+82,FSYS,Fuel Systems Solutions Inc,$5.40 ,TRUE,,'Date',,,,,,,,,
+83,IFUE,Fuel Performance Solutions Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+84,FDOC,Fuel Doctor Holdings Inc,0.029999999,TRUE,2012,,,,,,,,,,
+85,FUGI,Fuego Enterprises Inc,0.50999999,FALSE,2009,,2-Jan,17-Mar,6,6,5,5,2-Jan,17-Mar,6.235118478
+86,FUPPF,Fuchs Petrolub SE,52.5,TRUE,2019,,,,,,,,,,
+87,FUPEF,Fuchs Petrolub SE,44.59999847,TRUE,2012,,,,,,,,,,
+88,FUPBY,Fuchs Petrolub SE,14.58500004,TRUE,2015,,,,,,,,,,
+89,FUBO,FuboTV Inc,21.42009926,TRUE,2019,,,,,,,,,,
+90,FUIZF,Fubon Financial Holdings Co Ltd,12.25,TRUE,2012,,,,,,,,,,
+91,FUISY,Fubon Financial Holdings Co Ltd,$6.02 ,TRUE,,No data fetched for symbol FUISY using YahooDailyReader,,,,,,,,,
+92,FSHUF,Fu Shou Yuan International Group Ltd,0.850000024,TRUE,2016,,,,,,,,,,
+93,^FTSE,FTSE 100,"$6,385.24 ",TRUE,,No data fetched for symbol ^FTSE using YahooDailyReader,,,,,,,,,
+94,FTSI,FTS International Inc,5.090000153,TRUE,2018,,,,,,,,,,
+95,FCN,FTI Consulting Inc,105.8450012,FALSE,2009,,28-Feb,13-May,4,4,7,7,28-Feb,13-May,5.628531328
+96,FTCOF,FTGroup Co Ltd,$36.84 ,TRUE,,No data fetched for symbol FTCOF using YahooDailyReader,,,,,,,,,
+97,FTNW,FTE Networks Inc,$1.50 ,TRUE,,No data fetched for symbol FTNW using YahooDailyReader,,,,,,,,,
+98,FTOC,FTAC Olympus Acquisition Corp,9.649999619,TRUE,2020,,,,,,,,,,
+99,HUGE,FSD Pharma Inc,1.394999981,TRUE,2018,,,,,,,,,,
+100,FSBC,FSB Bancorp Inc,$13.36 ,TRUE,,No data fetched for symbol FSBC using YahooDailyReader,,,,,,,,,
+101,FASGF,FSA Group Ltd,$1.00 ,TRUE,,No data fetched for symbol FASGF using YahooDailyReader,,,,,,,,,
+102,FSKR,FS KKR Capital Corp II,15.74499989,TRUE,2020,,,,,,,,,,
+103,FSK,FS KKR Capital Corp,17.00499916,TRUE,2014,,,,,,,,,,
+104,FSEN,FS Energy and Power Fund,0.215000004,TRUE,2017,,,,,,,,,,
+105,FSDC,FS Development Corp,10.14000034,TRUE,2020,,,,,,,,,,
+106,FSBW,FS Bancorp Inc,51.68000031,TRUE,2012,,,,,,,,,,
+107,FRUTF,Frutarom Industries Ltd,104.8499985,TRUE,2012,,,,,,,,,,
+108,FRPH,FRP Holdings Inc,43.75999832,FALSE,2009,,25-May,8-Aug,4,4,7,7,25-May,8-Aug,6.683703318
+109,FRO,Frontline Ltd,6.789999962,FALSE,2009,,4-Sep,18-Nov,4,4,7,7,4-Sep,18-Nov,4.926394153
+110,FLDPF,Frontline Gold Corporation,0.01305,TRUE,2013,,,,,,,,,,
+111,TOUMF,Frontier Smart Technologies Group Ltd,$2.23 ,TRUE,,No data fetched for symbol TOUMF using YahooDailyReader,,,,,,,,,
+112,DVNHF,Frontier Services Group Ltd,0.035,FALSE,2009,,16-Oct,30-Dec,5,5,4,4,16-Oct,30-Dec,5.102953794
+113,FRILF,Frontier Resources International PLC,$0.03 ,TRUE,,No data fetched for symbol FRILF using YahooDailyReader,,,,,,,,,
+114,FOTRF,Frontier Real Estate Investment Corp,"$3,825.00 ",TRUE,,No data fetched for symbol FOTRF using YahooDailyReader,,,,,,,,,
+115,FREFF,Frontier Rare Earths Ltd,$0.01 ,TRUE,,No data fetched for symbol FREFF using YahooDailyReader,,,,,,,,,
+116,FIEC,Frontier National Corp,0.0075,TRUE,2012,,,,,,,,,,
+117,FMGGF,Frontier Mining Ltd,$0.01 ,TRUE,,No data fetched for symbol FMGGF using YahooDailyReader,,,,,,,,,
+118,HLKMF,Frontier Lithium Inc,0.270000011,FALSE,2010,,21-Dec,6-Mar,8,8,2,2,21-Dec,6-Mar,23.86901841
+119,FRRGF,Frontier Digital Ventures Ltd,0.74000001,TRUE,2020,,,,,,,,,,
+120,FRRDF,Frontier Developments PLC,$11.50 ,TRUE,,No data fetched for symbol FRRDF using YahooDailyReader,,,,,,,,,
+121,FTRCQ,Frontier Communications Corp,0.108000003,FALSE,2009,,27-Jun,10-Sep,5,5,6,6,25-Jun,8-Sep,1.053597004
+122,FONTF,Frontera Resources Corp,0.0061,TRUE,2019,,,,,,,,,,
+123,FRTG,Frontera Group Inc,0.529999971,TRUE,2017,,,,,,,,,,
+124,FECCF,Frontera Energy Corp,2.00999999,TRUE,2017,,,,,,,,,,
+125,FTEO,Fronteo Inc,$5.59 ,TRUE,,No data fetched for symbol FTEO using YahooDailyReader,,,,,,,,,
+126,FTDR,Frontdoor Inc,46.74499893,TRUE,2018,,,,,,,,,,
+127,FGHQF,Frontage Holdings Corp,0.490099996,TRUE,2020,,,,,,,,,,
+128,RESI,Front Yard Residential Corp,13.39500046,TRUE,2012,,,,,,,,,,
+129,FGRBF,Fromageries Bel SA,$345.63 ,TRUE,,No data fetched for symbol FGRBF using YahooDailyReader,,,,,,,,,
+130,FRMO,FRMO Corp,6.75,FALSE,2009,,23-Mar,6-Jun,8,8,3,3,23-Mar,6-Jun,13.41273967
+131,FRFR,Fritzy Tech Inc,0.039999999,TRUE,2017,,,,,,,,,,
+132,FRIE,Friends Bank New Smyrna Beach,$8.70 ,TRUE,,No data fetched for symbol FRIE using YahooDailyReader,,,,,,,,,
+133,FHLB,Friendly Hills Bank,8,FALSE,2009,,1-May,15-Jul,7,7,4,4,1-May,15-Jul,3.137583898
+134,FDBL,Friendable Inc,0.015900001,FALSE,2009,,11-Dec,24-Feb,3,3,6,6,11-Dec,24-Feb,7.011094121
+135,FRD,Friedman Industries Inc,5.840000153,FALSE,2009,,23-Aug,6-Nov,6,6,5,5,23-Aug,6-Nov,2.686285932
+136,FNLPF,Fresnillo PLC,14.68999958,FALSE,2009,,20-Jun,3-Sep,4,4,7,7,20-Jun,3-Sep,8.98626358
+137,FRPT,Freshpet Inc,138.9049988,TRUE,2014,,,,,,,,,,
+138,FRHHF,Freshii Inc,1.065000057,TRUE,2017,,,,,,,,,,
+139,TFM,Fresh Market Inc,$28.51 ,TRUE,,'Date',,,,,,,,,
+140,FUFOF,Fresh Express Delivery Holdings Group Co Ltd,0.01,TRUE,2014,,,,,,,,,,
+141,FDP,Fresh Del Monte Produce Inc,23.92499924,FALSE,2009,,5-Mar,19-May,5,5,6,6,1-Aug,15-Oct,1.669278312
+142,FSNUY,Fresenius SE & Co KGaA,11.19999981,TRUE,2012,,,,,,,,,,
+143,FSNUF,Fresenius SE & Co KGaA,45.04000092,TRUE,2012,,,,,,,,,,
+144,FMCQF,Fresenius Medical Care AG & Co. KGaA,87.52999878,TRUE,2012,,,,,,,,,,
+145,FMS,Fresenius Medical Care AG & Co. KGaA,42.44499969,FALSE,2009,,13-Dec,26-Feb,5,5,6,6,13-Dec,26-Feb,3.82909186
+146,FREQ,Frequency Therapeutics Inc,24.55500031,TRUE,2019,,,,,,,,,,
+147,FEIM,Frequency Electronics Inc,10.06999969,FALSE,2009,,10-Nov,24-Jan,7,7,4,4,10-Nov,24-Jan,3.932115193
+148,FCOGF,French Connection Group PLC,$0.87 ,TRUE,,'Date',,,,,,,,,
+149,AUNXY,Fremont Petroleum Corp Ltd,$5.00 ,TRUE,,No data fetched for symbol AUNXY using YahooDailyReader,,,,,,,,,
+150,FRERF,Fremont Gold Ltd,0.049899999,TRUE,2017,,,,,,,,,,
+151,FRLI,Frelii Inc,0.0166,TRUE,2012,,,,,,,,,,
+152,FTWYF,Freightways Ltd,5.199999809,TRUE,2018,,,,,,,,,,
+153,RAIL,FreightCar America Inc,1.605000019,FALSE,2009,,22-Aug,5-Nov,5,5,6,6,22-Aug,5-Nov,-0.937484141
+154,FRZT,Freeze Tag Inc,0.015255,TRUE,2017,,,,,,,,,,
+155,FSNR,Freestone Resources Inc,0.02,FALSE,2009,,22-Aug,5-Nov,2,2,9,9,22-Aug,5-Nov,4.606782575
+156,FSL,Freescale Semiconductor Ltd,$36.53 ,TRUE,,'Date',,,,,,,,,
+157,FCX,Freeport-McMoRan Inc,21.03000069,FALSE,2009,,24-May,7-Aug,3,3,8,8,22-May,5-Aug,2.108530377
+158,FEERF,Freeport Resources Inc,0.235499993,TRUE,2014,,,,,,,,,,
+159,FRTAY,freenet AG,11.18000031,TRUE,2020,,,,,,,,,,
+160,FRTAF,freenet AG,19.60000038,TRUE,2014,,,,,,,,,,
+161,FMANF,Freeman Gold Corp,0.386700004,TRUE,2020,,,,,,,,,,
+162,FRLN,Freeline Therapeutics Holdings PLC,15.18500042,TRUE,2020,,,,,,,,,,
+163,FLNCF,Freelancer Ltd,0.379999995,TRUE,2015,,,,,,,,,,
+164,FRHLF,Freehold Royalties Ltd,3.689699888,FALSE,2009,,11-Dec,24-Feb,6,6,5,5,9-Feb,24-Apr,-2.364549616
+165,FGOVF,Freegold Ventures Ltd,0.602050006,FALSE,2010,,16-Dec,1-Mar,5,5,5,5,16-Dec,1-Mar,5.840201273
+166,FDMQY,Freedom Oil and Gas Ltd,$0.52 ,TRUE,,No data fetched for symbol FDMQY using YahooDailyReader,,,,,,,,,
+167,FRHC,Freedom Holding Corp,33.15000153,TRUE,2018,,,,,,,,,,
+168,FRDZF,Freedom Foods Group Ltd,2.539999962,TRUE,2018,,,,,,,,,,
+169,GBAUF,Freedom Energy Inc,$0.01 ,TRUE,,No data fetched for symbol GBAUF using YahooDailyReader,,,,,,,,,
+170,FDVA,Freedom Bank Of Virginia,8.75,FALSE,2009,,24-Mar,7-Jun,7,7,4,4,24-Mar,7-Jun,5.159879654
+171,FFLO,Free Flow Inc,0.75,TRUE,2015,,,,,,,,,,
+172,FCBI,Frederick County Bancorp Inc,$36.00 ,TRUE,,No data fetched for symbol FCBI using YahooDailyReader,,,,,,,,,
+173,FREDQ,Fred's Inc,0.0071,TRUE,2012,,,,,,,,,,
+174,FRTR,Fraternity Community Bancorp Inc,$19.18 ,TRUE,,'Date',,,,,,,,,
+175,FSRPF,Frasers Property Ltd,0.829999983,TRUE,2014,,,,,,,,,,
+176,TCIZF,Frasers Property (Thailand) PCL,$0.36 ,TRUE,,No data fetched for symbol TCIZF using YahooDailyReader,,,,,,,,,
+177,TCIJF,Frasers Property (Thailand) PCL,$0.54 ,TRUE,,No data fetched for symbol TCIJF using YahooDailyReader,,,,,,,,,
+178,SDISY,Frasers Group PLC,$5.93 ,TRUE,,No data fetched for symbol SDISY using YahooDailyReader,,,,,,,,,
+179,SDIPF,Frasers Group PLC,$4.01 ,TRUE,,No data fetched for symbol SDIPF using YahooDailyReader,,,,,,,,,
+180,FRSCF,Frasers Commercial Trust,$0.99 ,TRUE,,No data fetched for symbol FRSCF using YahooDailyReader,,,,,,,,,
+181,FRZCF,Frasers Centrepoint Trust,1.75999999,TRUE,2012,,,,,,,,,,
+182,FNEVY,Fraser and Neave Ltd,4.46999979,TRUE,2012,,,,,,,,,,
+183,FNEVF,Fraser and Neave Ltd,0.90109998,TRUE,2012,,,,,,,,,,
+184,FPRUY,Fraport AG,28.04999924,TRUE,2012,,,,,,,,,,
+185,FPRUF,Fraport AG,52.34999847,TRUE,2013,,,,,,,,,,
+186,FRNKF,Frankly Inc,$0.27 ,TRUE,,No data fetched for symbol FRNKF using YahooDailyReader,,,,,,,,,
+187,FKWL,Franklin Wireless Corp,21.79999924,FALSE,2009,,23-Jun,6-Sep,7,7,4,4,23-Jun,6-Sep,10.08968558
+188,FT,Franklin Universal Trust,7.214399815,FALSE,2009,,18-Feb,3-May,9,8,2,3,11-Dec,24-Feb,3.523303838
+189,FSP,Franklin Street Properties Corp,4.900000095,FALSE,2009,,20-May,3-Aug,6,5,5,6,22-May,5-Aug,2.866305281
+190,BEN,Franklin Resources Inc,21.85499954,FALSE,2009,,23-Sep,7-Dec,7,7,4,4,23-Sep,7-Dec,4.844909812
+191,FMNJ,Franklin Mining Inc,0.0095,FALSE,2009,,27-Dec,12-Mar,6,6,5,5,27-Dec,12-Mar,43.99140209
+192,FTF,Franklin Limited Duration Income Trust,8.56000042,FALSE,2009,,12-Dec,25-Feb,9,7,2,4,13-Dec,26-Feb,2.882267282
+193,FRAF,Franklin Financial Services Corp,26.04000092,FALSE,2009,,16-Sep,30-Nov,7,7,4,4,10-Sep,24-Nov,4.09687849
+194,FSB,Franklin Financial Network Inc,30.47999954,TRUE,2014,,,,,,,,,,
+195,FELE,Franklin Electric Co Inc,68.17500305,FALSE,2009,,20-Oct,3-Jan,6,6,5,5,20-Oct,3-Jan,5.502446437
+196,FCRM,Franklin Credit Management Corp,0.160999998,TRUE,2012,,,,,,,,,,
+197,FC,Franklin Covey Co,22.78000069,FALSE,2009,,22-Sep,6-Dec,6,6,5,5,22-Sep,6-Dec,9.893423805
+198,FI,Frank's International NV,2.440000057,TRUE,2013,,,,,,,,,,
+199,FTYPF,Francotyp-Postalia Holding AG,$4.00 ,TRUE,,No data fetched for symbol FTYPF using YahooDailyReader,,,,,,,,,
+200,FNV,Franco-Nevada Corp,130.6399994,FALSE,2009,,29-Mar,12-Jun,6,6,5,5,29-Mar,12-Jun,8.001694269
+201,FRAZ,Francisco Industries Inc,0.949999988,TRUE,2012,,,,,,,,,,
+202,FCHAF,Franchise Services of North America Inc,$0.06 ,TRUE,,No data fetched for symbol FCHAF using YahooDailyReader,,,,,,,,,
+203,FRG,Franchise Group Inc,26.85000038,TRUE,2018,,,,,,,,,,
+204,FRAN,Francescas Holdings Corp,2.734999895,TRUE,2011,,,,,,,,,,
+205,FGNT,FragranceNet.com Inc,6.199999809,TRUE,2012,,,,,,,,,,
+206,FPOCF,FPX Nickel Corp,0.532720029,FALSE,2010,,23-Nov,6-Feb,6,6,4,4,23-Nov,6-Feb,22.28603799
+207,FPBF,FPB Financial Corp,$27.60 ,TRUE,,No data fetched for symbol FPBF using YahooDailyReader,,,,,,,,,
+208,FPNUF,FP Newspapers Inc,0.449999988,FALSE,2010,,7-Jan,22-Mar,6,6,4,4,8-Oct,22-Dec,5.230483634
+209,FXTGY,Foxtons Group PLC,1.139999986,TRUE,2014,,,,,,,,,,
+210,FTXGF,Foxtons Group PLC,0.476999998,TRUE,2018,,,,,,,,,,
+211,FXBY,Foxby Corp,2.069999933,FALSE,2009,,26-Sep,10-Dec,8,8,3,3,26-Sep,10-Dec,2.339558506
+212,FXWZF,Fox-Wizel Ltd,30.04439926,TRUE,2019,,,,,,,,,,
+213,FXRVF,Fox River Resources Corp,0.057300001,TRUE,2016,,,,,,,,,,
+214,FOXF,Fox Factory Holding Corp,86.38999939,TRUE,2013,,,,,,,,,,
+215,FOXA,Fox Corp,28.00799942,TRUE,2019,,,,,,,,,,
+216,FOX,Fox Corp,27.53000069,TRUE,2019,,,,,,,,,,
+217,FXCB,Fox Chase Bancorp Inc,$20.34 ,TRUE,,'Date',,,,,,,,,
+218,FJHL,Fovea Jewelry Holdings Ltd,0.142000005,TRUE,2014,,,,,,,,,,
+219,FWAV,Fourth Wave Energy Inc,0.207499996,TRUE,2020,,,,,,,,,,
+220,FOUXF,Fourlis Holdings SA,$2.79 ,TRUE,,No data fetched for symbol FOUXF using YahooDailyReader,,,,,,,,,
+221,FEDU,Four Seasons Education (Cayman) Inc,0.845000029,TRUE,2017,,,,,,,,,,
+222,FOFN,Four Oaks Fincorp Inc,$18.80 ,TRUE,,'Date',,,,,,,,,
+223,FNAUF,Four Nines Gold Inc,0.349999994,TRUE,2020,,,,,,,,,,
+224,BDFH,Four G Holdings Corp,2.25,TRUE,2012,,,,,,,,,,
+225,FCPT,Four Corners Property Trust Inc,28.94000053,TRUE,2015,,,,,,,,,,
+226,FCNE,Four Corners Inc,1.5,FALSE,2009,,9-Oct,23-Dec,4,4,6,6,9-Oct,23-Dec,15.11553148
+227,FHAI,Fountain Healthy Aging Inc,1.00999999,FALSE,2009,,31-Mar,14-Jun,5,5,6,6,31-Mar,14-Jun,12.49011544
+228,FDBH,Founders Bay Holdings,10,TRUE,2017,,,,,,,,,,
+229,FBCP,Founders Bancorp Ca,$23.95 ,TRUE,,'Date',,,,,,,,,
+230,BRLGF,Founders Advantage Capital Corp,0.977800012,TRUE,2013,,,,,,,,,,
+231,FHGDF,Founder Holdings Ltd,0.050000001,FALSE,2010,,29-Aug,12-Nov,5,5,5,5,29-Aug,12-Nov,6.168831085
+232,FMI,Foundation Medicine Inc,137,TRUE,2013,,,,,,,,,,
+233,FDNHQ,Foundation Healthcare Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+234,FBM,Foundation Building Materials Inc,19.18499947,TRUE,2017,,,,,,,,,,
+235,FDNB,Foundation Bancorp,$13.00 ,TRUE,,'Date',,,,,,,,,
+236,FOSUY,Fosun International Ltd,31.79000092,TRUE,2014,,,,,,,,,,
+237,FOSUF,Fosun International Ltd,1.360000014,FALSE,2010,,31-Mar,14-Jun,7,7,3,3,23-Mar,6-Jun,7.129029279
+238,FSXLF,Fosterville South Exploration Ltd,2.25,TRUE,2020,,,,,,,,,,
+239,FOSL,Fossil Group Inc,10.73999977,FALSE,2009,,22-Aug,5-Nov,6,6,5,5,22-Aug,5-Nov,8.200653791
+240,FHNIY,Foschini Group Ltd,10.94999981,FALSE,2010,,30-Aug,13-Nov,6,4,4,6,30-Aug,13-Nov,9.131270337
+241,FHHGF,Foschini Group Ltd,$10.41 ,TRUE,,No data fetched for symbol FHHGF using YahooDailyReader,,,,,,,,,
+242,FORW,Forwardly Inc,0.0095,FALSE,2009,,13-Oct,27-Dec,2,2,9,9,13-Oct,27-Dec,1.923561731
+243,FWP,Forward Pharma A/S,6.599899769,TRUE,2014,,,,,,,,,,
+244,FORD,Forward Industries Inc,1.659999967,FALSE,2009,,27-Jun,10-Sep,7,7,4,4,27-Jun,10-Sep,6.612387667
+245,FWRD,Forward Air Corp,74.73000336,FALSE,2009,,25-Sep,9-Dec,6,6,5,5,25-Sep,9-Dec,9.030717051
+246,FRMB,Forum Mobile Inc,0.039999999,TRUE,2012,,,,,,,,,,
+247,FIII,Forum Merger III Corp,9.812199593,TRUE,2020,,,,,,,,,,
+248,FMCI,Forum Merger II Corp,24.06999969,TRUE,2018,,,,,,,,,,
+249,FET,Forum Energy Technologies Inc,12.53999996,TRUE,2012,,,,,,,,,,
+250,FDCFF,Forum Energy Metals Corp,0.100000001,FALSE,2010,,4-Nov,18-Jan,3,3,7,7,4-Nov,18-Jan,21.09241058
+251,FORU,ForU Holdings Inc,0.039999999,TRUE,2012,,,,,,,,,,
+252,FTSV,Forty Seven Inc,$95.51 ,TRUE,,No data fetched for symbol FTSV using YahooDailyReader,,,,,,,,,
+253,FVTI,Fortune Valley Treasures Inc,2.049999952,TRUE,2017,,,,,,,,,,
+254,FRIVF,Fortune Real Estate Investment Trust,0.904999971,TRUE,2014,,,,,,,,,,
+255,FTMDF,Fortune Minerals Ltd,0.056000002,FALSE,2010,,15-Dec,28-Feb,6,6,4,4,15-Dec,28-Feb,8.607994161
+256,FDVF,Fortune Industries Inc,$0.57 ,TRUE,,No data fetched for symbol FDVF using YahooDailyReader,,,,,,,,,
+257,FBHS,Fortune Brands Home & Security Inc,83.16999817,TRUE,2011,,,,,,,,,,
+258,FTBYF,Fortune Bay Corp,0.949999988,TRUE,2016,,,,,,,,,,
+259,FSM,Fortuna Silver Mines Inc,6.505000114,FALSE,2009,,15-May,29-Jul,6,6,5,5,15-May,29-Jul,11.59970151
+260,FOJCY,Fortum Oyj,4.170000076,FALSE,2010,,7-Jan,22-Mar,7,7,3,3,7-Jan,22-Mar,-1.479691091
+261,FOJCF,Fortum Oyj,20.02000046,FALSE,2010,,28-Jan,12-Apr,5,5,5,5,5-Jun,19-Aug,0.169901148
+262,FAII,Fortress Value Acquisition Corp II,9.869999886,TRUE,2020,,,,,,,,,,
+263,FVAC,Fortress Value Acquisition Corp,14.39000034,TRUE,2020,,,,,,,,,,
+264,FTAI,Fortress Transportation and Infrastructure Investo,20.12000084,TRUE,2015,,,,,,,,,,
+265,FRIFF,Fortress REIT Ltd,$0.70 ,TRUE,,No data fetched for symbol FRIFF using YahooDailyReader,,,,,,,,,
+266,FRTIF,Fortress REIT Ltd,1.330000043,TRUE,2019,,,,,,,,,,
+267,FIG,Fortress Investment Group LLC,$7.85 ,TRUE,,'Date',,,,,,,,,
+268,FTPLF,Fortress Global Enterprises Inc,0.013,FALSE,2010,,9-Dec,22-Feb,5,5,5,5,9-Dec,22-Feb,-3.097548804
+269,FBIO,Fortress Biotech Inc,2.845000029,TRUE,2011,,,,,,,,,,
+270,FRTN,Fortran Corp,0.200000003,FALSE,2009,,17-Mar,31-May,2,2,9,9,17-Mar,31-May,9.917212388
+271,FTV,Fortive Corp,71.54000092,TRUE,2016,,,,,,,,,,
+272,FTS,Fortis Inc,40.96920013,FALSE,2010,,9-Aug,23-Oct,4,4,6,6,30-Aug,13-Nov,4.66813313
+273,FTNT,Fortinet Inc,117.6149979,FALSE,2009,,10-Dec,23-Feb,8,8,3,3,10-Dec,23-Feb,10.11977358
+274,FSUMF,Fortescue Metals Group Ltd,12.38000011,FALSE,2009,,9-Dec,22-Feb,5,5,6,6,9-Dec,22-Feb,10.98595747
+275,FSUGY,Fortescue Metals Group Ltd,24.88999939,TRUE,2012,,,,,,,,,,
+276,FTTRF,Forterra PLC,2.105900049,TRUE,2019,,,,,,,,,,
+277,FRTA,Forterra Inc,16,TRUE,2016,,,,,,,,,,
+278,FTMR,Fortem Resources Inc,0.270000011,FALSE,2009,,11-Dec,24-Feb,4,4,7,7,11-Dec,24-Feb,18.92790458
+279,FBRX,Forte Biosciences Inc,38.27500153,TRUE,2017,,,,,,,,,,
+280,OARFF,Fort St James Nickel Corp,0.119999997,TRUE,2012,,,,,,,,,,
+281,FOSYF,Forsys Metals Corp,0.119999997,FALSE,2009,,9-Nov,23-Jan,4,4,7,7,9-Nov,23-Jan,7.695333361
+282,FORR,Forrester Research Inc,42.58000183,FALSE,2009,,19-Sep,3-Dec,5,5,6,6,19-Sep,3-Dec,6.835752488
+283,VNARF,Forrester Metals Inc,$0.08 ,TRUE,,'Date',,,,,,,,,
+284,FOCF,Forrest City Financial Corp,$15.25 ,TRUE,,'Date',,,,,,,,,
+285,FORTY,Formula Systems (1985) Ltd,81.55000305,FALSE,2009,,6-Mar,20-May,7,7,4,4,6-Mar,20-May,9.710014234
+286,FORM,FormFactor Inc,40.04999924,FALSE,2009,,28-Oct,11-Jan,5,5,6,6,28-Oct,11-Jan,8.987023886
+287,FUIDF,Formation Fluid Management Inc,$0.13 ,TRUE,,No data fetched for symbol FUIDF using YahooDailyReader,,,,,,,,,
+288,FMTX,Forma Therapeutics Holdings Inc,39.65000153,TRUE,2020,,,,,,,,,,
+289,FGNV,Forge Innovation Development Corp,1.5,TRUE,2018,,,,,,,,,,
+290,FRGXF,Forge Group Ltd,$0.84 ,TRUE,,No data fetched for symbol FRGXF using YahooDailyReader,,,,,,,,,
+291,FVEN,Forever Enterprises Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+292,FOR,Forestar Group Inc,19.45000076,FALSE,2009,,7-Nov,21-Jan,6,6,5,5,7-Nov,21-Jan,2.302908165
+293,FCE.B,Forest City Realty Trust Inc,$31.73 ,TRUE,,No data fetched for symbol FCE.B using YahooDailyReader,,,,,,,,,
+294,FCE.A,Forest City Realty Trust Inc,$25.34 ,TRUE,,'Date',,,,,,,,,
+295,FGFH,Foresight Financial Group,25.5,FALSE,2009,,18-Sep,2-Dec,9,9,2,2,15-Oct,29-Dec,3.381477775
+296,FELPQ,Foresight Energy LP,0.0064,TRUE,2017,,,,,,,,,,
+297,FRSX,Foresight Autonomous Holdings Ltd,0.908999979,TRUE,2017,,,,,,,,,,
+298,FSCT,ForeScout Technologies Inc,28.98999977,TRUE,2017,,,,,,,,,,
+299,FENYF,Forent Energy Ltd,$0.22 ,TRUE,,No data fetched for symbol FENYF using YahooDailyReader,,,,,,,,,
+300,FRXX,Forecross Corp,0.029899999,FALSE,2009,,19-May,2-Aug,3,3,8,8,19-May,2-Aug,19.99454366
+301,FCGY,Forecastagility Corp,0.102849998,TRUE,2012,,,,,,,,,,
+302,FOVSY,Ford Otomotiv Sanayi AS,78,TRUE,2012,,,,,,,,,,
+303,FOVSF,Ford Otomotiv Sanayi AS,13.25,TRUE,2017,,,,,,,,,,
+304,F,Ford Motor Co,9.042499542,FALSE,2009,,27-Sep,11-Dec,7,5,4,6,7-Nov,21-Jan,4.812159423
+305,FBOHF,Forbo Holding AG,1385,TRUE,2017,,,,,,,,,,
+306,FBOHY,Forbo Holding AG,29.46100044,TRUE,2013,,,,,,,,,,
+307,FLSS,Forbes Energy Services Ltd,0.061999999,TRUE,2018,,,,,,,,,,
+308,FMCXF,Foran Mining Corp,0.239999995,TRUE,2012,,,,,,,,,,
+309,FRACF,Foraco International SA,0.409999996,FALSE,2009,,30-Nov,13-Feb,6,6,5,5,30-Nov,13-Feb,11.79274208
+310,FL,Foot Locker Inc,40.88000107,FALSE,2009,,16-Jan,31-Mar,8,8,3,3,18-Jan,2-Apr,4.027015798
+311,FTRRF,Fonterra Shareholders Fund,2.450000048,TRUE,2014,,,,,,,,,,
+312,FONR,Fonar Corp,20.05999947,FALSE,2009,,14-Mar,28-May,6,6,5,5,14-Mar,28-May,13.03776329
+313,FMXUF,Fomento Economico Mexicano SAB de CV,7.269999981,TRUE,2012,,,,,,,,,,
+314,FMX,Fomento Economico Mexicano SAB de CV,75.08000183,FALSE,2009,,4-Feb,19-Apr,7,7,4,4,4-Feb,19-Apr,2.859933256
+315,FMOCY,Fomento de Construcciones y Contratas SA,1.330000043,TRUE,2013,,,,,,,,,,
+316,FMOCF,Fomento de Construcciones y Contratas SA,7.331250191,FALSE,2010,,13-Dec,26-Feb,7,5,3,5,13-Dec,26-Feb,3.738850889
+317,FOLB,Folsom Lake Bank Ca,$17.45 ,TRUE,,'Date',,,,,,,,,
+318,FLLIY,Folli Follie Commercial Manufacturing And Technica,2.450000048,TRUE,2015,,,,,,,,,,
+319,FLDI,Folkup Development Inc,6,TRUE,2019,,,,,,,,,,
+320,BFT,Foley Trasimene Acquisition Corp II,10.39000034,TRUE,2020,,,,,,,,,,
+321,WPF,Foley Trasimene Acquisition Corp,10.01000023,TRUE,2020,,,,,,,,,,
+322,FKMCF,Fokus Mining Corp,0.298799992,TRUE,2020,,,,,,,,,,
+323,FOGO,Fogo de Chao Inc,15.75,TRUE,2015,,,,,,,,,,
+324,FHTX,Foghorn Therapeutics Inc,17.59499931,TRUE,2020,,,,,,,,,,
+325,FCCGD,Fog Cutter Capital Group Inc,3.420000076,TRUE,2020,,,,,,,,,,
+326,FOCIF,Focusrite PLC,11.39000034,TRUE,2019,,,,,,,,,,
+327,FCUV,Focus Universal Inc,3,TRUE,2014,,,,,,,,,,
+328,FCSUF,Focus Minerals Ltd,0.25999999,TRUE,2013,,,,,,,,,,
+329,FCSMF,Focus Graphite Inc,0.030999999,TRUE,2011,,,,,,,,,,
+330,FOCS,Focus Financial Partners Inc,38.94499969,TRUE,2018,,,,,,,,,,
+331,FOMX,Foamix Pharmaceuticals Ltd,$2.99 ,TRUE,,No data fetched for symbol FOMX using YahooDailyReader,,,,,,,,,
+332,FNSB,FNS Bancshares Inc,66.66999817,TRUE,2020,,,,,,,,,,
+333,FNMSF,Fnm,$0.74 ,TRUE,,No data fetched for symbol FNMSF using YahooDailyReader,,,,,,,,,
+334,FNCB,FNCB Bancorp Inc,6.400000095,FALSE,2009,,10-Nov,24-Jan,6,6,5,5,10-Nov,24-Jan,7.840292952
+335,FNBP,FNBPA Bancorp Inc,$45.66 ,TRUE,,'Date',,,,,,,,,
+336,FNHM,FNBH Bancorp Inc,2.25999999,TRUE,2012,,,,,,,,,,
+337,FIDS,FNB Inc,23.5,FALSE,2009,,17-Sep,1-Dec,8,8,3,3,28-Dec,13-Mar,4.397146225
+338,FNBB,FNB Financial Corp,$36.25 ,TRUE,,No data fetched for symbol FNBB using YahooDailyReader,,,,,,,,,
+339,FNBG,FNB Bancorp,37.81999969,TRUE,2012,,,,,,,,,,
+340,GRUPF,Fnac Darty SA,46.08000183,TRUE,2013,,,,,,,,,,
+341,FMC,FMC Corp,116.5899963,FALSE,2009,,29-Oct,12-Jan,8,8,3,3,29-Oct,12-Jan,6.457530713
+342,FMBE,FMB Equibanc Inc,$9.00 ,TRUE,,No data fetched for symbol FMBE using YahooDailyReader,,,,,,,,,
+343,FEAC,Flying Eagle Acquisition Corp,13.55000019,TRUE,2020,,,,,,,,,,
+344,FLYLF,FLYHT Aerospace Solutions Ltd,0.450399995,FALSE,2009,,8-Aug,22-Oct,5,5,6,6,8-Aug,22-Oct,11.43350865
+345,FLYBF,Flybe Group PLC,$0.02 ,TRUE,,No data fetched for symbol FLYBF using YahooDailyReader,,,,,,,,,
+346,FLY,Fly Leasing Ltd,8.310099602,FALSE,2009,,22-Mar,5-Jun,7,7,4,4,4-Aug,18-Oct,1.622327674
+347,FLUX,Flux Power Holdings Inc,8.225000381,TRUE,2020,,,,,,,,,,
+348,PDYPY,Flutter Entertainment PLC,86.91500092,TRUE,2015,,,,,,,,,,
+349,PDYPF,Flutter Entertainment PLC,171,FALSE,2009,,8-Sep,22-Nov,5,5,6,6,8-Sep,22-Nov,10.30609634
+350,FFIC,Flushing Financial Corp,13.76000023,FALSE,2009,,21-Oct,4-Jan,8,8,3,3,13-Aug,27-Oct,2.001290114
+351,FLURF,FluroTech Ltd,0.150999993,TRUE,2019,,,,,,,,,,
+352,FLUG,Flurida Group Inc,$0.19 ,TRUE,,No data fetched for symbol FLUG using YahooDailyReader,,,,,,,,,
+353,FLR,Fluor Corp,14.88000011,FALSE,2009,,10-Dec,23-Feb,8,8,3,3,10-Dec,23-Feb,5.808158905
+354,FLUIF,Fluidra SA,20.29929924,TRUE,2019,,,,,,,,,,
+355,FLDM,Fluidigm Corp,6.079999924,TRUE,2011,,,,,,,,,,
+356,UZAPF,Flughafen Zuerich AG,136.9850006,TRUE,2017,,,,,,,,,,
+357,FLGZY,Flughafen Zuerich AG,6.715000153,TRUE,2020,,,,,,,,,,
+358,FLNT,Fluent Inc,3.059999943,FALSE,2009,,24-Oct,7-Jan,4,4,7,7,24-Oct,7-Jan,2.623652798
+359,EMFGF,Fluence Corp Ltd,0.150000006,TRUE,2017,,,,,,,,,,
+360,FLIDY,FLSmidth & Co. A/S,3.029999971,FALSE,2010,,18-Dec,3-Mar,7,7,3,3,18-Dec,3-Mar,9.119308971
+361,FLIDF,FLSmidth & Co. A/S,30.33309937,TRUE,2013,,,,,,,,,,
+362,FLWTF,Flowtech Fluidpower PLC,$1.55 ,TRUE,,No data fetched for symbol FLWTF using YahooDailyReader,,,,,,,,,
+363,FLS,Flowserve Corp,34.75999832,FALSE,2009,,29-Aug,12-Nov,7,7,4,4,28-Jan,12-Apr,2.797138865
+364,FLOD,Flowery Gold Mines Co,0.200000003,TRUE,2012,,,,,,,,,,
+365,FLO,Flowers Foods Inc,22.46500015,FALSE,2009,,27-Feb,12-May,7,7,4,4,14-Feb,29-Apr,6.646038474
+366,FLOOF,Flower One Holdings Inc,0.116460003,TRUE,2018,,,,,,,,,,
+367,FLTDF,Flow Traders NV,31.26000023,TRUE,2017,,,,,,,,,,
+368,AHFCF,Flow Capital Corp,0.230000004,FALSE,2009,,7-Aug,21-Oct,3,2,8,9,26-Mar,9-Jun,3.934896065
+369,FTK,Flotek Industries Inc,2.154999971,FALSE,2009,,2-Feb,17-Apr,8,8,3,3,2-Feb,17-Apr,13.43421025
+370,FPCO,Florida Partners Corp,$1.00 ,TRUE,,No data fetched for symbol FPCO using YahooDailyReader,,,,,,,,,
+371,FND,Floor & Decor Holdings Inc,78.01000214,TRUE,2017,,,,,,,,,,
+372,FLCX,FlooidCX Corp,0.007,TRUE,2016,,,,,,,,,,
+373,FLIR,FLIR Systems Inc,38.52999878,FALSE,2009,,15-Dec,28-Feb,8,8,3,3,15-Dec,28-Feb,6.417222714
+374,FNTSF,Flint International Services Inc,$1.00 ,TRUE,,No data fetched for symbol FNTSF using YahooDailyReader,,,,,,,,,
+375,FLNDF,Flinders Mines Ltd,0.02,TRUE,2012,,,,,,,,,,
+376,FLKM,FlikMedia Inc,$0.01 ,TRUE,,No data fetched for symbol FLKM using YahooDailyReader,,,,,,,,,
+377,FGETF,Flight Centre Travel Group Ltd,9.539999962,FALSE,2010,,2-Jan,17-Mar,3,3,6,6,2-Jan,17-Mar,6.337401477
+378,FLXS,Flexsteel Industries Inc,28.12999916,FALSE,2009,,21-Oct,4-Jan,5,5,6,6,21-Oct,4-Jan,9.619208166
+379,FPAY,FlexShopper Inc,1.690000057,FALSE,2010,,21-Apr,5-Jul,2,2,8,8,21-Apr,5-Jul,22.40462755
+380,FLXP,Flexpower Inc,0.004,TRUE,2012,,,,,,,,,,
+381,FLXT,Flexpoint Sensor Systems Inc,0.035300002,FALSE,2009,,13-Sep,27-Nov,2,2,9,9,13-Sep,27-Nov,23.39450216
+382,FLXN,Flexion Therapeutics Inc,11.38000011,TRUE,2014,,,,,,,,,,
+383,FXMBF,Flexion Mobile PLC,$1.30 ,TRUE,,No data fetched for symbol FXMBF using YahooDailyReader,,,,,,,,,
+384,FLXI,FlexiInternational Software Inc,0.280000001,FALSE,2009,,16-Mar,30-May,4,4,7,7,16-Mar,30-May,8.787599909
+385,FLXGF,FlexiGroup Ltd,$1.17 ,TRUE,,No data fetched for symbol FLXGF using YahooDailyReader,,,,,,,,,
+386,FSI,Flexible Solutions International Inc,2.319900036,FALSE,2009,,5-Apr,19-Jun,7,7,4,4,5-Apr,19-Jun,10.22298284
+387,FLEX,Flex Ltd,16.60499954,FALSE,2009,,18-Dec,3-Mar,9,9,2,2,18-Dec,3-Mar,7.542287872
+388,FLNG,Flex LNG Ltd,7.440000057,TRUE,2019,,,,,,,,,,
+389,FLRYF,Fleury SA,$9.59 ,TRUE,,No data fetched for symbol FLRYF using YahooDailyReader,,,,,,,,,
+390,FLEUF,Fleury Michon,$76.25 ,TRUE,,No data fetched for symbol FLEUF using YahooDailyReader,,,,,,,,,
+391,FRCEF,Fletcher Building Ltd,2.970000029,FALSE,2010,,12-Dec,25-Feb,5,5,5,5,12-Dec,25-Feb,6.434103413
+392,FCREY,Fletcher Building Ltd,7.5,TRUE,2011,,,,,,,,,,
+393,FLWLF,Fleetwood Corp Ltd,$2.00 ,TRUE,,No data fetched for symbol FLWLF using YahooDailyReader,,,,,,,,,
+394,FLEW,Fleetwood Bank Corp,71,TRUE,2012,,,,,,,,,,
+395,FLTX,FleetMatics Group PLC,$60.00 ,TRUE,,'Date',,,,,,,,,
+396,FLT,Fleetcor Technologies Inc,268.3500061,FALSE,2010,,11-Dec,24-Feb,8,8,2,2,11-Dec,24-Feb,9.548447996
+397,FWLAF,FlatWorld Acquisition Corp,0.029999999,TRUE,2012,,,,,,,,,,
+398,FNNTF,Flatex AG,45.40000153,TRUE,2018,,,,,,,,,,
+399,FGSGF,Flat Glass Group Co Ltd,3.24000001,TRUE,2020,,,,,,,,,,
+400,FZRO,FlashZero Corp,0.009,FALSE,2009,,8-Nov,22-Jan,6,6,5,5,8-Nov,22-Jan,-300.7095103
+401,BDL,Flanigan'S Enterprises Inc,17.15500069,FALSE,2009,,4-Apr,18-Jun,6,6,5,5,4-Apr,18-Jun,9.460745835
+402,FAME,Flamemaster Corp,8.399999619,FALSE,2009,,8-Aug,22-Oct,7,6,4,5,17-Jan,1-Apr,3.458617986
+403,FLMP,Flame Seal Products Inc,0.029999999,FALSE,2009,,31-Dec,16-Mar,8,8,3,3,31-Dec,16-Mar,12.73949958
+404,FLC,Flaherty & Crumrine Total Return Fund Inc,23.24990082,FALSE,2009,,22-Mar,5-Jun,9,9,2,2,4-Apr,18-Jun,5.719572941
+405,PFO,Flaherty & Crumrine Prfd Income Oppo,12.47999954,FALSE,2009,,12-Dec,25-Feb,9,9,2,2,12-Dec,25-Feb,6.646249342
+406,FFC,Flaherty & Crumrine Preferred Securities Income Fu,22.57999992,FALSE,2009,,5-Feb,20-Apr,9,7,2,4,21-Mar,4-Jun,7.256840003
+407,PFD,Flaherty & Crumrine Prefd Inc Fund Inc,17.64999962,FALSE,2009,,12-Dec,25-Feb,8,8,3,3,12-Dec,25-Feb,5.625091419
+408,DFP,Flaherty & Crumrine Pref&Inc Allocation,28.3927002,TRUE,2013,,,,,,,,,,
+409,FBC,Flagstar Bancorp Inc,35.13999939,FALSE,2009,,29-Aug,12-Nov,5,5,6,6,29-Aug,12-Nov,0.715383917
+410,FGCN,Flagship Global Corp,0.995000005,TRUE,2016,,,,,,,,,,
+411,FEXXF,Fjordland Exploration Inc,0.072700001,TRUE,2012,,,,,,,,,,
+412,FVRR,Fiverr International Ltd,182.8500061,TRUE,2019,,,,,,,,,,
+413,FIVN,Five9 Inc,139.4700012,TRUE,2014,,,,,,,,,,
+414,FVE,Five Star Senior Living Inc,5.25,FALSE,2009,,5-Nov,19-Jan,5,5,6,6,5-Nov,19-Jan,7.018504039
+415,FPRX,Five Prime Therapeutics Inc,19.84000015,TRUE,2013,,,,,,,,,,
+416,FPH,Five Point Holdings LLC,5.289999962,TRUE,2017,,,,,,,,,,
+417,FIVE,Five Below Inc,155.0200043,TRUE,2012,,,,,,,,,,
+418,FTLF,FitLife Brands Inc,19.5,FALSE,2009,,11-Jul,24-Sep,5,5,6,6,11-Jul,24-Sep,14.65851542
+419,FIT,Fitbit Inc,7.170000076,TRUE,2015,,,,,,,,,,
+420,FCUUF,Fission Uranium Corp,0.189999998,TRUE,2013,,,,,,,,,,
+421,FISOF,Fission 3.0 Corp,0.0493,TRUE,2013,,,,,,,,,,
+422,FSR,Fisker Inc,16.85000038,TRUE,2018,,,,,,,,,,
+423,FKRAF,Fiskars Oyj,17.71999931,TRUE,2012,,,,,,,,,,
+424,FSSN,Fision Corp,0.0075,TRUE,2017,,,,,,,,,,
+425,FSPKY,Fisher & Paykel Healthcare Corp Ltd,$107.40 ,TRUE,,No data fetched for symbol FSPKY using YahooDailyReader,,,,,,,,,
+426,FSPKF,Fisher & Paykel Healthcare Corp Ltd,23.57999992,FALSE,2009,,15-Feb,30-Apr,8,8,3,3,15-Feb,30-Apr,7.281072207
+427,FISV,Fiserv Inc,109.0999985,FALSE,2009,,7-Sep,21-Nov,9,9,2,2,7-Sep,21-Nov,6.179416368
+428,FSV,FirstService Corp,137.0200043,TRUE,2015,,,,,,,,,,
+429,FANDY,Firstrand Ltd,30.77000046,TRUE,2013,,,,,,,,,,
+430,FANDF,Firstrand Ltd,2.279999971,TRUE,2018,,,,,,,,,,
+431,FMER,FirstMerit Corp,$21.61 ,TRUE,,'Date',,,,,,,,,
+432,FTDL,FirsTime Design Ltd,15,FALSE,2009,,19-Apr,3-Jul,8,7,3,4,25-May,8-Aug,15.16707078
+433,SVVC,Firsthand Technology Value Fund Inc,3.878799915,TRUE,2011,,,,,,,,,,
+434,FGROY,FirstGroup PLC,0.860000014,FALSE,2010,,8-Jul,21-Sep,4,3,6,7,8-Jul,21-Sep,6.662194892
+435,FGROF,FirstGroup PLC,0.810000002,TRUE,2012,,,,,,,,,,
+436,FE,FirstEnergy Corp,28.97830009,FALSE,2009,,9-Aug,23-Oct,7,6,4,5,9-Aug,23-Oct,4.213452084
+437,FCFS,FirstCash Inc,66.56500244,FALSE,2009,,1-May,15-Jul,6,6,5,5,1-May,15-Jul,5.0180843
+438,FFHD,FirstAtlantic Financial Holdings Inc,$17.64 ,TRUE,,No data fetched for symbol FFHD using YahooDailyReader,,,,,,,,,
+439,FSRX,Firstar Exploration Corp,$0.05 ,TRUE,,No data fetched for symbol FSRX using YahooDailyReader,,,,,,,,,
+440,FXER,First Xeris Corp,$0.02 ,TRUE,,No data fetched for symbol FXER using YahooDailyReader,,,,,,,,,
+441,MYFW,First Western Financial Inc,17.79999924,TRUE,2018,,,,,,,,,,
+442,FWVB,First West Virginia Bancorp Inc,28.95999908,TRUE,2012,,,,,,,,,,
+443,FVAB,First Vietnamese American Bank,$0.01 ,TRUE,,No data fetched for symbol FVAB using YahooDailyReader,,,,,,,,,
+444,FVANF,First Vanadium Corp,0.426800013,FALSE,2010,,29-May,12-Aug,2,2,8,8,29-May,12-Aug,13.75836387
+445,FUSB,First US Bancshares Inc,8.539999962,FALSE,2009,,21-May,4-Aug,5,5,6,6,21-May,4-Aug,3.677652302
+446,FUNC,First United Corp,14.88160038,FALSE,2009,,28-Feb,13-May,6,6,5,5,28-Feb,13-May,4.639838201
+447,FUBP,First ULB Corp,$29.25 ,TRUE,,No data fetched for symbol FUBP using YahooDailyReader,,,,,,,,,
+448,FAM,First Trust/aberdeen Global Oppo Income,10.19779968,FALSE,2009,,15-Dec,28-Feb,7,5,4,6,17-Dec,2-Mar,3.243035356
+449,FEO,First Trust/aberdeen Emerging Opp Fund,13.32250023,FALSE,2009,,28-Feb,13-May,7,7,4,4,5-Feb,20-Apr,0.675785544
+450,FGB,First Trust Specialty Fnc & Fncl Oppor,3.24000001,FALSE,2009,,12-Dec,25-Feb,8,6,3,5,11-Dec,24-Feb,2.889293752
+451,FCT,First Trust Senior Floating Rate Income Fund II,11.08390045,FALSE,2009,,13-Dec,26-Feb,9,8,2,3,15-Dec,28-Feb,4.494056714
+452,FIV,FIRST TRUST SENIOR FLOATING RATE 2022 TARGET TERM,8.694000244,TRUE,2016,,,,,,,,,,
+453,FPL,First Trust New Opportunities MLP & Energy Fund,4.264999866,TRUE,2014,,,,,,,,,,
+454,FMY,First Trust Mortgage Income Fund,13.67000008,FALSE,2009,,15-Mar,29-May,8,4,3,7,17-Mar,31-May,1.16716639
+455,FEI,First Trust MLP and Energy Income Fund,5.900000095,TRUE,2012,,,,,,,,,,
+456,FPF,First Trust Inter Dur Pref& Income Fund,22.52499962,TRUE,2013,,,,,,,,,,
+457,FSD,First Trust High Income Long/Short Fund,14.22999954,FALSE,2010,,6-Aug,20-Oct,8,8,2,2,13-Dec,26-Feb,3.591593875
+458,FFA,First Trust Enhanced Equity Income Fund,16.58009911,FALSE,2009,,21-Oct,4-Jan,7,7,4,4,23-Mar,6-Jun,4.515412301
+459,FIF,First Trust Energy Infrastructure Fund,10.71000004,TRUE,2011,,,,,,,,,,
+460,FEN,First Trust Energy Income & Growth Fund,10.65499973,FALSE,2009,,6-Dec,19-Feb,7,7,4,4,6-Dec,19-Feb,5.128904866
+461,FDEU,First Trust Dynamic Europe Equity Income Fund,11.15499973,TRUE,2015,,,,,,,,,,
+462,FIRRY,First Tractor Co Ltd,3.74000001,TRUE,2012,,,,,,,,,,
+463,FIRRF,First Tractor Co Ltd,0.370000005,TRUE,2012,,,,,,,,,,
+464,FSFF,First Suffield Financial Inc,11975,TRUE,2014,,,,,,,,,,
+465,FSTF,First State Financial Corp,0.044,TRUE,2012,,,,,,,,,,
+466,FSRFF,First Star Resources Inc,$0.01 ,TRUE,,No data fetched for symbol FSRFF using YahooDailyReader,,,,,,,,,
+467,FSBH,First Southn BK Patterson GA,5.75,TRUE,2020,,,,,,,,,,
+468,FSBK,First South Bancorp Inc.,$18.65 ,TRUE,,'Date',,,,,,,,,
+469,FSBS,First South Bancorp Inc,$1.14 ,TRUE,,No data fetched for symbol FSBS using YahooDailyReader,,,,,,,,,
+470,FSWA,First Sound Bank WA,4.650000095,FALSE,2009,,24-Jun,7-Sep,5,5,6,6,24-Jun,7-Sep,-1.656411706
+471,FSLR,First Solar Inc,82.35269928,FALSE,2009,,4-Nov,18-Jan,4,4,7,7,4-Nov,18-Jan,-0.337514264
+472,FSLUF,First Ship Lease Trust,0.039999999,TRUE,2014,,,,,,,,,,
+473,FSHPY,First Ship Lease Trust,$1.07 ,TRUE,,'Date',,,,,,,,,
+474,FTSB,First Sentry Bancshares Inc,$67.65 ,TRUE,,No data fetched for symbol FTSB using YahooDailyReader,,,,,,,,,
+475,FSXXF,First Sensor AG,40.40000153,TRUE,2019,,,,,,,,,,
+476,FSEI,First Seismic Corp,0.050000001,TRUE,2012,,,,,,,,,,
+477,FIIT,First Security Inc,$37.78 ,TRUE,,No data fetched for symbol FIIT using YahooDailyReader,,,,,,,,,
+478,FSGI,First Security Group Inc,$2.34 ,TRUE,,'Date',,,,,,,,,
+479,FSEA,First Seacoast Bancorp,8.819999695,TRUE,2019,,,,,,,,,,
+480,FSFG,First Savings Financial Group Inc,63.54999924,FALSE,2009,,7-Apr,21-Jun,9,9,2,2,7-Apr,21-Jun,6.337834294
+481,FRFC,First Robinson Financial Corp,51,FALSE,2009,,2-Sep,16-Nov,5,5,6,6,2-Sep,16-Nov,2.906703296
+482,WPNNF,First Responder Technologies Inc,0.092,TRUE,2020,,,,,,,,,,
+483,FSRCY,First Resources Ltd,115.1299973,TRUE,2014,,,,,,,,,,
+484,FTROF,First Resources Ltd,1.110000014,TRUE,2017,,,,,,,,,,
+485,FRSB,First Resource Bank,7.75,FALSE,2009,,1-Dec,14-Feb,6,6,5,5,1-Dec,14-Feb,6.650380995
+486,FRPC,First Republic Corp of America,1.25999999,TRUE,2012,,,,,,,,,,
+487,FRC,First Republic Bank,133.4900055,FALSE,2010,,7-Apr,21-Jun,8,8,2,2,7-Apr,21-Jun,5.713529605
+488,FSRL,First Reliance Bancshares Inc,7.099999905,FALSE,2009,,12-Jun,26-Aug,6,6,5,5,12-Jun,26-Aug,12.92422029
+489,FREVS,First REIT of New Jersey,14.25,FALSE,2009,,8-Nov,22-Jan,6,6,5,5,8-Nov,22-Jan,5.839368787
+490,FESNF,First Real Estate Investment Trust,0.314999998,TRUE,2012,,,,,,,,,,
+491,FRSI,First Rate Staffing Corp,0.050000001,TRUE,2016,,,,,,,,,,
+492,FQVLF,First Quantum Minerals Ltd,12.85000038,FALSE,2009,,25-Aug,8-Nov,7,7,4,4,27-Aug,10-Nov,4.421960368
+493,FPBK,First Priority Financial Corp,$11.50 ,TRUE,,No data fetched for symbol FPBK using YahooDailyReader,,,,,,,,,
+494,FPO,First Potomac Realty Trust,$11.14 ,TRUE,,'Date',,,,,,,,,
+495,FPCG,First Physicians Capital Group Inc,313,TRUE,2012,,,,,,,,,,
+496,FPHHF,First Philippine Holdings Corporation,1.149999976,FALSE,2009,,14-May,28-Jul,6,6,5,5,29-Jan,13-Apr,4.305888241
+497,FPAFY,First Pacific Co Ltd,1.649999976,FALSE,2009,,29-Jun,12-Sep,5,5,6,6,27-Jun,10-Sep,6.141016873
+498,FPAFF,First Pacific Co Ltd,0.314850003,FALSE,2009,,1-Jul,14-Sep,4,4,7,7,1-Jul,14-Sep,5.864140185
+499,FOTB,"First Ottawa Bancshares, Inc.",54.5,FALSE,2009,,6-Jun,20-Aug,7,7,4,4,6-Jun,20-Aug,5.470787064
+500,FLIC,First of Long Island Corp,18.01000023,FALSE,2009,,21-Oct,4-Jan,5,5,6,6,21-Oct,4-Jan,6.5886195
+501,FNWB,First Northwest Bancorp,15.38000011,TRUE,2015,,,,,,,,,,
+502,FNRN,First Northern Community Bancorp,9.25,FALSE,2009,,9-Sep,23-Nov,9,9,2,2,9-Sep,23-Nov,4.8973011
+503,FNFI,First Niles Financial Inc,9.760000229,FALSE,2009,,14-May,28-Jul,6,6,5,5,6-Feb,21-Apr,7.83262009
+504,FNFG,First Niagara Financial Group Inc,$10.18 ,TRUE,,'Date',,,,,,,,,
+505,FNBCQ,First NBC Bank Holding Co,0.027000001,TRUE,2013,,,,,,,,,,
+506,FBSW,First Natl Bankshares,$31.00 ,TRUE,,'Date',,,,,,,,,
+507,FINN,First National of Nebraska Inc,11100,FALSE,2009,,28-Oct,11-Jan,8,8,3,3,28-Oct,11-Jan,5.352027274
+508,FNLIF,First National Financial Corp,27.69000053,FALSE,2010,,20-Aug,3-Nov,7,5,3,5,20-Aug,3-Nov,7.312629699
+509,FNEC,First National Energy Corp,0.056000002,FALSE,2009,,15-Apr,29-Jun,4,4,6,6,15-Apr,29-Jun,14.92967224
+510,FXNC,First National Corp,15,FALSE,2009,,10-Dec,23-Feb,7,7,4,4,10-Dec,23-Feb,7.369354323
+511,FIGR,First National Bank of Groton,375,TRUE,2012,,,,,,,,,,
+512,FIED,First National Bank Fredericksburg,$501.00 ,TRUE,,No data fetched for symbol FIED using YahooDailyReader,,,,,,,,,
+513,FBAK,First National Bank Alaska,188.5,FALSE,2009,,7-Apr,21-Jun,6,5,5,6,5-Mar,19-May,1.050606256
+514,FMBP,First Mountain Bank,$8.75 ,TRUE,,'Date',,,,,,,,,
+515,FFMGF,First Mining Gold Corp,0.324999988,TRUE,2015,,,,,,,,,,
+516,FMBI,First Midwest Bancorp Inc,14.76000023,FALSE,2009,,26-Oct,9-Jan,7,7,4,4,26-Oct,9-Jan,7.202225886
+517,FMBH,First Mid Bancshares Inc,30,FALSE,2009,,16-Apr,30-Jun,5,5,6,6,16-Apr,30-Jun,5.244158975
+518,FMIA,First Miami Bancorp Inc,950,TRUE,2012,,,,,,,,,,
+519,FRME,First Merchants Corp,33.72539902,FALSE,2009,,19-Apr,3-Jul,7,7,4,4,28-Aug,11-Nov,3.58622249
+520,FMBJ,First Menasha Bancshares Inc,$140.00 ,TRUE,,'Date',,,,,,,,,
+521,AG,First Majestic Silver Corp,10.53499985,FALSE,2009,,10-May,24-Jul,6,6,5,5,10-May,24-Jul,12.78467808
+522,FKYS,First Keystone Corp,18.5,FALSE,2009,,23-Apr,7-Jul,7,6,4,5,7-Nov,21-Jan,2.872585686
+523,FJKNF,First Juken Co Ltd,$11.08 ,TRUE,,No data fetched for symbol FJKNF using YahooDailyReader,,,,,,,,,
+524,FIBK,First Interstate BancSystem Inc,40.13000107,FALSE,2010,,26-Sep,10-Dec,4,4,6,6,27-Sep,11-Dec,7.401760711
+525,INBK,First Internet Bancorp,27.09000015,FALSE,2009,,15-Sep,29-Nov,5,5,6,6,15-Sep,29-Nov,7.585821746
+526,FBKIF,First International Bank of Israel Ltd,$11.58 ,TRUE,,No data fetched for symbol FBKIF using YahooDailyReader,,,,,,,,,
+527,FR,First Industrial Realty Trust Inc,42.57500076,FALSE,2009,,24-Sep,8-Dec,7,7,4,4,27-Sep,11-Dec,7.84102046
+528,FFSL,First Independence Corp (Delaware),$17.53 ,TRUE,,'Date',,,,,,,,,
+529,FIEB,First IC Corp,4.949999809,FALSE,2009,,27-Feb,12-May,4,4,7,7,27-Feb,12-May,5.731913848
+530,FHN,First Horizon National Corp,12.50500011,FALSE,2009,,21-Oct,4-Jan,5,5,6,6,21-Oct,4-Jan,8.48750103
+531,FHBI,First Home Bancorp Inc,17.29000092,TRUE,2019,,,,,,,,,,
+532,FHB,First Hawaiian Inc,22.51000023,TRUE,2016,,,,,,,,,,
+533,FHRT,First Hartford Corp,3.299999952,TRUE,2012,,,,,,,,,,
+534,FGBI,First Guaranty Bancshares Inc,17.54000092,TRUE,2012,,,,,,,,,,
+535,MTOMF,First Growth Funds Ltd,0.030999999,TRUE,2014,,,,,,,,,,
+536,FGFI,First Greenwich Financial Inc,10.39999962,TRUE,2019,,,,,,,,,,
+537,FGPHF,First Graphene Ltd,0.140000001,TRUE,2018,,,,,,,,,,
+538,FGBDF,First Global Data Ltd,0.005,TRUE,2016,,,,,,,,,,
+539,FSGCY,First Gen Corporation,11.97999954,TRUE,2015,,,,,,,,,,
+540,FSGCF,First Gen Corporation,$0.55 ,TRUE,,No data fetched for symbol FSGCF using YahooDailyReader,,,,,,,,,
+541,FFWM,First Foundation Inc,18.15500069,TRUE,2014,,,,,,,,,,
+542,FIFG,First Foods Group Inc,0.25,TRUE,2016,,,,,,,,,,
+543,FFNW,First Financial Northwest Inc,11.35000038,FALSE,2009,,3-Nov,17-Jan,9,8,2,3,3-Nov,17-Jan,7.652716322
+544,FFHCF,First Financial Holding Co Ltd,$14.45 ,TRUE,,No data fetched for symbol FFHCF using YahooDailyReader,,,,,,,,,
+545,FFHMY,First Financial Holding Co Ltd,$7.32 ,TRUE,,No data fetched for symbol FFHMY using YahooDailyReader,,,,,,,,,
+546,THFF,First Financial Corp,37.45000076,FALSE,2009,,19-Oct,2-Jan,3,3,8,8,21-Oct,4-Jan,5.866352094
+547,FFIN,First Financial Bankshares Inc,34.56000137,FALSE,2009,,18-Sep,2-Dec,4,4,7,7,18-Sep,2-Dec,10.29352453
+548,FFBC,First Financial Bancorp,17.26000023,FALSE,2009,,29-May,12-Aug,7,6,4,5,29-Sep,13-Dec,7.589569389
+549,FSGB,First Fedreal Of South Carolina Federal Savings Ba,11.85000038,TRUE,2012,,,,,,,,,,
+550,FFNM,First Federal of Northern Michigan Bancorp Inc,8.899999619,TRUE,2012,,,,,,,,,,
+551,FFMR,First Farmers Financial Corp,43.40999985,TRUE,2018,,,,,,,,,,
+552,FFMH,First Farmers and Merchants Corp,27.5,TRUE,2012,,,,,,,,,,
+553,ASKDF,First Energy Metals Ltd,0.131659999,FALSE,2009,,19-Dec,4-Mar,7,7,4,4,19-Dec,4-Mar,10.19335629
+554,FCRD,First Eagle Alternative Capital BDC Inc,3.220000029,FALSE,2010,,24-Sep,8-Dec,4,4,6,6,24-Sep,8-Dec,4.212218358
+555,FDRVF,First Derivatives PLC,39.54999924,TRUE,2013,,,,,,,,,,
+556,FDC,First Data Corp,$31.69 ,TRUE,,No data fetched for symbol FDC using YahooDailyReader,,,,,,,,,
+557,FCWT,First Coweta Bank Ga,$0.05 ,TRUE,,No data fetched for symbol FCWT using YahooDailyReader,,,,,,,,,
+558,FBNK,First Connecticut Bancorp Inc,$11.00 ,TRUE,,No data fetched for symbol FBNK using YahooDailyReader,,,,,,,,,
+559,FCFP,First Community Financial Partners Inc,$12.90 ,TRUE,,'Date',,,,,,,,,
+560,FMFP,First Community Financial Corp,23.70000076,TRUE,2015,,,,,,,,,,
+561,FCCT,First Community Corp Tn,5.5,FALSE,2009,,27-Feb,12-May,4,4,7,7,27-Feb,12-May,5.392436011
+562,FCCO,First Community Corp,17.02000046,FALSE,2009,,13-Jan,28-Mar,8,8,3,3,13-Jan,28-Mar,4.816043547
+563,FCBC,First Community Bankshares Inc,22.39999962,FALSE,2009,,19-Apr,3-Jul,7,7,4,4,19-Apr,3-Jul,4.894348339
+564,FCF,First Commonwealth Financial Corp,10.22000027,FALSE,2009,,21-Oct,4-Jan,7,7,4,4,21-Oct,4-Jan,6.15743189
+565,FCGA,First Commerce Community Bankshares Inc,0.02,TRUE,2012,,,,,,,,,,
+566,CMRB,First Commerce Bank,4,TRUE,2018,,,,,,,,,,
+567,FCNH,First Colebrook Bancorp Inc,$44.80 ,TRUE,,No data fetched for symbol FCNH using YahooDailyReader,,,,,,,,,
+568,FTSSF,First Cobalt Corp,0.105268002,TRUE,2017,,,,,,,,,,
+569,FCLF,First Clover Leaf Financial Corp,$12.50 ,TRUE,,'Date',,,,,,,,,
+570,FCIT,First Citrus Bancorp Inc,19.60000038,TRUE,2016,,,,,,,,,,
+571,FSDK,First Citizens National Bank,74.75,FALSE,2009,,3-Jun,17-Aug,5,5,6,6,3-Jun,17-Aug,2.087633475
+572,FIZN,First Citizens Bancshares Inc (TN),51.20999908,TRUE,2012,,,,,,,,,,
+573,FCNCB,First Citizens BancShares Inc,444,FALSE,2009,,3-Sep,17-Nov,8,8,3,3,3-Sep,17-Nov,9.666571445
+574,FCNCA,First Citizens BancShares Inc,543.289978,FALSE,2009,,26-Sep,10-Dec,6,6,5,5,26-Sep,10-Dec,11.06004466
+575,FCHS,First Choice Healthcare Solutions Inc,0.039999999,TRUE,2011,,,,,,,,,,
+576,FCBP,First Choice Bancorp,16.86000061,TRUE,2018,,,,,,,,,,
+577,FCBS,First Century Bankshares Inc,$23.08 ,TRUE,,'Date',,,,,,,,,
+578,FCXXF,First Capital REIT,11.28079987,TRUE,2012,,,,,,,,,,
+579,FCAP,First Capital Inc,66.69999695,FALSE,2009,,2-May,16-Jul,5,5,6,6,2-Jun,16-Aug,3.664682802
+580,FCPB,First Capital Bancshares Inc,5.949999809,TRUE,2012,,,,,,,,,,
+581,FCVA,First Capital Bancorp Inc,$5.56 ,TRUE,,'Date',,,,,,,,,
+582,FBIZ,First Business Financial Services Inc,20.02000046,FALSE,2009,,27-Mar,10-Jun,7,7,4,4,27-Mar,10-Jun,5.303572282
+583,BUSE,First Busey Corp,21.11000061,FALSE,2009,,19-Apr,3-Jul,6,6,5,5,17-Apr,1-Jul,-1.038386635
+584,BITCF,First Bitcoin Capital Corp,0.109999999,FALSE,2010,,10-Nov,24-Jan,6,6,4,4,10-Nov,24-Jan,33.19156789
+585,FIBCF,First Bauxite Corp,$0.03 ,TRUE,,No data fetched for symbol FIBCF using YahooDailyReader,,,,,,,,,
+586,FBCI,First Banking Center Inc,$0.01 ,TRUE,,No data fetched for symbol FBCI using YahooDailyReader,,,,,,,,,
+587,FBTT,First Bankers Trustshares Inc,25,FALSE,2009,,20-Dec,5-Mar,9,9,2,2,20-Dec,5-Mar,4.494097184
+588,FBOO,First Bank of Ohio,610,TRUE,2013,,,,,,,,,,
+589,FRBA,First Bank,9.319999695,FALSE,2010,,19-Oct,2-Jan,5,5,5,5,19-Oct,2-Jan,7.723780392
+590,FIRT,First BancTrust Corp,34.5,TRUE,2012,,,,,,,,,,
+591,FIBH,"First Bancshares, Inc.",38,TRUE,2013,,,,,,,,,,
+592,FBSI,First Bancshares Inc /MO/,13.75,FALSE,2009,,19-Dec,4-Mar,8,8,3,3,14-Jan,29-Mar,0.507175581
+593,FBMS,First Bancshares Inc,28.41500092,FALSE,2009,,8-Jul,21-Sep,7,7,4,4,8-Jul,21-Sep,5.943232007
+594,FBPI,First Bancorp of Indiana Inc,16.89999962,FALSE,2009,,28-Jul,11-Oct,7,6,4,5,28-Jul,11-Oct,4.461333307
+595,FNLC,First Bancorp Inc,24.70999908,FALSE,2009,,20-May,3-Aug,2,2,9,9,13-May,27-Jul,6.999059283
+596,FBLV,First Bancorp,$57.00 ,TRUE,,No data fetched for symbol FBLV using YahooDailyReader,,,,,,,,,
+597,FBP,First BanCorp,8.305000305,FALSE,2009,,21-Oct,4-Jan,5,5,6,6,21-Oct,4-Jan,11.91673638
+598,FBNC,First Bancorp,33.66999817,FALSE,2009,,19-Sep,3-Dec,7,7,4,4,20-Sep,4-Dec,8.667312266
+599,FAHLF,First Asia Holdings Ltd,$0.10 ,TRUE,,No data fetched for symbol FAHLF using YahooDailyReader,,,,,,,,,
+600,FAFL,First Americano Financial Corp,0.01,TRUE,2012,,,,,,,,,,
+601,FAIT,First American International Corp,$46.50 ,TRUE,,No data fetched for symbol FAIT using YahooDailyReader,,,,,,,,,
+602,FAF,First American Financial Corp,50.43999863,FALSE,2010,,23-Jun,6-Sep,8,8,2,2,23-Jun,6-Sep,7.785766721
+603,FSTJ,First America Resources Corp,0.109999999,TRUE,2012,,,,,,,,,,
+604,FABR,First Alliance Bancshares Inc,$11.00 ,TRUE,,No data fetched for symbol FABR using YahooDailyReader,,,,,,,,,
+605,FABK,First Advantage Bancorp,$17.75 ,TRUE,,No data fetched for symbol FABK using YahooDailyReader,,,,,,,,,
+606,FACO,First Acceptance Corp,1.25999999,FALSE,2009,,9-Jan,24-Mar,6,6,5,5,9-Jan,24-Mar,1.264336803
+607,FRMA,Firma Holdings Corp,0.029999999,FALSE,2009,,19-Dec,4-Mar,5,5,6,6,19-Dec,4-Mar,13.34472199
+608,FRMUF,Firm Capital Property Trust,4.400000095,TRUE,2019,,,,,,,,,,
+609,FCMGF,Firm Capital Mortgage Investment Corp,9.287879944,TRUE,2013,,,,,,,,,,
+610,FCAFF,Firm Capital Apartment REIT,5.201499939,TRUE,2020,,,,,,,,,,
+611,FWEDF,Fireweed Zinc Ltd,0.795000017,TRUE,2017,,,,,,,,,,
+612,FRWRF,Fireswirl Technologies Inc,0.104999997,TRUE,2013,,,,,,,,,,
+613,FSVEF,Firestone Ventures Inc,0.102449998,TRUE,2012,,,,,,,,,,
+614,FFOXF,FireFox Gold Corp,0.144199997,TRUE,2020,,,,,,,,,,
+615,MNDMF,Firefly Resources Ltd,0.039999999,TRUE,2017,,,,,,,,,,
+616,EEYMF,Firefinch Ltd,0.129999995,TRUE,2016,,,,,,,,,,
+617,FEYE,FireEye Inc,14.45499992,TRUE,2013,,,,,,,,,,
+618,FFGI,Firebrand Financial Group Inc,0.01,TRUE,2012,,,,,,,,,,
+619,FVGCF,Fire River Gold Corp.,0.155000001,FALSE,2010,,12-May,26-Jul,5,5,5,5,12-May,26-Jul,-27.93407394
+620,FFLWF,Fire & Flower Holdings Corp,0.639999986,TRUE,2019,,,,,,,,,,
+621,FTGFF,Firan Technology Group Corp,1.317999959,TRUE,2012,,,,,,,,,,
+622,FIOGF,Fiore Gold Ltd,1.159999967,TRUE,2012,,,,,,,,,,
+623,FIORF,Fiore Cannabis Ltd,0.104999997,TRUE,2020,,,,,,,,,,
+624,FINV,FinVolution Group,2.049999952,TRUE,2017,,,,,,,,,,
+625,SLXXF,Fintech Select Ltd,0.020199999,TRUE,2013,,,,,,,,,,
+626,FTAC,FinTech Acquisition Corp III,11.36999989,TRUE,2019,,,,,,,,,,
+627,FNTE,FinTech Acquisition Corp II,9.909999847,TRUE,2017,,,,,,,,,,
+628,FSRV,FinServ Acquisition Corp,10,TRUE,2019,,,,,,,,,,
+629,FFGRF,Finsbury Food Group PLC,$1.52 ,TRUE,,No data fetched for symbol FFGRF using YahooDailyReader,,,,,,,,,
+630,FTGI,Finotec Group Inc,0.027000001,FALSE,2009,,14-Aug,28-Oct,4,4,7,7,14-Aug,28-Oct,29.0549916
+631,FINGF,Finning International Inc,18.43000031,FALSE,2009,,17-Jul,30-Sep,7,6,4,5,31-May,14-Aug,5.191851549
+632,FNNNF,Finnair Oyj,0.720000029,TRUE,2013,,,,,,,,,,
+633,FYMNF,Finlay Minerals Ltd,0.089040004,TRUE,2017,,,,,,,,,,
+634,FNJN,Finjan Holdings Inc,1.539999962,TRUE,2013,,,,,,,,,,
+635,FINL,Finish Line Inc,13.51000023,TRUE,2012,,,,,,,,,,
+636,FNSR,Finisar Corp,$23.77 ,TRUE,,No data fetched for symbol FNSR using YahooDailyReader,,,,,,,,,
+637,FGRRF,Fingerprint Cards AB,1.671800017,TRUE,2013,,,,,,,,,,
+638,FNGR,FingerMotion Inc,6.119999886,TRUE,2017,,,,,,,,,,
+639,FNBT,FineMark Holdings Inc,21,TRUE,2019,,,,,,,,,,
+640,FCBBF,FinecoBank SpA,14.69999981,TRUE,2018,,,,,,,,,,
+641,FDIT,Findit Inc,0.1127,FALSE,2009,,29-Dec,14-Mar,9,9,2,2,29-Dec,14-Mar,28.3858227
+642,TNSGF,Findev Inc,0.330390006,FALSE,2010,,29-Jul,12-Oct,4,4,6,6,29-Jul,12-Oct,5.13720096
+643,YUANF,Fincera Inc,0.07,FALSE,2009,,23-Dec,8-Mar,7,7,4,4,23-Dec,8-Mar,14.8092668
+644,FNCNF,Fincantieri SpA,0.550000012,TRUE,2018,,,,,,,,,,
+645,FNNZF,FinCanna Capital Corp,0.040399998,TRUE,2018,,,,,,,,,,
+646,FBGRF,Finbond Group Ltd,0.230000004,TRUE,2019,,,,,,,,,,
+647,FNBRF,Finbar Group Ltd,$1.16 ,TRUE,,No data fetched for symbol FNBRF using YahooDailyReader,,,,,,,,,
+648,FCODF,Financiere de l'Odet SA,809,TRUE,2014,,,,,,,,,,
+649,FISI,Financial Institutions Inc,20.37999916,FALSE,2009,,16-Oct,30-Dec,6,5,5,6,19-Oct,2-Jan,8.252982885
+650,FGCO,Financial Gravity Companies Inc,0.150999993,TRUE,2012,,,,,,,,,,
+651,FNGN,Financial Engines Inc,44.95000076,TRUE,2012,,,,,,,,,,
+652,FNNCF,Financial 15 Split Corp,2.684999943,TRUE,2016,,,,,,,,,,
+653,FNBLF,Finablr PLC,0.99000001,TRUE,2020,,,,,,,,,,
+654,FLTCF,Filtronic PLC,0.100000001,TRUE,2012,,,,,,,,,,
+655,FLMMF,Filo Mining Corp,1.340899944,TRUE,2019,,,,,,,,,,
+656,FVSMF,Filinvest Land Inc,$0.02 ,TRUE,,No data fetched for symbol FVSMF using YahooDailyReader,,,,,,,,,
+657,FILIY,Filinvest Development Corporation,$11.69 ,TRUE,,No data fetched for symbol FILIY using YahooDailyReader,,,,,,,,,
+658,FXCNY,FIH Mobile Ltd,2.24000001,FALSE,2010,,5-Jul,18-Sep,5,5,5,5,5-Jul,18-Sep,4.188758845
+659,FXCNF,FIH Mobile Ltd,0.122699998,FALSE,2009,,13-Aug,27-Oct,6,6,5,5,13-Aug,27-Oct,3.375440023
+660,FLKDF,FIH Group PLC,2.849999905,TRUE,2012,,,,,,,,,,
+661,FITB,Fifth Third Bancorp,26.17499924,FALSE,2009,,24-Oct,7-Jan,6,6,5,5,24-Oct,7-Jan,8.069284958
+662,FSAM,Fifth Street Asset Management Inc,0.333999991,TRUE,2014,,,,,,,,,,
+663,FRGI,Fiesta Restaurant Group Inc,11.53999996,TRUE,2012,,,,,,,,,,
+664,FRRPF,Fiera Capital Corp,8.03619957,TRUE,2016,,,,,,,,,,
+665,FLMNY,Fielmann AG,12.25,TRUE,2017,,,,,,,,,,
+666,FLMNF,Fielmann AG,48.40850067,TRUE,2013,,,,,,,,,,
+667,FPPP,FieldPoint Petroleum Corp,0.006,TRUE,2012,,,,,,,,,,
+668,FTRPF,Field Trip Health Ltd,3.284199953,TRUE,2020,,,,,,,,,,
+669,FDUS,Fidus Investment Corp,12.94999981,TRUE,2011,,,,,,,,,,
+670,FMO,Fiduciary/Claymore Energy Infrastructure Fund,5.480000019,FALSE,2009,,6-Dec,19-Feb,7,6,4,5,22-Jan,6-Apr,-39.57187828
+671,FDGRY,Fidessa Group PLC,$26.87 ,TRUE,,No data fetched for symbol FDGRY using YahooDailyReader,,,,,,,,,
+672,FDGRF,Fidessa Group PLC,$53.09 ,TRUE,,No data fetched for symbol FDGRF using YahooDailyReader,,,,,,,,,
+673,LION,Fidelity Southern Corp,$30.97 ,TRUE,,No data fetched for symbol LION using YahooDailyReader,,,,,,,,,
+674,FIS,Fidelity National Information Services Inc,145.7899933,FALSE,2009,,19-Mar,2-Jun,9,9,2,2,19-Mar,2-Jun,7.704948587
+675,FNFV,Fidelity National Financial Inc,$17.35 ,TRUE,,'Date',,,,,,,,,
+676,FNF,Fidelity National Financial Inc,36.1128006,FALSE,2009,,27-Jun,10-Sep,8,8,3,3,27-Jun,10-Sep,6.360362775
+677,SAIDF,Fidelity Minerals Corp,0.079999998,TRUE,2012,,,,,,,,,,
+678,FDHC,Fidelity Holding Corp,0.200000003,TRUE,2014,,,,,,,,,,
+679,FFIRD,Fidelity First Financial Corp,$0.05 ,TRUE,,'Date',,,,,,,,,
+680,FDLB,Fidelity Federal Bancorp,100,TRUE,2012,,,,,,,,,,
+681,FDBC,Fidelity D & D Bancorp Inc,60,FALSE,2009,,10-Aug,24-Oct,6,6,5,5,12-Aug,26-Oct,4.379673441
+682,FGL,Fidelity & Guaranty Life,285,TRUE,2020,,,,,,,,,,
+683,FGEN,FibroGen Inc,41.97000122,TRUE,2014,,,,,,,,,,
+684,FCSC,Fibrocell Science Inc,$3.00 ,TRUE,,No data fetched for symbol FCSC using YahooDailyReader,,,,,,,,,
+685,FBR,Fibria Celulose SA,40.5,TRUE,2012,,,,,,,,,,
+686,DBMXF,FibraHotel,0.185000002,TRUE,2013,,,,,,,,,,
+687,FBASF,Fibra Uno Administracion SA de CV,0.786000013,TRUE,2013,,,,,,,,,,
+688,FBBPF,FIBRA Prologis,2.099999905,TRUE,2015,,,,,,,,,,
+689,DBMBF,FIBRA Macquarie,1.187999964,TRUE,2013,,,,,,,,,,
+690,GRFFF,Fibra Danhos,0.970799983,TRUE,2020,,,,,,,,,,
+691,FCAU,Fiat Chrysler Automobiles NV,15.02999973,FALSE,2010,,12-Nov,26-Jan,7,7,3,3,12-Nov,26-Jan,10.09127569
+692,GHAR,FHT Future Technology Ltd,1.200000048,TRUE,2020,,,,,,,,,,
+693,FG,FGL Holdings,$8.39 ,TRUE,,No data fetched for symbol FG using YahooDailyReader,,,,,,,,,
+694,FFWC,FFW Corp,41.25,FALSE,2009,,30-Jul,13-Oct,10,10,1,1,31-Dec,16-Mar,6.403860953
+695,SFFFF,FFP SA,76.5,TRUE,2015,,,,,,,,,,
+696,XXFPL,FFP Partners LP,0.006,TRUE,2012,,,,,,,,,,
+697,FFHHF,FFI Holdings PLC,$0.31 ,TRUE,,No data fetched for symbol FFHHF using YahooDailyReader,,,,,,,,,
+698,FFDF,FFD Financial Corp,71.90000153,FALSE,2009,,25-Sep,9-Dec,9,8,2,3,17-Sep,1-Dec,8.460274252
+699,FFBW,FFBW Inc,9.600000381,TRUE,2017,,,,,,,,,,
+700,FQVTF,Fevertree Drinks PLC,32.09999847,TRUE,2015,,,,,,,,,,
+701,FTZZF,Fertoz Ltd,0.115000002,TRUE,2018,,,,,,,,,,
+702,FRRVY,Ferrovial SA,27.9829998,FALSE,2010,,26-Jun,9-Sep,6,6,4,4,26-Jun,9-Sep,7.200866596
+703,FRRVF,Ferrovial SA,27.85059929,TRUE,2012,,,,,,,,,,
+704,FRRZF,Ferrotec Holdings Corp,$25.50 ,TRUE,,No data fetched for symbol FRRZF using YahooDailyReader,,,,,,,,,
+705,GSM,Ferroglobe PLC,0.742500007,FALSE,2009,,9-Jan,24-Mar,8,8,3,3,22-Dec,7-Mar,4.705445691
+706,FOE,Ferro Corp,14.17000008,FALSE,2009,,12-Feb,27-Apr,7,7,4,4,12-Feb,27-Apr,2.150419544
+707,FEEXF,Ferrexpo PLC,2.624799967,TRUE,2012,,,,,,,,,,
+708,FGPR,Ferrellgas Partners LP,0.319499999,TRUE,2019,,,,,,,,,,
+709,RACE,Ferrari NV,214.4900055,TRUE,2015,,,,,,,,,,
+710,FRNFF,Feronia Inc,0.009,TRUE,2014,,,,,,,,,,
+711,FERGY,Ferguson PLC,10.61800003,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,9-Jul,22-Sep,6.389751756
+712,WOSCF,Ferguson PLC,105.25,FALSE,2010,,30-Oct,13-Jan,7,7,3,3,30-Oct,13-Jan,8.185403662
+713,FETM,Fentura Financial Inc,19,FALSE,2009,,30-Jan,14-Apr,9,9,2,2,1-Feb,16-Apr,15.28371651
+714,FNERY,Fenner PLC,$4.10 ,TRUE,,No data fetched for symbol FNERY using YahooDailyReader,,,,,,,,,
+715,FNERF,Fenner PLC,$8.60 ,TRUE,,No data fetched for symbol FNERF using YahooDailyReader,,,,,,,,,
+716,FENC,Fennec Pharmaceuticals Inc,8.069999695,TRUE,2017,,,,,,,,,,
+717,FDVXF,FenixOro Gold Corp,0.379299998,TRUE,2019,,,,,,,,,,
+718,FENX,Fenix Parts Inc,0.395099998,TRUE,2015,,,,,,,,,,
+719,FNXTF,Fenix Outdoor International Ltd,109.1999969,TRUE,2017,,,,,,,,,,
+720,FNXLF,Fenix Financial Ltd,0.059900001,TRUE,2012,,,,,,,,,,
+721,ELGSF,Fengro Industries Corp,$0.02 ,TRUE,,No data fetched for symbol ELGSF using YahooDailyReader,,,,,,,,,
+722,FEBHF,Fenerbahce Futbol Anonim Sirketi,$13.21 ,TRUE,,No data fetched for symbol FEBHF using YahooDailyReader,,,,,,,,,
+723,FLZOF,Fellazo Inc,$10.05 ,TRUE,,No data fetched for symbol FLZOF using YahooDailyReader,,,,,,,,,
+724,FLLZ,Fellazo Corp,$14.00 ,TRUE,,No data fetched for symbol FLLZ using YahooDailyReader,,,,,,,,,
+725,FCH,FelCor Lodging Trust Inc,$7.30 ,TRUE,,'Date',,,,,,,,,
+726,FSHRF,Feishang Anthracite Resources Ltd,0.119999997,TRUE,2014,,,,,,,,,,
+727,FEIC,FEI Co,$106.89 ,TRUE,,'Date',,,,,,,,,
+728,FNHC,FedNat Holding Co,6.079999924,FALSE,2009,,14-May,28-Jul,5,5,6,6,14-May,28-Jul,1.290856107
+729,FDX,FedEx Corp,287.1099854,FALSE,2009,,27-Aug,10-Nov,6,5,5,6,22-Sep,6-Dec,9.59475576
+730,FMN,Federated Premier Municipal Income Fund,14.72000027,FALSE,2009,,15-Mar,29-May,8,7,3,4,18-Mar,1-Jun,4.59647123
+731,FPT,Federated Premier Intmd Muni Income Fund,54000,FALSE,2010,,11-Jul,24-Sep,8,8,2,2,11-Jul,24-Sep,4.333189065
+732,FHI,Federated Hermes Inc,28.20000076,FALSE,2009,,14-Oct,28-Dec,7,4,4,7,9-Nov,23-Jan,2.432226669
+733,FDML,Federal-Mogul Holdings Corp,$9.98 ,TRUE,,'Date',,,,,,,,,
+734,FSAC,Federal Street Acquisition Corp,10.10999966,TRUE,2017,,,,,,,,,,
+735,FSS,Federal Signal Corp,32.72990036,FALSE,2009,,12-Mar,26-May,4,4,7,7,4-Mar,18-May,4.787456217
+736,FSCR,Federal Screw Works,4.889999866,FALSE,2009,,2-May,16-Jul,6,6,5,5,2-May,16-Jul,15.46270597
+737,FRT,Federal Realty Investment Trust,92.20999908,FALSE,2009,,19-May,2-Aug,8,8,3,3,20-May,3-Aug,4.212395349
+738,FLFG,Federal Life Group Inc,10.75,TRUE,2019,,,,,,,,,,
+739,FMCC,Federal Home Loan Mortgage Corp,1.789999962,FALSE,2009,,20-Mar,3-Jun,6,6,5,5,20-Mar,3-Jun,8.423976794
+740,FEDC,Federal Casters Corp,0.25,TRUE,2012,,,,,,,,,,
+741,AGM.A,Federal Agricultural Mortgage Corp,$61.51 ,TRUE,,No data fetched for symbol AGM.A using YahooDailyReader,,,,,,,,,
+742,AGM,Federal Agricultural Mortgage Corp,69.63500214,FALSE,2009,,6-Aug,20-Oct,9,9,2,2,6-Aug,20-Oct,5.784111974
+743,FERL,Fearless Films Inc,0.020500001,TRUE,2014,,,,,,,,,,
+744,FDDMF,FDM Group (Holdings) PLC,13.75,TRUE,2018,,,,,,,,,,
+745,CAOHF,FDG Electric Vehicles Ltd,0.090000004,TRUE,2018,,,,,,,,,,
+746,FDCT,FDCTech Inc,0.349999994,TRUE,2020,,,,,,,,,,
+747,FBVI,Fcn Banc Corp,39.65999985,FALSE,2009,,14-Mar,28-May,6,6,5,5,21-Mar,4-Jun,2.747788753
+748,FCGN,FCG Inc,0.75,TRUE,2012,,,,,,,,,,
+749,FCIC,FCCC Inc,0.287999988,FALSE,2009,,23-May,6-Aug,1,1,10,10,23-May,6-Aug,23.48327007
+750,FCB,FCB Financial Holdings Inc,33.58000183,TRUE,2014,,,,,,,,,,
+751,FCBE,FCB Bancorp Inc,$38.50 ,TRUE,,'Date',,,,,,,,,
+752,FBRKF,FBR Ltd,0.039999999,TRUE,2017,,,,,,,,,,
+753,FBRC,FBR & Co,$17.55 ,TRUE,,'Date',,,,,,,,,
+754,FFG,FBL Financial Group Inc,51.86000061,FALSE,2009,,7-Aug,21-Oct,6,6,5,5,12-Aug,26-Oct,7.262204297
+755,FBDHY,FBD Holdings PLC,$2.98 ,TRUE,,No data fetched for symbol FBDHY using YahooDailyReader,,,,,,,,,
+756,FBDHF,FBD Holdings PLC,$9.80 ,TRUE,,No data fetched for symbol FBDHF using YahooDailyReader,,,,,,,,,
+757,FBK,FB Financial Corp,33.40999985,TRUE,2016,,,,,,,,,,
+758,FAVO,Favo Realty Inc,0.300000012,TRUE,2012,,,,,,,,,,
+759,FURCY,Faurecia SE,$28.65 ,TRUE,,No data fetched for symbol FURCY using YahooDailyReader,,,,,,,,,
+760,FURCF,Faurecia SE,36.79999924,TRUE,2012,,,,,,,,,,
+761,FBSS,Fauquier Bankshares Inc,16.04000092,FALSE,2009,,11-Nov,25-Jan,9,9,2,2,11-Nov,25-Jan,2.91324707
+762,FATLF,Fattal Holdings (1998) Ltd,24.75,TRUE,2020,,,,,,,,,,
+763,FTHM,Fathom Holdings Inc,21.62999916,TRUE,2020,,,,,,,,,,
+764,FFTTF,Fatfish Group Ltd,0.02,TRUE,2018,,,,,,,,,,
+765,FATE,Fate Therapeutics Inc,51.61500168,TRUE,2013,,,,,,,,,,
+766,FAT,FAT Brands Inc,5.625,TRUE,2017,,,,,,,,,,
+767,FSLY,Fastly Inc,81.51000214,TRUE,2019,,,,,,,,,,
+768,FSJPF,FastJet PLC,12.18000031,TRUE,2015,,,,,,,,,,
+769,FAST,Fastenal Co,48.11000061,FALSE,2009,,19-Oct,2-Jan,9,9,2,2,19-Oct,2-Jan,9.15181605
+770,FBSE,Fastbase Inc,9,TRUE,2012,,,,,,,,,,
+771,FRCOY,Fast Retailing Co Ltd,82.77999878,FALSE,2010,,13-Oct,27-Dec,3,3,7,7,13-Oct,27-Dec,10.91090366
+772,FRCOF,Fast Retailing Co Ltd,827,FALSE,2010,,12-Oct,26-Dec,5,4,5,6,12-Oct,26-Dec,10.70950497
+773,GFGVF,Fast Line Holding Inc,$4.00 ,TRUE,,No data fetched for symbol GFGVF using YahooDailyReader,,,,,,,,,
+774,FST,FAST Acquisition Corp,9.800000191,TRUE,2020,,,,,,,,,,
+775,FPHAF,Faron Pharmaceuticals Oy,3.579999924,TRUE,2020,,,,,,,,,,
+776,FFRRF,Faroe Petroleum PLC,$2.02 ,TRUE,,No data fetched for symbol FFRRF using YahooDailyReader,,,,,,,,,
+777,FARO,Faro Technologies Inc,66.27999878,FALSE,2009,,17-Dec,2-Mar,7,7,4,4,17-Dec,2-Mar,8.04470095
+778,FAMI,Farmmi Inc,0.833100021,TRUE,2018,,,,,,,,,,
+779,FPIpB,Farmland Partners Inc,$25.58 ,TRUE,,No data fetched for symbol FPIpB using YahooDailyReader,,,,,,,,,
+780,FPI,Farmland Partners Inc,8.199999809,TRUE,2014,,,,,,,,,,
+781,FMHS,Farmhouse Inc,1,TRUE,2012,,,,,,,,,,
+782,FMNB,Farmers National Banc Corp,13.11999989,FALSE,2009,,24-Mar,7-Jun,6,6,5,5,24-Mar,7-Jun,5.118332932
+783,FFKT,Farmers Capital Bank Corp,56.90000153,TRUE,2012,,,,,,,,,,
+784,FBVA,Farmers Bankshares Inc,12.78999996,TRUE,2012,,,,,,,,,,
+785,FBPA,Farmers Bank of Appomattox,25.5,FALSE,2009,,3-Jan,18-Mar,9,9,2,2,3-Jan,18-Mar,6.618545295
+786,FABP,Farmers Bancorp,36.20000076,FALSE,2009,,14-May,28-Jul,7,7,4,4,31-May,14-Aug,3.099675936
+787,FMFG,Farmers and Merchants Bancshares Inc (MD),12.75,FALSE,2009,,30-Sep,14-Dec,7,7,4,4,17-Sep,1-Dec,6.251651696
+788,FMBN,Farmers and Merchants Bancshares Inc,25,FALSE,2009,,9-Nov,23-Jan,3,3,8,8,9-Nov,23-Jan,3.757099597
+789,FMBL,Farmers & Merchants Bank of Long Beach,6400,FALSE,2009,,19-May,2-Aug,8,8,3,3,27-Mar,10-Jun,1.927134666
+790,FMBA,Farmers & Merchants Bancorp Inc,$20.00 ,TRUE,,No data fetched for symbol FMBA using YahooDailyReader,,,,,,,,,
+791,FMAO,Farmers & Merchants Bancorp Inc,23.57010078,FALSE,2009,,15-Mar,29-May,7,7,4,4,14-Mar,28-May,5.176875162
+792,FMCB,Farmers & Merchants Bancorp,718,FALSE,2009,,23-May,6-Aug,5,5,6,6,16-Apr,30-Jun,5.201070278
+793,FARM,Farmer Bros Co,4.550000191,FALSE,2009,,27-Oct,10-Jan,3,3,8,8,27-Oct,10-Jan,9.624947501
+794,FLAF,Farm Lands of Africa Inc,0.050000001,FALSE,2009,,20-Jun,3-Sep,3,3,8,8,20-Jun,3-Sep,16.26055301
+795,FTCH,Farfetch Ltd,45.20999908,TRUE,2018,,,,,,,,,,
+796,FRRSF,Far Resources Ltd,0.0352,TRUE,2016,,,,,,,,,,
+797,FPAC,Far Point Acquisition Corp,10.68999958,TRUE,2018,,,,,,,,,,
+798,FETLF,Far EasTone Telecommunications Co Ltd,34.84999847,TRUE,2014,,,,,,,,,,
+799,FEOTF,Far EasTone Telecommunications Co Ltd,$1.00 ,TRUE,,No data fetched for symbol FEOTF using YahooDailyReader,,,,,,,,,
+800,FREWF,Far Eastern New Century Corp,$8.17 ,TRUE,,No data fetched for symbol FREWF using YahooDailyReader,,,,,,,,,
+801,FEHZY,Far East Horizon Ltd,$12.47 ,TRUE,,No data fetched for symbol FEHZY using YahooDailyReader,,,,,,,,,
+802,FRTCF,Far East Consortium International Ltd,0.294999987,TRUE,2012,,,,,,,,,,
+803,FANUY,Fanuc Corp,23.71990013,FALSE,2010,,12-Sep,26-Nov,5,5,5,5,4-Feb,19-Apr,4.216375721
+804,FANUF,Fanuc Corp,232,FALSE,2010,,28-Aug,11-Nov,5,5,5,5,23-Aug,6-Nov,8.457009267
+805,VNDSL,Fantex Inc,$7.90 ,TRUE,,No data fetched for symbol VNDSL using YahooDailyReader,,,,,,,,,
+806,SANUL,Fantex Inc,$11.00 ,TRUE,,No data fetched for symbol SANUL using YahooDailyReader,,,,,,,,,
+807,JKMTL,Fantex Inc,7,TRUE,2019,,,,,,,,,,
+808,JEFFL,Fantex Inc,7,TRUE,2019,,,,,,,,,,
+809,BRKSL,Fantex Inc,6,TRUE,2019,,,,,,,,,,
+810,FHDXF,Fantasia Holdings Group Co Ltd,$0.18 ,TRUE,,No data fetched for symbol FHDXF using YahooDailyReader,,,,,,,,,
+811,FUNFF,Fansunite Entertainment Inc,0.287,TRUE,2020,,,,,,,,,,
+812,FFZY,Fansfrenzy Corp,0.006,TRUE,2013,,,,,,,,,,
+813,FNMA,Fannie Mae,1.860000014,FALSE,2009,,9-Dec,22-Feb,6,6,5,5,9-Dec,22-Feb,10.13722025
+814,FANH,Fanhua Inc,15.02999973,FALSE,2009,,6-Apr,20-Jun,6,6,5,5,4-Apr,18-Jun,9.286115722
+815,DUO,Fangdd Network Group Ltd,7.199999809,TRUE,2019,,,,,,,,,,
+816,SFUN,Fang Holdings Ltd,10.39500046,FALSE,2010,,16-Dec,1-Mar,2,2,8,8,16-Dec,1-Mar,3.025999414
+817,FDMSF,Fandom Sports Media Corp,0.074199997,TRUE,2011,,,,,,,,,,
+818,FNCJF,Fancamp Exploration Ltd,0.090000004,FALSE,2010,,8-Dec,21-Feb,5,5,5,5,8-Dec,21-Feb,11.17424184
+819,FCMUF,Fan Communications Inc,$8.27 ,TRUE,,No data fetched for symbol FCMUF using YahooDailyReader,,,,,,,,,
+820,FMBRY,Famous Brands Ltd,10.5,TRUE,2013,,,,,,,,,,
+821,FMBRF,Famous Brands Ltd,2.75,TRUE,2013,,,,,,,,,,
+822,FYRTY,FamilyMart Co Ltd,20.80999947,FALSE,2010,,12-Apr,26-Jun,5,4,5,6,28-Apr,12-Jul,6.068952383
+823,FYRTF,FamilyMart Co Ltd,$17.81 ,TRUE,,No data fetched for symbol FYRTF using YahooDailyReader,,,,,,,,,
+824,FMZNF,Family Zone Cyber Safety Ltd,0.349999994,TRUE,2018,,,,,,,,,,
+825,FMYR,Family Room Entertainment Corp,0.219999999,FALSE,2009,,28-Apr,12-Jul,4,4,7,7,28-Apr,12-Jul,14.92805632
+826,FMPR,Fame Productions Inc,0.180000007,FALSE,2010,,26-Nov,9-Feb,2,2,8,8,26-Nov,9-Feb,5.903973999
+827,FLKOF,Falkland Oil & Gas Ltd,$0.14 ,TRUE,,'Date',,,,,,,,,
+828,FALC,FalconStor Software Inc,5.920000076,FALSE,2009,,15-Dec,28-Feb,7,7,4,4,15-Dec,28-Feb,12.05562138
+829,FOLGF,Falcon Oil & Gas Ltd,0.109999999,FALSE,2009,,28-Mar,11-Jun,6,6,5,5,28-Mar,11-Jun,13.07704786
+830,FLMN,Falcon Minerals Corp,2.289999962,TRUE,2017,,,,,,,,,,
+831,FGLDF,Falcon Gold Corp,0.094999999,TRUE,2020,,,,,,,,,,
+832,FPRGF,Falco Resources Ltd,0.288370013,TRUE,2014,,,,,,,,,,
+833,FKRNF,Falck Renewables SpA,$1.85 ,TRUE,,No data fetched for symbol FKRNF using YahooDailyReader,,,,,,,,,
+834,FVLEF,Faiveley Transport SA,$98.60 ,TRUE,,No data fetched for symbol FVLEF using YahooDailyReader,,,,,,,,,
+835,FAITF,Faith Inc,5.349999905,TRUE,2017,,,,,,,,,,
+836,FRWDF,Fairwood Holdings Ltd,2.200000048,TRUE,2017,,,,,,,,,,
+837,FWMHQ,Fairway Group Holdings Corp,0.007,TRUE,2013,,,,,,,,,,
+838,FRP,FairPoint Communications Inc,$15.95 ,TRUE,,'Date',,,,,,,,,
+839,FFXLF,Fairfax Media Ltd,$0.75 ,TRUE,,No data fetched for symbol FFXLF using YahooDailyReader,,,,,,,,,
+840,FFXDF,Fairfax India Holdings Corp,9.369999886,TRUE,2015,,,,,,,,,,
+841,FRFHF,Fairfax Financial Holdings Ltd,340.1799927,FALSE,2009,,12-Nov,26-Jan,5,5,6,6,27-Nov,10-Feb,1.286784756
+842,FFXXF,Fairfax Africa Holdings Corp,3.849999905,TRUE,2017,,,,,,,,,,
+843,FRCGF,Faircourt Gold Income Corp,3.130000114,TRUE,2012,,,,,,,,,,
+844,FCS,Fairchild Semiconductor International Inc,$19.86 ,TRUE,,'Date',,,,,,,,,
+845,FICO,Fair Isaac Corp,476.7850037,FALSE,2009,,13-May,27-Jul,9,9,2,2,13-May,27-Jul,9.327354767
+846,FAHE,Fahey Banking Co,"$1,790.00 ",TRUE,,No data fetched for symbol FAHE using YahooDailyReader,,,,,,,,,
+847,FMHG,Fah Mai HLDGS Group Inc,"$1,800.00 ",TRUE,,No data fetched for symbol FMHG using YahooDailyReader,,,,,,,,,
+848,ARSUF,Fagron SA,23.7670002,TRUE,2017,,,,,,,,,,
+849,FDS,FactSet Research Systems Inc,320.5599976,FALSE,2009,,2-Oct,16-Dec,8,8,3,3,2-Oct,16-Dec,6.406772013
+850,TNCPD,Fact Inc,1.049999952,TRUE,2020,,,,,,,,,,
+851,FAKC,Facekey Corp,0.400000006,TRUE,2013,,,,,,,,,,
+852,FDVRF,Facedrive Inc,10.86680031,TRUE,2020,,,,,,,,,,
+853,FB,Facebook Inc,274.5599976,TRUE,2012,,,,,,,,,,
+854,FBBCF,FACB Industries Inc Bhd,0.275000006,TRUE,2018,,,,,,,,,,
+855,FN,Fabrinet,69.94999695,FALSE,2010,,31-May,14-Aug,7,7,3,3,31-May,14-Aug,3.472949034
+856,FBGBY,Fabege AB,$26.31 ,TRUE,,No data fetched for symbol FBGBY using YahooDailyReader,,,,,,,,,
+857,FBGGF,Fabege AB,11.58720016,TRUE,2012,,,,,,,,,,
+858,FBSFF,Fabasoft AG,44.25,TRUE,2019,,,,,,,,,,
+859,FFIV,F5 Networks Inc,158.7799988,FALSE,2009,,21-Oct,4-Jan,6,6,5,5,21-Oct,4-Jan,9.373429029
+860,FHLIF,F.H.L. I. Kyriakidis Marbles - Granites S.A,$1.89 ,TRUE,,No data fetched for symbol FHLIF using YahooDailyReader,,,,,,,,,
+861,FSOYF,F-Secure Corp,2.549999952,TRUE,2012,,,,,,,,,,
+862,FXLG,F S Bancorp,54,FALSE,2009,,5-Sep,19-Nov,9,7,2,4,27-Sep,11-Dec,3.765834504
+863,FNB,F N B Corp,8.954999924,FALSE,2009,,14-Oct,28-Dec,9,9,2,2,13-Oct,27-Dec,6.010431351
+864,FBIP,F N B Bancorp Inc,125,FALSE,2009,,9-Mar,23-May,8,7,3,4,9-Mar,23-May,3.654470462
+865,FJBHF,F J Benjamin Holdings Ltd,$0.04 ,TRUE,,No data fetched for symbol FJBHF using YahooDailyReader,,,,,,,,,
+866,FMBM,F & M Bank Corp,22.75,FALSE,2009,,3-Oct,17-Dec,7,6,4,5,3-Oct,17-Dec,4.652326556
+867,FMOO,F & M Bancorp Ohio,75,TRUE,2012,,,,,,,,,,

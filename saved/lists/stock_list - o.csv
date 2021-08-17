@@ -1,0 +1,514 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,OZSC,Ozop Surgical Corp,0.00595,TRUE,2017,,,,,,,,,,
+1,OZMLF,Oz Minerals Ltd,10.77999973,FALSE,2010,,5-Dec,18-Feb,6,6,4,4,5-Dec,18-Feb,7.084582282
+2,OYST,Oyster Point Pharma Inc,21.70999908,TRUE,2019,,,,,,,,,,
+3,OYOCF,OYO Corp,12.44299984,TRUE,2017,,,,,,,,,,
+4,OXYS,OxySure Therapeutics Inc,0.031750001,TRUE,2012,,,,,,,,,,
+5,TBGNF,Oxurion NV,2.660000086,FALSE,2009,,3-Jan,18-Mar,8,8,3,3,3-Jan,18-Mar,9.078329037
+6,OXSQ,Oxford Square Capital Corp,2.839999914,FALSE,2009,,5-Apr,19-Jun,7,7,4,4,16-Dec,1-Mar,4.522802518
+7,OXLC,Oxford Lane Capital Corp,4.650000095,TRUE,2011,,,,,,,,,,
+8,OXINF,Oxford Instruments PLC,21.35000038,TRUE,2012,,,,,,,,,,
+9,OXM,Oxford Industries Inc,56.40000153,FALSE,2009,,27-Jun,10-Sep,7,7,4,4,9-Jul,22-Sep,9.190244016
+10,OXFD,Oxford Immunotec Global PLC,13.72000027,TRUE,2013,,,,,,,,,,
+11,OXFC,Oxford City Football Club Inc,$10.05 ,TRUE,,No data fetched for symbol OXFC using YahooDailyReader,,,,,,,,,
+12,OXBDF,Oxford BioMedica PLC,11.44999981,FALSE,2009,,5-Mar,19-May,7,7,3,3,5-Mar,19-May,-3.148366497
+13,OXBC,Oxford Bank Corp,21.25,FALSE,2009,,21-Mar,4-Jun,7,7,4,4,21-Mar,4-Jun,8.168756681
+14,CMMCF,OXE Marine AB,0.209000006,TRUE,2020,,,,,,,,,,
+15,OXBR,Oxbridge Re Holdings Ltd,1.620000005,TRUE,2014,,,,,,,,,,
+16,ORCC,Owl Rock Capital Corp,13.59000015,TRUE,2019,,,,,,,,,,
+17,OC,Owens-Corning Inc,72.55999756,FALSE,2009,,9-Nov,23-Jan,7,7,4,4,9-Nov,23-Jan,9.226774956
+18,ORM,Owens Realty Mortgage Inc,$21.75 ,TRUE,,No data fetched for symbol ORM using YahooDailyReader,,,,,,,,,
+19,OMI,Owens & Minor Inc,23.17000008,FALSE,2009,,11-Aug,25-Oct,5,5,6,6,10-Aug,24-Oct,8.684431423
+20,OWCP,OWC Pharmaceutical Research Corp,0.0085,FALSE,2009,,23-Dec,8-Mar,6,6,5,5,23-Dec,8-Mar,-23.02555745
+21,LVGAF,Ovivo Inc,$3.04 ,TRUE,,'Date',,,,,,,,,
+22,OVV,Ovintiv Inc,12.27000046,FALSE,2009,,9-Mar,23-May,6,6,5,5,9-Mar,23-May,14.97125207
+23,OVID,Ovid Therapeutics Inc,6.010000229,TRUE,2017,,,,,,,,,,
+24,OSTK,Overstock.com Inc,57.31999969,FALSE,2009,,16-May,30-Jul,3,3,8,8,16-May,30-Jul,15.65905368
+25,OSG,Overseas Shipholding Group Inc,2.099999905,TRUE,2016,,,,,,,,,,
+26,OSGB,Overseas Shipholding Group Inc,$1.85 ,TRUE,,'Date',,,,,,,,,
+27,OVCHY,Oversea-Chinese Banking Corp Ltd,14.81000042,FALSE,2010,,19-Feb,4-May,7,7,3,3,14-Feb,29-Apr,5.539159197
+28,OVCHF,Oversea-Chinese Banking Corp Ltd,7.244999886,TRUE,2012,,,,,,,,,,
+29,PMPLF,Ovato Ltd,$0.35 ,TRUE,,'Date',,,,,,,,,
+30,OVATF,Ovation Science Inc,0.27579999,TRUE,2019,,,,,,,,,,
+31,OM,Outset Medical Inc,56.45999908,TRUE,2020,,,,,,,,,,
+32,OUTKY,Outokumpu Oyj,1.25,TRUE,2012,,,,,,,,,,
+33,OUTFF,Outokumpu Oyj,2.549999952,TRUE,2012,,,,,,,,,,
+34,OTLK,Outlook Therapeutics Inc,1.110000014,TRUE,2016,,,,,,,,,,
+35,OUT,Outfront Media Inc,18.11000061,TRUE,2014,,,,,,,,,,
+36,OUTR,Outerwall Inc,$52.00 ,TRUE,,'Date',,,,,,,,,
+37,MRDDF,Outcrop Gold Corp,0.370000005,FALSE,2009,,27-Jun,10-Sep,3,3,8,8,27-Jun,10-Sep,8.222088149
+38,OUTB,Outback Oil & Mineral Exploration Corp,0.07,TRUE,2012,,,,,,,,,,
+39,OPCO,Ourpet?s Co,$1.00 ,TRUE,,No data fetched for symbol OPCO using YahooDailyReader,,,,,,,,,
+40,ORNT,Ournett Holdings Inc,1,TRUE,2016,,,,,,,,,,
+41,OVUNF,OUE Ltd,$1.66 ,TRUE,,No data fetched for symbol OVUNF using YahooDailyReader,,,,,,,,,
+42,OSPQF,OUE Hospitality Trust,$0.47 ,TRUE,,No data fetched for symbol OSPQF using YahooDailyReader,,,,,,,,,
+43,OTTEF,Otto Energy Ltd,0.005,FALSE,2010,,27-Jul,10-Oct,4,4,6,6,27-Jul,10-Oct,-22.05409272
+44,OTTR,Otter Tail Corp,41.27999878,FALSE,2009,,5-Oct,19-Dec,5,5,6,6,1-Sep,15-Nov,4.938047807
+45,OTTW,Ottawa Bancorp Inc,13.10000038,FALSE,2009,,17-Feb,2-May,5,5,6,6,17-Feb,2-May,7.745787828
+46,OTSUF,Otsuka Kagu Ltd,$13.10 ,TRUE,,No data fetched for symbol OTSUF using YahooDailyReader,,,,,,,,,
+47,OTSKY,Otsuka Holdings Co Ltd,20.55200005,TRUE,2012,,,,,,,,,,
+48,OTSKF,Otsuka Holdings Co Ltd,38.09999847,TRUE,2012,,,,,,,,,,
+49,OSUKF,Otsuka Corp,49.20000076,TRUE,2017,,,,,,,,,,
+50,FIEIF,Otso Gold Corp,0.038180001,TRUE,2018,,,,,,,,,,
+51,OTPGF,OTP Bank PLC,13.75,FALSE,2010,,7-Jul,20-Sep,0,0,8,8,7-Jul,20-Sep,7.315808982
+52,OTPBF,OTP Bank PLC,30.67959976,TRUE,2015,,,,,,,,,,
+53,OTIC,Otonomy Inc,4.300000191,TRUE,2014,,,,,,,,,,
+54,OTIS,Otis Worldwide Corp,66.62999725,TRUE,2020,,,,,,,,,,
+55,OGLDF,Otis Gold Corp,$0.08 ,TRUE,,No data fetched for symbol OGLDF using YahooDailyReader,,,,,,,,,
+56,OPESY,Otello Corp ASA,$3.11 ,TRUE,,No data fetched for symbol OPESY using YahooDailyReader,,,,,,,,,
+57,OPESF,Otello Corp ASA,1.870000005,FALSE,2009,,24-May,7-Aug,8,8,3,3,24-May,7-Aug,7.367770249
+58,OTEL,Otelco Inc,11.47999954,FALSE,2009,,27-Aug,10-Nov,5,5,6,6,27-Aug,10-Nov,4.565764988
+59,OTCPF,OTEC Corp,$8.70 ,TRUE,,No data fetched for symbol OTCPF using YahooDailyReader,,,,,,,,,
+60,OTCM,OTC Markets Group Inc,33.59999847,FALSE,2010,,2-Nov,16-Jan,6,6,4,4,15-Sep,29-Nov,4.098253305
+61,OSKA,Osyka Corp,0.016000001,FALSE,2009,,11-Sep,25-Nov,4,4,7,7,11-Sep,25-Nov,24.47543975
+62,OLGXF,Osteologix Holdings PLC,0.0076,TRUE,2012,,,,,,,,,,
+63,OSSFF,Ossur hf,6.579999924,TRUE,2019,,,,,,,,,,
+64,OSSUY,Ossur hf,7.300000191,TRUE,2018,,,,,,,,,,
+65,OSN,Ossen Innovation Co Ltd,4.400000095,FALSE,2010,,11-Apr,25-Jun,4,4,6,6,11-Apr,25-Jun,3.128699289
+66,OSSDF,OssDsign AB,1.799999952,TRUE,2020,,,,,,,,,,
+67,OSAGY,OSRAM Licht AG,22.37000084,TRUE,2014,,,,,,,,,,
+68,OSAGF,OSRAM Licht AG,60.18000031,TRUE,2013,,,,,,,,,,
+69,SFTW,Osprey Technology Acquisition Corp,10.08300018,TRUE,2019,,,,,,,,,,
+70,OSSPF,Osprey Gold Development Ltd,0.059,TRUE,2017,,,,,,,,,,
+71,OSPR,Osprey Energy Acquisition Corp,$11.29 ,TRUE,,No data fetched for symbol OSPR using YahooDailyReader,,,,,,,,,
+72,OSOPF,Osotspa PCL,1.179999948,TRUE,2020,,,,,,,,,,
+73,OSMT,Osmotica Pharmaceuticals PLC,6.03000021,TRUE,2018,,,,,,,,,,
+74,OSBHF,Oslo Bors VPS Holding ASA,$18.60 ,TRUE,,No data fetched for symbol OSBHF using YahooDailyReader,,,,,,,,,
+75,OBNNF,Osisko Mining Inc,2.700000048,TRUE,2016,,,,,,,,,,
+76,OMZNF,Osisko Metals Incorporated,0.300000012,TRUE,2013,,,,,,,,,,
+77,OR,Osisko Gold Royalties Ltd,10.81000042,TRUE,2016,,,,,,,,,,
+78,OSIR,Osiris Therapeutics Inc,$18.99 ,TRUE,,No data fetched for symbol OSIR using YahooDailyReader,,,,,,,,,
+79,OSRS,Osiris Corp,0.090000004,FALSE,2009,,3-Jul,16-Sep,2,2,7,7,3-Jul,16-Sep,-511.0430807
+80,OSIIF,Osino Resources Corp,1.010050058,TRUE,2018,,,,,,,,,,
+81,OSMIF,Osim International Ltd,$0.97 ,TRUE,,No data fetched for symbol OSMIF using YahooDailyReader,,,,,,,,,
+82,OMIMY,Osim International Ltd,$10.43 ,TRUE,,No data fetched for symbol OMIMY using YahooDailyReader,,,,,,,,,
+83,OSIS,OSI Systems Inc,85.40000153,FALSE,2009,,11-Apr,25-Jun,8,8,3,3,11-Apr,25-Jun,7.44834792
+84,OSK,Oshkosh Corp,79.23000336,FALSE,2009,,26-Sep,10-Dec,6,6,5,5,26-Sep,10-Dec,12.05077789
+85,ENEHF,Oshidori International Holdings Ltd,$0.05 ,TRUE,,'Date',,,,,,,,,
+86,OSGCF,OSG Corp,14.72000027,TRUE,2016,,,,,,,,,,
+87,OSEMF,Osem Investments Ltd,$20.51 ,TRUE,,No data fetched for symbol OSEMF using YahooDailyReader,,,,,,,,,
+88,ORPOF,OSE Immunotherapeutics SA,$4.00 ,TRUE,,No data fetched for symbol ORPOF using YahooDailyReader,,,,,,,,,
+89,OSCI,Osceola Gold Inc,0.021,TRUE,2012,,,,,,,,,,
+90,OSKXF,Osaka Steel Co Ltd,$14.85 ,TRUE,,No data fetched for symbol OSKXF using YahooDailyReader,,,,,,,,,
+91,OSGSY,Osaka Gas Co Ltd,37,TRUE,2014,,,,,,,,,,
+92,OSGSF,Osaka Gas Co Ltd,19,TRUE,2013,,,,,,,,,,
+93,ORYX,Oryx Technology Corp,0.017999999,FALSE,2009,,15-Sep,29-Nov,4,4,7,7,15-Sep,29-Nov,6.900964239
+94,ORXPF,Oryx Petroleum Corp Ltd,0.055,TRUE,2013,,,,,,,,,,
+95,ORVMF,Orvana Minerals Corp,0.200000003,FALSE,2009,,10-Dec,23-Feb,4,4,7,7,10-Dec,23-Feb,15.8690208
+96,ORRTF,Ortoma AB,7.4854002,TRUE,2019,,,,,,,,,,
+97,KIDS,OrthoPediatrics Corp,44.84000015,TRUE,2017,,,,,,,,,,
+98,OFIX,Orthofix Medical Inc,36.36999893,FALSE,2009,,9-Jan,24-Mar,9,9,2,2,9-Jan,24-Mar,-0.444358246
+99,ORTIF,Ortho Regenerative Technologies Inc,0.689999998,TRUE,2020,,,,,,,,,,
+100,ORSUF,Orsu Metals Corp,0.270000011,FALSE,2009,,24-Jul,7-Oct,3,3,8,8,24-Jul,7-Oct,3.263904266
+101,DOGEF,Orsted A/S,172.25,TRUE,2017,,,,,,,,,,
+102,DNNGY,Orsted A/S,57.09000015,TRUE,2017,,,,,,,,,,
+103,ORRF,Orrstown Financial Services Inc,15.89999962,FALSE,2009,,16-Mar,30-May,4,4,7,7,16-Mar,30-May,1.994731622
+104,PLFF,Orpheum Property Inc,0.005,TRUE,2012,,,,,,,,,,
+105,ORPH,Orphazyme AS,9.859999657,TRUE,2020,,,,,,,,,,
+106,OZYMF,Orphazyme AS,10.64999962,TRUE,2019,,,,,,,,,,
+107,ORPEF,Orpea SA,127.5,TRUE,2012,,,,,,,,,,
+108,OROXF,Orosur Mining Inc,0.307999998,FALSE,2010,,2-Jul,15-Sep,5,5,5,5,2-Jul,15-Sep,21.2424454
+109,ORRAF,Orora Ltd,1.99000001,TRUE,2014,,,,,,,,,,
+110,ORRYY,Orora Ltd,10.10000038,TRUE,2015,,,,,,,,,,
+111,ONVRF,Oronova Energy Inc,0.045400001,TRUE,2012,,,,,,,,,,
+112,EMRRF,Orogen Royalties Inc,0.280000001,TRUE,2012,,,,,,,,,,
+113,OROCF,Orocobre Ltd,2.49000001,FALSE,2009,,1-Nov,15-Jan,4,4,7,7,1-Nov,15-Jan,13.22452308
+114,ORRCF,Oroco Resource Corp,1.100000024,TRUE,2012,,,,,,,,,,
+115,WRPSF,Oro X Mining Corp,0.558799982,TRUE,2014,,,,,,,,,,
+116,OROE,Oro East Mining Inc,$0.01 ,TRUE,,No data fetched for symbol OROE using YahooDailyReader,,,,,,,,,
+117,ORMIF,Orminex Ltd,$0.01 ,TRUE,,No data fetched for symbol ORMIF using YahooDailyReader,,,,,,,,,
+118,ORA,Ormat Technologies Inc,74.98999786,FALSE,2009,,6-Aug,20-Oct,7,7,4,4,26-Aug,9-Nov,6.37069226
+119,ORRLF,Orla Mining Ltd,4.742300034,TRUE,2017,,,,,,,,,,
+120,ORKLY,Orkla ASA,9.539999962,FALSE,2010,,1-Mar,15-May,6,6,4,4,11-Aug,25-Oct,3.404393631
+121,ORKLF,Orkla ASA,9.614999771,TRUE,2012,,,,,,,,,,
+122,ORXCF,ORIX Corp,15.35000038,FALSE,2010,,23-Feb,8-May,4,4,6,6,30-Aug,13-Nov,6.910871753
+123,IX,ORIX Corp,74.62999725,FALSE,2009,,24-Aug,7-Nov,6,6,5,5,24-Aug,7-Nov,7.431381532
+124,ORSN,Orisun Acquisition Corp,8.56000042,TRUE,2019,,,,,,,,,,
+125,ORINY,Orion Oyj,22.20000076,TRUE,2014,,,,,,,,,,
+126,ORINF,Orion Oyj,43.542099,TRUE,2013,,,,,,,,,,
+127,ORONF,Orion Nutraceuticals Inc,0.233549997,TRUE,2019,,,,,,,,,,
+128,ORN,Orion Group Holdings Inc,3.99000001,FALSE,2009,,2-Oct,16-Dec,3,3,8,8,2-Oct,16-Dec,4.764913513
+129,OEC,Orion Engineered Carbons SA,14.39999962,TRUE,2014,,,,,,,,,,
+130,OESX,Orion Energy Systems Inc,8.289999962,FALSE,2009,,7-Nov,21-Jan,5,5,6,6,7-Nov,21-Jan,16.27246995
+131,OODH,Orion Diversified Holding Co Inc,0.006,TRUE,2012,,,,,,,,,,
+132,ORIOY,Oriola Corp,$37.39 ,TRUE,,No data fetched for symbol ORIOY using YahooDailyReader,,,,,,,,,
+133,ORNQF,Orinoco Gold Ltd,$0.05 ,TRUE,,No data fetched for symbol ORNQF using YahooDailyReader,,,,,,,,,
+134,OACQF,Origo Acquisition Corp,$19.00 ,TRUE,,No data fetched for symbol OACQF using YahooDailyReader,,,,,,,,,
+135,OCLN,OriginClear Inc,0.024700001,FALSE,2009,,15-Dec,28-Feb,4,4,7,7,15-Dec,28-Feb,-19.71486612
+136,OSTO,Original Sixteen to One Mine Inc,0.071999997,TRUE,2012,,,,,,,,,,
+137,ORHOF,Origin House,$4.05 ,TRUE,,No data fetched for symbol ORHOF using YahooDailyReader,,,,,,,,,
+138,ORENF,Origin Enterprises PLC,3.349999905,TRUE,2013,,,,,,,,,,
+139,OGFGY,Origin Energy Ltd,3.460000038,TRUE,2012,,,,,,,,,,
+140,OGFGF,Origin Energy Ltd,4.099999905,TRUE,2011,,,,,,,,,,
+141,OBNK,Origin Bancorp Inc,25.71999931,TRUE,2018,,,,,,,,,,
+142,SEED,Origin Agritech Ltd,9.590000153,FALSE,2009,,15-Sep,29-Nov,5,5,6,6,15-Sep,29-Nov,5.927885373
+143,ORGN,Origen Financial Inc,$0.12 ,TRUE,,No data fetched for symbol ORGN using YahooDailyReader,,,,,,,,,
+144,ORFLY,Oriflame Cosmetics SA,$16.65 ,TRUE,,No data fetched for symbol ORFLY using YahooDailyReader,,,,,,,,,
+145,OFLMF,Oriflame Cosmetics AB,$27.60 ,TRUE,,'Date',,,,,,,,,
+146,ORWHF,Oriental Watch Holdings Ltd,0.200000003,TRUE,2014,,,,,,,,,,
+147,OPRGF,Oriental Press Group Ltd,$0.11 ,TRUE,,'Date',,,,,,,,,
+148,CQGU,Oriental Magic Soup Inc,$0.95 ,TRUE,,No data fetched for symbol CQGU using YahooDailyReader,,,,,,,,,
+149,OLCLY,Oriental Land Co Ltd,32.84999847,TRUE,2012,,,,,,,,,,
+150,OLCLF,Oriental Land Co Ltd,143.0500031,TRUE,2013,,,,,,,,,,
+151,ORHLF,Oriental Holdings Bhd,$1.55 ,TRUE,,No data fetched for symbol ORHLF using YahooDailyReader,,,,,,,,,
+152,OROVY,Orient Overseas (International) Ltd,34.72000122,FALSE,2009,,11-Jul,24-Sep,6,6,5,5,9-Sep,23-Nov,0.126611384
+153,OROVF,Orient Overseas (International) Ltd,6.789999962,TRUE,2013,,,,,,,,,,
+154,OCLDY,Orica Ltd,12.32999992,TRUE,2012,,,,,,,,,,
+155,OCLDF,Orica Ltd,11.13000011,FALSE,2010,,29-Sep,13-Dec,5,5,5,5,15-Dec,28-Feb,2.385717969
+156,ORIC,ORIC Pharmaceuticals Inc,26,TRUE,2020,,,,,,,,,,
+157,ORSHF,Orian SH.M. Ltd,5.973700047,TRUE,2019,,,,,,,,,,
+158,ORHB,ORHub Inc,0.0244,FALSE,2009,,5-Jun,19-Aug,2,2,7,7,5-Jun,19-Aug,-56.99891839
+159,ORGS,Orgenesis Inc,4.730000019,TRUE,2012,,,,,,,,,,
+160,OGOFF,Organto Foods Inc,0.118199997,TRUE,2013,,,,,,,,,,
+161,ONVO,Organovo Holdings Inc,8.93999958,TRUE,2012,,,,,,,,,,
+162,ORGO,Organogenesis Holdings Inc,4.699999809,TRUE,2017,,,,,,,,,,
+163,ORGAF,Organo Corp,$11.85 ,TRUE,,No data fetched for symbol ORGAF using YahooDailyReader,,,,,,,,,
+164,ONZBF,Organizacion Soriana SAB de CV,0.689999998,FALSE,2010,,27-Feb,12-May,1,1,9,9,27-Feb,12-May,-2.512445517
+165,OGZSY,Organizacion Soriana SAB de CV,$13.40 ,TRUE,,No data fetched for symbol OGZSY using YahooDailyReader,,,,,,,,,
+166,OCVLF,Organizacion Cultiba SAB de CV,$1.73 ,TRUE,,No data fetched for symbol OCVLF using YahooDailyReader,,,,,,,,,
+167,BNRJF,OrganiMax Nutrient Corp,0.122400001,TRUE,2012,,,,,,,,,,
+168,OGI,OrganiGram Holdings Inc,1.129999995,TRUE,2019,,,,,,,,,,
+169,BPSR,Organicell Regenerative Medicine Inc,0.150000006,TRUE,2016,,,,,,,,,,
+170,OGSM,Organic Sales and Marketing Inc,0.079999998,FALSE,2009,,6-Jan,21-Mar,6,6,5,5,6-Jan,21-Mar,17.61215074
+171,OGNT,Organa Tech Gp New,0.00515,TRUE,2014,,,,,,,,,,
+172,ORZCF,Orezone Gold Corp,0.709999979,FALSE,2009,,5-Jul,18-Sep,5,5,6,6,5-Jul,18-Sep,6.149946906
+173,ORXOY,Orexo AB,5.5,TRUE,2018,,,,,,,,,,
+174,ORXOF,Orexo AB,6.099999905,TRUE,2013,,,,,,,,,,
+175,OREXQ,Orexigen Therapeutics Inc,$0.01 ,TRUE,,No data fetched for symbol OREXQ using YahooDailyReader,,,,,,,,,
+176,ORMNF,Orex Minerals Inc,0.134000003,TRUE,2013,,,,,,,,,,
+177,EORXF,Orex Exploration Inc,$0.03 ,TRUE,,'Date',,,,,,,,,
+178,ORESF,Orestone Mining Corp,0.050000001,TRUE,2020,,,,,,,,,,
+179,ORPB,Oregon Pacific Bancorp,4.400000095,FALSE,2009,,22-Mar,5-Jun,5,5,6,6,22-Mar,5-Jun,10.04392578
+180,ORBN,Oregon Bancorp Inc,38.75,FALSE,2009,,9-Jul,22-Sep,5,5,6,6,9-Jul,22-Sep,6.724119393
+181,ORFDF,Orefinders Resources Inc,0.119999997,TRUE,2016,,,,,,,,,,
+182,OREAF,Orea Mining Corp,0.090000004,FALSE,2009,,10-Nov,24-Jan,5,5,6,6,10-Nov,24-Jan,15.33967117
+183,ORXE,Ore Holdings Inc,$0.19 ,TRUE,,'Date',,,,,,,,,
+184,ORVRF,Orchid Ventures Inc,0.03091,TRUE,2019,,,,,,,,,,
+185,ORC,Orchid Island Capital Inc,5.599999905,TRUE,2013,,,,,,,,,,
+186,ORTX,Orchard Therapeutics PLC,4.320000172,TRUE,2018,,,,,,,,,,
+187,CANWF,Orca Gold Inc,0.460000008,FALSE,2009,,21-Nov,4-Feb,5,5,6,6,21-Nov,4-Feb,8.215491639
+188,ORXGF,Orca Energy Group Inc,4.340000153,FALSE,2009,,20-Dec,5-Mar,8,7,3,4,13-Dec,26-Feb,6.114211984
+189,OSAT,Orbsat Corp,2.25,FALSE,2009,,17-Feb,2-May,6,6,5,5,17-Feb,2-May,6.151041856
+190,ORBK,Orbotech Ltd,$65.77 ,TRUE,,No data fetched for symbol ORBK using YahooDailyReader,,,,,,,,,
+191,OEG,Orbital Energy Group Inc,0.772499979,FALSE,2009,,24-Dec,9-Mar,3,3,6,6,24-Dec,9-Mar,38.22360169
+192,OBTEF,Orbital Corp Ltd,0.795000017,TRUE,2012,,,,,,,,,,
+193,OA,Orbital ATK Inc,134.5,TRUE,2012,,,,,,,,,,
+194,ORFR,ORBIT/FR Inc,651.8430176,TRUE,2012,,,,,,,,,,
+195,ORBT,Orbit International Corp,5.400000095,FALSE,2009,,21-Oct,4-Jan,6,6,5,5,21-Oct,4-Jan,5.933844204
+196,OBGRF,Orbit Garant Drilling Inc,0.730000019,FALSE,2010,,3-Dec,16-Feb,5,5,5,5,3-Dec,16-Feb,6.516727938
+197,MXCHY,Orbia Advance Corp SAB de CV,4.929999828,TRUE,2012,,,,,,,,,,
+198,MXCHF,Orbia Advance Corp SAB de CV,1.789999962,TRUE,2011,,,,,,,,,,
+199,ORBC,ORBCOMM Inc,6.099999905,FALSE,2009,,3-May,17-Jul,6,6,5,5,3-May,17-Jul,9.717027724
+200,OSUR,OraSure Technologies Inc,12.14999962,FALSE,2009,,5-Nov,19-Jan,6,6,5,5,5-Nov,19-Jan,7.634233179
+201,OSCMY,Orascom Investment Holding,$0.80 ,TRUE,,'Date',,,,,,,,,
+202,ORHK,Orangehook Inc,0.810000002,TRUE,2017,,,,,,,,,,
+203,FNCTF,Orange SA,12.38000011,FALSE,2009,,6-Sep,20-Nov,4,4,7,7,6-Sep,20-Nov,3.841078359
+204,ORAN,Orange SA,12.35000038,FALSE,2009,,30-Aug,13-Nov,4,4,7,7,3-Sep,17-Nov,2.886732983
+205,PTTWF,Orange Polska SA,1.649999976,TRUE,2013,,,,,,,,,,
+206,OCBB,Orange County Business Bank,$11.50 ,TRUE,,'Date',,,,,,,,,
+207,OCBI,Orange County Bancorp Inc,25.25,FALSE,2009,,19-Jul,2-Oct,7,6,4,5,20-Jul,3-Oct,1.902088477
+208,MBSRY,Orange Belgium SA,$4.01 ,TRUE,,No data fetched for symbol MBSRY using YahooDailyReader,,,,,,,,,
+209,MBISF,Orange Belgium SA,$20.33 ,TRUE,,No data fetched for symbol MBISF using YahooDailyReader,,,,,,,,,
+210,ORNC,Oranco Inc,0.579999983,FALSE,2009,,15-May,29-Jul,4,4,5,5,15-May,29-Jul,7.753286241
+211,ORMP,Oramed Pharmaceuticals Inc,2.519999981,FALSE,2009,,18-Mar,1-Jun,3,3,8,8,18-Mar,1-Jun,14.80567926
+212,OGEN,Oragenics Inc,0.469999999,FALSE,2009,,29-Dec,14-Mar,7,7,4,4,29-Dec,14-Mar,9.090910982
+213,OECCF,Oracle Energy Corp,0.0111,TRUE,2013,,,,,,,,,,
+214,OCLCF,Oracle Corp Japan,106.1500015,TRUE,2013,,,,,,,,,,
+215,ORCL,Oracle Corp,56.25,FALSE,2009,,17-Dec,2-Mar,9,9,2,2,17-Dec,2-Mar,5.470893126
+216,TLXPF,Ora Gold Ltd,0.029999999,TRUE,2018,,,,,,,,,,
+217,ESGFF,Ora Banda Mining Ltd,0.209999993,TRUE,2016,,,,,,,,,,
+218,GFKRF,Opus One Gold Corp,0.059999999,FALSE,2009,,11-Jun,25-Aug,2,2,9,9,11-Jun,25-Aug,16.11111047
+219,OPUS,Opus Magnum Ameris Inc,0.007,TRUE,2012,,,,,,,,,,
+220,OUNLF,Opus International Consultants Ltd,$0.66 ,TRUE,,No data fetched for symbol OUNLF using YahooDailyReader,,,,,,,,,
+221,OPPXF,Opus Group AB,1.179999948,TRUE,2013,,,,,,,,,,
+222,OPB,Opus Bank,$19.49 ,TRUE,,No data fetched for symbol OPB using YahooDailyReader,,,,,,,,,
+223,RKNEF,Optiva Inc,31.5,FALSE,2010,,22-Aug,5-Nov,3,3,7,7,22-Aug,5-Nov,8.405424294
+224,OSIMF,Optiscan Imaging Ltd,$0.09 ,TRUE,,'Date',,,,,,,,,
+225,OPCH,Option Care Health Inc,15.56999969,FALSE,2009,,7-Apr,21-Jun,5,5,6,6,7-Apr,21-Jun,15.42315448
+226,OPTN,OptiNose Inc,4.849999905,TRUE,2017,,,,,,,,,,
+227,OPHC,OptimumBank Holdings Inc,3.130000114,FALSE,2009,,20-Jul,3-Oct,7,7,4,4,20-Jul,3-Oct,1.381752096
+228,OPVLF,Optimum Ventures Ltd,0.284999996,TRUE,2020,,,,,,,,,,
+229,OSIN,Optimum Source International Ltd,0.050000001,TRUE,2012,,,,,,,,,,
+230,OPRX,OptimizeRx Corp,21.85000038,FALSE,2009,,9-Mar,23-May,7,7,4,4,9-Mar,23-May,11.91300049
+231,OPGX,Optigenex Inc,1,TRUE,2012,,,,,,,,,,
+232,OCC,Optical Cable Corp,2.859999895,FALSE,2009,,22-Dec,7-Mar,7,7,4,4,22-Dec,7-Mar,8.675373106
+233,OPBXF,OptiBiotix Health PLC,0.839999974,TRUE,2015,,,,,,,,,,
+234,OBAS,Optibase Ltd,11.03999996,FALSE,2009,,15-Apr,29-Jun,5,5,6,6,15-Apr,29-Jun,8.395012622
+235,CKDXF,Opthea Ltd,1.610000014,TRUE,2012,,,,,,,,,,
+236,OPT,Opthea Ltd,12.85999966,TRUE,2020,,,,,,,,,,
+237,OPXS,Optex Systems Holdings Inc,1.940000057,FALSE,2010,,19-Nov,2-Feb,5,5,5,5,19-Nov,2-Feb,13.70260344
+238,OPTI,Optec International Inc,0.052549999,TRUE,2016,,,,,,,,,,
+239,OPST,OPT Sciences Corp.,22.29999924,FALSE,2009,,22-Dec,7-Mar,9,9,2,2,22-Dec,7-Mar,9.067081338
+240,OPSSF,Opsens Inc,0.754000008,TRUE,2012,,,,,,,,,,
+241,OSGFF,OpSec Security Group PLC,$0.80 ,TRUE,,No data fetched for symbol OSGFF using YahooDailyReader,,,,,,,,,
+242,OPTY,Opportunity Management Co Inc,$0.15 ,TRUE,,No data fetched for symbol OPTY using YahooDailyReader,,,,,,,,,
+243,OPY,Oppenheimer Holdings Inc,28.90999985,FALSE,2009,,3-Oct,17-Dec,7,7,4,4,4-Oct,18-Dec,8.538098542
+244,OPWR,Opower Inc,$10.29 ,TRUE,,'Date',,,,,,,,,
+245,OPRT,Oportun Financial Corp,16.62000084,TRUE,2019,,,,,,,,,,
+246,OPK,OPKO Health Inc,3.829999924,FALSE,2009,,6-May,20-Jul,8,8,3,3,6-May,20-Jul,13.31336824
+247,OPNT,Opiant Pharmaceuticals Inc,7.980000019,FALSE,2009,,9-Jul,22-Sep,4,4,7,7,9-Jul,22-Sep,16.88913363
+248,SUFF,Ophir Resources Co,0.0251,TRUE,2012,,,,,,,,,,
+249,KPZIF,Ophir Gold Corp,0.128399998,TRUE,2015,,,,,,,,,,
+250,OPHRY,Ophir Energy PLC,$1.48 ,TRUE,,No data fetched for symbol OPHRY using YahooDailyReader,,,,,,,,,
+251,OPGYF,Ophir Energy PLC,$0.73 ,TRUE,,No data fetched for symbol OPGYF using YahooDailyReader,,,,,,,,,
+252,OPGN,OpGen Inc,1.970000029,TRUE,2015,,,,,,,,,,
+253,OPES,Opes Acquisition Corp,11.03999996,TRUE,2018,,,,,,,,,,
+254,OPRA,Opera Ltd,9.079999924,TRUE,2018,,,,,,,,,,
+255,OTEX,Open Text Corp,42.29999924,FALSE,2009,,6-Dec,19-Feb,9,9,2,2,6-Dec,19-Feb,9.129671976
+256,LPRO,Open Lending Corp,29.40999985,TRUE,2018,,,,,,,,,,
+257,OPNDF,Open Door Inc,11.60000038,TRUE,2020,,,,,,,,,,
+258,OPWEF,Opawica Explorations Inc,0.098999999,TRUE,2013,,,,,,,,,,
+259,OPBK,OP Bancorp,7.400000095,FALSE,2009,,24-Apr,8-Jul,7,7,4,4,18-Apr,2-Jul,9.3441539
+260,OOMA,Ooma Inc,14.77000046,TRUE,2015,,,,,,,,,,
+261,OXNXF,Onxeo SA,0.850000024,TRUE,2015,,,,,,,,,,
+262,OKASY,Onward Holdings Co Ltd,50,TRUE,2012,,,,,,,,,,
+263,ONVI,Onvia Inc,$8.98 ,TRUE,,'Date',,,,,,,,,
+264,OTRK,Ontrak Inc,53.66999817,FALSE,2009,,23-Nov,6-Feb,5,5,6,6,23-Nov,6-Feb,13.6643673
+265,ONTO,Onto Innovation Inc,42,TRUE,2019,,,,,,,,,,
+266,ONXYY,Ontex Group NV,6.397500038,TRUE,2020,,,,,,,,,,
+267,ONXXF,Ontex Group NV,11.5,TRUE,2018,,,,,,,,,,
+268,ONSM,Onstream Media Corp,0.202000007,TRUE,2012,,,,,,,,,,
+269,ONSE,Onsite Energy Corp,$0.08 ,TRUE,,No data fetched for symbol ONSE using YahooDailyReader,,,,,,,,,
+270,OPHLY,Ono Pharmaceutical Co Ltd,9.720000267,TRUE,2012,,,,,,,,,,
+271,OPHLF,Ono Pharmaceutical Co Ltd,30.5,TRUE,2013,,,,,,,,,,
+272,ONVC,Online Vacation Center Holdings Corp,1.700000048,FALSE,2009,,20-Nov,3-Feb,8,8,3,3,20-Nov,3-Feb,16.97424401
+273,ONLI,Online Redefined Inc,0.050000001,TRUE,2018,,,,,,,,,,
+274,ONDR,Online Disruptive Technologies Inc,$1.85 ,TRUE,,'Date',,,,,,,,,
+275,ONEXF,Onex Corp,53.66999817,FALSE,2009,,18-Feb,3-May,8,8,3,3,18-Feb,3-May,3.876475426
+276,ONEW,OneWater Marine Inc,24.05999947,TRUE,2020,,,,,,,,,,
+277,OVUEF,OneVue Holdings Ltd,$0.19 ,TRUE,,No data fetched for symbol OVUEF using YahooDailyReader,,,,,,,,,
+278,OSW,OneSpaWorld Holdings Ltd,8.43999958,TRUE,2017,,,,,,,,,,
+279,OSPN,OneSpan Inc,18.52000046,FALSE,2009,,8-May,22-Jul,6,6,5,5,8-May,22-Jul,8.448325679
+280,OSSIF,OneSoft Solutions Inc,0.387199998,TRUE,2013,,,,,,,,,,
+281,ONE,OneSmart International Education Group Ltd,4.039999962,TRUE,2018,,,,,,,,,,
+282,OSCN,Onescreen Inc,0.02,FALSE,2009,,23-May,6-Aug,0,0,11,11,23-May,6-Aug,23.30381751
+283,OSVBF,Onesavings Bank PLC,3.880000114,TRUE,2015,,,,,,,,,,
+284,ONRTF,OneREIT,$3.44 ,TRUE,,No data fetched for symbol ONRTF using YahooDailyReader,,,,,,,,,
+285,OKE,ONEOK Inc,32.31000137,FALSE,2009,,11-Dec,24-Feb,7,7,4,4,11-Dec,24-Feb,5.754523557
+286,LOKCF,ONEnergy Inc,$0.08 ,TRUE,,No data fetched for symbol LOKCF using YahooDailyReader,,,,,,,,,
+287,ONMKF,OneMarket Ltd,$0.54 ,TRUE,,No data fetched for symbol ONMKF using YahooDailyReader,,,,,,,,,
+288,OMF,OneMain Holdings Inc,39.43000031,TRUE,2013,,,,,,,,,,
+289,ONFC,Oneida Financial Corp,$20.10 ,TRUE,,'Date',,,,,,,,,
+290,OCFT,OneConnect Financial Technology Co Ltd,20.54000092,TRUE,2019,,,,,,,,,,
+291,OB,OneBeacon Insurance Group Ltd,$18.09 ,TRUE,,'Date',,,,,,,,,
+292,LOVI,One2One Living Corp,0.005,TRUE,2012,,,,,,,,,,
+293,OWVI,One World Ventures Inc,0.079999998,FALSE,2009,,30-Jan,14-Apr,4,4,7,7,30-Jan,14-Apr,-76.87561112
+294,OWUV,One World Universe Inc,0.01505,TRUE,2020,,,,,,,,,,
+295,OWPC,One World Pharma Inc,0.098899998,TRUE,2018,,,,,,,,,,
+296,OWRDF,One World Lithium Inc,0.063100003,TRUE,2018,,,,,,,,,,
+297,OSS,One Stop Systems Inc,2.25999999,TRUE,2018,,,,,,,,,,
+298,OMDHF,One Media iP Group PLC,0.06436,TRUE,2020,,,,,,,,,,
+299,OLP,One Liberty Properties Inc,17.71999931,FALSE,2009,,12-Nov,26-Jan,7,7,4,4,2-Oct,16-Dec,5.618592821
+300,OGS,ONE Gas Inc,75.77999878,TRUE,2014,,,,,,,,,,
+301,ONBI,One Bio Corp,0.0155,TRUE,2012,,,,,,,,,,
+302,AONE,One,10.18000031,TRUE,2020,,,,,,,,,,
+303,ONDSD,Ondas Holdings Inc,14,TRUE,2020,,,,,,,,,,
+304,ONCT,Oncternal Therapeutics Inc,2.890000105,FALSE,2009,,28-Feb,13-May,7,7,4,4,28-Feb,13-May,3.966647919
+305,OVIT,OncoVista Innovative Therapies Inc,0.02,FALSE,2009,,7-May,21-Jul,5,5,6,6,7-May,21-Jul,9.744575882
+306,ONCS,OncoSec Medical Inc,5.199999809,TRUE,2011,,,,,,,,,,
+307,ONCR,Oncorus Inc,25.28000069,TRUE,2020,,,,,,,,,,
+308,ONTX,Onconova Therapeutics Inc,0.25999999,TRUE,2013,,,,,,,,,,
+309,OMED,OncoMed Pharmaceuticals Inc,0.959999979,TRUE,2013,,,,,,,,,,
+310,ONCY,Oncolytics Biotech Inc,2.00999999,FALSE,2009,,17-Dec,2-Mar,8,8,3,3,17-Dec,2-Mar,14.04893593
+311,ONCGF,Oncology Venture Sweden AB,$1.78 ,TRUE,,No data fetched for symbol ONCGF using YahooDailyReader,,,,,,,,,
+312,ONPH,Oncology Pharma Inc,0.349999994,TRUE,2012,,,,,,,,,,
+313,ONCDF,Oncodesign SA,$11.91 ,TRUE,,No data fetched for symbol ONCDF using YahooDailyReader,,,,,,,,,
+314,OCX,OncoCyte Corp,1.75,TRUE,2015,,,,,,,,,,
+315,ONSIU,Oncobiologics Inc,$4.62 ,TRUE,,'Date',,,,,,,,,
+316,OCMMF,Oncimmune Holdings PLC,1.620000005,TRUE,2020,,,,,,,,,,
+317,ONSS,Onassis Holdings Corp,0.239999995,TRUE,2013,,,,,,,,,,
+318,ONMBF,Onamba Co Ltd,3.440000057,TRUE,2019,,,,,,,,,,
+319,OTIVF,On Track Innovations Ltd,0.340000004,FALSE,2009,,27-Nov,10-Feb,5,5,6,6,27-Nov,10-Feb,12.0541223
+320,OOBHF,On The Beach Group PLC,3.672889948,TRUE,2016,,,,,,,,,,
+321,ON,ON Semiconductor Corp,27.60000038,FALSE,2009,,6-Oct,20-Dec,8,8,3,3,6-Oct,20-Dec,10.32060475
+322,ONDK,On Deck Capital Inc,1.830000043,TRUE,2014,,,,,,,,,,
+323,^OMXSPI,OMX Stockholm_PI,756.4699707,TRUE,2013,,,,,,,,,,
+324,OMVKY,Omv AG,32.68999863,FALSE,2010,,6-Aug,20-Oct,4,4,6,6,6-Aug,20-Oct,0.539661313
+325,OMVJF,Omv AG,29.79999924,FALSE,2009,,25-Sep,9-Dec,3,3,8,8,25-Sep,9-Dec,5.479282488
+326,OMTL,Omtool Ltd,$3.78 ,TRUE,,'Date',,,,,,,,,
+327,OMRNY,OMRON Corp,81.77999878,FALSE,2009,,13-Sep,27-Nov,7,7,4,4,13-Sep,27-Nov,8.221469656
+328,OMRNF,OMRON Corp,68.5,TRUE,2013,,,,,,,,,,
+329,OMPS,Omphalos Corp,0.071000002,TRUE,2012,,,,,,,,,,
+330,OMN,Omnova Solutions Inc,$10.14 ,TRUE,,No data fetched for symbol OMN using YahooDailyReader,,,,,,,,,
+331,OVTI,OmniVision Technologies Inc,$29.38 ,TRUE,,'Date',,,,,,,,,
+332,OMTK,OmniTek Engineering Corp,0.039999999,FALSE,2009,,29-May,12-Aug,6,6,5,5,29-May,12-Aug,8.15725329
+333,OMQS,OMNIQ Corp,4.96999979,TRUE,2011,,,,,,,,,,
+334,OMMH,Omnimmune Holdings Inc,0.017999999,TRUE,2012,,,,,,,,,,
+335,OMCM,Omnicomm Systems Inc,$0.41 ,TRUE,,No data fetched for symbol OMCM using YahooDailyReader,,,,,,,,,
+336,OMC,Omnicom Group Inc,59.70000076,FALSE,2009,,11-Oct,25-Dec,8,8,3,3,19-Oct,2-Jan,6.089577598
+337,OMCL,Omnicell Inc,102,FALSE,2009,,21-Apr,5-Jul,5,5,6,6,21-Apr,5-Jul,6.944912902
+338,OMWS,Omnia Wellness Inc,2,TRUE,2019,,,,,,,,,,
+339,OLNCF,Omni-Lite Industries Canada Inc,0.920000017,TRUE,2011,,,,,,,,,,
+340,CCTXF,Omni Commerce Corp,$0.12 ,TRUE,,No data fetched for symbol CCTXF using YahooDailyReader,,,,,,,,,
+341,IMMFF,Omni Bridgeway Ltd,2.599999905,TRUE,2018,,,,,,,,,,
+342,OMNT,Ominto Inc,$0.41 ,TRUE,,No data fetched for symbol OMNT using YahooDailyReader,,,,,,,,,
+343,OMMSF,Omineca Mining and Metals Ltd,0.273900002,TRUE,2012,,,,,,,,,,
+344,OMID,Omid Holdings Inc,0.0141,TRUE,2017,,,,,,,,,,
+345,OMUKF,OMG PLC,$0.43 ,TRUE,,No data fetched for symbol OMUKF using YahooDailyReader,,,,,,,,,
+346,OMER,Omeros Corp,11.89000034,FALSE,2009,,4-Feb,19-Apr,7,7,4,4,4-Feb,19-Apr,6.8464633
+347,OMWDF,Omega World Inc,0.01,FALSE,2009,,12-Feb,27-Apr,1,1,10,10,12-Feb,27-Apr,37.90985785
+348,OME,Omega Protein Corp,$22.00 ,TRUE,,'Date',,,,,,,,,
+349,OHI,Omega Healthcare Investors Inc,33.74000168,FALSE,2009,,19-Nov,2-Feb,8,7,3,4,12-Nov,26-Jan,7.737652131
+350,OFLX,Omega Flex Inc,138.2200012,FALSE,2009,,2-Aug,16-Oct,4,4,7,7,2-Aug,16-Oct,7.294123954
+351,OGDGF,Omega Diagnostics Group PLC,1.029199958,TRUE,2020,,,,,,,,,,
+352,OMGB,Omega Brands Inc,$0.20 ,TRUE,,'Date',,,,,,,,,
+353,OMHLF,OM Holdings Ltd,0.879999995,TRUE,2019,,,,,,,,,,
+354,OMG,OM Group Inc,$33.94 ,TRUE,,'Date',,,,,,,,,
+355,OCPNY,Olympus Corp,20.07999992,FALSE,2009,,23-Mar,6-Jun,8,8,3,3,3-Nov,17-Jan,8.886770268
+356,OCPNF,Olympus Corp,18.5,FALSE,2010,,20-Jan,4-Apr,7,7,3,3,3-Dec,16-Feb,10.17791015
+357,OQLGF,Olympique Lyonnais Groupe,2.569999933,TRUE,2017,,,,,,,,,,
+358,ZEUS,Olympic Steel Inc,14.52999973,FALSE,2009,,10-Oct,24-Dec,4,4,7,7,10-Oct,24-Dec,8.479156367
+359,OLGRF,Olympia Financial Group Inc,$31.84 ,TRUE,,No data fetched for symbol OLGRF using YahooDailyReader,,,,,,,,,
+360,OLLI,Ollie's Bargain Outlet Holdings Inc,89.37000275,TRUE,2015,,,,,,,,,,
+361,OLVRF,Olivut Resources Ltd,0.050000001,FALSE,2009,,20-Dec,5-Mar,7,7,4,4,20-Dec,5-Mar,19.38260362
+362,OLVI,Oliveda International Inc,0.066,FALSE,2009,,27-Feb,12-May,4,4,7,7,27-Feb,12-May,13.09904828
+363,OLN,Olin Corp,21.34000015,FALSE,2009,,1-Feb,16-Apr,6,6,5,5,4-Feb,19-Apr,7.308266065
+364,OLFC,Olfactory Biosciences Corp,0.0999,TRUE,2012,,,,,,,,,,
+365,OGXPY,Oleo e Gas Participacoes SA,$0.28 ,TRUE,,No data fetched for symbol OGXPY using YahooDailyReader,,,,,,,,,
+366,OGXPF,Oleo e Gas Participacoes SA,$0.12 ,TRUE,,No data fetched for symbol OGXPF using YahooDailyReader,,,,,,,,,
+367,OLDW,Oldwebsites.com Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+368,OSBC,Old Second Bancorp Inc,9.789999962,FALSE,2009,,24-Mar,7-Jun,6,6,5,5,24-Mar,7-Jun,5.755344995
+369,ORI,Old Republic International Corp,18.14999962,FALSE,2009,,14-Oct,28-Dec,7,6,4,5,12-Aug,26-Oct,3.339862872
+370,PSGLQ,Old PSG Wind-down Ltd,$0.41 ,TRUE,,'Date',,,,,,,,,
+371,OPOF,Old Point Financial Corp,16.98999977,FALSE,2009,,19-Mar,2-Jun,8,7,3,4,22-Oct,5-Jan,2.282128273
+372,ONB,Old National Bancorp,16.32999992,FALSE,2009,,22-Sep,6-Dec,5,4,6,7,22-Sep,6-Dec,6.968180453
+373,ODMUF,Old Mutual Ltd,0.600000024,TRUE,2020,,,,,,,,,,
+374,ODMUF,Old Mutual Ltd,0.600000024,TRUE,2020,,,,,,,,,,
+375,ODMTY,Old Mutual Ltd,21.89999962,TRUE,2012,,,,,,,,,,
+376,OLDF,Old Forge Bank PA,84,FALSE,2009,,21-Jan,5-Apr,0,0,11,11,21-Jan,5-Apr,0.460122699
+377,ODFL,Old Dominion Freight Line Inc,204.5,FALSE,2009,,30-Sep,14-Dec,10,10,1,1,30-Sep,14-Dec,8.666449065
+378,OLMIY,Olam International Ltd,20.81999969,FALSE,2009,,20-Feb,5-May,6,6,5,5,30-Aug,13-Nov,0.472540721
+379,OLMIF,Olam International Ltd,0.99000001,FALSE,2009,,19-Jun,2-Sep,6,6,5,5,21-Feb,6-May,6.96180532
+380,EMMLF,OKYO Pharma Ltd,0.129999995,TRUE,2020,,,,,,,,,,
+381,EMMLF,OKYO Pharma Ltd,0.129999995,TRUE,2020,,,,,,,,,,
+382,OKUCF,Okumura Corp,$4.27 ,TRUE,,No data fetched for symbol OKUCF using YahooDailyReader,,,,,,,,,
+383,OKUMF,Okuma Corp,$7.90 ,TRUE,,No data fetched for symbol OKUMF using YahooDailyReader,,,,,,,,,
+384,OKTA,Okta Inc,223.8399963,TRUE,2017,,,,,,,,,,
+385,OKLOF,Oklo Resources Ltd,0.170000002,TRUE,2020,,,,,,,,,,
+386,OKCTF,Okinawa Cellular Telephone Co,$28.65 ,TRUE,,No data fetched for symbol OKCTF using YahooDailyReader,,,,,,,,,
+387,OKIEY,Oki Electric Industry Co Ltd,9.100000381,TRUE,2012,,,,,,,,,,
+388,OKIEF,Oki Electric Industry Co Ltd,12,TRUE,2012,,,,,,,,,,
+389,OKENF,Okeanis Eco Tankers Corp,6.133299828,TRUE,2020,,,,,,,,,,
+390,OJIPY,Oji Holdings Corp,47.45999908,FALSE,2010,,25-Nov,8-Feb,5,5,5,5,25-Nov,8-Feb,1.132925486
+391,OJIPF,Oji Holdings Corp,4.599999905,TRUE,2018,,,,,,,,,,
+392,OJOC,Ojai Oil Co,100,TRUE,2014,,,,,,,,,,
+393,OITAF,Oita Bank Ltd,21.23399925,TRUE,2018,,,,,,,,,,
+394,OSHIF,Oishi Group PLC,1.24000001,TRUE,2020,,,,,,,,,,
+395,OIHUF,Oishi Group PLC,$0.99 ,TRUE,,No data fetched for symbol OIHUF using YahooDailyReader,,,,,,,,,
+396,OILEF,Oiles Corp,$10.50 ,TRUE,,'Date',,,,,,,,,
+397,ODC,Oil-Dri Corp of America,35.04999924,FALSE,2009,,14-Oct,28-Dec,3,2,8,9,14-Oct,28-Dec,5.912143893
+398,OIS,Oil States International Inc,4.059999943,FALSE,2009,,13-Mar,27-May,6,6,5,5,13-Mar,27-May,12.67582112
+399,OISHY,Oil Search Ltd,13.93999958,FALSE,2010,,11-Dec,24-Feb,6,6,4,4,11-Dec,24-Feb,4.83892517
+400,OISHF,Oil Search Ltd,2.75999999,FALSE,2010,,14-Dec,27-Feb,6,6,4,4,14-Dec,27-Feb,5.660942174
+401,OILRF,Oil Refineries Ltd,0.050799999,TRUE,2014,,,,,,,,,,
+402,OIDN,Oidon Co Ltd,0.03115,TRUE,2012,,,,,,,,,,
+403,OICT,Oicintra Inc,1.75,TRUE,2012,,,,,,,,,,
+404,OIBRQ,Oi SA,0.419999987,FALSE,2009,,27-Aug,10-Nov,5,5,6,6,27-Aug,10-Nov,2.328331831
+405,OIBR.C,Oi SA,$1.70 ,TRUE,,No data fetched for symbol OIBR.C using YahooDailyReader,,,,,,,,,
+406,OVBC,Ohio Valley Banc Corporation,22.36000061,FALSE,2009,,2-Oct,16-Dec,8,6,3,5,2-Oct,16-Dec,5.315304497
+407,OSBI,Ohio State Bancshares Inc,$0.02 ,TRUE,,No data fetched for symbol OSBI using YahooDailyReader,,,,,,,,,
+408,OLCB,Ohio Legacy Corp,21,TRUE,2012,,,,,,,,,,
+409,OART,Ohio Art Co,9.699999809,FALSE,2009,,6-Feb,21-Apr,7,7,4,4,6-Feb,21-Apr,9.829311489
+410,OHBTF,OHB SE,51.25,TRUE,2014,,,,,,,,,,
+411,OHPB,Ohana Pacific Bank,8,TRUE,2012,,,,,,,,,,
+412,OHAI,OHA Investment Corp,$1.32 ,TRUE,,No data fetched for symbol OHAI using YahooDailyReader,,,,,,,,,
+413,OGLH,OGL Holdings Ltd,$5.00 ,TRUE,,No data fetched for symbol OGLH using YahooDailyReader,,,,,,,,,
+414,OGKJL,OGK-2 JSC,$4.65 ,TRUE,,No data fetched for symbol OGKJL using YahooDailyReader,,,,,,,,,
+415,OGE,OGE Energy Corp,33.27999878,FALSE,2009,,11-Jun,25-Aug,7,7,4,4,11-Jun,25-Aug,4.078973623
+416,OZFRY,OFX Group Ltd,6.25,TRUE,2014,,,,,,,,,,
+417,OCCI,OFS Credit Co Inc,10.47000027,TRUE,2018,,,,,,,,,,
+418,OFS,OFS Capital Corp,5.900000095,TRUE,2012,,,,,,,,,,
+419,OFG,OFG Bancorp,17,FALSE,2009,,12-Nov,26-Jan,5,5,6,6,4-Nov,18-Jan,2.854140783
+420,OPI,Office Properties Income Trust,22.71999931,FALSE,2009,,23-Dec,8-Mar,7,5,4,6,15-Dec,28-Feb,0.569641462
+421,OSTIY,Oesterreichische Post AG,17,TRUE,2014,,,,,,,,,,
+422,OERCF,Oesterreichische Post AG,35.70000076,FALSE,2009,,12-Mar,26-May,5,5,6,6,8-Jan,23-Mar,0.569762823
+423,ODII,Odyssey Semiconductor Technologies Inc,3.5,TRUE,2020,,,,,,,,,,
+424,ODXSF,Odyssey Resources Ltd,$0.02 ,TRUE,,No data fetched for symbol ODXSF using YahooDailyReader,,,,,,,,,
+425,OMEX,Odyssey Marine Exploration Inc,6.619999886,FALSE,2009,,28-Dec,13-Mar,8,8,3,3,28-Dec,13-Mar,9.649963977
+426,ODYY,Odyssey Group International Inc,0.189999998,TRUE,2017,,,,,,,,,,
+427,ODPVY,Odontoprev SA,$7.37 ,TRUE,,No data fetched for symbol ODPVY using YahooDailyReader,,,,,,,,,
+428,ODPVF,Odontoprev SA,$3.94 ,TRUE,,No data fetched for symbol ODPVF using YahooDailyReader,,,,,,,,,
+429,ODT,Odonate Therapeutics Inc,14.32999992,TRUE,2017,,,,,,,,,,
+430,ODMO,Odimo Inc,0.02,TRUE,2012,,,,,,,,,,
+431,ODJAF,Odfjell SE,$3.64 ,TRUE,,No data fetched for symbol ODJAF using YahooDailyReader,,,,,,,,,
+432,ODZA,Odenza Corp,0.170000002,TRUE,2012,,,,,,,,,,
+433,ODDJ,Odd Job Stores Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+434,OWRMF,Odawara Auto-Machine Mfg Co Ltd,$4.64 ,TRUE,,No data fetched for symbol OWRMF using YahooDailyReader,,,,,,,,,
+435,ODERF,Odakyu Electric Railway Co Ltd,19.15099907,TRUE,2013,,,,,,,,,,
+436,OCN,Ocwen Financial Corp,24.18000031,FALSE,2009,,7-Aug,21-Oct,6,6,5,5,7-Aug,21-Oct,15.76242679
+437,OCUP,Ocuphire Pharma Inc,5.519999981,FALSE,2009,,9-Nov,23-Jan,7,7,4,4,9-Nov,23-Jan,5.571888443
+438,OVTZ,Oculus VisionTech Inc,0.25,TRUE,2012,,,,,,,,,,
+439,OCUL,Ocular Therapeutix Inc,13.43000031,TRUE,2014,,,,,,,,,,
+440,OCGN,Ocugen Inc,0.305999994,TRUE,2014,,,,,,,,,,
+441,OCTOF,Octo Technology SA,$6.42 ,TRUE,,'Date',,,,,,,,,
+442,OCTV,Octavian Global Technologies Inc,8,TRUE,2018,,,,,,,,,,
+443,OCTX,Octagon 88 Resources Inc,0.0053,TRUE,2012,,,,,,,,,,
+444,OCNB,Oconomowoc Bancshares Inc,240,TRUE,2014,,,,,,,,,,
+445,OSBK,Oconee Financial Corp,33.34999847,TRUE,2019,,,,,,,,,,
+446,OFED,Oconee Federal Financial Corp,23,TRUE,2011,,,,,,,,,,
+447,OCLR,Oclaro Inc,8.260000229,TRUE,2012,,,,,,,,,,
+448,OCIP,OCI Partners LP,11.44999981,TRUE,2013,,,,,,,,,,
+449,OCINF,OCI NV,13.85000038,TRUE,2013,,,,,,,,,,
+450,OCINY,OCI NV,$32.61 ,TRUE,,No data fetched for symbol OCINY using YahooDailyReader,,,,,,,,,
+451,DGTLF,OCI International Holdings Ltd,0.180000007,TRUE,2013,,,,,,,,,,
+452,OCRX,Ocera Therapeutics Inc,$1.79 ,TRUE,,'Date',,,,,,,,,
+453,NKWFF,Oceanic Wind Energy Inc,0.109999999,FALSE,2010,,22-Aug,5-Nov,3,3,7,7,22-Aug,5-Nov,18.06769064
+454,FEOVF,Oceanic Iron Ore Corp,0.140000001,FALSE,2009,,19-Dec,4-Mar,7,7,4,4,19-Dec,4-Mar,9.372994566
+455,OCCAF,Oceania Capital Partners Ltd,$2.04 ,TRUE,,No data fetched for symbol OCCAF using YahooDailyReader,,,,,,,,,
+456,OCFC,OceanFirst Financial Corp,16.20999908,FALSE,2009,,7-Apr,21-Jun,8,8,3,3,12-Nov,26-Jan,3.865423396
+457,OII,Oceaneering International Inc,6.329999924,FALSE,2009,,30-Jan,14-Apr,5,5,6,6,30-Jan,14-Apr,-12.55242302
+458,OGDCF,OceanaGold Corp,1.399999976,TRUE,2013,,,,,,,,,,
+459,OCANF,OceanaGold Corp,1.320000052,FALSE,2009,,9-Dec,22-Feb,5,5,6,6,9-Dec,22-Feb,10.65398755
+460,OCGPF,Oceana Group Ltd,$4.70 ,TRUE,,No data fetched for symbol OCGPF using YahooDailyReader,,,,,,,,,
+461,OYIEF,Ocean Yield ASA,2.75999999,TRUE,2014,,,,,,,,,,
+462,OCWSF,Ocean Wilsons Holdings Ltd,$14.50 ,TRUE,,No data fetched for symbol OCWSF using YahooDailyReader,,,,,,,,,
+463,CPWR,Ocean Thermal Energy Corp,0.024,TRUE,2017,,,,,,,,,,
+464,OSKIF,Ocean Sky International Ltd,$0.03 ,TRUE,,No data fetched for symbol OSKIF using YahooDailyReader,,,,,,,,,
+465,OSHC,Ocean Shore Holding Co,$27.25 ,TRUE,,'Date',,,,,,,,,
+466,ORIG,Ocean Rig UDW Inc,27.78000069,TRUE,2012,,,,,,,,,,
+467,OPTT,Ocean Power Technologies Inc,1.889999986,FALSE,2009,,1-Aug,15-Oct,4,4,7,7,1-Aug,15-Oct,-3.910665879
+468,OCTPF,Ocean Outdoor Ltd,6.274919987,TRUE,2018,,,,,,,,,,
+469,OBCI,Ocean Bio-Chem Inc,12.97999954,FALSE,2009,,16-Jan,31-Mar,9,9,2,2,16-Jan,31-Mar,14.89578536
+470,OXY,Occidental Petroleum Corp,12.86999989,FALSE,2009,,7-Dec,20-Feb,7,7,4,4,7-Dec,20-Feb,4.491266371
+471,OJCB,OCB Bancorp,$15.10 ,TRUE,,'Date',,,,,,,,,
+472,OCAT,Ocata Therapeutics Inc,$8.47 ,TRUE,,'Date',,,,,,,,,
+473,OCDGF,Ocado Group PLC,30.42000008,TRUE,2012,,,,,,,,,,
+474,OCDDY,Ocado Group PLC,61.73500061,TRUE,2017,,,,,,,,,,
+475,OERLY,"OC Oerlikon Corp AG, Pfaffikon",$33.00 ,TRUE,,No data fetched for symbol OERLY using YahooDailyReader,,,,,,,,,
+476,OERLF,"OC Oerlikon Corp AG, Pfaffikon",7.800000191,TRUE,2012,,,,,,,,,,
+477,OCBG,OC Beverages Inc,0.00935,FALSE,2010,,11-Sep,25-Nov,2,2,8,8,11-Sep,25-Nov,18.63937088
+478,OBDE,Obsidian Enterprises Inc,1.820000052,TRUE,2012,,,,,,,,,,
+479,OBELF,Obsidian Energy Ltd,0.319999993,FALSE,2009,,14-Jan,29-Mar,4,4,7,7,8-Nov,22-Jan,1.285852161
+480,OBSV,ObsEva SA,$2.07 ,TRUE,,"HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=30)",,,,,,,,,
+481,OBSJF,Obrascon Huarte Lain SA,0.860000014,TRUE,2013,,,,,,,,,,
+482,OBLG,Oblong Inc,3.470000029,FALSE,2009,,27-Aug,10-Nov,5,5,6,6,27-Aug,10-Nov,12.82342659
+483,OBTX,Obitx Inc,1.220000029,TRUE,2020,,,,,,,,,,
+484,OBIIF,OBIC Co Ltd,177,TRUE,2015,,,,,,,,,,
+485,OBDCF,Obducat AB,$0.24 ,TRUE,,No data fetched for symbol OBDCF using YahooDailyReader,,,,,,,,,
+486,OBYCF,Obayashi Corp,8.168999672,FALSE,2009,,18-Jul,1-Oct,4,4,7,7,3-Jun,17-Aug,3.753878211
+487,OBLN,Obalon Therapeutics Inc,0.940999985,TRUE,2016,,,,,,,,,,
+488,OASMY,Oasmia Pharmaceutical AB,1.434999943,TRUE,2015,,,,,,,,,,
+489,OASPQ,Oasis Petroleum Inc,0.119999997,TRUE,2020,,,,,,,,,,
+490,OMP,Oasis Midstream Partners LP,10.01000023,TRUE,2017,,,,,,,,,,
+491,ONDOF,Oando Energy Resources Inc,$1.07 ,TRUE,,No data fetched for symbol ONDOF using YahooDailyReader,,,,,,,,,
+492,OCSI,Oaktree Strategic Income Corp,7.199999809,TRUE,2013,,,,,,,,,,
+493,OCSL,Oaktree Specialty Lending Corp,5.190000057,FALSE,2009,,3-Jul,16-Sep,6,6,5,5,6-May,20-Jul,4.183553466
+494,OAK,Oaktree Capital Group LLC,$51.52 ,TRUE,,No data fetched for symbol OAK using YahooDailyReader,,,,,,,,,
+495,OACB,Oaktree Acquisition Corp II,10,TRUE,2020,,,,,,,,,,
+496,OAC,Oaktree Acquisition Corp,10.11999989,TRUE,2019,,,,,,,,,,
+497,OKRGQ,Oakridge Holdings Inc,$0.02 ,TRUE,,No data fetched for symbol OKRGQ using YahooDailyReader,,,,,,,,,
+498,OAKR,Oakridge Energy Inc,0.030999999,TRUE,2012,,,,,,,,,,
+499,OAKV,Oak View National Bank Warrenton,7,TRUE,2012,,,,,,,,,,
+500,OVLY,Oak Valley Bancorp,17.37000084,FALSE,2009,,16-Sep,30-Nov,6,6,5,5,16-Sep,30-Nov,8.790044499
+501,OTED,Oak Tree Educational Partners Inc,0.100000001,FALSE,2010,,3-Feb,18-Apr,2,2,8,8,3-Feb,18-Apr,6.670601683
+502,OSH,Oak Street Health Inc,45.86999893,TRUE,2020,,,,,,,,,,
+503,BKOR,Oak Ridge Financial Services Inc,11.81000042,FALSE,2009,,4-Apr,18-Jun,7,7,4,4,4-Apr,18-Jun,6.790724973
+504,OQMGF,O3 Mining Inc,1.919999957,TRUE,2019,,,,,,,,,,
+505,OIIM,O2Micro International Ltd,6.900000095,FALSE,2009,,26-Dec,11-Mar,9,9,2,2,26-Dec,11-Mar,9.710097413
+506,OTOW,O2 Secure Wireless Inc,0.0087,FALSE,2009,,24-Dec,9-Mar,6,6,5,5,24-Dec,9-Mar,-58.93509071
+507,TFAOF,O2 Czech Republic AS,10.25,FALSE,2009,,28-Feb,13-May,4,4,7,7,9-Jul,22-Sep,7.89347371
+508,ONTZF,O-Net Technologies (Group) Ltd,$0.54 ,TRUE,,No data fetched for symbol ONTZF using YahooDailyReader,,,,,,,,,
+509,ONETY,O-Net Technologies (Group) Ltd,$29.50 ,TRUE,,No data fetched for symbol ONETY using YahooDailyReader,,,,,,,,,
+510,OI,O-I Glass Inc,12.07999992,FALSE,2009,,29-Oct,12-Jan,5,5,6,6,29-Oct,12-Jan,5.318410091
+511,ORLY,O'Reilly Automotive Inc,454.5299988,FALSE,2009,,4-Oct,18-Dec,7,7,4,4,4-Oct,18-Dec,7.164561889
+512,OTMN,O T Mining Corp,0.039999999,FALSE,2009,,22-Jun,5-Sep,4,4,7,7,22-Jun,5-Sep,22.25013955

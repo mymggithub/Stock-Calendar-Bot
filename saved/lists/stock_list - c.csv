@@ -1,0 +1,1984 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,adj_downs
+0,CCLHF,C C Land Holdings Ltd,0.354999989,TRUE,2018,,,,,
+1,CMRDF,C Mer Industries Ltd,$5.20 ,TRUE,,No data fetched for symbol CMRDF using YahooDailyReader,,,,
+2,CCGGY,C&C Group PLC,7.09100008,FALSE,2009,,9-Nov,23-Jan,5,7
+3,CGPZF,C&C Group PLC,2.049999952,FALSE,2010,,3-Nov,17-Jan,7,4
+4,CFFI,C&F Financial Corp,34.65000153,FALSE,2009,,19-May,2-Aug,5,7
+5,CJ,C&J Energy Services Inc,$7.36 ,TRUE,,No data fetched for symbol CJ using YahooDailyReader,,,,
+6,CBNT,C-Bond Systems Inc,0.01505,TRUE,2018,,,,,
+7,CYSNF,C-Com Satellite Systems Inc,2.041330099,FALSE,2009,,21-Dec,6-Mar,9,3
+8,CUBG,C-Cube Genetics Inc,3,TRUE,2012,,,,,
+9,CTAIF,C. P. Lotus Corp,$0.01 ,TRUE,,No data fetched for symbol CTAIF using YahooDailyReader,,,,
+10,CUYRF,C. Uyemura & Co Ltd,$60.50 ,TRUE,,No data fetched for symbol CUYRF using YahooDailyReader,,,,
+11,CHRW,C.H. Robinson Worldwide Inc,91.97000122,FALSE,2009,,10-Aug,24-Oct,4,8
+12,CPKPF,C.P. Pokphand Co Ltd,0.100000001,FALSE,2010,,2-Oct,16-Dec,2,9
+13,CPKPY,C.P. Pokphand Co Ltd,2.220000029,FALSE,2009,,7-Apr,21-Jun,4,8
+14,BNK,C1 Financial Inc,802.8900146,TRUE,2019,,,,,
+15,CXXIF,C21 Investments Inc,0.712599993,TRUE,2012,,,,,
+16,CARCF,C3 Metals Inc,0.05006,TRUE,2016,,,,,
+17,CCCC,C4 Therapeutics Inc,25.82999992,TRUE,2020,,,,,
+18,CAIAF,CA Immobilien Anlagen AG,28.92029953,TRUE,2019,,,,,
+19,CAIAF,CA Immobilien Anlagen AG,28.92029953,TRUE,2019,,,,,
+20,CA,CA Inc,65.5,TRUE,2012,,,,,
+21,CABF,CAB Financial Corp,$16.83 ,TRUE,,No data fetched for symbol CABF using YahooDailyReader,,,,
+22,CABA,Cabaletta Bio Inc,14.01000023,TRUE,2019,,,,,
+23,CAB,Cabela?s Inc,63.09999847,TRUE,2019,,,,,
+24,CWIXF,Cable & Wireless Communications PLC,$1.10 ,TRUE,,No data fetched for symbol CWIXF using YahooDailyReader,,,,
+25,CABO,Cable One Inc,1983.469971,TRUE,2015,,,,,
+26,CVHSY,Cablevision Holding SA,2.410000086,TRUE,2017,,,,,
+27,CVC,Cablevision Systems Corp,$34.87 ,TRUE,,'Date',,,,
+28,CBT,Cabot Corp,40.97000122,FALSE,2009,,15-Oct,29-Dec,8,4
+29,NNPTF,Cabot Energy PLC,$0.06 ,TRUE,,No data fetched for symbol NNPTF using YahooDailyReader,,,,
+30,COG,Cabot Oil & Gas Corp,17.62000084,FALSE,2009,,27-Feb,12-May,4,8
+31,CBGZF,Cabral Gold Inc,0.444799989,TRUE,2018,,,,,
+32,^FCHI,CAC 40,5380.160156,FALSE,2009,,25-Sep,9-Dec,6,6
+33,CEXPF,Cache Exploration Inc,0.157120004,FALSE,2010,,7-Mar,21-May,3,8
+34,CACI,CACI International Inc,236.8200073,FALSE,2009,,11-Dec,24-Feb,8,4
+35,WHD,Cactus Inc,23.20999908,TRUE,2018,,,,,
+36,CADAF,Cadan Resources Corp,$0.03 ,TRUE,,No data fetched for symbol CADAF using YahooDailyReader,,,,
+37,CADE,Cadence Bancorp,14,TRUE,2017,,,,,
+38,CDNS,Cadence Design Systems Inc,115.8199997,FALSE,2009,,18-Mar,1-Jun,8,4
+39,RARMF,Cadence Minerals PLC,0.109999999,TRUE,2014,,,,,
+40,KDNCY,Cadence Minerals PLC,0.949999988,TRUE,2016,,,,,
+41,CADIF,Cadillac Ventures Inc,0.0151,TRUE,2013,,,,,
+42,CDZI,Cadiz Inc,9.949999809,FALSE,2009,,20-Oct,3-Jan,4,8
+43,KDUS,Cadus Corp,1.600000024,TRUE,2012,,,,,
+44,CAE,CAE Inc,22.64999962,FALSE,2009,,24-Aug,7-Nov,7,5
+45,CACQ,Caesars Acquisition Co,$21.25 ,TRUE,,'Date',,,,
+46,CZR,Caesars Entertainment Inc,61.38000107,TRUE,2014,,,,,
+47,CSTE,Caesarstone Ltd,11.59000015,TRUE,2012,,,,,
+48,CFCGF,Cafe de Coral Holdings Ltd,2.019999981,TRUE,2012,,,,,
+49,COFE,Cafe Holdings Inc,0.050000001,TRUE,2017,,,,,
+50,PRSS,CafePress Inc,1.470000029,TRUE,2012,,,,,
+51,CAI,CAI International Inc,29.87999916,FALSE,2009,,6-Sep,20-Nov,8,4
+52,CRNCY,Cairn Energy PLC,3.776599884,FALSE,2009,,22-Nov,5-Feb,4,8
+53,CRNZF,Cairn Energy PLC,1.850000024,FALSE,2009,,29-Jan,13-Apr,6,6
+54,CRRNF,Cairn Homes PLC,$1.43 ,TRUE,,No data fetched for symbol CRRNF using YahooDailyReader,,,,
+55,CMZZF,Cairo Mezz PLC,0.100000001,TRUE,2020,,,,,
+56,CAMYF,Caisse Regionale de Credit Agricole Mutuel de Pari,$91.50 ,TRUE,,No data fetched for symbol CAMYF using YahooDailyReader,,,,
+57,CRDMF,Caisse Regionale du Credit Agricole Mutuel du Lang,$65.01 ,TRUE,,No data fetched for symbol CRDMF using YahooDailyReader,,,,
+58,CAIXY,CaixaBank SA,0.825999975,TRUE,2013,,,,,
+59,CIXPF,CaixaBank SA,1.861799955,TRUE,2012,,,,,
+60,CALM,Cal-Maine Foods Inc,40.20000076,FALSE,2009,,8-Feb,23-Apr,6,6
+61,CLBS,Caladrius Biosciences Inc,1.519999981,FALSE,2009,,27-Dec,12-Mar,9,3
+62,CLMS,Calamos Asset Management Inc,$8.28 ,TRUE,,'Date',,,,
+63,CHY,Calamos Convertible & High Income Fund,12.67000008,FALSE,2009,,12-Dec,25-Feb,9,3
+64,CHI,CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND,11.94999981,FALSE,2009,,17-Feb,2-May,9,3
+65,CCD,Calamos Dynamic Convertible and Income Fund,25.97999954,TRUE,2015,,,,,
+66,CHW,Calamos Global Dynamic Income Fund,8.819999695,FALSE,2009,,10-Dec,23-Feb,8,4
+67,CGO,Calamos Global Total Return Fund,13.07999992,FALSE,2009,,12-Dec,25-Feb,8,4
+68,CSQ,Calamos Strategic Total Return Fund,14.35999966,FALSE,2009,,11-Dec,24-Feb,8,4
+69,CAMP,CalAmp Corp,8.460000038,FALSE,2009,,29-Aug,12-Nov,7,5
+70,CAA,CalAtlantic Group Inc,53.11999893,TRUE,2012,,,,,
+71,CVGW,Calavo Growers Inc,71.55999756,FALSE,2009,,22-Mar,5-Jun,8,4
+72,CBCFF,CALBEE Inc,30.67000008,TRUE,2012,,,,,
+73,CLBEY,CALBEE Inc,6.994999886,TRUE,2018,,,,,
+74,CLKTF,Calcitech Ltd,0.005,FALSE,2009,,18-Jan,2-Apr,4,8
+75,ALLXF,Caldas Gold Corp,1.590000033,FALSE,2009,,4-Feb,19-Apr,4,8
+76,CWLPF,Caldwell Partners International Inc,0.649999976,FALSE,2010,,28-Oct,11-Jan,3,8
+77,CMCL,Caledonia Mining Corp PLC,15.90999985,FALSE,2009,,12-Dec,25-Feb,8,4
+78,CMND,Caleminder Inc,1.192000031,TRUE,2017,,,,,
+79,CAL,Caleres Inc,10.34000015,FALSE,2009,,6-Oct,20-Dec,4,8
+80,BUUZ,CalEthos Inc,0.01,FALSE,2009,,3-Jan,18-Mar,7,5
+81,CFWFF,Calfrac Well Services Ltd,0.135299996,FALSE,2009,,14-Mar,28-May,5,7
+82,CLNFF,Calian Group Ltd,51.44900131,TRUE,2013,,,,,
+83,LCDX,Caliber Imaging & Diagnostics Inc,0.449999988,TRUE,2012,,,,,
+84,CLBGF,Calibre Group Ltd,$0.07 ,TRUE,,No data fetched for symbol CLBGF using YahooDailyReader,,,,
+85,CXBMF,Calibre Mining Corp,1.878530025,FALSE,2009,,23-Nov,6-Feb,5,7
+86,CVXHF,Calico Resources Corp,$0.13 ,TRUE,,'Date',,,,
+87,CALRF,Calidus Resources Ltd,0.460000008,TRUE,2018,,,,,
+88,CALB,California Bancorp,16.63999939,TRUE,2018,,,,,
+89,CABC,California Bank of Commerce,1030,TRUE,2012,,,,,
+90,CBHR,California Beach Restaurants Inc,0.136000007,TRUE,2012,,,,,
+91,CABB,California Business Bank,0.100000001,FALSE,2009,,22-Jul,5-Oct,8,4
+92,CFNB,California First National Bancorp,15.80000019,FALSE,2009,,4-Jun,18-Aug,4,8
+93,CFGMF,California Gold Mining Inc,0.112779997,TRUE,2013,,,,,
+94,CAIB,California International Bank NA,0.100000001,FALSE,2009,,1-Apr,15-Jun,6,6
+95,CLMC,California Mines Corp,$0.20 ,TRUE,,No data fetched for symbol CLMC using YahooDailyReader,,,,
+96,CANOF,California Nanotechnologies Corp,0.056000002,TRUE,2014,,,,,
+97,CAOX,California Orchards Co,1250,TRUE,2012,,,,,
+98,CRPB,California Republic Bancorp,$37.17 ,TRUE,,'Date',,,,
+99,CRCQQ,California Resources Corp,0.02805,TRUE,2020,,,,,
+100,CRC,California Resources Corp,13.93999958,TRUE,2020,,,,,
+101,CFPI,California Style Palms Inc,0.0105,TRUE,2012,,,,,
+102,CWT,California Water Service Group,52.38000107,FALSE,2009,,6-May,20-Jul,7,5
+103,CAEN,California-Engels Mining Co,4,TRUE,2011,,,,,
+104,RLTOF,Calima Energy Ltd,0.01,TRUE,2013,,,,,
+105,CALA,Calithera Biosciences Inc,4.599999905,TRUE,2014,,,,,
+106,CALX,Calix Inc,24.69000053,FALSE,2010,,11-May,25-Jul,4,7
+107,CCMN,Callahan Consolidated Mines Inc,0.094999999,TRUE,2012,,,,,
+108,ELY,Callaway Golf Co,16.75,FALSE,2009,,24-Jul,7-Oct,7,5
+109,CLTEF,Calliditas Therapeutics AB,11.60000038,TRUE,2020,,,,,
+110,CALT,Calliditas Therapeutics AB,32.5,TRUE,2020,,,,,
+111,CCAOF,Callidus Capital Corp,$0.55 ,TRUE,,No data fetched for symbol CCAOF using YahooDailyReader,,,,
+112,CALD,Callidus Software Inc,36,TRUE,2012,,,,,
+113,CLLXF,Callinex Mines Inc,2.400000095,TRUE,2012,,,,,
+114,CPE,Callon Petroleum Co,6.449999809,FALSE,2009,,9-Mar,23-May,7,5
+115,CLWY,Calloway's Nursery Inc,9.430000305,FALSE,2009,,6-Jul,19-Sep,6,6
+116,CLWA,CallWave Inc,7,TRUE,2012,,,,,
+117,CTTC,Calmare Therapeutics Inc,0.061000001,FALSE,2009,,5-Apr,19-Jun,5,7
+118,CPN,Calpine Corp,28.29999924,TRUE,2012,,,,,
+119,CLKNF,Calsonic Kansei Corp,$15.00 ,TRUE,,No data fetched for symbol CLKNF using YahooDailyReader,,,,
+120,CLMT,Calumet Specialty Products Partners LP,3.470000029,FALSE,2009,,18-May,1-Aug,6,6
+121,TYCB,Calvin B. Taylor Bankshares Inc,34.04999924,FALSE,2009,,23-Sep,7-Dec,8,4
+122,CALW,CalWest Bancorp,$0.35 ,TRUE,,No data fetched for symbol CALW using YahooDailyReader,,,,
+123,CLXT,Calyxt Inc,3.380000114,TRUE,2017,,,,,
+124,CAMG,CAM Group Inc,0.015,TRUE,2012,,,,,
+125,PSCSF,Camarico Investment Group Ltd,0.005,TRUE,2013,,,,,
+126,CEI,Camber Energy Inc,0.712100029,FALSE,2009,,21-Nov,4-Feb,4,8
+127,CBEX,Cambex Corp,0.008,FALSE,2009,,31-Dec,16-Mar,7,5
+128,CMBGF,Cambian Group PLC,$2.58 ,TRUE,,No data fetched for symbol CMBGF using YahooDailyReader,,,,
+129,CMBXF,Cambium Global Timberland Ltd,0.085000001,TRUE,2012,,,,,
+130,ABCD,Cambium Learning Group Inc,14.47999954,TRUE,2012,,,,,
+131,CMBM,Cambium Networks Corp,22.34000015,TRUE,2019,,,,,
+132,CAUTF,Cambria Automobiles PLC,0.550000012,TRUE,2020,,,,,
+133,CATC,Cambridge Bancorp,69.73999786,FALSE,2009,,19-Oct,2-Jan,6,6
+134,CCHI,Cambridge Capital Holdings Inc,0.090000004,TRUE,2012,,,,,
+135,CAC,Camden National Corp,35.40000153,FALSE,2009,,20-May,3-Aug,4,8
+136,CPT,Camden Property Trust,100.3099976,FALSE,2009,,12-Mar,26-May,7,5
+137,CCJ,Cameco Corp,9.640000343,FALSE,2009,,5-Nov,19-Jan,5,7
+138,CLAVF,Camellia PLC,86,TRUE,2014,,,,,
+139,CRUUF,Cameo Industries Corp,0.111060001,FALSE,2010,,13-Dec,26-Feb,3,8
+140,CAM,Cameron International Corp,$66.01 ,TRUE,,'Date',,,,
+141,CAMZF,Camino Minerals Corp,0.144800007,FALSE,2010,,17-Dec,2-Mar,8,3
+142,CMPQF,Campar Capital Corp,$0.16 ,TRUE,,No data fetched for symbol CMPQF using YahooDailyReader,,,,
+143,CPB,Campbell Soup Co,49.18999863,FALSE,2009,,6-Oct,20-Dec,8,4
+144,CWH,Camping World Holdings Inc,28,TRUE,2016,,,,,
+145,CCG,Campus Crest Communities Inc,$7.00 ,TRUE,,'Date',,,,
+146,BAJFF,Camrova Resources Inc,0.02,FALSE,2009,,25-Aug,8-Nov,5,7
+147,CAMT,Camtek Ltd,19.37999916,FALSE,2009,,7-Dec,20-Feb,8,4
+148,CAMRF,Camurus AB,12.89999962,TRUE,2017,,,,,
+149,CANB,Can B Corp,0.670000017,TRUE,2012,,,,,
+150,CANF,Can Fite Biofarma Ltd,1.815000057,TRUE,2012,,,,,
+151,CFBFF,Can Fite Biofarma Ltd,$1.88 ,TRUE,,No data fetched for symbol CFBFF using YahooDailyReader,,,,
+152,CCRE,Can-Cal Resources Ltd,0.109999999,TRUE,2012,,,,,
+153,CAOBF,Can-One Bhd,$0.81 ,TRUE,,No data fetched for symbol CAOBF using YahooDailyReader,,,,
+154,CAN,Canaan Inc,2.660000086,TRUE,2019,,,,,
+155,CCORF,Canaccord Genuity Group Inc,5.931000233,FALSE,2009,,26-Dec,11-Mar,8,4
+156,CNNEF,Canacol Energy Ltd,2.920000076,FALSE,2010,,12-Dec,25-Feb,4,7
+157,BRUZF,Canada Carbon Inc,0.174999997,FALSE,2009,,27-Jun,10-Sep,5,7
+158,CDCLF,Canada Coal Inc,0.022299999,TRUE,2014,,,,,
+159,CNDPF,Canada Energy Partners Inc,0.124229997,FALSE,2009,,10-Jun,24-Aug,4,8
+160,GOOS,Canada Goose Holdings Inc,33.90000153,TRUE,2017,,,,,
+161,SARSF,Canada House Wellness Group Inc,0.025,FALSE,2009,,20-Mar,3-Jun,2,10
+162,CNIKF,Canada Nickel Co Inc,1.559999943,TRUE,2020,,,,,
+163,ANGUF,Canada One Mining Corp,0.0341,FALSE,2010,,8-Jul,21-Sep,5,5
+164,RAREF,Canada Rare Earth Corp,0.037700001,FALSE,2010,,26-Dec,11-Mar,3,8
+165,CCWOF,Canada Silver Cobalt Works,0.403250009,TRUE,2012,,,,,
+166,CDPYF,Canadian Apartment Properties Real Estate Investme,39.06999969,FALSE,2009,,12-Dec,25-Feb,7,5
+167,CDARF,Canadian Arrow Mines Ltd,$0.01 ,TRUE,,No data fetched for symbol CDARF using YahooDailyReader,,,,
+168,CNDCF,Canadian Banc Corp,5.273970127,TRUE,2014,,,,,
+169,CCAN,Canadian Cannabis Corp,0.015,TRUE,2014,,,,,
+170,SMATF,Canadian GoldCamps Corp,0.098800004,TRUE,2019,,,,,
+171,CM,Canadian Imperial Bank of Commerce,80.95999908,FALSE,2009,,8-Jul,21-Sep,7,5
+172,CIMVF,Canadian Imperial Venture Corp,0.142100006,TRUE,2013,,,,,
+173,BPCOD,Canadian International Pharma Corp,$0.14 ,TRUE,,No data fetched for symbol BPCOD using YahooDailyReader,,,,
+174,CLSPF,Canadian Life Companies Split Corp,1.429999948,TRUE,2020,,,,,
+175,CNMTF,Canadian Metals Inc,0.052999999,TRUE,2018,,,,,
+176,CNI,Canadian National Railway Co,108.5199966,FALSE,2009,,17-May,31-Jul,8,4
+177,CNQ,Canadian Natural Resources Ltd,20.06999969,FALSE,2009,,31-Jan,15-Apr,6,6
+178,CRVYF,Canadian Oil Recovery & Remediation Enterprises Lt,0.033500001,TRUE,2011,,,,,
+179,COSWF,Canadian Oil Sands Ltd,$7.54 ,TRUE,,'Date',,,,
+180,CP,Canadian Pacific Railway Ltd,332.5299988,FALSE,2009,,11-Dec,24-Feb,7,5
+181,DCNNF,Canadian Palladium Resources Inc,0.082500003,TRUE,2018,,,,,
+182,CQUTF,Canadian Quantum Energy Corp,$0.04 ,TRUE,,No data fetched for symbol CQUTF using YahooDailyReader,,,,
+183,CRXIF,Canadian Real Estate Investment Trust,39.18999863,TRUE,2012,,,,,
+184,CRDUF,Canadian Resources Income Trust,$5.70 ,TRUE,,No data fetched for symbol CRDUF using YahooDailyReader,,,,
+185,CSIQ,Canadian Solar Inc,38.83000183,FALSE,2009,,9-Dec,22-Feb,6,6
+186,CSPUF,Canadian Spirit Resources Inc,0.029999999,FALSE,2009,,6-Jul,19-Sep,5,7
+187,CDNAF,Canadian Tire Corp Ltd,123.0199966,FALSE,2009,,23-Sep,7-Dec,6,6
+188,CDNTF,Canadian Tire Corp Ltd,153.7044983,TRUE,2012,,,,,
+189,CDUAF,Canadian Utilities Ltd,23.82719994,FALSE,2010,,12-Dec,25-Feb,6,5
+190,CDUUF,Canadian Utilities Ltd,23.74510002,TRUE,2011,,,,,
+191,CBWBF,Canadian Western Bank,20.38999939,FALSE,2010,,21-May,4-Aug,4,7
+192,CAFZF,Canaf Investments Inc,0.045710001,TRUE,2012,,,,,
+193,CVVUF,CanAlaska Uranium Ltd,0.173050001,FALSE,2009,,21-Nov,4-Feb,6,6
+194,CNMGF,Canam Group Inc,$9.45 ,TRUE,,No data fetched for symbol CNMGF using YahooDailyReader,,,,
+195,DTEYF,Canamax Energy Ltd,$0.45 ,TRUE,,'Date',,,,
+196,CNMXF,Canamex Gold Corp,0.035,FALSE,2010,,30-Nov,13-Feb,7,4
+197,CNND,Canandaigua National Cp,198,FALSE,2009,,1-Jul,14-Sep,9,3
+198,CANQF,CanaQuest Medical Corp,0.062100001,TRUE,2015,,,,,
+199,CRCUF,Canarc Resources Corp,0.107000001,FALSE,2009,,21-Nov,4-Feb,6,6
+200,CNSUF,Canasil Resources Inc,0.088,FALSE,2009,,7-Dec,20-Feb,5,7
+201,CGIX,Cancer Genetics Inc,2.269999981,TRUE,2013,,,,,
+202,CTHZ,Cancer Treatment Holdings Inc,0.039999999,TRUE,2012,,,,,
+203,CCCMF,CANCOM SE,57.25,TRUE,2016,,,,,
+204,CNCXY,CANCOM SE,$10.00 ,TRUE,,No data fetched for symbol CNCXY using YahooDailyReader,,,,
+205,CDELF,Candelaria Mining Corp,0.393599987,TRUE,2017,,,,,
+206,CCOXF,Candente Copper Corp,0.059999999,TRUE,2012,,,,,
+207,CGDXF,Candente Gold Corp,0.039999999,TRUE,2013,,,,,
+208,CNDL,Candlewood Hotel Co Inc,0.0065,FALSE,2009,,8-Apr,22-Jun,8,4
+209,NOMNF,CANEX Metals Inc,0.131310001,TRUE,2018,,,,,
+210,CXUSF,Canexus Corp,$1.20 ,TRUE,,No data fetched for symbol CXUSF using YahooDailyReader,,,,
+211,CFPZF,Canfor Corp,12.94999981,FALSE,2009,,4-Oct,18-Dec,7,5
+212,CFPUF,Canfor Pulp Products Inc,3.829999924,FALSE,2009,,13-Jan,28-Mar,8,4
+213,TXCB,Cang Bao Tian Xia International Art Trade Center I,2.25,TRUE,2012,,,,,
+214,CANG,Cango Inc,6.380000114,TRUE,2018,,,,,
+215,CMLGF,Canickel Mining Ltd,0.100900002,TRUE,2012,,,,,
+216,CNLFF,Canlan Ice Sports Corp,2.400000095,TRUE,2020,,,,,
+217,CNGGF,Cann Group Ltd,0.233649999,TRUE,2017,,,,,
+218,CBMJ,Canna Consumer Goods Inc,0.01255,FALSE,2010,,9-Dec,22-Feb,7,4
+219,CNCC,Canna Corp,0.019605,TRUE,2017,,,,,
+220,CNBX,Cannabics Pharmaceuticals Inc,0.189999998,FALSE,2009,,4-Apr,18-Jun,5,7
+221,CBGL,Cannabis Global Inc,0.059999999,TRUE,2020,,,,,
+222,CWWBF,Cannabis Growth Opportunity Corp,0.298000008,TRUE,2018,,,,,
+223,CBDS,Cannabis Sativa Inc,0.419999987,TRUE,2012,,,,,
+224,NUGS,Cannabis Strategic Ventures,0.073600002,TRUE,2015,,,,,
+225,CSUI,Cannabis Suisse Corp,0.079999998,TRUE,2019,,,,,
+226,BLOZF,Cannabix Technologies Inc,0.373479992,TRUE,2014,,,,,
+227,CNNE,Cannae Holdings Inc,39.40999985,TRUE,2017,,,,,
+228,CNGT,Cannagistics Inc,0.0089,FALSE,2009,,1-Mar,15-May,4,8
+229,CGRW,CannaGrow Holdings Inc,0.0845,TRUE,2012,,,,,
+230,CNLK,Cannalink Inc,0.120999999,FALSE,2009,,23-Oct,6-Jan,4,8
+231,CNNXF,CannAmerica Brands Corp,0.009088,TRUE,2018,,,,,
+232,CNONF,CannaOne Technologies Inc,0.100000001,TRUE,2019,,,,,
+233,CPMD,Cannapharmarx Inc,0.370000005,TRUE,2015,,,,,
+234,CAPD,CannaPowder Inc,0.094999999,FALSE,2009,,3-Dec,16-Feb,3,9
+235,LOVFF,Cannara Biotech Inc,0.059590001,TRUE,2019,,,,,
+236,CNSC,CannAssist International Corp,0.25,TRUE,2020,,,,,
+237,CANX,CannAwake Corp,0.01245,FALSE,2009,,29-Dec,14-Mar,6,6
+238,CMMDF,CanniMed Therapeutics Inc,$20.99 ,TRUE,,No data fetched for symbol CMMDF using YahooDailyReader,,,,
+239,CANL,CannLabs Inc,0.030300001,TRUE,2014,,,,,
+240,CPOTF,Cannon Point Resources Ltd,$0.08 ,TRUE,,No data fetched for symbol CPOTF using YahooDailyReader,,,,
+241,CNNC,Cannonau Corp,0.0121,FALSE,2010,,6-Apr,20-Jun,4,7
+242,CTABF,Canntab Therapeutics Ltd,0.520500004,TRUE,2017,,,,,
+243,CNTTQ,CannTrust Holdings Inc,0.159999996,TRUE,2017,,,,,
+244,CNMVF,Canoe Mining Ventures Corp,0.079999998,TRUE,2018,,,,,
+245,CAJ,Canon Inc,17.98999977,FALSE,2009,,15-Oct,29-Dec,5,7
+246,CAJFF,Canon Inc,18.35000038,FALSE,2010,,27-Sep,11-Dec,6,5
+247,CAMJF,Canon Marketing Japan Inc,$14.29 ,TRUE,,No data fetched for symbol CAMJF using YahooDailyReader,,,,
+248,CBIA,Canopus Biopharma Inc,0.075000003,FALSE,2009,,7-Dec,20-Feb,6,6
+249,CGC,Canopy Growth Corp,24.43000031,TRUE,2014,,,,,
+250,CNPOF,Canopy Rivers Inc,0.659600019,TRUE,2018,,,,,
+251,CASBF,CanSino Biologics Inc,20.27499962,TRUE,2020,,,,,
+252,CNTMF,Cansortium Inc,0.379500002,TRUE,2019,,,,,
+253,CSRNF,Canstar Resources Inc,0.209999993,FALSE,2009,,2-Aug,16-Oct,9,3
+254,CTBO,Cantabio Pharmaceuticals Inc,$0.01 ,TRUE,,No data fetched for symbol CTBO using YahooDailyReader,,,,
+255,CMD,Cantel Medical Corp,55.65000153,FALSE,2009,,27-Sep,11-Dec,6,6
+256,CPHC,Canterbury Park Holding Corp,12.39999962,FALSE,2009,,23-Mar,6-Jun,8,4
+257,CTMCF,Canterra Minerals Corp,0.115259998,FALSE,2009,,17-Dec,2-Mar,6,6
+258,CTXDF,Cantex Mine Development Corp,0.819949985,FALSE,2010,,24-May,7-Aug,3,7
+259,CNUCF,Canuc Resources Corp,0.159999996,TRUE,2012,,,,,
+260,CWXZF,CanWel Building Materials Group Ltd,5.164999962,FALSE,2010,,20-Jul,3-Oct,4,7
+261,CYRWF,Canyon Resources Ltd,0.059999999,TRUE,2020,,,,,
+262,CYSVF,Canyon Services Group Inc,$5.06 ,TRUE,,No data fetched for symbol CYSVF using YahooDailyReader,,,,
+263,CANY,Canyon Silver Mines Inc,0.150000006,TRUE,2012,,,,,
+264,CCOEF,Capcom Co Ltd,55,TRUE,2012,,,,,
+265,CCOEY,Capcom Co Ltd,25.19000053,TRUE,2013,,,,,
+266,CBNJ,Cape Bancorp Inc,$14.59 ,TRUE,,'Date',,,,
+267,CPLA,Capella Education Co,104,TRUE,2012,,,,,
+268,NWDMF,Capella Minerals Ltd,0.077299997,TRUE,2012,,,,,
+269,CPVVF,Capevin Holdings Ltd,$0.63 ,TRUE,,No data fetched for symbol CPVVF using YahooDailyReader,,,,
+270,CAPMF,Capgemini SE,134.5399933,FALSE,2010,,18-May,1-Aug,8,3
+271,CGEMY,Capgemini SE,27.22999954,FALSE,2009,,11-Dec,24-Feb,9,3
+272,CPQHF,Capilano Honey Ltd,$14.05 ,TRUE,,No data fetched for symbol CPQHF using YahooDailyReader,,,,
+273,CTAGF,Capita PLC,0.280000001,TRUE,2012,,,,,
+274,CTAGY,Capita PLC,1.50999999,TRUE,2012,,,,,
+275,CCPPF,Capital & Counties Properties PLC,1.409999967,TRUE,2017,,,,,
+276,CRPLF,Capital & Regional PLC,$4.80 ,TRUE,,No data fetched for symbol CRPLF using YahooDailyReader,,,,
+277,CBNK,Capital Bancorp Inc,12.01000023,TRUE,2018,,,,,
+278,CBJC,Capital Bank (San Juan Capistrano CA),$34.00 ,TRUE,,No data fetched for symbol CBJC using YahooDailyReader,,,,
+279,CBF,Capital Bank Financial Corp,$41.75 ,TRUE,,'Date',,,,
+280,CANJ,Capital Bank New Jersey,$30.00 ,TRUE,,No data fetched for symbol CANJ using YahooDailyReader,,,,
+281,CBEV,Capital Beverage Corp,0.409999996,TRUE,2012,,,,,
+282,CCBG,Capital City Bank Group Inc,22.61000061,FALSE,2009,,2-Oct,16-Dec,5,7
+283,CCMB,Capital Commerce Bancorp Inc,$4.75 ,TRUE,,No data fetched for symbol CCMB using YahooDailyReader,,,,
+284,CTDN,Capital Directions Inc,47.54999924,TRUE,2012,,,,,
+285,CPFH,Capital Financial Holdings Inc,176.0099945,FALSE,2009,,25-Mar,8-Jun,5,7
+286,COF,Capital One Financial Corp,86.69999695,FALSE,2009,,29-Sep,13-Dec,5,7
+287,CPXWF,Capital Power Corp,23.95299911,TRUE,2012,,,,,
+288,CPLP,Capital Product Partners LP,7.71999979,FALSE,2009,,21-Nov,4-Feb,8,4
+289,CPTP,Capital Properties Inc,14.25,FALSE,2009,,25-Aug,8-Nov,8,4
+290,CSU,Capital Senior Living Corp,0.657999992,FALSE,2009,,9-Feb,24-Apr,6,6
+291,CSWC,Capital Southwest Corp,15.63000011,FALSE,2009,,7-May,21-Jul,8,4
+292,CPVNF,Capital Venture Europe PLC,0.007,TRUE,2015,,,,,
+293,CPTA,Capitala Finance Corp,10.56000042,TRUE,2013,,,,,
+294,CPITF,CapitaLand Commercial Trust,1.299999952,TRUE,2012,,,,,
+295,CPAMF,CapitaLand Integrated Commercial Trust,1.5,FALSE,2009,,30-Mar,13-Jun,7,5
+296,CLLDF,CapitaLand Ltd,2.00999999,FALSE,2010,,21-Mar,4-Jun,6,5
+297,CLLDY,CapitaLand Ltd,4.239999771,FALSE,2009,,24-Nov,7-Feb,4,8
+298,CAPB,CapitalSouth Bancorp,0.0058,FALSE,2009,,27-Mar,10-Jun,6,6
+299,CAPTF,Capitan Mining Inc,0.200299993,TRUE,2020,,,,,
+300,CKHGY,Capitec Bank Holdings Ltd,26.52499962,TRUE,2017,,,,,
+301,CKHGF,Capitec Bank Holdings Ltd,87.25,TRUE,2017,,,,,
+302,CFFN,Capitol Federal Financial Inc,12.67000008,FALSE,2009,,23-Sep,7-Dec,7,5
+303,CPOYF,CapMan Oyj,$1.33 ,TRUE,,'Date',,,,
+304,CPRI,Capri Holdings Ltd,29.37999916,TRUE,2011,,,,,
+305,CAPR,Capricor Therapeutics Inc,4.349999905,FALSE,2009,,23-Dec,8-Mar,7,5
+306,CPSO,CapSource Financial Inc,0.0105,TRUE,2012,,,,,
+307,CSTR,CapStar Financial Holdings Inc,11.64000034,TRUE,2016,,,,,
+308,CPSR,Capstar Special Purpose Acquisition Corp,9.699999809,TRUE,2020,,,,,
+309,CMO,Capstead Mortgage Corp,5.550000191,FALSE,2009,,30-Oct,13-Jan,7,5
+310,CAPC,Capstone Companies Inc,0.059,FALSE,2009,,19-Dec,4-Mar,4,8
+311,CAPP,Capstone Financial Group Inc,0.100000001,TRUE,2013,,,,,
+312,MCQPF,Capstone Infrastructure Corp,$3.89 ,TRUE,,No data fetched for symbol MCQPF using YahooDailyReader,,,,
+313,CSFFF,Capstone Mining Corp,1.350000024,FALSE,2009,,25-Oct,8-Jan,5,7
+314,CPSN,Capstone Systems Inc,0.800000012,TRUE,2018,,,,,
+315,CATG,Capstone Technologies Group Inc,0.050000001,FALSE,2010,,7-Oct,21-Dec,3,8
+316,CAPS,Capstone Therapeutics Corp,15,FALSE,2009,,19-Dec,4-Mar,6,6
+317,CPST,Capstone Turbine Corp,5.699999809,FALSE,2009,,30-Jan,14-Apr,6,6
+318,CPIVF,Captiva Verde Land Corp,0.180000007,TRUE,2019,,,,,
+319,CPTRF,Captor Capital Corp,0.173099995,TRUE,2012,,,,,
+320,CRCRF,CAR Inc,$0.86 ,TRUE,,No data fetched for symbol CRCRF using YahooDailyReader,,,,
+321,CRMGF,Car Mate Mfg Co Ltd,$5.16 ,TRUE,,No data fetched for symbol CRMGF using YahooDailyReader,,,,
+322,CKMY,Car Monkeys Group,$0.03 ,TRUE,,No data fetched for symbol CKMY using YahooDailyReader,,,,
+323,CARA,Cara Therapeutics Inc,15.40999985,TRUE,2014,,,,,
+324,APXZF,Carasent ASA,$0.15 ,TRUE,,'Date',,,,
+325,CRNRF,Carbine Resources Ltd,0.01,TRUE,2011,,,,,
+326,COOSF,Carbios SA,37.29999924,TRUE,2019,,,,,
+327,CRRTQ,Carbo Ceramics Inc,0.014,TRUE,2019,,,,,
+328,SLEOY,Carboclor SA,$0.05 ,TRUE,,No data fetched for symbol SLEOY using YahooDailyReader,,,,
+329,CBLK,Carbon Black Inc,$26.00 ,TRUE,,No data fetched for symbol CBLK using YahooDailyReader,,,,
+330,CRBL,Carbon Credit International Inc,0.050000001,TRUE,2017,,,,,
+331,CRBO,Carbon Energy Corp,0.280000001,TRUE,2012,,,,,
+332,CNXAF,Carbon Energy Ltd,0.029999999,TRUE,2019,,,,,
+333,CNXAY,Carbon Energy Ltd,$0.19 ,TRUE,,No data fetched for symbol CNXAY using YahooDailyReader,,,,
+334,CGNI,Carbon Green Inc,0.0084,TRUE,2019,,,,,
+335,CARB,Carbonite Inc,$22.98 ,TRUE,,No data fetched for symbol CARB using YahooDailyReader,,,,
+336,CABUF,Carbures Europe SA,$0.60 ,TRUE,,No data fetched for symbol CABUF using YahooDailyReader,,,,
+337,CCEGF,Carclo PLC,0.25999999,TRUE,2012,,,,,
+338,CDXI,Cardax Inc,1.74000001,TRUE,2014,,,,,
+339,CCN,CardConnect Corp,$15.05 ,TRUE,,'Date',,,,
+340,CDYCF,Cardero Resource Corp,0.035700001,FALSE,2009,,21-Oct,4-Jan,5,7
+341,AMDHF,CardieX Ltd,0.005,TRUE,2013,,,,,
+342,CDIX,Cardiff Lexington Corp,0.025,FALSE,2009,,2-Aug,16-Oct,5,7
+343,CRDF,Cardiff Oncology Inc,16.79999924,FALSE,2009,,26-Dec,11-Mar,5,7
+344,CDBK,Cardinal Bankshares Corp,$9.70 ,TRUE,,'Date',,,,
+345,GDVRF,Cardinal Capital Partners Inc,$0.01 ,TRUE,,No data fetched for symbol GDVRF using YahooDailyReader,,,,
+346,CRLFF,Cardinal Energy Ltd,0.308200002,TRUE,2014,,,,,
+347,CRDE,Cardinal Ethanol LLC,5127,TRUE,2014,,,,,
+348,CFNL,Cardinal Financial Corp,$29.04 ,TRUE,,'Date',,,,
+349,CAH,Cardinal Health Inc,57.43000031,FALSE,2009,,22-Dec,7-Mar,9,3
+350,CRDNF,Cardinal Resources Ltd,0.699999988,TRUE,2016,,,,,
+351,EKGGF,CardioComm Solutions Inc,0.02,FALSE,2010,,30-Dec,15-Mar,6,5
+352,CGNH,CardioGenics Holdings Inc,0.019099999,FALSE,2009,,26-Oct,9-Jan,4,8
+353,CRTPF,Cardiol Therapeutics Inc,2.168839931,TRUE,2019,,,,,
+354,CSII,Cardiovascular Systems Inc,36.29000092,FALSE,2009,,13-May,27-Jul,6,6
+355,CDLX,Cardlytics Inc,112.1999969,TRUE,2018,,,,,
+356,COLDF,Cardno Ltd,0.180000007,FALSE,2010,,31-Jan,15-Apr,5,6
+357,CATM,Cardtronics PLC,21.34000015,FALSE,2009,,30-Sep,14-Dec,6,6
+358,CXCQ,Cardxx Inc,0.0036,FALSE,2009,,19-Dec,4-Mar,2,10
+359,CRCM,Care.com Inc,$15.00 ,TRUE,,No data fetched for symbol CRCM using YahooDailyReader,,,,
+360,CDNA,CareDx Inc,54.49000168,TRUE,2014,,,,,
+361,CCHZ,Career College Holding Co Inc,0.02,TRUE,2012,,,,,
+362,CPYT,CarePayment Technologies Inc,0.100000001,TRUE,2012,,,,,
+363,CHHHF,CareRx Corp,3.170000076,FALSE,2009,,6-Jul,19-Sep,5,7
+364,CTRE,CareTrust REIT Inc,19.79999924,TRUE,2014,,,,,
+365,CRVW,CareView Communications Inc,0.031300001,FALSE,2009,,8-Mar,22-May,5,7
+366,CRYW,Carey Watermark Investors Inc,$8.00 ,TRUE,,'Date',,,,
+367,CGJTF,Cargojet Inc,161.8500061,FALSE,2009,,5-Aug,19-Oct,8,4
+368,CGGJF,Cargojet Inc,$63.80 ,TRUE,,No data fetched for symbol CGGJF using YahooDailyReader,,,,
+369,CYJBF,Cargotec Oyj,18.75,FALSE,2009,,9-Jan,24-Mar,3,9
+370,CYJBY,Cargotec Oyj,16.75,TRUE,2015,,,,,
+371,CARG,CarGurus Inc,22.12999916,TRUE,2017,,,,,
+372,BCBHF,Caribbean Investment Holdings Ltd,0.50999999,FALSE,2009,,4-Dec,17-Feb,6,6
+373,CUPUF,Caribbean Utilities Co Ltd,15.25,FALSE,2009,,5-May,19-Jul,8,4
+374,CROOF,Cariboo Rose Resources Ltd,0.039999999,FALSE,2009,,7-Jul,20-Sep,2,10
+375,CIOIF,Carillion PLC,0.219999999,TRUE,2012,,,,,
+376,CIOIY,Carillion PLC,$0.42 ,TRUE,,No data fetched for symbol CIOIY using YahooDailyReader,,,,
+377,CDTAF,Carl Data Solutions Inc,0.072999999,TRUE,2016,,,,,
+378,CZMWF,Carl Zeiss Meditec AG,124,TRUE,2012,,,,,
+379,CZMWY,Carl Zeiss Meditec AG,137.75,TRUE,2012,,,,,
+380,CSL,Carlisle Companies Inc,140.7200012,FALSE,2009,,24-Oct,7-Jan,7,5
+381,CGJCF,Carlisle Gold Fields Ltd,$0.36 ,TRUE,,No data fetched for symbol CGJCF using YahooDailyReader,,,,
+382,CABGY,Carlsberg A/S,30.19000053,FALSE,2010,,12-Dec,25-Feb,7,4
+383,CABJF,Carlsberg A/S,152.7100067,TRUE,2012,,,,,
+384,CABHF,Carlsberg A/S,148.75,TRUE,2012,,,,,
+385,DLRYF,Carlyle Commodities Corp,0.120099999,TRUE,2019,,,,,
+386,CMHXF,Carmanah Technologies Corp,$5.52 ,TRUE,,No data fetched for symbol CMHXF using YahooDailyReader,,,,
+387,CKMTF,Carmat,$24.89 ,TRUE,,No data fetched for symbol CKMTF using YahooDailyReader,,,,
+388,KMX,CarMax Inc,95.48000336,FALSE,2009,,26-Jun,9-Sep,4,8
+389,CKEC,Carmike Cinemas Inc,$33.40 ,TRUE,,'Date',,,,
+390,CBIXF,Carna Biosciences Inc,10.75,TRUE,2019,,,,,
+391,CVONF,Carnarvon Petroleum Ltd,0.140000001,FALSE,2009,,20-Aug,3-Nov,6,6
+392,CDJM,Carnegie Development Inc,1.5,TRUE,2015,,,,,
+393,CCL,Carnival Corp,16.01000023,FALSE,2009,,11-Oct,25-Dec,5,7
+394,CUK,Carnival PLC,14.35999966,FALSE,2009,,9-Oct,23-Dec,5,7
+395,CUKPF,Carnival PLC,13.98999977,TRUE,2012,,,,,
+396,CRLN,Carolina Alliance Bank,$12.06 ,TRUE,,No data fetched for symbol CRLN using YahooDailyReader,,,,
+397,CLBH,Carolina Bank Holdings Inc,$27.99 ,TRUE,,'Date',,,,
+398,CARO,Carolina Financial Corp,$32.88 ,TRUE,,No data fetched for symbol CARO using YahooDailyReader,,,,
+399,CILZ,Carolina Mills Inc,6500,TRUE,2012,,,,,
+400,CART,Carolina Trust BancShares Inc,$13.05 ,TRUE,,No data fetched for symbol CART using YahooDailyReader,,,,
+401,CRPL,Carolyn River Projects Ltd,$0.01 ,TRUE,,'Date',,,,
+402,PRTS,CarParts.com Inc,11.25,FALSE,2009,,1-Apr,15-Jun,6,6
+403,CRS,Carpenter Technology Corp,23.13999939,FALSE,2009,,28-Feb,13-May,3,9
+404,CGHXF,Carpetright PLC,$3.13 ,TRUE,,'Date',,,,
+405,CMLZF,Carr?s Group PLC,$25.00 ,TRUE,,'Date',,,,
+406,CRERF,Carrefour,17.11000061,FALSE,2009,,26-Dec,11-Mar,6,6
+407,CRRFY,Carrefour,3.410000086,FALSE,2009,,22-Dec,7-Mar,6,6
+408,CSV,Carriage Services Inc,27.87999916,FALSE,2009,,1-Sep,15-Nov,7,5
+409,CARR,Carrier Global Corp,38.29000092,TRUE,2020,,,,,
+410,CROL,Carroll Bancorp Inc,21.56999969,TRUE,2011,,,,,
+411,TAST,Carrols Restaurant Group Inc,5.21999979,FALSE,2009,,25-May,8-Aug,6,6
+412,CARS,Cars.com Inc,8.81000042,TRUE,2017,,,,,
+413,CSXXY,Carsales.com Ltd,31.25600052,TRUE,2015,,,,,
+414,CSSSF,Carsales.com Ltd,15.31000042,TRUE,2012,,,,,
+415,CRSM,CarSmartt Inc,0.0078,FALSE,2009,,8-Mar,22-May,5,7
+416,CDVM,Carson Development Corp,0.079999998,FALSE,2010,,19-Jan,3-Apr,5,6
+417,CRTL,Cartel Blue Inc,0.0165,TRUE,2012,,,,,
+418,CARE,Carter Bank & Trust,7.760000229,FALSE,2009,,6-Nov,20-Jan,9,3
+419,CRI,Carter's Inc,84.41999817,FALSE,2009,,28-Oct,11-Jan,8,4
+420,CRTN,Cartesian Inc,0.398999989,TRUE,2012,,,,,
+421,CRTIF,Cartier Iron Corp,0.098590001,TRUE,2017,,,,,
+422,ECRFF,Cartier Resources Inc,0.194179997,FALSE,2009,,5-Jul,18-Sep,6,6
+423,CRKHF,Cartrack Holdings Ltd,1.25,TRUE,2020,,,,,
+424,CVNA,Carvana Co,211.0800018,TRUE,2017,,,,,
+425,CARV,Carver Bancorp Inc,6.550000191,FALSE,2009,,10-Jun,24-Aug,5,7
+426,CASM,CAS Medical Systems Inc,2.430000067,TRUE,2012,,,,,
+427,CASXF,Casa Minerals Inc,0.084299996,TRUE,2019,,,,,
+428,CASA,Casa Systems Inc,4.639999866,TRUE,2017,,,,,
+429,CUAU,Casablanca Mining Ltd,$0.01 ,TRUE,,No data fetched for symbol CUAU using YahooDailyReader,,,,
+430,CACB,Cascade Bancorp,$6.99 ,TRUE,,'Date',,,,
+431,CSCD,Cascade Microtech Inc,$21.86 ,TRUE,,'Date',,,,
+432,CSDT,Cascade Technologies Corp,0.009,TRUE,2012,,,,,
+433,CCEDF,Cascadero Copper Corp,0.036200002,FALSE,2010,,20-Nov,3-Feb,7,4
+434,CADNF,Cascades Inc,10.32999992,TRUE,2012,,,,,
+435,CASC,Cascadian Therapeutics Inc,10.02000046,TRUE,2012,,,,,
+436,CWST,Casella Waste Systems Inc,59.83000183,FALSE,2009,,27-Sep,11-Dec,8,4
+437,CASY,Casey's General Stores Inc,191.0200043,FALSE,2009,,22-Jun,5-Sep,5,7
+438,CSH,Cash America International Inc,$42.20 ,TRUE,,'Date',,,,
+439,CKKIF,Cash Converters International Ltd,$0.50 ,TRUE,,'Date',,,,
+440,CFLSF,CASH Financial Services Group Ltd,0.100000001,TRUE,2016,,,,,
+441,CSHX,Cashmere Valley Bank,49.25999832,TRUE,2013,,,,,
+442,CASI,CASI Pharmaceuticals Inc,1.980000019,FALSE,2009,,17-Sep,1-Dec,5,7
+443,CGUIF,Casino Guichard-Perrachon SA,28.5,TRUE,2012,,,,,
+444,CGUSY,Casino Guichard-Perrachon SA,5.577600002,FALSE,2009,,15-Mar,29-May,5,7
+445,YBET,Casinolive.com Corp,$0.01 ,TRUE,,'Date',,,,
+446,CSIOF,Casio Computer Co Ltd,14.51000023,TRUE,2012,,,,,
+447,CSIOY,Casio Computer Co Ltd,194.1100006,FALSE,2009,,7-Nov,21-Jan,6,6
+448,CSPR,Casper Sleep Inc,7.429999828,TRUE,2020,,,,,
+449,CASS,Cass Information Systems Inc,41.81000137,FALSE,2009,,2-Oct,16-Dec,4,8
+450,CSSOF,Cassandra Oil AB,0.02,TRUE,2013,,,,,
+451,SAVA,Cassava Sciences Inc,8.369999886,FALSE,2009,,17-Feb,2-May,9,3
+452,CGLCF,Cassiar Gold Corp,0.448900014,TRUE,2020,,,,,
+453,CSSQF,Cassini Resources Ltd,0.029999999,TRUE,2019,,,,,
+454,CPPSF,Cassiopea SpA,48.32580185,TRUE,2018,,,,,
+455,CWQXF,Castellum AB,24.10000038,TRUE,2012,,,,,
+456,CWQXY,Castellum AB,45,TRUE,2013,,,,,
+457,ONOV,Castellum Inc,0.088,TRUE,2011,,,,,
+458,CLRSF,Castile Resources Ltd,0.200000003,TRUE,2020,,,,,
+459,CLVIF,Castle Alternative Invest AG,13.59930038,TRUE,2019,,,,,
+460,CSTL,Castle Biosciences Inc,50.36000061,TRUE,2019,,,,,
+461,ROX,Castle Brands Inc,$1.26 ,TRUE,,No data fetched for symbol ROX using YahooDailyReader,,,,
+462,CAGU,Castle Group Inc,0.150000006,FALSE,2009,,7-Mar,21-May,4,8
+463,CPKOF,Castle Peak Mining Ltd,0.01378,TRUE,2018,,,,,
+464,CUNCF,Castle Resources Inc,$0.15 ,TRUE,,'Date',,,,
+465,CSLT,Castlight Health Inc,1.129999995,TRUE,2014,,,,,
+466,CTRM,Castor Maritime Inc,0.133200005,TRUE,2019,,,,,
+467,CATN,Cat9 Group Inc,3.105000019,TRUE,2019,,,,,
+468,CATB,Catabasis Pharmaceuticals Inc,1.409999967,TRUE,2015,,,,,
+469,CTLT,Catalent Inc,104.6100006,TRUE,2014,,,,,
+470,CBIO,Catalyst Biosciences Inc,5.920000076,FALSE,2009,,30-Oct,13-Jan,5,7
+471,CATXF,Catalyst Copper Corp,$0.42 ,TRUE,,No data fetched for symbol CATXF using YahooDailyReader,,,,
+472,CLYMF,Catalyst Media Group PLC,$1.17 ,TRUE,,'Date',,,,
+473,CYSTQ,Catalyst Paper Corp,$0.49 ,TRUE,,No data fetched for symbol CYSTQ using YahooDailyReader,,,,
+474,CPRX,Catalyst Pharmaceuticals Inc,3.400000095,FALSE,2009,,20-May,3-Aug,7,5
+475,CAZGF,Catapult Group International Ltd,1.399999976,TRUE,2015,,,,,
+476,CTT,CatchMark Timber Trust Inc,9.119999886,TRUE,2013,,,,,
+477,CTTMF,Catena Media PLC,3.839799881,TRUE,2017,,,,,
+478,CAT,Caterpillar Inc,171.7100067,FALSE,2009,,28-Oct,11-Jan,6,6
+479,CHYFF,Cathay Financial Holding Co Ltd,14.63000011,TRUE,2015,,,,,
+480,CHYYY,Cathay Financial Holding Co Ltd,13.5333004,TRUE,2013,,,,,
+481,CATY,Cathay General Bancorp,27.62000084,FALSE,2009,,26-Sep,10-Dec,7,5
+482,CPCAF,Cathay Pacific Airways Ltd,0.879999995,FALSE,2010,,10-Feb,25-Apr,5,6
+483,CPCAY,Cathay Pacific Airways Ltd,3.964999914,FALSE,2009,,9-Nov,23-Jan,6,6
+484,CETEF,Cathedral Energy Services Ltd,0.079999998,FALSE,2010,,16-Nov,30-Jan,5,6
+485,CSKL,Catskill Hudson Bancorp Inc,23.25,FALSE,2010,,3-Apr,17-Jun,7,4
+486,CAULF,Cauldron Energy Ltd,0.030999999,FALSE,2010,,29-Aug,12-Nov,4,7
+487,CUVMF,Cautivo Mining Inc,$0.07 ,TRUE,,No data fetched for symbol CUVMF using YahooDailyReader,,,,
+488,CVCO,Cavco Industries Inc,195.8300018,FALSE,2009,,19-Apr,3-Jul,6,6
+489,CVAT,Cavitation Technologies Inc,0.01195,FALSE,2009,,18-May,1-Aug,0,12
+490,CAVM,Cavium Inc,86.23000336,TRUE,2012,,,,,
+491,CAVEF,Cavotec SA,2.150000095,TRUE,2014,,,,,
+492,CAVR,CAVU Resources Inc,0.009,FALSE,2009,,27-Feb,12-May,7,5
+493,BSNRF,CB Cardio Holdings II Ltd,$0.59 ,TRUE,,No data fetched for symbol BSNRF using YahooDailyReader,,,,
+494,BSNRY,CB Cardio Holdings II Ltd,$12.37 ,TRUE,,'Date',,,,
+495,CBFA,CB Financial Corporation,$0.21 ,TRUE,,No data fetched for symbol CBFA using YahooDailyReader,,,,
+496,CBFV,CB Financial Services Inc,22.80999947,FALSE,2009,,4-Nov,18-Jan,7,5
+497,CIHPF,CB Industrial Product Holding Bhd,0.25,TRUE,2013,,,,,
+498,CBSC,CB Scientific Inc,1.570000052,TRUE,2016,,,,,
+499,CBIIF,CB2 Insights Inc,0.408399999,TRUE,2019,,,,,
+500,CBAI,CBA Florida Inc,0.0078,FALSE,2009,,28-Oct,11-Jan,5,7
+501,CBAT,CBAK Energy Technology Inc,6.150000095,FALSE,2009,,6-Aug,20-Oct,4,8
+502,CBBI,CBB Bancorp Inc,7.900000095,TRUE,2018,,,,,
+503,CBBC,CBBC Bancorp,24.14999962,TRUE,2012,,,,,
+504,CBHC,CBC Holding Co,13.5,TRUE,2012,,,,,
+505,CBDNF,CBD Global Sciences Inc,0.228760004,TRUE,2020,,,,,
+506,EDXC,CBD Unlimited Inc,0.063500002,FALSE,2009,,4-Dec,17-Feb,4,8
+507,YCBD,cbdMD Inc,2.690000057,TRUE,2017,,,,,
+508,TRGCF,CBi2 Capital Corp,0.0075,TRUE,2017,,,,,
+509,CBZ,CBIZ Inc,25.11000061,FALSE,2009,,13-Dec,26-Feb,9,3
+510,CBLAQ,CBL & Associates Properties Inc,0.029999999,TRUE,2020,,,,,
+511,CBBLF,CBLT Inc,0.034120001,TRUE,2018,,,,,
+512,CBMB,CBM Bancorp Inc,13.30000019,TRUE,2018,,,,,
+513,CBOF,Cboa Financial Inc,2.400000095,FALSE,2009,,17-Dec,2-Mar,3,9
+514,CBOE,Cboe Global Markets Inc,87.65000153,FALSE,2010,,2-Oct,16-Dec,6,5
+515,CBPJ,CBP Carbon Industries Inc,$0.06 ,TRUE,,No data fetched for symbol CBPJ using YahooDailyReader,,,,
+516,CBRAF,CBR Brewing Co Inc,$0.01 ,TRUE,,'Date',,,,
+517,IGR,CBRE Clarion Global Real Estate Income Fund,6.409999847,FALSE,2009,,20-Nov,3-Feb,7,5
+518,CBRE,CBRE Group Inc,57.83000183,FALSE,2009,,11-Oct,25-Dec,9,3
+519,CBTC,CBT Financial Corp,0.0009,TRUE,2012,,,,,
+520,CBTX,CBTX Inc,22.48999977,TRUE,2017,,,,,
+521,PCPL,CC Neuberger Principal Holdings I,10.10000038,TRUE,2020,,,,,
+522,PRPB,CC Neuberger Principal Holdings II,9.880000114,TRUE,2020,,,,,
+523,CAWW,CCA Industries Inc,2.160000086,FALSE,2009,,21-Nov,4-Feb,4,8
+524,CZYB,CCB Bankshares Inc,$11.70 ,TRUE,,'Date',,,,
+525,CCYY,CCCB Bancorp Inc,6.170000076,FALSE,2010,,12-Oct,26-Dec,6,5
+526,CCFN,CCFNB Bancorp Inc,40.25,FALSE,2009,,5-Apr,19-Jun,6,6
+527,CCDBF,CCL Industries Inc,44.99343872,FALSE,2010,,27-Mar,10-Jun,9,2
+528,CCLLF,CCL Industries Inc,32.7112999,TRUE,2017,,,,,
+529,CCOM,CCOM Group Inc,1,FALSE,2009,,19-Jun,2-Sep,5,7
+530,CCFC,CCSB Financial Corp,17,FALSE,2009,,28-Dec,13-Mar,9,3
+531,CCUR,CCUR Holdings Inc,2.900000095,FALSE,2009,,26-Dec,11-Mar,8,4
+532,CCXXF,CCX Carvao da Colombia SA,$0.27 ,TRUE,,No data fetched for symbol CCXXF using YahooDailyReader,,,,
+533,OTGLF,CD Projekt SA,95.47000122,TRUE,2017,,,,,
+534,OTGLY,CD Projekt SA,24.29999924,TRUE,2019,,,,,
+535,CLPIF,CDA (Compagnie des Alpes),31.39999962,TRUE,2019,,,,,
+536,CDI,CDI Corp,$8.20 ,TRUE,,'Date',,,,
+537,CDK,CDK Global Inc,47.99000168,TRUE,2014,,,,,
+538,CDHSF,CDL Hospitality Trusts,0.949999988,FALSE,2009,,25-Jan,9-Apr,7,5
+539,CLNZF,CDL Investments New Zealand Ltd,$0.25 ,TRUE,,No data fetched for symbol CLNZF using YahooDailyReader,,,,
+540,AXVED,CDN Maverick Capital Corp,0.200000003,TRUE,2020,,,,,
+541,CDTI,CDTi Advanced Materials Inc,0.370000005,FALSE,2009,,22-Dec,7-Mar,7,5
+542,CDW,CDW Corp,137.5899963,TRUE,2013,,,,,
+543,CDWHF,CDW Holding Ltd,$0.13 ,TRUE,,No data fetched for symbol CDWHF using YahooDailyReader,,,,
+544,CESF,CE Software Inc,0.850000024,TRUE,2012,,,,,
+545,CRPOF,Ceapro Inc,0.552450001,TRUE,2013,,,,,
+546,CEB,CEB Inc,91.19999695,TRUE,2018,,,,,
+547,CEBUF,Cebu Air Inc,0.959999979,TRUE,2013,,,,,
+548,CEBUY,Cebu Air Inc,4.28000021,TRUE,2016,,,,,
+549,CECBQ,Cecil Bancorp Inc,$0.02 ,TRUE,,'Date',,,,
+550,CECE,CECO Environmental Corp,7.900000095,FALSE,2009,,8-May,22-Jul,4,8
+551,MTAGF,Ceconomy AG,4.53000021,TRUE,2017,,,,,
+552,MTTRY,Ceconomy AG,0.910000026,TRUE,2011,,,,,
+553,FUN,Cedar Fair LP,33.79999924,FALSE,2009,,29-Oct,12-Jan,9,3
+554,CDR,Cedar Realty Trust Inc,1.100000024,FALSE,2009,,26-Oct,9-Jan,5,7
+555,CGSH,CEFC Global Strategic Holdings Inc,$0.65 ,TRUE,,No data fetched for symbol CGSH using YahooDailyReader,,,,
+556,CGEEF,Cegereal,$36.74 ,TRUE,,'Date',,,,
+557,CBGYF,Ceiba Energy Services Inc,$0.12 ,TRUE,,No data fetched for symbol CBGYF using YahooDailyReader,,,,
+558,CVM,CEL-SCI Corp,12.67000008,FALSE,2009,,18-Feb,3-May,8,4
+559,CGIPQ,Celadon Group Inc,0.0062,FALSE,2009,,28-Dec,13-Mar,8,4
+560,CE,Celanese Corp,128.4100037,FALSE,2009,,23-Sep,7-Dec,5,7
+561,CPXX,Celator Pharmaceuticals Inc,$30.24 ,TRUE,,'Date',,,,
+562,CELC,Celcuity Inc,9.359999657,TRUE,2017,,,,,
+563,CLTY,Celerity Solutions Inc,0.0145,FALSE,2009,,28-Feb,13-May,3,9
+564,CAAFF,Celestial Asia Securities Holdings Ltd,0.005,FALSE,2010,,25-Feb,10-May,5,6
+565,CLS,Celestica Inc,7.070000172,FALSE,2009,,1-Feb,16-Apr,8,4
+566,CXUS,Celexus Inc,0.02,TRUE,2012,,,,,
+567,CKNTF,Cell Kinetics Ltd,0.021,TRUE,2012,,,,,
+568,CMXC,Cell MedX Corp,0.349999994,TRUE,2013,,,,,
+569,CLCS,Cell Source Inc,0.949999988,TRUE,2014,,,,,
+570,EFLI,Cell Tech International Inc,0.0051,TRUE,2012,,,,,
+571,CLVSF,CellaVision AB,30.64240074,TRUE,2013,,,,,
+572,CEL,Cellcom Israel Ltd,3.960000038,FALSE,2009,,7-Aug,21-Oct,2,10
+573,CECBF,CellCube Energy Storage Systems Inc,0.026000001,FALSE,2009,,30-Jan,14-Apr,7,5
+574,CLLCF,CellCura ASA,$0.06 ,TRUE,,No data fetched for symbol CLLCF using YahooDailyReader,,,,
+575,CLDX,Celldex Therapeutics Inc,19.96999931,FALSE,2009,,23-Dec,8-Mar,6,6
+576,APOP,Cellect Biotechnology Ltd,1.8829,TRUE,2016,,,,,
+577,CLRB,Cellectar Biosciences Inc,1.129999995,FALSE,2009,,18-Dec,3-Mar,4,8
+578,CLLS,Cellectis SA,19.12000084,TRUE,2015,,,,,
+579,CMVLF,Cellectis SA,16.30999947,TRUE,2014,,,,,
+580,CLLKF,CELLINK AB,21.64999962,TRUE,2020,,,,,
+581,CLNXF,Cellnex Telecom SA,64.75,TRUE,2017,,,,,
+582,CLLNY,Cellnex Telecom SA,32.18999863,TRUE,2017,,,,,
+583,CLLVF,Cellnovo Group SA,$4.31 ,TRUE,,No data fetched for symbol CLLVF using YahooDailyReader,,,,
+584,CEOGF,Cello Health PLC,1.767400026,TRUE,2020,,,,,
+585,KNOFF,CellStop Systems Inc,0.043499999,TRUE,2019,,,,,
+586,CBMG,Cellular Biomedicine Group Inc,17.37000084,FALSE,2009,,20-Dec,5-Mar,6,6
+587,CLSN,Celsion Corp,0.537999988,FALSE,2009,,15-Feb,30-Apr,5,7
+588,CELH,Celsius Holdings Inc,32.58000183,FALSE,2009,,26-Dec,11-Mar,10,2
+589,CELSF,Celsius Resources Ltd,$0.01 ,TRUE,,No data fetched for symbol CELSF using YahooDailyReader,,,,
+590,CLTFF,Celtic PLC,1.5,TRUE,2013,,,,,
+591,CYAD,Celyad Oncology,8.920000076,TRUE,2015,,,,,
+592,CLYYF,Celyad Oncology,9.149999619,TRUE,2014,,,,,
+593,CTXXF,Cematrix Corp,0.319999993,TRUE,2016,,,,,
+594,CMTOY,Cementos Argos S.A.,6.25,TRUE,2012,,,,,
+595,CMTRY,Cementos Argos S.A.,$21.85 ,TRUE,,No data fetched for symbol CMTRY using YahooDailyReader,,,,
+596,CMTSY,Cementos Argos S.A.,$15.14 ,TRUE,,No data fetched for symbol CMTSY using YahooDailyReader,,,,
+597,CPAC,Cementos Pacasmayo SAA,7.820000172,TRUE,2012,,,,,
+598,CX,Cemex SAB de CV,4.440000057,FALSE,2009,,14-Nov,28-Jan,5,7
+599,CXMSF,Cemex SAB de CV,0.49000001,FALSE,2009,,21-Nov,4-Feb,5,7
+600,CELKF,Cemtas Celik Makina Sanayi Ve Ticaret AS,$1.01 ,TRUE,,No data fetched for symbol CELKF using YahooDailyReader,,,,
+601,CETX,Cemtrex Inc,1.120000005,TRUE,2015,,,,,
+602,CENBF,CEN Biotech Inc,$2.05 ,TRUE,,No data fetched for symbol CENBF using YahooDailyReader,,,,
+603,CNCOY,Cencosud SA,$7.81 ,TRUE,,'Date',,,,
+604,CNGO,Cengage Learning Holdings II Inc,8.5,TRUE,2014,,,,,
+605,CVE,Cenovus Energy Inc,4.28000021,FALSE,2009,,5-May,19-Jul,5,7
+606,CELTF,Centamin PLC,1.549999952,FALSE,2009,,13-Dec,26-Feb,5,7
+607,CTDT,Centaurus Diamond Technologies Inc,0.025,TRUE,2012,,,,,
+608,CTARF,Centaurus Energy Inc,0.0286,FALSE,2009,,26-Dec,11-Mar,4,8
+609,CTTZF,Centaurus Metals Ltd,$0.08 ,TRUE,,'Date',,,,
+610,CNC,Centene Corp,69.05000305,FALSE,2009,,14-Nov,28-Jan,8,4
+611,CDEV,Centennial Resource Development Inc,0.763000011,TRUE,2016,,,,,
+612,CHLE,Centennial Specialty Foods Corp,0.024,TRUE,2012,,,,,
+613,CNBC,Center Bancorp Inc,$19.23 ,TRUE,,'Date',,,,
+614,CEN,Center Coast Brookfield MLP & Energy Infrastructur,8.420000076,TRUE,2013,,,,,
+615,CFWH,Center for Wound Healing Inc,0.150000006,TRUE,2018,,,,,
+616,CNP,CenterPoint Energy Inc,24.25,FALSE,2009,,11-Jun,25-Aug,6,6
+617,CENP,Centerpointe Community Bank,$12.55 ,TRUE,,'Date',,,,
+618,CAGDF,Centerra Gold Inc,9.211164474,FALSE,2009,,1-Mar,15-May,6,6
+619,CSFL,CenterState Bank Corp,$18.14 ,TRUE,,No data fetched for symbol CSFL using YahooDailyReader,,,,
+620,CNTG,Centogene NV,11.36999989,TRUE,2019,,,,,
+621,CNTRF,CENTR Brands Corp,0.309899986,TRUE,2020,,,,,
+622,EBR,Centrais Eletricas Brasileiras SA,6.03000021,FALSE,2009,,17-Nov,31-Jan,6,6
+623,EBR.B,Centrais Eletricas Brasileiras SA,$6.21 ,TRUE,,No data fetched for symbol EBR.B using YahooDailyReader,,,,
+624,CEDWY,Centrais Eletricas de Santa Catarina SA,$4.15 ,TRUE,,'Date',,,,
+625,CEE,"CENTRAL & EASTERN EUROPE FUND, INC.",22.60000038,FALSE,2009,,28-Aug,11-Nov,7,5
+626,NDENF,Central African Gold Inc,0.074900001,TRUE,2014,,,,,
+627,CBCY,Central Bancompany,570,TRUE,2012,,,,,
+628,CBCYB,Central Bancompany,575,TRUE,2012,,,,,
+629,CBSI,Central Bancshares Inc (Texas),7974,TRUE,2012,,,,,
+630,CBSU,Central Bank Corp,20.5,TRUE,2012,,,,,
+631,ENGY,Central Energy Partners LP,0.0076,TRUE,2012,,,,,
+632,CETV,Central European Media Enterprises Ltd,4.570000172,FALSE,2009,,13-Nov,27-Jan,5,7
+633,CFDB,Central Federal Bancshares Inc,$15.70 ,TRUE,,No data fetched for symbol CFDB using YahooDailyReader,,,,
+634,CENT,Central Garden & Pet Co,41.47000122,FALSE,2009,,22-Nov,5-Feb,7,5
+635,CENTA,Central Garden & Pet Co,37.41999817,FALSE,2009,,13-May,27-Jul,6,6
+636,GTU,Central Gold-Trust,$39.42 ,TRUE,,'Date',,,,
+637,CJPRF,Central Japan Railway Co,152.3999939,TRUE,2013,,,,,
+638,CJPRY,Central Japan Railway Co,13.43999958,FALSE,2009,,15-Mar,29-May,6,6
+639,CTNR,Central Natural Resources Inc,5.25,FALSE,2009,,27-Oct,10-Jan,3,9
+640,CPF,Central Pacific Financial Corp,16.62999916,FALSE,2009,,17-Sep,1-Dec,5,7
+641,CPPBY,Central Pattana PCL,$22.88 ,TRUE,,No data fetched for symbol CPPBY using YahooDailyReader,,,,
+642,CTP,Central Petroleum Ltd,0.090000004,TRUE,2013,,,,,
+643,CEPU,Central Puerto SA,2.349999905,TRUE,2018,,,,,
+644,CRGDF,Central Rand Gold Ltd,$0.03 ,TRUE,,No data fetched for symbol CRGDF using YahooDailyReader,,,,
+645,CET,Central Securities Corp,29.29999924,FALSE,2009,,10-Dec,23-Feb,9,3
+646,CSTW,Central Steel & Wire Co,608,TRUE,2012,,,,,
+647,CVCY,Central Valley Community Bancorp,14.36999989,FALSE,2009,,22-Apr,6-Jul,7,5
+648,CTEUY,Centrenergo PJSC,$40.37 ,TRUE,,No data fetched for symbol CTEUY using YahooDailyReader,,,,
+649,CTTTF,Centrex Metals Ltd,$0.07 ,TRUE,,No data fetched for symbol CTTTF using YahooDailyReader,,,,
+650,CTRCQ,Centric Brands Inc,0.02,FALSE,2009,,27-Jan,11-Apr,7,5
+651,CFCX,Centric Financial Corp,7.5,TRUE,2015,,,,,
+652,CPYYF,Centrica PLC,0.569999993,FALSE,2009,,6-May,20-Jul,4,8
+653,CPYYY,Centrica PLC,2.25999999,FALSE,2009,,15-Mar,29-May,4,8
+654,CENEF,Centron Telecom International Holding Ltd,$0.06 ,TRUE,,No data fetched for symbol CENEF using YahooDailyReader,,,,
+655,CTRTF,Centrotec SE,16.81710052,TRUE,2020,,,,,
+656,CPHVF,Centrotherm international AG,$2.89 ,TRUE,,No data fetched for symbol CPHVF using YahooDailyReader,,,,
+657,CFCB,Centrue Financial Corp,$27.73 ,TRUE,,'Date',,,,
+658,LEU,Centrus Energy Corp,10.03999996,FALSE,2009,,15-May,29-Jul,7,5
+659,CTMUF,Centurion Minerals Ltd,0.05398,TRUE,2017,,,,,
+660,CENX,Century Aluminum Co,8.880000114,FALSE,2009,,8-Dec,21-Feb,6,6
+661,CNBKA,Century Bancorp Inc,78.05000305,FALSE,2009,,6-Sep,20-Nov,5,7
+662,CNBKB,Century Bancorp Inc,$40.32 ,TRUE,,No data fetched for symbol CNBKB using YahooDailyReader,,,,
+663,CNTY,Century Casinos Inc,5.409999847,FALSE,2009,,19-Nov,2-Feb,6,6
+664,CCOB,Century Cobalt Corp,0.0197,TRUE,2011,,,,,
+665,CCS,Century Communities Inc,42.61000061,TRUE,2014,,,,,
+666,CEYFF,Century Energy Ltd,$0.05 ,TRUE,,No data fetched for symbol CEYFF using YahooDailyReader,,,,
+667,CYFL,Century Financial Corp,20.37999916,FALSE,2009,,31-Mar,14-Jun,8,4
+668,CEUMF,Century Global Commodities Corp,0.141900003,TRUE,2014,,,,,
+669,CTUY,Century Next Financial Corp,25.89999962,FALSE,2010,,14-Apr,28-Jun,5,6
+670,CVEI,Cenveo Enterprises Inc,12.125,TRUE,2020,,,,,
+671,CVOVQ,Cenveo Inc,0.015,TRUE,2012,,,,,
+672,CPHD,Cepheid,$52.95 ,TRUE,,'Date',,,,
+673,CEQXF,Cequence Energy Ltd,$0.10 ,TRUE,,No data fetched for symbol CEQXF using YahooDailyReader,,,,
+674,CRNT,Ceragon Networks Ltd,2.319999933,FALSE,2009,,20-Nov,3-Feb,7,5
+675,CISO,Cerberus Cyber Sentinel Corp,2.049999952,TRUE,2020,,,,,
+676,CBBT,Cerebain Biotech Corp,0.015900001,TRUE,2012,,,,,
+677,CERC,Cerecor Inc,2.210000038,TRUE,2015,,,,,
+678,CRNC,Cerence Inc,65.97000122,TRUE,2019,,,,,
+679,CERPQ,Cereplast Inc,0.023800001,FALSE,2009,,3-Jan,18-Mar,7,5
+680,CERGF,Ceres Global Ag Corp,2.859999895,FALSE,2010,,24-May,7-Aug,5,6
+681,CPWHF,Ceres Power Holdings PLC,9.835000038,FALSE,2010,,8-Apr,22-Jun,6,5
+682,CERE,Cerevel Therapeutics Holdings Inc,12.28999996,TRUE,2020,,,,,
+683,CDAY,Ceridian HCM Holding Inc,95.86000061,TRUE,2018,,,,,
+684,CRMK,Cermetek Microelectronics Inc,0.012,TRUE,2012,,,,,
+685,CERN,Cerner Corp,75.45999908,FALSE,2009,,13-May,27-Jul,8,4
+686,GPPRF,Cerro De Pasco Resources Inc,0.289999992,TRUE,2018,,,,,
+687,CEGMF,Cerro Grande Mining Corp,0.02,TRUE,2012,,,,,
+688,CPSJF,Cerro Mining Corp,0.220359996,TRUE,2012,,,,,
+689,CTVEF,Certive Solutions Inc,0.045000002,TRUE,2013,,,,,
+690,CERS,Cerus Corp,6.079999924,FALSE,2009,,8-Dec,21-Feb,8,4
+691,CVMTY,Cerved Group SpA,14.31000042,TRUE,2016,,,,,
+692,CVMTF,Cerved Group SpA,$7.61 ,TRUE,,'Date',,,,
+693,CSQPF,Cervus Equipment Corp,7.514999866,TRUE,2012,,,,,
+694,CESDF,CES Energy Solutions Corp,0.670000017,FALSE,2010,,14-Mar,28-May,3,8
+695,CESX,CES Synergies Inc,0.008,TRUE,2014,,,,,
+696,CESDY,CESP - Cia Energetica de Sao Paulo,$5.70 ,TRUE,,No data fetched for symbol CESDY using YahooDailyReader,,,,
+697,CESJF,CESP - Cia Energetica de Sao Paulo,$3.01 ,TRUE,,'Date',,,,
+698,CSQSY,CESP - Cia Energetica de Sao Paulo,$6.95 ,TRUE,,No data fetched for symbol CSQSY using YahooDailyReader,,,,
+699,CTBPF,CETIP SA Mercados Organizados,$11.91 ,TRUE,,No data fetched for symbol CTBPF using YahooDailyReader,,,,
+700,CHHVF,Ceva Holdings LLC,$475.00 ,TRUE,,No data fetched for symbol CHHVF using YahooDailyReader,,,,
+701,CEVA,CEVA Inc,40.75,FALSE,2009,,10-Nov,24-Jan,6,6
+702,CVLGF,CEVA Logistics AG,$29.95 ,TRUE,,No data fetched for symbol CVLGF using YahooDailyReader,,,,
+703,CYLYF,Ceylon Graphite Corp,0.228200004,FALSE,2009,,16-Dec,1-Mar,3,9
+704,CEZZY,CEZ a.s,$16.60 ,TRUE,,No data fetched for symbol CEZZY using YahooDailyReader,,,,
+705,CZAVF,CEZ a.s,19.07999992,TRUE,2012,,,,,
+706,CEZYY,CEZ a.s,9.899999619,TRUE,2018,,,,,
+707,CFBK,CF Bankshares Inc,14.64000034,FALSE,2009,,23-Dec,8-Mar,7,5
+708,CGFEF,CF Energy Corp,0.419999987,FALSE,2010,,17-Dec,2-Mar,3,8
+709,CFFA,CF Finance Acquisition Corp,10.32999992,TRUE,2019,,,,,
+710,CFII,CF Finance Acquisition Corp II,9.800000191,TRUE,2020,,,,,
+711,CF,CF Industries Holdings Inc,30.88999939,FALSE,2009,,7-Jul,20-Sep,5,7
+712,CPGXF,CFAO,$40.83 ,TRUE,,No data fetched for symbol CPGXF using YahooDailyReader,,,,
+713,CNFN,CFN Enterprises Inc,0.064999998,FALSE,2009,,30-Oct,13-Jan,6,6
+714,CFFMF,CFOAM Ltd,0.014,TRUE,2017,,,,,
+715,CPGZF,CG Power & Industrial Solutions Ltd,0.100000001,TRUE,2017,,,,,
+716,CGEI,CGE Energy Inc,0.200000003,FALSE,2009,,22-May,5-Aug,6,6
+717,CGGYY,CGG,0.84740001,FALSE,2009,,6-Aug,20-Oct,5,7
+718,CGPVF,CGG,1,FALSE,2009,,27-Nov,10-Feb,5,7
+719,GIB,CGI Inc,68.41000366,FALSE,2009,,29-Mar,12-Jun,8,4
+720,CGNMF,CGN Mining Co Ltd,$0.02 ,TRUE,,No data fetched for symbol CGNMF using YahooDailyReader,,,,
+721,CGEGF,CGN New Energy Holdings Co Ltd,0.119999997,TRUE,2020,,,,,
+722,CGNWF,CGN Power Co Ltd,0.200000003,TRUE,2020,,,,,
+723,CGXEF,CGX Energy Inc,0.319999993,FALSE,2009,,1-Nov,15-Jan,5,7
+724,CKPCF,CH. Karnchang PCL,$0.71 ,TRUE,,No data fetched for symbol CKPCF using YahooDailyReader,,,,
+725,CHKKF,Chakana Copper Corp,0.419999987,TRUE,2018,,,,,
+726,CGMLF,Chalice Gold Mines Ltd,2.440000057,TRUE,2012,,,,,
+727,CFIGY,Challenger Ltd,67.55000305,TRUE,2012,,,,,
+728,CFIGF,Challenger Ltd,2.980000019,TRUE,2020,,,,,
+729,CPHT,Champaign Telephone Co,22,FALSE,2009,,19-Aug,2-Nov,1,10
+730,SHRMF,Champignon Brands Inc,0.474999994,TRUE,2020,,,,,
+731,CBRSF,Champion Bear Resources Ltd,0.079999998,FALSE,2009,,13-Apr,27-Jun,6,6
+732,CCMS,Champion Communication Services Inc,$0.01 ,TRUE,,No data fetched for symbol CCMS using YahooDailyReader,,,,
+733,CHMP,Champion Industries Inc,2.220000029,FALSE,2009,,8-Jul,21-Sep,4,8
+734,CHAM,Champion Investments Inc,0.200000003,TRUE,2012,,,,,
+735,CHPRF,Champion Iron Ltd,2.920000076,TRUE,2014,,,,,
+736,CMPNF,Champion Real Estate Investment Trust,0.479999989,FALSE,2010,,16-Nov,30-Jan,6,5
+737,CPIHF,Champion Technology Holdings Ltd,0.01,TRUE,2012,,,,,
+738,CWOC,Champion Winkler Oil Corp,4.099999905,FALSE,2009,,7-Feb,23-Apr,1,9
+739,CSBR,Champions Oncology Inc,10.64000034,FALSE,2009,,19-Dec,4-Mar,4,8
+740,CHX,ChampionX Corp,10.39000034,TRUE,2018,,,,,
+741,CHAG,Chancellor Group Inc,0.011,FALSE,2010,,17-Jun,31-Aug,2,9
+742,CNGFF,Change Financial Ltd,0.092,TRUE,2018,,,,,
+743,CHNG,Change Healthcare Inc,16.37000084,TRUE,2019,,,,,
+744,CGMOF,Changmao Biochemical Engineering Co Ltd,$0.21 ,TRUE,,No data fetched for symbol CGMOF using YahooDailyReader,,,,
+745,CMIM,Changming Industrial Management Group Holding Inc,0.50999999,FALSE,2009,,8-Feb,23-Apr,3,9
+746,CSJT,Changsheng International Group Ltd,2,TRUE,2020,,,,,
+747,CYOU,Changyou.com Ltd,$10.74 ,TRUE,,No data fetched for symbol CYOU using YahooDailyReader,,,,
+748,REHB,Channel Holdings Inc,0.680000007,FALSE,2010,,5-Jul,18-Sep,2,9
+749,ECOM,ChannelAdvisor Corp,13.82999992,TRUE,2013,,,,,
+750,BURG,Chanticleer Holdings Inc,$0.34 ,TRUE,,No data fetched for symbol BURG using YahooDailyReader,,,,
+751,CMGHF,Chaoda Modern Agriculture (Holdings) Ltd,0.007,FALSE,2010,,6-Sep,20-Nov,7,4
+752,CMGHY,Chaoda Modern Agriculture (Holdings) Ltd,0.289999992,FALSE,2010,,28-Sep,12-Dec,4,7
+753,CWWGF,Chaowei Power Holdings Ltd,0.423900008,TRUE,2013,,,,,
+754,CHAPQ,Chaparral Energy Inc,0.035,TRUE,2020,,,,,
+755,CHHP,Chaparral Energy Inc,$15.50 ,TRUE,,No data fetched for symbol CHHP using YahooDailyReader,,,,
+756,CGROF,Character Group (The) PLC,3.900000095,TRUE,2014,,,,,
+757,CHRA,Charah Solutions Inc,2.75,TRUE,2018,,,,,
+758,CHAQ,Chardan Healthcare Acquisition 2 Corp,9.800000191,TRUE,2020,,,,,
+759,CHRXF,Chargeurs SA,16.79999924,TRUE,2020,,,,,
+760,OIGLF,Chariot Oil & Gas Ltd,0.140000001,FALSE,2010,,8-Feb,23-Apr,4,7
+761,CHRLF,Charle Co Ltd,3.25,TRUE,2020,,,,,
+762,CNLMF,Charlemagne Capital Ltd,$0.16 ,TRUE,,'Date',,,,
+763,CTHR,Charles & Colvard Ltd,1.039999962,FALSE,2009,,20-Nov,3-Feb,6,6
+764,CRL,Charles River Laboratories International Inc,239.0099945,FALSE,2009,,8-May,22-Jul,9,3
+765,SCHW,Charles Schwab Corp,46,FALSE,2009,,29-Oct,12-Jan,8,4
+766,CHTYF,Charles Taylor PLC,$3.90 ,TRUE,,No data fetched for symbol CHTYF using YahooDailyReader,,,,
+767,FPWM,Charlestowne Premium Beverages Inc,0.555000007,TRUE,2014,,,,,
+768,CWBHF,Charlottes Web Holdings Inc,4.269999981,TRUE,2019,,,,,
+769,CHPFF,Charoen Pokphand Foods PCL,0.910000026,TRUE,2011,,,,,
+770,CPOKY,Charoen Pokphand Foods PCL,$3.35 ,TRUE,,No data fetched for symbol CPOKY using YahooDailyReader,,,,
+771,CPOUF,Charoen Pokphand Foods PCL,$0.85 ,TRUE,,No data fetched for symbol CPOUF using YahooDailyReader,,,,
+772,GTLS,Chart Industries Inc,93.58999634,FALSE,2009,,13-Dec,26-Feb,8,4
+773,CHTR,Charter Communications Inc,647.1900024,FALSE,2010,,11-Dec,24-Feb,7,4
+774,CVCS,Charter Corporate Services Inc,0.469999999,TRUE,2012,,,,,
+775,CHFN,Charter Financial Corp,24.90999985,TRUE,2012,,,,,
+776,CTOUF,Charter Hall Group,9.050000191,TRUE,2019,,,,,
+777,FKKEF,Charter Hall Social Infrastructure REIT,2,TRUE,2018,,,,,
+778,CHOB,Charter Oak Bank (ca),0.01278,FALSE,2009,,26-Aug,9-Nov,6,6
+779,CWSRF,Chartwell Retirement Residences,8.57199955,FALSE,2009,,24-Nov,7-Feb,7,5
+780,CCF,Chase Corp,108.4599991,FALSE,2009,,29-Aug,12-Nov,6,6
+781,WHLT,Chase Packaging Corp,0.101999998,TRUE,2020,,,,,
+782,CTAC,ChaSerg Technology Acquisition Corp,$12.00 ,TRUE,,No data fetched for symbol CTAC using YahooDailyReader,,,,
+783,CHAA,chatAND Inc,$0.03 ,TRUE,,No data fetched for symbol CHAA using YahooDailyReader,,,,
+784,CHTM,Chatham Corp,3150,TRUE,2012,,,,,
+785,CLDT,Chatham Lodging Trust,9.909999847,FALSE,2010,,26-Sep,10-Dec,6,5
+786,GELGF,Chatham Rock Phosphate Ltd,0.052829999,TRUE,2012,,,,,
+787,CHHCF,CHC Group LLC,0.015,TRUE,2017,,,,,
+788,HELIQ,CHC Group Ltd,0.449999988,TRUE,2014,,,,,
+789,CHKP,Check Point Software Technologies Ltd,118.6699982,FALSE,2009,,2-Jan,17-Mar,10,2
+790,CHEK,Check-Cap Ltd,0.297500014,TRUE,2015,,,,,
+791,ECKTF,Checkit PLC,0.43156001,TRUE,2019,,,,,
+792,CMPI,Checkmate Pharmaceuticals Inc,10.69999981,TRUE,2020,,,,,
+793,CKP,Checkpoint Systems Inc,$10.14 ,TRUE,,'Date',,,,
+794,CKPT,Checkpoint Therapeutics Inc,2.49000001,TRUE,2016,,,,,
+795,ECRP,Chee Corp,10.5,TRUE,2019,,,,,
+796,CAKE,Cheesecake Factory Inc,35.11000061,FALSE,2009,,1-Sep,15-Nov,7,5
+797,CRRDF,Cheetah Canyon Resources Corp,0.090000004,TRUE,2015,,,,,
+798,CMCM,Cheetah Mobile Inc,1.940000057,TRUE,2014,,,,,
+799,COHG,Cheetah Oil & Gas Ltd,0.00765,TRUE,2012,,,,,
+800,CHGG,Chegg Inc,70.38999939,TRUE,2013,,,,,
+801,CEMI,Chembio Diagnostics Inc,4.380000114,FALSE,2009,,4-Apr,18-Jun,6,6
+802,CHE,Chemed Corp,484.5400085,FALSE,2009,,8-Dec,21-Feb,9,3
+803,CADMF,Chemesis International Inc,0.27094999,TRUE,2017,,,,,
+804,GEDSF,Chemical Works of Gedeon Richter PLC,18.12210083,TRUE,2012,,,,,
+805,RGEDF,Chemical Works of Gedeon Richter PLC,21.37999916,TRUE,2013,,,,,
+806,CHEM,Chemicorp International Inc,$0.09 ,TRUE,,No data fetched for symbol CHEM using YahooDailyReader,,,,
+807,CHMJF,Chemistree Technology Inc,0.036164999,TRUE,2017,,,,,
+808,CCXI,ChemoCentryx Inc,59.00999832,TRUE,2012,,,,,
+809,CLRGF,Chemoil Energy Ltd,$0.28 ,TRUE,,No data fetched for symbol CLRGF using YahooDailyReader,,,,
+810,CMGMF,Chemring Group PLC,3.299999952,FALSE,2010,,12-Jul,25-Sep,3,8
+811,CMGMY,Chemring Group PLC,3.25999999,TRUE,2011,,,,,
+812,CGIFF,Chemtrade Logistics Income Fund,3.649399996,FALSE,2009,,30-Oct,13-Jan,6,6
+813,CHMT,Chemtura Corp,$33.50 ,TRUE,,'Date',,,,
+814,CHMG,Chemung Financial Corp,36.29999924,FALSE,2009,,1-Sep,15-Nov,6,6
+815,CHHGF,Chen Hsong Holdings Ltd,0.219999999,TRUE,2013,,,,,
+816,LNG,Cheniere Energy Inc,52.06999969,FALSE,2009,,6-Nov,20-Jan,8,4
+817,CQP,Cheniere Energy Partners LP,35.75,FALSE,2009,,15-Mar,29-May,8,4
+818,CQH,Cheniere Energy Partners LP Holdings LLC,32.06999969,TRUE,2013,,,,,
+819,CRKZY,Cherkizovo Group PJSC,9,TRUE,2015,,,,,
+820,CHRHF,Chernogorneft PJSC,$0.81 ,TRUE,,No data fetched for symbol CHRHF using YahooDailyReader,,,,
+821,CHMI,Cherry Hill Mortgage Investment Corp,9.06000042,TRUE,2013,,,,,
+822,CHKAQ,Chesapeake Energy Corp,3.25999999,FALSE,2009,,13-Dec,26-Feb,5,7
+823,CPKF,Chesapeake Financial Shares Inc,20,FALSE,2009,,27-Jun,10-Sep,10,2
+824,CHPGF,Chesapeake Gold Corp,3.559999943,FALSE,2009,,15-Jul,28-Sep,5,7
+825,CHKR,Chesapeake Granite Wash Trust,0.224999994,TRUE,2011,,,,,
+826,CHSP,Chesapeake Lodging Trust,$27.17 ,TRUE,,No data fetched for symbol CHSP using YahooDailyReader,,,,
+827,CPK,Chesapeake Utilities Corp,109.5500031,FALSE,2009,,4-Oct,18-Dec,5,7
+828,CSNRF,Chesnara PLC,$5.09 ,TRUE,,'Date',,,,
+829,CESSF,Chesser Resources Ltd,0.165000007,TRUE,2020,,,,,
+830,CHWWF,Chesswood Group Ltd,5.345310211,TRUE,2012,,,,,
+831,CNBA,Chester Bancorp Inc,14.76000023,TRUE,2013,,,,,
+832,CHMN,Chester Mining Co,0.230000004,FALSE,2009,,5-Mar,19-May,3,9
+833,CHEV,Cheviot Financial Corp,$15.01 ,TRUE,,'Date',,,,
+834,CVX,Chevron Corp,83.02999878,FALSE,2009,,24-Oct,7-Jan,5,7
+835,CHWY,Chewy Inc,62.99000168,TRUE,2019,,,,,
+836,CHFS,CHF Solutions Inc,6.070000172,TRUE,2012,,,,,
+837,CAIHF,Chia Tai Enterprises International Ltd,0.180000007,TRUE,2016,,,,,
+838,CGMVF,Chiang Mai Ram Medical Business PCL,$5.36 ,TRUE,,No data fetched for symbol CGMVF using YahooDailyReader,,,,
+839,CGMFF,Chiangmai Frozen Foods PCL,$0.11 ,TRUE,,No data fetched for symbol CGMFF using YahooDailyReader,,,,
+840,CHMA,Chiasma Inc,3.99000001,TRUE,2015,,,,,
+841,CMAUF,Chibougamau Independent Mines Inc,0.100440003,TRUE,2013,,,,,
+842,CBI,Chicago Bridge & Iron Co NV,16.38999939,TRUE,2012,,,,,
+843,CVR,Chicago Rivet & Machine Co,20.96419907,FALSE,2009,,5-Jan,20-Mar,7,5
+844,CSSE,Chicken Soup for the Soul Entertainment Inc,14.85999966,TRUE,2017,,,,,
+845,CHS,Chico's FAS Inc,1.370000005,FALSE,2009,,31-Jan,15-Apr,5,7
+846,CRVH,Chilco River Holdings Inc,0.0065,FALSE,2009,,11-Jun,25-Aug,3,9
+847,PLCE,Children's Place Inc,32.27000046,FALSE,2009,,5-Mar,19-May,6,6
+848,LVEN,Chile Mining Technologies Inc,$0.01 ,TRUE,,No data fetched for symbol LVEN using YahooDailyReader,,,,
+849,CMETF,Chilean Metals Inc,0.125,FALSE,2010,,11-May,25-Jul,5,5
+850,CHNO,Chill N Out Cryotherapy Inc,0.050000001,TRUE,2012,,,,,
+851,CICPF,Chime Communications PLC,$5.46 ,TRUE,,No data fetched for symbol CICPF using YahooDailyReader,,,,
+852,CIM,Chimera Investment Corp,9.989999771,FALSE,2009,,3-Sep,17-Nov,8,4
+853,CMRX,Chimerix Inc,3.380000114,TRUE,2013,,,,,
+854,CD,Chindata Group Holdings Ltd,15.03999996,TRUE,2020,,,,,
+855,CESTF,Chinese Estates Holdings Ltd,0.469999999,FALSE,2010,,22-Jul,5-Oct,2,9
+856,CESTY,Chinese Estates Holdings Ltd,16.23999977,TRUE,2014,,,,,
+857,CIIX,Chineseinvestors.com Inc,0.0228,TRUE,2012,,,,,
+858,CCBC,Chino Commercial Bancorp,10.09000015,FALSE,2009,,13-Jul,26-Sep,4,8
+859,CNKEF,Chinook Energy Inc,$0.05 ,TRUE,,No data fetched for symbol CNKEF using YahooDailyReader,,,,
+860,KDNY,Chinook Therapeutics Inc,14.43000031,TRUE,2020,,,,,
+861,CHSEF,Chip Eng Seng Corp Ltd,$0.42 ,TRUE,,No data fetched for symbol CHSEF using YahooDailyReader,,,,
+862,IMOS,ChipMOS TECHNOLOGIES Inc,20.5,FALSE,2009,,28-Oct,11-Jan,6,6
+863,CMG,Chipotle Mexican Grill Inc,1251.430054,FALSE,2009,,9-Dec,22-Feb,9,3
+864,IGHOF,Chiron Refineries Ltd,$0.28 ,TRUE,,No data fetched for symbol IGHOF using YahooDailyReader,,,,
+865,CHYCF,Chiyoda Corp,2.369999886,TRUE,2012,,,,,
+866,CHYCY,Chiyoda Corp,2.359999895,TRUE,2012,,,,,
+867,COCXF,Chocoladefabriken Lindt & Spruengli AG,89138.60156,TRUE,2012,,,,,
+868,LDSVF,Chocoladefabriken Lindt & Spruengli AG,8349,FALSE,2010,,12-Mar,26-May,7,4
+869,CFSKF,Chofu Seisakusho Co Ltd,20.89999962,TRUE,2012,,,,,
+870,CBKW,Choice Bancorp Inc,$34.60 ,TRUE,,No data fetched for symbol CBKW using YahooDailyReader,,,,
+871,CHH,Choice Hotels International Inc,101.1600037,FALSE,2009,,13-Dec,26-Feb,9,3
+872,PPRQF,Choice Properties Real Estate Investment Trust,10.26220036,TRUE,2014,,,,,
+873,COFS,ChoiceOne Financial Services Inc,30.42000008,FALSE,2009,,18-Mar,1-Jun,5,7
+874,CGHBF,Chong Hing Bank Ltd,$1.80 ,TRUE,,No data fetched for symbol CGHBF using YahooDailyReader,,,,
+875,CCFFF,Chong Sing Holdings FinTech Group Ltd,0.032000002,TRUE,2018,,,,,
+876,COGQF,Chongqing Rural Commercial Bank Co Ltd,$0.56 ,TRUE,,No data fetched for symbol COGQF using YahooDailyReader,,,,
+877,CRCBY,Chongqing Rural Commercial Bank Co Ltd,$24.58 ,TRUE,,No data fetched for symbol CRCBY using YahooDailyReader,,,,
+878,CHOOF,Choom Holdings Inc,0.065187998,TRUE,2013,,,,,
+879,CHRRF,Chorus Aviation Inc,2.539089918,TRUE,2012,,,,,
+880,CRHVF,Chorus Aviation Inc,$4.82 ,TRUE,,No data fetched for symbol CRHVF using YahooDailyReader,,,,
+881,CCEAF,CHORUS Clean Energy AG,$11.10 ,TRUE,,No data fetched for symbol CCEAF using YahooDailyReader,,,,
+882,CHRYY,Chorus Ltd,30.39999962,TRUE,2011,,,,,
+883,CRRLF,Chorus Ltd,4.599999905,TRUE,2011,,,,,
+884,CHOWF,Chow Sang Sang Holdings International Ltd,1.100000024,FALSE,2010,,18-May,1-Aug,5,6
+885,CJEWF,Chow Tai Fook Jewellery Group Ltd,1.289999962,TRUE,2012,,,,,
+886,CJEWY,Chow Tai Fook Jewellery Group Ltd,12.01000023,TRUE,2013,,,,,
+887,CHPM,CHP Merger Corp,10.02999973,TRUE,2020,,,,,
+888,CHYHY,Chr. Hansen Holding A/S,25.87999916,TRUE,2014,,,,,
+889,CRTSF,Chr. Hansen Holding A/S,107.9700012,TRUE,2012,,,,,
+890,CHDRF,Christian Dior SE,484.0125122,TRUE,2012,,,,,
+891,CHDRY,Christian Dior SE,120.5,TRUE,2013,,,,,
+892,CBKC,Christopher & Banks Corp,0.259750009,TRUE,2019,,,,,
+893,CDXC,ChromaDex Corp,5.130000114,FALSE,2009,,7-Dec,20-Feb,8,4
+894,CB,Chubb Ltd,149.2599945,FALSE,2009,,17-May,31-Jul,5,7
+895,CHUEF,Chubu Electric Power Co Inc,12.14999962,TRUE,2014,,,,,
+896,CBUPF,Chubu-Nippon Broadcasting Co Ltd,$5.80 ,TRUE,,No data fetched for symbol CBUPF using YahooDailyReader,,,,
+897,CKOCF,Chudenko Corp,21.65999985,FALSE,2009,,5-Dec,18-Feb,6,6
+898,CHGCF,Chugai Pharmaceutical Co Ltd,46.25,TRUE,2012,,,,,
+899,CHGCY,Chugai Pharmaceutical Co Ltd,21.91500092,TRUE,2012,,,,,
+900,CGKEY,Chugoku Electric Power Co Inc,25.31999969,TRUE,2014,,,,,
+901,CGKEF,Chugoku Electric Power Co Inc,13.01000023,TRUE,2012,,,,,
+902,CUGKF,Chugoku Marine Paints Ltd,$4.60 ,TRUE,,No data fetched for symbol CUGKF using YahooDailyReader,,,,
+903,CHUM,Chuma Holdings Inc,0.01,TRUE,2019,,,,,
+904,CNCN,Chun Can Capital Group,20,TRUE,2012,,,,,
+905,CHT,Chunghwa Telecom Co Ltd,38.40999985,FALSE,2009,,22-Feb,7-May,4,8
+906,CKZAF,Chuokeizai-Sha Holdings Inc,5.150000095,TRUE,2019,,,,,
+907,CHD,Church & Dwight Co Inc,87.37999725,FALSE,2009,,22-Dec,7-Mar,10,2
+908,CCX,Churchill Capital Corp II,10.02999973,TRUE,2019,,,,,
+909,CCXX,Churchill Capital Corp III,9.840000153,TRUE,2020,,,,,
+910,CCIV,Churchill Capital Corp IV,9.68999958,TRUE,2020,,,,,
+911,CHDN,Churchill Downs Inc,180.8500061,FALSE,2009,,9-Dec,22-Feb,7,5
+912,CLHMF,Churchill Mining PLC,$0.34 ,TRUE,,No data fetched for symbol CLHMF using YahooDailyReader,,,,
+913,CHUY,Chuy's Holdings Inc,22.62999916,TRUE,2012,,,,,
+914,HYQC,CHYF Media Group Holding Co,0.015,TRUE,2011,,,,,
+915,CHYI,Chykingyoung Investment Development Holdings Inc,1.5,FALSE,2009,,28-Jun,11-Sep,4,8
+916,CIFAF,CI Financial Corp,12.76000023,FALSE,2010,,28-Sep,12-Dec,4,7
+917,CTPTY,Cia de Transmissao de Energia Eletrica Paulista,6.199999809,TRUE,2012,,,,,
+918,CTPZY,Cia de Transmissao de Energia Eletrica Paulista,24,FALSE,2010,,6-Mar,20-May,7,4
+919,COELF,CIA Energetica Do Ceara - COELCE,$16.27 ,TRUE,,No data fetched for symbol COELF using YahooDailyReader,,,,
+920,HRTSF,CIA Hering SA,$6.43 ,TRUE,,No data fetched for symbol HRTSF using YahooDailyReader,,,,
+921,ELP,Cia Paranaense De Energia Copel,12.48999977,FALSE,2009,,17-Nov,31-Jan,8,4
+922,ELPVY,Cia Paranaense De Energia Copel,11.30000019,FALSE,2010,,13-Nov,27-Jan,7,4
+923,CIBH,CIB Marine Bancshares Inc,16,FALSE,2010,,17-Dec,2-Mar,6,5
+924,CIBY,CIBL Inc,1750,FALSE,2010,,3-Sep,17-Nov,4,7
+925,MBAIF,CIBT Education Group Inc,0.5,FALSE,2009,,25-Nov,8-Feb,8,4
+926,CIMGF,CIC Capital Ltd,$0.05 ,TRUE,,No data fetched for symbol CIMGF using YahooDailyReader,,,,
+927,CICN,Cicero Inc,0.0059,FALSE,2009,,18-Jan,2-Apr,11,1
+928,CDTX,Cidara Therapeutics Inc,2.539999962,TRUE,2015,,,,,
+929,CUOTF,CIE Automotive SA,21.85000038,TRUE,2020,,,,,
+930,CFRHF,Cie Financiere Richemont SA,81.5,FALSE,2009,,28-Mar,11-Jun,5,7
+931,CFRUY,Cie Financiere Richemont SA,8.159999847,FALSE,2009,,27-Mar,10-Jun,5,7
+932,MGDDF,Cie Generale des Etablissements Michelin SA,121.4000015,FALSE,2010,,13-Mar,27-May,6,5
+933,MGDDY,Cie Generale des Etablissements Michelin SA,24.38750076,FALSE,2010,,4-Dec,17-Feb,8,3
+934,CLHG,CIE Holdings LLC,38,TRUE,2014,,,,,
+935,CEBNF,Cie Lebon SA,$168.00 ,TRUE,,'Date',,,,
+936,CIOXF,Cielo SA,8.774459839,TRUE,2014,,,,,
+937,CIOXY,Cielo SA,0.689999998,FALSE,2010,,20-May,3-Aug,6,5
+938,CWSFF,Cielo Waste Solutions Corp,0.083899997,TRUE,2019,,,,,
+939,CIEN,Ciena Corp,43.54999924,FALSE,2009,,11-Dec,24-Feb,7,5
+940,CIFC,CIFC LLC,$11.40 ,TRUE,,'Date',,,,
+941,CFFHF,CIFI Holdings (Group) Co Ltd,0.810000002,TRUE,2020,,,,,
+942,CI,Cigna Corp,219.6900024,FALSE,2009,,26-Sep,10-Dec,5,7
+943,CIIC,CIIG Merger Corp,10.06999969,TRUE,2020,,,,,
+944,CMCT,CIM Commercial Trust Corp,10.75,FALSE,2009,,12-Mar,26-May,8,4
+945,XEC,Cimarex Energy Co,32.09999847,FALSE,2009,,4-Sep,18-Nov,8,4
+946,CIMDF,CIMB Group Holdings Bhd,0.660000026,TRUE,2012,,,,,
+947,CIMEF,CIMC Enric Holdings Ltd,0.649999976,TRUE,2012,,,,,
+948,CFSEF,CIMC-TianDa Holdings Co Ltd,$0.05 ,TRUE,,'Date',,,,
+949,CMXX,Cimetrix Inc,3.349999905,TRUE,2012,,,,,
+950,LGTHF,CIMIC Group Ltd,14.94999981,FALSE,2009,,12-Jul,25-Sep,5,7
+951,CMPR,Cimpress PLC,82.79000092,FALSE,2009,,30-Jul,13-Oct,7,5
+952,CNNB,Cincinnati Bancorp Inc,9.619999886,TRUE,2018,,,,,
+953,CBB,Cincinnati Bell Inc,15.22999954,FALSE,2009,,28-Feb,13-May,7,5
+954,CINF,Cincinnati Financial Corp,78.77999878,FALSE,2009,,26-Jun,9-Sep,8,4
+955,CTVZ,Cinderella Target Value Zones Inc,1.25,TRUE,2012,,,,,
+956,CIDM,Cinedigm Corp,0.600000024,FALSE,2009,,24-Dec,9-Mar,7,5
+957,CNK,Cinemark Holdings Inc,13.64000034,FALSE,2009,,29-Sep,13-Dec,9,3
+958,CPXGF,Cineplex Inc,4.968299866,FALSE,2009,,17-Mar,31-May,7,5
+959,CINR,Ciner Resources LP,11.57999992,TRUE,2013,,,,,
+960,CNWGY,Cineworld Group PLC,1.5,TRUE,2019,,,,,
+961,CNNWF,Cineworld Group PLC,0.592499971,TRUE,2018,,,,,
+962,CTAS,Cintas Corp,356,FALSE,2009,,29-May,12-Aug,9,3
+963,CPHRF,Cipher Pharmaceuticals Inc,0.720000029,FALSE,2009,,15-Dec,28-Feb,6,6
+964,CLOK,Cipherloc Corp,0.310000002,TRUE,2015,,,,,
+965,CIRPF,CIR Compagnie Industriali Riunite SpA,$1.11 ,TRUE,,No data fetched for symbol CIRPF using YahooDailyReader,,,,
+966,CGHA,Ciralight Global Inc,$0.20 ,TRUE,,'Date',,,,
+967,CSSPF,Circassia Group PLC,0.330000013,TRUE,2020,,,,,
+968,CIOMF,Circle Oil PLC,$0.02 ,TRUE,,'Date',,,,
+969,CPPTF,Circle Property PLC,$2.29 ,TRUE,,No data fetched for symbol CPPTF using YahooDailyReader,,,,
+970,CIR,Circor International Inc,33.43999863,FALSE,2009,,9-Mar,23-May,3,9
+971,CRLI,Circuit Research Labs Inc,0.01,FALSE,2009,,28-Dec,13-Mar,7,5
+972,CRKT,Cirmaker Technology Corporation,0.005,TRUE,2012,,,,,
+973,CRUS,Cirrus Logic Inc,77.01000214,FALSE,2009,,20-Nov,3-Feb,6,6
+974,LRTYY,Cirrus Networks Holdings Ltd,$1.74 ,TRUE,,No data fetched for symbol LRTYY using YahooDailyReader,,,,
+975,LYRTF,Cirrus Networks Holdings Ltd,$0.02 ,TRUE,,No data fetched for symbol LYRTF using YahooDailyReader,,,,
+976,CIRX,CirTran Corp,0.04315,FALSE,2009,,23-Nov,6-Feb,4,8
+977,CSCO,Cisco Systems Inc,41.40000153,FALSE,2009,,11-Dec,24-Feb,8,4
+978,CISN,Cision Ltd,$9.99 ,TRUE,,No data fetched for symbol CISN using YahooDailyReader,,,,
+979,CNWT,Cistera Networks Inc,0.01,FALSE,2009,,7-May,21-Jul,3,9
+980,CIT,CIT Group Inc,34.34999847,FALSE,2009,,1-Sep,15-Nov,5,7
+981,COIL,Citadel Exploration Inc,0.02,TRUE,2012,,,,,
+982,CBAF,Citba Financial Corp,25.60000038,FALSE,2010,,3-Oct,17-Dec,6,5
+983,CTRN,Citi Trends Inc,30.54000092,FALSE,2009,,9-Feb,24-Apr,4,8
+984,CCAC,CITIC Capital Acquisition Corp,9.779999733,TRUE,2020,,,,,
+985,UEDVF,CITIC Envirotech Ltd,0.381000012,TRUE,2012,,,,,
+986,CTPCF,CITIC Ltd,0.699999988,FALSE,2010,,1-Oct,15-Dec,3,8
+987,CTPCY,CITIC Ltd,3.75,FALSE,2010,,28-Sep,12-Dec,3,8
+988,CTJHF,CITIC Resources Holdings Ltd,0.035999998,TRUE,2013,,,,,
+989,CTJHY,CITIC Resources Holdings Ltd,7.590000153,TRUE,2015,,,,,
+990,CIIHF,CITIC Securities Co Ltd,2.156300068,TRUE,2012,,,,,
+991,CIIHY,CITIC Securities Co Ltd,21.54000092,TRUE,2015,,,,,
+992,CCTTF,Citic Telecom International Holdings Ltd,0.370000005,TRUE,2017,,,,,
+993,CTOHF,Citigold Corp Ltd,0.012,TRUE,2012,,,,,
+994,C,Citigroup Inc,48.65999985,FALSE,2009,,25-Sep,9-Dec,5,7
+995,CTXR,Citius Pharmaceuticals Inc,0.950100005,TRUE,2014,,,,,
+996,CHCLF,Citizen Watch Co Ltd,5.25,TRUE,2014,,,,,
+997,CHCLY,Citizen Watch Co Ltd,20.32999992,TRUE,2011,,,,,
+998,CZNC,Citizens & Northern Corp,18.76000023,FALSE,2009,,22-May,5-Aug,6,6
+999,CBTH,Citizens B & T Holdings Inc,$15.50 ,TRUE,,No data fetched for symbol CBTH using YahooDailyReader,,,,
+1000,CZBC,Citizens Bancorp,14.05000019,FALSE,2009,,18-Nov,1-Feb,7,5
+1001,CZNB,Citizens Bancorp,0.0065,FALSE,2009,,12-Jan,27-Mar,5,7
+1002,CZBT,Citizens Bancorp of Virginia Inc,27,FALSE,2009,,4-Oct,18-Dec,7,5
+1003,CZBS,Citizens Bancshares Corp,8.75,FALSE,2009,,6-Apr,20-Jun,6,6
+1004,CITZ,Citizens Bancshares Corp,22,TRUE,2019,,,,,
+1005,CZMO,Citizens Bank Logan,$105.00 ,TRUE,,'Date',,,,
+1006,CTBS,Citizens Bankshares Inc,$29.24 ,TRUE,,No data fetched for symbol CTBS using YahooDailyReader,,,,
+1007,CCVS,Citizens Commerce Bancshares Inc,6.739999771,TRUE,2012,,,,,
+1008,CZWI,Citizens Community Bancorp Inc,8.449999809,FALSE,2009,,28-Nov,11-Feb,8,4
+1009,CFIN,Citizens Financial Corp,6000,FALSE,2009,,4-May,18-Jul,7,5
+1010,CIWV,Citizens Financial Corp WV,13.39999962,FALSE,2009,,5-Nov,19-Jan,6,6
+1011,CFG,Citizens Financial Group Inc,31.75,TRUE,2014,,,,,
+1012,CZFS,Citizens Financial Services Inc,46.31000137,FALSE,2009,,7-Dec,20-Feb,7,5
+1013,CZFC,Citizens First Corp,$25.68 ,TRUE,,No data fetched for symbol CZFC using YahooDailyReader,,,,
+1014,CIZN,Citizens Holding Co,21.07999992,FALSE,2009,,25-Oct,8-Jan,4,8
+1015,CIA,Citizens Inc,6.03000021,FALSE,2009,,14-May,28-Jul,4,8
+1016,CZID,Citizens Independent Bancorp Inc,$48.00 ,TRUE,,No data fetched for symbol CZID using YahooDailyReader,,,,
+1017,CNBL,Citizens National Bancshares Bossier Inc,20,FALSE,2010,,18-Mar,1-Jun,1,10
+1018,CZNS,Citizens National Bank (Sevierville TN),$37.00 ,TRUE,,'Date',,,,
+1019,CZNL,Citizens National Corp,43,TRUE,2012,,,,,
+1020,CTGL,Citrine Global Corp,0.109999999,TRUE,2020,,,,,
+1021,CTXS,Citrix Systems Inc,118.2600021,FALSE,2009,,30-Jan,14-Apr,9,3
+1022,CDEVF,City Developments Ltd,4.96999979,TRUE,2012,,,,,
+1023,CDEVY,City Developments Ltd,5.289999962,FALSE,2009,,2-Feb,17-Apr,5,7
+1024,CHCO,City Holding Co,65.81999969,FALSE,2009,,22-Sep,6-Dec,7,5
+1025,CYN,City National Corp,$89.60 ,TRUE,,'Date',,,,
+1026,CLIUF,City of London Investment Group PLC,5.131229877,TRUE,2013,,,,,
+1027,CIO,City Office REIT Inc,7.849999905,TRUE,2014,,,,,
+1028,CVGRF,City View Green Holdings Inc,0.038699999,TRUE,2013,,,,,
+1029,CEBTF,Citychamp Watch & Jewellery Group Ltd,0.189999998,FALSE,2009,,25-Mar,8-Jun,3,9
+1030,COYJF,Citycon Oyj,6.015810013,TRUE,2017,,,,,
+1031,CFHLF,CityFibre Infrastructure Holdings PLC,$1.07 ,TRUE,,No data fetched for symbol CFHLF using YahooDailyReader,,,,
+1032,CNHDF,Cityneon Holdings Ltd,S$ 0.14,TRUE,,No data fetched for symbol CNHDF using YahooDailyReader,,,,
+1033,CVEO,Civeo Corp,0.959999979,TRUE,2014,,,,,
+1034,CIVB,Civista Bancshares Inc,16.29000092,FALSE,2009,,8-Dec,21-Feb,8,4
+1035,CIVI,Civitas Solutions Inc,$17.76 ,TRUE,,No data fetched for symbol CIVI using YahooDailyReader,,,,
+1036,CHKGF,CK Asset Holdings Ltd,5.239999771,TRUE,2017,,,,,
+1037,CKHUF,CK Hutchison Holdings Ltd,6.989999771,FALSE,2009,,9-Jul,22-Sep,4,7
+1038,CKHUY,CK Hutchison Holdings Ltd,6.989999771,TRUE,2015,,,,,
+1039,CKISF,CK Infrastructure Holdings Ltd,4.650000095,FALSE,2010,,25-Mar,8-Jun,9,2
+1040,CKISY,CK Infrastructure Holdings Ltd,23.20000076,TRUE,2017,,,,,
+1041,CKLSF,CK Life Sciences International Holdings Inc,0.07,TRUE,2012,,,,,
+1042,CKX,CKX Lands Inc,9.489999771,FALSE,2009,,20-Mar,3-Jun,5,7
+1043,CLMPF,Claim Post Resources Inc,0.146510005,TRUE,2018,,,,,
+1044,CVTGF,Clairvest Group Inc,36.92092896,FALSE,2009,,6-Sep,20-Nov,6,6
+1045,CLALF,Clal Biotechnology Industries Ltd,$16.30 ,TRUE,,No data fetched for symbol CLALF using YahooDailyReader,,,,
+1046,CCYC,Clancy Corp,3,TRUE,2019,,,,,
+1047,CLSI,Clancy Systems International Inc,0.0136,FALSE,2009,,10-Dec,23-Feb,6,6
+1048,CLC,Clarcor Inc,32200,TRUE,2012,,,,,
+1049,CNENF,Claren Energy Corp,0.156000003,TRUE,2012,,,,,
+1050,CLZNF,Clariant AG,19,FALSE,2009,,6-Mar,20-May,8,4
+1051,CLZNY,Clariant AG,19.86000061,FALSE,2009,,23-Oct,6-Jan,7,5
+1052,CLGCF,Clarity Gold Corp,0.924000025,TRUE,2020,,,,,
+1053,CCC,Clarivate PLC,27.79000092,TRUE,2018,,,,,
+1054,CKCB,Clark County Bancorp,0.01,TRUE,2012,,,,,
+1055,CLKFD,Clarke Inc,4.559299946,TRUE,2020,,,,,
+1056,CKNHF,Clarkson PLC,29.82699966,TRUE,2012,,,,,
+1057,CKFC,Clarkston Financial Corp,$10.45 ,TRUE,,No data fetched for symbol CKFC using YahooDailyReader,,,,
+1058,CLXPF,Clarmin Explorations Inc,0.658500016,TRUE,2019,,,,,
+1059,CLAR,Clarus Corp,15.13000011,FALSE,2009,,28-Feb,13-May,5,7
+1060,CLAT,Clatsop Community Bank,$12.50 ,TRUE,,No data fetched for symbol CLAT using YahooDailyReader,,,,
+1061,CLGRF,Claude Resources Inc,$1.91 ,TRUE,,'Date',,,,
+1062,XSONF,Claxson Interactive Group Inc,12,FALSE,2009,,3-Jan,18-Mar,0,12
+1063,CLLA,Clayton & Lambert MFG,4,TRUE,2014,,,,,
+1064,CWEI,Clayton Williams Energy Inc,$131.90 ,TRUE,,'Date',,,,
+1065,CLRMF,Clean Air Metals Inc,0.239999995,TRUE,2020,,,,,
+1066,CAPWF,Clean Air Power Ltd,$0.03 ,TRUE,,No data fetched for symbol CAPWF using YahooDailyReader,,,,
+1067,CCTC,Clean Coal Technologies Inc,0.007387,FALSE,2009,,18-Sep,2-Dec,4,8
+1068,CLNE,Clean Energy Fuels Corp,3.190000057,FALSE,2009,,30-Jan,14-Apr,5,7
+1069,CETY,Clean Energy Technologies Inc,0.0177,FALSE,2009,,1-Dec,14-Feb,2,10
+1070,CLH,Clean Harbors Inc,71.44999695,FALSE,2009,,14-Nov,28-Jan,6,6
+1071,QILFF,Clean Power Capital Corp,0.75999999,TRUE,2018,,,,,
+1072,CTUNF,Clean Seas Seafood Ltd,0.5,FALSE,2010,,1-Feb,16-Apr,3,8
+1073,CLGPF,Clean Seed Capital Group Ltd,0.232500002,TRUE,2012,,,,,
+1074,CLTH,Clean Tech Biofuels Inc,0.01,FALSE,2009,,8-Dec,21-Feb,4,8
+1075,CTEQF,Clean TeQ Holdings Ltd,0.194999993,TRUE,2015,,,,,
+1076,CLNZ,Clean Transportation Group Inc,$0.07 ,TRUE,,No data fetched for symbol CLNZ using YahooDailyReader,,,,
+1077,TSPCF,Cleanaway Waste Management Ltd,1.5,TRUE,2013,,,,,
+1078,CLSK,Cleanspark Inc,8.819999695,TRUE,2016,,,,,
+1079,CCO,Clear Channel Outdoor Holdings Inc,1.25999999,FALSE,2009,,24-Nov,7-Feb,7,5
+1080,CRMLF,Clear Media Ltd,0.920000017,TRUE,2012,,,,,
+1081,CLPE,Clear Peak Energy Inc,0.50999999,TRUE,2012,,,,,
+1082,EMO,ClearBridge Energy Midstream Opportunity Fund Inc,11.22999954,TRUE,2011,,,,,
+1083,CTR,ClearBridge Energy MLP Total Return Fund,12.64000034,TRUE,2012,,,,,
+1084,CLFD,Clearfield Inc,23.03000069,FALSE,2009,,13-May,27-Jul,7,5
+1085,CLIRF,Clearford Water Systems Inc,0.0093,TRUE,2018,,,,,
+1086,CLRO,ClearOne Inc,1.779999971,FALSE,2009,,15-Nov,29-Jan,8,4
+1087,CLPT,ClearPoint Neuro Inc,8.770000458,TRUE,2012,,,,,
+1088,CLSD,Clearside Biomedical Inc,1.649999976,TRUE,2016,,,,,
+1089,CLIR,ClearSign Technologies Corp,2.339999914,TRUE,2012,,,,,
+1090,CTSRF,ClearStar Inc,$0.58 ,TRUE,,No data fetched for symbol CTSRF using YahooDailyReader,,,,
+1091,CSZZF,ClearStar Inc,0.529999971,TRUE,2020,,,,,
+1092,NWPIF,ClearStream Energy Services Inc,0.032000002,TRUE,2018,,,,,
+1093,CLRI,Cleartronic Inc,0.02495,FALSE,2009,,21-Jan,5-Apr,6,6
+1094,CVUEF,ClearVue Technologies Ltd,0.045000002,TRUE,2020,,,,,
+1095,CLW,Clearwater Paper Corp,35.72000122,FALSE,2009,,23-May,6-Aug,5,7
+1096,CSEAF,Clearwater Seafoods Inc,6.210000038,TRUE,2012,,,,,
+1097,CWTC,Clearwave Telecommunications Inc,0.00648,FALSE,2009,,14-Jan,29-Mar,5,7
+1098,CWEN,Clearway Energy Inc,29.85000038,TRUE,2015,,,,,
+1099,CWEN.A,Clearway Energy Inc,$27.85 ,TRUE,,No data fetched for symbol CWEN.A using YahooDailyReader,,,,
+1100,CNL,Cleco Corp,$55.36 ,TRUE,,'Date',,,,
+1101,CLGMF,Cleghorn Minerals Ltd,0.067000002,TRUE,2017,,,,,
+1102,CMTA,Clementia Pharmaceuticals Inc,26.39999962,TRUE,2017,,,,,
+1103,CLIN,Cleopatra International Group Inc,$5.47 ,TRUE,,No data fetched for symbol CLIN using YahooDailyReader,,,,
+1104,BALOF,Clere AG,12,FALSE,2010,,25-Nov,8-Feb,5,6
+1105,CBLI,Cleveland BioLabs Inc,3.150000095,FALSE,2009,,31-Dec,16-Mar,9,3
+1106,CLVMF,Cleveland Mining Co Ltd,$0.05 ,TRUE,,No data fetched for symbol CLVMF using YahooDailyReader,,,,
+1107,CLF,Cleveland-Cliffs Inc,8.5,FALSE,2009,,24-May,7-Aug,5,7
+1108,CLV,Cleveland-Cliffs Inc,$1.43 ,TRUE,,'Date',,,,
+1109,CLCI,CLIC Technology Inc,0.045000002,TRUE,2018,,,,,
+1110,CLCGY,Clicks Group Ltd,33.56000137,FALSE,2010,,20-Oct,3-Jan,5,6
+1111,CLIS,ClickStream Corp,0.0208,TRUE,2012,,,,,
+1112,CSBK,Clifton Bancorp Inc,15.64999962,TRUE,2012,,,,,
+1113,CFTN,Clifton Mining Co,0.149000004,FALSE,2009,,24-Aug,7-Nov,5,7
+1114,CLKA,Clikia Corp,0.800000012,FALSE,2010,,15-Mar,29-May,2,9
+1115,CLMOF,Climeon AB,4.989999771,TRUE,2018,,,,,
+1116,CLIGF,Clinigen Group PLC,7.699999809,TRUE,2012,,,,,
+1117,CGNGY,Clinigen Group PLC,13.25,TRUE,2017,,,,,
+1118,CLNH,Clinigence Holdings Inc,1.299999952,TRUE,2013,,,,,
+1119,CLVLF,Clinuvel Pharmaceuticals Ltd,14.90999985,FALSE,2009,,29-Aug,12-Nov,7,5
+1120,CLVLY,Clinuvel Pharmaceuticals Ltd,15,FALSE,2009,,28-Aug,11-Nov,6,6
+1121,CLPLF,Clipper Logistics PLC,5.099999905,TRUE,2019,,,,,
+1122,CLPR,Clipper Realty Inc,5.690000057,TRUE,2017,,,,,
+1123,CLOEF,Cloetta AB,2.607899904,TRUE,2019,,,,,
+1124,CATI,Clone Algo Technologies Inc,4.050000191,TRUE,2014,,,,,
+1125,CLX,Clorox Co,207.3800049,FALSE,2009,,18-May,1-Aug,10,2
+1126,CBGPF,Close Brothers Group PLC,14.44999981,TRUE,2015,,,,,
+1127,CBGPY,Close Brothers Group PLC,35.84000015,TRUE,2011,,,,,
+1128,CLGUF,Cloud Nine Education Group Ltd,0.059999999,TRUE,2019,,,,,
+1129,CLLLF,Cloudcall Group PLC,1.049999952,TRUE,2012,,,,,
+1130,CLWD,CloudCommerce Inc,0.007,FALSE,2009,,18-Dec,3-Mar,9,3
+1131,CLDR,Cloudera Inc,10.67000008,TRUE,2017,,,,,
+1132,NET,Cloudflare Inc,63.77000046,TRUE,2019,,,,,
+1133,DOCRF,CloudMD Software & Services Inc,2,TRUE,2018,,,,,
+1134,CLOW,Cloudweb Inc,0.299499989,TRUE,2018,,,,,
+1135,GLV,Clough Global Dividend and Income Fund,9.520000458,FALSE,2009,,10-Dec,23-Feb,9,3
+1136,GLQ,Clough Global Equity Fund,12.05000019,FALSE,2009,,10-Dec,23-Feb,9,3
+1137,GLO,Clough Global Opportunities Fund,9.869999886,FALSE,2009,,22-Dec,7-Mar,9,3
+1138,CLOVF,Clover Industries Ltd,1.25,TRUE,2019,,,,,
+1139,CLVFA,Cloverleaf Kennel Club,2,FALSE,2010,,9-Jun,23-Aug,1,10
+1140,CLVS,Clovis Oncology Inc,4.260000229,TRUE,2011,,,,,
+1141,CLPHF,CLP Holdings Ltd,9.390000343,FALSE,2010,,13-Feb,28-Apr,9,2
+1142,CLPHY,CLP Holdings Ltd,9.520000458,FALSE,2009,,1-Feb,16-Apr,9,3
+1143,CLPS,CLPS Inc,2.849999905,TRUE,2018,,,,,
+1144,CLSH,CLS Holdings USA Inc,0.0999,TRUE,2015,,,,,
+1145,CLHI,CLST Holdings Inc,0.197500005,FALSE,2009,,5-Aug,19-Oct,4,8
+1146,CLMDY,Club Mediterranee SA,$5.10 ,TRUE,,'Date',,,,
+1147,MYCC,ClubCorp Holdings Inc,$17.10 ,TRUE,,'Date',,,,
+1148,CMLF,CM Life Sciences Inc,10.30000019,TRUE,2020,,,,,
+1149,CCMMF,CMC Markets PLC,2.589999914,TRUE,2016,,,,,
+1150,CCMP,CMC Materials Inc,135,FALSE,2009,,23-Oct,6-Jan,7,5
+1151,CMCXF,CMC Metals Ltd,0.094800003,FALSE,2010,,23-Dec,8-Mar,6,5
+1152,CME,CME Group Inc,165.9600067,FALSE,2009,,6-Aug,20-Oct,6,6
+1153,CMGO,CMG Holdings Group Inc,0.0064,TRUE,2012,,,,,
+1154,CMICF,CMIC HOLDINGS Co Ltd,12.5,TRUE,2020,,,,,
+1155,CMKI,CMK Gaming International Inc,0.02,FALSE,2009,,14-Apr,28-Jun,5,7
+1156,CMBVF,CMMB Vision Holdings Ltd,$0.03 ,TRUE,,No data fetched for symbol CMBVF using YahooDailyReader,,,,
+1157,CMS,CMS Energy Corp,65.06999969,FALSE,2009,,21-Nov,4-Feb,10,2
+1158,CMUV,CMUV Bancorp,9.399999619,FALSE,2009,,29-Oct,12-Jan,4,8
+1159,CXXMF,CMX Gold & Silver Corp,$0.02 ,TRUE,,No data fetched for symbol CXXMF using YahooDailyReader,,,,
+1160,DRGN,CN Dragon Corp,0.400000006,TRUE,2012,,,,,
+1161,CNRR,Cn Resources Inc,0.039999999,TRUE,2012,,,,,
+1162,CNA,CNA Financial Corp,34.84999847,FALSE,2009,,11-Dec,24-Feb,9,3
+1163,CNBV,"CNB Bancorp, Inc.",4.880000114,TRUE,2012,,,,,
+1164,CNBN,CNB Bancshares Inc,16.39999962,TRUE,2018,,,,,
+1165,CNBB,CNB Community Bancorp Inc,32,TRUE,2017,,,,,
+1166,CNBW,CNB Corp,75.75,TRUE,2012,,,,,
+1167,CNBZ,CNB Corp MI,18.60000038,FALSE,2009,,25-Jun,8-Sep,8,4
+1168,CCNE,CNB Financial Corp,18.47999954,FALSE,2009,,13-May,27-Jul,6,6
+1169,CBFC,CNB Financial Services Inc,45,FALSE,2010,,28-Mar,11-Jun,1,10
+1170,CBFCA,CNB Financial Services Inc,$50.38 ,TRUE,,No data fetched for symbol CBFCA using YahooDailyReader,,,,
+1171,CNF,CNFinance Holdings Ltd,2.910000086,TRUE,2018,,,,,
+1172,CNHI,CNH Industrial NV,10.09000015,TRUE,2013,,,,,
+1173,ALFE,CNK Global Inc,$1.00 ,TRUE,,'Date',,,,
+1174,CNGW,CNL Growth Properties Inc,$0.10 ,TRUE,,'Date',,,,
+1175,CLLY,CNL Lifestyle Properties Inc,$1.65 ,TRUE,,'Date',,,,
+1176,CNLB,CNLBancshares Inc,$7.80 ,TRUE,,No data fetched for symbol CNLB using YahooDailyReader,,,,
+1177,CNO,CNO Financial Group Inc,20.39999962,FALSE,2009,,22-Aug,5-Nov,7,5
+1178,CEO,CNOOC Ltd,110.8499985,FALSE,2009,,26-Aug,9-Nov,4,8
+1179,CEOHF,CNOOC Ltd,0.949999988,FALSE,2009,,23-Aug,6-Nov,5,7
+1180,CNVAF,Cnova NV,2.549999952,TRUE,2014,,,,,
+1181,CNPAF,CNP Assurances,11.75,FALSE,2010,,31-Mar,14-Jun,6,5
+1182,CNPAY,CNP Assurances,6.820000172,TRUE,2012,,,,,
+1183,CEOPF,CNPR Group,0.0105,FALSE,2009,,17-Sep,1-Dec,1,11
+1184,CNSP,CNS Pharmaceuticals Inc,2.119999886,TRUE,2019,,,,,
+1185,CNXM,CNX Midstream Partners LP,9.159999847,TRUE,2014,,,,,
+1186,CNX,CNX Resources Corp,9.920000076,FALSE,2009,,1-Oct,15-Dec,6,6
+1187,CODX,Co-Diagnostics Inc,14.97999954,TRUE,2017,,,,,
+1188,COOBF,Co-operative Bank PLC,$2.26 ,TRUE,,No data fetched for symbol COOBF using YahooDailyReader,,,,
+1189,BLONF,CO2 Gro Inc,0.118500002,TRUE,2016,,,,,
+1190,CTBP,Coast Bancorp,$2.06 ,TRUE,,'Date',,,,
+1191,CABT,Coastal Bank & Trust,5.800000191,TRUE,2018,,,,,
+1192,CBCO,Coastal Banking Co Inc,21.44000053,TRUE,2012,,,,,
+1193,CCNB,Coastal Carolina Bancshares Inc,6.059999943,TRUE,2017,,,,,
+1194,CCB,Coastal Financial Corp,18.13999939,TRUE,2018,,,,,
+1195,COSO,CoastalSouth Bancshares Inc,11,TRUE,2017,,,,,
+1196,CWAY,Coastway Bancorp Inc,28.23999977,TRUE,2014,,,,,
+1197,GPGRF,Coats Group PLC,$1.13 ,TRUE,,No data fetched for symbol GPGRF using YahooDailyReader,,,,
+1198,CGGGF,Coats Group PLC,0.781040013,TRUE,2017,,,,,
+1199,CBLLF,Cobalt 27 Capital Corp,$3.37 ,TRUE,,No data fetched for symbol CBLLF using YahooDailyReader,,,,
+1200,COBCF,Cobalt Blockchain Inc,0.040862001,TRUE,2013,,,,,
+1201,CBBHF,Cobalt Blue Holdings Ltd,0.069880001,TRUE,2018,,,,,
+1202,CIEIQ,Cobalt International Energy Inc,0.032000002,TRUE,2012,,,,,
+1203,BNCIF,CobalTech Mining Inc,$0.24 ,TRUE,,No data fetched for symbol BNCIF using YahooDailyReader,,,,
+1204,CBHMF,Cobham PLC,$2.95 ,TRUE,,No data fetched for symbol CBHMF using YahooDailyReader,,,,
+1205,CBHMY,Cobham PLC,$4.49 ,TRUE,,No data fetched for symbol CBHMY using YahooDailyReader,,,,
+1206,COBZ,CoBiz Financial Inc,22.13999939,TRUE,2012,,,,,
+1207,CBVTF,Cobra Venture Corp,0.029999999,TRUE,2012,,,,,
+1208,COLAY,Coca Cola Icecek AS,$5.49 ,TRUE,,No data fetched for symbol COLAY using YahooDailyReader,,,,
+1209,COLZF,Coca Cola Icecek AS,6.17013979,TRUE,2012,,,,,
+1210,CCLAF,Coca-Cola Amatil Ltd,9.300000191,FALSE,2009,,27-Jan,11-Apr,9,3
+1211,CCLAY,Coca-Cola Amatil Ltd,9.180000305,FALSE,2009,,24-Dec,9-Mar,9,3
+1212,CCOJF,Coca-Cola Bottlers Japan Holdings Inc,20.37000084,TRUE,2012,,,,,
+1213,CCOJY,Coca-Cola Bottlers Japan Holdings Inc,7.829999924,FALSE,2010,,23-Mar,6-Jun,3,8
+1214,KO,Coca-Cola Co,53.45000076,FALSE,2009,,13-May,27-Jul,4,8
+1215,COKE,Coca-Cola Consolidated Inc,258.4700012,FALSE,2009,,20-Sep,4-Dec,7,5
+1216,COJPF,Coca-Cola East Japan Co Ltd,$21.48 ,TRUE,,No data fetched for symbol COJPF using YahooDailyReader,,,,
+1217,CCEP,Coca-Cola European Partners PLC,39.5,FALSE,2009,,22-Dec,7-Mar,9,3
+1218,KOF,Coca-Cola Femsa SAB de CV,45.09000015,FALSE,2009,,5-Mar,19-May,6,6
+1219,COCSF,Coca-Cola Femsa SAB de CV,4.300000191,TRUE,2012,,,,,
+1220,CCHBF,Coca-Cola HBC AG,25.60000038,FALSE,2010,,24-May,7-Aug,8,3
+1221,CCHGY,Coca-Cola HBC AG,29.32999992,TRUE,2013,,,,,
+1222,CHEOF,Cochlear Ltd,160,FALSE,2009,,21-May,4-Aug,6,6
+1223,CHEOY,Cochlear Ltd,83.69999695,FALSE,2010,,14-Nov,28-Jan,6,5
+1224,COCP,Cocrystal Pharma Inc,0.869199991,TRUE,2012,,,,,
+1225,CODA,Coda Octopus Group Inc,5.420000076,TRUE,2013,,,,,
+1226,CODAF,Codan Ltd,5.150000095,TRUE,2012,,,,,
+1227,CCNC,Code Chain New Continent Ltd,1.639999986,TRUE,2015,,,,,
+1228,BKLLF,Codebase Ventures Inc,0.039999999,TRUE,2017,,,,,
+1229,CODEF,Codere SA,2.731090069,TRUE,2013,,,,,
+1230,CDXS,Codexis Inc,15.61999989,FALSE,2010,,25-Nov,8-Feb,7,4
+1231,CDAK,Codiak BioSciences Inc,8.75,TRUE,2020,,,,,
+1232,CDTTF,Codon AG,$2.21 ,TRUE,,No data fetched for symbol CDTTF using YahooDailyReader,,,,
+1233,CVLY,Codorus Valley Bancorp Inc,15.10999966,FALSE,2009,,14-May,28-Jul,9,3
+1234,PPII,Coenzyme A Inc,0.029999999,FALSE,2009,,30-Jun,13-Sep,1,10
+1235,CDLA,Coeur D?Alenes Co,3,TRUE,2012,,,,,
+1236,CDAB,Coeur D'Alene Bancorp,9,TRUE,2018,,,,,
+1237,CDE,Coeur Mining Inc,8.149999619,FALSE,2009,,16-Jun,30-Aug,5,7
+1238,JVA,Coffee Holding Co Inc,3.700000048,FALSE,2009,,28-Mar,11-Jun,8,4
+1239,CFMOF,Cofinimmo SA/NV,$117.75 ,TRUE,,'Date',,,,
+1240,CGEAF,Cogeco Communications Inc,70.22000122,FALSE,2010,,15-May,29-Jul,7,4
+1241,CGECF,Cogeco Inc,59.53900146,TRUE,2012,,,,,
+1242,COGT,Cogent Biosciences Inc,10.76000023,TRUE,2018,,,,,
+1243,CCOI,Cogent Communications Holdings Inc,61.13999939,FALSE,2009,,8-Dec,21-Feb,8,4
+1244,CGNT,Cogentix Medical Inc,3.849999905,TRUE,2012,,,,,
+1245,KROTF,CognaEducacao SA,3.026690006,TRUE,2014,,,,,
+1246,COGNY,CognaEducacao SA,0.970000029,TRUE,2014,,,,,
+1247,CGNSF,Cognetivity Neurosciences Ltd,0.234200001,TRUE,2018,,,,,
+1248,CGNX,Cognex Corp,71.18000031,FALSE,2009,,28-Oct,11-Jan,7,5
+1249,COGV,Cognitiv Inc,0.017999999,FALSE,2009,,24-Dec,9-Mar,4,8
+1250,CTSH,Cognizant Technology Solutions Corp,77.19000244,FALSE,2009,,11-Dec,24-Feb,9,3
+1251,COGZF,Cogstate Ltd,0.754999995,FALSE,2010,,10-Sep,24-Nov,5,6
+1252,CWBR,CohBar Inc,1.090000033,TRUE,2017,,,,,
+1253,COHN,Cohen & Co Inc,18.21999931,FALSE,2009,,21-Dec,6-Mar,7,5
+1254,FOF,Cohen & Steers Closed-end Opp Fd Inc,11.31999969,FALSE,2009,,7-Dec,20-Feb,7,5
+1255,CNS,Cohen & Steers Inc,63.61000061,FALSE,2009,,28-Feb,13-May,8,4
+1256,UTF,Cohen & Steers Infrastructure Fund Inc,26.05999947,FALSE,2009,,22-Nov,5-Feb,7,5
+1257,LDP,Cohen & Steers Ltd Duration Preferred & Income Fun,24.64500046,TRUE,2012,,,,,
+1258,MIE,Cohen & Steers MLP Income & Energy Opportunity Fun,1.970000029,TRUE,2013,,,,,
+1259,RQI,COHEN & STEERS QUALITY INCOME REALTY FUND INC,11.72000027,FALSE,2009,,23-Nov,6-Feb,6,6
+1260,RNP,Cohen & Steers REIT and Preferred Income Fund Inc,21.36000061,FALSE,2009,,12-Dec,25-Feb,7,5
+1261,PSF,Cohen & Steers Select Preferred and Income Fund In,26.15999985,FALSE,2010,,29-Oct,12-Jan,7,4
+1262,RFI,Cohen & Steers Total Return Realty Fund Inc,12.77000046,FALSE,2009,,14-Nov,28-Jan,8,4
+1263,COHR,Coherent Inc,119.5400009,FALSE,2009,,22-Oct,5-Jan,8,4
+1264,CHRS,Coherus BioSciences Inc,17.84000015,TRUE,2014,,,,,
+1265,CRHC,Cohn Robbins Holdings Corp,9.739999771,TRUE,2020,,,,,
+1266,COHU,Cohu Inc,25.77000046,FALSE,2009,,19-Nov,2-Feb,5,7
+1267,CTBG,Coil Tubing Technology Inc,0.0051,TRUE,2012,,,,,
+1268,CMMRF,COIMA RES SpA,$8.71 ,TRUE,,No data fetched for symbol CMMRF using YahooDailyReader,,,,
+1269,MXRSF,Coin Hodl Inc,0.188199997,TRUE,2012,,,,,
+1270,CINGF,Coinsilium Group Ltd,0.026000001,TRUE,2017,,,,,
+1271,CKALF,Cokal Ltd,$0.04 ,TRUE,,No data fetched for symbol CKALF using YahooDailyReader,,,,
+1272,COLFF,Colabor Group Inc,0.670000017,FALSE,2009,,28-Oct,11-Jan,4,8
+1273,COABF,Colas SA,149,TRUE,2016,,,,,
+1274,CCPT,Cole Credit Property Trust IV Inc,7,TRUE,2015,,,,,
+1275,CLEGF,Coles Group Ltd,12.30000019,TRUE,2018,,,,,
+1276,CFX,Colfax Corp,33.81000137,FALSE,2009,,13-Dec,26-Feb,7,5
+1277,CL,Colgate-Palmolive Co,85.36000061,FALSE,2009,,16-May,30-Jul,8,4
+1278,CRUCF,Colibri Resource Corp,0.042300001,FALSE,2009,,2-Jan,17-Mar,7,5
+1279,CLHSF,Collection House Ltd,0.703999996,TRUE,2013,,,,,
+1280,CGRO,Collective Growth Corp,9.800000191,TRUE,2020,,,,,
+1281,CLCT,Collectors Universe Inc,66.79000092,FALSE,2009,,27-Feb,12-May,9,3
+1282,COLL,Collegium Pharmaceutical Inc,19.18000031,TRUE,2015,,,,,
+1283,CIGI,Colliers International Group Inc,80.26000214,FALSE,2009,,16-Dec,1-Mar,9,3
+1284,CLLFF,Collins Foods Ltd,4.699999809,TRUE,2020,,,,,
+1285,CLGN,CollPlant Biotechnologies Ltd,7,TRUE,2018,,,,,
+1286,CERX,Colombia Energy Resources Inc,0.100000001,TRUE,2011,,,,,
+1287,IFSB,Colombo Bank,0.093999997,TRUE,2009,,,,,
+1288,CCARF,Colonial Coal International Corp,0.566600025,TRUE,2011,,,,,
+1289,CMGC,Colonial Mirror & Glass Corp,0.039999999,TRUE,2012,,,,,
+1290,CLA,Colonnade Acquisition Corp,9.649999619,TRUE,2020,,,,,
+1291,CBAN,Colony Bankcorp Inc,13,FALSE,2009,,17-Apr,1-Jul,8,4
+1292,CLNY,Colony Capital Inc,3.980000019,TRUE,2014,,,,,
+1293,CLNC,Colony Credit Real Estate Inc,6.909999847,TRUE,2018,,,,,
+1294,CPLLF,COLOPL Inc,9,TRUE,2015,,,,,
+1295,CLPBF,Coloplast A/S,150.6900024,FALSE,2009,,3-Nov,17-Jan,8,4
+1296,CLPBY,Coloplast A/S,15.35000038,TRUE,2014,,,,,
+1297,CIIG,Color Imaging Inc,0.01,FALSE,2009,,10-Jun,24-Aug,3,9
+1298,CSCW,Color Star Technology Co Ltd,0.53670001,TRUE,2020,,,,,
+1299,CSTU,ColorStars Group,$0.25 ,TRUE,,No data fetched for symbol CSTU using YahooDailyReader,,,,
+1300,CLHLF,Coltene Holding AG,$86.00 ,TRUE,,No data fetched for symbol CLHLF using YahooDailyReader,,,,
+1301,CLCD,CoLucid Pharmaceuticals Inc,$46.53 ,TRUE,,'Date',,,,
+1302,COLB,Columbia Banking System Inc,33.02000046,FALSE,2009,,21-Oct,4-Jan,6,6
+1303,CCHWF,Columbia Care Inc,3.944999933,TRUE,2019,,,,,
+1304,CLBK,Columbia Financial Inc,14.39000034,TRUE,2018,,,,,
+1305,CPGX,Columbia Pipeline Group Inc,$25.49 ,TRUE,,'Date',,,,
+1306,CPPL,Columbia Pipeline Partners LP,$17.15 ,TRUE,,'Date',,,,
+1307,CXP,Columbia Property Trust Inc,12.63000011,TRUE,2013,,,,,
+1308,CRPE,Columbia Rope Co,95,TRUE,2012,,,,,
+1309,STK,Columbia Seligman Premium Technology Growth Fund I,23.90999985,FALSE,2009,,29-Oct,12-Jan,10,2
+1310,COLM,Columbia Sportswear Co,78.33999634,FALSE,2009,,30-Jan,14-Apr,9,3
+1311,TRXO,Columbine Valley Resources Inc,0.039999999,TRUE,2014,,,,,
+1312,COLOF,Columbus A/S,$1.30 ,TRUE,,No data fetched for symbol COLOF using YahooDailyReader,,,,
+1313,CCBK,Columbus Community Bank,$3.00 ,TRUE,,No data fetched for symbol CCBK using YahooDailyReader,,,,
+1314,EMNGF,Columbus Copper Corp,$0.02 ,TRUE,,No data fetched for symbol EMNGF using YahooDailyReader,,,,
+1315,CLMBF,Columbus Energy Ltd,$0.12 ,TRUE,,No data fetched for symbol CLMBF using YahooDailyReader,,,,
+1316,LNGSF,Columbus Energy Resources PLC,$0.03 ,TRUE,,No data fetched for symbol LNGSF using YahooDailyReader,,,,
+1317,CMCO,Columbus McKinnon Corp,36.77999878,FALSE,2009,,24-Sep,8-Dec,4,8
+1318,CDVIF,COM DEV International Ltd,$4.21 ,TRUE,,'Date',,,,
+1319,CMHMY,Com Hem Holding AB,$8.80 ,TRUE,,No data fetched for symbol CMHMY using YahooDailyReader,,,,
+1320,CLVVF,Com Hem Holding AB,$17.50 ,TRUE,,No data fetched for symbol CLVVF using YahooDailyReader,,,,
+1321,CMRO,Comarco Inc,$0.02 ,TRUE,,No data fetched for symbol CMRO using YahooDailyReader,,,,
+1322,COBJF,Comba Telecom Systems Holdings Ltd,0.360000014,TRUE,2014,,,,,
+1323,CBMX,CombiMatrix Corp,$6.25 ,TRUE,,'Date',,,,
+1324,CMCSA,Comcast Corp,49,FALSE,2009,,15-May,29-Jul,8,4
+1325,CMCSK,Comcast Corp,$58.00 ,TRUE,,'Date',,,,
+1326,CDCO,Comdisco Holding Co Inc,$4.55 ,TRUE,,'Date',,,,
+1327,CMPY,Comepay Inc,0.045000002,TRUE,2018,,,,,
+1328,CMA,Comerica Inc,50.47999954,FALSE,2009,,17-Oct,31-Dec,8,4
+1329,COCM,Comerton Corp,0.01302,TRUE,2012,,,,,
+1330,CHLDF,Comet Holding AG,$705.00 ,TRUE,,No data fetched for symbol CHLDF using YahooDailyReader,,,,
+1331,COETF,Comet Industries Ltd,2.380800009,TRUE,2019,,,,,
+1332,COMRF,Comet Ridge Ltd,$0.05 ,TRUE,,No data fetched for symbol COMRF using YahooDailyReader,,,,
+1333,FIX,Comfort Systems USA Inc,50.34000015,FALSE,2009,,9-May,23-Jul,7,5
+1334,CDGLF,ComfortDelGro Corp Ltd,1.129999995,TRUE,2012,,,,,
+1335,CDGLY,ComfortDelGro Corp Ltd,23.28000069,TRUE,2015,,,,,
+1336,CMLEF,Cominar Real Estate Investment Trust,6.380000114,FALSE,2010,,6-Dec,19-Feb,4,7
+1337,KJFI,Comjoyful International Co,0.023,TRUE,2014,,,,,
+1338,MOC,Command Security Corp,$2.85 ,TRUE,,No data fetched for symbol MOC using YahooDailyReader,,,,
+1339,CMDRF,Commander Resources Ltd,0.109980002,FALSE,2009,,30-Dec,15-Mar,8,3
+1340,CBWA,Commencement Bancorp Inc,11.39999962,TRUE,2015,,,,,
+1341,CBSH,Commerce Bancshares Inc,68.76000214,FALSE,2009,,14-May,28-Jul,9,3
+1342,CKTM,Commerce Bank of Temecula Valley CA,$14.15 ,TRUE,,No data fetched for symbol CKTM using YahooDailyReader,,,,
+1343,CGCO,Commerce Group Corp,0.022500001,FALSE,2009,,1-Nov,15-Jan,4,8
+1344,CMRZF,Commerce Resources Corp,0.166659996,TRUE,2012,,,,,
+1345,CHUBA,CommerceHub Inc,22.72999954,TRUE,2016,,,,,
+1346,CHUBK,CommerceHub Inc,$22.74 ,TRUE,,No data fetched for symbol CHUBK using YahooDailyReader,,,,
+1347,CHUBB,CommerceHub Inc,$22.61 ,TRUE,,No data fetched for symbol CHUBB using YahooDailyReader,,,,
+1348,CWBK,CommerceWest Bank,17.89999962,FALSE,2009,,27-Nov,10-Feb,7,5
+1349,CMOH,Commercial Bancshares Inc,$54.00 ,TRUE,,'Date',,,,
+1350,CIBEY,Commercial International Bank (Egypt) SAE,3.970000029,FALSE,2009,,25-May,8-Aug,7,5
+1351,CMGGF,Commercial International Bank (Egypt) SAE,3.900000095,FALSE,2009,,15-Mar,29-May,5,7
+1352,CMC,Commercial Metals Co,20.87000084,FALSE,2009,,2-Oct,16-Dec,6,6
+1353,CEFC,Commercial National Financial Corp (MI),9,FALSE,2009,,22-Jul,5-Oct,2,10
+1354,CNAF,Commercial National Financial Corp (PA),16.89999962,FALSE,2009,,27-Sep,11-Dec,9,3
+1355,CVGI,Commercial Vehicle Group Inc,7.320000172,FALSE,2009,,16-Mar,30-May,5,7
+1356,CRZBF,Commerzbank AG,5.559999943,FALSE,2010,,14-Dec,27-Feb,6,5
+1357,CRZBY,Commerzbank AG,5.889999866,FALSE,2009,,29-Aug,12-Nov,5,7
+1358,CCAQ,Committed Capital Acquisition Corp II,$3.50 ,TRUE,,No data fetched for symbol CCAQ using YahooDailyReader,,,,
+1359,CBAUF,Commonwealth Bank of Australia,52.93000031,FALSE,2009,,8-Oct,22-Dec,7,5
+1360,CBAUY,Commonwealth Bank of Australia,$0.02 ,TRUE,,No data fetched for symbol CBAUY using YahooDailyReader,,,,
+1361,CMWAY,Commonwealth Bank of Australia,53.63000107,FALSE,2010,,10-Oct,24-Dec,7,4
+1362,CWBB,Commonwealth Business Bank,$16.25 ,TRUE,,'Date',,,,
+1363,CWLO,Commonwealth Oil Refining Co. Inc,$9.00 ,TRUE,,'Date',,,,
+1364,CWHPF,Commonwealth Property Office Fund,1.080000043,TRUE,2013,,,,,
+1365,COMM,CommScope Holding Co Inc,10.80000019,TRUE,2013,,,,,
+1366,CMSDF,CommSeed,$8.37 ,TRUE,,No data fetched for symbol CMSDF using YahooDailyReader,,,,
+1367,JCS,Communications Systems Inc,4.349999905,FALSE,2009,,18-May,1-Aug,7,5
+1368,CFST,Communities First Financial Corp,28.39999962,FALSE,2009,,12-Dec,25-Feb,5,7
+1369,CFBN,Community 1st Bancorp,$8.00 ,TRUE,,'Date',,,,
+1370,CMYF,Community 1st Bank Post Falls Idaho,$15.17 ,TRUE,,No data fetched for symbol CMYF using YahooDailyReader,,,,
+1371,CMTV,Community Bancorp Inc,14.39000034,FALSE,2009,,24-May,7-Aug,8,4
+1372,CYSM,Community Bancorp Of Santa Maria,8.880000114,FALSE,2009,,27-Feb,12-May,7,5
+1373,CNUN,Community Bancshares Inc (OH),66,TRUE,2019,,,,,
+1374,CYHT,Community Bank (Pasadena CA),$300.00 ,TRUE,,No data fetched for symbol CYHT using YahooDailyReader,,,,
+1375,CBYAA,Community Bank Of Bay,5.550000191,FALSE,2009,,30-Aug,13-Nov,4,8
+1376,CMTB,Community Bank of Bergen County,$26.60 ,TRUE,,'Date',,,,
+1377,CBKS,Community Bank of South Florida,$13.10 ,TRUE,,'Date',,,,
+1378,CBU,Community Bank System Inc,63.63999939,FALSE,2009,,21-Oct,4-Jan,4,8
+1379,CTYP,Community Bankers Corp,7.489999771,FALSE,2009,,16-Aug,30-Oct,7,5
+1380,ESXB,Community Bankers Trust Corp,6.28000021,FALSE,2009,,11-Dec,24-Feb,7,5
+1381,ALBY,Community Capital Bancshares Inc,11.14999962,FALSE,2009,,18-Dec,3-Mar,7,5
+1382,CFGW,Community Financial Group Inc,30,TRUE,2013,,,,,
+1383,CFOK,Community First Bancorp,5.949999809,FALSE,2009,,5-Jan,20-Mar,9,3
+1384,CMFP,Community First Bancorp Inc,51,TRUE,2012,,,,,
+1385,CFBI,Community First Bancshares Inc,8.25,TRUE,2017,,,,,
+1386,CFHW,Community First Bank Howard County Kokomo IN,$9.00 ,TRUE,,No data fetched for symbol CFHW using YahooDailyReader,,,,
+1387,CFSO,Community First Bank Somerset County New Jersey,$4.90 ,TRUE,,'Date',,,,
+1388,CYH,Community Health Systems Inc,8.199999809,FALSE,2009,,17-Dec,2-Mar,8,4
+1389,CHCT,Community Healthcare Trust Inc,47.36000061,TRUE,2015,,,,,
+1390,CMHF,Community Heritage Financial Inc,16.54999924,TRUE,2012,,,,,
+1391,CIBN,Community Investors Bancorp Inc,18,FALSE,2009,,24-Dec,9-Mar,9,3
+1392,CCSB,Community Savings Bancorp Inc,10.77999973,TRUE,2017,,,,,
+1393,CMYS,Community Service Communications,$0.31 ,TRUE,,'Date',,,,
+1394,CSHB,Community Shores Bank Corp,4.929999828,FALSE,2009,,13-Dec,26-Feb,8,4
+1395,CMUY,Community Southern Bank,$11.57 ,TRUE,,No data fetched for symbol CMUY using YahooDailyReader,,,,
+1396,CTBI,Community Trust Bancorp Inc,34.36000061,FALSE,2009,,13-May,27-Jul,5,7
+1397,CWBC,Community West Bancshares,8.06000042,FALSE,2009,,17-Nov,31-Jan,9,3
+1398,COB,CommunityOne Bancorp,$14.10 ,TRUE,,'Date',,,,
+1399,CVLT,CommVault Systems Inc,44.91999817,FALSE,2009,,18-Jul,1-Oct,5,7
+1400,CODGF,Compagnie de Saint-Gobain SA,46.63999939,FALSE,2010,,31-Mar,14-Jun,7,4
+1401,CODYY,Compagnie de Saint-Gobain SA,9.340000153,TRUE,2018,,,,,
+1402,CFNCF,Compagnie Financiere Tradition SA,115.2060013,FALSE,2010,,27-Mar,10-Jun,1,10
+1403,CBGEF,Compagnie Maritime Belge SA,$13.90 ,TRUE,,No data fetched for symbol CBGEF using YahooDailyReader,,,,
+1404,CMPCY,Compal Electronics Inc,$3.49 ,TRUE,,No data fetched for symbol CMPCY using YahooDailyReader,,,,
+1405,CMPFF,Compal Electronics Inc,3,TRUE,2012,,,,,
+1406,CBD,Companhia Brasileira De Distribuicao,12.64000034,FALSE,2009,,23-Feb,8-May,5,7
+1407,SBS,Companhia De Saneamento Basico Do Estado De Sao Pa,8.149999619,FALSE,2009,,30-Nov,13-Feb,7,5
+1408,SID,Companhia Siderurgica Nacional,3.559999943,FALSE,2009,,19-Aug,2-Nov,4,8
+1409,CDNIF,Compania de Distribucion Integral Logista Holdings,16.77000046,TRUE,2020,,,,,
+1410,CSMQY,Compania de Saneamento de Minas Gerais - COPASA MG,$23.82 ,TRUE,,No data fetched for symbol CSMQY using YahooDailyReader,,,,
+1411,CTBZF,Compania de Transporte de Energia Electrica en Alt,1.017699957,FALSE,2009,,15-Jun,29-Aug,0,12
+1412,CMHFF,Compania Minera Autlan SAB de CV,0.469999999,TRUE,2012,,,,,
+1413,CODI,Compass Diversified Holdings,18.87999916,FALSE,2009,,13-May,27-Jul,6,6
+1414,COGDF,Compass Gold Corp,0.180600002,TRUE,2018,,,,,
+1415,CMPGF,Compass Group PLC,18,TRUE,2012,,,,,
+1416,CMPGY,Compass Group PLC,18.25,FALSE,2009,,10-Dec,23-Feb,8,4
+1417,CMP,Compass Minerals International Inc,61.70999908,FALSE,2009,,9-Aug,23-Oct,6,6
+1418,CMPS,Compass Pathways PLC,35.72999954,TRUE,2020,,,,,
+1419,CGEN,Compugen Ltd,13.48999977,FALSE,2009,,16-Jul,29-Sep,9,3
+1420,CMPUY,CompuGroup Medical SE & Co KgaA,78.5,TRUE,2012,,,,,
+1421,CMPVF,CompuGroup Medical SE & Co KgaA,91.65190125,TRUE,2013,,,,,
+1422,CMPD,CompuMed Inc,0.245000005,FALSE,2009,,9-Dec,22-Feb,7,5
+1423,CUPDF,Compumedics Ltd,$0.16 ,TRUE,,No data fetched for symbol CUPDF using YahooDailyReader,,,,
+1424,CUUCF,Computacenter PLC,$10.78 ,TRUE,,No data fetched for symbol CUUCF using YahooDailyReader,,,,
+1425,CXGEF,Computer And Technologies Holdings Ltd,$0.33 ,TRUE,,'Date',,,,
+1426,CGII,Computer Graphics International Inc,$0.02 ,TRUE,,'Date',,,,
+1427,CMDXF,Computer Modelling Group Ltd,3.518317938,FALSE,2010,,28-Mar,11-Jun,6,5
+1428,CPSI,Computer Programs and Systems Inc,29.65999985,FALSE,2009,,1-Nov,15-Jan,7,5
+1429,CSVI,Computer Services Inc,59.65999985,FALSE,2009,,8-Apr,22-Jun,10,2
+1430,CTG,Computer Task Group Inc,6.190000057,FALSE,2009,,12-Dec,25-Feb,5,7
+1431,CMSQF,Computershare Ltd,9.909999847,FALSE,2009,,30-Sep,14-Dec,7,5
+1432,CMSQY,Computershare Ltd,9.960000038,FALSE,2009,,30-Aug,13-Nov,8,4
+1433,CIX,Compx International Inc,14.09000015,FALSE,2009,,6-Oct,20-Dec,4,8
+1434,SCOR,comScore Inc,2.170000076,FALSE,2009,,3-Nov,17-Jan,6,6
+1435,COMS,ComSovereign Holding Corp,2.299999952,FALSE,2009,,15-Dec,28-Feb,8,4
+1436,CHCI,Comstock Holding Co Inc,2.660000086,FALSE,2009,,17-Dec,2-Mar,8,4
+1437,CMMMF,Comstock Metals Ltd,0.125,TRUE,2012,,,,,
+1438,LODE,Comstock Mining Inc,1.090000033,FALSE,2010,,24-Dec,9-Mar,6,5
+1439,CRK,Comstock Resources Inc,4.920000076,FALSE,2009,,2-Mar,16-May,3,9
+1440,CMSYF,Comsys Holdings Corp,26.25,TRUE,2015,,,,,
+1441,CMTL,Comtech Telecommunications Corp,17.01000023,FALSE,2009,,26-Mar,9-Jun,5,7
+1442,CMTX,Comtex News Network Inc,13,FALSE,2009,,5-Jun,19-Aug,3,9
+1443,COMX,Comtrex Systems Corp,9.100000381,TRUE,2012,,,,,
+1444,CMTUF,Comture Corp,25.5,TRUE,2020,,,,,
+1445,CBCZ,Comunibanc Corp,25.5,FALSE,2009,,26-May,9-Aug,7,5
+1446,CVNZF,Comvita Ltd,1.889999986,TRUE,2012,,,,,
+1447,CNW,Con-way Inc,$47.55 ,TRUE,,'Date',,,,
+1448,NBZZF,Cona Resources Ltd,$1.99 ,TRUE,,No data fetched for symbol NBZZF using YahooDailyReader,,,,
+1449,CAG,Conagra Brands Inc,36.02999878,FALSE,2009,,8-Feb,23-Apr,8,4
+1450,CNGA,Conair Corp,0.850000024,FALSE,2009,,31-Aug,14-Nov,4,8
+1451,CNAT,Conatus Pharmaceuticals Inc,$0.56 ,TRUE,,No data fetched for symbol CNAT using YahooDailyReader,,,,
+1452,CNIN,Conbraco Industries Inc,$168.00 ,TRUE,,'Date',,,,
+1453,CCNTF,Concentric AB,12.57999992,TRUE,2012,,,,,
+1454,CNCE,Concert Pharmaceuticals Inc,11.01000023,TRUE,2014,,,,,
+1455,CXO,Concho Resources Inc,51.22000122,FALSE,2009,,7-Dec,20-Feb,7,5
+1456,CNCG,Concierge Technologies Inc,0.750999987,FALSE,2009,,28-Dec,13-Mar,10,2
+1457,CCM,Concord Medical Services Holdings Ltd,2.309999943,FALSE,2009,,25-Aug,8-Nov,5,7
+1458,CWPWF,Concord New Energy Group Ltd,0.066,FALSE,2010,,21-May,4-Aug,5,6
+1459,CGAM,Concorde Gaming Corp,0.0059,FALSE,2009,,10-Apr,24-Jun,1,10
+1460,CRDIY,Concordia Financial Group Ltd,11.30000019,TRUE,2019,,,,,
+1461,CCRDF,Concordia Financial Group Ltd,3.049999952,TRUE,2018,,,,,
+1462,CNGI,Concordis Group Inc,0.079999998,FALSE,2009,,25-Nov,8-Feb,4,8
+1463,CLEV,Concrete Leveling Systems Inc,3,FALSE,2010,,7-Feb,22-Apr,6,5
+1464,BBCP,Concrete Pumping Holdings Inc,3.569999933,TRUE,2017,,,,,
+1465,CNDGF,Condor Gold PLC,0.537999988,FALSE,2010,,15-Nov,29-Jan,4,7
+1466,CDOR,Condor Hospitality Trust Inc,3.119999886,FALSE,2009,,30-Nov,13-Feb,7,5
+1467,CNPRF,Condor Petroleum Inc,0.361999989,TRUE,2012,,,,,
+1468,CNRIF,Condor Resources Inc,0.178770006,FALSE,2009,,1-Dec,14-Feb,5,7
+1469,CNDT,Conduent Inc,3.910000086,TRUE,2016,,,,,
+1470,CNCPF,Conduit Capital Ltd,0.02,TRUE,2015,,,,,
+1471,CNDUF,Conduril - Engenharia SA,$77.10 ,TRUE,,No data fetched for symbol CNDUF using YahooDailyReader,,,,
+1472,CFMS,Conformis Inc,0.660099983,TRUE,2015,,,,,
+1473,CNRB,Congaree Bancshares Inc,$8.00 ,TRUE,,No data fetched for symbol CNRB using YahooDailyReader,,,,
+1474,CONXF,Conic Metals Corp,0.2104,TRUE,2019,,,,,
+1475,CNFR,Conifer Holdings Inc,2.660000086,TRUE,2015,,,,,
+1476,CFXTF,Conifex Timber Inc,0.947290003,TRUE,2013,,,,,
+1477,CNHA,Conihasset Captial Partners Inc,0.008,TRUE,2012,,,,,
+1478,CCHXF,ConjuChem Biotechnologies Inc,$1.29 ,TRUE,,No data fetched for symbol CCHXF using YahooDailyReader,,,,
+1479,CNMD,Conmed Corp,95.09999847,FALSE,2009,,28-Oct,11-Jan,7,5
+1480,CONN,Conn's Inc,10.01000023,FALSE,2009,,29-Mar,12-Jun,5,7
+1481,CRCA,Connecticut River Community Bank,10.10000038,TRUE,2012,,,,,
+1482,CTWS,Connecticut Water Service Inc,$69.98 ,TRUE,,No data fetched for symbol CTWS using YahooDailyReader,,,,
+1483,CNOB,ConnectOne Bancorp Inc,17.36000061,FALSE,2009,,21-Oct,4-Jan,6,6
+1484,CNXR,Connecture Inc,0.344999999,TRUE,2014,,,,,
+1485,CTYX,Connectyx Technologies Holdings Group Inc,0.028999999,FALSE,2009,,14-Nov,28-Jan,6,6
+1486,CNNO,Connohio Inc,$1.01 ,TRUE,,'Date',,,,
+1487,COP,ConocoPhillips,35.36000061,FALSE,2009,,12-Sep,26-Nov,5,7
+1488,CQRLF,Conquest Resources Ltd,0.150000006,FALSE,2009,,27-Oct,10-Jan,5,7
+1489,CNRD,Conrad Industries Inc,13,FALSE,2009,,17-Jul,30-Sep,6,6
+1490,CGDNF,Conroy Gold and Natural Resources PLC,0.5,TRUE,2017,,,,,
+1491,CCR,CONSOL Coal Resources LP,3.160000086,TRUE,2015,,,,,
+1492,CEIX,CONSOL Energy Inc,4.489999771,TRUE,2017,,,,,
+1493,CNSL,Consolidated Communications Holdings Inc,5.28000021,FALSE,2009,,25-May,8-Aug,8,4
+1494,ED,Consolidated Edison Inc,81.62999725,FALSE,2009,,26-May,9-Aug,5,7
+1495,CGEM,Consolidated Gems Inc,$0.02 ,TRUE,,No data fetched for symbol CGEM using YahooDailyReader,,,,
+1496,CSPT,Consolidated Plentech Electronics Inc,$0.01 ,TRUE,,'Date',,,,
+1497,CSGU,Consolidated Sports Media Group,0.015,FALSE,2009,,20-May,3-Aug,1,11
+1498,CWCO,Consolidated Water Co Ltd,11.18000031,FALSE,2009,,13-Dec,26-Feb,6,6
+1499,CWMCF,Consolidated Woodjam Copper Corp,0.200000003,TRUE,2013,,,,,
+1500,CNRFF,Consorcio Ara SAB de CV,0.125,TRUE,2012,,,,,
+1501,CSRMF,Consort Medical PLC,$13.91 ,TRUE,,No data fetched for symbol CSRMF using YahooDailyReader,,,,
+1502,CSRMY,Consort Medical PLC,$10.80 ,TRUE,,'Date',,,,
+1503,CTCT,Constant Contact Inc,$32.01 ,TRUE,,'Date',,,,
+1504,CNSNF,Constantine Metal Resources Ltd,0.140000001,FALSE,2010,,20-Dec,5-Mar,6,5
+1505,STZ,Constellation Brands Inc,202.0099945,FALSE,2009,,7-Aug,21-Oct,8,4
+1506,STZ.B,Constellation Brands Inc,$199.20 ,TRUE,,'Date',,,,
+1507,CNST,Constellation Pharmaceuticals Inc,21,TRUE,2018,,,,,
+1508,CNSWF,Constellation Software Inc,1145.160034,FALSE,2009,,19-Dec,4-Mar,8,4
+1509,CCPTF,Constellation Technologies Ltd,$0.01 ,TRUE,,No data fetched for symbol CCPTF using YahooDailyReader,,,,
+1510,CSTM,Constellium SE,11.30000019,TRUE,2013,,,,,
+1511,ROAD,Construction Partners Inc,22.55999947,TRUE,2018,,,,,
+1512,CNSZF,Consultatio SA,$2.52 ,TRUE,,No data fetched for symbol CNSZF using YahooDailyReader,,,,
+1513,CAFI,Consumer Automotive Finance Inc,0.079999998,TRUE,2012,,,,,
+1514,CCGN,Consumer Capital Group Inc,2.230000019,TRUE,2011,,,,,
+1515,CPSS,Consumer Portfolio Services Inc,3.49000001,FALSE,2009,,25-Nov,8-Feb,5,7
+1516,CBKM,Consumers Bancorp Inc,17,FALSE,2009,,17-Apr,1-Jul,9,3
+1517,COENF,Contact Energy Ltd,5.5,FALSE,2010,,13-Aug,27-Oct,6,5
+1518,CGOL,Contact Gold Corp,0.104900002,TRUE,2018,,,,,
+1519,KSMRF,Contagious Gaming Inc,0.033399999,TRUE,2014,,,,,
+1520,MCF,Contango Oil & Gas Co,1.350000024,FALSE,2009,,13-Dec,26-Feb,5,7
+1521,CTGO,Contango Ore Inc,14,FALSE,2010,,5-Jul,18-Sep,5,6
+1522,CNCK,Content Checked Holdings Inc,$0.05 ,TRUE,,'Date',,,,
+1523,CTTAF,Continental AG,124.2900009,FALSE,2010,,1-Sep,15-Nov,6,5
+1524,CTTAY,Continental AG,12.71000004,FALSE,2009,,16-Feb,1-May,8,4
+1525,CBBB,Continental Beverage Brands Corp,0.108800001,TRUE,2011,,,,,
+1526,CBPX,Continental Building Products Inc,$36.99 ,TRUE,,No data fetched for symbol CBPX using YahooDailyReader,,,,
+1527,CGFAF,Continental Coal Ltd,$0.03 ,TRUE,,No data fetched for symbol CGFAF using YahooDailyReader,,,,
+1528,CPPXF,Continental Energy Corp,0.0121,FALSE,2009,,2-Jan,17-Mar,9,3
+1529,CGOOF,Continental Gold Inc,$4.11 ,TRUE,,No data fetched for symbol CGOOF using YahooDailyReader,,,,
+1530,CUO,Continental Materials Corp,$8.63 ,TRUE,,No data fetched for symbol CUO using YahooDailyReader,,,,
+1531,CTLR,Continental Resources,$815.00 ,TRUE,,No data fetched for symbol CTLR using YahooDailyReader,,,,
+1532,CLR,Continental Resources Inc,13.96000004,FALSE,2009,,24-Jan,8-Apr,7,5
+1533,CFRX,ContraFect Corp,5.579999924,TRUE,2014,,,,,
+1534,DIGM,Control Chief Holdings Inc,$80.00 ,TRUE,,No data fetched for symbol DIGM using YahooDailyReader,,,,
+1535,CTRL,Control4 Corp,$23.91 ,TRUE,,No data fetched for symbol CTRL using YahooDailyReader,,,,
+1536,CDCUF,Controladora Comercial Mexicana SAB de CV,$1.75 ,TRUE,,'Date',,,,
+1537,VLRS,Controladora Vuela Compania de Aviacion SAB de CV,9.600000381,TRUE,2013,,,,,
+1538,CTTRF,Controladora Vuela Compania de Aviacion SAB de CV,0.460299999,TRUE,2018,,,,,
+1539,CTRA,Contura Energy Inc,8.31000042,TRUE,2016,,,,,
+1540,CNVVY,ConvaTec Group PLC,10.73999977,TRUE,2017,,,,,
+1541,CNVVF,ConvaTec Group PLC,2.400000095,TRUE,2017,,,,,
+1542,CTSDF,Converge Technology Solutions Corp,2.480000019,TRUE,2019,,,,,
+1543,CVON,ConvergeOne Holdings Inc,12.43999958,TRUE,2017,,,,,
+1544,CVG,Convergys Corp,24.40999985,TRUE,2009,,,,,
+1545,CVLB,Conversion Labs Inc,5.519999981,FALSE,2009,,29-Jun,12-Sep,5,7
+1546,CWRIF,Conwert Immobilien Invest SE,$20.65 ,TRUE,,No data fetched for symbol CWRIF using YahooDailyReader,,,,
+1547,CWPS,Conwest Associates LP,16,FALSE,2009,,28-Feb,13-May,9,3
+1548,CPAA,Conyers Park II Acquisition Corp,8.859999657,TRUE,2019,,,,,
+1549,CKPDY,Cookpad Inc,3.539999962,TRUE,2016,,,,,
+1550,CPADF,Cookpad Inc,3.549999952,TRUE,2014,,,,,
+1551,COLCF,Cool Chips PLC,0.237949997,TRUE,2012,,,,,
+1552,WARM,Cool Technologies Inc,0.0119,FALSE,2010,,25-Jan,9-Apr,8,3
+1553,CHWTF,Coolpad Group Ltd,0.023,FALSE,2009,,29-Oct,12-Jan,5,7
+1554,CHWTY,Coolpad Group Ltd,$3.39 ,TRUE,,No data fetched for symbol CHWTY using YahooDailyReader,,,,
+1555,COPJF,Cooper Energy Ltd,0.270000011,FALSE,2010,,26-Feb,11-May,3,8
+1556,CTB,Cooper Tire & Rubber Co,40.22999954,FALSE,2009,,22-Sep,6-Dec,6,6
+1557,CPS,Cooper-Standard Holdings Inc,34.20000076,FALSE,2010,,19-Nov,2-Feb,5,6
+1558,CTK,CooTek (Cayman) Inc,4.679999828,TRUE,2018,,,,,
+1559,CPA,Copa Holdings SA,72.08000183,FALSE,2009,,25-Sep,9-Dec,7,5
+1560,CPRT,Copart Inc,117.7099991,FALSE,2009,,27-Oct,10-Jan,8,4
+1561,ISSFF,CopAur Minerals Inc,0.160600007,TRUE,2012,,,,,
+1562,CPNCF,Copeinca ASA,$10.79 ,TRUE,,No data fetched for symbol CPNCF using YahooDailyReader,,,,
+1563,CPFXF,Copper Fox Metals Inc,0.093900003,FALSE,2009,,3-Dec,16-Feb,5,7
+1564,WTCZF,Copper Lake Resources Ltd,0.0155,TRUE,2017,,,,,
+1565,CPPMF,Copper Mountain Mining Corp,0.876699984,FALSE,2009,,1-Oct,15-Dec,5,7
+1566,CPNVF,Copper North Mining Corp,0.041999999,TRUE,2011,,,,,
+1567,CPPKF,Copperbank Resources Corp,0.142399997,TRUE,2015,,,,,
+1568,CLHRF,Coral Gold Resources Ltd,0.844699979,FALSE,2009,,8-Aug,22-Oct,7,5
+1569,CSNVF,Corbion NV,47,TRUE,2014,,,,,
+1570,CSNVY,Corbion NV,48.84999847,TRUE,2011,,,,,
+1571,CRBP,Corbus Pharmaceuticals Holdings Inc,1.279999971,TRUE,2014,,,,,
+1572,CBYDF,Corby Spirit and Wine Ltd,11.41499996,TRUE,2012,,,,,
+1573,CRBBF,Corby Spirit and Wine Ltd,10.55000019,TRUE,2013,,,,,
+1574,CORT,Corcept Therapeutics Inc,18.09000015,FALSE,2009,,1-Sep,15-Nov,5,7
+1575,BVA,Cordia Bancorp Inc,$5.15 ,TRUE,,'Date',,,,
+1576,CORG,Cordia Corp,0.149000004,FALSE,2009,,22-Dec,7-Mar,4,8
+1577,CLIFF,Cordlife Group Ltd,0.239999995,TRUE,2013,,,,,
+1578,CDBMF,Cordoba Minerals Corp,0.074000001,TRUE,2014,,,,,
+1579,LVRLF,CordovaCann Corp,0.189999998,TRUE,2018,,,,,
+1580,CKKFF,Cordy Oilfield Services Inc,$0.01 ,TRUE,,No data fetched for symbol CKKFF using YahooDailyReader,,,,
+1581,CGLDF,Core Gold Inc,$0.10 ,TRUE,,No data fetched for symbol CGLDF using YahooDailyReader,,,,
+1582,CLB,Core Laboratories NV,18.37999916,FALSE,2009,,31-Jan,15-Apr,7,5
+1583,CORX,Core Lithium Corp,0.199000001,TRUE,2012,,,,,
+1584,CXOXF,Core Lithium Ltd,0.039999999,TRUE,2019,,,,,
+1585,CMT,Core Molding Technologies Inc,10.38000011,FALSE,2009,,18-Apr,2-Jul,6,6
+1586,CLABF,Core One Labs Inc,0.532500029,TRUE,2015,,,,,
+1587,CORE,Core-Mark Holding Co Inc,34.66999817,FALSE,2009,,14-May,28-Jul,4,8
+1588,CXW,CoreCivic Inc,6.599999905,FALSE,2009,,12-Dec,25-Feb,7,5
+1589,CLGX,CoreLogic Inc,77.87000275,FALSE,2009,,11-Dec,24-Feb,10,2
+1590,CORR,CorEnergy Infrastructure Trust Inc,4.75,FALSE,2009,,15-Dec,28-Feb,7,5
+1591,NASRY,Coreo AG,$0.16 ,TRUE,,No data fetched for symbol NASRY using YahooDailyReader,,,,
+1592,CPLG,CorePoint Lodging Inc,5.769999981,TRUE,2018,,,,,
+1593,CRREF,Corero Network Security PLC,$0.10 ,TRUE,,No data fetched for symbol CRREF using YahooDailyReader,,,,
+1594,COR,CoreSite Realty Corp,128.8699951,FALSE,2010,,8-Mar,22-May,7,4
+1595,CGEKF,Corex Gold Corp,0.119000003,TRUE,2017,,,,,
+1596,CGRT,CorGreen Technologies Holding Corp,4.050000191,TRUE,2019,,,,,
+1597,CMNFY,Corimon CA Saca,305,TRUE,2019,,,,,
+1598,CVRS,Corindus Vascular Robotics Inc,$4.27 ,TRUE,,No data fetched for symbol CVRS using YahooDailyReader,,,,
+1599,CORI,Corium International Inc,12.68000031,TRUE,2014,,,,,
+1600,CXBS,Corix Bioscience Inc,0.0195,TRUE,2012,,,,,
+1601,CRMD,Cormedix Inc,5.690000057,FALSE,2010,,8-Dec,21-Feb,7,4
+1602,CTOT,Cornerstone Bancorp,$11.65 ,TRUE,,'Date',,,,
+1603,CZRT,Cornerstone Bancorp Inc,$8.00 ,TRUE,,No data fetched for symbol CZRT using YahooDailyReader,,,,
+1604,CNBP,Cornerstone Bancorp Inc,60,TRUE,2019,,,,,
+1605,CNR,Cornerstone Building Brands Inc,7.960000038,FALSE,2009,,30-Oct,13-Jan,5,7
+1606,CTNXF,Cornerstone Capital Resources Inc,4.550000191,FALSE,2009,,20-Aug,3-Nov,5,7
+1607,CRSB,Cornerstone Community Bancorp,15.14999962,FALSE,2009,,18-Dec,3-Mar,7,5
+1608,CFIC,Cornerstone Financial Corp,6.800000191,FALSE,2009,,17-Mar,31-May,5,7
+1609,CSOD,Cornerstone OnDemand Inc,40.89500046,TRUE,2011,,,,,
+1610,CLM,Cornerstone Strategic Value Fund Inc,11.14000034,FALSE,2009,,28-Feb,13-May,8,4
+1611,CRF,Cornerstone Total Return Fund Inc,11.01000023,FALSE,2009,,28-Feb,13-May,9,3
+1612,GLW,Corning Inc,35.83000183,FALSE,2009,,31-Oct,14-Jan,8,4
+1613,CNIG,Corning Natural Gas Holding Corp,15.5,TRUE,2011,,,,,
+1614,SBWFF,Cornish Metals Inc,0.050000001,FALSE,2009,,4-Dec,17-Feb,7,5
+1615,CGLO,Coro Global Inc,4.699999809,TRUE,2012,,,,,
+1616,CODQL,Coronado Global Resources Inc,0.644400001,TRUE,2020,,,,,
+1617,COFUF,Coronation Fund Managers Ltd,2.799999952,TRUE,2015,,,,,
+1618,CRNSF,Coronus Solar Inc,$0.02 ,TRUE,,No data fetched for symbol CRNSF using YahooDailyReader,,,,
+1619,CAAP,Corporacion America Airports SA,2.730000019,TRUE,2018,,,,,
+1620,CRPFY,Corporacion Financiera Colombiana SA,$8.83 ,TRUE,,No data fetched for symbol CRPFY using YahooDailyReader,,,,
+1621,CVGEF,Corporacion Geo SAB de CV,0.045000002,TRUE,2015,,,,,
+1622,VESTF,Corporacion Inmobiliaria Vesta SAB de CV,1.850000024,TRUE,2013,,,,,
+1623,CIEZF,Corporacion Interamericana de Entretenimiento SAB,0.210899994,TRUE,2012,,,,,
+1624,CMZOF,Corporacion Moctezuma SAB de CV,$2.70 ,TRUE,,No data fetched for symbol CMZOF using YahooDailyReader,,,,
+1625,CCT,Corporate Capital Trust Inc,12.35000038,TRUE,2017,,,,,
+1626,OFC,Corporate Office Properties Trust,25.57999992,FALSE,2009,,13-Dec,26-Feb,8,4
+1627,CPPY,Corporate Property Associates 17 - Global Inc,8.5,TRUE,2014,,,,,
+1628,CTMLF,Corporate Travel Management Ltd,14.56999969,TRUE,2014,,,,,
+1629,COUV,Corporate Universe Inc,0.0107,TRUE,2012,,,,,
+1630,CPVBF,Corporativo GBM SAB de CV,$0.44 ,TRUE,,No data fetched for symbol CPVBF using YahooDailyReader,,,,
+1631,CRPVF,Corpovael SA de CV,$0.78 ,TRUE,,No data fetched for symbol CRPVF using YahooDailyReader,,,,
+1632,CORV,Correvio Pharma Corp,$0.42 ,TRUE,,No data fetched for symbol CORV using YahooDailyReader,,,,
+1633,CRSXF,Corsa Coal Corp,0.166999996,FALSE,2010,,8-Dec,21-Feb,2,9
+1634,CRSR,Corsair Gaming Inc,29.18000031,TRUE,2020,,,,,
+1635,CPROF,Cortelco Systems Puerto Rico Inc,0.5,FALSE,2009,,10-Jul,23-Sep,6,6
+1636,CTVA,Corteva Inc,36.00999832,TRUE,2019,,,,,
+1637,CTPNF,Cortex Business Solutions Inc,$3.39 ,TRUE,,No data fetched for symbol CTPNF using YahooDailyReader,,,,
+1638,CRTX,Cortexyme Inc,48.22000122,TRUE,2019,,,,,
+1639,COTZ,Cortez Community Bank,$0.01 ,TRUE,,No data fetched for symbol COTZ using YahooDailyReader,,,,
+1640,CLDB,Cortland Bancorp,14.46000004,FALSE,2009,,24-Dec,9-Mar,10,2
+1641,CJREF,Corus Entertainment Inc,3.119999886,FALSE,2009,,26-Oct,9-Jan,6,6
+1642,CRVL,CorVel Corp,91.77999878,FALSE,2009,,19-Oct,2-Jan,7,5
+1643,KOR,Corvus Gold Inc,2.559999943,TRUE,2016,,,,,
+1644,CRVS,Corvus Pharmaceuticals Inc,4.130000114,TRUE,2016,,,,,
+1645,CZZ,Cosan Ltd,17.32999992,FALSE,2009,,1-Oct,15-Dec,6,6
+1646,CITAF,COSCO SHIPPING Development Co Ltd,0.150000006,TRUE,2012,,,,,
+1647,CITAY,COSCO SHIPPING Development Co Ltd,5.150000095,TRUE,2012,,,,,
+1648,CSDXF,COSCO SHIPPING Energy Transportation Co Ltd,0.469999999,FALSE,2010,,11-Oct,25-Dec,7,4
+1649,CSDXY,COSCO SHIPPING Energy Transportation Co Ltd,$27.17 ,TRUE,,'Date',,,,
+1650,CICOY,COSCO SHIPPING Holdings Co Ltd,3.75,FALSE,2010,,11-Dec,24-Feb,5,6
+1651,CICOF,COSCO SHIPPING Holdings Co Ltd,0.778999984,FALSE,2009,,30-Jun,13-Sep,6,6
+1652,CHDGF,COSCO SHIPPING International (Hong Kong) Co Ltd,0.31400001,TRUE,2014,,,,,
+1653,COIVF,COSCO Shipping International (Singapore) Co Ltd,$0.14 ,TRUE,,No data fetched for symbol COIVF using YahooDailyReader,,,,
+1654,CSCMY,COSCO Shipping International (Singapore) Co Ltd,0.800000012,FALSE,2009,,1-Mar,15-May,4,8
+1655,CSPKF,COSCO SHIPPING Ports Ltd,0.699999988,TRUE,2012,,,,,
+1656,CSPKY,COSCO SHIPPING Ports Ltd,7.25,TRUE,2014,,,,,
+1657,HSSHF,Cosigo Resources Ltd,0.140000001,TRUE,2020,,,,,
+1658,COSN,CoSine Communications Inc,$4.38 ,TRUE,,'Date',,,,
+1659,CMOOF,Cosmo Oil Co Ltd,$1.35 ,TRUE,,No data fetched for symbol CMOOF using YahooDailyReader,,,,
+1660,CMOOY,Cosmo Oil Co Ltd,$6.54 ,TRUE,,No data fetched for symbol CMOOY using YahooDailyReader,,,,
+1661,CMOPF,Cosmo Pharmaceuticals NV,89.19999695,TRUE,2017,,,,,
+1662,COSG,Cosmos Group Holdings Inc,1.090000033,TRUE,2012,,,,,
+1663,COSM,Cosmos Holdings Inc,4.699999809,FALSE,2010,,27-Sep,11-Dec,3,8
+1664,CTTQF,Costa Group Holdings Ltd,2.519999981,TRUE,2017,,,,,
+1665,CSGQF,Costain Group PLC,0.689999998,TRUE,2015,,,,,
+1666,CMRE,Costamare Inc,6.380000114,FALSE,2010,,28-Mar,11-Jun,8,3
+1667,CSGP,CoStar Group Inc,917.0800171,FALSE,2009,,30-Oct,13-Jan,9,3
+1668,CSTI,Costar Technologies Inc,6.889999866,FALSE,2009,,18-Apr,2-Jul,4,8
+1669,CSSI,Costas Inc,0.0188,FALSE,2009,,6-Dec,19-Feb,1,11
+1670,COST,Costco Wholesale Corp,378.8399963,FALSE,2009,,27-Jun,10-Sep,8,4
+1671,COTQF,Cotinga Pharmaceuticals Inc,0.155000001,FALSE,2009,,13-Jan,28-Mar,5,7
+1672,COTV,Cotiviti Holdings Inc,44.74000168,TRUE,2016,,,,,
+1673,COTY,Coty Inc,4.789999962,TRUE,2013,,,,,
+1674,CGRH,Cougar Holdings Inc,$0.25 ,TRUE,,'Date',,,,
+1675,CPAH,CounterPath Corp,2.74000001,FALSE,2009,,23-Dec,8-Mar,9,3
+1676,CYHC,Country Bank Holding Co Inc,"$50,000.00 ",TRUE,,No data fetched for symbol CYHC using YahooDailyReader,,,,
+1677,CCVAJ,Country Club Virginia Inc,25000,TRUE,2012,,,,,
+1678,CTRYF,Country Garden Holdings Co Ltd,1.49000001,FALSE,2009,,2-Apr,16-Jun,6,6
+1679,CTRYY,Country Garden Holdings Co Ltd,31.60000038,TRUE,2013,,,,,
+1680,CTRGF,Country Garden Services Holdings Co Ltd,6.400000095,TRUE,2019,,,,,
+1681,CCSC,Country Style Cooking Restaurant Chain Co Ltd,$5.17 ,TRUE,,'Date',,,,
+1682,CWID,Country Wide Insurance Co,53,TRUE,2012,,,,,
+1683,CUSPY,Countryside Properties PLC,13.10000038,TRUE,2019,,,,,
+1684,CSPLF,Countryside Properties PLC,5.449999809,TRUE,2020,,,,,
+1685,CTYWY,Countrywide PLC,2.049999952,TRUE,2014,,,,,
+1686,CYWDF,Countrywide PLC,1.720000029,TRUE,2016,,,,,
+1687,ICBK,County Bancorp Inc,19.70999908,TRUE,2015,,,,,
+1688,CBNC,County Bank Corp,$58.50 ,TRUE,,No data fetched for symbol CBNC using YahooDailyReader,,,,
+1689,CNYB,County Commerce Bank,$16.50 ,TRUE,,'Date',,,,
+1690,CUMD,County First Bank,$36.55 ,TRUE,,'Date',,,,
+1691,CYLC,County Line Energy Corp,0.0612,TRUE,2018,,,,,
+1692,COUP,Coupa Software Inc,287.0700073,TRUE,2016,,,,,
+1693,CUZ,Cousins Properties Inc,31.54000092,FALSE,2009,,7-Apr,21-Jun,6,6
+1694,CVALF,Covalon Technologies Ltd,0.839999974,FALSE,2009,,23-Nov,6-Feb,5,7
+1695,CVA,Covanta Holding Corp,11.38000011,FALSE,2009,,28-Apr,12-Jul,4,8
+1696,CVLG,Covenant Logistics Group Inc,16.20000076,FALSE,2009,,13-Dec,26-Feb,7,5
+1697,MGPRD,Cover Technologies Inc,0.372000009,TRUE,2020,,,,,
+1698,CVVTF,Covestro AG,51.40000153,TRUE,2017,,,,,
+1699,COVTY,Covestro AG,26.12999916,TRUE,2016,,,,,
+1700,CVET,Covetrus Inc,25.21999931,TRUE,2019,,,,,
+1701,CVIAQ,Covia Holdings Corp,0.0075,TRUE,2018,,,,,
+1702,COVS,Covisint Corp,$2.45 ,TRUE,,'Date',,,,
+1703,CVST,Covista Communications Inc,0.007,TRUE,2012,,,,,
+1704,GSEFF,Covivio SA,63.07540131,TRUE,2013,,,,,
+1705,COWN,Cowen Inc,22.47999954,FALSE,2009,,19-May,2-Aug,5,7
+1706,CPPCY,CP All PCL,22.69000053,TRUE,2013,,,,,
+1707,CVPBF,CP All PCL,1.799999952,TRUE,2012,,,,,
+1708,CVPUF,CP All PCL,2.049999952,TRUE,2012,,,,,
+1709,CPL,CPFL Energia SA,$17.36 ,TRUE,,No data fetched for symbol CPL using YahooDailyReader,,,,
+1710,CVU,CPI Aerostructures Inc,2.529999971,FALSE,2009,,26-Oct,9-Jan,4,8
+1711,PMTS,CPI Card Group Inc,3.900000095,TRUE,2015,,,,,
+1712,CPICQ,CPI Corp,0.0056,TRUE,2012,,,,,
+1713,ORPGF,CPI FIM SA,0.140000001,TRUE,2019,,,,,
+1714,CPGLF,CPL Resources PLC,9.076399803,FALSE,2009,,4-Sep,18-Nov,6,6
+1715,CPGPY,CPP Group PLC,$762.00 ,TRUE,,No data fetched for symbol CPGPY using YahooDailyReader,,,,
+1716,CPSH,CPS Technologies Corp,1.720000029,FALSE,2009,,9-Dec,22-Feb,6,6
+1717,CGORF,CR Capital Corp,$0.05 ,TRUE,,No data fetched for symbol CGORF using YahooDailyReader,,,,
+1718,CREIY,CR2 Empreendimentos Imobiliarios SA,$34.98 ,TRUE,,No data fetched for symbol CREIY using YahooDailyReader,,,,
+1719,CRAI,CRA International Inc,44.77000046,FALSE,2009,,2-Oct,16-Dec,9,3
+1720,CBRL,Cracker Barrel Old Country Store Inc,129.7299957,FALSE,2009,,20-Feb,5-May,6,6
+1721,BREW,Craft Brew Alliance Inc,16.51000023,FALSE,2009,,3-Apr,17-Jun,6,6
+1722,CRGWF,Craig Wireless Systems Ltd,$0.03 ,TRUE,,No data fetched for symbol CRGWF using YahooDailyReader,,,,
+1723,CR,Crane Co,61.43000031,FALSE,2009,,11-Dec,24-Feb,10,2
+1724,CRWRF,Craneware PLC,20.60000038,TRUE,2012,,,,,
+1725,CRWRY,Craneware PLC,$70.20 ,TRUE,,No data fetched for symbol CRWRY using YahooDailyReader,,,,
+1726,CRD.A,Crawford & Co,$7.80 ,TRUE,,No data fetched for symbol CRD.A using YahooDailyReader,,,,
+1727,CRD.B,Crawford & Co,$7.98 ,TRUE,,'Date',,,,
+1728,CRAWA,Crawford United Corp,20.25,FALSE,2009,,12-Jun,26-Aug,7,5
+1729,CRAY,Cray Inc,$35.01 ,TRUE,,No data fetched for symbol CRAY using YahooDailyReader,,,,
+1730,CRAYF,Crayon Group Holding ASA,7.25,TRUE,2020,,,,,
+1731,CRZY,Crazy Woman Creek Bancorp Inc,16.75,FALSE,2009,,22-Nov,5-Feb,5,7
+1732,CCAMF,CrÃ©dit Agricole Nord de France,$21.18 ,TRUE,,No data fetched for symbol CCAMF using YahooDailyReader,,,,
+1733,CREJF,CRE Inc,$9.75 ,TRUE,,No data fetched for symbol CREJF using YahooDailyReader,,,,
+1734,RANFD,Cre8tive Works Inc,$0.07 ,TRUE,,No data fetched for symbol RANFD using YahooDailyReader,,,,
+1735,CCRRF,Creades AB,0.049570002,TRUE,2020,,,,,
+1736,CRTD,Creatd Inc,2.880000114,TRUE,2020,,,,,
+1737,CLCN,Creative Learning Corp,0.280000001,TRUE,2012,,,,,
+1738,CREX,Creative Realities Inc,0.943000019,FALSE,2009,,26-Jun,9-Sep,2,10
+1739,CREAF,Creative Technology Ltd,1.710000038,FALSE,2009,,30-Aug,13-Nov,6,6
+1740,CVAS,Creative Vistas Inc,0.012,TRUE,2012,,,,,
+1741,CWSS,Creative Waste Solutions Inc,0.0156,FALSE,2009,,23-Jul,6-Oct,5,7
+1742,BAP,Credicorp Ltd,125.1800003,FALSE,2009,,28-Aug,11-Nov,6,6
+1743,CACC,Credit Acceptance Corp,313.2799988,FALSE,2009,,20-May,3-Aug,8,4
+1744,CDPEF,Credit Agricole Alpes Provence,$127.72 ,TRUE,,No data fetched for symbol CDPEF using YahooDailyReader,,,,
+1745,CRARF,Credit Agricole SA,8.800000191,TRUE,2012,,,,,
+1746,CRARY,Credit Agricole SA,5.085000038,FALSE,2009,,29-Jun,12-Sep,8,4
+1747,COFI,Credit One Financial Inc,0.209999993,FALSE,2009,,14-Feb,29-Apr,0,12
+1748,CSASF,Credit Saison Co Ltd,10.10000038,TRUE,2013,,,,,
+1749,CIK,Credit Suisse Asset Mgmt Income Fund Inc,3.109999895,FALSE,2009,,13-Dec,26-Feb,9,3
+1750,CS,Credit Suisse Group AG,11.75,FALSE,2009,,6-Jul,19-Sep,7,5
+1751,CSGKF,Credit Suisse Group AG,11.72799969,FALSE,2009,,6-Jul,19-Sep,8,4
+1752,DHY,Credit Suisse High Yield Bond Fund,2.24000001,FALSE,2009,,18-Mar,1-Jun,8,4
+1753,CDEFF,Credito Emiliano,3.700000048,TRUE,2019,,,,,
+1754,CRQDF,Credito Real SAB de CV Sofom ER,0.513899982,TRUE,2014,,,,,
+1755,BPCVF,Credito Valtellinese SpA,7.541999817,TRUE,2020,,,,,
+1756,CRMZ,CreditRiskMonitor.com Inc,2.299999952,FALSE,2009,,19-Jul,2-Oct,8,4
+1757,CREE,Cree Inc,69.91000366,FALSE,2009,,11-Dec,24-Feb,7,5
+1758,CRSA,Crescent Acquisition Corp,10.02999973,TRUE,2019,,,,,
+1759,CCAP,Crescent Capital BDC Inc,13.85999966,TRUE,2020,,,,,
+1760,OPNVY,Crescent NV,$0.16 ,TRUE,,'Date',,,,
+1761,CPG,Crescent Point Energy Corp,1.529999971,FALSE,2009,,16-Feb,1-May,6,6
+1762,CRRTF,Crescita Therapeutics Inc,0.611100018,TRUE,2016,,,,,
+1763,CRLBF,Cresco Labs Inc,8.600000381,TRUE,2019,,,,,
+1764,CEJOF,Cresco Ltd,12.02000046,TRUE,2020,,,,,
+1765,COPHF,Creso Pharma Ltd,0.017000001,TRUE,2017,,,,,
+1766,CRTHF,Crest Nicholson Holdings PLC,$4.59 ,TRUE,,No data fetched for symbol CRTHF using YahooDailyReader,,,,
+1767,CRSTF,Crest Resources Inc,0.087700002,TRUE,2020,,,,,
+1768,CLEZF,Creston PLC,$1.85 ,TRUE,,'Date',,,,
+1769,CEQP,Crestwood Equity Partners LP,14.80000019,FALSE,2009,,9-May,23-Jul,7,5
+1770,CRESY,Cresud SACIF y A,3.720000029,FALSE,2009,,11-Oct,25-Dec,4,8
+1771,CRESF,Cresud SACIF y A,0.283659995,FALSE,2009,,4-Sep,18-Nov,0,10
+1772,CWEGF,Crew Energy Inc,0.326099992,FALSE,2009,,9-Mar,23-May,5,7
+1773,CXDO,Crexendo Inc,6.489999771,TRUE,2018,,,,,
+1774,CRHM,CRH Medical Corp,2.470000029,FALSE,2009,,11-Dec,24-Feb,6,6
+1775,CRH,CRH PLC,39.52999878,FALSE,2009,,16-Feb,1-May,7,5
+1776,CRHCF,CRH PLC,38.84999847,FALSE,2009,,31-Oct,14-Jan,7,5
+1777,EPCPF,Cricket Media Group Ltd,$0.11 ,TRUE,,No data fetched for symbol EPCPF using YahooDailyReader,,,,
+1778,CRIM,Crimson Forest Entertainment Group Inc,$0.12 ,TRUE,,No data fetched for symbol CRIM using YahooDailyReader,,,,
+1779,CWGL,Crimson Wine Group Ltd,5.210000038,TRUE,2013,,,,,
+1780,CRNX,Crinetics Pharmaceuticals Inc,12.88000011,TRUE,2018,,,,,
+1781,CRSP,CRISPR Therapeutics AG,103.9599991,TRUE,2016,,,,,
+1782,CRTO,Criteo SA,17.13999939,TRUE,2013,,,,,
+1783,CRECF,Critical Elements Lithium Corp,0.648699999,FALSE,2009,,11-Jul,24-Sep,4,8
+1784,CSLI,Critical Solutions Inc,0.0065,TRUE,2012,,,,,
+1785,CRIUF,Crius Energy Trust,$6.71 ,TRUE,,No data fetched for symbol CRIUF using YahooDailyReader,,,,
+1786,CROX,Crocs Inc,56.88999939,FALSE,2009,,12-May,26-Jul,5,7
+1787,COIHF,Croda International PLC,81.73999786,FALSE,2010,,23-Dec,8-Mar,10,1
+1788,COIHY,Croda International PLC,40.90999985,TRUE,2012,,,,,
+1789,CHBH,Croghan Bancshares Inc,51.5,FALSE,2009,,24-Mar,7-Jun,9,3
+1790,CROMF,Crombie Real Estate Investment Trust,10.93999958,TRUE,2011,,,,,
+1791,CMWCF,Cromwell Property Group,$0.76 ,TRUE,,No data fetched for symbol CMWCF using YahooDailyReader,,,,
+1792,CRON,Cronos Group Inc,7.090000153,TRUE,2018,,,,,
+1793,CRQZF,CROOZ Inc,$8.90 ,TRUE,,No data fetched for symbol CRQZF using YahooDailyReader,,,,
+1794,CPGSF,CropEnergies AG,$4.90 ,TRUE,,'Date',,,,
+1795,XBOR,Cross Border Resources Inc,0.02,FALSE,2009,,20-Mar,3-Jun,2,10
+1796,CCRN,Cross Country Healthcare Inc,7.929999828,FALSE,2009,,6-Aug,20-Oct,2,10
+1797,CSRVF,Cross River Ventures Corp,0.251599997,TRUE,2020,,,,,
+1798,CRT,Cross Timbers Royalty Trust,8.369999886,FALSE,2009,,22-Dec,7-Mar,8,4
+1799,CRHHF,Cross-Harbour (Holdings) Ltd,1.75,TRUE,2015,,,,,
+1800,CAPL,CrossAmerica Partners LP,15.92000008,TRUE,2012,,,,,
+1801,CFB,CrossFirst Bankshares Inc,9.340000153,TRUE,2019,,,,,
+1802,CRJTF,CROSSJECT,3.960000038,TRUE,2020,,,,,
+1803,XRDC,Crossroads Capital Inc,$2.24 ,TRUE,,'Date',,,,
+1804,CRDSQ,Crossroads Systems Inc,$2.70 ,TRUE,,'Date',,,,
+1805,CRSS,Crossroads Systems Inc,8,TRUE,2018,,,,,
+1806,CWNR,Crosswind Renewable Energy Corp,0.00775,FALSE,2009,,23-Jan,7-Apr,7,5
+1807,CRSWF,Crosswinds Holdings Inc,0.01,TRUE,2015,,,,,
+1808,CRWTF,Crow Technologies 1977 Ltd,6,FALSE,2009,,23-Jan,7-Apr,7,5
+1809,CMMBF,Crowd Media Holdings Ltd,$0.01 ,TRUE,,No data fetched for symbol CMMBF using YahooDailyReader,,,,
+1810,CRWD,CrowdStrike Holdings Inc,132.1799927,TRUE,2019,,,,,
+1811,CACL,Crown Alliance Capital Ltd,$0.01 ,TRUE,,No data fetched for symbol CACL using YahooDailyReader,,,,
+1812,CBCA,Crown Baus Capital Corp,0.097000003,TRUE,2014,,,,,
+1813,CCI,Crown Castle International Corp,168.0099945,FALSE,2009,,17-Dec,2-Mar,9,3
+1814,CRWS,Crown Crafts Inc,7,FALSE,2009,,7-Aug,21-Oct,7,5
+1815,CRKN,Crown ElectroKinetics Corp,0.033,TRUE,2013,,,,,
+1816,CRWE,Crown Equity Holdings Inc,1.25,TRUE,2014,,,,,
+1817,CCK,Crown Holdings Inc,95.11000061,FALSE,2009,,19-Aug,2-Nov,7,5
+1818,CRWN,Crown Media Holdings Inc,38,TRUE,2012,,,,,
+1819,CWMZF,Crown Mining Corp,0.0579,TRUE,2012,,,,,
+1820,CWVLF,Crown Point Energy Inc,0.100000001,TRUE,2011,,,,,
+1821,CWLDF,Crown Resorts Ltd,6.599999905,FALSE,2009,,13-Jul,26-Sep,4,8
+1822,CWLDY,Crown Resorts Ltd,11.61999989,TRUE,2012,,,,,
+1823,CRRRF,CRRC Corp Ltd,0.449999988,TRUE,2013,,,,,
+1824,CRCCY,CRRC Corp Ltd,8.18999958,TRUE,2020,,,,,
+1825,LEDCF,CRS Electronics Inc,$0.01 ,TRUE,,No data fetched for symbol LEDCF using YahooDailyReader,,,,
+1826,CINV,Crucial Innovations Corp,5,TRUE,2020,,,,,
+1827,CUFHF,Crunchfish AB,$2.47 ,TRUE,,No data fetched for symbol CUFHF using YahooDailyReader,,,,
+1828,BKTPF,Cruz Cobalt Corp,0.030649999,TRUE,2013,,,,,
+1829,CCEL,Cryo-Cell International Inc,7.349999905,FALSE,2009,,20-Apr,4-Jul,7,5
+1830,CRY,Cryolife Inc,20.09000015,FALSE,2009,,14-May,28-Jul,5,7
+1831,CYRX,CryoPort Inc,59,FALSE,2009,,3-Dec,16-Feb,9,3
+1832,CYXTF,CryptoGlobal Corp,$0.20 ,TRUE,,No data fetched for symbol CYXTF using YahooDailyReader,,,,
+1833,VGGOF,Cryptologic Corp,0.194900006,TRUE,2014,,,,,
+1834,CPMMF,Crystal Peak Minerals Inc,0.0074,TRUE,2011,,,,,
+1835,EPMMF,Crystal Peak Minerals Inc,$0.40 ,TRUE,,No data fetched for symbol EPMMF using YahooDailyReader,,,,
+1836,CRVP,Crystal Rock Holdings Inc,0.964999974,TRUE,2012,,,,,
+1837,CYVF,Crystal Valley Financial Corp,51,FALSE,2009,,26-Sep,10-Dec,7,5
+1838,CSBB,CSB Bancorp Inc,32.54000092,FALSE,2009,,30-Sep,14-Dec,5,7
+1839,CBMI,CSB Bancorp Inc,195,TRUE,2012,,,,,
+1840,CSYJF,CSE Global Ltd,0.319999993,FALSE,2010,,6-Jul,19-Sep,3,8
+1841,CSYJY,CSE Global Ltd,3.49000001,TRUE,2011,,,,,
+1842,CSFRF,CSF Group PLC,0.030300001,TRUE,2019,,,,,
+1843,CSGS,CSG Systems International Inc,43,FALSE,2009,,27-Oct,10-Jan,8,4
+1844,CCLP,CSI Compressco LP,0.800000012,TRUE,2011,,,,,
+1845,CPSDF,CSI Properties Ltd,$0.05 ,TRUE,,No data fetched for symbol CPSDF using YahooDailyReader,,,,
+1846,CMXHF,CSL Ltd,224,FALSE,2009,,21-Dec,6-Mar,8,4
+1847,CSLLY,CSL Ltd,113.4800034,FALSE,2009,,22-Dec,7-Mar,9,3
+1848,CSPI,CSP Inc,7.75,FALSE,2009,,23-Mar,6-Jun,4,8
+1849,CHJTF,CSPC Pharmaceutical Group Ltd,1.049999952,FALSE,2010,,14-Jan,29-Mar,9,2
+1850,CHPTY,CSPC Pharmaceutical Group Ltd,$101.08 ,TRUE,,'Date',,,,
+1851,CSPCY,CSPC Pharmaceutical Group Ltd,4.5,TRUE,2018,,,,,
+1852,CSRLF,CSR Ltd,3.49000001,FALSE,2010,,17-Sep,1-Dec,6,5
+1853,CSRA,CSRA Inc,41.22999954,TRUE,2015,,,,,
+1854,CSS,CSS Industries Inc,$9.40 ,TRUE,,No data fetched for symbol CSS using YahooDailyReader,,,,
+1855,CST,CST Brands Inc,$48.53 ,TRUE,,'Date',,,,
+1856,CSPHF,CStone Pharmaceuticals,1.519999981,TRUE,2020,,,,,
+1857,CUCDF,CSU Cardsystem SA,$3.57 ,TRUE,,No data fetched for symbol CUCDF using YahooDailyReader,,,,
+1858,CSWI,CSW Industrials Inc,106.5500031,TRUE,2015,,,,,
+1859,CSX,CSX Corp,90.59999847,FALSE,2009,,9-Apr,23-Jun,8,4
+1860,CTVMF,CT Environmental Group Ltd,$0.16 ,TRUE,,No data fetched for symbol CTVMF using YahooDailyReader,,,,
+1861,CTRRF,CT Real Estate Investment Trust,11.28030014,TRUE,2016,,,,,
+1862,CTCM,CTC Media Inc,$2.05 ,TRUE,,'Date',,,,
+1863,CTIC,CTI BioPharma Corp,3.430000067,FALSE,2009,,14-Nov,28-Jan,6,6
+1864,CTIG,CTI Group Holdings Inc,$0.61 ,TRUE,,'Date',,,,
+1865,CTILF,CTI Logistics Ltd,0.529999971,TRUE,2020,,,,,
+1866,CTO,CTO Realty Growth Inc,50.93999863,FALSE,2009,,8-Jul,21-Sep,8,4
+1867,CTS,CTS Corp,31.28000069,FALSE,2009,,26-Oct,9-Jan,4,8
+1868,CEVMF,CTS Eventim AG & Co. KGaA,60,TRUE,2013,,,,,
+1869,CTTH,CTT Pharmaceutical Holdings Inc,0.059999999,FALSE,2009,,1-Feb,16-Apr,7,5
+1870,CTTPY,CTT-Correios de Portugal SA,5,TRUE,2017,,,,,
+1871,CTTOF,CTT-Correios de Portugal SA,2.529999971,TRUE,2019,,,,,
+1872,CTXV,CTX Virtual Technologies Inc,0.045000002,FALSE,2010,,2-Sep,16-Nov,5,6
+1873,CUNB,CU Bancorp,$37.50 ,TRUE,,'Date',,,,
+1874,TPNEF,Cub Energy Inc,0.006,FALSE,2010,,8-Dec,21-Feb,2,9
+1875,CUBE,CubeSmart,34,FALSE,2009,,21-Nov,4-Feb,7,5
+1876,CUB,Cubic Corp,65.84999847,FALSE,2009,,7-Aug,21-Oct,6,6
+1877,CUBXF,CubicFarm Systems Corp,0.531099975,TRUE,2019,,,,,
+1878,JNEXF,Cuda Oil And Gas Inc,0.039999999,TRUE,2012,,,,,
+1879,CUDEF,CuDeco Ltd,$1.05 ,TRUE,,No data fetched for symbol CUDEF using YahooDailyReader,,,,
+1880,CUE,Cue Biopharma Inc,11.90999985,TRUE,2018,,,,,
+1881,CUEYY,Cue Energy Resources Ltd,$1.16 ,TRUE,,No data fetched for symbol CUEYY using YahooDailyReader,,,,
+1882,CUEYF,Cue Energy Resources Ltd,0.079999998,FALSE,2009,,23-Dec,8-Mar,5,7
+1883,CUEN,Cuentas Inc,3,TRUE,2012,,,,,
+1884,CUSI,Cuisine Solutions Inc,12.64999962,FALSE,2009,,16-Jun,30-Aug,10,2
+1885,CFR,Cullen/Frost Bankers Inc,80.77999878,FALSE,2009,,31-Jan,15-Apr,8,4
+1886,CULL,Cullman Bancorp Inc,22.5,FALSE,2009,,25-Nov,8-Feb,8,4
+1887,CULP,Culp Inc,13.52999973,FALSE,2009,,10-Sep,24-Nov,5,7
+1888,CUTEF,Culturecom Holdings Ltd,$0.11 ,TRUE,,No data fetched for symbol CUTEF using YahooDailyReader,,,,
+1889,CPIX,Cumberland Pharmaceuticals Inc,2.980000019,FALSE,2009,,15-Sep,29-Nov,4,8
+1890,CMI,Cummins Inc,236.5500031,FALSE,2009,,28-Aug,11-Nov,7,5
+1891,CMLS,Cumulus Media Inc,6.460000038,TRUE,2018,,,,,
+1892,CURM,CUR Media Inc,0.100000001,TRUE,2014,,,,,
+1893,CRGS,CurAegis Technologies Inc,0.036499999,FALSE,2009,,18-Dec,3-Mar,5,7
+1894,CURLF,Curaleaf Holdings Inc,10.81999969,TRUE,2018,,,,,
+1895,CBDX,Curative Biosciences Inc,0.101999998,FALSE,2009,,4-Jan,19-Mar,4,8
+1896,CURR,CURE Pharmaceutical Holding Corp,1.090000033,TRUE,2017,,,,,
+1897,CVAC,CureVac NV,75.19999695,TRUE,2020,,,,,
+1898,CURI,CuriosityStream Inc,9.229999542,TRUE,2020,,,,,
+1899,CRIS,Curis Inc,1.230000019,FALSE,2009,,11-Feb,26-Apr,7,5
+1900,CURO,CURO Group Holdings Corp,8.510000229,TRUE,2017,,,,,
+1901,CURN,Currency Exchange International Corp,7.809999943,TRUE,2013,,,,,
+1902,CWRK,CurrencyWorks Inc,0.075000003,TRUE,2018,,,,,
+1903,ENPRF,Current Water Technologies Inc,0.01315,FALSE,2009,,19-Sep,3-Dec,6,6
+1904,CUIRF,Currie Rose Resources Inc,0.028000001,FALSE,2010,,6-Jul,19-Sep,5,6
+1905,TLED,Curtis Mathes Corp,0.289999992,TRUE,2012,,,,,
+1906,CMOT,Curtiss Motorcycles Co Inc,0.360000014,TRUE,2018,,,,,
+1907,CW,Curtiss-Wright Corp,107.2300034,FALSE,2009,,12-Dec,25-Feb,9,3
+1908,SZC,Cushing Renaissance Fund,31.05999947,TRUE,2012,,,,,
+1909,CWK,Cushman & Wakefield PLC,14.18000031,TRUE,2018,,,,,
+1910,CSPS,Custom Protection Services Inc,0.01,FALSE,2009,,3-Sep,17-Nov,4,8
+1911,CUBI,Customers Bancorp Inc,17.02000046,TRUE,2012,,,,,
+1912,CUTR,Cutera Inc,21.54000092,FALSE,2009,,31-Jan,15-Apr,8,4
+1913,CVSI,CV Sciences Inc,0.454959989,TRUE,2013,,,,,
+1914,CVBF,CVB Financial Corp,20.12999916,FALSE,2009,,13-May,27-Jul,8,4
+1915,CVCBF,CVC Brasil Operadora e Agencia de Viagens SA,$5.66 ,TRUE,,No data fetched for symbol CVCBF using YahooDailyReader,,,,
+1916,CVV,CVD Equipment Corp,4.900000095,FALSE,2009,,6-Dec,19-Feb,6,6
+1917,CVT,Cvent Inc,27400,TRUE,2017,,,,,
+1918,CNVT,CVF Technologies Corp,0.035,FALSE,2009,,30-Dec,15-Mar,6,6
+1919,CVI,CVR Energy Inc,13.38000011,FALSE,2009,,10-Mar,24-May,6,6
+1920,CRRVF,CVR Medical Corp,0.009,TRUE,2016,,,,,
+1921,UAN,CVR Partners LP,0.74000001,TRUE,2011,,,,,
+1922,CVRR,CVR Refining LP,10.48999977,TRUE,2013,,,,,
+1923,CVSGF,CVS Group PLC,16.25,TRUE,2018,,,,,
+1924,CVS,CVS Health Corp,71,FALSE,2009,,5-Nov,19-Jan,7,5
+1925,CWPE,CW Petroleum Corp,1.700000048,TRUE,2019,,,,,
+1926,CAWLF,CWC Energy Services Corp,0.104999997,TRUE,2014,,,,,
+1927,CXKJ,CX Network Group Inc,0.0145,TRUE,2013,,,,,
+1928,CXNSF,Cxense ASA,$0.83 ,TRUE,,No data fetched for symbol CXNSF using YahooDailyReader,,,,
+1929,ECXJ,CXJ Group Co Ltd,1.49000001,TRUE,2012,,,,,
+1930,CYLU,Cyalume Technologies Holdings Inc,$0.21 ,TRUE,,'Date',,,,
+1931,CCYNF,Cyan AG,22.58340073,TRUE,2020,,,,,
+1932,CYAN,Cyanotech Corp,2.690000057,FALSE,2009,,25-Sep,9-Dec,6,6
+1933,CYBOF,CybAero AB,$3.99 ,TRUE,,'Date',,,,
+1934,CYAP,Cyber Apps World Inc,0.49000001,FALSE,2009,,25-Apr,9-Jul,6,6
+1935,CYBNY,Cyber Security 1 AB,1.399999976,TRUE,2018,,,,,
+1936,CYAGF,CyberAgent Inc,61.52999878,TRUE,2014,,,,,
+1937,CYGIY,CyberAgent Inc,29.69000053,TRUE,2013,,,,,
+1938,CYBR,CyberArk Software Ltd,105.9599991,TRUE,2014,,,,,
+1939,CYBQF,Cyberdyne Inc,7.340000153,TRUE,2017,,,,,
+1940,CYBQY,Cyberdyne Inc,7.199999809,TRUE,2015,,,,,
+1941,CYRD,CybeRecord Inc,0.029999999,TRUE,2012,,,,,
+1942,CYBF,Cyberfort Software Inc,0.0144,TRUE,2013,,,,,
+1943,CGUNF,Cybergun SA,$0.38 ,TRUE,,No data fetched for symbol CGUNF using YahooDailyReader,,,,
+1944,CLOQ,Cyberloq Technologies Inc,0.075000003,TRUE,2013,,,,,
+1945,CYBE,CyberOptics Corp,24.34000015,FALSE,2009,,14-Nov,28-Jan,7,5
+1946,CLXPF,Cybin Inc,0.658500016,TRUE,2019,,,,,
+1947,CYRP,Cybra Corp,0.079999998,TRUE,2012,,,,,
+1948,CYCC,Cyclacel Pharmaceuticals Inc,3.539999962,FALSE,2009,,23-Sep,7-Dec,4,8
+1949,CYCN,Cyclerion Therapeutics Inc,2.829999924,TRUE,2019,,,,,
+1950,OZON,Cyclo 3 PSS Corp,0.0084,FALSE,2010,,29-Jul,12-Oct,5,6
+1951,CTDH,Cyclo Therapeutics Inc,0.109999999,FALSE,2009,,2-Sep,16-Nov,6,6
+1952,CYLO,Cyclon Capital Corp,$0.01 ,TRUE,,No data fetched for symbol CYLO using YahooDailyReader,,,,
+1953,CDSAF,Cydsa SAB de CV,0.850000024,FALSE,2010,,20-Mar,3-Jun,4,7
+1954,CYFWY,Cyfrowy Polsat SA,27.7635994,TRUE,2018,,,,,
+1955,CYFWF,Cyfrowy Polsat SA,6.631000042,TRUE,2020,,,,,
+1956,CYIO,CYIOS Corp,0.025900001,FALSE,2009,,17-Jan,1-Apr,7,5
+1957,CBAY,CymaBay Therapeutics Inc,8.199999809,TRUE,2014,,,,,
+1958,CYMHF,Cymat Technologies Ltd,0.148729995,TRUE,2012,,,,,
+1959,CYMBF,Cymbria Corp,33.98249817,TRUE,2020,,,,,
+1960,CYNA,Cynapsus Therapeutics Inc,$40.48 ,TRUE,,'Date',,,,
+1961,CYYNF,Cynata Therapeutics Ltd,0.61500001,TRUE,2015,,,,,
+1962,CTEK,CynergisTek Inc,1.450000048,FALSE,2009,,19-Nov,2-Feb,5,7
+1963,CYNO,Cynosure Inc,$66.00 ,TRUE,,'Date',,,,
+1964,KHRIF,Cypherpunk Holdings Inc,0.059999999,FALSE,2010,,27-Dec,12-Mar,7,4
+1965,CYDVF,Cypress Development Corp,0.451499999,FALSE,2010,,21-Dec,6-Mar,4,7
+1966,CELP,Cypress Environmental Partners LP,2.079999924,TRUE,2014,,,,,
+1967,CYPYF,Cypress Hills Resource Corp,$0.08 ,TRUE,,No data fetched for symbol CYPYF using YahooDailyReader,,,,
+1968,CY,Cypress Semiconductor Corp,$23.82 ,TRUE,,No data fetched for symbol CY using YahooDailyReader,,,,
+1969,COTXF,Cyprotex PLC,$1.54 ,TRUE,,No data fetched for symbol COTXF using YahooDailyReader,,,,
+1970,CYRBY,Cyrela Brazil Realty SA Empreend e Part,4.800000191,FALSE,2009,,15-Aug,29-Oct,5,7
+1971,CYRLY,Cyrela Commercial Propert SA Empr Part,2.589999914,FALSE,2009,,11-Feb,26-Apr,7,5
+1972,CYRN,CYREN Ltd,0.999899983,FALSE,2009,,9-Aug,23-Oct,5,7
+1973,CONE,CyrusOne Inc,72.76999664,TRUE,2013,,,,,
+1974,CYS,CYS Investments Inc,7.309999943,TRUE,2012,,,,,
+1975,CYT,Cytec Industries Inc,$75.17 ,TRUE,,'Date',,,,
+1976,CYDY,CytoDyn Inc,2.480000019,FALSE,2009,,27-Sep,11-Dec,4,8
+1977,CYTK,Cytokinetics Inc,16.52000046,FALSE,2009,,29-Dec,14-Mar,9,3
+1978,CTMX,CytomX Therapeutics Inc,7.400000095,TRUE,2015,,,,,
+1979,CTSO,CytoSorbents Corp,8.539999962,FALSE,2009,,19-Dec,4-Mar,5,7
+1980,CYTTF,CytoTools AG,15,TRUE,2019,,,,,
+1981,CYTR,CytRx Corp,0.579999983,FALSE,2009,,11-Dec,24-Feb,9,3
+1982,CYCA,Cytta Corporation,0.097000003,TRUE,2012,,,,,

@@ -1,0 +1,802 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,ITEPF,Hyve Group PLC,1.539999962,TRUE,2014,,,,,,,,,,
+1,ITEGY,Hyve Group PLC,1.24000001,TRUE,2014,,,,,,,,,,
+2,HYMLY,Hyundai Motor Co,$37.85 ,TRUE,,'Date',,,,,,,,,
+3,HYMTF,Hyundai Motor Co,37.25,FALSE,2009,,22-Feb,7-May,6,6,5,5,21-Feb,6-May,11.24606132
+4,HYMLF,Hyundai Motor Co,89,TRUE,2012,,,,,,,,,,
+5,HY,Hyster-Yale Materials Handling Inc,53.34999847,TRUE,2012,,,,,,,,,,
+6,HYSNY,Hysan Development Co Ltd,6.53000021,TRUE,2012,,,,,,,,,,
+7,HYSNF,Hysan Development Co Ltd,3.119999886,TRUE,2012,,,,,,,,,,
+8,HYRE,HyreCar Inc,5.78000021,TRUE,2018,,,,,,,,,,
+9,HINVF,Hyprop Investments Ltd,ZAR 1.62,TRUE,,No data fetched for symbol HINVF using YahooDailyReader,,,,,,,,,
+10,HYPOF,Hypoport AG,513,TRUE,2019,,,,,,,,,,
+11,HPGN,HypGen Inc,1,TRUE,2017,,,,,,,,,,
+12,HDII,Hypertension Diagnostics Inc,0.0232,TRUE,2012,,,,,,,,,,
+13,HYBOF,HyperBlock Inc,0.00753,TRUE,2018,,,,,,,,,,
+14,HYPMY,Hypera SA,5.820000172,FALSE,2010,,12-Nov,26-Jan,5,5,5,5,12-Nov,26-Jan,3.388323175
+15,HYPPF,Hypebeast Ltd,0.100000001,TRUE,2017,,,,,,,,,,
+16,HYLN,Hyliion Holdings Corp,24.67000008,TRUE,2020,,,,,,,,,,
+17,HYFXY,Hyflux Ltd,0.899999976,TRUE,2012,,,,,,,,,,
+18,HYFXF,Hyflux Ltd,0.147499993,FALSE,2009,,30-Nov,13-Feb,5,5,6,6,30-Nov,13-Feb,15.18623599
+19,HYKCF,Hyduke Energy Services Inc,0.01,FALSE,2010,,20-May,3-Aug,2,2,8,8,20-May,3-Aug,6.73530548
+20,HYDI,Hydromer Inc,1.25999999,FALSE,2009,,21-Feb,6-May,4,4,7,7,21-Feb,6-May,22.77943425
+21,HYGS,Hydrogenics Corp,$15.00 ,TRUE,,No data fetched for symbol HYGS using YahooDailyReader,,,,,,,,,
+22,HYHY,Hydrogen Hybrid Technologies Inc,0.034000002,FALSE,2009,,25-Mar,8-Jun,7,7,4,4,25-Mar,8-Jun,-46.40872996
+23,HYEG,Hydrogen Engine Center Inc,0.171499997,FALSE,2009,,28-Apr,12-Jul,7,7,4,4,28-Apr,12-Jul,22.17296633
+24,HDYX,Hydrodynex Inc,$7.06 ,TRUE,,'Date',,,,,,,,,
+25,HYEEF,Hydrodec Group PLC,$0.01 ,TRUE,,No data fetched for symbol HYEEF using YahooDailyReader,,,,,,,,,
+26,PYMOF,Hydrocarbon Dynamics Ltd,0.02,TRUE,2013,,,,,,,,,,
+27,POGLY,Hydrocarbon Dynamics Ltd,0.929799974,TRUE,2010,,,,,,,,,,
+28,HECCQ,Hydrocarb Energy Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+29,HYHDF,Hydro66 Holdings Corp,0.230900005,TRUE,2013,,,,,,,,,,
+30,HRNNF,Hydro One Ltd,21.88788986,TRUE,2015,,,,,,,,,,
+31,HYMC,Hycroft Mining Holding Corp,7.800000191,TRUE,2018,,,,,,,,,,
+32,FESTF,Hybrid Kinetic Group Ltd,0.01,TRUE,2017,,,,,,,,,,
+33,HYBG,HYB Holding Corp,0.090899996,TRUE,2012,,,,,,,,,,
+34,H,Hyatt Hotels Corp,69.94000244,FALSE,2009,,13-Oct,27-Dec,7,7,4,4,13-Oct,27-Dec,8.456911903
+35,HYKUF,Hyakugo Bank Ltd,2.799999952,TRUE,2014,,,,,,,,,,
+36,HWGG,HWGG Entertainment Ltd,1,TRUE,2017,,,,,,,,,,
+37,HVBC,HV Bancorp Inc,14.5,TRUE,2017,,,,,,,,,,
+38,HUYA,HUYA Inc,20.90999985,TRUE,2018,,,,,,,,,,
+39,HBP,Huttig Building Products Inc,3.720000029,FALSE,2009,,11-Feb,26-Apr,7,7,4,4,11-Feb,26-Apr,15.95174634
+40,HUTN,HUTN Inc,0.041000001,TRUE,2014,,,,,,,,,,
+41,HUTCY,Hutchison Telecommunications Hong Kong Holdings Lt,2.059999943,TRUE,2019,,,,,,,,,,
+42,HTHKY,Hutchison Telecommunications Hong Kong Holdings Lt,$5.99 ,TRUE,,No data fetched for symbol HTHKY using YahooDailyReader,,,,,,,,,
+43,HTCTF,Hutchison Telecommunications Hong Kong Holdings Lt,0.150000006,TRUE,2012,,,,,,,,,,
+44,HCTPF,Hutchison Port Holdings Trust,0.185000002,TRUE,2012,,,,,,,,,,
+45,HUPHY,Hutchison Port Holdings Trust,2.599999905,TRUE,2017,,,,,,,,,,
+46,HNCMF,Hutchison China Meditech Ltd,5.109700203,TRUE,2014,,,,,,,,,,
+47,HCM,Hutchison China Meditech Ltd,30.10000038,TRUE,2016,,,,,,,,,,
+48,HTCH,Hutchinson Technology Inc,$4.00 ,TRUE,,'Date',,,,,,,,,
+49,HUTMF,Hut 8 Mining Corp,0.921000004,TRUE,2018,,,,,,,,,,
+50,HUSQF,Husqvarna AB,10.23999977,FALSE,2009,,23-Mar,6-Jun,4,4,7,7,12-Nov,26-Jan,2.864807957
+51,HUQVF,Husqvarna AB,10.5,TRUE,2012,,,,,,,,,,
+52,HSQVY,Husqvarna AB,21.28000069,FALSE,2009,,24-Mar,7-Jun,6,6,5,5,3-Nov,17-Jan,4.812684946
+53,HUSKF,Husky Energy Inc,3.75,FALSE,2009,,9-Dec,22-Feb,5,5,6,6,9-Dec,22-Feb,2.24700083
+54,HRCXF,Hurricane Energy PLC,0.054439999,TRUE,2014,,,,,,,,,,
+55,HVLM,Huron Valley Bancorp Inc,16.25,FALSE,2009,,9-May,23-Jul,2,2,7,7,9-May,23-Jul,2.376593019
+56,HURN,Huron Consulting Group Inc,43.99000168,FALSE,2009,,27-Oct,10-Jan,2,2,9,9,27-Oct,10-Jan,7.882899736
+57,HURC,Hurco Companies Inc,29.26000023,FALSE,2009,,1-Mar,15-May,8,8,3,3,1-Mar,15-May,5.105434414
+58,HCGI,Huntwicke Capital Group Inc,7.199999809,TRUE,2012,,,,,,,,,,
+59,HWTFF,Huntsworth PLC,$1.18 ,TRUE,,No data fetched for symbol HWTFF using YahooDailyReader,,,,,,,,,
+60,BBBMF,Huntsman Exploration Inc,0.198679999,TRUE,2016,,,,,,,,,,
+61,HUN,Huntsman Corp,24.79999924,FALSE,2009,,15-Oct,29-Dec,7,7,4,4,15-Oct,29-Dec,6.715653615
+62,HII,Huntington Ingalls Industries Inc,163.0200043,TRUE,2011,,,,,,,,,,
+63,HEXPF,Huntington Exploration Inc,0.029999999,TRUE,2015,,,,,,,,,,
+64,HBAN,Huntington Bancshares Inc,11.86999989,FALSE,2009,,21-Oct,4-Jan,8,8,3,3,21-Oct,4-Jan,7.314181891
+65,HNTIY,Hunting PLC,3.119999886,TRUE,2014,,,,,,,,,,
+66,HNTIF,Hunting PLC,2.069999933,FALSE,2009,,5-Mar,19-May,4,4,7,7,5-Mar,19-May,1.703652361
+67,HOILF,Hunter Technology Corp,0.783200026,TRUE,2016,,,,,,,,,,
+68,HUNTF,Hunter Maritime Acquisition Corp,0.209999993,TRUE,2017,,,,,,,,,,
+69,HDUGF,Hunter Douglas NV,66,TRUE,2012,,,,,,,,,,
+70,HTRC,Hunter Creek Mining Co,0.100000001,FALSE,2009,,6-Jan,21-Mar,4,4,7,7,6-Jan,21-Mar,16.75505155
+71,HNTM,Hunt Mountain Resources,0.0099,TRUE,2012,,,,,,,,,,
+72,HGLD,Hunt Mining Corp,0.112099998,TRUE,2019,,,,,,,,,,
+73,HCFT,Hunt Companies Finance Trust Inc,3,TRUE,2013,,,,,,,,,,
+74,HUHIF,Hung Hing Printing Group Ltd,$0.14 ,TRUE,,'Date',,,,,,,,,
+75,HUMRF,Hummingbird Resources PLC,0.425000012,TRUE,2012,,,,,,,,,,
+76,HUML,Humble Energy Inc,0.550000012,FALSE,2009,,23-Oct,6-Jan,1,1,10,10,23-Oct,6-Jan,13.55679855
+77,HUMT,Humatech Inc,0.0132,FALSE,2009,,9-Jan,24-Mar,6,6,5,5,9-Jan,24-Mar,-32.83907395
+78,HGEN,Humanigen Inc,8.25,TRUE,2013,,,,,,,,,,
+79,HUM,Humana Inc,418.4400024,FALSE,2009,,11-Apr,25-Jun,8,8,3,3,11-Apr,25-Jun,7.044579186
+80,HMNU,Human Unitec International Inc,0.0074,TRUE,2013,,,,,,,,,,
+81,EROX,Human Pheromone Sciences Inc,0.02,FALSE,2009,,1-Mar,15-May,3,3,8,8,1-Mar,15-May,13.27783734
+82,HULCF,Hulic Co Ltd,9.399999619,TRUE,2016,,,,,,,,,,
+83,HLNLF,Hulamin Ltd,$0.98 ,TRUE,,No data fetched for symbol HLNLF using YahooDailyReader,,,,,,,,,
+84,HUIZ,Huize Holding Ltd,7.699999809,TRUE,2020,,,,,,,,,,
+85,SFHD,Hui Ying Financial Holdings Corp,10,TRUE,2016,,,,,,,,,,
+86,HOYFF,Huhtamäki Oyj,40.09999847,FALSE,2009,,16-Feb,1-May,3,3,8,8,9-Oct,23-Dec,8.123932903
+87,HGTXU,Hugoton Royalty Trust,0.075000003,FALSE,2009,,15-Mar,29-May,4,4,7,7,15-Mar,29-May,-0.637867489
+88,HUGPF,Hugo Boss AG,24.70000076,TRUE,2014,,,,,,,,,,
+89,BOSSY,Hugo Boss AG,5.900000095,TRUE,2013,,,,,,,,,,
+90,HUFAF,Hufvudstaden AB,12.80840015,TRUE,2013,,,,,,,,,,
+91,HBAYF,Hudson's Bay Co,$8.19 ,TRUE,,No data fetched for symbol HBAYF using YahooDailyReader,,,,,,,,,
+92,HDSN,Hudson Technologies Inc,1.169999957,FALSE,2009,,19-Dec,4-Mar,7,7,4,4,19-Dec,4-Mar,14.95736347
+93,HUDRF,Hudson Resources Inc,0.2579,FALSE,2010,,15-Dec,28-Feb,6,6,4,4,15-Dec,28-Feb,0.872442875
+94,HPP,Hudson Pacific Properties Inc,25.77000046,FALSE,2010,,26-Sep,10-Dec,5,5,5,5,26-Sep,10-Dec,5.633664609
+95,HUD,Hudson Ltd,7.690000057,TRUE,2018,,,,,,,,,,
+96,HSON,Hudson Global Inc,10.27999973,FALSE,2009,,14-Jun,28-Aug,4,4,7,7,14-Jun,28-Aug,1.988933644
+97,HEC,Hudson Executive Investment Corp,9.699999809,TRUE,2020,,,,,,,,,,
+98,HCBK,Hudson City Bancorp Inc,$10.12 ,TRUE,,'Date',,,,,,,,,
+99,HUSN,Hudson Capital Inc,2.24000001,TRUE,2017,,,,,,,,,,
+100,HBM,Hudbay Minerals Inc,5.710000038,FALSE,2009,,1-Oct,15-Dec,4,3,7,8,1-Oct,15-Dec,9.240754986
+101,HUBS,HubSpot Inc,359.3999939,TRUE,2014,,,,,,,,,,
+102,HBUV,Hubilu Venture Corp,0.170000002,TRUE,2016,,,,,,,,,,
+103,HBMK,Hubei Minkang Pharmaceutical Ltd,0.01,FALSE,2009,,20-Jan,4-Apr,5,5,6,6,20-Jan,4-Apr,18.8676048
+104,HUBB,Hubbell Inc,155.3500061,FALSE,2009,,11-Oct,25-Dec,9,8,2,3,11-Dec,24-Feb,6.68095264
+105,HUB.A,Hubbell Inc,$128.17 ,TRUE,,No data fetched for symbol HUB.A using YahooDailyReader,,,,,,,,,
+106,HUBV,Hubb Ventures Inc,1.299999952,FALSE,2009,,20-Feb,5-May,3,3,8,8,20-Feb,5-May,15.25278278
+107,HUBG,Hub Group Inc,54.97999954,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,30-Oct,13-Jan,4.285879813
+108,HUBOF,HUB Co Ltd,$11.15 ,TRUE,,No data fetched for symbol HUBOF using YahooDailyReader,,,,,,,,,
+109,HTHT,Huazhu Group Ltd,51.34999847,FALSE,2010,,10-Aug,24-Oct,4,4,6,6,10-Aug,24-Oct,10.77322014
+110,HUATF,Huatai Securities Co Ltd,1.857480049,TRUE,2020,,,,,,,,,,
+111,HRENF,Huaneng Renewables Corp Ltd,$0.41 ,TRUE,,No data fetched for symbol HRENF using YahooDailyReader,,,,,,,,,
+112,HUNGF,Huaneng Power International Inc,0.41170001,TRUE,2014,,,,,,,,,,
+113,HNP,Huaneng Power International Inc,16.21999931,FALSE,2009,,27-Mar,10-Jun,7,7,4,4,27-Mar,10-Jun,4.513702709
+114,HMI,Huami Corp,14.22999954,TRUE,2018,,,,,,,,,,
+115,HYAS,Huale Acoustics Ltd,$3.00 ,TRUE,,No data fetched for symbol HYAS using YahooDailyReader,,,,,,,,,
+116,HHEG,Huahui Education Group Ltd,$5.60 ,TRUE,,No data fetched for symbol HHEG using YahooDailyReader,,,,,,,,,
+117,HPIFY,Huadian Power International Corp Ltd,7.309999943,TRUE,2018,,,,,,,,,,
+118,HPIFF,Huadian Power International Corp Ltd,0.257999986,TRUE,2012,,,,,,,,,,
+119,HUIHY,Huabao International Holdings Ltd,42.75,FALSE,2010,,1-Jul,14-Sep,6,5,4,5,12-Feb,27-Apr,-4.233455164
+120,HUABF,Huabao International Holdings Ltd,1.100000024,TRUE,2012,,,,,,,,,,
+121,HUAZ,Hua Ye Gas Group Holding Co,$0.10 ,TRUE,,No data fetched for symbol HUAZ using YahooDailyReader,,,,,,,,,
+122,HHBPF,Hua Han Health Industry Holdings Ltd,$0.13 ,TRUE,,No data fetched for symbol HHBPF using YahooDailyReader,,,,,,,,,
+123,HWATY,HTL International Holdings Ltd,$39.14 ,TRUE,,No data fetched for symbol HWATY using YahooDailyReader,,,,,,,,,
+124,HWATF,HTL International Holdings Ltd,$0.26 ,TRUE,,No data fetched for symbol HWATF using YahooDailyReader,,,,,,,,,
+125,HTGM,HTG Molecular Diagnostics Inc,0.283199996,TRUE,2015,,,,,,,,,,
+126,HTPRF,HTC Purenergy Inc,0.050000001,FALSE,2009,,23-Apr,7-Jul,4,4,7,7,23-Apr,7-Jul,8.26830774
+127,HTCKF,HTC Corp,3.700000048,TRUE,2012,,,,,,,,,,
+128,HTCCY,HTC Corp,$91.82 ,TRUE,,No data fetched for symbol HTCCY using YahooDailyReader,,,,,,,,,
+129,APNDF,HT&E Ltd,$2.98 ,TRUE,,No data fetched for symbol APNDF using YahooDailyReader,,,,,,,,,
+130,HSTC,HST Global Inc,0.119999997,FALSE,2009,,2-Dec,15-Feb,5,5,6,6,2-Dec,15-Feb,11.83114355
+131,HSNI,HSN Inc,$40.35 ,TRUE,,'Date',,,,,,,,,
+132,HBCYF,HSBC Holdings PLC,5.050000191,FALSE,2009,,6-Sep,20-Nov,5,4,6,7,26-Aug,9-Nov,2.987747326
+133,HSBC,HSBC Holdings PLC,25.23999977,FALSE,2009,,27-Aug,10-Nov,5,4,6,7,26-Aug,9-Nov,2.950113589
+134,WSTM,HRSoft Inc,0.230000004,FALSE,2009,,24-Feb,9-May,5,5,6,6,24-Feb,9-May,11.24654805
+135,HQDA,HQDA Elderly Life Network Corp,2,TRUE,2017,,,,,,,,,,
+136,HPX,HPX Corp,9.68999958,TRUE,2020,,,,,,,,,,
+137,URAGF,HPQ Silicon Resources Inc,0.393099993,TRUE,2013,,,,,,,,,,
+138,HPQ,HP Inc,20.45000076,FALSE,2009,,26-Aug,9-Nov,5,5,6,6,26-Aug,9-Nov,5.537304482
+139,HOCPY,Hoya Corp,119.7350006,FALSE,2009,,22-May,5-Aug,7,7,4,4,22-May,5-Aug,8.70087729
+140,HOCPF,Hoya Corp,119.75,TRUE,2013,,,,,,,,,,
+141,HWM,Howmet Aerospace Inc,23.19000053,TRUE,2016,,,,,,,,,,
+142,HWDJY,Howden Joinery Group PLC,35.625,TRUE,2016,,,,,,,,,,
+143,HWDJF,Howden Joinery Group PLC,8.199999809,TRUE,2013,,,,,,,,,,
+144,HOWAF,Howden Africa Holdings Ltd,$2.31 ,TRUE,,No data fetched for symbol HOWAF using YahooDailyReader,,,,,,,,,
+145,HBMD,Howard Bancorp Inc,11.77000046,FALSE,2009,,6-Nov,20-Jan,5,5,6,6,6-Nov,20-Jan,5.201390864
+146,HOVVB,Hovnanian Enterprises Inc,12.5,TRUE,2012,,,,,,,,,,
+147,HOV,Hovnanian Enterprises Inc,39.29000092,FALSE,2009,,6-Oct,20-Dec,2,2,9,9,6-Oct,20-Dec,6.352950829
+148,HWCC,Houston Wire & Cable Co,2.799999952,FALSE,2009,,27-Nov,10-Feb,5,5,6,6,27-Nov,10-Feb,5.685438976
+149,HNRC,Houston National Resource Corp,1.850000024,TRUE,2020,,,,,,,,,,
+150,HITD,Houston Interweb Design Inc,0.079999998,TRUE,2012,,,,,,,,,,
+151,HUSA,Houston American Energy Corp,1.529999971,FALSE,2009,,10-Nov,24-Jan,6,6,5,5,17-Apr,1-Jul,-6.785836745
+152,HUIVF,House of Investments Inc,$0.12 ,TRUE,,No data fetched for symbol HUIVF using YahooDailyReader,,,,,,,,,
+153,HOFJF,House Foods Group Inc,39.5,TRUE,2013,,,,,,,,,,
+154,HLI,Houlihan Lokey Inc,63.20000076,TRUE,2015,,,,,,,,,,
+155,HMHC,Houghton Mifflin Harcourt Co,2.730000019,TRUE,2013,,,,,,,,,,
+156,HOTH,Hoth Therapeutics Inc,1.769999981,TRUE,2019,,,,,,,,,,
+157,HOCXF,Hoteles City Express SAB de CV,0.251199991,TRUE,2014,,,,,,,,,,
+158,HSLLF,Hotel Shilla Co Ltd,$81.92 ,TRUE,,No data fetched for symbol HSLLF using YahooDailyReader,,,,,,,,,
+159,HCHOF,Hotel Chocolat Group PLC,3.75,TRUE,2017,,,,,,,,,,
+160,HOTM,HotCloud Mobile Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+161,HOTF,Hot Mama''s Foods Inc,0.015,TRUE,2014,,,,,,,,,,
+162,HHLKF,Hot Chili Ltd,0.039999999,TRUE,2015,,,,,,,,,,
+163,TWNK,Hostess Brands Inc,13.38000011,TRUE,2015,,,,,,,,,,
+164,HSWLF,Hostelworld Group PLC,1.129999995,TRUE,2019,,,,,,,,,,
+165,HST,Host Hotels & Resorts Inc,14.14999962,FALSE,2009,,28-Oct,11-Jan,6,6,5,5,11-Oct,25-Dec,7.715565631
+166,HOIEF,Hosiden Corp,8.720000267,TRUE,2014,,,,,,,,,,
+167,HSHIF,Hoshizaki Corp,74,TRUE,2012,,,,,,,,,,
+168,HDP,Hortonworks Inc,14.68000031,TRUE,2014,,,,,,,,,,
+169,ZINCQ,Horsehead Holding Corp,$0.02 ,TRUE,,'Date',,,,,,,,,
+170,HRSR,Horrison Resources Inc,0.351999998,TRUE,2014,,,,,,,,,,
+171,HRNBF,Hornby PLC,0.319999993,TRUE,2020,,,,,,,,,,
+172,HBEXF,Hornby Bay Mineral Exploration Ltd,0.050000001,FALSE,2009,,12-Nov,26-Jan,6,6,5,5,12-Nov,26-Jan,20.43269247
+173,HOSSQ,Hornbeck Offshore Services Inc,0.02,FALSE,2009,,21-Feb,6-May,7,7,4,4,21-Feb,6-May,-1.199433968
+174,HBBHF,HORNBACH Holding AG and Co KGaA,$53.50 ,TRUE,,No data fetched for symbol HBBHF using YahooDailyReader,,,,,,,,,
+175,HBAUF,HORNBACH Baumarkt AG,25.94059944,TRUE,2016,,,,,,,,,,
+176,HRL,Hormel Foods Corp,50.00999832,FALSE,2009,,22-Sep,6-Dec,7,7,4,4,22-Sep,6-Dec,7.610468167
+177,HZMMF,Horizonte Minerals PLC,0.07,TRUE,2020,,,,,,,,,,
+178,HZHI,Horizons Holdings International Corp,0.052000001,TRUE,2012,,,,,,,,,,
+179,HZNP,Horizon Therapeutics PLC,70.05999756,TRUE,2011,,,,,,,,,,
+180,HRZCB,Horizon Telcom Inc,328,TRUE,2012,,,,,,,,,,
+181,HRZCA,Horizon Telcom Inc,340,TRUE,2012,,,,,,,,,,
+182,HRZN,Horizon Technology Finance Corp,11.93999958,FALSE,2010,,3-Nov,17-Jan,7,5,3,5,2-Nov,16-Jan,4.235269245
+183,HRRZF,Horizon Petroleum Ltd,$0.89 ,TRUE,,No data fetched for symbol HRRZF using YahooDailyReader,,,,,,,,,
+184,HZNFF,Horizon Oil Ltd,0.035,FALSE,2009,,24-Sep,8-Dec,5,5,6,6,24-Sep,8-Dec,19.8163424
+185,HZNOF,Horizon North Logistics Inc private,0.529999971,FALSE,2009,,19-Feb,4-May,6,6,5,5,19-Feb,4-May,1.344425123
+186,HZNOF,Horizon North Logistics Inc,0.529999971,FALSE,2009,,19-Feb,4-May,6,6,5,5,19-Feb,4-May,1.344425123
+187,HGPI,Horizon Group Properties Inc,0.75,FALSE,2009,,26-Jul,9-Oct,3,3,8,8,26-Jul,9-Oct,13.39240817
+188,HZN,Horizon Global Corp,6.949999809,TRUE,2015,,,,,,,,,,
+189,HZNQF,Horizon Discovery Group PLC,2.430000067,TRUE,2015,,,,,,,,,,
+190,HRRB,Horizon Bancorp Inc,5.792500019,TRUE,2017,,,,,,,,,,
+191,HBNC,Horizon Bancorp (IN),14.60000038,FALSE,2009,,20-May,3-Aug,6,6,5,5,18-Apr,2-Jul,6.759104175
+192,HZAC,Horizon Acquisition Corp,9.890000343,TRUE,2020,,,,,,,,,,
+193,HRIBF,Horiba Ltd,54.40000153,TRUE,2014,,,,,,,,,,
+194,HMN,Horace Mann Educators Corp,40.40999985,FALSE,2009,,8-Apr,22-Jun,5,5,6,6,8-Apr,22-Jun,5.007201429
+195,HPTO,hopTo Inc,0.569999993,FALSE,2009,,24-Jul,7-Oct,6,6,5,5,24-Jul,7-Oct,12.30161336
+196,HPDLF,Hopson Development Holdings Ltd,$0.97 ,TRUE,,No data fetched for symbol HPDLF using YahooDailyReader,,,,,,,,,
+197,HFBC,HopFed Bancorp Inc,$19.53 ,TRUE,,No data fetched for symbol HFBC using YahooDailyReader,,,,,,,,,
+198,HWDY,Hopewell Valley Community Bank,$14.51 ,TRUE,,'Date',,,,,,,,,
+199,HOWWY,Hopewell Holdings Ltd,$4.80 ,TRUE,,No data fetched for symbol HOWWY using YahooDailyReader,,,,,,,,,
+200,HOWWF,Hopewell Holdings Ltd,$5.00 ,TRUE,,No data fetched for symbol HOWWF using YahooDailyReader,,,,,,,,,
+201,HOPE,Hope Bancorp Inc,9.600000381,FALSE,2009,,21-Oct,4-Jan,6,5,5,6,21-Oct,4-Jan,11.44000728
+202,HOOK,HOOKIPA Pharma Inc,10.77999973,TRUE,2019,,,,,,,,,,
+203,HOFT,Hooker Furniture Corp,30.03000069,FALSE,2009,,12-Aug,26-Oct,6,6,5,5,12-Aug,26-Oct,5.154530355
+204,HSEN,Honsen Energy & Resources International Ltd,0.50999999,TRUE,2012,,,,,,,,,,
+205,HNMGF,Honma Golf Ltd,0.439999998,TRUE,2018,,,,,,,,,,
+206,HGLI,Hongli Clean Energy Technologies Corp,0.100000001,TRUE,2012,,,,,,,,,,
+207,HNGKY,Hongkong Land Holdings Ltd,21.62000084,FALSE,2009,,15-Feb,30-Apr,8,8,3,3,21-Mar,4-Jun,5.689753735
+208,HKHGF,Hongkong Land Holdings Ltd,4.050000191,FALSE,2010,,26-Dec,11-Mar,6,6,4,4,26-Dec,11-Mar,6.456557702
+209,HGHUF,Honghua Group Ltd,0.064999998,TRUE,2012,,,,,,,,,,
+210,HLFBF,Hong Leong Financial Group Bhd,2.75,TRUE,2015,,,,,,,,,,
+211,HLALF,Hong Leong Asia Ltd,$0.82 ,TRUE,,No data fetched for symbol HLALF using YahooDailyReader,,,,,,,,,
+212,HKWO,Hong Kong Winalite Group Inc,0.01,FALSE,2009,,20-Feb,5-May,3,3,8,8,20-Feb,5-May,5.534125564
+213,KHNTF,Hong Kong Television Network Ltd,$0.38 ,TRUE,,No data fetched for symbol KHNTF using YahooDailyReader,,,,,,,,,
+214,HKTVY,Hong Kong Television Network Ltd,28.60000038,FALSE,2009,,29-Sep,13-Dec,7,7,4,4,29-Sep,13-Dec,9.634131385
+215,HKXCY,Hong Kong Exchanges and Clearing Ltd,47.65000153,FALSE,2010,,25-Sep,9-Dec,6,6,4,4,25-Sep,9-Dec,6.998204906
+216,HKXCF,Hong Kong Exchanges and Clearing Ltd,47.61999893,FALSE,2009,,1-Oct,15-Dec,6,6,5,5,1-Oct,15-Dec,8.155626043
+217,HKGEF,Hong Kong Economic Times Holdings Ltd,0.100000001,FALSE,2009,,18-Nov,1-Feb,2,2,9,9,9-Apr,23-Jun,6.735457452
+218,HOKCY,Hong Kong and China Gas Co Ltd,1.600000024,FALSE,2009,,2-Feb,17-Apr,5,5,6,6,2-Feb,17-Apr,7.165073577
+219,HOKCF,Hong Kong and China Gas Co Ltd,1.539999962,FALSE,2010,,3-Apr,17-Jun,6,6,4,4,12-Feb,27-Apr,7.369782923
+220,HKAEY,Hong Kong Aircraft Engineering Co Ltd,$8.32 ,TRUE,,'Date',,,,,,,,,
+221,HFOKF,Hong Fok Corp Ltd,$0.86 ,TRUE,,No data fetched for symbol HFOKF using YahooDailyReader,,,,,,,,,
+222,HON,Honeywell International Inc,201.1100006,FALSE,2009,,25-Sep,9-Dec,9,9,2,2,25-Sep,9-Dec,7.501543155
+223,HBEIF,Honey Badger Exploration Inc,0.067000002,TRUE,2017,,,,,,,,,,
+224,HNDAF,Honda Motor Co Ltd,28.90749931,FALSE,2010,,15-Mar,29-May,3,6,7,4,4-Nov,18-Jan,5.646759843
+225,HMC,Honda Motor Co Ltd,28.57999992,FALSE,2009,,31-Oct,14-Jan,7,7,4,4,31-Oct,14-Jan,6.234340694
+226,HONT,Honat Bancorp Inc,115,FALSE,2009,,22-Apr,6-Jul,7,7,4,4,22-Apr,6-Jul,4.239490634
+227,HNHPF,Hon Hai Precision Industry Co Ltd,5.869999886,FALSE,2009,,24-Aug,7-Nov,4,4,7,7,24-Aug,7-Nov,6.947923903
+228,HNHAF,Hon Hai Precision Industry Co Ltd,2.510010004,TRUE,2013,,,,,,,,,,
+229,FIXX,Homology Medicines Inc,9.640000343,TRUE,2018,,,,,,,,,,
+230,HTBI,HomeTrust Bancshares Inc,18.52000046,TRUE,2012,,,,,,,,,,
+231,HWIN,Hometown International Inc,9.949999809,TRUE,2019,,,,,,,,,,
+232,HMTA,HomeTown Bankshares Corp,14.31000042,TRUE,2012,,,,,,,,,,
+233,HTWC,Hometown Bancorp Inc,$2.97 ,TRUE,,'Date',,,,,,,,,
+234,HMST,HomeStreet Inc,34.18999863,TRUE,2012,,,,,,,,,,
+235,SNLM,Homestead Gold and Silver Ltd,0.01,TRUE,2013,,,,,,,,,,
+236,BVGIF,Homestake Resource Corp,$0.15 ,TRUE,,'Date',,,,,,,,,
+237,HMSVY,Homeserve PLC,$10.15 ,TRUE,,No data fetched for symbol HMSVY using YahooDailyReader,,,,,,,,,
+238,HMSVF,Homeserve PLC,15.80000019,TRUE,2015,,,,,,,,,,
+239,HOFC,Homeowners Financial Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+240,HSCC,Homeland Security Corp,0.01064,TRUE,2012,,,,,,,,,,
+241,HMIN,Homeinns Hotel Group,$35.71 ,TRUE,,'Date',,,,,,,,,
+242,HOFD,HomeFed Corp,$38.39 ,TRUE,,No data fetched for symbol HOFD using YahooDailyReader,,,,,,,,,
+243,AWAY,HomeAway Inc,23.39999962,TRUE,2020,,,,,,,,,,
+244,HMAGF,Home24 SE,7.611400127,TRUE,2020,,,,,,,,,,
+245,HMRTY,Home Retail Group PLC,$8.89 ,TRUE,,No data fetched for symbol HMRTY using YahooDailyReader,,,,,,,,,
+246,HMRLF,Home Retail Group PLC,$2.08 ,TRUE,,'Date',,,,,,,,,
+247,HME,Home Properties Inc,$75.24 ,TRUE,,'Date',,,,,,,,,
+248,HPCRF,Home Product Center PCL,0.449999988,TRUE,2013,,,,,,,,,,
+249,HLSSF,Home Loan Servicing Solutions Ltd,$0.70 ,TRUE,,No data fetched for symbol HLSSF using YahooDailyReader,,,,,,,,,
+250,HLFN,Home Loan Financial Corp,30.20000076,FALSE,2009,,19-Mar,2-Jun,5,4,6,7,15-Jun,29-Aug,4.714083888
+251,ATHI,Home Health International Inc,0.100000001,TRUE,2012,,,,,,,,,,
+252,HWEN,Home Financial Bancorp,9.800000191,FALSE,2009,,27-May,10-Aug,8,7,3,4,23-Jun,6-Sep,6.187453169
+253,HFBL,Home Federal Bancorp Inc of louisiana,26.60000038,FALSE,2009,,3-Jun,17-Aug,7,7,4,4,27-Sep,11-Dec,5.573129867
+254,HCFL,Home City Financial Corp,37.34999847,TRUE,2012,,,,,,,,,,
+255,HMCBF,Home Capital Group Inc,21.34000015,FALSE,2010,,23-Sep,7-Dec,6,5,4,5,23-Sep,7-Dec,11.24225362
+256,HBIS,Home Bistro Inc,1.049999952,TRUE,2020,,,,,,,,,,
+257,HOMB,Home BancShares Inc,18.97999954,FALSE,2009,,20-May,3-Aug,7,7,4,4,20-May,3-Aug,6.941361172
+258,HWIS,Home Bancorp Wisconsin Inc,13,TRUE,2014,,,,,,,,,,
+259,HBCP,Home Bancorp Inc,28.86000061,FALSE,2009,,12-Oct,26-Dec,6,6,5,5,20-May,3-Aug,3.81466085
+260,HMTC,Homasote Co,5.550000191,TRUE,2013,,,,,,,,,,
+261,NHMPF,Holy Crap Brands Inc,0.0051,TRUE,2019,,,,,,,,,,
+262,HSTG,Holographic Storage Ltd,0.25,TRUE,2012,,,,,,,,,,
+263,HOLX,Hologic Inc,70.01000214,FALSE,2009,,23-May,6-Aug,7,7,4,4,23-May,6-Aug,9.495099165
+264,HLCN,Holoco Inc,0.034000002,TRUE,2012,,,,,,,,,,
+265,HOOB,Holobeam Inc,38,FALSE,2009,,22-May,5-Aug,4,4,7,7,22-May,5-Aug,12.16438989
+266,HLMNY,Holmen AB,24.44989967,TRUE,2014,,,,,,,,,,
+267,HLMNF,Holmen AB,$32.61 ,TRUE,,'Date',,,,,,,,,
+268,HLHLY,Holmen AB,10.89999962,TRUE,2017,,,,,,,,,,
+269,HWAL,Hollywall Entertainment Inc,6.75,TRUE,2014,,,,,,,,,,
+270,HOLI,Hollysys Automation Technologies Ltd,11.47999954,FALSE,2009,,2-Sep,16-Nov,5,5,6,6,2-Sep,16-Nov,14.21990642
+271,HFC,HollyFrontier Corp,22.71999931,FALSE,2009,,29-Jun,12-Sep,7,7,4,4,29-Jun,12-Sep,5.841564603
+272,HEP,Holly Energy Partners LP,12.47999954,FALSE,2009,,22-Dec,7-Mar,9,7,2,4,6-Dec,19-Feb,6.055431365
+273,HLLOF,Holloway Lodging Corp,$6.18 ,TRUE,,No data fetched for symbol HLLOF using YahooDailyReader,,,,,,,,,
+274,HSTRF,Hollister Biosciences Inc,0.093500003,TRUE,2020,,,,,,,,,,
+275,HAFG,Holistic Asset Finance Group Co Ltd,3,TRUE,2012,,,,,,,,,,
+276,TMFXF,HolidayCheck Group AG,1.874860048,TRUE,2018,,,,,,,,,,
+277,HOGU,Holiday-Gulf Homes Inc,$0.15 ,TRUE,,'Date',,,,,,,,,
+278,HIHI,Holiday Island Holdings Inc,0.140000001,FALSE,2009,,25-Mar,8-Jun,2,2,9,9,25-Mar,8-Jun,-88.01092929
+279,HOL,Holicity Inc,9.840000153,TRUE,2020,,,,,,,,,,
+280,HCAEF,Holding Co ADMIE (IPTO) SA,2.549999952,TRUE,2020,,,,,,,,,,
+281,HCPHF,Holcim Philippines Inc,$0.11 ,TRUE,,'Date',,,,,,,,,
+282,HCPHY,Holcim Philippines Inc,14.10000038,TRUE,2018,,,,,,,,,,
+283,HKTHF,Hokuyaku Takeyama Holdings Inc,$6.82 ,TRUE,,No data fetched for symbol HKTHF using YahooDailyReader,,,,,,,,,
+284,HUKEF,Hokuriku Electrical Construction Co Ltd,8.300000191,TRUE,2019,,,,,,,,,,
+285,HOKRF,Hokuriku Electric Power Co Inc,$7.40 ,TRUE,,No data fetched for symbol HOKRF using YahooDailyReader,,,,,,,,,
+286,HKEPF,Hokkaido Electric Power Co Inc,$12.00 ,TRUE,,No data fetched for symbol HKEPF using YahooDailyReader,,,,,,,,,
+287,HGYMF,Hogy Medical Co Ltd,32.86999893,TRUE,2014,,,,,,,,,,
+288,HOGGF,Hogg Robinson Group PLC,$0.67 ,TRUE,,No data fetched for symbol HOGGF using YahooDailyReader,,,,,,,,,
+289,HOFBF,Hofseth BioCare ASA,0.910000026,TRUE,2018,,,,,,,,,,
+290,HMLP,Hoegh LNG Partners LP,12.57999992,TRUE,2014,,,,,,,,,,
+291,HOLHF,Hoegh LNG Holdings Ltd,1.399999976,TRUE,2012,,,,,,,,,,
+292,HCKG,Hocking Valley Bancshares,795,FALSE,2009,,15-Feb,30-Apr,7,6,4,5,15-Feb,30-Apr,6.257877579
+293,HOCFY,Hochtief AG,$19.27 ,TRUE,,No data fetched for symbol HOCFY using YahooDailyReader,,,,,,,,,
+294,HOCFF,Hochtief AG,73.75,TRUE,2012,,,,,,,,,,
+295,HCHDF,Hochschild Mining PLC,2.880000114,FALSE,2010,,20-Dec,5-Mar,6,6,4,4,20-Dec,5-Mar,10.64470691
+296,CDHPF,HNZ Group Inc,$7.74 ,TRUE,,No data fetched for symbol CDHPF using YahooDailyReader,,,,,,,,,
+297,HNZGF,HNZ Group Inc,$14.62 ,TRUE,,No data fetched for symbol HNZGF using YahooDailyReader,,,,,,,,,
+298,HNI,HNI Corp,37.56000137,FALSE,2009,,5-Nov,19-Jan,5,4,6,7,25-Sep,9-Dec,9.562727247
+299,HMNKF,HMS Networks AB,17.75,TRUE,2020,,,,,,,,,,
+300,HMSY,HMS Holdings Corp,30.20000076,FALSE,2009,,30-Apr,14-Jul,5,5,6,6,30-Apr,14-Jul,10.1133345
+301,HMNF,HMN Financial Inc,16.44000053,FALSE,2009,,29-Aug,12-Nov,7,7,4,4,29-Aug,12-Nov,4.823837146
+302,HMG,HMG/Courtland Properties Inc,11,FALSE,2009,,8-Nov,22-Jan,7,7,4,4,28-Dec,13-Mar,8.538470308
+303,HLTRF,HLS Therapeutics Inc,12.5,FALSE,2010,,1-Jun,15-Aug,3,3,7,7,1-Jun,15-Aug,11.56647392
+304,AMHD,HLK Biotech Holding Group Inc,0.0152,FALSE,2009,,20-Jun,3-Sep,3,3,8,8,20-Jun,3-Sep,30.49242424
+305,HCCH,HL Acquisitions Corp,16.06999969,TRUE,2018,,,,,,,,,,
+306,HKTTY,HKT Trust and HKT Ltd,12.85000038,TRUE,2012,,,,,,,,,,
+307,HKTTF,HKT Trust and HKT Ltd,1.289999962,TRUE,2012,,,,,,,,,,
+308,HRKIF,HKR International Ltd,0.284999996,FALSE,2010,,2-Jan,17-Mar,0,0,9,9,2-Jan,17-Mar,0
+309,HKNI,HKN Inc,6.039999962,TRUE,2012,,,,,,,,,,
+310,HKHDF,HKC (Holdings) Ltd,$0.02 ,TRUE,,'Date',,,,,,,,,
+311,HKBNY,HKBN Ltd,15.5,TRUE,2017,,,,,,,,,,
+312,HKBNF,HKBN Ltd,1.580000043,TRUE,2016,,,,,,,,,,
+313,HKGT,HK Graphene Technology Corp,100,FALSE,2010,,2-Jan,17-Mar,0,0,10,10,2-Jan,17-Mar,4.590909091
+314,HKVTY,HK Electric Investments and HK Electric Investment,10.47999954,TRUE,2019,,,,,,,,,,
+315,HKCVF,HK Electric Investments and HK Electric Investment,1.029999971,TRUE,2016,,,,,,,,,,
+316,HKBT,HK Battery Technology Inc,1,TRUE,2012,,,,,,,,,,
+317,HVBTF,HIVE Blockchain Technologies Ltd,0.460500002,TRUE,2011,,,,,,,,,,
+318,HMTLY,Hitachi Metals Ltd,130.5200043,FALSE,2010,,25-Sep,9-Dec,7,7,2,2,28-Dec,13-Mar,3.731039831
+319,HMTLF,Hitachi Metals Ltd,14.34000015,TRUE,2012,,,,,,,,,,
+320,HTHIY,Hitachi Ltd,76.16000366,FALSE,2009,,9-Nov,23-Jan,5,5,6,6,9-Nov,23-Jan,5.650149522
+321,HTHIF,Hitachi Ltd,38.22999954,FALSE,2010,,25-Jun,8-Sep,4,6,6,4,8-Nov,22-Jan,6.751234556
+322,HTKKY,Hitachi Kokusai Electric Inc,$53.89 ,TRUE,,No data fetched for symbol HTKKY using YahooDailyReader,,,,,,,,,
+323,HKKIY,Hitachi Koki Co Ltd,$125.94 ,TRUE,,No data fetched for symbol HKKIY using YahooDailyReader,,,,,,,,,
+324,HKKIF,Hitachi Koki Co Ltd,$12.30 ,TRUE,,No data fetched for symbol HKKIF using YahooDailyReader,,,,,,,,,
+325,HICTY,Hitachi High-Tech Corp,$145.85 ,TRUE,,No data fetched for symbol HICTY using YahooDailyReader,,,,,,,,,
+326,HICTF,Hitachi High-Tech Corp,74.90000153,TRUE,2012,,,,,,,,,,
+327,HTCMY,Hitachi Construction Machinery Co Ltd,54.27000046,TRUE,2011,,,,,,,,,,
+328,HTCMF,Hitachi Construction Machinery Co Ltd,26.87999916,TRUE,2014,,,,,,,,,,
+329,HCHMF,Hitachi Chemical Co Ltd,41.5,TRUE,2019,,,,,,,,,,
+330,HCHMY,Hitachi Chemical Co Ltd,87.14009857,TRUE,2013,,,,,,,,,,
+331,HTCIF,Hitachi Capital Corp,$22.25 ,TRUE,,No data fetched for symbol HTCIF using YahooDailyReader,,,,,,,,,
+332,HTTTF,Hit Technologies Inc,0.200000003,TRUE,2015,,,,,,,,,,
+333,HSTO,Histogen Inc,1.549999952,TRUE,2013,,,,,,,,,,
+334,HXPR,Hispanic Express Inc,0.639999986,TRUE,2012,,,,,,,,,,
+335,HPVBF,Hispania Activos Inmobiliarios SOCIMI SA,$19.95 ,TRUE,,No data fetched for symbol HPVBF using YahooDailyReader,,,,,,,,,
+336,HISEF,Hisense Home Appliances Group Co Ltd,1.679999948,TRUE,2013,,,,,,,,,,
+337,HCXLF,Hiscox Ltd,13.80000019,FALSE,2010,,18-May,1-Aug,6,6,4,4,18-May,1-Aug,7.250040655
+338,HTSUY,Hisamitsu Pharmaceutical Co Inc,$10.25 ,TRUE,,No data fetched for symbol HTSUY using YahooDailyReader,,,,,,,,,
+339,HTSUF,Hisamitsu Pharmaceutical Co Inc,42.04999924,TRUE,2012,,,,,,,,,,
+340,HRSMF,Hiroshima Bank Ltd,$3.40 ,TRUE,,No data fetched for symbol HRSMF using YahooDailyReader,,,,,,,,,
+341,HRSEF,Hirose Electric Co Ltd,110.25,TRUE,2020,,,,,,,,,,
+342,HQI,HireQuest Inc,8.789999962,FALSE,2009,,21-Oct,4-Jan,3,3,8,8,21-Oct,4-Jan,11.92689845
+343,HRTCF,Hirano Tecseed Co Ltd,$7.21 ,TRUE,,No data fetched for symbol HRTCF using YahooDailyReader,,,,,,,,,
+344,HENI,Hinto Energy Inc,0.029999999,TRUE,2011,,,,,,,,,,
+345,HINOY,Hino Motors Ltd,86.65000153,FALSE,2010,,3-Sep,17-Nov,4,4,6,6,8-Aug,22-Oct,1.108721565
+346,HINOF,Hino Motors Ltd,8.5,TRUE,2013,,,,,,,,,,
+347,HIFS,Hingham Institution for Savings,223.9600067,FALSE,2009,,13-May,27-Jul,8,7,3,4,13-May,27-Jul,6.037832361
+348,HNDNF,Hindalco Industries Ltd,2.950000048,TRUE,2012,,,,,,,,,,
+349,HIMX,Himax Technologies Inc,$4.80 ,TRUE,,'Date',,,,,,,,,
+350,HLT,Hilton Worldwide Holdings Inc,103.3499985,TRUE,2013,,,,,,,,,,
+351,HGV,Hilton Grand Vacations Inc,27.98999977,TRUE,2017,,,,,,,,,,
+352,HLFGY,Hilton Food Group PLC,$14.82 ,TRUE,,'Date',,,,,,,,,
+353,HLONF,Hilong Holding Ltd,$0.33 ,TRUE,,No data fetched for symbol HLONF using YahooDailyReader,,,,,,,,,
+354,HTH,Hilltop Holdings Inc,23.94000053,FALSE,2009,,24-Sep,8-Dec,4,4,7,7,22-Aug,5-Nov,5.315109567
+355,HBIA,Hills Bancorp,61.5,TRUE,2011,,,,,,,,,,
+356,HLRD,Hilliard Corp,500,TRUE,2012,,,,,,,,,,
+357,HLGVF,Hillgrove Resources Ltd,$0.06 ,TRUE,,No data fetched for symbol HLGVF using YahooDailyReader,,,,,,,,,
+358,HI,Hillenbrand Inc,36.11000061,FALSE,2009,,31-Aug,14-Nov,7,7,4,4,31-Aug,14-Nov,5.900626643
+359,HLRTF,Hillcrest Petroleum Ltd,0.04431,TRUE,2014,,,,,,,,,,
+360,HRC,Hill-Rom Holdings Inc,94.27999878,FALSE,2009,,29-Oct,12-Jan,7,7,4,4,29-Oct,12-Jan,5.037397801
+361,HSEEF,Hill Street Beverage Co Inc,0.068099998,TRUE,2018,,,,,,,,,,
+362,HIL,Hill International Inc,1.539999962,FALSE,2009,,12-Nov,26-Jan,3,3,8,8,12-Nov,26-Jan,9.35801885
+363,HSHPF,Hill & Smith Holdings PLC,$15.35 ,TRUE,,No data fetched for symbol HSHPF using YahooDailyReader,,,,,,,,,
+364,HLTEF,Hilan Ltd,44.75,TRUE,2012,,,,,,,,,,
+365,DJACF,Hiku Brands Co Ltd,$2.10 ,TRUE,,No data fetched for symbol DJACF using YahooDailyReader,,,,,,,,,
+366,HKMPY,Hikma Pharmaceuticals PLC,66.95999908,TRUE,2012,,,,,,,,,,
+367,HKMPF,Hikma Pharmaceuticals PLC,34.22999954,TRUE,2012,,,,,,,,,,
+368,HKTGF,Hikari Tsushin Inc,239,TRUE,2015,,,,,,,,,,
+369,HIW,Highwoods Properties Inc,36.59999847,FALSE,2009,,22-May,5-Aug,6,6,5,5,22-May,5-Aug,4.971145197
+370,HIHO,Highway Holdings Ltd,4,FALSE,2009,,5-Feb,20-Apr,7,7,4,4,5-Feb,20-Apr,2.067347167
+371,HGGCF,Highway 50 Gold Corp,0.233050004,TRUE,2014,,,,,,,,,,
+372,HEOL,Highwater Ethanol LLC,5850,TRUE,2014,,,,,,,,,,
+373,HPJ,Highpower International Inc,$4.79 ,TRUE,,No data fetched for symbol HPJ using YahooDailyReader,,,,,,,,,
+374,HPR,HighPoint Resources Corp,6.860000134,FALSE,2009,,28-Mar,11-Jun,3,3,8,8,28-Mar,11-Jun,8.441738577
+375,HPK,HighPeak Energy Inc,5.340000153,TRUE,2020,,,,,,,,,,
+376,HLPCF,Highlands Pacific Ltd,$0.07 ,TRUE,,No data fetched for symbol HLPCF using YahooDailyReader,,,,,,,,,
+377,HBSI,"Highlands Bankshares, Inc.",36,FALSE,2009,,31-Aug,14-Nov,6,6,5,5,14-Nov,28-Jan,4.213462852
+378,HLND,Highlands Bankshares Inc,$8.40 ,TRUE,,No data fetched for symbol HLND using YahooDailyReader,,,,,,,,,
+379,HSBK,Highlands Bancorp Inc,118.5400009,TRUE,2014,,,,,,,,,,
+380,HSCM,Highland Surprise Consolidated Mining Co,0.299899995,TRUE,2012,,,,,,,,,,
+381,HFRO,Highland Income Fund,8.729999542,TRUE,2017,,,,,,,,,,
+382,HGHGF,Highland Gold Mining Ltd,3.849999905,TRUE,2012,,,,,,,,,,
+383,HGLB,Highland Global Allocation Fund,5.670000076,TRUE,2019,,,,,,,,,,
+384,HDRSF,Highland Copper Co Inc,0.032000002,TRUE,2011,,,,,,,,,,
+385,HGGOF,HighGold Mining Inc,1.440000057,TRUE,2019,,,,,,,,,,
+386,HFSRF,Highfield Resources Ltd,0.569999993,TRUE,2019,,,,,,,,,,
+387,HCGS,HighCom Global Security Inc,0.0087,TRUE,2012,,,,,,,,,,
+388,CAPA,HighCape Capital Acquisition Corp,9.899999619,TRUE,2020,,,,,,,,,,
+389,HBKRF,Highbank Resources Ltd,0.01,TRUE,2012,,,,,,,,,,
+390,HITIF,High Tide Inc,0.144999996,TRUE,2019,,,,,,,,,,
+391,HSTI,High Sierra Technologies Inc,4.070000172,TRUE,2012,,,,,,,,,,
+392,HPTB,High Point Bank Corporation,$301.00 ,TRUE,,'Date',,,,,,,,,
+393,HLNFF,High Liner Foods Inc,8.142000198,TRUE,2014,,,,,,,,,,
+394,PCF,High Income Securities Fund,7.739999771,FALSE,2009,,12-Nov,26-Jan,10,10,1,1,31-Dec,16-Mar,1.667087075
+395,HCBC,High Country Bancorp Inc,40,FALSE,2009,,22-Oct,5-Jan,3,3,8,8,22-Oct,5-Jan,6.566153517
+396,HGHAF,High Arctic Energy Services Inc,0.967599988,TRUE,2014,,,,,,,,,,
+397,HIIDY,Hidili Industry International Development Ltd,4,FALSE,2010,,5-Apr,19-Jun,2,2,8,8,5-Apr,19-Jun,-1.08019184
+398,HIIDF,Hidili Industry International Development Ltd,$0.15 ,TRUE,,No data fetched for symbol HIIDF using YahooDailyReader,,,,,,,,,
+399,HIBLF,Hibiya Engineering Ltd,$13.60 ,TRUE,,'Date',,,,,,,,,
+400,HIPEF,Hibiscus Petroleum Bhd,0.150000006,TRUE,2014,,,,,,,,,,
+401,HIBRF,Hibernia REIT PLC,1.491999984,TRUE,2014,,,,,,,,,,
+402,HIBE,Hibernia Bancorp Inc,31.89999962,TRUE,2012,,,,,,,,,,
+403,HIBB,Hibbett Sports Inc,40.29999924,FALSE,2009,,13-Sep,27-Nov,6,6,5,5,13-Sep,27-Nov,10.78464272
+404,HIGR,Hi-Great Group Holding Co,0.850000024,TRUE,2012,,,,,,,,,,
+405,HCRSQ,Hi-Crush Inc,0.050000001,TRUE,2020,,,,,,,,,,
+406,HISNF,Hi Sun Technology (China) Ltd,$0.38 ,TRUE,,No data fetched for symbol HISNF using YahooDailyReader,,,,,,,,,
+407,HHSRF,Hi Ho Silver Resources Inc,0.0163,TRUE,2013,,,,,,,,,,
+408,HHBT,HH Biotechnology Holdings Co,0.129999995,FALSE,2009,,28-Jun,11-Sep,2,2,9,9,28-Jun,11-Sep,8.788533502
+409,STLY,HG Holdings Inc,0.610000014,FALSE,2009,,13-Nov,27-Jan,6,6,5,5,13-Nov,27-Jan,1.18897856
+410,HF,HFF Inc,$45.60 ,TRUE,,No data fetched for symbol HF using YahooDailyReader,,,,,,,,,
+411,HFBA,HFB Financial Corp,27.75,FALSE,2009,,19-Aug,2-Nov,8,8,3,3,28-Dec,13-Mar,5.043227674
+412,HFFG,HF Foods Group Inc,7.389999866,TRUE,2017,,,,,,,,,,
+413,HFFC,HF Financial Corp,$19.64 ,TRUE,,'Date',,,,,,,,,
+414,HEYBF,HeyBryan Media Inc,0.01,TRUE,2020,,,,,,,,,,
+415,HXXPY,Hexpol AB,10.48460007,TRUE,2018,,,,,,,,,,
+416,HXPLF,Hexpol AB,10.27130032,TRUE,2012,,,,,,,,,,
+417,HEXO,HEXO Corp,0.724900007,TRUE,2019,,,,,,,,,,
+418,HXOH,Hexion Holdings Corp,10.5,TRUE,2019,,,,,,,,,,
+419,HX,Hexindai Inc,2.160000086,TRUE,2017,,,,,,,,,,
+420,HXL,Hexcel Corp,50.08000183,FALSE,2009,,29-Oct,12-Jan,8,8,3,3,9-May,23-Jul,7.452381216
+421,MPRFF,Hexaom,$31.09 ,TRUE,,No data fetched for symbol MPRFF using YahooDailyReader,,,,,,,,,
+422,HXGCF,Hexagon Composites ASA,5.170000076,TRUE,2013,,,,,,,,,,
+423,HXGBY,Hexagon AB,81.9980011,TRUE,2013,,,,,,,,,,
+424,HXGBF,Hexagon AB,82.02999878,FALSE,2009,,30-Mar,13-Jun,9,9,2,2,3-Nov,17-Jan,8.252062102
+425,HPE,Hewlett Packard Enterprise Co,10.5,TRUE,2015,,,,,,,,,,
+426,HSTA,Hestia Insight Inc,9,TRUE,2012,,,,,,,,,,
+427,HESM,Hess Midstream LP,17.90999985,TRUE,2017,,,,,,,,,,
+428,HES,Hess Corp,46.02999878,FALSE,2009,,8-Dec,21-Feb,7,7,4,4,8-Dec,21-Feb,3.445459548
+429,HSKA,Heska Corp,127.1800003,FALSE,2009,,11-Mar,25-May,7,7,4,4,11-Mar,25-May,12.09243692
+430,CUBA,Herzfeld Caribbean Basin Fund Inc,4.570000172,FALSE,2009,,29-Oct,12-Jan,7,7,4,4,9-Feb,24-Apr,-0.62536424
+431,HTZGQ,Hertz Global Holdings Inc,1.110000014,TRUE,2020,,,,,,,,,,
+432,HRCR,Hershey Creamery Co,4500,TRUE,2012,,,,,,,,,,
+433,HT,Hersha Hospitality Trust,7.039999962,FALSE,2009,,28-Oct,11-Jan,6,6,5,5,27-Oct,10-Jan,6.270516728
+434,HERXF,Heroux-Devtek Inc,10.80000019,FALSE,2009,,23-Sep,7-Dec,5,5,6,6,23-Sep,7-Dec,1.578476174
+435,HRTX,Heron Therapeutics Inc,18.64999962,FALSE,2009,,7-May,21-Jul,7,7,4,4,7-May,21-Jul,13.55121928
+436,HRLDF,Heron Resources Ltd,0.01,TRUE,2014,,,,,,,,,,
+437,HENC,Hero Technologies Inc,0.047200002,FALSE,2009,,23-Apr,7-Jul,7,7,4,4,23-Apr,7-Jul,15.1665272
+438,PTHSF,Hero Supermarket Tbk,0.071000002,TRUE,2019,,,,,,,,,,
+439,HIUH,Hero International USA Holding Corp,$33.98 ,TRUE,,No data fetched for symbol HIUH using YahooDailyReader,,,,,,,,,
+440,HOFSQ,Hermitage Offshore Services Ltd,0.029999999,TRUE,2020,,,,,,,,,,
+441,HESAY,Hermes International SA,99.84999847,TRUE,2011,,,,,,,,,,
+442,HESAF,Hermes International SA,1006.609985,FALSE,2009,,27-Mar,10-Jun,7,7,4,4,27-Mar,10-Jun,9.711044781
+443,MLHR,Herman Miller Inc,36.79000092,FALSE,2009,,7-Oct,21-Dec,5,5,6,6,6-Oct,20-Dec,5.840398205
+444,HCCI,Heritage-Crystal Clean Inc,21.54999924,FALSE,2009,,22-Aug,5-Nov,6,6,5,5,22-Aug,5-Nov,5.632650055
+445,HSBI,Heritage Southeast Bancorporation Inc,12.05000019,FALSE,2009,,27-Jul,10-Oct,6,6,5,5,27-Jul,10-Oct,9.955888022
+446,HEOP,Heritage Oaks Bancorp,$13.35 ,TRUE,,'Date',,,,,,,,,
+447,HRGG,Heritage NOLA Bancorp Inc,12,TRUE,2017,,,,,,,,,,
+448,HRTG,Heritage Insurance Holdings Inc,10.65999985,TRUE,2014,,,,,,,,,,
+449,HGBL,Heritage Global Inc,1.639999986,FALSE,2009,,29-Jun,12-Sep,5,5,6,6,29-Jun,12-Sep,-46.42885854
+450,HFWA,Heritage Financial Corp,24.30999947,FALSE,2009,,10-Sep,24-Nov,6,6,5,5,15-Aug,29-Oct,2.761133982
+451,HTBK,Heritage Commerce Corp,8.479999542,FALSE,2009,,21-Oct,4-Jan,7,6,4,5,21-Oct,4-Jan,8.050195119
+452,HERTF,Heritage Cannabis Holding Corp,0.1017,TRUE,2014,,,,,,,,,,
+453,HBKS,Heritage Bankshares Inc,$21.00 ,TRUE,,'Date',,,,,,,,,
+454,HTSC,Here To Serve Holding Corp,0.090000004,FALSE,2009,,20-Feb,5-May,4,4,7,7,20-Feb,5-May,10.68895316
+455,HEROQ,Hercules Offshore Inc,$1.13 ,TRUE,,'Date',,,,,,,,,
+456,HTGC,Hercules Capital Inc,12.72000027,FALSE,2009,,16-Oct,30-Dec,6,5,5,6,21-Oct,4-Jan,2.906700909
+457,HRI,Herc Holdings Inc,56.88000107,FALSE,2009,,30-Oct,13-Jan,6,6,5,5,30-Oct,13-Jan,10.15708839
+458,HLF,Herbalife Nutrition Ltd,46.93999863,FALSE,2009,,3-May,17-Jul,7,7,4,4,3-May,17-Jul,10.06658522
+459,HRPMF,Herantis Pharma PLC,8.449999809,TRUE,2018,,,,,,,,,,
+460,HHOLF,Herald Holdings Ltd,0.064999998,TRUE,2020,,,,,,,,,,
+461,HRASF,Hera SpA,$2.61 ,TRUE,,'Date',,,,,,,,,
+462,HHER,Her Imports,0.050500002,TRUE,2013,,,,,,,,,,
+463,HEPA,Hepion Pharmaceuticals Inc,2.779999971,TRUE,2014,,,,,,,,,,
+464,HSIC,Henry Schein Inc,64.23999786,FALSE,2009,,7-Apr,21-Jun,8,8,3,3,7-Apr,21-Jun,6.204687227
+465,HCAC,Hennessy Capital Acquisition Corp IV,10.36999989,TRUE,2019,,,,,,,,,,
+466,HNNA,Hennessy Advisors Inc,9.380000114,FALSE,2009,,8-Jul,21-Sep,5,3,6,8,8-Jul,21-Sep,5.607834608
+467,HNNMY,Hennes & Mauritz AB,3.970000029,FALSE,2009,,6-Jul,19-Sep,4,4,7,7,6-Jul,19-Sep,6.606295842
+468,HMRZF,Hennes & Mauritz AB,19.35000038,FALSE,2009,,17-Mar,31-May,4,4,7,7,11-Jul,24-Sep,6.926619256
+469,HENOY,Henkel AG & Co KGaA,26.20199966,FALSE,2009,,29-May,12-Aug,6,6,5,5,29-May,12-Aug,4.672899921
+470,HENOF,Henkel AG & Co KGaA,105.5,TRUE,2011,,,,,,,,,,
+471,HENKY,Henkel AG & Co KGaA,23.39999962,FALSE,2009,,12-Feb,27-Apr,6,6,5,5,26-Sep,10-Dec,4.880453722
+472,HELKF,Henkel AG & Co KGaA,94.38999939,FALSE,2009,,20-Mar,3-Jun,4,4,5,5,31-May,14-Aug,2.570645456
+473,SHRRF,Hengyuan Refining Co Bhd,32.70000076,TRUE,2012,,,,,,,,,,
+474,HYIG,Hengyi International Industries Group Inc,$0.01 ,TRUE,,No data fetched for symbol HYIG using YahooDailyReader,,,,,,,,,
+475,HENGY,Hengdeli Holdings Ltd,0.910000026,TRUE,2012,,,,,,,,,,
+476,HENGF,Hengdeli Holdings Ltd,0.030999999,TRUE,2012,,,,,,,,,,
+477,HEGIY,Hengan International Group Co Ltd,37.50249863,TRUE,2013,,,,,,,,,,
+478,HEGIF,Hengan International Group Co Ltd,7.309999943,FALSE,2009,,17-Mar,31-May,6,6,5,5,25-Feb,10-May,6.935003977
+479,HGTIF,Heng Tai Consumables Group Ltd,$0.02 ,TRUE,,No data fetched for symbol HGTIF using YahooDailyReader,,,,,,,,,
+480,HLDVF,Henderson Land Development Co Ltd,3.779999971,FALSE,2009,,24-Mar,7-Jun,4,4,7,7,9-Feb,24-Apr,7.983634867
+481,HLDCY,Henderson Land Development Co Ltd,4.050000191,FALSE,2009,,9-Feb,24-Apr,3,3,8,8,9-Feb,24-Apr,7.017024194
+482,HDVTY,Henderson Investment Ltd,0.210999995,TRUE,2012,,,,,,,,,,
+483,HDVTF,Henderson Investment Ltd,0.07,TRUE,2013,,,,,,,,,,
+484,HNDGF,Henderson Group PLC,$2.97 ,TRUE,,No data fetched for symbol HNDGF using YahooDailyReader,,,,,,,,,
+485,QQFHF,Henderson Far East Income Ltd,$4.11 ,TRUE,,No data fetched for symbol QQFHF using YahooDailyReader,,,,,,,,,
+486,HPST,Hempstract Inc,0.146400005,TRUE,2020,,,,,,,,,,
+487,HMPPF,Hempco Food and Fiber Inc,$0.50 ,TRUE,,No data fetched for symbol HMPPF using YahooDailyReader,,,,,,,,,
+488,HPMM,Hemp Naturals Inc,0.020950001,TRUE,2017,,,,,,,,,,
+489,HMTXF,Hemostemix Inc,0.006,TRUE,2016,,,,,,,,,,
+490,CNOBF,Hemlo Explorers Inc,0.484200001,TRUE,2013,,,,,,,,,,
+491,HMTV,Hemisphere Media Group Inc,11.14999962,TRUE,2013,,,,,,,,,,
+492,HMENF,Hemisphere Energy Corp,0.082999997,TRUE,2015,,,,,,,,,,
+493,HMFFF,Hemfosa Fastigheter AB,$12.10 ,TRUE,,No data fetched for symbol HMFFF using YahooDailyReader,,,,,,,,,
+494,HMRJF,Hemaraj Land And Development PCL,$0.11 ,TRUE,,No data fetched for symbol HMRJF using YahooDailyReader,,,,,,,,,
+495,HMGN,Hemagen Diagnostics Inc,0.0071,FALSE,2009,,26-Jan,10-Apr,8,8,3,3,26-Jan,10-Apr,20.84106541
+496,HEMA,HemaCare Corp,$25.31 ,TRUE,,No data fetched for symbol HEMA using YahooDailyReader,,,,,,,,,
+497,HLVTY,Helvetia Holding AG,2.349999905,TRUE,2019,,,,,,,,,,
+498,HAHI,Help At Home Inc,0.050000001,TRUE,2012,,,,,,,,,,
+499,HLOC,Helo Corp,0.800000012,TRUE,2016,,,,,,,,,,
+500,HP,Helmerich & Payne Inc,19.77000046,FALSE,2009,,6-Sep,20-Nov,6,6,5,5,1-Oct,15-Dec,6.806194004
+501,HLFFF,HelloFresh SE,51.75,TRUE,2018,,,,,,,,,,
+502,HLLPF,Hello Pal International Inc,0.118799999,TRUE,2016,,,,,,,,,,
+503,HLLXF,Hellix Ventures Inc,0.0007,FALSE,2009,,2-Jul,15-Sep,7,7,4,4,2-Jul,15-Sep,23.76085708
+504,HLTOY,Hellenic Telecommunication Organization SA,7.570000172,FALSE,2009,,11-Jul,24-Sep,5,5,6,6,30-Oct,13-Jan,2.121872501
+505,HLTOF,Hellenic Telecommunication Organization SA,15.30000019,TRUE,2014,,,,,,,,,,
+506,HEXEY,Hellenic Exchanges - Athens Stock Exchange SA,7.340000153,TRUE,2015,,,,,,,,,,
+507,HEHSF,Hellenic Exchanges - Athens Stock Exchange SA,3.410000086,TRUE,2012,,,,,,,,,,
+508,HLYHY,Hellaby Holdings Ltd,$23.21 ,TRUE,,No data fetched for symbol HLYHY using YahooDailyReader,,,,,,,,,
+509,HLLGY,HELLA GmbH & Co KGaA,26.52099991,TRUE,2017,,,,,,,,,,
+510,HLKHF,HELLA GmbH & Co KGaA,51.56000137,TRUE,2016,,,,,,,,,,
+511,HLIX,Helix TCS Inc,0.200000003,TRUE,2016,,,,,,,,,,
+512,HLX,Helix Energy Solutions Group Inc,3.420000076,FALSE,2009,,21-Feb,6-May,5,5,6,6,21-Feb,6-May,-3.858884946
+513,HBPCF,Helix BioPharma Corp,0.25,FALSE,2009,,1-Jul,14-Sep,3,3,8,8,1-Jul,14-Sep,2.122719501
+514,HXBM,Helix Biomedix,25,FALSE,2009,,14-Jun,28-Aug,4,4,7,7,14-Jun,28-Aug,5.408628761
+515,BLVDF,Helix Applications Inc,0.092,FALSE,2010,,31-Aug,14-Nov,2,2,8,8,31-Aug,14-Nov,15.91888707
+516,HLXA,Helix Acquisition Corp,10.44999981,TRUE,2020,,,,,,,,,,
+517,HSDT,Helius Medical Technologies Inc,0.397000015,TRUE,2014,,,,,,,,,,
+518,RGCTF,Heliostar Metals Ltd,0.903500021,TRUE,2013,,,,,,,,,,
+519,HLSPY,Heliospectra AB,0.270000011,TRUE,2015,,,,,,,,,,
+520,HLSPF,Heliospectra AB,0.513199985,TRUE,2015,,,,,,,,,,
+521,HLIO,Helios Technologies Inc,48.63000107,FALSE,2009,,25-Sep,9-Dec,8,8,3,3,26-Sep,10-Dec,8.431626321
+522,HGDPF,Helgeland Sparebank,9,TRUE,2013,,,,,,,,,,
+523,HELE,Helen Of Troy Ltd,197.7700043,FALSE,2009,,16-Oct,30-Dec,7,7,4,4,16-Oct,30-Dec,6.75373286
+524,HLBMF,Helbor Empreendimentos SA,$0.98 ,TRUE,,No data fetched for symbol HLBMF using YahooDailyReader,,,,,,,,,
+525,HEKRF,Hektar Real Estate Investment Trust,$0.49 ,TRUE,,No data fetched for symbol HEKRF using YahooDailyReader,,,,,,,,,
+526,HEIWF,Heiwa Corp,$9.98 ,TRUE,,No data fetched for symbol HEIWF using YahooDailyReader,,,,,,,,,
+527,HINKF,Heineken NV,108.5,FALSE,2010,,10-Feb,25-Apr,7,7,3,3,8-Feb,23-Apr,6.210543526
+528,HEINY,Heineken NV,54.14749908,FALSE,2009,,7-Feb,22-Apr,9,9,2,2,7-Feb,22-Apr,5.468343201
+529,GUANF,Heineken Malaysia Bhd,$4.00 ,TRUE,,No data fetched for symbol GUANF using YahooDailyReader,,,,,,,,,
+530,HKHHY,Heineken Holding NV,48.13999939,TRUE,2013,,,,,,,,,,
+531,HKHHF,Heineken Holding NV,95.94999695,FALSE,2009,,10-Feb,25-Apr,8,8,3,3,7-Feb,22-Apr,4.507961161
+532,HJMNF,Heijmans NV,7.389999866,TRUE,2016,,,,,,,,,,
+533,HSII,Heidrick & Struggles International Inc,25.31999969,FALSE,2009,,11-Oct,25-Dec,4,4,7,7,12-Oct,26-Dec,17.28511912
+534,HBGRY,Heidelberger Druckmaschinen AG,0.382499993,FALSE,2010,,17-Dec,2-Mar,4,4,6,6,17-Dec,2-Mar,2.699581195
+535,HBGRF,Heidelberger Druckmaschinen AG,0.569999993,TRUE,2012,,,,,,,,,,
+536,HLBZF,HeidelbergCement AG,69.05999756,FALSE,2010,,12-Sep,26-Nov,6,6,4,4,12-Sep,26-Nov,5.746256115
+537,HDELY,HeidelbergCement AG,14.01000023,FALSE,2010,,25-Sep,9-Dec,7,7,3,3,25-Sep,9-Dec,4.567217905
+538,HEI.A,Heico Corp,$118.86 ,TRUE,,'Date',,,,,,,,,
+539,HEI,Heico Corp,134.2899933,FALSE,2009,,25-Oct,8-Jan,8,8,3,3,25-Oct,8-Jan,7.993794065
+540,HCSVF,HEIAN CEREMONY SERVICE Co Ltd,$7.71 ,TRUE,,'Date',,,,,,,,,
+541,HMMEF,Heemskirk Consolidated Ltd,$0.03 ,TRUE,,No data fetched for symbol HMMEF using YahooDailyReader,,,,,,,,,
+542,HBRK,Hedgebrook,0.01,TRUE,2019,,,,,,,,,,
+543,HL,Hecla Mining Co,5.010000229,FALSE,2009,,27-Jun,10-Sep,4,4,7,7,27-Jun,10-Sep,5.639231779
+544,HTRRF,Heatherdale Resources Ltd,0.801400006,TRUE,2013,,,,,,,,,,
+545,HTBX,Heat Biologics Inc,1.019999981,TRUE,2013,,,,,,,,,,
+546,HTWR,Heartware International Inc,$57.98 ,TRUE,,'Date',,,,,,,,,
+547,HPY,Heartland Payment Systems Inc,$103.09 ,TRUE,,'Date',,,,,,,,,
+548,HTLF,Heartland Financial USA Inc,39.5,FALSE,2009,,22-May,5-Aug,7,7,4,4,22-May,5-Aug,8.94569016
+549,HTLD,Heartland Express Inc,19.18000031,FALSE,2009,,29-Oct,12-Jan,7,7,4,4,21-May,4-Aug,2.004495796
+550,HLAN,Heartland Bancorp,71.5,FALSE,2009,,19-Feb,4-May,10,10,1,1,29-Sep,13-Dec,7.877072721
+551,HRTT,Heart Tronics Inc,0.215000004,FALSE,2009,,23-Aug,6-Nov,1,1,10,10,23-Aug,6-Nov,-61.56234033
+552,HRAL,Hear AtLast Holdings Inc,0.00825,FALSE,2009,,27-Dec,12-Mar,4,4,7,7,27-Dec,12-Mar,3.792603026
+553,HEWA,HealthWarehouse.com Inc,0.152600005,FALSE,2009,,25-Mar,8-Jun,6,6,5,5,25-Mar,8-Jun,11.74723402
+554,HSTM,HealthStream Inc,19.05999947,FALSE,2009,,27-Mar,10-Jun,4,4,7,7,27-Mar,10-Jun,12.62126877
+555,HDSLF,HealthSpace Data Systems Ltd,0.079000004,TRUE,2018,,,,,,,,,,
+556,HSCPF,Healthscope Ltd,$1.70 ,TRUE,,No data fetched for symbol HSCPF using YahooDailyReader,,,,,,,,,
+557,HHCSY,Healthscope Ltd,$8.53 ,TRUE,,No data fetched for symbol HHCSY using YahooDailyReader,,,,,,,,,
+558,PEAK,Healthpeak Properties Inc,30.35000038,FALSE,2009,,6-Mar,20-May,6,5,5,6,12-Nov,26-Jan,4.784702327
+559,HLYK,HealthLynked Corp,0.107900001,TRUE,2017,,,,,,,,,,
+560,HQY,HealthEquity Inc,67.63999939,TRUE,2014,,,,,,,,,,
+561,HTA,Healthcare Trust of America Inc,26.93000031,TRUE,2012,,,,,,,,,,
+562,VRTY,Healthcare Solutions Management Group Inc,0.050000001,FALSE,2009,,18-Dec,3-Mar,5,5,6,6,18-Dec,3-Mar,-14.23010629
+563,HCSG,Healthcare Services Group Inc,23.31999969,FALSE,2009,,10-Sep,24-Nov,7,7,4,4,10-Sep,24-Nov,6.733291687
+564,HR,Healthcare Realty Trust Inc,30.70999908,FALSE,2009,,12-Nov,26-Jan,9,8,2,3,12-Nov,26-Jan,5.054733837
+565,HCCO,Healthcare Merger Corp,9.220000267,TRUE,2020,,,,,,,,,,
+566,HITC,Healthcare Integrated Technologies Inc,0.589999974,TRUE,2015,,,,,,,,,,
+567,HCCA,Healthcare Corporation of America,0.022,TRUE,2013,,,,,,,,,,
+568,HSAQ,Health Sciences Acquisitions Corp 2,11.23750019,TRUE,2020,,,,,,,,,,
+569,HRAA,Health Revenue Assurance Holdings Inc,0.006,TRUE,2012,,,,,,,,,,
+570,HNT,Health Net Inc,$67.19 ,TRUE,,'Date',,,,,,,,,
+571,HDVY,Health Discovery Corp,0.036499999,TRUE,2012,,,,,,,,,,
+572,HCAT,Health Catalyst Inc,33.22000122,TRUE,2019,,,,,,,,,,
+573,BTSDF,Health and Happiness (H&H) International Holdings,4.150000095,TRUE,2011,,,,,,,,,,
+574,HADV,Health Advance Inc,0.0131,TRUE,2012,,,,,,,,,,
+575,PHCRY,Healius Ltd,$5.80 ,TRUE,,No data fetched for symbol PHCRY using YahooDailyReader,,,,,,,,,
+576,PHCRF,Healius Ltd,$2.13 ,TRUE,,No data fetched for symbol PHCRF using YahooDailyReader,,,,,,,,,
+577,HLOSF,Healios KK,18.5,TRUE,2020,,,,,,,,,,
+578,HW,Headwaters Inc,$24.24 ,TRUE,,'Date',,,,,,,,,
+579,CDDRF,Headwater Exploration Inc,1.299999952,FALSE,2009,,23-Oct,6-Jan,4,4,7,7,23-Oct,6-Jan,-2.780059736
+580,HDUP,HeadsUp Entertainment International Inc,0.079999998,FALSE,2010,,22-Mar,5-Jun,4,4,6,6,22-Mar,5-Jun,38.37084225
+581,HHR,HeadHunter Group PLC,25.70999908,TRUE,2019,,,,,,,,,,
+582,HEDYY,Head NV,$0.17 ,TRUE,,'Date',,,,,,,,,
+583,HDB,HDFC Bank Ltd,67.16000366,FALSE,2009,,7-May,21-Jul,6,6,5,5,7-May,21-Jul,8.641747909
+584,HDS,HD Supply Holdings Inc,55.79999924,TRUE,2013,,,,,,,,,,
+585,HCFB,HCSB Financial Corp,$0.13 ,TRUE,,'Date',,,,,,,,,
+586,HCI,HCI Group Inc,51.79000092,FALSE,2009,,16-Sep,30-Nov,7,7,4,4,18-Sep,2-Dec,7.715890109
+587,HCBN,HCB Financial Corp,21.5,FALSE,2009,,25-Sep,9-Dec,6,6,5,5,20-Mar,3-Jun,3.133164296
+588,HCA,HCA Healthcare Inc,151.2400055,TRUE,2011,,,,,,,,,,
+589,HCHC,HC2 Holdings Inc,2.289999962,FALSE,2009,,28-May,11-Aug,3,8,8,3,10-Apr,24-Jun,9.281194747
+590,HCINF,HC Group Inc,$0.25 ,TRUE,,No data fetched for symbol HCINF using YahooDailyReader,,,,,,,,,
+591,HBT,HBT Financial Inc,13.55000019,TRUE,2019,,,,,,,,,,
+592,HBPE,HBP Energy Corp,0.0151,TRUE,2013,,,,,,,,,,
+593,HBMBF,HBM Healthcare Investments Ltd,306.25,TRUE,2020,,,,,,,,,,
+594,HBIN,Hbancorporation Inc,$13.15 ,TRUE,,No data fetched for symbol HBIN using YahooDailyReader,,,,,,,,,
+595,HAZAF,HAZAMA ANDO Corp,$7.84 ,TRUE,,No data fetched for symbol HAZAF using YahooDailyReader,,,,,,,,,
+596,HAZH,Haz Holdings Inc,0.006,FALSE,2009,,24-Dec,9-Mar,7,7,4,4,24-Dec,9-Mar,33.69432369
+597,HWTYF,Hayward Tyler Group PLC,$1.29 ,TRUE,,No data fetched for symbol HWTYF using YahooDailyReader,,,,,,,,,
+598,HWRI,Hayward Industries Inc,1510,TRUE,2012,,,,,,,,,,
+599,HAYPY,Hays PLC,15.52999973,TRUE,2012,,,,,,,,,,
+600,HAYPF,Hays PLC,1.450000048,FALSE,2010,,27-Aug,10-Nov,7,5,3,5,24-Nov,7-Feb,7.416533635
+601,HAYN,Haynes International Inc,20.95000076,FALSE,2009,,19-Jan,3-Apr,6,6,5,5,19-Jan,3-Apr,4.214855713
+602,HYAC,Haymaker Acquisition Corp II,10.03999996,TRUE,2019,,,,,,,,,,
+603,HDGHF,Haydale Graphene Industries PLC,0.07,TRUE,2015,,,,,,,,,,
+604,HWBK,Hawthorn Bancshares Inc,20.61000061,FALSE,2009,,4-Sep,18-Nov,7,7,4,4,23-Aug,6-Nov,0.440747597
+605,TLWDF,Hawkwing PLC,$0.40 ,TRUE,,No data fetched for symbol TLWDF using YahooDailyReader,,,,,,,,,
+606,HWKN,Hawkins Inc,52.18999863,FALSE,2009,,7-Apr,21-Jun,3,3,8,8,7-Apr,21-Jun,6.476425265
+607,HWKE,Hawkeye Systems Inc,0.447600007,TRUE,2019,,,,,,,,,,
+608,HWKDF,Hawkeye Gold & Diamond Inc,0.021640001,TRUE,2012,,,,,,,,,,
+609,HWKR,Hawker Energy Inc,$0.04 ,TRUE,,'Date',,,,,,,,,
+610,HWKXF,Hawk Exploration Ltd,$0.19 ,TRUE,,No data fetched for symbol HWKXF using YahooDailyReader,,,,,,,,,
+611,HWTLW,Hawaiian Telcom Holdco Inc,$1.00 ,TRUE,,No data fetched for symbol HWTLW using YahooDailyReader,,,,,,,,,
+612,HCOM,Hawaiian Telcom Holdco Inc,28.92000008,TRUE,2012,,,,,,,,,,
+613,NNUTU,Hawaiian Macadamia Nut Orchards LP,4150,FALSE,2009,,26-May,9-Aug,4,4,6,6,26-May,9-Aug,3.779840629
+614,HHGI,Hawaiian Hospitality Group Inc,0.017999999,TRUE,2012,,,,,,,,,,
+615,HA,Hawaiian Holdings Inc,19.38999939,FALSE,2009,,20-Sep,4-Dec,4,4,7,7,22-Sep,6-Dec,14.73015683
+616,HE,Hawaiian Electric Industries Inc,37.36000061,FALSE,2009,,21-Oct,4-Jan,6,5,5,6,6-Oct,20-Dec,6.020469235
+617,HAWPY,Haw Par Corp Ltd,27.60000038,TRUE,2013,,,,,,,,,,
+618,HAWPF,Haw Par Corp Ltd,7.159999847,FALSE,2009,,26-Feb,11-May,6,6,5,5,26-Feb,11-May,6.852447014
+619,HAVLF,HAVN Life Sciences Inc,0.69441998,TRUE,2020,,,,,,,,,,
+620,HVT.A,Haverty Furniture Companies Inc,$30.82 ,TRUE,,No data fetched for symbol HVT.A using YahooDailyReader,,,,,,,,,
+621,HVT,Haverty Furniture Companies Inc,30.34000015,FALSE,2009,,22-Sep,6-Dec,5,5,6,6,22-Sep,6-Dec,8.427262093
+622,HAVSF,Havas SA,10.75,TRUE,2012,,,,,,,,,,
+623,HAUP,Hauppauge Digital Inc,0.059999999,FALSE,2009,,7-Mar,21-May,5,5,6,6,7-Mar,21-May,9.723676149
+624,HLOTF,Haulotte Group,$14.85 ,TRUE,,No data fetched for symbol HLOTF using YahooDailyReader,,,,,,,,,
+625,HTS,Hatteras Financial Corp,$16.29 ,TRUE,,'Date',,,,,,,,,
+626,HNGGF,Hastings Group Holdings PLC,3.243940115,TRUE,2020,,,,,,,,,,
+627,HSHS,HashingSpace Corp,$0.02 ,TRUE,,'Date',,,,,,,,,
+628,HSSHF,HashChain Technology Inc,0.159999996,TRUE,2017,,,,,,,,,,
+629,HSKCF,HASEKO Corp,$10.50 ,TRUE,,No data fetched for symbol HSKCF using YahooDailyReader,,,,,,,,,
+630,HASC,Hasco Medical Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+631,HAS,Hasbro Inc,92.08000183,FALSE,2009,,16-Mar,30-May,7,7,4,4,28-Feb,13-May,5.519630056
+632,HVYW,Harvey-Westbury Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+633,HNORF,Harvey Norman Holdings Ltd,$1.75 ,TRUE,,'Date',,,,,,,,,
+634,HNORY,Harvey Norman Holdings Ltd,16.48999977,TRUE,2015,,,,,,,,,,
+635,HVYNF,Harvey Nash Group PLC,$1.43 ,TRUE,,'Date',,,,,,,,,
+636,HRVOF,Harvest One Cannabis Inc,0.052140001,TRUE,2017,,,,,,,,,,
+637,HRST,Harvest Oil & Gas Corp,37.18999863,TRUE,2018,,,,,,,,,,
+638,EVEPQ,Harvest Oil & Gas Corp,0.136000007,TRUE,2012,,,,,,,,,,
+639,HNR,Harvest Natural Resources Inc,$6.62 ,TRUE,,'Date',,,,,,,,,
+640,HRVSF,Harvest Health & Recreation Inc,1.889999986,TRUE,2018,,,,,,,,,,
+641,HVGDF,Harvest Gold Corp,0.140000001,TRUE,2012,,,,,,,,,,
+642,HCAP,Harvest Capital Credit Corp,3.109999895,TRUE,2013,,,,,,,,,,
+643,HARI,Harvard Illinois Bancorp Inc,$13.55 ,TRUE,,No data fetched for symbol HARI using YahooDailyReader,,,,,,,,,
+644,HBIO,Harvard Bioscience Inc,4,FALSE,2009,,17-Jan,1-Apr,6,6,5,5,17-Jan,1-Apr,7.966738347
+645,HFUS,Hartford Great Health Corp,1.25,TRUE,2012,,,,,,,,,,
+646,HRTH,Harte-Hanks Inc,2.299999952,FALSE,2009,,8-Dec,21-Feb,6,6,5,5,8-Dec,21-Feb,6.607012011
+647,HRTFF,Harte Gold Corp,0.095519997,TRUE,2012,,,,,,,,,,
+648,HRGHY,Hartalega Holdings Bhd,$15.46 ,TRUE,,No data fetched for symbol HRGHY using YahooDailyReader,,,,,,,,,
+649,HSC,Harsco Corp,16.72999954,FALSE,2009,,5-May,19-Jul,5,5,6,6,7-Mar,21-May,9.842990715
+650,WSRRF,Harrys Manufacturing Inc,0.109999999,TRUE,2011,,,,,,,,,,
+651,HROW,Harrow Health Inc,6.449999809,FALSE,2009,,10-Apr,24-Jun,5,5,6,6,10-Apr,24-Jun,13.66271261
+652,HRGP,Harrison Ross Group Inc,$0.04 ,TRUE,,'Date',,,,,,,,,
+653,HXPN,Harris Exploration Inc,0.027000001,FALSE,2009,,27-Jun,10-Sep,5,2,6,9,27-Jun,10-Sep,-25.93022788
+654,HARP,Harpoon Therapeutics Inc,14.52000046,TRUE,2019,,,,,,,,,,
+655,HGMCF,Harmony Gold Mining Co Ltd,5.769999981,FALSE,2009,,9-Jun,23-Aug,5,5,6,6,9-Jun,23-Aug,5.180932501
+656,HMY,Harmony Gold Mining Co Ltd,4.559999943,FALSE,2009,,28-Jun,11-Sep,4,4,7,7,28-Jun,11-Sep,12.84476678
+657,HRMY,Harmony Biosciences Holdings Inc,42.81999969,TRUE,2020,,,,,,,,,,
+658,HRMB,Harmony Bank Jackson NJ,$14.00 ,TRUE,,No data fetched for symbol HRMB using YahooDailyReader,,,,,,,,,
+659,HLIT,Harmonic Inc,6.369999886,FALSE,2009,,27-Aug,10-Nov,7,7,4,4,27-Aug,10-Nov,4.683625325
+660,HSYDF,Harmonic Drive Systems Inc,45,TRUE,2018,,,,,,,,,,
+661,HARL,Harleysville Financial Corp,21.75,FALSE,2009,,12-Sep,26-Nov,8,8,3,3,19-Dec,4-Mar,4.949072608
+662,HOG,Harley-Davidson Inc,36,FALSE,2009,,25-Sep,9-Dec,7,7,4,4,25-Sep,9-Dec,9.177388322
+663,HGRVF,Hargreaves Services PLC,2.859999895,TRUE,2013,,,,,,,,,,
+664,HRGLY,Hargreaves Lansdown PLC,41.75,TRUE,2016,,,,,,,,,,
+665,HRGLF,Hargreaves Lansdown PLC,17.42499924,TRUE,2012,,,,,,,,,,
+666,HFBK,Harford Bank,21.88999939,FALSE,2009,,14-Dec,27-Feb,7,7,4,4,14-Dec,27-Feb,5.096125074
+667,HRFEF,Harfang Exploration Inc,0.274809986,TRUE,2019,,,,,,,,,,
+668,HAHRF,Harel Insurance Investments & Financial Services L,6.071899891,TRUE,2017,,,,,,,,,,
+669,HROLF,Hardy Oil & Gas PLC,$0.25 ,TRUE,,No data fetched for symbol HROLF using YahooDailyReader,,,,,,,,,
+670,HDIUF,Hardwoods Distribution Inc,19.39999962,FALSE,2009,,14-May,28-Jul,8,8,3,3,14-May,28-Jul,11.53595769
+671,HDNG,Hardinge Inc,18.5,TRUE,2012,,,,,,,,,,
+672,HBTC,Harbourton Capital Group Inc,0.005,TRUE,2012,,,,,,,,,,
+673,HBORF,Harborside Inc,1.35650003,TRUE,2020,,,,,,,,,,
+674,HONE,HarborOne Bancorp Inc,10.18999958,TRUE,2016,,,,,,,,,,
+675,HHRRF,"Harbor Star Shipping Services, Inc",0.059999999,TRUE,2019,,,,,,,,,,
+676,HRBR,Harbor Diversified Inc,0.187185004,FALSE,2009,,23-May,6-Aug,5,5,6,6,23-May,6-Aug,12.83538967
+677,HCDI,Harbor Custom Development Inc,4.960000038,TRUE,2020,,,,,,,,,,
+678,HRBK,Harbor Bankshares Corp,1.5,FALSE,2009,,30-Oct,13-Jan,6,6,5,5,30-Oct,13-Jan,6.732010105
+679,HBPWF,Harbin Electric Co Ltd,$0.40 ,TRUE,,No data fetched for symbol HBPWF using YahooDailyReader,,,,,,,,,
+680,HPTN,Happy Town Holdings Inc,0.170000002,TRUE,2012,,,,,,,,,,
+681,HPYCF,Happy Creek Minerals Ltd,0.07,TRUE,2018,,,,,,,,,,
+682,HAPP,Happiness Biotech Group Ltd,1.889999986,TRUE,2019,,,,,,,,,,
+683,HLAGF,Hapag-Lloyd AG,64.90000153,TRUE,2018,,,,,,,,,,
+684,HPGLY,Hapag-Lloyd AG,36,TRUE,2017,,,,,,,,,,
+685,HQCL,Hanwha Q CELLS Co Ltd,9.829999924,TRUE,2012,,,,,,,,,,
+686,HNWEF,Hanwei Energy Services Corp,0.007,TRUE,2012,,,,,,,,,,
+687,HTHPF,Hansteen Holdings PLC,$1.80 ,TRUE,,No data fetched for symbol HTHPF using YahooDailyReader,,,,,,,,,
+688,HEQM,Hansheng Industrial Equipment Manufacturing Inc,$0.05 ,TRUE,,No data fetched for symbol HEQM using YahooDailyReader,,,,,,,,,
+689,HNSN,Hansen Medical Inc,$3.99 ,TRUE,,'Date',,,,,,,,,
+690,HNRDF,Hansard Global PLC,0.5,TRUE,2012,,,,,,,,,,
+691,HNSBF,Hansa Biopharma AB,29.5,TRUE,2015,,,,,,,,,,
+692,HNFSB,Hanover Foods Corp,78,FALSE,2010,,25-Feb,10-May,4,3,6,7,23-Feb,8-May,-0.116190318
+693,HNFSA,Hanover Foods Corp,78,FALSE,2009,,5-Feb,20-Apr,5,5,6,6,17-Jan,1-Apr,-0.778015025
+694,HVRRY,Hannover Rueck SE,86.63999939,FALSE,2010,,19-Sep,3-Dec,6,6,4,4,19-Sep,3-Dec,9.44852222
+695,HVRRF,Hannover Rueck SE,173.8500061,TRUE,2012,,,,,,,,,,
+696,HHSE,Hannover House Inc,0.012,FALSE,2009,,20-Jan,4-Apr,7,7,4,4,20-Jan,4-Apr,13.0875048
+697,HASI,Hannon Armstrong Sustainable Infrastructure Capita,52.11000061,TRUE,2013,,,,,,,,,,
+698,HANNF,Hannan Metals Ltd,0.272700012,FALSE,2009,,8-Dec,21-Feb,7,7,4,4,8-Dec,21-Feb,33.65371445
+699,NITMF,Hanna Capital Corp,0.104999997,TRUE,2014,,,,,,,,,,
+700,HAFC,Hanmi Financial Corp,10.31999969,FALSE,2009,,12-Nov,26-Jan,7,7,4,4,12-Nov,26-Jan,8.291057469
+701,HYUHF,Hankyu Hanshin Holdings Inc,31,TRUE,2013,,,,,,,,,,
+702,HJGP,Hanjiao Group Inc,0.25,TRUE,2020,,,,,,,,,,
+703,PHJMF,Hanjaya Mandala Sampoerna Tbk,0.111000001,FALSE,2010,,9-Nov,23-Jan,3,4,7,6,29-Oct,12-Jan,6.297349445
+704,HACOF,Hanison Construction Holdings Ltd,$0.16 ,TRUE,,No data fetched for symbol HACOF using YahooDailyReader,,,,,,,,,
+705,HNGR,Hanger Inc,21.69000053,FALSE,2009,,12-Nov,26-Jan,8,8,3,3,12-Nov,26-Jan,11.98413708
+706,^HSI,Hang Seng Index,26544.28906,FALSE,2009,,25-Sep,9-Dec,5,5,6,6,25-Sep,9-Dec,3.689428289
+707,^HSCE,Hang Seng China Enterprises Index,10640.0498,FALSE,2009,,26-Sep,10-Dec,4,4,7,7,26-Sep,10-Dec,6.398882597
+708,HSNGY,Hang Seng Bank Ltd,16.81900024,FALSE,2009,,22-Mar,5-Jun,5,5,6,6,2-Sep,16-Nov,1.156180936
+709,HSNGF,Hang Seng Bank Ltd,15.35000038,TRUE,2012,,,,,,,,,,
+710,HLPPY,Hang Lung Properties Ltd,13.22000027,FALSE,2009,,3-Feb,18-Apr,5,5,6,6,3-Feb,18-Apr,6.562887165
+711,HLPPF,Hang Lung Properties Ltd,2.61439991,TRUE,2012,,,,,,,,,,
+712,HNLGY,Hang Lung Group Ltd,12.61999989,FALSE,2010,,28-Nov,11-Feb,6,6,4,4,28-Nov,11-Feb,0.446066577
+713,HNLGF,Hang Lung Group Ltd,2.410000086,FALSE,2010,,22-Feb,7-May,5,5,5,5,11-Jul,24-Sep,3.443134006
+714,HBI,Hanesbrands Inc,13.40999985,FALSE,2009,,12-May,26-Jul,7,6,4,5,6-Feb,21-Apr,6.355574738
+715,HNGSF,Hanergy Thin Film Power Group Ltd,$0.28 ,TRUE,,No data fetched for symbol HNGSF using YahooDailyReader,,,,,,,,,
+716,HNH,Handy & Harman Ltd,$30.30 ,TRUE,,'Date',,,,,,,,,
+717,HNDI,Handeni Gold Inc,0.065099999,TRUE,2012,,,,,,,,,,
+718,NWHAF,Handa Mining Corp,0.013,TRUE,2014,,,,,,,,,,
+719,HWC,Hancock Whitney Corp,28.25,FALSE,2009,,4-Sep,18-Nov,6,6,5,5,4-Sep,18-Nov,6.798885668
+720,HJLI,Hancock Jaffe Laboratories Inc,0.330000013,TRUE,2018,,,,,,,,,,
+721,HMICF,Hana Microelectronics PCL,0.910000026,TRUE,2017,,,,,,,,,,
+722,HTTI,Han Tang Technology Inc,0.115999997,TRUE,2017,,,,,,,,,,
+723,HLXH,Hamptons Luxury Homes Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+724,HMPR,Hampton Roads Bankshares Inc,$2.05 ,TRUE,,'Date',,,,,,,,,
+725,HAMPQ,Hampshire Group Ltd,$0.01 ,TRUE,,'Date',,,,,,,,,
+726,HMDPF,Hammond Power Solutions Inc,4.449999809,TRUE,2012,,,,,,,,,,
+727,HMFAF,Hammond Manufacturing Co Ltd,$0.90 ,TRUE,,No data fetched for symbol HMFAF using YahooDailyReader,,,,,,,,,
+728,HAMT,Hammett J L Co,$0.10 ,TRUE,,'Date',,,,,,,,,
+729,HMSNF,Hammerson PLC,0.314999998,TRUE,2012,,,,,,,,,,
+730,HMRRF,Hammer Metals Ltd,0.035,TRUE,2017,,,,,,,,,,
+731,HMMR,Hammer Fiber Optics Holdings Corp,0.151175007,TRUE,2016,,,,,,,,,,
+732,HMLN,Hamlin Bank and Trust Co,265,FALSE,2009,,20-May,3-Aug,7,7,4,4,15-Feb,30-Apr,4.138059488
+733,HMPMF,Hamlet Pharma AB,3.75999999,TRUE,2020,,,,,,,,,,
+734,HTLZF,Hamilton Thorne Ltd,1.059999943,FALSE,2010,,27-Mar,10-Jun,6,6,4,4,27-Mar,10-Jun,17.16859108
+735,HMBH,Hamilton State Bancshares Inc,$9.50 ,TRUE,,No data fetched for symbol HMBH using YahooDailyReader,,,,,,,,,
+736,HLNE,Hamilton Lane Inc,73.43000031,TRUE,2017,,,,,,,,,,
+737,HBB,Hamilton Beach Brands Holding Co,18.37999916,TRUE,2017,,,,,,,,,,
+738,HBK,Hamilton Bancorp Inc,$15.76 ,TRUE,,No data fetched for symbol HBK using YahooDailyReader,,,,,,,,,
+739,HHULY,Hamburger Hafen und Logistik AG,9.970000267,TRUE,2011,,,,,,,,,,
+740,HHULF,Hamburger Hafen und Logistik AG,21.04999924,FALSE,2009,,28-May,11-Aug,4,4,7,7,13-Sep,27-Nov,5.215192413
+741,HMBG,Hamburg Industries Inc,$2.00 ,TRUE,,No data fetched for symbol HMBG using YahooDailyReader,,,,,,,,,
+742,HANBF,Hamborner REIT AG,8.388899803,TRUE,2020,,,,,,,,,,
+743,HPHTY,Hamamatsu Photonics KK,11.85999966,TRUE,2015,,,,,,,,,,
+744,HPHTF,Hamamatsu Photonics KK,54.09000015,TRUE,2012,,,,,,,,,,
+745,HALO,Halozyme Therapeutics Inc,39.00999832,FALSE,2009,,28-Oct,11-Jan,7,7,4,4,28-Oct,11-Jan,15.3247974
+746,HGENF,Halogen Software Inc,$9.23 ,TRUE,,No data fetched for symbol HGENF using YahooDailyReader,,,,,,,,,
+747,AGEEF,Halo Labs Inc,0.057999998,FALSE,2010,,17-Dec,2-Mar,5,5,5,5,17-Dec,2-Mar,7.273773509
+748,HALN,Halo Companies Inc,0.150999993,TRUE,2012,,,,,,,,,,
+749,HALMY,Halma PLC,68.19000244,TRUE,2020,,,,,,,,,,
+750,HLMLY,Halma PLC,$40.40 ,TRUE,,No data fetched for symbol HLMLY using YahooDailyReader,,,,,,,,,
+751,HLMAF,Halma PLC,31.29500008,TRUE,2012,,,,,,,,,,
+752,HLLK,Hallmark Venture Group Inc,0.01,TRUE,2017,,,,,,,,,,
+753,HALL,Hallmark Financial Services Inc,3.519999981,FALSE,2009,,7-Apr,21-Jun,1,1,10,10,7-Apr,21-Jun,7.568794421
+754,HAL,Halliburton Co,15.39000034,FALSE,2009,,7-Dec,20-Feb,8,8,3,3,7-Dec,20-Feb,5.933915757
+755,HNRG,Hallador Energy Co,0.875699997,FALSE,2009,,14-Sep,28-Nov,6,6,5,5,21-Aug,4-Nov,4.227502279
+756,HTEE,Hall Tees Inc,$0.75 ,TRUE,,No data fetched for symbol HTEE using YahooDailyReader,,,,,,,,,
+757,HOFV,Hall Of Fame Resort & Entertainment Co,1.220000029,TRUE,2018,,,,,,,,,,
+758,HLFDY,Halfords Group PLC,6.449999809,TRUE,2012,,,,,,,,,,
+759,HLFDF,Halfords Group PLC,2.059999943,TRUE,2012,,,,,,,,,,
+760,HLDXF,Haldex AB,$12.38 ,TRUE,,'Date',,,,,,,,,
+761,HKRSQ,Halcon Resources Corp,0.074000001,TRUE,2012,,,,,,,,,,
+762,HALB,Halberd Corp,0.028000001,TRUE,2012,,,,,,,,,,
+763,HALFF,HAL Trust,140.5,TRUE,2013,,,,,,,,,,
+764,HKUOY,Hakuhodo DY Holdings Inc,28.01000023,TRUE,2012,,,,,,,,,,
+765,HKUOF,Hakuhodo DY Holdings Inc,14.35000038,TRUE,2015,,,,,,,,,,
+766,HTNGF,Haitong Securities Co Ltd,0.819999993,TRUE,2015,,,,,,,,,,
+767,HAITY,Haitong Securities Co Ltd,9.399999619,TRUE,2015,,,,,,,,,,
+768,HNGFF,Haitong International Securities Group Ltd,$0.60 ,TRUE,,No data fetched for symbol HNGFF using YahooDailyReader,,,,,,,,,
+769,HAIIF,Haitian International Holdings Ltd,2.099999905,TRUE,2015,,,,,,,,,,
+770,HMCTF,Hainan Meilan International Airport Co Ltd,4.130000114,FALSE,2010,,22-Mar,5-Jun,5,5,5,5,27-Jan,11-Apr,5.843418021
+771,HLG,Hailiang Education Group Inc,64.19999695,TRUE,2015,,,,,,,,,,
+772,HRELY,Haier Electronics Group Co Ltd,49.75,FALSE,2010,,27-Oct,10-Jan,7,7,3,3,27-Oct,10-Jan,12.17800652
+773,HRELF,Haier Electronics Group Co Ltd,4.769999981,FALSE,2009,,24-Sep,8-Dec,6,6,5,5,24-Sep,8-Dec,17.3945956
+774,HDALF,Haidilao International Holding Ltd,7,TRUE,2018,,,,,,,,,,
+775,WSSXF,Hague and London Oil PLC,$0.04 ,TRUE,,No data fetched for symbol WSSXF using YahooDailyReader,,,,,,,,,
+776,HGWEF,Hagiwara Electric Holdings Co Ltd,$14.94 ,TRUE,,No data fetched for symbol HGWEF using YahooDailyReader,,,,,,,,,
+777,HFSUF,Hafslund ASA,$7.75 ,TRUE,,'Date',,,,,,,,,
+778,HFIAF,Hafnia Ltd,1.602499962,TRUE,2020,,,,,,,,,,
+779,HAE,Haemonetics Corp,109.8799973,FALSE,2009,,20-Oct,3-Jan,7,7,4,4,20-Oct,3-Jan,5.902708164
+780,HAIPF,Hadera Paper Ltd,30,FALSE,2009,,17-Feb,2-May,7,7,4,4,17-Feb,2-May,7.389180089
+781,HSITF,Hadasit Bio Holdings Ltd,1.950000048,FALSE,2010,,4-Mar,18-May,6,5,4,5,4-Mar,18-May,12.94308943
+782,HADSY,Hadasit Bio Holdings Ltd,$0.81 ,TRUE,,No data fetched for symbol HADSY using YahooDailyReader,,,,,,,,,
+783,HOMJF,Haci Omer Sabanci Holding AS,$4.02 ,TRUE,,No data fetched for symbol HOMJF using YahooDailyReader,,,,,,,,,
+784,HACBY,Hachijuni Bank Ltd,37.68000031,FALSE,2009,,24-May,7-Aug,7,7,4,4,24-May,7-Aug,3.442810079
+785,HACBF,Hachijuni Bank Ltd,3.599999905,TRUE,2016,,,,,,,,,,
+786,HABC,Habersham Bancorp,0.0099,TRUE,2012,,,,,,,,,,
+787,HEOFF,H2O Innovation Inc,1.49000001,FALSE,2009,,20-May,3-Aug,5,5,6,6,20-May,3-Aug,11.18512649
+788,HISJF,H.I.S. Co Ltd,15.21000004,TRUE,2013,,,,,,,,,,
+789,FUL,H.B. Fuller Co,52.02999878,FALSE,2009,,25-Sep,9-Dec,7,7,4,4,14-Oct,28-Dec,5.548435399
+790,HLUYY,H. Lundbeck A/S,30.86000061,TRUE,2012,,,,,,,,,,
+791,HLUKF,H. Lundbeck A/S,30.25,FALSE,2010,,13-Mar,27-May,8,8,2,2,18-Jan,2-Apr,4.715488473
+792,HSCHF,H-Source Holdings Ltd,0.061900001,TRUE,2016,,,,,,,,,,
+793,HHFFF,H-FARM S.p.A.,$1.02 ,TRUE,,No data fetched for symbol HHFFF using YahooDailyReader,,,,,,,,,
+794,HDIH,H-D International Holdings Group,0.057999998,TRUE,2018,,,,,,,,,,
+795,HCYT,H-CYTE Inc,0.015,TRUE,2015,,,,,,,,,,
+796,HTZZF,H&T Group PLC,$4.55 ,TRUE,,No data fetched for symbol HTZZF using YahooDailyReader,,,,,,,,,
+797,HRUFF,H&R Real Estate Investment Trust,10.57999992,FALSE,2010,,18-Mar,1-Jun,6,5,4,5,18-Mar,1-Jun,2.972510389
+798,HRB,H&R Block Inc,18.43000031,FALSE,2009,,6-Sep,20-Nov,6,5,5,6,25-Sep,9-Dec,6.947657632
+799,HEES,H&E Equipment Services Inc,27.07999992,FALSE,2009,,1-Oct,15-Dec,8,8,3,3,9-Jan,24-Mar,-4.900130288
+800,MRCHF,H U Group Holdings Inc,$24.30 ,TRUE,,No data fetched for symbol MRCHF using YahooDailyReader,,,,,,,,,

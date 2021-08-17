@@ -1,0 +1,1003 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,NZSTF,NZX Ltd,0.6499999761581421,False,2009.0,,08-14,10-28,5.0,3.0,6.0,8.0,04-30,07-14,8.956597004241466
+1,NZRIF,Nzuri Copper Ltd,$0.18 ,True,,No data fetched for symbol NZRIF using YahooDailyReader,,,,,,,,,
+2,NZMEF,NZME Ltd,$0.30 ,True,,No data fetched for symbol NZMEF using YahooDailyReader,,,,,,,,,
+3,NZIH,NZJ Holdings Inc,0.011099999770522118,True,2012.0,,,,,,,,,,
+4,ZPCM,NZCH Corp,0.019999999552965164,True,2012.0,,,,,,,,,,
+5,NZWFF,NZ Windfarms Ltd,$0.08 ,True,,No data fetched for symbol NZWFF using YahooDailyReader,,,,,,,,,
+6,NXXYF,NYX Gaming Group Ltd,$1.89 ,True,,No data fetched for symbol NXXYF using YahooDailyReader,,,,,,,,,
+7,NYRSY,Nyrstar NV,0.2761000096797943,True,2012.0,,,,,,,,,,
+8,NYRSF,Nyrstar NV,$0.39 ,True,,No data fetched for symbol NYRSF using YahooDailyReader,,,,,,,,,
+9,NYMX,Nymox Pharmaceutical Corp,1.9800000190734863,False,2009.0,,08-19,11-02,6.0,6.0,5.0,5.0,08-19,11-02,3.1104337963497586
+10,NYLE,Nyle International Corp,0.03999999910593033,True,2012.0,,,,,,,,,,
+11,NXTD,Nxt-ID Inc,0.3569999933242798,True,2013.0,,,,,,,,,,
+12,NSFDF,NXT Energy Solutions Inc,0.3400000035762787,False,2009.0,,05-21,08-04,5.0,5.0,6.0,6.0,05-21,08-04,13.255322364915173
+13,NXTM,NxStage Medical Inc,$30.00 ,True,,No data fetched for symbol NXTM using YahooDailyReader,,,,,,,,,
+14,NXPI,NXP Semiconductors NV,148.14999389648438,False,2010.0,,09-26,12-10,8.0,8.0,2.0,2.0,09-26,12-10,10.277369246192624
+15,NXGB,NxGen Brands Inc,0.16500000655651093,True,2012.0,,,,,,,,,,
+16,NXCN,NXChain Inc,$0.21 ,True,,No data fetched for symbol NXCN using YahooDailyReader,,,,,,,,,
+17,NWSZF,NWS Holdings Ltd,0.875,True,2013.0,,,,,,,,,,
+18,NWSGY,NWS Holdings Ltd,9.130000114440918,True,2013.0,,,,,,,,,,
+19,NVR,NVR Inc,4290.27001953125,False,2009.0,,10-17,12-31,9.0,9.0,2.0,2.0,10-17,12-31,7.052726689686573
+20,NVDA,NVIDIA Corp,537.1500244140625,False,2009.0,,07-06,09-19,8.0,8.0,3.0,3.0,07-06,09-19,12.61864310832317
+21,NVES,Nvest Inc,0.023099999874830246,True,2014.0,,,,,,,,,,
+22,NVT,nVent Electric PLC,21.559999465942383,True,2018.0,,,,,,,,,,
+23,NVEC,NVE Corp,51.400001525878906,False,2009.0,,10-26,01-09,3.0,3.0,8.0,8.0,11-02,01-16,6.415643835705555
+24,NVCP,NVCN Corp,0.017000000923871994,True,2012.0,,,,,,,,,,
+25,NVEE,NV5 Global Inc,75.9800033569336,True,2013.0,,,,,,,,,,
+26,NVGLF,NV Gold Corp,0.2199999988079071,True,2014.0,,,,,,,,,,
+27,BEKSF,NV Bekaert SA,$30.00 ,True,,No data fetched for symbol BEKSF using YahooDailyReader,,,,,,,,,
+28,BEKAY,NV Bekaert SA,$2.61 ,True,,No data fetched for symbol BEKAY using YahooDailyReader,,,,,,,,,
+29,NUZE,Nuzee Inc,14.050000190734863,True,2020.0,,,,,,,,,,
+30,NUVG,Nuvus Gro Corp,0.017999999225139618,True,2018.0,,,,,,,,,,
+31,NRIFF,Nuvo Pharmaceuticals Inc,0.6700000166893005,False,2010.0,,12-13,02-26,5.0,5.0,5.0,5.0,12-13,02-26,13.141627682873207
+32,NUVSF,NuVista Energy Ltd,0.6499999761581421,False,2010.0,,03-26,06-09,6.0,6.0,4.0,4.0,03-26,06-09,9.182675520109276
+33,NUVM,NuVim Inc,0.005799999926239252,True,2012.0,,,,,,,,,,
+34,NES,Nuverra Environmental Solutions Inc,2.140000104904175,True,2017.0,,,,,,,,,,
+35,NESCQ,Nuverra Environmental Solutions Inc,$0.02 ,True,,'Date',,,,,,,,,
+36,NUVR,Nuvera Communications Inc,18.0,False,2009.0,,03-31,06-14,6.0,4.0,5.0,7.0,03-26,06-09,5.727456711876713
+37,NUVCF,Nuvei Corp,42.11790084838867,True,2020.0,,,,,,,,,,
+38,NPV,Nuveen Virginia Quality Municipal Income Fund,15.34000015258789,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,03-16,05-30,3.242905442583609
+39,NBB,Nuveen Taxable Municipal Income Fund,22.100000381469727,False,2010.0,,03-19,06-02,5.0,3.0,5.0,7.0,06-25,09-08,2.9508134085114177
+40,JTD,Nuveen Tax-advantaged Dividend Gr Fund,13.579999923706055,False,2009.0,,05-06,07-20,7.0,5.0,4.0,6.0,03-23,06-06,7.3008846743020355
+41,JTA,Nuveen Tax Advantaged Total Ret Strat Fd,8.819999694824219,False,2009.0,,12-10,02-23,7.0,7.0,4.0,4.0,12-12,02-25,3.948122316307483
+42,JSD,Nuveen Short Duration Credit Opps,12.229999542236328,True,2011.0,,,,,,,,,,
+43,NSL,Nuveen Senior Income Fund,4.949999809265137,False,2009.0,,12-13,02-26,10.0,8.0,1.0,3.0,12-15,02-28,3.9149814292429066
+44,NXP,Nuveen Select Tax Free Income Portfolio,16.790000915527344,False,2009.0,,03-15,05-29,7.0,6.0,4.0,5.0,03-16,05-30,2.504293119774764
+45,NXR,Nuveen Select Tax Free Income Port 3,16.520000457763672,False,2009.0,,03-24,06-07,6.0,5.0,5.0,6.0,03-15,05-29,2.6796216203711443
+46,NXQ,Nuveen Select Tax Free Income Port 2,15.109999656677246,False,2009.0,,03-15,05-29,8.0,5.0,3.0,6.0,03-15,05-29,3.1763220063165902
+47,NIM,Nuveen Select Maturities Municipal Fund,10.520000457763672,False,2009.0,,06-21,09-04,6.0,5.0,5.0,6.0,06-21,09-04,1.786642152288314
+48,SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,14.479999542236328,False,2009.0,,10-28,01-11,8.0,6.0,3.0,5.0,03-24,06-07,4.701724509996944
+49,BXMX,Nuveen S&P 500 Buy-Write Income Fund,12.199999809265137,False,2009.0,,05-07,07-21,8.0,6.0,3.0,5.0,03-23,06-06,4.6350279483096655
+50,JRS,Nuveen Real Estate Income Fund,8.25,False,2009.0,,02-19,05-04,8.0,6.0,3.0,5.0,03-19,06-02,7.815933275068018
+51,JRI,Nuveen Real Asset Income and Growth Fund,12.789999961853027,True,2012.0,,,,,,,,,,
+52,NAD,Nuveen Quality Municipal Income Fund,14.770000457763672,False,2009.0,,03-15,05-29,7.0,4.0,4.0,7.0,03-15,05-29,3.6021473739486862
+53,JPI,Nuveen Preferred and Income Term Fund,23.209999084472656,True,2012.0,,,,,,,,,,
+54,JPT,Nuveen Preferred and Income 2022 Term,23.690000534057617,True,2017.0,,,,,,,,,,
+55,JPS,Nuveen Preferred & Income Securities Fund,9.149999618530273,False,2009.0,,11-12,01-26,8.0,7.0,3.0,4.0,02-19,05-04,2.0389816577739244
+56,JPC,Nuveen Preferred & Income Opportunities Fund,8.859999656677246,False,2009.0,,03-18,06-01,8.0,7.0,3.0,4.0,02-22,05-07,3.3336978740560497
+57,NQP,Nuveen Pennsylvania Quality Municipal Income Fund,13.850000381469727,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,03-19,06-02,4.124830186421817
+58,NPN,Nuveen Pennsylvania Municipal Value Fund,14.460000038146973,False,2009.0,,11-13,01-27,7.0,6.0,4.0,5.0,11-13,01-27,2.599863541637793
+59,NUO,Nuveen Ohio Quality Municipal Income Fund,15.399999618530273,False,2009.0,,06-25,09-08,7.0,5.0,4.0,6.0,06-25,09-08,1.808304429865272
+60,NXN,Nuveen NY Select Tax-Free Income Port,12.9399995803833,False,2009.0,,03-15,05-29,8.0,6.0,3.0,5.0,03-15,05-29,1.8506821615373945
+61,NYV,Nuveen NY Municipal Value Fund 2,14.710000038146973,False,2009.0,,12-15,02-28,8.0,7.0,3.0,4.0,12-20,03-05,2.100983817198054
+62,NJV,Nuveen NJ Municipal Value Fund,14.100000381469727,False,2009.0,,11-13,01-27,6.0,5.0,5.0,6.0,11-13,01-27,2.126204133994702
+63,NAN,Nuveen New York Quality Municipal Income Fund,13.529999732971191,False,2009.0,,03-21,06-04,7.0,6.0,4.0,5.0,03-15,05-29,3.1685558076940605
+64,NNY,Nuveen New York Municipal Value Fund Inc,9.989999771118164,False,2009.0,,03-19,06-02,8.0,5.0,3.0,6.0,03-15,05-29,2.5076585464437318
+65,NRK,Nuveen New York AMT-Free Quality Municipal Income,13.069999694824219,False,2009.0,,03-19,06-02,8.0,6.0,3.0,5.0,03-19,06-02,3.87053084382028
+66,NXJ,Nuveen New Jersey Quality Municipal Income Fund,13.890000343322754,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,03-18,06-01,4.175815848947231
+67,QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund,24.850000381469727,False,2009.0,,02-28,05-13,8.0,7.0,3.0,4.0,09-24,12-08,4.534589523070793
+68,NUV,Nuveen Municipal Value Fund Inc,10.90999984741211,False,2009.0,,03-23,06-06,8.0,5.0,3.0,6.0,03-15,05-29,2.5895597008541564
+69,NMI,Nuveen Municipal Income Fund Inc,11.390000343322754,False,2009.0,,11-13,01-27,9.0,8.0,2.0,3.0,12-21,03-06,2.973625875233115
+70,NMZ,Nuveen Municipal High Income Opp Fund,13.489999771118164,False,2009.0,,11-13,01-27,8.0,6.0,3.0,5.0,12-15,02-28,3.3548933803100986
+71,NMCO,Nuveen Municipal Credit Opps Fund,12.199999809265137,True,2019.0,,,,,,,,,,
+72,NZF,Nuveen Municipal Credit Income Fund,15.300000190734863,False,2009.0,,03-15,05-29,7.0,6.0,4.0,5.0,03-15,05-29,3.618856573791666
+73,NHA,Nuveen Municipal 2021 Target Term Fund,9.710000038146973,True,2016.0,,,,,,,,,,
+74,JMM,Nuveen Multi-Market Income Fund,7.090000152587891,False,2009.0,,11-12,01-26,8.0,7.0,3.0,4.0,11-17,01-31,2.5016767776925812
+75,JLS,Nuveen Mortgage And Income Fund,18.790000915527344,False,2009.0,,11-04,01-18,8.0,6.0,3.0,5.0,12-15,02-28,2.1076926486202443
+76,NOM,Nuveen Missouri Quality Municipal Income Fund,14.239999771118164,False,2009.0,,01-02,03-17,10.0,10.0,1.0,1.0,01-02,03-17,4.9229411535256125
+77,NMS,Nuveen Minnesota Quality Municipal Income Fund,14.789999961853027,True,2014.0,,,,,,,,,,
+78,NUM,Nuveen MI Quality Income Muni Fund Inc,14.300000190734863,False,2009.0,,03-19,06-02,7.0,6.0,4.0,5.0,03-21,06-04,4.544883310726694
+79,NMT,Nuveen Massachusetts Quality Municipal Income Fund,14.399999618530273,False,2009.0,,06-03,08-17,7.0,7.0,4.0,4.0,12-13,02-26,1.83039663579512
+80,NMY,Nuveen Maryland Quality Municipal Income Fund,13.619999885559082,False,2009.0,,03-14,05-28,8.0,7.0,3.0,4.0,03-23,06-06,3.7755788254146463
+81,CTF,Nuveen Long/Short Commodity TR Fund,20500.0,True,2017.0,,,,,,,,,,
+82,NID,Nuveen Intermediate Dur Muni Term Fund,13.579999923706055,True,2012.0,,,,,,,,,,
+83,NIQ,Nuveen Inter Dur Quality Muni Term Fund,14.34000015258789,True,2013.0,,,,,,,,,,
+84,JHB,Nuveen High Income Nov 2021 Target Term Fund,9.210000038146973,True,2016.0,,,,,,,,,,
+85,JHAA,Nuveen High Income 2023 Target Term Fund,9.550000190734863,True,2018.0,,,,,,,,,,
+86,JHY,Nuveen High Income 2020 Target Term Fund,9.529999732971191,True,2015.0,,,,,,,,,,
+87,JGH,Nuveen Global High Income Fund,14.229999542236328,True,2014.0,,,,,,,,,,
+88,NKG,Nuveen Georgia Quality Municipal Income Fund,12.600000381469727,False,2009.0,,03-20,06-03,7.0,7.0,4.0,4.0,12-19,03-04,2.257360155112968
+89,JRO,Nuveen Floating Rate Income Opp Fd,8.279999732971191,False,2009.0,,12-15,02-28,8.0,6.0,3.0,5.0,11-29,02-12,3.2198708148060846
+90,JFR,Nuveen Floating Rate Income Fund,8.359999656677246,False,2009.0,,12-13,02-26,7.0,7.0,4.0,4.0,12-13,02-26,4.971883472652658
+91,NEV,Nuveen Enhanced Municipal Value Fund,15.520000457763672,False,2009.0,,12-15,02-28,7.0,6.0,4.0,5.0,12-15,02-28,2.9741096736598567
+92,JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund,7.300000190734863,True,2017.0,,,,,,,,,,
+93,DIAX,Nuveen Dow 30sm Dynamic Overwrite Fund,14.630000114440918,True,2014.0,,,,,,,,,,
+94,NXZ,Nuveen Dividend Advantage Muni Fund 2,$14.96 ,True,,'Date',,,,,,,,,
+95,JDD,Nuveen Diversified Dividend & Income Fund,8.520000457763672,False,2009.0,,11-13,01-27,8.0,8.0,3.0,3.0,02-15,04-30,0.5718310108197482
+96,CFD,Nuveen Diversified Commodity Fund,$9.67 ,True,,'Date',,,,,,,,,
+97,JQC,Nuveen Credit Strategies Income Fund,6.03000020980835,False,2009.0,,12-13,02-26,7.0,6.0,4.0,5.0,11-22,02-05,2.1818665651352256
+98,JCO,Nuveen Credit Opportunities 2022 Target Term Fund,8.220000267028809,True,2017.0,,,,,,,,,,
+99,JCE,Nuveen Core Equity Alpha Fund,13.520000457763672,False,2009.0,,05-07,07-21,8.0,7.0,3.0,4.0,06-26,09-09,3.5010526539426388
+100,NAC,Nuveen California Quality Municipal Income Fund,14.800000190734863,False,2009.0,,03-19,06-02,8.0,6.0,3.0,5.0,03-15,05-29,4.159941576839393
+101,NCA,Nuveen California Municipal Value Fund Inc,10.289999961853027,False,2009.0,,06-24,09-07,7.0,6.0,4.0,5.0,06-24,09-07,3.0836724468823653
+102,NZH,Nuveen California Dividend Advantage Municipal Fun,$13.82 ,True,,'Date',,,,,,,,,
+103,NKX,Nuveen California AMT-Free Quality Municipal Incom,15.300000190734863,False,2009.0,,03-18,06-01,7.0,5.0,4.0,6.0,03-15,05-29,3.544843287878729
+104,NXC,Nuveen CA Select Tax Free Income Port,15.920000076293945,False,2009.0,,03-21,06-04,9.0,7.0,2.0,4.0,03-19,06-02,4.10814469014651
+105,NCB,Nuveen CA Municipal Value Fund 2,15.390000343322754,False,2009.0,,06-24,09-07,8.0,7.0,3.0,4.0,06-24,09-07,3.152745144622022
+106,NVX,Nuveen CA Dividend Advantage Muni Fund 2,$14.95 ,True,,'Date',,,,,,,,,
+107,NAZ,Nuveen Arizona Quality Municipal Income Fund,15.300000190734863,False,2009.0,,05-05,07-19,7.0,6.0,4.0,5.0,04-27,07-11,2.5259026151064377
+108,NUW,Nuveen AMT-Free Municipal Value Fund,16.040000915527344,False,2009.0,,03-17,05-31,6.0,4.0,5.0,7.0,03-14,05-28,2.7636487700812533
+109,NEA,Nuveen AMT-Free Municipal Income Fund,14.619999885559082,False,2009.0,,06-20,09-03,6.0,5.0,5.0,6.0,06-28,09-11,1.6942223071839893
+110,NVG,Nuveen AMT-Free Municipal Credit Income Fund,16.1299991607666,False,2009.0,,03-15,05-29,6.0,5.0,5.0,6.0,03-15,05-29,3.5494681562035253
+111,NVTRQ,Nuvectra Corp,$0.02 ,True,,No data fetched for symbol NVTRQ using YahooDailyReader,,,,,,,,,
+112,NUVA,NuVasive Inc,47.15999984741211,False,2009.0,,04-10,06-24,7.0,7.0,4.0,4.0,04-10,06-24,9.773253255300109
+113,NUUVF,Nuuvera Inc,$4.09 ,True,,No data fetched for symbol NUUVF using YahooDailyReader,,,,,,,,,
+114,LVIFF,NutryFarm International Ltd,$0.05 ,True,,No data fetched for symbol LVIFF using YahooDailyReader,,,,,,,,,
+115,SPLIF,Nutritional High International Inc,0.008999999612569809,True,2015.0,,,,,,,,,,
+116,NMSCA,Nutrition Management Services Co,0.25,False,2009.0,,04-23,07-07,4.0,4.0,7.0,7.0,04-23,07-07,16.785715094887852
+117,NTRI,Nutrisystem Inc,42.88999938964844,True,2012.0,,,,,,,,,,
+118,NTR,Nutrien Ltd,44.349998474121094,True,2018.0,,,,,,,,,,
+119,NTRB,Nutriband Inc,12.399999618530273,True,2017.0,,,,,,,,,,
+120,NRPR,Nutri Pharmaceuticals Research Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+121,NUIN,Nutrastar International Inc,0.009999999776482582,False,2009.0,,07-27,10-10,2.0,2.0,8.0,8.0,07-27,10-10,-0.5903571371495705
+122,NLBS,NutraLife Biosciences Inc,0.09000000357627869,True,2014.0,,,,,,,,,,
+123,NUTR,Nutraceutical International Corp,$41.80 ,True,,'Date',,,,,,,,,
+124,NTCI,Nutech Inc,0.006899999920278788,False,2009.0,,03-22,06-05,3.0,3.0,8.0,8.0,03-22,06-05,16.192458922370765
+125,NTNX,Nutanix Inc,26.860000610351562,True,2016.0,,,,,,,,,,
+126,NSH,NuStar GP Holdings LLC,9.699999809265137,True,2020.0,,,,,,,,,,
+127,NS,NuStar Energy LP,12.960000038146973,False,2009.0,,12-06,02-19,7.0,6.0,4.0,5.0,11-09,01-23,2.026410697571761
+128,NRNMF,Nurminen Logistics Oyj,$1.79 ,True,,No data fetched for symbol NRNMF using YahooDailyReader,,,,,,,,,
+129,NRIX,Nurix Therapeutics Inc,34.16999816894531,True,2020.0,,,,,,,,,,
+130,AVOZ,Nurish.Me Inc,0.00930000003427267,False,2009.0,,04-03,06-17,6.0,6.0,5.0,5.0,04-03,06-17,9.697918298661763
+131,NRRWF,Nuran Wireless Inc,0.3950999975204468,True,2017.0,,,,,,,,,,
+132,NQST,Nuquest Inc,$0.05 ,True,,No data fetched for symbol NQST using YahooDailyReader,,,,,,,,,
+133,NLAB,NuOncology Labs Inc,0.005100000184029341,False,2009.0,,07-23,10-06,4.0,4.0,7.0,7.0,07-23,10-06,19.639932896707734
+134,AURX,Nuo Therapeutics Inc,0.0430000014603138,True,2017.0,,,,,,,,,,
+135,NUNZ,Nunzia Pharmaceutical Corp,0.75,True,2012.0,,,,,,,,,,
+136,NUNAF,NunaMinerals A/S,$0.45 ,True,,No data fetched for symbol NUNAF using YahooDailyReader,,,,,,,,,
+137,LKYSF,Numinus Wellness Inc,0.3384999930858612,True,2011.0,,,,,,,,,,
+138,NMRX,Numerex Corp,$3.83 ,True,,'Date',,,,,,,,,
+139,NULGF,NuLegacy Gold Corp,0.13500000536441803,True,2012.0,,,,,,,,,,
+140,NUKK,Nukkleus Inc,0.05999999865889549,True,2015.0,,,,,,,,,,
+141,NWIFF,Nuinsco Resources Ltd,0.008999999612569809,False,2009.0,,12-16,03-01,7.0,7.0,4.0,4.0,12-16,03-01,41.30148654778976
+142,NUHRF,Nuheara Ltd,0.034219998866319656,True,2016.0,,,,,,,,,,
+143,NHCIF,Nuh Cimento Sanayii AS,$1.21 ,True,,No data fetched for symbol NHCIF using YahooDailyReader,,,,,,,,,
+144,NUGL,NUGL Inc,0.07000000029802322,True,2012.0,,,,,,,,,,
+145,NFTGF,NuFlare Technology Inc,$108.80 ,True,,No data fetched for symbol NFTGF using YahooDailyReader,,,,,,,,,
+146,NUFMF,Nufarm Ltd,3.4200000762939453,False,2010.0,,01-30,04-14,3.0,3.0,7.0,7.0,01-30,04-14,-2.568359661338912
+147,NFRMY,Nufarm Ltd,2.9000000953674316,True,2016.0,,,,,,,,,,
+148,NUE,Nucor Corp,52.91999816894531,False,2009.0,,09-27,12-11,6.0,6.0,5.0,5.0,09-27,12-11,7.474202813838267
+149,NCNA,NuCana PLC,4.949999809265137,True,2017.0,,,,,,,,,,
+150,ICSCF,Nubian Resources Ltd,0.257999986410141,True,2020.0,,,,,,,,,,
+151,NBVAF,Nubeva Technologies Ltd,0.1599999964237213,True,2018.0,,,,,,,,,,
+152,NUAN,Nuance Communications Inc,33.939998626708984,False,2009.0,,11-10,01-24,7.0,7.0,4.0,4.0,11-10,01-24,7.181068147953909
+153,NUMD,Nu-Med Plus Inc,1.2100000381469727,True,2014.0,,,,,,,,,,
+154,NUS,Nu Skin Enterprises Inc,51.0099983215332,False,2009.0,,02-19,05-04,6.0,6.0,5.0,5.0,08-22,11-05,10.277652335153263
+155,NUEC,Nu Earth Corp,0.007899999618530273,False,2009.0,,01-04,03-19,6.0,6.0,5.0,5.0,01-04,03-19,7.689374439704173
+156,NTUBF,NTT Urban Development Corp,$9.40 ,True,,No data fetched for symbol NTUBF using YahooDailyReader,,,,,,,,,
+157,NTDMF,NTT DOCOMO Inc,37.34000015258789,False,2009.0,,10-29,01-12,5.0,8.0,6.0,3.0,12-01,02-14,6.1231663499413145
+158,DCMYY,NTT DOCOMO Inc,37.33000183105469,False,2009.0,,11-13,01-27,8.0,8.0,3.0,3.0,11-13,01-27,3.8458189316278095
+159,NTTDF,NTT Data Corp,11.100000381469727,True,2012.0,,,,,,,,,,
+160,NTDTY,NTT Data Corp,12.1899995803833,False,2010.0,,05-25,08-08,5.0,5.0,5.0,5.0,08-26,11-09,1.3675654186715245
+161,NTTBF,NTN Corp,$3.80 ,True,,'Date',,,,,,,,,
+162,NTN,NTN Buzztime Inc,1.909999966621399,False,2009.0,,01-04,03-19,7.0,7.0,4.0,4.0,01-04,03-19,11.262748009232617
+163,NMGNF,NTM Gold Ltd,0.07999999821186066,True,2012.0,,,,,,,,,,
+164,NEUSF,NTG Nordic Transport Group AS,$0.38 ,True,,No data fetched for symbol NEUSF using YahooDailyReader,,,,,,,,,
+165,NYWKF,NTG Clarity Networks Inc,0.013650000095367432,True,2013.0,,,,,,,,,,
+166,NTLS,NTELOS Holdings Corp,$9.26 ,True,,'Date',,,,,,,,,
+167,NPSKY,NSK Ltd,16.600000381469727,False,2009.0,,10-17,12-31,6.0,6.0,5.0,5.0,10-17,12-31,4.2562217728100284
+168,NPSKF,NSK Ltd,6.599999904632568,True,2012.0,,,,,,,,,,
+169,NSJU,NSJ-US Co Ltd,$0.15 ,True,,No data fetched for symbol NSJU using YahooDailyReader,,,,,,,,,
+170,NSGDF,NSGold Corp,0.32627999782562256,True,2014.0,,,,,,,,,,
+171,NSSXF,NS Solutions Corp,28.209999084472656,True,2019.0,,,,,,,,,,
+172,NRWWF,NRW Holdings Ltd,$0.15 ,True,,No data fetched for symbol NRWWF using YahooDailyReader,,,,,,,,,
+173,NRPI,NRP Stone Inc,0.006800000090152025,True,2012.0,,,,,,,,,,
+174,NRG,NRG Energy Inc,31.34000015258789,False,2009.0,,04-06,06-20,7.0,7.0,4.0,4.0,03-29,06-12,6.620301376906282
+175,NRCG,NRC Group Holdings Corp,$12.24 ,True,,No data fetched for symbol NRCG using YahooDailyReader,,,,,,,,,
+176,NNRRF,NRC Group ASA,$6.76 ,True,,No data fetched for symbol NNRRF using YahooDailyReader,,,,,,,,,
+177,NQMIY,NQ Minerals PLC,14,True,2020.0,,,,,,,,,,
+178,NQMLF,NQ Minerals PLC,0.08950000256299973,True,2018.0,,,,,,,,,,
+179,NOXOF,Noxopharm Ltd,0.15000000596046448,True,2020.0,,,,,,,,,,
+180,NOXL,Noxel Corp,0.18000000715255737,True,2012.0,,,,,,,,,,
+181,NDMT,Nownews Digital Media Technology Co Ltd,0.22499999403953552,True,2014.0,,,,,,,,,,
+182,NWAU,NowAuto Inc,0.01600000075995922,True,2012.0,,,,,,,,,,
+183,DNOW,NOW Inc,5.699999809265137,True,2014.0,,,,,,,,,,
+184,NVUS,Novus Therapeutics Inc,18.219999313354492,True,2014.0,,,,,,,,,,
+185,NRBT,Novus Robotics Inc,0.09000000357627869,True,2012.0,,,,,,,,,,
+186,NOVS,Novus Capital Corp,11.329999923706055,True,2020.0,,,,,,,,,,
+187,NDEV,Novus Acquisition & Development Corp,0.05550000071525574,True,2013.0,,,,,,,,,,
+188,NVTP,NOVT Corp,$450.25 ,True,,No data fetched for symbol NVTP using YahooDailyReader,,,,,,,,,
+189,NVRVF,Novra Technologies Inc,0.048900000751018524,True,2016.0,,,,,,,,,,
+190,NVZMY,Novozymes A/S,58.97999954223633,False,2010.0,,04-03,06-17,6.0,6.0,4.0,4.0,04-03,06-17,3.9970485203550137
+191,NVZMF,Novozymes A/S,58.650001525878906,False,2010.0,,03-30,06-13,6.0,6.0,4.0,4.0,03-30,06-13,6.0401688641695275
+192,NVSKL,Novorossiysk Commercial Sea Port PJSC,$13.01 ,True,,'Date',,,,,,,,,
+193,NVNXF,NOVONIX Ltd,0.8119999766349792,True,2020.0,,,,,,,,,,
+194,NISQY,Novolipetsk Steel PJSC,$8.10 ,True,,No data fetched for symbol NISQY using YahooDailyReader,,,,,,,,,
+195,PFRCF,Novoheart Holdings Inc,0.27000001072883606,False,2009.0,,09-15,11-29,2.0,2.0,6.0,6.0,09-15,11-29,14.073338405598399
+196,NVCR,NovoCure Ltd,121.70999908447266,True,2015.0,,,,,,,,,,
+197,NSRPF,Novo Resources Corp,2.259999990463257,True,2012.0,,,,,,,,,,
+198,NONOF,Novo Nordisk A/S,67.76000213623047,False,2010.0,,03-13,05-27,7.0,7.0,3.0,3.0,11-12,01-26,7.027970681910741
+199,NVO,Novo Nordisk A/S,66.5199966430664,False,2009.0,,02-11,04-26,8.0,8.0,3.0,3.0,11-21,02-04,7.3601581801935385
+200,NVOS,Novo Integrated Sciences Inc,0.36000001430511475,False,2009.0,,06-23,09-06,6.0,6.0,5.0,5.0,06-23,09-06,19.117543031195094
+201,NVNT,Novint Technologies Inc,0.029999999329447746,False,2009.0,,05-21,08-04,7.0,7.0,4.0,4.0,05-21,08-04,11.126152192737166
+202,NSTM,NovelStem International Corp,0.05999999865889549,False,2009.0,,03-11,05-25,6.0,5.0,5.0,6.0,04-22,07-06,5.353182111682757
+203,NVLNF,Novelion Therapeutics Inc,$0.70 ,True,,No data fetched for symbol NVLNF using YahooDailyReader,,,,,,,,,
+204,NVAX,Novavax Inc,89.91000366210938,False,2009.0,,06-15,08-29,8.0,8.0,3.0,3.0,06-15,08-29,12.83034259265193
+205,NOVC,Novation Companies Inc,0.019999999552965164,False,2009.0,,03-20,06-03,4.0,4.0,7.0,7.0,03-20,06-03,-6.760037210635079
+206,NSTKF,NOVATEK PJSC,$20.42 ,True,,No data fetched for symbol NSTKF using YahooDailyReader,,,,,,,,,
+207,NOVKY,NOVATEK PJSC,168.0,True,2012.0,,,,,,,,,,
+208,NVSEF,Novartis AG,86.0,False,2010.0,,05-10,07-24,6.0,5.0,4.0,5.0,05-10,07-24,4.8505513849549695
+209,NVS,Novartis AG,85.72000122070312,False,2009.0,,05-04,07-18,7.0,6.0,4.0,5.0,05-04,07-18,3.867810862855644
+210,NOVT,Novanta Inc,113.19000244140625,False,2009.0,,10-27,01-10,8.0,8.0,3.0,3.0,10-27,01-10,10.419928147965027
+211,NOVN,Novan Inc,0.4819999933242798,True,2016.0,,,,,,,,,,
+212,NG,Novagold Resources Inc,10.4399995803833,False,2009.0,,10-26,01-09,6.0,6.0,5.0,5.0,10-26,01-09,11.769798518282485
+213,NVGT,Novagant Corp,0.017999999225139618,False,2009.0,,08-31,11-14,2.0,2.0,8.0,8.0,08-31,11-14,39.29555280228922
+214,NVDL,NovaDel Pharma Inc,$0.01 ,True,,'Date',,,,,,,,,
+215,NVDQ,Novadaq Technologies Inc,$11.75 ,True,,'Date',,,,,,,,,
+216,NVYTF,Novacyt SA,10.260000228881836,True,2020.0,,,,,,,,,,
+217,XSNX,Novaccess Global Inc,0.47099998593330383,False,2009.0,,12-26,03-11,5.0,5.0,6.0,6.0,12-26,03-11,17.848596769940286
+218,NBY,NovaBay Pharmaceuticals Inc,0.5699999928474426,False,2009.0,,12-18,03-03,5.0,5.0,6.0,6.0,12-18,03-03,7.418742461151281
+219,NTEI,Nova Tech Enterprises Inc,0.4000000059604645,True,2012.0,,,,,,,,,,
+220,NVARF,Nova Royalty Corp,1.2100000381469727,True,2020.0,,,,,,,,,,
+221,NVAAF,Nova Minerals Ltd,0.15000000596046448,True,2017.0,,,,,,,,,,
+222,LIBFF,Nova Mentis Life Science Corp,0.18000000715255737,False,2009.0,,08-12,10-26,4.0,4.0,7.0,7.0,08-12,10-26,4.245266464468425
+223,NVMI,Nova Measuring Instruments Ltd,61.47999954223633,False,2009.0,,11-10,01-24,9.0,9.0,2.0,2.0,11-10,01-24,11.973606954184525
+224,NVFY,Nova Lifestyle Inc,2.180000066757202,True,2011.0,,,,,,,,,,
+225,NVLPF,Nova Leap Health Corp,0.34700000286102295,True,2019.0,,,,,,,,,,
+226,ELXMY,Nova Eye Medical Ltd,$6.50 ,True,,No data fetched for symbol ELXMY using YahooDailyReader,,,,,,,,,
+227,ELXMF,Nova Eye Medical Ltd,0.29499998688697815,False,2010.0,,12-20,03-05,5.0,5.0,4.0,4.0,12-20,03-05,6.8091921255657235
+228,SAAX,Nouveau Ventures Inc,0.010099999606609344,True,2012.0,,,,,,,,,,
+229,NMGRF,Nouveau Monde Graphite Inc,0.600600004196167,True,2014.0,,,,,,,,,,
+230,NTEDY,Notre Dame Intermedica Participacoes SA,11.821399688720703,True,2020.0,,,,,,,,,,
+231,NTOX,Notox Technologies Corp,2.0,True,2014.0,,,,,,,,,,
+232,NTFY,Notify Technology Corp,4.0,True,2012.0,,,,,,,,,,
+233,NTSMF,Nostrum Oil & Gas PLC,$1.39 ,True,,No data fetched for symbol NTSMF using YahooDailyReader,,,,,,,,,
+234,ZONNF,Nos Sgps SA,$6.27 ,True,,No data fetched for symbol ZONNF using YahooDailyReader,,,,,,,,,
+235,ZONMY,Nos Sgps SA,$6.37 ,True,,'Date',,,,,,,,,
+236,NORZF,NorZinc Ltd,0.07000000029802322,False,2009.0,,12-01,02-14,7.0,7.0,4.0,4.0,12-01,02-14,14.065395862274489
+237,NWFL,Norwood Financial Corp,28.780000686645508,False,2009.0,,03-18,06-01,3.0,3.0,8.0,8.0,03-09,05-23,4.052961388489668
+238,NRWGF,Norwegian Property ASA,$0.99 ,True,,'Date',,,,,,,,,
+239,NWEGF,Norwegian Finans Holding ASA,7.449999809265137,True,2017.0,,,,,,,,,,
+240,NRWEF,Norwegian Energy Co ASA,$13.14 ,True,,No data fetched for symbol NRWEF using YahooDailyReader,,,,,,,,,
+241,NCLH,Norwegian Cruise Line Holdings Ltd,20.459999084472656,True,2013.0,,,,,,,,,,
+242,NWARF,Norwegian Air Shuttle ASA,0.050999999046325684,True,2013.0,,,,,,,,,,
+243,NRYYY,Norway Royal Salmon ASA,13.171099662780762,True,2019.0,,,,,,,,,,
+244,NRYYF,Norway Royal Salmon ASA,25.251300811767578,True,2016.0,,,,,,,,,,
+245,XTERF,Norvista Capital Corp,0.09414999932050705,True,2018.0,,,,,,,,,,
+246,NLOK,NortonLifeLock Inc,18.84000015258789,False,2009.0,,01-29,04-13,7.0,5.0,4.0,6.0,08-24,11-07,2.8843482997856023
+247,NWE,NorthWestern Corp,58.61000061035156,True,2020.0,,,,,,,,,,
+248,NWPX,Northwest Pipe Co,27.90999984741211,False,2009.0,,03-31,06-14,3.0,3.0,8.0,8.0,03-31,06-14,4.9892442180535905
+249,NWN,Northwest Natural Holding Co,48.31999969482422,False,2009.0,,03-11,05-25,4.0,4.0,7.0,7.0,05-14,07-28,2.6670019578586794
+250,NWIN,Northwest Indiana Bancorp,34.049999237060554,False,2009.0,,05-30,08-13,5.0,5.0,6.0,6.0,05-10,07-24,1.7859635921033945
+251,NWHUF,Northwest Healthcare Properties Real Estate Invest,9.319999694824219,True,2011.0,,,,,,,,,,
+252,NWBO,Northwest Biotherapeutics Inc,1.309999942779541,False,2009.0,,02-18,05-03,6.0,6.0,5.0,5.0,02-18,05-03,1.899940080057446
+253,NWBI,Northwest Bancshares Inc,11.880000114440918,False,2009.0,,09-26,12-10,7.0,5.0,4.0,6.0,09-27,12-11,5.2112070216399875
+254,NBCT,Northwest Bancorp Inc,23.100000381469727,True,2012.0,,,,,,,,,,
+255,NWYF,Northway Financial Inc,23.899999618530273,False,2009.0,,12-24,03-09,8.0,7.0,3.0,4.0,09-21,12-05,5.951037507294187
+256,NPRUF,Northview Apartment Real Estate Investment Trust,27.489999771118164,False,2010.0,,12-20,03-05,6.0,5.0,4.0,5.0,12-20,03-05,6.657098663007871
+257,NUBC,Northumberland Bancorp,30.0,False,2009.0,,06-30,09-13,9.0,9.0,2.0,2.0,06-30,09-13,4.387943653060204
+258,NRF,NorthStar Realty Finance Corp,$16.13 ,True,,'Date',,,,,,,,,
+259,NRE,NorthStar Realty Europe Corp,$17.02 ,True,,No data fetched for symbol NRE using YahooDailyReader,,,,,,,,,
+260,NSGCF,Northstar Gold Corp,0.2434999942779541,True,2020.0,,,,,,,,,,
+261,NEIK,Northstar Electronics Inc,0.006800000090152025,False,2009.0,,10-22,01-05,3.0,3.0,8.0,8.0,10-22,01-05,11.071524916500325
+262,NSAM,NorthStar Asset Management Group Inc,$15.84 ,True,,'Date',,,,,,,,,
+263,NASGF,Northstar Aerospace,$0.22 ,True,,'Date',,,,,,,,,
+264,NOC,Northrop Grumman Corp,310.6000061035156,False,2009.0,,11-07,01-21,10.0,9.0,1.0,2.0,11-07,01-21,4.480500532289518
+265,NRIM,Northrim BanCorp Inc,33.04999923706055,False,2009.0,,08-28,11-11,4.0,4.0,7.0,7.0,03-18,06-01,7.577369876569231
+266,NOTQF,Northquest Ltd,$0.19 ,True,,No data fetched for symbol NOTQF using YahooDailyReader,,,,,,,,,
+267,NRSRF,Northland Resources SE,0.009999999776482582,True,2010.0,,,,,,,,,,
+268,NPIFF,Northland Power Inc,31.350000381469727,False,2009.0,,05-09,07-23,6.0,5.0,5.0,6.0,05-09,07-23,4.535173156254849
+269,NTCPF,NorthIsle Copper and Gold Inc,0.1599999964237213,True,2011.0,,,,,,,,,,
+270,NFPC,Northfield Precision Instrument Corp,21.510000228881836,False,2009.0,,05-03,07-17,5.0,4.0,6.0,7.0,08-16,10-30,6.1961338598252045
+271,NFBK,Northfield Bancorp Inc,11.3100004196167,False,2009.0,,09-21,12-05,6.0,4.0,5.0,7.0,09-21,12-05,6.052003142800799
+272,NHVCF,Northern Vertex Mining Corp,0.490200012922287,True,2011.0,,,,,,,,,,
+273,NTRS,Northern Trust Corp,92.69000244140625,False,2009.0,,10-25,01-08,8.0,8.0,3.0,3.0,10-22,01-05,6.349326811166656
+274,NTI,Northern Tier Energy LP,$21.15 ,True,,'Date',,,,,,,,,
+275,NTIC,Northern Technologies International Corp,8.890000343322754,False,2009.0,,09-22,12-06,5.0,5.0,6.0,6.0,09-22,12-06,5.250742805027418
+276,NSUPF,Northern Superior Resources Inc,0.7799999713897705,False,2009.0,,01-03,03-18,10.0,10.0,1.0,1.0,01-03,03-18,25.841978412685357
+277,LBEFF,Northern Sun Mining Corp,$0.03 ,True,,No data fetched for symbol LBEFF using YahooDailyReader,,,,,,,,,
+278,NSFC,Northern States Financial Corp,0.925000011920929,True,2012.0,,,,,,,,,,
+279,NSTYY,Northern Star Resources Ltd,8.369999885559082,True,2020.0,,,,,,,,,,
+280,NESRF,Northern Star Resources Ltd,10.494999885559082,True,2014.0,,,,,,,,,,
+281,NSBK,Northern Star Financial Inc,0.019999999552965164,True,2012.0,,,,,,,,,,
+282,NSHRF,Northern Shield Resources Inc,0.04500000178813934,True,2012.0,,,,,,,,,,
+283,NOG,Northern Oil & Gas Inc,5.309999942779541,False,2009.0,,08-06,10-20,5.0,5.0,6.0,6.0,08-06,10-20,4.922200864856183
+284,NOURF,Northern Minerals Ltd,0.05999999865889549,True,2012.0,,,,,,,,,,
+285,NMEX,Northern Minerals and Exploration Ltd,0.07900000363588333,True,2012.0,,,,,,,,,,
+286,NLGCF,Northern Lion Gold Corp,0.25999999046325684,True,2012.0,,,,,,,,,,
+287,NGOOB,Northern Growers LLC,$1.42 ,True,,No data fetched for symbol NGOOB using YahooDailyReader,,,,,,,,,
+288,NGOOL,Northern Growers LLC,$1.35 ,True,,No data fetched for symbol NGOOL using YahooDailyReader,,,,,,,,,
+289,NGOWL,Northern Growers LLC,$1.52 ,True,,No data fetched for symbol NGOWL using YahooDailyReader,,,,,,,,,
+290,NGPHF,Northern Graphite Corp,0.2280000001192093,True,2012.0,,,,,,,,,,
+291,NGA,Northern Genesis Acquisition Corp,10.300000190734863,True,2020.0,,,,,,,,,,
+292,PSPGF,Northern Empire Resources Corp,$0.96 ,True,,No data fetched for symbol PSPGF using YahooDailyReader,,,,,,,,,
+293,NAK,Northern Dynasty Minerals Ltd,0.8399999737739563,False,2009.0,,12-06,02-19,5.0,5.0,6.0,6.0,12-06,02-19,13.779807624405306
+294,NDTAF,Northern Data AG,60.187198638916016,True,2020.0,,,,,,,,,,
+295,NCNB,Northern California National Bank,18.975000381469727,True,2012.0,,,,,,,,,,
+296,NRLB,Northern California Bancorp Inc,1.7999999523162842,False,2009.0,,12-30,03-15,7.0,7.0,4.0,4.0,12-30,03-15,8.147737002159579
+297,NIDB,Northeast Indiana Bancorp Inc,36.0,False,2009.0,,08-30,11-13,9.0,5.0,2.0,6.0,08-27,11-10,8.722914224165438
+298,GSMI,Northeast Digital Networks Inc,42.45000076293945,True,2014.0,,,,,,,,,,
+299,NECB,Northeast Community Bancorp Inc,13.0,False,2009.0,,08-28,11-11,7.0,7.0,4.0,4.0,06-11,08-25,3.0529309385639305
+300,NBN,Northeast Bank,22.1299991607666,False,2009.0,,07-14,09-27,5.0,5.0,6.0,6.0,07-14,09-27,4.9868612090850615
+301,BIGRF,Northcore Resources Inc,$0.02 ,True,,No data fetched for symbol BIGRF using YahooDailyReader,,,,,,,,,
+302,NCFFF,Northcliff Resources Ltd,0.029899999499320984,True,2013.0,,,,,,,,,,
+303,DIXFF,Northaven Resources Corp,$0.03 ,True,,No data fetched for symbol DIXFF using YahooDailyReader,,,,,,,,,
+304,NAMBF,Northamber PLC,$0.44 ,True,,No data fetched for symbol NAMBF using YahooDailyReader,,,,,,,,,
+305,NMPNF,Northam Platinum Ltd,11.0,True,2012.0,,,,,,,,,,
+306,NORSB,North State Telecommunications Corp,$75.49 ,True,,No data fetched for symbol NORSB using YahooDailyReader,,,,,,,,,
+307,NORSA,North State Telecommunications Corp,$75.75 ,True,,No data fetched for symbol NORSA using YahooDailyReader,,,,,,,,,
+308,NSBC,North State Bancorp,4000.0,True,2017.0,,,,,,,,,,
+309,RANGF,North Sea Energy Inc,$0.02 ,True,,'Date',,,,,,,,,
+310,BTLLF,North Peak Resources Ltd,0.4300000071525574,True,2018.0,,,,,,,,,,
+311,NPAKF,North Pacific Bank Ltd,2.190000057220459,True,2020.0,,,,,,,,,,
+312,NMMC,North Mountain Merger Corp,9.75,True,2020.0,,,,,,,,,,
+313,NRT,North European Oil Royalty Trust,2.9800000190734863,False,2009.0,,12-06,02-19,9.0,8.0,2.0,3.0,02-22,05-07,6.254895045128406
+314,NODB,North Dallas Bank & Trust Co,75.0,False,2009.0,,12-17,03-02,7.0,7.0,4.0,4.0,08-29,11-12,2.8248319143804848
+315,NCLI,North Coast Life Insurance Co,7.329999923706055,True,2018.0,,,,,,,,,,
+316,NOBDF,North Bud Farms Inc,0.05000000074505806,True,2018.0,,,,,,,,,,
+317,NATDQ,North Atlantic Drilling Ltd,0.15000000596046448,True,2012.0,,,,,,,,,,
+318,NADLQ,North Atlantic Drilling Ltd,0.05999999865889549,True,2014.0,,,,,,,,,,
+319,NHAWF,North Arrow Minerals Inc,0.03999999910593033,False,2009.0,,02-01,04-16,6.0,6.0,5.0,5.0,02-01,04-16,12.116127261260777
+320,PALDF,North American Palladium Ltd,$14.98 ,True,,No data fetched for symbol PALDF using YahooDailyReader,,,,,,,,,
+321,WSCRF,North American Nickel Inc,0.1420000046491623,False,2009.0,,05-25,08-08,4.0,4.0,7.0,7.0,05-25,08-08,10.746583981237539
+322,FNCSF,North American Financial 15 Split Corp,1.9895000457763672,True,2015.0,,,,,,,,,,
+323,NOA,North American Construction Group Ltd,9.600000381469727,False,2009.0,,09-01,11-15,7.0,7.0,4.0,4.0,09-01,11-15,8.155123737003185
+324,NTL,Nortel Inversora SA,21000.0,True,2012.0,,,,,,,,,,
+325,NTK,Nortek Inc,$85.94 ,True,,'Date',,,,,,,,,
+326,NSYS,Nortech Systems Inc,4.300000190734863,False,2009.0,,09-13,11-27,5.0,5.0,6.0,6.0,09-13,11-27,8.236359128609854
+327,NMNZF,Nortec Minerals Corp,0.014100000262260437,True,2012.0,,,,,,,,,,
+328,NKSJY,Norske Skogindustrier ASA,0.4699999988079071,True,2012.0,,,,,,,,,,
+329,NHYKF,Norsk Hydro ASA,3.799999952316284,True,2011.0,,,,,,,,,,
+330,NHYDY,Norsk Hydro ASA,3.75,False,2009.0,,10-20,01-03,5.0,5.0,6.0,6.0,10-20,01-03,5.077586250749602
+331,NRRSF,Norsemont Mining Inc,0.8399999737739563,True,2017.0,,,,,,,,,,
+332,NOCSF,Norseman Silver Inc,0.18000000715255737,True,2020.0,,,,,,,,,,
+333,NSAT,Norsat International Inc,$11.50 ,True,,'Date',,,,,,,,,
+334,NRIS,Norris Industries Inc,0.10000000149011612,True,2016.0,,,,,,,,,,
+335,NOSOF,Noront Resources Ltd,0.10999999940395355,False,2009.0,,06-27,09-10,3.0,3.0,8.0,8.0,06-27,09-10,7.368616978485829
+336,NOEJF,NORMA Group SE,36.900001525878906,True,2014.0,,,,,,,,,,
+337,NRTZF,Noritz Corp,10.149999618530273,True,2015.0,,,,,,,,,,
+338,NKOKF,Noritsu Koki Co Ltd,$6.51 ,True,,No data fetched for symbol NKOKF using YahooDailyReader,,,,,,,,,
+339,NSC,Norfolk Southern Corp,241.8699951171875,False,2009.0,,03-31,06-14,7.0,6.0,4.0,5.0,04-03,06-17,3.4892247003169707
+340,JWN,Nordstrom Inc,20.790000915527344,False,2009.0,,02-02,04-17,8.0,8.0,3.0,3.0,08-31,11-14,6.4609719625613895
+341,NDSN,Nordson Corp,201.5,False,2009.0,,12-12,02-25,7.0,7.0,4.0,4.0,12-12,02-25,8.527135984838901
+342,NDCVF,Nordic Semiconductor ASA,12.670000076293945,False,2010.0,,12-12,02-25,5.0,5.0,5.0,5.0,12-12,02-25,8.979647386396758
+343,NRNVF,Nordic Nanovector ASA,1.6382999420166016,True,2020.0,,,,,,,,,,
+344,NENTF,Nordic Entertainment Group AB,40.099998474121094,True,2019.0,,,,,,,,,,
+345,NAT,Nordic American Tankers Ltd,3.0799999237060547,False,2009.0,,02-02,04-17,6.0,6.0,5.0,5.0,11-01,01-15,4.081783042137828
+346,NRDXF,Nordex SE,20.75,False,2009.0,,03-24,06-07,6.0,6.0,5.0,5.0,03-24,06-07,7.360637095361075
+347,BORMF,Norden Crown Metals Corp,0.08217000216245651,True,2019.0,,,,,,,,,,
+348,NBNKF,Nordea Bank Abp,8.322699546813965,True,2012.0,,,,,,,,,,
+349,NRDBY,Nordea Bank Abp,8.479999542236328,False,2009.0,,12-08,02-21,8.0,8.0,3.0,3.0,12-08,02-21,7.09131286050602
+350,NRDVY,Nord Gold SE,$3.44 ,True,,No data fetched for symbol NRDVY using YahooDailyReader,,,,,,,,,
+351,NORD,Nord Anglia Education Inc,$32.57 ,True,,'Date',,,,,,,,,
+352,OSB,Norbord Inc,33.209999084472656,True,2016.0,,,,,,,,,,
+353,NNDIF,Noranda Income Fund,0.8600000143051147,False,2009.0,,07-18,10-01,7.0,7.0,4.0,4.0,12-09,02-22,3.051787839446082
+354,NORNQ,Noranda Aluminum Holding Corp,0.014000000432133675,False,2010.0,,10-04,12-18,5.0,5.0,5.0,5.0,10-04,12-18,-26.97290557063311
+355,NRVTF,Noram Ventures Inc,0.20509999990463257,True,2013.0,,,,,,,,,,
+356,NDLS,Noodles & Co,7.480000019073486,True,2013.0,,,,,,,,,,
+357,NIMU,Non-Invasive Monitoring Systems Inc,0.019999999552965164,False,2009.0,,12-24,03-09,5.0,5.0,6.0,6.0,12-24,03-09,7.413122415156308
+358,NURAF,Nomura Research Institute Ltd,$47.90 ,True,,No data fetched for symbol NURAF using YahooDailyReader,,,,,,,,,
+359,NRILY,Nomura Research Institute Ltd,32.650001525878906,False,2010.0,,03-19,06-02,7.0,7.0,3.0,3.0,08-24,11-07,4.642902650489565
+360,NMMRF,Nomura Real Estate Master Fund Inc,1257.5400390625,True,2019.0,,,,,,,,,,
+361,NMEHF,Nomura Real Estate Holdings Inc,19.25,True,2013.0,,,,,,,,,,
+362,NRSCF,Nomura Holdings Inc,4.539999961853027,False,2010.0,,07-19,10-02,6.0,6.0,4.0,4.0,09-15,11-29,4.178456304111548
+363,NMR,Nomura Holdings Inc,4.989999771118164,False,2009.0,,10-05,12-19,7.0,7.0,4.0,4.0,10-05,12-19,6.507248579982679
+364,NMUCF,NOMURA Co Ltd,$5.50 ,True,,No data fetched for symbol NMUCF using YahooDailyReader,,,,,,,,,
+365,NSRXF,Nomad Royalty Co Ltd,0.9522500038146973,True,2020.0,,,,,,,,,,
+366,NOMD,Nomad Foods Ltd,23.34000015258789,True,2015.0,,,,,,,,,,
+367,NLTBF,Nolato AB,93.75,True,2014.0,,,,,,,,,,
+368,NKRKY,Nokian Tyres PLC,16.950000762939453,True,2012.0,,,,,,,,,,
+369,NKRKF,Nokian Tyres PLC,30.25,True,2015.0,,,,,,,,,,
+370,NOKBF,Nokia Oyj,3.9100000858306885,False,2010.0,,07-08,09-21,3.0,3.0,7.0,7.0,07-08,09-21,8.717404702773846
+371,NOK,Nokia Oyj,3.75,False,2009.0,,07-06,09-19,4.0,4.0,7.0,7.0,07-06,09-19,8.32414405255389
+372,NNOKF,NOK Corp,$16.25 ,True,,No data fetched for symbol NNOKF using YahooDailyReader,,,,,,,,,
+373,NOKPF,Nok Airlines PCL,0.03999999910593033,True,2014.0,,,,,,,,,,
+374,NFTI,NoFire Technologies Inc,0.019999999552965164,False,2009.0,,01-15,03-30,6.0,6.0,5.0,5.0,01-15,03-30,19.66089513545301
+375,NOFCF,NOF Corp,32.099998474121094,True,2012.0,,,,,,,,,,
+376,NODC,Nodechain Inc,0.009999999776482582,True,2017.0,,,,,,,,,,
+377,NODAF,Noda Corp,$13.72 ,True,,No data fetched for symbol NODAF using YahooDailyReader,,,,,,,,,
+378,NNUP,Nocopi Technologies Inc,0.16500000655651093,False,2009.0,,01-26,04-10,7.0,7.0,4.0,4.0,01-26,04-10,20.791264975501612
+379,NCRA,Nocera Inc,3.299999952316284,True,2012.0,,,,,,,,,,
+380,NVGI,Noble Vici Group Inc,6.5,True,2012.0,,,,,,,,,,
+381,NROM,Noble Roman's Inc,0.3100000023841858,False,2009.0,,11-10,01-24,4.0,4.0,7.0,7.0,11-10,01-24,7.636620256370568
+382,NLPXF,Noble Mineral Exploration Inc,0.04194999858736992,True,2011.0,,,,,,,,,,
+383,NBLX,Noble Midstream Partners LP,9.149999618530273,True,2016.0,,,,,,,,,,
+384,TXDSF,Noble Iron Inc,$0.13 ,True,,No data fetched for symbol TXDSF using YahooDailyReader,,,,,,,,,
+385,NEBLQ,Noble Holding Corp PLC,0.029999999329447746,False,2009.0,,08-17,10-31,6.0,6.0,5.0,5.0,08-17,10-31,-4.2809643820571255
+386,NOBGY,Noble Group Ltd,0.05000000074505806,True,2011.0,,,,,,,,,,
+387,NBL,Noble Energy Inc,4.340000152587891,True,2012.0,,,,,,,,,,
+388,NBNVF,Nobina AB,$0.37 ,True,,No data fetched for symbol NBNVF using YahooDailyReader,,,,,,,,,
+389,NOBH,Nobility Homes Inc,23.0,False,2009.0,,12-15,02-28,7.0,7.0,4.0,4.0,12-15,02-28,9.5526120574778
+390,NBIAY,Nobia AB,$39.79 ,True,,No data fetched for symbol NBIAY using YahooDailyReader,,,,,,,,,
+391,NBHGF,Nobel Biocare Holding AG,$18.25 ,True,,No data fetched for symbol NBHGF using YahooDailyReader,,,,,,,,,
+392,NOAH,Noah Holdings Ltd,30.110000610351562,False,2010.0,,09-13,11-27,7.0,7.0,3.0,3.0,09-13,11-27,11.240109466903661
+393,NBDR,No Borders Inc,0.008999999612569809,False,2009.0,,05-07,07-21,5.0,5.0,6.0,6.0,05-07,07-21,26.288623642493864
+394,NNBR,NN Inc,6.849999904632568,False,2009.0,,11-09,01-23,7.0,7.0,4.0,4.0,11-09,01-23,7.0325521349460995
+395,NNGRY,NN Group NV,20.25,True,2018.0,,,,,,,,,,
+396,NNGPF,NN Group NV,40.95000076293945,True,2015.0,,,,,,,,,,
+397,NMIH,NMI Holdings Inc,22.90999984741211,True,2013.0,,,,,,,,,,
+398,NMMCF,NMC Health PLC,10.75,True,2018.0,,,,,,,,,,
+399,NMHLY,NMC Health PLC,0.28700000047683716,True,2015.0,,,,,,,,,,
+400,NMBF,NMB Finl Corp,4.5,True,2018.0,,,,,,,,,,
+401,LASR,nLight Inc,29.329999923706055,True,2018.0,,,,,,,,,,
+402,NL,NL Industries Inc,4.46999979019165,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-26,12-10,6.334089368503396
+403,NKWEY,Nkwe Platinum Ltd,$0.73 ,True,,No data fetched for symbol NKWEY using YahooDailyReader,,,,,,,,,
+404,NKWEF,Nkwe Platinum Ltd,0.06599999964237213,True,2014.0,,,,,,,,,,
+405,NRKBF,NKT Holding A/S,$63.85 ,True,,No data fetched for symbol NRKBF using YahooDailyReader,,,,,,,,,
+406,NKTX,Nkarta Inc,34.130001068115234,True,2020.0,,,,,,,,,,
+407,NIUS,Niusule Bio-Pharmaceutical Corp,$0.02 ,True,,'Date',,,,,,,,,
+408,NIU,Niu Technologies,31.889999389648438,True,2018.0,,,,,,,,,,
+409,NELEF,Nitto Kogyo Corp,$16.00 ,True,,No data fetched for symbol NELEF using YahooDailyReader,,,,,,,,,
+410,NTFCF,Nitto FC Co Ltd,$5.35 ,True,,No data fetched for symbol NTFCF using YahooDailyReader,,,,,,,,,
+411,NDEKY,Nitto Denko Corp,38.939998626708984,False,2009.0,,09-03,11-17,8.0,8.0,3.0,3.0,03-26,06-09,5.201813606827267
+412,NDEKF,Nitto Denko Corp,75.0999984741211,False,2009.0,,02-24,05-09,6.0,8.0,5.0,3.0,01-12,03-27,6.862141732137778
+413,NBCLF,Nitto Boseki Co Ltd,$1.13 ,True,,No data fetched for symbol NBCLF using YahooDailyReader,,,,,,,,,
+414,NSWEF,Nitro Software Ltd,1.100000023841858,True,2020.0,,,,,,,,,,
+415,NCLTY,Nitori Holdings Co Ltd,19.392000198364258,True,2020.0,,,,,,,,,,
+416,NCLTF,Nitori Holdings Co Ltd,200.25,True,2014.0,,,,,,,,,,
+417,NICH,Nitches Inc,0.029999999329447746,False,2009.0,,03-05,05-19,5.0,5.0,6.0,6.0,03-05,05-19,6.220843080222219
+418,NISN,NiSun International Enterprise Development Group C,14.050000190734863,True,2020.0,,,,,,,,,,
+419,NFPDF,Nissin Foods Holdings Co Ltd,$66.00 ,True,,No data fetched for symbol NFPDF using YahooDailyReader,,,,,,,,,
+420,NSHBF,Nisshinbo Holdings Inc,$9.50 ,True,,No data fetched for symbol NSHBF using YahooDailyReader,,,,,,,,,
+421,NSHBY,Nisshinbo Holdings Inc,13.220000267028809,True,2013.0,,,,,,,,,,
+422,NSOMF,Nisshin Oillio Group Ltd,$4.95 ,True,,'Date',,,,,,,,,
+423,NSANY,Nissan Motor Co Ltd,9.3100004196167,False,2009.0,,02-12,04-27,6.0,6.0,5.0,5.0,12-08,02-21,0.05661494139192946
+424,NSANF,Nissan Motor Co Ltd,4.579999923706055,False,2010.0,,07-19,10-02,4.0,6.0,6.0,4.0,01-07,03-22,0.1820076632235172
+425,NNCHY,Nissan Chemical Corp,59.83399963378906,True,2014.0,,,,,,,,,,
+426,NNCHF,Nissan Chemical Corp,$15.00 ,True,,'Date',,,,,,,,,
+427,NI,NiSource Inc,23.959999084472656,False,2009.0,,05-06,07-20,8.0,8.0,3.0,3.0,05-06,07-20,4.0532381629718754
+428,NKA,Niska Gas Storage Partners LLC,$4.21 ,True,,'Date',,,,,,,,,
+429,NHHPF,Nishi-Nippon Financial Holdings Inc,$6.65 ,True,,No data fetched for symbol NHHPF using YahooDailyReader,,,,,,,,,
+430,NPRRF,Nipro Corp,$8.56 ,True,,No data fetched for symbol NPRRF using YahooDailyReader,,,,,,,,,
+431,NYUKF,Nippon Yusen Kabushiki Kaisha,17.610000610351562,False,2010.0,,07-18,10-01,3.0,3.0,7.0,7.0,11-16,01-30,12.42081429154659
+432,NPNYY,Nippon Yusen Kabushiki Kaisha,4.0,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,11-12,01-26,5.178703643757157
+433,NPTVF,Nippon Television Holdings Inc,16.040000915527344,True,2013.0,,,,,,,,,,
+434,NPPXF,Nippon Telegraph & Telephone Corp,23.549999237060547,False,2009.0,,05-30,08-13,6.0,8.0,5.0,3.0,06-07,08-21,5.221660622612731
+435,NTTYY,Nippon Telegraph & Telephone Corp,23.690000534057617,False,2009.0,,03-12,05-26,8.0,8.0,3.0,3.0,05-31,08-14,6.269447745031233
+436,NISUY,Nippon Suisan Kaisha Ltd,$66.47 ,True,,No data fetched for symbol NISUY using YahooDailyReader,,,,,,,,,
+437,NISUF,Nippon Suisan Kaisha Ltd,5.800000190734863,True,2019.0,,,,,,,,,,
+438,NIPPF,Nippon Steel Trading Corp,5585.0,True,2012.0,,,,,,,,,,
+439,NPSCY,Nippon Steel Corp,11.420000076293945,False,2009.0,,10-04,12-18,6.0,6.0,5.0,5.0,10-04,12-18,4.364088086344057
+440,NISTF,Nippon Steel Corp,10.59000015258789,False,2009.0,,08-28,11-11,2.0,8.0,9.0,3.0,11-13,01-27,4.282056661159419
+441,NPSHY,Nippon Shokubai Co Ltd,11.140000343322754,True,2014.0,,,,,,,,,,
+442,NPPNY,Nippon Shinyaku Co Ltd,18.5,True,2016.0,,,,,,,,,,
+443,NPSGY,Nippon Sheet Glass Co Ltd,4.139999866485596,True,2013.0,,,,,,,,,,
+444,NPSGF,Nippon Sheet Glass Co Ltd,6.0,True,2012.0,,,,,,,,,,
+445,NPPSF,Nippon Sharyo Ltd,$29.10 ,True,,No data fetched for symbol NPPSF using YahooDailyReader,,,,,,,,,
+446,TYNPF,Nippon Sanso Holdings Corp,17.049999237060547,True,2020.0,,,,,,,,,,
+447,NPONF,Nippon Prologis REIT Inc,2990.0,True,2020.0,,,,,,,,,,
+448,NPCPF,Nippon Paint Holdings Co Ltd,102.5,True,2014.0,,,,,,,,,,
+449,NPPMF,Nippon Light Metal Holdings Co Ltd,16.489999771118164,True,2020.0,,,,,,,,,,
+450,NPKYF,Nippon Kayaku Co Ltd,11.100000381469727,True,2019.0,,,,,,,,,,
+451,NPKYY,Nippon Kayaku Co Ltd,9.180000305175781,True,2012.0,,,,,,,,,,
+452,NPPGF,Nippon Gas Co Ltd,41.0,True,2016.0,,,,,,,,,,
+453,NPEXY,Nippon Express Co Ltd,10.9399995803833,True,2012.0,,,,,,,,,,
+454,NPEXF,Nippon Express Co Ltd,$55.20 ,True,,No data fetched for symbol NPEXF using YahooDailyReader,,,,,,,,,
+455,NPEGF,Nippon Electric Glass Co Ltd,22.06999969482422,True,2012.0,,,,,,,,,,
+456,RCCMF,Nippon Dragon Resources Inc,0.028999999165534973,True,2013.0,,,,,,,,,,
+457,NPPRF,Nippon Ceramic Co Ltd,20.65999984741211,True,2018.0,,,,,,,,,,
+458,NCRBF,Nippon Carbon Co Ltd,31.700000762939453,True,2017.0,,,,,,,,,,
+459,NBFJF,Nippon Building Fund Inc,6254.35986328125,True,2013.0,,,,,,,,,,
+460,NPNZF,Nippon Antenna Co Ltd,9.300000190734863,True,2013.0,,,,,,,,,,
+462,NOXGF,Niogold Mining Corp,$0.33 ,True,,'Date',,,,,,,,,
+463,NIOBF,NioCorp Developments Ltd,0.5989999771118164,False,2009.0,,12-17,03-02,7.0,7.0,4.0,4.0,12-17,03-02,23.067042530101677
+464,NIOCF,Niocan Inc,0.16226999461650848,True,2018.0,,,,,,,,,,
+465,MDNNF,Niobay Metals Inc,0.49000000953674316,False,2009.0,,08-30,11-13,6.0,6.0,5.0,5.0,08-30,11-13,12.207013877779875
+466,NIO,NIO Inc,45.060001373291016,True,2018.0,,,,,,,,,,
+467,NTDOY,Nintendo Co Ltd,64.44999694824219,False,2009.0,,02-10,04-25,8.0,8.0,3.0,3.0,02-10,04-25,9.622455995085305
+468,NTDOF,Nintendo Co Ltd,513.010009765625,False,2009.0,,02-08,04-23,6.0,6.0,5.0,5.0,02-08,04-23,9.964291496084416
+469,NINTF,Ninety One PLC,2.950000047683716,True,2020.0,,,,,,,,,,
+470,NNMTF,Nine Entertainment Co. Holdings Ltd,$0.79 ,True,,No data fetched for symbol NNMTF using YahooDailyReader,,,,,,,,,
+471,NINE,Nine Energy Service Inc,1.6699999570846558,True,2018.0,,,,,,,,,,
+472,NDGPY,Nine Dragons Paper (Holdings) Ltd,28.979999542236328,True,2012.0,,,,,,,,,,
+473,NDGPF,Nine Dragons Paper (Holdings) Ltd,1.399999976158142,False,2009.0,,08-30,11-13,6.0,6.0,5.0,5.0,08-30,11-13,14.60657397834641
+474,JMKJ,Nine Alliance Science & Technology Group,10.0,True,2017.0,,,,,,,,,,
+475,NMTT,Nimtech Corp,5.0,True,2016.0,,,,,,,,,,
+476,NMBL,Nimble Storage Inc,$12.49 ,True,,'Date',,,,,,,,,
+477,GRNDF,Nimble Holdings Co Ltd,$0.06 ,True,,No data fetched for symbol GRNDF using YahooDailyReader,,,,,,,,,
+478,NLLGF,Nilorngruppen AB,3.4690001010894775,True,2017.0,,,,,,,,,,
+479,NLFKF,Nilfisk Holding A/S,13.399999618530273,True,2018.0,,,,,,,,,,
+480,NILA,Nilam Resources Inc,0.005400000140070915,False,2009.0,,08-28,11-11,5.0,5.0,6.0,6.0,08-28,11-11,13.599511320030036
+481,NINOY,Nikon Corp,6.849999904632568,False,2010.0,,09-20,12-04,5.0,5.0,5.0,5.0,10-03,12-17,1.8451595066733608
+482,NINOF,Nikon Corp,6.099999904632568,False,2009.0,,09-05,11-19,7.0,6.0,4.0,5.0,12-03,02-16,2.886506991039608
+483,NKLA,Nikola Corp,25.420000076293945,True,2018.0,,,,,,,,,,
+484,NIPKF,NIKKON Holdings Co Ltd,$11.53 ,True,,No data fetched for symbol NIPKF using YahooDailyReader,,,,,,,,,
+485,^N225,Nikkei 225,25634.33984375,False,2009.0,,10-04,12-18,7.0,7.0,4.0,4.0,10-04,12-18,6.098157956634879
+486,NKE,Nike Inc,131.6300048828125,False,2009.0,,06-27,09-10,9.0,9.0,2.0,2.0,06-27,09-10,6.110556268836563
+487,NIHD,NII Holdings Inc,2.1700000762939453,True,2015.0,,,,,,,,,,
+488,NHMAF,Nihon M&A Center Inc,60.70000076293945,True,2018.0,,,,,,,,,,
+489,NHNKY,Nihon Kohden Corp,15.967499732971191,True,2013.0,,,,,,,,,,
+490,NHNKF,Nihon Kohden Corp,31.75,True,2020.0,,,,,,,,,,
+491,NHCZF,Nihon Chouzai Co Ltd,16.024999618530273,True,2018.0,,,,,,,,,,
+492,NITE,Nightstar Therapeutics PLC,$25.41 ,True,,No data fetched for symbol NITE using YahooDailyReader,,,,,,,,,
+493,MIMZF,Nighthawk Gold Corp,0.9700000286102295,True,2012.0,,,,,,,,,,
+494,NHEGY,Nighthawk Energy PLC,$0.01 ,True,,No data fetched for symbol NHEGY using YahooDailyReader,,,,,,,,,
+495,NGTF,NightFood Holdings Inc,0.10999999940395355,True,2015.0,,,,,,,,,,
+496,NIFCY,Nifco Inc,13.699999809265137,True,2012.0,,,,,,,,,,
+497,NLSN,Nielsen Holdings PLC,16.209999084472656,True,2011.0,,,,,,,,,,
+498,NIDOY,Nido Petroleum Ltd,$24.95 ,True,,No data fetched for symbol NIDOY using YahooDailyReader,,,,,,,,,
+499,NIDOF,Nido Petroleum Ltd,$0.03 ,True,,'Date',,,,,,,,,
+500,NNDNF,Nidec Corp,108.9000015258789,True,2012.0,,,,,,,,,,
+501,NJDCY,Nidec Corp,27.540000915527344,False,2009.0,,05-24,08-07,7.0,7.0,4.0,4.0,05-24,08-07,11.148398600004478
+502,NICXF,Nicox SA,5.079999923706055,False,2010.0,,12-11,02-24,5.0,5.0,5.0,5.0,12-11,02-24,20.00707438501111
+503,NCBS,Nicolet Bankshares Inc,68.01000213623047,True,2013.0,,,,,,,,,,
+504,HUSIF,Nicola Mining Inc,0.09430000185966492,False,2009.0,,06-25,09-08,6.0,6.0,5.0,5.0,06-25,09-08,7.886252267682508
+505,SSMLF,Nickel Rock Resources Inc,0.12999999523162842,True,2016.0,,,,,,,,,,
+506,NICMF,Nickel Mines Ltd,0.361299991607666,True,2020.0,,,,,,,,,,
+507,NCPCF,Nickel Creek Platinum Corp,0.11999999731779099,True,2011.0,,,,,,,,,,
+508,NIKAY,Nickel Asia Corp,$24.95 ,True,,No data fetched for symbol NIKAY using YahooDailyReader,,,,,,,,,
+509,NICK,Nicholas Financial Inc,7.800000190734863,False,2009.0,,06-13,08-27,7.0,7.0,4.0,4.0,06-13,08-27,4.8925989929383835
+510,NCWAF,Nichiwa Sangyo Co Ltd,2.5,True,2013.0,,,,,,,,,,
+511,NCHEY,Nichirei Corp,12.6899995803833,True,2015.0,,,,,,,,,,
+512,NICFF,Nichias Corp,22.399999618530273,True,2017.0,,,,,,,,,,
+513,NHKFF,Nichi-Iko Pharmaceutical Co Ltd,12.550000190734863,True,2020.0,,,,,,,,,,
+514,NCSYF,NICE Ltd,239.0,True,2012.0,,,,,,,,,,
+515,NICE,NICE Ltd,233.6999969482422,False,2009.0,,12-11,02-24,7.0,7.0,4.0,4.0,12-11,02-24,6.303392102170855
+516,EGOV,NIC Inc,24.290000915527344,False,2009.0,,10-10,12-24,3.0,3.0,8.0,8.0,10-10,12-24,5.113177960563175
+517,NDRBF,NIBE Industrier AB,23.420000076293945,True,2016.0,,,,,,,,,,
+518,NODK,NI Holdings Inc,17.43000030517578,True,2017.0,,,,,,,,,,
+519,NIBA,NI Bancshares Corp,$66.00 ,True,,'Date',,,,,,,,,
+520,NNHHF,NHS Industries Ltd,0.020819999277591705,True,2018.0,,,,,,,,,,
+521,NHKGF,NHK Spring Co Ltd,6.28000020980835,True,2020.0,,,,,,,,,,
+522,NHLE,Nhale Inc,0.007000000216066837,True,2014.0,,,,,,,,,,
+523,NHHEF,NH Hotel Group SA,3.785399913787842,True,2014.0,,,,,,,,,,
+524,NIPMY,NH Foods Ltd,21.149999618530273,True,2015.0,,,,,,,,,,
+525,NHFOF,NH Foods Ltd,$32.50 ,True,,No data fetched for symbol NHFOF using YahooDailyReader,,,,,,,,,
+526,NGM,NGM Biopharmaceuticals Inc,23.0,True,2019.0,,,,,,,,,,
+527,NGL,NGL Energy Partners LP,2.819999933242798,True,2011.0,,,,,,,,,,
+528,NGKSY,NGK Spark Plug Co Ltd,9.100000381469727,True,2015.0,,,,,,,,,,
+529,NGKSF,NGK Spark Plug Co Ltd,13.640000343322754,True,2015.0,,,,,,,,,,
+530,NGKIF,NGK Insulators Ltd,15.5,True,2012.0,,,,,,,,,,
+531,NGXXF,NGEx Minerals Ltd,0.4000000059604645,True,2019.0,,,,,,,,,,
+532,NGRP,Ngen Technologies Holdings Corp,0.05999999865889549,True,2013.0,,,,,,,,,,
+533,NGELY,NGE Capital Ltd,$0.45 ,True,,No data fetched for symbol NGELY using YahooDailyReader,,,,,,,,,
+534,NGELF,NGE Capital Ltd,0.27000001072883606,True,2017.0,,,,,,,,,,
+535,GASXF,NG Energy International Corp,0.7300000190734863,True,2020.0,,,,,,,,,,
+536,NFONF,NFON AG,15.434399604797363,True,2020.0,,,,,,,,,,
+537,NFYEF,NFI Group Inc,12.6899995803833,True,2011.0,,,,,,,,,,
+538,NVET,Nexvet Biopharma PLC,$6.72 ,True,,'Date',,,,,,,,,
+539,EFRTF,Nexus Real Estate Investment Trust,1.3200000524520874,True,2014.0,,,,,,,,,,
+540,NXXGF,Nexus Gold Corp,0.04399999976158142,True,2016.0,,,,,,,,,,
+541,IBGR,Nexus Energy Services Inc,0.013980000279843807,False,2009.0,,06-22,09-05,2.0,2.0,9.0,9.0,06-22,09-05,-4.234352971253046
+542,NEXS,Nexus Biopharma Inc,0.0052999998442828655,True,2015.0,,,,,,,,,,
+543,NSRCF,NextSource Materials Inc,0.05000000074505806,False,2009.0,,12-24,03-09,7.0,7.0,4.0,4.0,12-24,03-09,8.59733708221156
+544,NXTFF,Nextraction Energy Corp,0.04179999977350235,False,2010.0,,07-11,09-24,5.0,5.0,5.0,5.0,07-11,09-24,12.654342241046162
+545,NACQF,NextPoint Acquisition Corp,9.699999809265137,True,2020.0,,,,,,,,,,
+546,OILFF,Nextleaf Solutions Ltd,0.15062999725341797,True,2019.0,,,,,,,,,,
+547,NEX,NexTier Oilfield Solutions Inc,2.7200000286102295,True,2017.0,,,,,,,,,,
+548,NXGN,NextGen Healthcare Inc,15.789999961853027,False,2009.0,,11-09,01-23,6.0,6.0,5.0,5.0,11-02,01-16,4.398650033811198
+549,NEP,NextEra Energy Partners LP,64.2699966430664,True,2014.0,,,,,,,,,,
+550,NEE,NextEra Energy Inc,75.79000091552734,False,2009.0,,06-12,08-26,9.0,8.0,2.0,3.0,06-12,08-26,6.216096636803937
+551,NXGT,Nexteligent Holdings Inc,0.02810000069439411,True,2017.0,,,,,,,,,,
+552,NTXVF,Nexteer Automotive Group Ltd,0.9826499819755554,True,2015.0,,,,,,,,,,
+553,NEXCF,NexTech AR Solutions Corp,5.650000095367432,True,2018.0,,,,,,,,,,
+554,NEXT,NextDecade Corp,2.2899999618530273,True,2015.0,,,,,,,,,,
+555,NXDCF,Nextdc Ltd,9.350000381469727,True,2019.0,,,,,,,,,,
+556,NXTC,NextCure Inc,9.859999656677246,True,2019.0,,,,,,,,,,
+557,NXTN,Next10 Inc,1.0,True,2011.0,,,,,,,,,,
+558,NXSCF,Next Science Ltd,0.8501999974250793,True,2019.0,,,,,,,,,,
+559,NXGPY,Next PLC,44.36800003051758,True,2013.0,,,,,,,,,,
+560,NXGPF,Next PLC,84.30000305175781,False,2009.0,,04-08,06-22,7.0,7.0,4.0,4.0,04-08,06-22,8.23907095496619
+561,NXGWF,Next Green Wave Holdings Inc,0.2727999985218048,True,2018.0,,,,,,,,,,
+562,GPNE,Next Graphite Inc,$0.01 ,True,,No data fetched for symbol GPNE using YahooDailyReader,,,,,,,,,
+563,NXXTF,Next Games Corp,1.899999976158142,True,2017.0,,,,,,,,,,
+564,NXFNF,Next Fifteen Communications Group PLC,6.5,True,2015.0,,,,,,,,,,
+565,NEXD,Next Dynamics Inc,4.5,True,2020.0,,,,,,,,,,
+566,NXTBF,Next Biometrics Group ASA,0.20858000218868256,True,2015.0,,,,,,,,,,
+567,NXST,Nexstar Media Group Inc,103.91000366210938,False,2009.0,,10-27,01-10,7.0,7.0,4.0,4.0,10-27,01-10,13.563910013510645
+568,NHF,NexPoint Strategic Opportunities Fund,9.520000457763672,False,2009.0,,10-29,01-12,8.0,7.0,3.0,4.0,11-21,02-04,2.260851152226764
+569,NXRT,NexPoint Residential Trust Inc,44.619998931884766,True,2015.0,,,,,,,,,,
+570,NREF,NexPoint Real Estate Finance Inc,14.630000114440918,True,2020.0,,,,,,,,,,
+571,NXPC,Nexplore Corp,0.12999999523162842,False,2009.0,,05-13,07-27,3.0,3.0,8.0,8.0,05-13,07-27,18.764591406710828
+572,NXOPF,NexOptic Technology Corp,0.3569999933242798,True,2011.0,,,,,,,,,,
+573,NEXOY,NEXON Co Ltd,24.350000381469727,True,2018.0,,,,,,,,,,
+574,NEXOF,NEXON Co Ltd,24.170000076293945,True,2012.0,,,,,,,,,,
+575,NEXJF,NexJ Systems Inc,0.4982999861240387,True,2013.0,,,,,,,,,,
+576,NNXXY,Nexity SA,$9.20 ,True,,No data fetched for symbol NNXXY using YahooDailyReader,,,,,,,,,
+577,NXEN,Nexien BioPharma Inc,0.039000000804662704,True,2017.0,,,,,,,,,,
+578,SAKL,Nexia Holdings Inc,0.020999999716877937,True,2017.0,,,,,,,,,,
+579,NEXPF,Nexi SpA,18.149999618530273,True,2020.0,,,,,,,,,,
+580,NEXXY,Nexi SpA,17.5,True,2020.0,,,,,,,,,,
+581,NEGXF,NexgenRx Inc,0.10599999874830246,True,2017.0,,,,,,,,,,
+582,NXGM,NexGen Mining Inc,0.10000000149011612,False,2009.0,,01-07,03-22,6.0,6.0,5.0,5.0,01-07,03-22,19.268856278323426
+583,XGEN,NexGen Holdings Corp,0.011900000274181366,False,2009.0,,12-30,03-15,8.0,8.0,3.0,3.0,12-30,03-15,12.565530887131441
+584,NXE,NexGen Energy Ltd,1.7300000190734863,True,2013.0,,,,,,,,,,
+585,EMBYF,Nexera Energy Inc,0.04157000035047531,False,2010.0,,02-03,04-18,5.0,5.0,5.0,5.0,02-03,04-18,-41.568227658591475
+586,NXNN,Nexeon MedSystems Inc,0.03999999910593033,True,2018.0,,,,,,,,,,
+587,NXEO,Nexeo Solutions Inc,$9.93 ,True,,No data fetched for symbol NXEO using YahooDailyReader,,,,,,,,,
+588,NXCR,NexCore Healthcare Capital Corp,0.05000000074505806,False,2009.0,,03-13,05-27,3.0,3.0,8.0,8.0,03-13,05-27,14.53798513424048
+589,NXPRF,Nexans,59.150001525878906,True,2012.0,,,,,,,,,,
+590,NEXNY,Nexans,23.899999618530273,True,2012.0,,,,,,,,,,
+591,NEXA,Nexa Resources SA,7.849999904632568,True,2017.0,,,,,,,,,,
+592,NEXGY,NEX Group PLC,$27.75 ,True,,No data fetched for symbol NEXGY using YahooDailyReader,,,,,,,,,
+593,NXGRF,NEX Group PLC,$13.90 ,True,,No data fetched for symbol NXGRF using YahooDailyReader,,,,,,,,,
+594,NTWN,Newtown Lane Marketing Inc,0.10999999940395355,True,2012.0,,,,,,,,,,
+595,NEWT,Newtek Business Services Corp,17.770000457763672,False,2009.0,,06-19,09-02,8.0,8.0,3.0,3.0,07-09,09-22,9.644976924112084
+596,NWKRF,Newstrike Brands Ltd,$0.42 ,True,,No data fetched for symbol NWKRF using YahooDailyReader,,,,,,,,,
+597,NEWS,NewStar Financial Inc,0.4339999854564667,True,2019.0,,,,,,,,,,
+598,NWTLY,Newsat Ltd,$9.54 ,True,,No data fetched for symbol NWTLY using YahooDailyReader,,,,,,,,,
+599,NWTLQ,Newsat Ltd,$0.16 ,True,,No data fetched for symbol NWTLQ using YahooDailyReader,,,,,,,,,
+600,NWSAL,News Corp,12.600000381469727,True,2013.0,,,,,,,,,,
+601,NWSA,News Corp,17.549999237060547,True,2013.0,,,,,,,,,,
+602,NWS,News Corp,17.6299991607666,True,2013.0,,,,,,,,,,
+603,NWCM,News Communications Inc,$77.50 ,True,,No data fetched for symbol NWCM using YahooDailyReader,,,,,,,,,
+604,NWPHF,Newron Pharmaceuticals SpA,1.9628900289535522,True,2017.0,,,,,,,,,,
+605,NRWRF,NewRiver REIT PLC,0.949999988079071,True,2020.0,,,,,,,,,,
+606,NRGOF,Newrange Gold Corp,0.09000000357627869,False,2009.0,,12-06,02-19,5.0,5.0,6.0,6.0,12-06,02-19,13.387750089823426
+607,NWXPF,Newport Exploration Ltd,0.3633899986743927,True,2013.0,,,,,,,,,,
+608,NEWP,Newport Corp,$22.99 ,True,,'Date',,,,,,,,,
+609,NR,Newpark Resources Inc,1.6100000143051147,False,2009.0,,05-19,08-02,5.0,5.0,6.0,6.0,05-19,08-02,6.704794482545812
+610,NOCEF,NewOcean Energy Holdings Ltd,$0.22 ,True,,No data fetched for symbol NOCEF using YahooDailyReader,,,,,,,,,
+611,NEM,Newmont Corp,61.560001373291016,False,2009.0,,06-24,09-07,6.0,6.0,5.0,5.0,06-24,09-07,1.062600932416343
+612,NWMT,NewMarket Technology Inc,$1.20 ,True,,'Date',,,,,,,,,
+613,NMKTF,Newmarket Gold Inc,$6.30 ,True,,No data fetched for symbol NMKTF using YahooDailyReader,,,,,,,,,
+614,NEU,NewMarket Corp,365.010009765625,False,2009.0,,10-14,12-28,7.0,7.0,4.0,4.0,10-14,12-28,7.663892966790449
+615,NMRK,Newmark Group Inc,6.260000228881836,True,2017.0,,,,,,,,,,
+616,NEWRF,Newmac Resources Inc,0.029100000858306885,True,2018.0,,,,,,,,,,
+617,NHIC,NewHold Investment Corp,9.789999961853027,True,2020.0,,,,,,,,,,
+618,NFX,Newfield Exploration Co,17.06999969482422,True,2012.0,,,,,,,,,,
+619,NFBP,Newfield Bancorp Inc,$0.10 ,True,,No data fetched for symbol NFBP using YahooDailyReader,,,,,,,,,
+620,NWL,Newell Brands Inc,20.200000762939453,False,2009.0,,11-12,01-26,6.0,6.0,5.0,5.0,11-12,01-26,3.0244576714701097
+621,NDMN,NewDominion Bank,$1.11 ,True,,No data fetched for symbol NDMN using YahooDailyReader,,,,,,,,,
+622,NCMGY,Newcrest Mining Ltd,21.020000457763672,False,2009.0,,05-24,08-07,6.0,6.0,5.0,5.0,05-24,08-07,4.810159816031188
+623,NCMGF,Newcrest Mining Ltd,21.0,False,2009.0,,05-26,08-09,6.0,6.0,5.0,5.0,05-26,08-09,4.6644890270576225
+624,PNCRF,Newcore Gold Ltd,0.6179999709129333,True,2017.0,,,,,,,,,,
+625,CTMQF,NewCastle Gold Ltd,$0.63 ,True,,No data fetched for symbol CTMQF using YahooDailyReader,,,,,,,,,
+626,NBGV,NewBridge Global Ventures Inc,0.1599999964237213,True,2015.0,,,,,,,,,,
+627,NBBC,NewBridge Bancorp,$10.93 ,True,,'Date',,,,,,,,,
+628,NBAC,Newborn Acquisition Corp,10.010000228881836,True,2020.0,,,,,,,,,,
+629,NWYEF,Neways Electronics International NV,$3.10 ,True,,'Date',,,,,,,,,
+630,NWXJ,NewAx Inc,188.0,True,2012.0,,,,,,,,,,
+631,NEWA,Newater Technology Inc,3.5,True,2017.0,,,,,,,,,,
+632,NWLTF,Newalta Corp,$0.96 ,True,,No data fetched for symbol NWLTF using YahooDailyReader,,,,,,,,,
+633,NBEV,NewAge Inc,2.700000047683716,True,2014.0,,,,,,,,,,
+634,NZRFY,New Zealand Refining Co Ltd,$3.68 ,True,,No data fetched for symbol NZRFY using YahooDailyReader,,,,,,,,,
+635,NZRFF,New Zealand Refining Co Ltd,0.3700000047683716,False,2010.0,,08-15,10-29,7.0,5.0,3.0,5.0,09-18,12-02,0.8601747143357553
+636,NZEOY,New Zealand Oil & Gas Ltd,$1.75 ,True,,No data fetched for symbol NZEOY using YahooDailyReader,,,,,,,,,
+637,NZEOF,New Zealand Oil & Gas Ltd,0.4923500120639801,True,2012.0,,,,,,,,,,
+638,NZKSF,New Zealand King Salmon Investments Ltd,1.1100000143051147,True,2020.0,,,,,,,,,,
+639,NZERF,New Zealand Energy Corp,0.006149999797344208,True,2012.0,,,,,,,,,,
+640,NWYU,New You Inc,0.2800000011920929,True,2012.0,,,,,,,,,,
+641,NYTAB,New York Times Co,$18.20 ,True,,No data fetched for symbol NYTAB using YahooDailyReader,,,,,,,,,
+642,NYT,New York Times Co,39.93000030517578,False,2009.0,,11-29,02-12,7.0,7.0,4.0,4.0,11-29,02-12,9.341888942160583
+643,NYRT,New York REIT Inc,14.180000305175781,True,2014.0,,,,,,,,,,
+644,NYMT,New York Mortgage Trust Inc,3.309999942779541,False,2009.0,,10-14,12-28,6.0,6.0,5.0,5.0,04-10,06-24,9.49971962664639
+645,NYCB,New York Community Bancorp Inc,8.979999542236328,False,2009.0,,10-31,01-14,6.0,6.0,5.0,5.0,08-17,10-31,0.35263850154324705
+646,NYC,New York City REIT Inc,10.0,True,2020.0,,,,,,,,,,
+647,NWFFF,New World Resource Corp,1.600000023841858,False,2010.0,,07-02,09-15,3.0,3.0,7.0,7.0,07-02,09-15,8.647016191963921
+648,NDVLY,New World Development Co Ltd,2.640000104904175,False,2009.0,,09-27,12-11,7.0,6.0,4.0,5.0,02-10,04-25,3.1146564723505
+649,NWWDF,New World Development Co Ltd,4.650000095367432,True,2020.0,,,,,,,,,,
+650,NWRLY,New World Department Store China Ltd,4.090000152587891,True,2012.0,,,,,,,,,,
+651,NDEPF,New World Department Store China Ltd,$0.14 ,True,,No data fetched for symbol NDEPF using YahooDailyReader,,,,,,,,,
+652,NWRDF,New World China Land Ltd,0.6449999809265137,True,2013.0,,,,,,,,,,
+653,XINXF,New Work SE,129.25799560546875,True,2017.0,,,,,,,,,,
+654,NWID,New Windsor Bancorp Inc,$31.39 ,True,,'Date',,,,,,,,,
+655,TRMNF,New Wave Holdings Corp,0.03460000082850456,False,2010.0,,09-30,12-14,4.0,4.0,6.0,6.0,09-30,12-14,-11.924179806870713
+656,NTBP,New Tripoli Bancorp Inc,1418.0,False,2009.0,,03-24,06-07,3.0,3.0,7.0,7.0,03-21,06-04,6.57385582277688
+657,NTIHF,New Toyo International Holdings Ltd,$0.21 ,True,,No data fetched for symbol NTIHF using YahooDailyReader,,,,,,,,,
+658,APCOF,New Tech Minerals Corp,0.05999999865889549,True,2013.0,,,,,,,,,,
+659,RDRIF,New Stratus Energy Inc,$0.10 ,True,,No data fetched for symbol RDRIF using YahooDailyReader,,,,,,,,,
+660,SNR,New Senior Investment Group Inc,5.21999979019165,True,2014.0,,,,,,,,,,
+661,NWBN,New Resource Bank CA,$5.50 ,True,,'Date',,,,,,,,,
+662,NRBC,New Resource Bancorp,$8.75 ,True,,No data fetched for symbol NRBC using YahooDailyReader,,,,,,,,,
+663,NRZ,New Residential Investment Corp,8.489999771118164,True,2013.0,,,,,,,,,,
+664,NEWR,New Relic Inc,55.529998779296875,True,2014.0,,,,,,,,,,
+665,NPA,New Providence Acquisition Corp,10.15999984741211,True,2019.0,,,,,,,,,,
+666,NPDCF,New Placer Dome Gold Corp,0.20280100405216217,True,2020.0,,,,,,,,,,
+667,NWPP,New Peoples Bankshares Inc,1.9800000190734863,True,2012.0,,,,,,,,,,
+668,NUPMF,New Pacific Metals Corp,5.25,False,2009.0,,06-19,09-02,5.0,5.0,6.0,6.0,06-19,09-02,15.551308318283539
+669,NOPUF,New Oroperu Resources Inc,2.241189956665039,True,2013.0,,,,,,,,,,
+670,EDU,New Oriental Education & Technology Group Inc,176.60000610351562,False,2009.0,,03-28,06-11,7.0,7.0,4.0,4.0,03-28,06-11,11.831159267964926
+671,NMFC,New Mountain Finance Corp,11.239999771118164,True,2011.0,,,,,,,,,,
+672,NNAX,New Momentum Corp,1,True,2020.0,,,,,,,,,,
+673,NWLNF,New Millennium Iron Corp,0.17000000178813934,False,2009.0,,12-17,03-02,7.0,7.0,4.0,4.0,12-17,03-02,22.29144876071008
+674,NMNB,New Millennium Bank,$3.90 ,True,,'Date',,,,,,,,,
+675,NPWI,New Leap Inc,3.0,True,2019.0,,,,,,,,,,
+676,NLVVF,New Leaf Ventures Inc,0.20999999344348907,True,2020.0,,,,,,,,,,
+677,NJR,New Jersey Resources Corp,35.619998931884766,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,09-27,12-11,5.553203578373675
+678,NJMC,New Jersey Mining Co,0.28999999165534973,False,2009.0,,12-28,03-13,5.0,5.0,6.0,6.0,12-28,03-13,10.994325899007007
+679,NJCB,New Jersey Community Bank,4.239999771118164,True,2012.0,,,,,,,,,,
+680,NIHL,New Infinity Holdings Ltd,1.0,True,2012.0,,,,,,,,,,
+681,NHPEF,New Hope Corp Ltd,0.9200000166893005,False,2010.0,,08-12,10-26,3.0,3.0,7.0,7.0,06-27,09-10,6.619466617136651
+682,NGD,New Gold Inc,1.7999999523162842,False,2009.0,,06-17,08-31,5.0,5.0,6.0,6.0,06-17,08-31,1.6710561962495614
+683,GF,NEW GERMANY FUND INC,18.200000762939453,False,2009.0,,03-23,06-06,8.0,8.0,3.0,3.0,02-10,04-25,3.5598779916459167
+684,NGCG,New Generation Consumer Group Inc,0.006599999964237213,False,2009.0,,11-11,01-25,2.0,2.0,7.0,7.0,11-11,01-25,6.216293278150817
+685,NFH,New Frontier Health Corp,8.600000381469727,True,2018.0,,,,,,,,,,
+686,NFGFF,New Found Gold Corp,2.9100000858306885,True,2020.0,,,,,,,,,,
+687,NFE,New Fortress Energy Inc,37.68000030517578,True,2019.0,,,,,,,,,,
+688,NESW,New England Service Co,22.0,True,2013.0,,,,,,,,,,
+689,NEN,New England Realty Associates LP,50.02000045776367,False,2009.0,,05-24,08-07,8.0,8.0,3.0,3.0,05-24,08-07,3.5258518455368564
+690,MTTGF,New Energy Minerals Ltd,0.014000000432133675,True,2012.0,,,,,,,,,,
+691,NEMCF,New Energy Metals Corp,0.047529999166727066,True,2018.0,,,,,,,,,,
+692,EBODF,New Energy Exchange Ltd,0.07999999821186066,False,2009.0,,11-23,02-06,6.0,6.0,5.0,5.0,11-23,02-06,22.19162895281888
+693,PAIR,New Dimension Holdings Inc,0.2939999997615814,True,2019.0,,,,,,,,,,
+694,NDMCF,New Destiny Mining Corp,0.07000000029802322,True,2020.0,,,,,,,,,,
+695,GBR,New Concept Energy Inc,1.659999966621399,False,2009.0,,11-07,01-21,5.0,5.0,6.0,6.0,11-07,01-21,7.021719535435955
+696,NWWCF,New China Life Insurance Co Ltd,4.099999904632568,True,2020.0,,,,,,,,,,
+697,NWNNF,New Century Resources Ltd,0.09000000357627869,True,2017.0,,,,,,,,,,
+698,NCRE,New Century Resources Corp,0.03500000014901161,True,2016.0,,,,,,,,,,
+699,LADFF,New Carolin Gold Corp,0.04450000077486038,True,2011.0,,,,,,,,,,
+700,NBPOF,New Britain Palm Oil Ltd,$10.25 ,True,,No data fetched for symbol NBPOF using YahooDailyReader,,,,,,,,,
+701,NWBB,New Bancorp Inc,26.219999313354492,True,2015.0,,,,,,,,,,
+702,NAHD,New Asia Holdings Inc,0.10100000351667404,True,2012.0,,,,,,,,,,
+703,HYB,New America High Income Fund Inc,8.460000038146973,False,2009.0,,02-28,05-13,8.0,7.0,3.0,4.0,02-22,05-07,2.695723564212212
+704,NMTLF,New Age Metals Inc,0.05432000011205673,True,2012.0,,,,,,,,,,
+705,NSU,Nevsun Resources Ltd,$4.44 ,True,,No data fetched for symbol NSU using YahooDailyReader,,,,,,,,,
+706,NVRO,Nevro Corp,172.02000427246094,True,2014.0,,,,,,,,,,
+707,NEVE,Nevo Energy Inc,$0.01 ,True,,No data fetched for symbol NEVE using YahooDailyReader,,,,,,,,,
+708,GDSKF,Nevada Zinc Corp,0.0385500006377697,True,2015.0,,,,,,,,,,
+709,NVSGF,Nevada Sunrise Gold Corp,0.12999999523162842,False,2010.0,,12-04,02-17,4.0,4.0,6.0,6.0,12-04,02-17,3.7279367417859417
+710,UWN,Nevada Gold & Casinos Inc,2.5399999618530273,True,2012.0,,,,,,,,,,
+711,NVDEF,Nevada Exploration Inc,0.10289999842643738,True,2016.0,,,,,,,,,,
+712,NEVDF,Nevada Copper Corp,0.07999999821186066,False,2009.0,,10-26,01-09,5.0,5.0,6.0,6.0,10-26,01-09,2.695226628987534
+713,NGLDD,Nevada Canyon Gold Corp,0.675000011920929,True,2020.0,,,,,,,,,,
+714,NRXCF,NeutriSci International Inc,0.10869999974966049,True,2016.0,,,,,,,,,,
+715,NSR,NeuStar Inc,$33.50 ,True,,'Date',,,,,,,,,
+716,NTRP,Neurotrope Inc,0.9649999737739563,True,2017.0,,,,,,,,,,
+717,NPTX,Neuropathix Inc,0.33000001311302185,True,2020.0,,,,,,,,,,
+718,NMTC,NeuroOne Medical Technologies Corp,1.0,True,2018.0,,,,,,,,,,
+719,STIM,Neuronetics Inc,7.730000019073486,True,2018.0,,,,,,,,,,
+720,NURO,NeuroMetrix Inc,1.75,False,2009.0,,11-11,01-25,1.0,1.0,10.0,10.0,11-11,01-25,-59.69685412549721
+721,NERO,Neuromama Ltd,30.0,True,2013.0,,,,,,,,,,
+722,NGSX,NeurogesX Inc,$0.01 ,True,,'Date',,,,,,,,,
+723,NDRM,NeuroDerm Ltd,$38.85 ,True,,'Date',,,,,,,,,
+724,NBIX,Neurocrine Biosciences Inc,86.91000366210938,False,2009.0,,05-15,07-29,6.0,6.0,5.0,5.0,05-15,07-29,11.105275541618091
+725,NRBO,NeuroBo Pharmaceuticals Inc,5.349999904632568,True,2016.0,,,,,,,,,,
+726,NURPF,Neuren Pharmaceuticals Ltd,0.8799999952316284,False,2009.0,,09-25,12-09,4.0,4.0,5.0,5.0,09-25,12-09,15.415014991248743
+727,NEUL,NeuLion Inc,0.8299999833106995,True,2013.0,,,,,,,,,,
+728,NRO,NEUBERGER BERMAN REAL ESTATE SECURITIES INCOME FUN,4.03000020980835,False,2009.0,,03-16,05-30,8.0,6.0,3.0,5.0,03-19,06-02,8.075290204740538
+729,NBO,NEUBERGER BERMAN NEW YORK MUNICIPAL FUND INC.,12.029999732971191,False,2009.0,,03-18,06-01,6.0,5.0,5.0,6.0,03-15,05-29,2.97179419217575
+730,NML,Neuberger Berman MLP and Energy Income Fund Inc,3.049999952316284,True,2013.0,,,,,,,,,,
+731,NBH,Neuberger Berman Intermediate Muni Fund,14.90999984741211,False,2009.0,,07-06,09-19,6.0,5.0,5.0,6.0,03-15,05-29,2.940781501975587
+732,NHS,Neuberger Berman High Yield Strategies Fund,11.40999984741211,False,2009.0,,03-18,06-01,9.0,8.0,2.0,3.0,12-15,02-28,4.650937285015785
+733,NBW,Neuberger Berman CA Muni Fund Inc.,13.229999542236328,False,2009.0,,11-13,01-27,7.0,7.0,4.0,4.0,11-13,01-27,1.7482411294379463
+734,NBSE,NeuBase Therapeutics Inc,7.889999866485596,True,2012.0,,,,,,,,,,
+735,NTIP,Network-1 Technologies Inc,3.0899999141693115,False,2009.0,,02-07,04-22,8.0,8.0,3.0,3.0,12-16,03-01,5.170231241565103
+736,NMGGF,Network Media Group Inc,0.1004600003361702,True,2014.0,,,,,,,,,,
+737,NWITY,Network International Holdings PLC,3.5799999237060547,True,2019.0,,,,,,,,,,
+738,NWCN,Network CN Inc,0.8500000238418579,True,2012.0,,,,,,,,,,
+739,NTFL,Network 1 Financial Group Inc,0.013949999585747719,False,2009.0,,03-14,05-28,4.0,4.0,6.0,6.0,03-14,05-28,-36.41798122191072
+740,N,NetSuite Inc,$90.34 ,True,,'Date',,,,,,,,,
+741,NTST,Netstreit Corp,17.65999984741211,True,2020.0,,,,,,,,,,
+742,NTWK,NETSOL Technologies Inc,3.0,False,2009.0,,11-17,01-31,3.0,3.0,8.0,8.0,11-17,01-31,12.418708917195358
+743,NETS,Netshoes (Cayman) Ltd,$3.70 ,True,,No data fetched for symbol NETS using YahooDailyReader,,,,,,,,,
+744,NTCT,NetScout Systems Inc,22.760000228881836,False,2009.0,,10-14,12-28,7.0,7.0,4.0,4.0,10-14,12-28,5.079743285248696
+745,NTPY,NetPay International Inc,0.061000000685453415,True,2018.0,,,,,,,,,,
+746,NTME,NetMed Inc,0.07999999821186066,False,2009.0,,05-09,07-23,6.0,6.0,5.0,5.0,05-09,07-23,-45.158523589673536
+747,NLST,Netlist Inc,0.5699999928474426,False,2009.0,,08-20,11-03,5.0,5.0,6.0,6.0,08-20,11-03,4.544819086026916
+748,NTIAF,Netia SA,$1.70 ,True,,No data fetched for symbol NTIAF using YahooDailyReader,,,,,,,,,
+749,NTGR,Netgear Inc,31.299999237060547,False,2009.0,,11-07,01-21,4.0,4.0,7.0,7.0,11-07,01-21,7.723758958124321
+750,NFLX,Netflix Inc,481.7900085449219,False,2009.0,,01-21,04-05,10.0,10.0,1.0,1.0,01-21,04-05,17.074729781885907
+751,NFIN,Netfin Acquisition Corp,11.399999618530273,True,2019.0,,,,,,,,,,
+752,NTABF,NetEnt AB,8.769399642944336,True,2019.0,,,,,,,,,,
+753,NTNTY,NetEnt AB,19.950000762939453,True,2016.0,,,,,,,,,,
+754,NTES,NetEase Inc,85.5,False,2009.0,,02-07,04-22,7.0,7.0,4.0,4.0,02-07,04-22,8.210441326240963
+755,NDWTF,NetDragon Websoft Inc,$0.46 ,True,,No data fetched for symbol NDWTF using YahooDailyReader,,,,,,,,,
+756,NETDY,NetDimensions (Holdings) Ltd,$5.37 ,True,,'Date',,,,,,,,,
+757,NDHLF,NetDimensions (Holdings) Ltd,$0.62 ,True,,No data fetched for symbol NDHLF using YahooDailyReader,,,,,,,,,
+758,NCLZF,NetComm Wireless Ltd,$0.74 ,True,,No data fetched for symbol NCLZF using YahooDailyReader,,,,,,,,,
+759,GARLF,Netcoins Holdings Inc,0.03400000184774399,True,2018.0,,,,,,,,,,
+760,NTTCF,NetCents Technology Inc,0.7200000286102295,True,2017.0,,,,,,,,,,
+761,NWKHY,Netcare Ltd,13.130000114440918,True,2013.0,,,,,,,,,,
+762,NWKHF,Netcare Ltd,1.9600000381469727,True,2015.0,,,,,,,,,,
+763,VSTRD,Netcapital Inc,7.739999771118164,True,2020.0,,,,,,,,,,
+764,NTAP,NetApp Inc,51.540000915527344,False,2009.0,,07-06,09-19,6.0,6.0,5.0,5.0,07-06,09-19,7.65065451611821
+765,NTLK,Net Talk.com Inc,0.004999999888241291,False,2010.0,,12-09,02-22,7.0,7.0,3.0,3.0,12-09,02-22,23.83333705322277
+766,NONEF,Net One Systems Co Ltd,16.4768009185791,True,2020.0,,,,,,,,,,
+767,NONEY,Net One Systems Co Ltd,$51.70 ,True,,No data fetched for symbol NONEY using YahooDailyReader,,,,,,,,,
+768,NMXS,Net Medical Xpress Solutions Inc,0.05000000074505806,False,2009.0,,01-21,04-05,4.0,4.0,7.0,7.0,01-21,04-05,16.796398507921
+769,NETE,Net Element Inc,7.989999771118164,False,2009.0,,02-10,04-25,5.0,5.0,6.0,6.0,02-10,04-25,-10.684429639879381
+770,UEPS,Net 1 UEPS Technologies Inc,3.3399999141693115,False,2009.0,,10-24,01-07,5.0,5.0,6.0,6.0,10-24,01-07,-11.064967806433911
+771,NSRGY,Nestle SA,114.55000305175781,False,2009.0,,02-13,04-28,7.0,7.0,4.0,4.0,06-22,09-05,4.6876128827089785
+772,NSRGF,Nestle SA,114.23999786376953,False,2009.0,,03-01,05-15,7.0,7.0,4.0,4.0,06-22,09-05,4.6000774551337225
+773,NSLYF,Nestle Malaysia Bhd,31.0,True,2013.0,,,,,,,,,,
+774,NTOIY,Neste Corp,31.709999084472656,True,2012.0,,,,,,,,,,
+775,NTOIF,Neste Corp,62.099998474121094,True,2012.0,,,,,,,,,,
+776,NCERF,Nesscap Energy Inc,$0.02 ,True,,No data fetched for symbol NCERF using YahooDailyReader,,,,,,,,,
+777,NSCO,Nesco Holdings Inc,4.230000019073486,True,2017.0,,,,,,,,,,
+778,NGENF,NervGen Pharma Corp,1.3907999992370605,True,2019.0,,,,,,,,,,
+779,NOSUF,Nerds On Site Inc,0.03500000014901161,True,2019.0,,,,,,,,,,
+780,NEPT,Neptune Wellness Solutions Inc,1.7799999713897705,False,2009.0,,05-14,07-28,6.0,6.0,5.0,5.0,05-14,07-28,11.008893371358383
+781,NPTOY,Neptune Orient Lines Ltd,$3.68 ,True,,'Date',,,,,,,,,
+782,NPTOF,Neptune Orient Lines Ltd,$0.95 ,True,,'Date',,,,,,,,,
+783,NPPTF,Neptune Dash Technologies Corp,0.09189999848604202,True,2018.0,,,,,,,,,,
+784,NEPH,Nephros Inc,5.980000019073486,False,2009.0,,04-10,06-24,5.0,5.0,6.0,6.0,04-10,06-24,18.160541273936623
+785,NEOV,NeoVolta Inc,3.7049999237060547,True,2020.0,,,,,,,,,,
+786,NVCN,Neovasc Inc,0.8500000238418579,False,2009.0,,08-19,11-02,5.0,5.0,6.0,6.0,08-19,11-02,10.30221745270327
+787,NEOS,Neos Therapeutics Inc,0.5600000023841858,True,2015.0,,,,,,,,,,
+788,NPTN,NeoPhotonics Corp,7.949999809265137,True,2011.0,,,,,,,,,,
+789,NEON,Neonode Inc,7.590000152587891,False,2009.0,,11-13,01-27,5.0,5.0,6.0,6.0,11-13,01-27,13.70234551070956
+790,NTGN,Neon Therapeutics Inc,$3.07 ,True,,No data fetched for symbol NTGN using YahooDailyReader,,,,,,,,,
+791,NBCO,Neon Bloom Inc,0.7799000144004822,False,2009.0,,04-04,06-18,4.0,4.0,7.0,7.0,04-04,06-18,20.128777145281425
+792,RRSSF,Neometals Ltd,0.30000001192092896,True,2011.0,,,,,,,,,,
+793,RDRUY,Neometals Ltd,1.9299999475479126,True,2013.0,,,,,,,,,,
+794,NLTX,Neoleukin Therapeutics Inc,12.050000190734863,True,2014.0,,,,,,,,,,
+795,NEO,NeoGenomics Inc,42.459999084472656,False,2009.0,,05-08,07-22,5.0,5.0,6.0,6.0,05-08,07-22,10.916729107837513
+796,NEOG,Neogen Corp,72.26000213623047,False,2009.0,,05-02,07-16,6.0,6.0,5.0,5.0,05-02,07-16,12.463122614956314
+797,NOSPF,Neoen SA,53.5,True,2019.0,,,,,,,,,,
+798,NNHLF,Neo-Neon Holdings Ltd,$0.10 ,True,,No data fetched for symbol NNHLF using YahooDailyReader,,,,,,,,,
+799,NOPMF,Neo Performance Materials Inc,9.184900283813477,True,2018.0,,,,,,,,,,
+800,MCPIQ,Neo Performance Materials,$0.03 ,True,,'Date',,,,,,,,,
+801,NTTHF,Neo Lithium Corp,1.1299999952316284,True,2016.0,,,,,,,,,,
+802,NNEMF,NEMI Northern Energy & Mining Inc,$0.54 ,True,,'Date',,,,,,,,,
+803,NEMTF,Nemetschek SE,72.0,True,2014.0,,,,,,,,,,
+804,NMRD,Nemaura Medical Inc,3.9800000190734863,True,2018.0,,,,,,,,,,
+805,NMKEF,Nemaska Lithium Inc,0.11999999731779099,False,2010.0,,07-13,09-26,4.0,4.0,6.0,6.0,07-13,09-26,9.935291791418301
+806,NNI,Nelnet Inc,71.62000274658203,False,2009.0,,10-02,12-16,7.0,7.0,4.0,4.0,10-02,12-16,8.612684146101905
+807,CDNZF,Nelly Group AB,$2.50 ,True,,No data fetched for symbol CDNZF using YahooDailyReader,,,,,,,,,
+808,MXTOF,Neles Corp,8.0,True,2012.0,,,,,,,,,,
+809,MXCYY,Neles Corp,$7.78 ,True,,No data fetched for symbol MXCYY using YahooDailyReader,,,,,,,,,
+810,NLLSY,NEL ASA,72.79000091552734,True,2019.0,,,,,,,,,,
+811,NLLSF,NEL ASA,2.3499999046325684,True,2018.0,,,,,,,,,,
+812,NKTR,Nektar Therapeutics,17.110000610351562,False,2009.0,,11-03,01-17,7.0,7.0,4.0,4.0,11-03,01-17,15.728618841807739
+813,NKKRF,Nekkar ASA,$0.28 ,True,,No data fetched for symbol NKKRF using YahooDailyReader,,,,,,,,,
+814,NNRHF,Neinor Homes SA,7.5,True,2018.0,,,,,,,,,,
+815,NEFB,Neffs Bancorp Inc,440.0,True,2012.0,,,,,,,,,,
+816,NEFF,Neff Corp,$25.00 ,True,,'Date',,,,,,,,,
+817,NP,Neenah Inc,44.5099983215332,False,2009.0,,10-06,12-20,6.0,6.0,5.0,5.0,10-06,12-20,9.748218589491136
+818,NNHE,Neenah Enterprises Inc,$1.95 ,True,,No data fetched for symbol NNHE using YahooDailyReader,,,,,,,,,
+819,NHOXF,Nederman Holding AB,10.318699836730957,True,2020.0,,,,,,,,,,
+820,NDBKY,Nedbank Group Ltd,8.850000381469727,False,2010.0,,12-13,02-26,3.0,3.0,7.0,7.0,12-13,02-26,5.152195048884164
+821,NDBKF,Nedbank Group Ltd,6.449999809265137,True,2012.0,,,,,,,,,,
+822,NDDLF,Nedap NV,$55.09 ,True,,No data fetched for symbol NDDLF using YahooDailyReader,,,,,,,,,
+823,NIPNF,NEC Corp,50.7400016784668,True,2020.0,,,,,,,,,,
+824,NEBU,Nebula Acquisition Corp,$13.75 ,True,,No data fetched for symbol NEBU using YahooDailyReader,,,,,,,,,
+825,NEBUF,Nebu Resources Inc,$0.01 ,True,,No data fetched for symbol NEBUF using YahooDailyReader,,,,,,,,,
+826,NEEB,Nebraska Book Holdings Inc,25.0,True,2013.0,,,,,,,,,,
+827,NEAPF,Nearmap Ltd,1.7899999618530273,True,2017.0,,,,,,,,,,
+828,NNMIF,Nearctic Nickel Mines Inc,0.02500000037252903,True,2012.0,,,,,,,,,,
+829,NDTP,NDT Pharmaceuticals Inc,4,True,2020.0,,,,,,,,,,
+830,NDVN,NDivision Inc,0.6000000238418579,True,2018.0,,,,,,,,,,
+831,NCSCF,NCsoft Corp,$135.96 ,True,,No data fetched for symbol NCSCF using YahooDailyReader,,,,,,,,,
+832,NCSM,NCS Multistage Holdings Inc,0.8799999952316284,True,2017.0,,,,,,,,,,
+833,NCR,NCR Corp,25.079999923706055,False,2009.0,,12-06,02-19,8.0,8.0,3.0,3.0,12-06,02-19,8.256120462140991
+834,NCNO,Ncino Inc,73.44999694824219,True,2020.0,,,,,,,,,,
+835,NCIT,NCI Inc,$20.00 ,True,,'Date',,,,,,,,,
+836,NCCGF,NCC Group PLC,2.6500000953674316,True,2015.0,,,,,,,,,,
+837,NCCBF,NCC AB,$30.95 ,True,,No data fetched for symbol NCCBF using YahooDailyReader,,,,,,,,,
+838,NCAL,NCAL Bancorp,1.0,True,2012.0,,,,,,,,,,
+839,NBTB,NBT Bancorp Inc,30.59000015258789,False,2009.0,,05-19,08-02,4.0,4.0,7.0,7.0,05-19,08-02,3.6113266321893462
+840,NCXS,NBC Bancorp Inc,40.0,True,2012.0,,,,,,,,,,
+841,NAYP,Naylor Pipe Co,0.5550000071525574,True,2018.0,,,,,,,,,,
+842,NVYAF,Navya SA,2.859999895095825,True,2019.0,,,,,,,,,,
+844,NVTZF,Navitas Ltd,3.119999885559082,True,2013.0,,,,,,,,,,
+845,NAV,Navistar International Corp,43.939998626708984,False,2009.0,,03-29,06-12,7.0,7.0,4.0,4.0,03-29,06-12,5.1009492252168585
+846,NMM,Navios Maritime Partners LP,6.900000095367432,False,2009.0,,05-20,08-03,6.0,6.0,5.0,5.0,05-20,08-03,7.9433399570506875
+847,NAP,Navios Maritime Midstream Partners LP,3.25,True,2014.0,,,,,,,,,,
+848,NM,Navios Maritime Holdings Inc,1.940000057220459,False,2009.0,,05-12,07-26,6.0,6.0,5.0,5.0,12-16,03-01,7.068243832577404
+849,NMCI,Navios Maritime Containers LP,2.3499999046325684,True,2018.0,,,,,,,,,,
+850,NNA,Navios Maritime Acquisition Corp,4.050000190734863,False,2009.0,,02-11,04-26,5.0,3.0,6.0,8.0,02-09,04-24,5.474892047422223
+851,NAVG,Navigators Group Inc,$69.96 ,True,,No data fetched for symbol NAVG using YahooDailyReader,,,,,,,,,
+852,NVGS,Navigator Holdings Ltd,8.029999732971191,False,2009.0,,01-29,04-13,6.0,6.0,5.0,5.0,01-29,04-13,-7.861980112560147
+853,HFAHF,Navigator Global Investments Ltd,4.199999809265137,True,2013.0,,,,,,,,,,
+854,NCI,Navigant Consulting Inc,$27.99 ,True,,No data fetched for symbol NCI using YahooDailyReader,,,,,,,,,
+855,NAVI,Navient Corp,10.444999694824219,True,2014.0,,,,,,,,,,
+856,NAVB,Navidea Biopharmaceuticals Inc,2.440000057220459,False,2009.0,,12-05,02-18,6.0,6.0,5.0,5.0,12-05,02-18,4.639188229186215
+857,NUSMF,Nautilus Minerals Inc,0.0020000000949949026,False,2009.0,,12-23,03-08,8.0,8.0,2.0,2.0,12-23,03-08,10.91108147693049
+858,GBEYF,Nautilus Marine Services PLC,$0.01 ,True,,No data fetched for symbol GBEYF using YahooDailyReader,,,,,,,,,
+859,NLS,Nautilus Inc,18.489999771118164,False,2009.0,,03-04,05-18,7.0,7.0,4.0,4.0,03-04,05-18,9.571591064067038
+860,NVSL,Naugatuck Valley Financial Corp,$10.95 ,True,,'Date',,,,,,,,,
+861,RBSPF,NatWest Group PLC,2.009999990463257,False,2009.0,,03-29,06-12,5.0,5.0,6.0,6.0,03-29,06-12,14.770561526626437
+862,NWG,NatWest Group PLC,4.090000152587891,False,2009.0,,03-19,06-02,5.0,5.0,6.0,6.0,03-23,06-06,3.675184799336055
+863,NTZ,Natuzzi SPA,6.449999809265137,False,2009.0,,12-13,02-26,9.0,9.0,2.0,2.0,12-13,02-26,15.742537748725676
+864,NTUS,Natus Medical Inc,20.760000228881836,False,2009.0,,01-19,04-03,6.0,6.0,5.0,5.0,01-19,04-03,-0.8801104450167934
+865,GASNY,Naturgy Energy Group SA,4.519999980926514,True,2012.0,,,,,,,,,,
+866,GASNF,Naturgy Energy Group SA,19.700000762939453,True,2012.0,,,,,,,,,,
+867,NTUXY,Naturex SA,$10.22 ,True,,No data fetched for symbol NTUXY using YahooDailyReader,,,,,,,,,
+868,NTUXF,Naturex SA,$73.70 ,True,,No data fetched for symbol NTUXF using YahooDailyReader,,,,,,,,,
+869,NATR,Natures Sunshine Products Inc,12.380000114440918,False,2009.0,,05-01,07-15,4.0,4.0,7.0,7.0,04-28,07-12,11.318256650791938
+870,NTRHF,Nature Group PLC,$0.14 ,True,,No data fetched for symbol NTRHF using YahooDailyReader,,,,,,,,,
+871,NCBF,Nature Coast Bank Cry Rv,$6.16 ,True,,'Date',,,,,,,,,
+872,SHMP,NaturalShrimp Inc,0.12935000658035278,True,2014.0,,,,,,,,,,
+873,NSPDF,Naturally Splendid Enterprises Ltd,0.03700000047683716,True,2014.0,,,,,,,,,,
+874,NRP,Natural Resources Partners LP,15.229999542236328,False,2009.0,,08-08,10-22,6.0,6.0,5.0,5.0,08-08,10-22,3.2592129522992748
+875,NHTC,Natural Health Trends Corp,5.75,False,2009.0,,02-06,04-21,8.0,8.0,3.0,3.0,02-06,04-21,22.863947208442315
+876,NGVC,Natural Grocers by Vitamin Cottage Inc,11.479999542236328,True,2012.0,,,,,,,,,,
+877,NGS,Natural Gas Services Group Inc,10.0,False,2009.0,,08-12,10-26,3.0,3.0,8.0,8.0,08-12,10-26,5.2375779997902026
+878,NBBTF,Natural Beauty Bio-Technology Ltd,0.07000000029802322,True,2012.0,,,,,,,,,,
+879,NAII,Natural Alternatives International Inc,10.199999809265137,False,2009.0,,07-12,09-25,5.0,5.0,6.0,6.0,07-12,09-25,6.062869944579459
+880,NUACF,Natura Cosmeticos SA,$8.27 ,True,,No data fetched for symbol NUACF using YahooDailyReader,,,,,,,,,
+881,NTCO,Natura &Co Holding SA,18.229999542236328,True,2020.0,,,,,,,,,,
+882,NTRU,Natur International Corp,0.008200000040233135,True,2012.0,,,,,,,,,,
+883,NTTPF,NattoPharma ASA,1.0299999713897705,True,2019.0,,,,,,,,,,
+884,NATOF,Natoco Co Ltd,$7.55 ,True,,No data fetched for symbol NATOF using YahooDailyReader,,,,,,,,,
+885,NTXFY,Natixis SA,29.93000030517578,True,2015.0,,,,,,,,,,
+886,NTXFF,Natixis SA,2.390000104904175,False,2009.0,,01-31,04-15,8.0,8.0,3.0,3.0,01-31,04-15,4.7525427082280824
+887,NAGP,Native American Energy Group Inc,$0.18 ,True,,'Date',,,,,,,,,
+888,NSM,Nationstar Mortgage Holdings Inc,18.270000457763672,True,2012.0,,,,,,,,,,
+889,NMNX,NationsMark Nexgen,$22.00 ,True,,No data fetched for symbol NMNX using YahooDailyReader,,,,,,,,,
+890,NWLI,National Western Life Group Inc,188.83999633789062,False,2009.0,,09-25,12-09,4.0,4.0,7.0,7.0,09-25,12-09,5.4863292976783145
+891,EYE,National Vision Holdings Inc,42.02000045776367,True,2017.0,,,,,,,,,,
+892,NTXCZ,National Tax Credit Partners LP,$10.00 ,True,,No data fetched for symbol NTXCZ using YahooDailyReader,,,,,,,,,
+893,NSA,National Storage Affiliates Trust,35.56999969482422,True,2015.0,,,,,,,,,,
+894,NSYC,National Stock Yards Co,326.0,True,2012.0,,,,,,,,,,
+895,NSLM,National Silver Lead Mining Co,$0.05 ,True,,No data fetched for symbol NSLM using YahooDailyReader,,,,,,,,,
+896,NSEC,National Security Group Inc,11.039999961853027,False,2009.0,,11-05,01-19,6.0,6.0,5.0,5.0,11-05,01-19,9.312575333039877
+897,NNN,National Retail Properties Inc,39.90999984741211,False,2009.0,,06-11,08-25,7.0,7.0,4.0,4.0,06-11,08-25,4.8730945392885365
+898,NRCIB,National Research Corp,53.01029968261719,True,2012.0,,,,,,,,,,
+899,NRC,National Research Corp,55.33000183105469,True,2013.0,,,,,,,,,,
+900,NPK,National Presto Industries Inc,87.05000305175781,False,2009.0,,12-13,02-26,6.0,3.0,5.0,8.0,12-13,02-26,6.195531057172217
+901,NPBC,National Penn Bancshares Inc,$10.72 ,True,,'Date',,,,,,,,,
+902,NOV,National Oilwell Varco Inc,11.9399995803833,False,2009.0,,06-26,09-09,5.0,4.0,6.0,7.0,06-26,09-09,4.181488911474167
+903,NMRPF,National Milk Records PLC,1.4169100522994995,True,2020.0,,,,,,,,,,
+904,NLMP,National Lampoon Inc,0.019999999552965164,True,2012.0,,,,,,,,,,
+905,NIVM,National Investment Managers Inc,$0.02 ,True,,'Date',,,,,,,,,
+906,NATL,National Interstate Corp,$32.51 ,True,,'Date',,,,,,,,,
+907,NATI,National Instruments Corp,35.09000015258789,False,2009.0,,10-21,01-04,9.0,8.0,2.0,3.0,10-21,01-04,4.93384663228025
+908,NHLD,National Holdings Corp,2.700000047683716,False,2009.0,,11-08,01-22,5.0,5.0,6.0,6.0,11-08,01-22,9.736232012808156
+909,NHC,National Healthcare Corp,66.52999877929688,False,2009.0,,09-29,12-13,4.0,4.0,7.0,7.0,09-29,12-13,9.491237233408956
+910,NHI,National Health Investors Inc,63.97999954223633,False,2009.0,,11-12,01-26,7.0,7.0,4.0,4.0,11-13,01-27,5.102802311430294
+911,NGGTF,National Grid PLC,12.3100004196167,False,2010.0,,04-08,06-22,5.0,5.0,5.0,5.0,03-19,06-02,6.156785733206232
+912,NGG,National Grid PLC,61.81999969482422,False,2009.0,,03-21,06-04,6.0,6.0,5.0,5.0,03-15,05-29,4.478890536488009
+913,NGRC,National Graphite Corp,0.03400000184774399,True,2012.0,,,,,,,,,,
+914,NGHC,National General Holdings Corp,34.11000061035156,True,2014.0,,,,,,,,,,
+915,NFG,National Fuel Gas Co,41.880001068115234,False,2009.0,,02-16,05-01,7.0,7.0,4.0,4.0,03-01,05-15,2.1112585288949943
+916,NXPGF,National Express Group PLC,1.8600000143051147,False,2009.0,,04-22,07-06,6.0,6.0,5.0,5.0,01-02,03-17,4.448295960579522
+917,NESR,National Energy Services Reunited Corp,8.6899995803833,True,2017.0,,,,,,,,,,
+918,NELHF,National Electronics Holdings Ltd,$0.13 ,True,,No data fetched for symbol NELHF using YahooDailyReader,,,,,,,,,
+919,NCOM,National Commerce Corp,39.209999084472656,True,2015.0,,,,,,,,,,
+920,NCMI,National CineMedia Inc,3.4200000762939453,False,2009.0,,11-07,01-21,5.0,5.0,6.0,6.0,11-07,01-21,3.7060526212977103
+921,NACB,National Capital Bank DC,155.0,True,2012.0,,,,,,,,,,
+922,FIZZ,National Beverage Corp,93.6500015258789,False,2009.0,,04-23,07-07,3.0,3.0,8.0,8.0,04-23,07-07,7.504317248496051
+923,NKSH,National Bankshares Inc,31.729999542236328,False,2009.0,,10-18,01-01,3.0,3.0,8.0,8.0,09-09,11-23,8.94167511345856
+924,NBGCY,National Bank of Greece SA,6.25,True,2019.0,,,,,,,,,,
+925,NBGIF,National Bank of Greece SA,1.6799999475479126,True,2013.0,,,,,,,,,,
+926,NBGGY,National Bank of Greece SA,0.2762500047683716,True,2012.0,,,,,,,,,,
+927,NTIOF,National Bank of Canada,53.790000915527344,False,2010.0,,05-07,07-21,5.0,5.0,5.0,5.0,06-27,09-10,5.852559002032247
+928,NBHC,National Bank Holdings Corp,33.31999969482422,True,2012.0,,,,,,,,,,
+929,NABA,National Bancshares Inc,$7.00 ,True,,No data fetched for symbol NABA using YahooDailyReader,,,,,,,,,
+930,NAUBF,National Australia Bank Ltd,15.420000076293945,False,2009.0,,08-22,11-05,8.0,8.0,3.0,3.0,08-22,11-05,5.9415643093487525
+931,NABZY,National Australia Bank Ltd,8.0600004196167,False,2009.0,,06-27,09-10,8.0,7.0,3.0,4.0,02-10,04-25,5.152628737567116
+932,REPO,National Asset Recovery Corp,0.017999999225139618,True,2012.0,,,,,,,,,,
+933,NAEX,National Art Exchange Inc,$500.00 ,True,,No data fetched for symbol NAEX using YahooDailyReader,,,,,,,,,
+934,NAUH,National American University Holdings Inc,0.14000000059604645,False,2009.0,,12-17,03-02,5.0,5.0,6.0,6.0,12-17,03-02,-13.790465309119284
+935,NATH,Nathan's Famous Inc,64.5,False,2009.0,,09-01,11-15,3.0,3.0,8.0,8.0,09-01,11-15,9.214102094578212
+936,NTRA,Natera Inc,80.83000183105469,True,2015.0,,,,,,,,,,
+937,NTCXF,Natcore Technology Inc,0.007000000216066837,True,2013.0,,,,,,,,,,
+938,NSVGF,Nass Valley Gateway Ltd,0.20194000005722046,True,2019.0,,,,,,,,,,
+939,NPSNY,Naspers Ltd,39.790000915527344,False,2009.0,,05-09,07-23,7.0,7.0,4.0,4.0,05-09,07-23,9.425362444300207
+940,NAPRF,Naspers Ltd,199.8300018310547,False,2009.0,,03-01,05-15,9.0,9.0,2.0,2.0,03-01,05-15,4.36997956169163
+941,NDAQ,Nasdaq Inc,122.7300033569336,False,2009.0,,10-02,12-16,9.0,9.0,2.0,2.0,10-02,12-16,5.9650970590760295
+942,^IXIC,NASDAQ Composite,11801.599609375,False,2009.0,,05-23,08-06,9.0,9.0,2.0,2.0,05-23,08-06,5.368545812799359
+943,NBIO,Nascent Biotech Inc,0.05700000002980232,False,2009.0,,03-26,06-09,4.0,4.0,6.0,6.0,03-26,06-09,9.113083096795355
+944,NASB,NASB Financial Inc,65.73999786376953,False,2009.0,,06-21,09-04,5.0,5.0,6.0,6.0,06-21,09-04,3.901708623404832
+945,NRSKF,Narasaki Sangyo Co Ltd,15.800000190734863,True,2018.0,,,,,,,,,,
+946,NPRVF,Napier Ventures Inc,0.019999999552965164,True,2016.0,,,,,,,,,,
+947,CVTPF,NAPEC Inc,$1.55 ,True,,No data fetched for symbol CVTPF using YahooDailyReader,,,,,,,,,
+948,NSSC,NAPCO Security Technologies Inc,28.510000228881836,False,2009.0,,01-21,04-05,10.0,10.0,1.0,1.0,01-21,04-05,0.833999300868482
+949,NK,NantKwest Inc,8.260000228881836,True,2015.0,,,,,,,,,,
+950,NH,NantHealth Inc,2.180000066757202,True,2016.0,,,,,,,,,,
+951,NNSNF,Nansin Co Ltd,$3.20 ,True,,No data fetched for symbol NNSNF using YahooDailyReader,,,,,,,,,
+952,NNXPF,NanoXplore Inc,2.759999990463257,True,2017.0,,,,,,,,,,
+953,NNVC,Nanoviricides Inc,3.5899999141693115,False,2009.0,,12-24,03-09,8.0,8.0,3.0,3.0,12-24,03-09,16.57477168803079
+954,NAOV,NanoVibronix Inc,0.5699999928474426,True,2015.0,,,,,,,,,,
+955,NANN,Nanovation Microtech Inc,0.07000000029802322,True,2020.0,,,,,,,,,,
+956,NTSFF,Nanotech Security Corp,0.3799999952316284,True,2012.0,,,,,,,,,,
+957,NTEK,NanoTech Entertainment Inc,0.014000000432133675,True,2016.0,,,,,,,,,,
+958,NSTG,NanoString Technologies Inc,47.349998474121094,True,2013.0,,,,,,,,,,
+959,NSPH,Nanosphere Inc,$1.69 ,True,,'Date',,,,,,,,,
+960,NSHSF,Nanosphere Health Sciences Inc,0.009999999776482582,False,2009.0,,11-17,01-31,3.0,3.0,6.0,6.0,11-17,01-31,1.8807524789125063
+961,NNCSF,Nanosonics Ltd,4.599999904632568,True,2012.0,,,,,,,,,,
+962,NANX,Nanophase Technologies Corp,0.7200000286102295,False,2009.0,,03-27,06-10,4.0,4.0,7.0,7.0,03-27,06-10,13.233718368867994
+963,NNLX,NanoLogix Inc,0.07000000029802322,False,2009.0,,02-07,04-22,4.0,4.0,7.0,7.0,02-07,04-22,11.873759227129057
+964,NGTTF,Nanogate SE,$35.00 ,True,,No data fetched for symbol NGTTF using YahooDailyReader,,,,,,,,,
+965,OPVS,NanoFlex Power Corp,0.019999999552965164,True,2015.0,,,,,,,,,,
+966,NNOCF,Nanoco Group PLC,0.12999999523162842,True,2013.0,,,,,,,,,,
+967,NNBXF,Nanobiotix SA,7.320000171661377,True,2020.0,,,,,,,,,,
+968,NNOX,Nano X Imaging Ltd,36.81999969482422,True,2020.0,,,,,,,,,,
+969,NNOMF,Nano One Materials Corp,2.049999952316284,False,2009.0,,11-12,01-26,4.0,4.0,7.0,7.0,11-12,01-26,8.948913178729882
+970,NMGX,Nano Magic Inc,0.6499999761581421,False,2009.0,,12-22,03-07,7.0,7.0,4.0,4.0,12-22,03-07,25.07508194072973
+971,NNMNF,Nano Dimension Ltd,$0.51 ,True,,No data fetched for symbol NNMNF using YahooDailyReader,,,,,,,,,
+972,NNDM,Nano Dimension Ltd,4.769999980926514,True,2016.0,,,,,,,,,,
+973,NNKWF,Nankai Plywood Co Ltd,$3.43 ,True,,No data fetched for symbol NNKWF using YahooDailyReader,,,,,,,,,
+974,NJGPF,Nanjing Panda Electronics Co Ltd,0.25,True,2019.0,,,,,,,,,,
+975,NSCIF,Nanalysis Scientific Corp,0.3312999904155731,True,2020.0,,,,,,,,,,
+976,NMRSF,Namura Shipbuilding Co Ltd,$2.55 ,True,,No data fetched for symbol NMRSF using YahooDailyReader,,,,,,,,,
+977,NMYSF,NamSys Inc,0.6432999968528748,True,2017.0,,,,,,,,,,
+978,NPKLY,Nampak Ltd,0.03999999910593033,False,2009.0,,12-06,02-19,3.0,3.0,8.0,8.0,08-22,11-05,2.9245707921121564
+979,NPKAF,Nampak Ltd,0.05999999865889549,True,2013.0,,,,,,,,,,
+980,NMCTF,Namoi Cotton Ltd,$0.34 ,True,,No data fetched for symbol NMCTF using YahooDailyReader,,,,,,,,,
+981,NMREF,Namibia Critical Metals Inc,0.15000000596046448,True,2012.0,,,,,,,,,,
+982,NINK,NAMI Corp.,0.3499999940395355,True,2017.0,,,,,,,,,,
+983,URLOF,NameSilo Technologies Corp,0.15199999511241913,False,2009.0,,12-07,02-20,5.0,5.0,4.0,4.0,12-07,02-20,13.31115244125936
+984,NXTTF,Namaste Technologies Inc,0.17800000309944153,True,2014.0,,,,,,,,,,
+985,NTP,Nam Tai Property Inc,5.550000190734863,False,2009.0,,06-26,09-09,6.0,6.0,5.0,5.0,06-26,09-09,15.205531251447384
+986,NCMHF,Nam Cheong Ltd,$0.09 ,True,,No data fetched for symbol NCMHF using YahooDailyReader,,,,,,,,,
+987,SHYMF,Nala Digital Commerce Ltd,1.3350000381469727,True,2014.0,,,,,,,,,,
+988,MJWNF,Naked Wines PLC,6.0,True,2019.0,,,,,,,,,,
+989,NAKD,Naked Brand Group Ltd,0.12950000166893005,True,2012.0,,,,,,,,,,
+990,NKNIF,Nakanishi Inc,31.649999618530273,True,2016.0,,,,,,,,,,
+991,NHLPF,NAHL Group PLC,0.6899999976158142,True,2015.0,,,,,,,,,,
+992,NARRF,Nagoya Railroad Co Ltd,29.0,True,2020.0,,,,,,,,,,
+993,NGSCF,Nagase & Co Ltd,$14.65 ,True,,No data fetched for symbol NGSCF using YahooDailyReader,,,,,,,,,
+994,NGCRY,NagaCorp Ltd,75.7750015258789,True,2012.0,,,,,,,,,,
+995,NGCRF,NagaCorp Ltd,1.2899999618530273,False,2009.0,,07-08,09-21,6.0,6.0,5.0,5.0,09-08,11-22,8.548746252721195
+996,NC,NACCO Industries Inc,23.600000381469727,False,2009.0,,08-30,11-13,5.0,5.0,6.0,6.0,08-30,11-13,13.407435329420375
+997,NCTKY,Nabtesco Corp,15.899999618530273,True,2019.0,,,,,,,,,,
+998,NCTKF,Nabtesco Corp,35.29999923706055,True,2012.0,,,,,,,,,,
+999,NBRV,Nabriva Therapeutics PLC,0.4480000138282776,True,2015.0,,,,,,,,,,
+1000,NBR,Nabors Industries Ltd,42.650001525878906,False,2009.0,,10-25,01-08,8.0,8.0,3.0,3.0,10-25,01-08,-1.8082750692844332
+1001,NABIF,Nabis Holdings Inc,0.007499999832361937,True,2019.0,,,,,,,,,,
+1002,NABXF,Nabaltec AG,29.600000381469727,True,2019.0,,,,,,,,,,
+1003,NTCHF,N1 Technologies Inc,0.05000000074505806,True,2013.0,,,,,,,,,,

@@ -1,0 +1,693 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,adj_downs,close_ups,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,DLNDY,D&L Industries Inc,3.400000095,TRUE,2015,,,,,,,,,,
+1,DALQF,D&L Industries Inc,$0.17 ,TRUE,,No data fetched for symbol DALQF using YahooDailyReader,,,,,,,,,
+2,DMCOF,d?Amico International Shipping SA,$0.53 ,TRUE,,No data fetched for symbol DMCOF using YahooDailyReader,,,,,,,,,
+3,DNBD,D'Angelo Brands Inc,0.012,TRUE,2012,,,,,,,,,,
+4,DBOXF,D-Box Technologies Inc,0.079999998,FALSE,2010,,29-Mar,12-Jun,3,7,3,7,29-Mar,12-Jun,5.433268985
+5,DHI,D.R. Horton Inc,73.26999664,FALSE,2009,,9-Nov,23-Jan,7,4,7,4,30-Oct,13-Jan,8.302376255
+6,DFORF,D4t4 Solutions PLC,2.633110046,TRUE,2019,,,,,,,,,,
+7,DGIF,D7 Enterprises Inc,0.129999995,TRUE,2012,,,,,,,,,,
+8,DEH,D8 Holdings Corp,9.68999958,TRUE,2020,,,,,,,,,,
+9,DAAT,DAC Technologies Group International Inc,0.349999994,FALSE,2009,,3-Nov,17-Jan,3,8,3,8,3-Nov,17-Jan,3.682627185
+10,DCCNF,Dacian Gold Ltd,0.25,TRUE,2018,,,,,,,,,,
+11,DBIN,Dacotah Banks Inc,28,TRUE,2012,,,,,,,,,,
+12,DADA,Dada Nexus Ltd,34.31999969,TRUE,2020,,,,,,,,,,
+13,DGDH,Dadongnan Holding Co,$0.01 ,TRUE,,No data fetched for symbol DGDH using YahooDailyReader,,,,,,,,,
+14,DAEG,Daegis Inc,$0.80 ,TRUE,,'Date',,,,,,,,,
+15,DATWY,Daetwyler Holding AG,$77.20 ,TRUE,,No data fetched for symbol DATWY using YahooDailyReader,,,,,,,,,
+16,DAHCF,Dah Chong Hong Holdings Ltd,$0.47 ,TRUE,,No data fetched for symbol DAHCF using YahooDailyReader,,,,,,,,,
+17,DAHCY,Dah Chong Hong Holdings Ltd,$5.17 ,TRUE,,'Date',,,,,,,,,
+18,DHSBF,Dah Sing Banking Group Ltd,$1.95 ,TRUE,,No data fetched for symbol DHSBF using YahooDailyReader,,,,,,,,,
+19,DAHSF,Dah Sing Financial Holdings Ltd,3.700000048,TRUE,2012,,,,,,,,,,
+20,DSFGY,Dah Sing Financial Holdings Ltd,8.06499958,TRUE,2013,,,,,,,,,,
+21,DHUA,Dahua Inc,$0.05 ,TRUE,,'Date',,,,,,,,,
+22,DNPCF,Dai Nippon Printing Co Ltd,20.18000031,FALSE,2009,,24-Feb,9-May,7,4,6,5,26-May,9-Aug,5.00772536
+23,DNPLY,Dai Nippon Printing Co Ltd,9.430000305,FALSE,2009,,15-Mar,29-May,6,5,6,5,16-Nov,30-Jan,3.959827754
+24,DCNSF,Dai-ichi Life Holdings Inc,17.20000076,TRUE,2014,,,,,,,,,,
+25,DLICY,Dai-ichi Life Holdings Inc,13.02000046,TRUE,2018,,,,,,,,,,
+26,DIBUF,Daibiru Corp,8.699999809,TRUE,2012,,,,,,,,,,
+27,DIBUY,Daibiru Corp,$14.20 ,TRUE,,No data fetched for symbol DIBUY using YahooDailyReader,,,,,,,,,
+28,DACHF,Daicel Corp,7.599999905,TRUE,2012,,,,,,,,,,
+29,DADSF,Daido Steel Co Ltd,$6.87 ,TRUE,,No data fetched for symbol DADSF using YahooDailyReader,,,,,,,,,
+30,DAIUF,Daifuku Co Ltd,108,TRUE,2014,,,,,,,,,,
+31,DFKCY,Daifuku Co Ltd,26.98999977,TRUE,2019,,,,,,,,,,
+32,DHTMF,Daihatsu Motor Co Ltd,$14.85 ,TRUE,,'Date',,,,,,,,,
+33,DHTMY,Daihatsu Motor Co Ltd,$28.60 ,TRUE,,'Date',,,,,,,,,
+34,DSKYF,Daiichi Sankyo Co Ltd,32.79000092,FALSE,2009,,26-Aug,9-Nov,6,5,6,5,14-Jun,28-Aug,8.784136067
+35,DSNKY,Daiichi Sankyo Co Ltd,33.22999954,FALSE,2009,,4-Jun,18-Aug,6,5,6,5,5-Jun,19-Aug,8.273861276
+36,DKNMF,Daiken Medical Co Ltd,6.800000191,TRUE,2019,,,,,,,,,,
+37,DKILF,Daikin Industries Ltd,222.9900055,TRUE,2012,,,,,,,,,,
+38,DKILY,Daikin Industries Ltd,22.25,FALSE,2010,,21-Apr,5-Jul,4,6,4,6,21-Apr,5-Jul,8.027148126
+39,DKYOF,Daikyo Inc,$1.70 ,TRUE,,'Date',,,,,,,,,
+40,DJCO,Daily Journal Corp,270.3999939,FALSE,2009,,7-Apr,21-Jun,5,6,5,6,7-Apr,21-Jun,9.520555146
+41,DMTGF,Daily Mail and General Trust PLC,8.869999886,TRUE,2013,,,,,,,,,,
+42,DMTGY,Daily Mail and General Trust PLC,$10.38 ,TRUE,,No data fetched for symbol DMTGY using YahooDailyReader,,,,,,,,,
+43,DDAIF,Daimler AG,62.22999954,FALSE,2009,,26-Sep,10-Dec,5,6,5,6,26-Sep,10-Dec,5.317727809
+44,DDAIY,Daimler AG,$73.83 ,TRUE,,'Date',,,,,,,,,
+45,DMLRY,Daimler AG,15.5,FALSE,2010,,26-Sep,10-Dec,5,5,5,5,26-Sep,10-Dec,5.322375608
+46,DRCSY,Dairy Crest Group PLC,$0.50 ,TRUE,,No data fetched for symbol DRCSY using YahooDailyReader,,,,,,,,,
+47,DFIHY,Dairy Farm International Holdings Ltd,24,FALSE,2009,,5-Mar,19-May,7,4,7,4,6-Mar,20-May,4.043679265
+48,DFILF,Dairy Farm International Holdings Ltd,4.869999886,FALSE,2009,,15-Mar,29-May,6,5,6,5,24-Mar,7-Jun,6.979697524
+49,DLYT,Dais Corp,0.126000002,FALSE,2009,,4-Feb,19-Apr,5,6,5,6,4-Feb,19-Apr,1.699841687
+50,DSKIF,Daiseki Co Ltd,26.60000038,TRUE,2014,,,,,,,,,,
+51,DIFTY,Daito Trust Construction Co Ltd,24.17000008,FALSE,2010,,17-Mar,31-May,4,6,4,6,28-Feb,13-May,3.264897863
+52,DITTF,Daito Trust Construction Co Ltd,99.52999878,TRUE,2012,,,,,,,,,,
+53,DWAHF,Daiwa House Industry Co Ltd,27,TRUE,2012,,,,,,,,,,
+54,DWAHY,Daiwa House Industry Co Ltd,29.79000092,FALSE,2009,,29-Aug,12-Nov,6,5,6,5,30-Aug,13-Nov,5.194374316
+55,DAWUF,Daiwa House REIT Investment Corp,"$2,100.00 ",TRUE,,No data fetched for symbol DAWUF using YahooDailyReader,,,,,,,,,
+56,DAWIF,Daiwa Industries Ltd,8.800000191,TRUE,2012,,,,,,,,,,
+57,DSECF,Daiwa Securities Group Inc,4.440000057,TRUE,2011,,,,,,,,,,
+58,DSEEY,Daiwa Securities Group Inc,4.25,FALSE,2009,,6-Oct,20-Dec,8,3,8,3,6-Oct,20-Dec,5.947649743
+59,JRHIF,Daiwa Securities Living Investment Corp,932.5,TRUE,2013,,,,,,,,,,
+60,DJIFF,Dajin Lithium Corp,0.039999999,FALSE,2010,,19-Jul,2-Oct,3,7,3,7,19-Jul,2-Oct,20.96396066
+61,DTRC,Dakota Territory Resource Corp,0.449999988,FALSE,2009,,28-Dec,13-Mar,8,3,8,3,28-Dec,13-Mar,23.27143028
+62,DAKT,Daktronics Inc,4.230000019,FALSE,2009,,1-Oct,15-Dec,1,10,1,10,27-Sep,11-Dec,5.775042096
+63,DLTTF,Dalata Hotel Group PLC,3.262200117,TRUE,2017,,,,,,,,,,
+64,DLXXF,Dalet SA,$13.18 ,TRUE,,No data fetched for symbol DLXXF using YahooDailyReader,,,,,,,,,
+65,DLPTF,Dalian Port (PDA) Co Ltd,0.090000004,FALSE,2009,,10-Jun,24-Aug,1,10,2,9,22-Jun,5-Sep,-3.04142426
+66,DWNDF,Dalian Wanda Commercial Properties Co Ltd,$6.84 ,TRUE,,No data fetched for symbol DWNDF using YahooDailyReader,,,,,,,,,
+67,DFCO,Dalrada Financial Corp,0.114,FALSE,2009,,18-Feb,3-May,6,5,6,5,18-Feb,3-May,22.25077739
+68,DRLDF,Dalradian Resources Inc,$1.11 ,TRUE,,No data fetched for symbol DRLDF using YahooDailyReader,,,,,,,,,
+69,SLMZF,Damara Gold Corp,0.051819999,TRUE,2013,,,,,,,,,,
+70,DMSQ,Damariscotta Bankshares Inc,25.85000038,TRUE,2015,,,,,,,,,,
+71,DPBSF,Dampskibsselskabet NORDEN A/S,12.80000019,TRUE,2012,,,,,,,,,,
+72,DAHLF,Damstra Holdings Ltd,0.904999971,TRUE,2020,,,,,,,,,,
+73,DANHF,Dan Hotels Ltd,5.274400234,TRUE,2019,,,,,,,,,,
+74,DAN,Dana Inc,16.45000076,FALSE,2009,,30-Oct,13-Jan,7,4,7,4,30-Oct,13-Jan,10.62619536
+75,DHR,Danaher Corp,234.6799927,FALSE,2009,,18-Oct,1-Jan,7,4,7,4,18-Oct,1-Jan,6.387021274
+76,DNKLY,Danakali Ltd,0.290600002,TRUE,2015,,,,,,,,,,
+77,SBMSF,Danakali Ltd,0.272000015,TRUE,2012,,,,,,,,,,
+78,DAC,Danaos Corp,11.31999969,FALSE,2009,,26-Oct,9-Jan,7,4,7,4,26-Oct,9-Jan,4.842687339
+79,PORS,Dane Exploration Inc,$0.13 ,TRUE,,'Date',,,,,,,,,
+80,DNIYY,Danieli & C. Officine Meccaniche SpA,9.840000153,FALSE,2010,,27-Nov,10-Feb,7,3,7,3,27-Nov,10-Feb,9.122000409
+81,DNIEF,Danieli & C. Officine Meccaniche SpA,8.388899803,TRUE,2020,,,,,,,,,,
+82,DNIEF,Danieli & C. Officine Meccaniche SpA,8.388899803,TRUE,2020,,,,,,,,,,
+83,DCAC,Daniels Corporate Advisory Co Inc,0.00575,TRUE,2014,,,,,,,,,,
+84,DANOY,Danone SA,12.93999958,FALSE,2009,,17-Feb,2-May,7,4,7,4,17-Feb,2-May,4.477455736
+85,GPDNF,Danone SA,63.63999939,FALSE,2010,,14-Feb,29-Apr,6,4,6,4,14-Feb,29-Apr,6.16795082
+86,DNKEY,Danske Bank A/S,7.940000057,FALSE,2010,,23-Nov,6-Feb,6,4,6,4,23-Nov,6-Feb,6.937425447
+87,DNSKF,Danske Bank A/S,15.5,TRUE,2012,,,,,,,,,,
+88,DPNEF,Daphne International Holdings Ltd,0.02,TRUE,2012,,,,,,,,,,
+89,DPNEY,Daphne International Holdings Ltd,0.560000002,TRUE,2011,,,,,,,,,,
+90,DQ,Daqo New Energy Corp,217.3800049,FALSE,2010,,13-Dec,26-Feb,8,2,8,2,13-Dec,26-Feb,23.62036586
+91,DARA,DARA Biosciences Inc,0.469999999,TRUE,2012,,,,,,,,,,
+92,DRI,Darden Restaurants Inc,107.5899963,FALSE,2009,,28-Oct,11-Jan,8,3,8,3,27-Oct,10-Jan,4.460534651
+93,DARE,Dare Bioscience Inc,1.080000043,TRUE,2014,,,,,,,,,,
+94,DRWB,Darien Rowayton Bank,$7.00 ,TRUE,,No data fetched for symbol DRWB using YahooDailyReader,,,,,,,,,
+95,DRIO,DarioHealth Corp,13.10000038,TRUE,2016,,,,,,,,,,
+96,DAR,Darling Ingredients Inc,47.40000153,FALSE,2009,,11-Oct,25-Dec,7,4,7,4,11-Oct,25-Dec,7.218135025
+97,DRTF,Dart Financial Corp,$6.25 ,TRUE,,No data fetched for symbol DRTF using YahooDailyReader,,,,,,,,,
+98,KESAF,Darty PLC,$2.17 ,TRUE,,'Date',,,,,,,,,
+99,DSKE,Daseke Inc,6.349999905,TRUE,2015,,,,,,,,,,
+100,DUAVF,Dassault Aviation SA,900,TRUE,2012,,,,,,,,,,
+101,DASTF,Dassault Systemes SE,182.6499939,TRUE,2012,,,,,,,,,,
+102,DASTY,Dassault Systemes SE,180.7400055,FALSE,2009,,24-Mar,7-Jun,7,4,7,4,24-Mar,7-Jun,7.988276156
+103,DGPIF,DATA Communications Management Corp,0.200000003,FALSE,2010,,2-Jan,17-Mar,10,0,10,0,2-Jan,17-Mar,26.10024611
+104,DDBXF,Data Deposit Box Inc,$0.01 ,TRUE,,No data fetched for symbol DDBXF using YahooDailyReader,,,,,,,,,
+105,DAIO,Data I/O Corp,3.670000076,FALSE,2009,,16-May,30-Jul,6,5,6,5,16-May,30-Jul,4.973695814
+106,DTST,Data Storage Corp,0.150000006,TRUE,2012,,,,,,,,,,
+107,DSTO,Data Systems,$2.50 ,TRUE,,'Date',,,,,,,,,
+108,DATX,Data Translation Inc,$0.34 ,TRUE,,'Date',,,,,,,,,
+109,ATDS,Data443 Risk Mitigation Inc,0.0069,FALSE,2009,,27-Nov,10-Feb,4,7,4,7,27-Nov,10-Feb,15.32336575
+110,TTMZF,Datable Technology Corp,0.0285,TRUE,2015,,,,,,,,,,
+111,DDOG,Datadog Inc,85.81999969,TRUE,2019,,,,,,,,,,
+112,DLEXF,Datalex PLC,$2.63 ,TRUE,,No data fetched for symbol DLEXF using YahooDailyReader,,,,,,,,,
+113,DLEXY,Datalex PLC,$1.50 ,TRUE,,No data fetched for symbol DLEXY using YahooDailyReader,,,,,,,,,
+114,DTLK,Datalink Corp,$11.24 ,TRUE,,'Date',,,,,,,,,
+115,DLGCF,Datalogic SPA,12.25,TRUE,2015,,,,,,,,,,
+116,DTMXF,DataMetrex AI Ltd,0.069600001,TRUE,2017,,,,,,,,,,
+117,DIPGF,Datang International Power Generation Co Ltd,0.119999997,FALSE,2009,,1-Oct,15-Dec,4,7,4,7,30-Sep,14-Dec,2.913733185
+118,DIPGY,Datang International Power Generation Co Ltd,2.480000019,FALSE,2010,,10-Feb,25-Apr,6,4,6,4,10-Feb,25-Apr,3.229892289
+119,DTSS,Datasea Inc,1.879999995,TRUE,2018,,,,,,,,,,
+120,DTTLF,Datatec Ltd,2.359999895,TRUE,2013,,,,,,,,,,
+121,DTTLY,Datatec Ltd,$4.20 ,TRUE,,No data fetched for symbol DTTLY using YahooDailyReader,,,,,,,,,
+122,DTRK,DATATRAK International Inc,5.860000134,FALSE,2009,,6-Apr,20-Jun,7,4,7,4,6-Apr,20-Jun,13.77701399
+123,DWCH,Datawatch Corp,13.10000038,TRUE,2012,,,,,,,,,,
+124,MSP,Datto Holding Corp,32.72000122,TRUE,2020,,,,,,,,,,
+125,PLAY,Dave & Buster's Entertainment Inc,21.85000038,TRUE,2014,,,,,,,,,,
+126,DVDCF,Davide Campari-Milano NV,11.40999985,TRUE,2011,,,,,,,,,,
+127,DVDCY,Davide Campari-Milano NV,9.850000381,FALSE,2010,,19-May,2-Aug,6,4,6,4,19-May,2-Aug,11.20683566
+128,DVCMY,Davide Campari-Milano NV,11.22999954,TRUE,2020,,,,,,,,,,
+129,DVOO,Davidson Optronics Inc,$0.85 ,TRUE,,'Date',,,,,,,,,
+130,DTEA,DAVIDsTEA Inc,1.169999957,TRUE,2015,,,,,,,,,,
+131,DVFL,Davis Trust Financial Corp.,$22.19 ,TRUE,,No data fetched for symbol DVFL using YahooDailyReader,,,,,,,,,
+132,DVA,DaVita Inc,110.5500031,FALSE,2009,,24-Dec,9-Mar,9,2,9,2,24-Dec,9-Mar,5.842176964
+133,DWSN,Dawson Geophysical Co,1.779999971,FALSE,2009,,14-Nov,28-Jan,6,5,6,5,14-Nov,28-Jan,1.239598829
+134,DWSGF,Dawson Gold Corp,$0.04 ,TRUE,,No data fetched for symbol DWSGF using YahooDailyReader,,,,,,,,,
+135,^GDAXI,DAX 30,13076.71973,FALSE,2009,,25-Sep,9-Dec,6,5,6,5,25-Sep,9-Dec,4.769678182
+136,DXR,Daxor Corp,14,FALSE,2009,,26-Jun,9-Sep,6,5,6,5,20-Dec,5-Mar,7.587749938
+137,DBRM,Daybreak Oil & Gas Inc,0.0093,TRUE,2012,,,,,,,,,,
+138,DMRR,Dayton & Michigan Railroad Co,43,TRUE,2012,,,,,,,,,,
+139,DBMG,DBM Global Inc,60.25,FALSE,2009,,20-Sep,4-Dec,6,5,6,5,20-Sep,4-Dec,8.56380001
+140,DBSDF,DBS Group Holdings Ltd,17.65999985,FALSE,2009,,14-Mar,28-May,6,5,6,5,22-Feb,7-May,5.086206452
+141,DBSDY,DBS Group Holdings Ltd,71.30000305,FALSE,2009,,24-Sep,8-Dec,6,5,6,5,24-Sep,8-Dec,6.375183916
+142,DBUB,DBUB Group Inc,0.75,FALSE,2009,,30-Dec,15-Mar,7,4,7,4,30-Dec,15-Mar,15.21412438
+143,DBVT,DBV Technologies SA,2.480000019,TRUE,2014,,,,,,,,,,
+144,DBVTF,DBV Technologies SA,4.159999847,TRUE,2014,,,,,,,,,,
+145,DCBB,DCB Bancshares Inc,$25.25 ,TRUE,,No data fetched for symbol DCBB using YahooDailyReader,,,,,,,,,
+146,DCBF,DCB Financial Corp,$18.04 ,TRUE,,'Date',,,,,,,,,
+147,DCCPF,DCC PLC,67,TRUE,2012,,,,,,,,,,
+148,DCCPY,DCC PLC,41.5,TRUE,2015,,,,,,,,,,
+149,DCP,DCP Midstream LP,14.85999966,FALSE,2009,,14-Mar,28-May,6,5,4,7,10-Mar,24-May,10.11454125
+150,DCT,DCT Industrial Trust Inc,39.5,TRUE,2020,,,,,,,,,,
+151,DCWRF,DCW Ltd,$2.10 ,TRUE,,No data fetched for symbol DCWRF using YahooDailyReader,,,,,,,,,
+152,DDLX,DD's Deluxe Rod Holder Inc,1.600000024,TRUE,2018,,,,,,,,,,
+153,DDMX,DD3 Acquisition Corp,$9.10 ,TRUE,,No data fetched for symbol DDMX using YahooDailyReader,,,,,,,,,
+154,DDDGY,DDD Group PLC,$0.01 ,TRUE,,'Date',,,,,,,,,
+155,DGMLF,De Grey Mining Ltd,0.88499999,FALSE,2009,,31-Jan,15-Apr,2,8,2,8,31-Jan,15-Apr,12.92997884
+156,DELRF,De La Rue PLC,2.150000095,FALSE,2009,,6-Apr,20-Jun,4,7,4,7,6-Apr,20-Jun,5.812462839
+157,DLUEY,De La Rue PLC,6.090000153,TRUE,2015,,,,,,,,,,
+158,DEMBF,DE Master Blenders 1753 NV,$16.80 ,TRUE,,No data fetched for symbol DEMBF using YahooDailyReader,,,,,,,,,
+159,DELHF,De'Longhi SPA,32.90000153,TRUE,2015,,,,,,,,,,
+160,MGQG,Deaf-Talk Inc,$0.02 ,TRUE,,No data fetched for symbol MGQG using YahooDailyReader,,,,,,,,,
+161,DFODQ,Dean Foods Co,0.039999999,FALSE,2009,,13-Nov,27-Jan,5,6,5,6,14-Nov,28-Jan,7.048101494
+162,DRCR,Dear Cashmere Holding Co,0.150000006,TRUE,2011,,,,,,,,,,
+163,DEAR,Dearborn Bancorp Inc,0.01,TRUE,2012,,,,,,,,,,
+164,DBHSF,Debenhams PLC,$0.03 ,TRUE,,No data fetched for symbol DBHSF using YahooDailyReader,,,,,,,,,
+165,DBDIF,Debut Diamonds Inc,0.061000001,TRUE,2013,,,,,,,,,,
+166,DECXF,Decade Resources Ltd,0.04992,TRUE,2012,,,,,,,,,,
+167,DCHPF,Dechra Pharmaceuticals PLC,44.90000153,TRUE,2016,,,,,,,,,,
+168,DPHAY,Dechra Pharmaceuticals PLC,$69.50 ,TRUE,,No data fetched for symbol DPHAY using YahooDailyReader,,,,,,,,,
+169,DBCCF,Decibel Cannabis Co Inc,0.058400001,TRUE,2019,,,,,,,,,,
+170,DCPH,Deciphera Pharmaceuticals Inc,65.08999634,TRUE,2017,,,,,,,,,,
+171,DECN,Decision Diagnostics Corp,0.150000006,FALSE,2010,,24-Sep,8-Dec,6,4,6,4,24-Sep,8-Dec,-23.26830918
+172,DPSI,DecisionPoint Systems Inc,2.349999905,TRUE,2012,,,,,,,,,,
+173,DMFG,Decker Manufacturing Corp,46.00999832,FALSE,2010,,12-Apr,26-Jun,8,2,6,4,12-Apr,26-Jun,5.917477566
+174,DECK,Deckers Outdoor Corp,251.1000061,FALSE,2009,,25-Sep,9-Dec,6,5,6,5,25-Sep,9-Dec,11.86914483
+175,DKLRF,Decklar Resources Inc,0.261099994,TRUE,2020,,,,,,,,,,
+176,DPDW,Deep Down Inc,0.400000006,FALSE,2009,,18-Feb,3-May,5,6,5,6,18-Feb,3-May,4.231396778
+177,DGWR,Deep Green Waste & Recycling Inc,0.017200001,FALSE,2009,,24-Oct,7-Jan,7,4,7,4,24-Oct,7-Jan,25.2008674
+178,DSSPF,Deep Sea Supply PLC,$0.12 ,TRUE,,No data fetched for symbol DSSPF using YahooDailyReader,,,,,,,,,
+179,DWOG,Deep Well Oil & Gas Inc,0.02,FALSE,2009,,23-Jul,6-Oct,3,8,3,8,23-Jul,6-Oct,8.182972048
+180,DYLLF,Deep Yellow Ltd,0.279000014,FALSE,2009,,29-Aug,12-Nov,4,7,4,7,29-Aug,12-Nov,25.14818171
+181,JAUGF,Deep-South Resources Inc,0.083999999,FALSE,2010,,3-Jul,16-Sep,4,6,4,6,3-Jul,16-Sep,-37.73227274
+182,MKTDF,DeepMarkit Corp,0.029999999,TRUE,2011,,,,,,,,,,
+183,DEER,Deer Consumer Products Inc,0.0136,FALSE,2009,,20-May,3-Aug,3,8,3,8,20-May,3-Aug,-1.631110424
+184,GODYF,Deer Horn Capital Inc,0.039999999,FALSE,2009,,27-Nov,10-Feb,7,4,7,4,27-Nov,10-Feb,-606.9461196
+185,DVLY,Deer Valley Corp,0.349999994,FALSE,2009,,13-Apr,27-Jun,4,7,4,7,13-Apr,27-Jun,14.32518583
+186,DE,Deere & Co,249.8300018,FALSE,1990,,28-Oct,11-Jan,20,10,20,10,26-Oct,9-Jan,8.226744819
+187,DFHT,Deerfield Healthcare Technology Acquisitions Corp,10.19999981,TRUE,2020,,,,,,,,,,
+188,DFMTF,Defense Metals Corp,0.13775,TRUE,2019,,,,,,,,,,
+189,DTII,Defense Technologies International Corp,0.012,TRUE,2013,,,,,,,,,,
+190,DNCVF,Defiance Silver Corp,0.629999995,TRUE,2012,,,,,,,,,,
+191,DEGA,Dega Technology Inc,$0.03 ,TRUE,,'Date',,,,,,,,,
+192,DEIX,DEI Holdings Inc,$4.51 ,TRUE,,'Date',,,,,,,,,
+193,DNOVF,Deinove SA,4.019999981,TRUE,2019,,,,,,,,,,
+194,DFRG,Del Frisco?s Restaurant Group Inc,$7.98 ,TRUE,,No data fetched for symbol DFRG using YahooDailyReader,,,,,,,,,
+195,DMPLF,Del Monte Pacific Ltd,0.090000004,TRUE,2013,,,,,,,,,,
+196,PDMXY,Del Monte Pacific Ltd,$2.82 ,TRUE,,No data fetched for symbol PDMXY using YahooDailyReader,,,,,,,,,
+197,XXNCD,Del Taco Restaurant Properties I,$732.00 ,TRUE,,No data fetched for symbol XXNCD using YahooDailyReader,,,,,,,,,
+198,XXNCB,Del Taco Restaurant Properties II,$240.00 ,TRUE,,'Date',,,,,,,,,
+199,XXNCC,Del Taco Restaurant Properties III,$260.00 ,TRUE,,'Date',,,,,,,,,
+200,TACO,Del Taco Restaurants Inc,8.350000381,TRUE,2014,,,,,,,,,,
+201,DTOR,Del Toro Silver Corp,$0.06 ,TRUE,,'Date',,,,,,,,,
+202,DLNO,Delanco Bancorp Inc,16.14999962,TRUE,2012,,,,,,,,,,
+203,DBAI,Delaware Bancshares Inc,$16.76 ,TRUE,,'Date',,,,,,,,,
+204,DEX,Delaware Enhanced Global Dividend & Income Fund,9.600000381,FALSE,2009,,28-Feb,13-May,10,1,8,3,19-Feb,4-May,2.013733658
+205,VCF,Delaware Investments Colorado Municipal Income Fun,13.85999966,FALSE,2009,,20-Mar,3-Jun,6,5,6,5,25-Mar,8-Jun,2.586279692
+206,DDF,"Delaware Investments Div & Income Fund, Inc",8.56000042,FALSE,2009,,30-Oct,13-Jan,10,1,6,5,29-Oct,12-Jan,4.397306864
+207,VMM,"Delaware Investments MN Muni Inc Fund II, Inc",12.93999958,FALSE,2009,,24-Dec,9-Mar,10,1,9,2,24-Dec,9-Mar,3.96717232
+208,VFL,Delaware Investments Natl Muni Income,12.60000038,FALSE,2009,,12-Jun,26-Aug,8,3,6,5,17-Jun,31-Aug,1.266348386
+209,DCTH,Delcath Systems Inc,11.75,TRUE,2018,,,,,,,,,,
+210,DCLMF,Delclima SpA,$4.95 ,TRUE,,No data fetched for symbol DCLMF using YahooDailyReader,,,,,,,,,
+211,DKDRF,Delek Drilling LP,1.100000024,TRUE,2013,,,,,,,,,,
+212,DGRLY,Delek Group Ltd,2.00999999,FALSE,2010,,29-Mar,12-Jun,5,5,5,5,26-Sep,10-Dec,3.940484556
+213,DLKGF,Delek Group Ltd,18.25,FALSE,2010,,15-Nov,29-Jan,3,7,3,7,15-Nov,29-Jan,1.1034385
+214,DKL,Delek Logistics Partners LP,26.71999931,TRUE,2012,,,,,,,,,,
+215,DK,Delek US Holdings Inc,13.76000023,FALSE,2009,,11-Feb,26-Apr,7,4,7,4,12-Feb,27-Apr,9.235516402
+216,PEFDF,Delfi Ltd,0.5,TRUE,2012,,,,,,,,,,
+217,DEG,Delhaize Group SA,$28.11 ,TRUE,,'Date',,,,,,,,,
+218,DHLYF,Delhaize Group SA,$110.50 ,TRUE,,'Date',,,,,,,,,
+219,DWNX,Delhi Bank Corp,34.5,FALSE,2009,,21-Aug,4-Nov,8,3,8,3,21-Aug,4-Nov,1.782962153
+220,DLVHF,Delivery Hero SE,119,TRUE,2018,,,,,,,,,,
+221,DLRVF,Delivra Corp,$0.33 ,TRUE,,No data fetched for symbol DLRVF using YahooDailyReader,,,,,,,,,
+222,DELL,Dell Technologies Inc,66.11000061,TRUE,2016,,,,,,,,,,
+223,DVMT,Dell-VMWare Tracking Stock,80,TRUE,2016,,,,,,,,,,
+224,DLMV,Delmarva Bancshares Inc,8.800000191,FALSE,2009,,19-Jul,2-Oct,5,4,5,4,4-Aug,18-Oct,1.84641863
+225,DLHLY,Delong Holdings Ltd,$39.27 ,TRUE,,No data fetched for symbol DLHLY using YahooDailyReader,,,,,,,,,
+226,DPGYF,Delphi Energy Corp,0.254999995,FALSE,2009,,9-Feb,24-Apr,4,7,4,7,9-Feb,24-Apr,10.08862682
+227,DLPH,Delphi Technologies PLC,17.02000046,TRUE,2017,,,,,,,,,,
+228,DPXCF,Delphx Capital Markets Inc,0.080219999,TRUE,2018,,,,,,,,,,
+229,VRNDF,Delta 9 Cannabis Inc,0.43900001,TRUE,2017,,,,,,,,,,
+230,DAL,Delta Air Lines Inc,36.45999908,FALSE,2009,,9-Oct,23-Dec,5,6,5,6,9-Oct,23-Dec,13.43314927
+231,DLA,Delta Apparel Inc,17.94000053,FALSE,2009,,26-Aug,9-Nov,4,7,4,7,26-Aug,9-Nov,6.181323578
+232,DLRWF,Delta Drone SA,0.025,TRUE,2015,,,,,,,,,,
+233,DLEUF,Delta Electronics (Thailand) PCL,1.710000038,TRUE,2016,,,,,,,,,,
+234,DLEGF,Delta Electronics (Thailand) PCL,3.788199902,TRUE,2020,,,,,,,,,,
+235,DELTF,Delta Galil Industries Ltd,18.54999924,TRUE,2013,,,,,,,,,,
+236,DELTY,Delta Galil Industries Ltd,29.99990082,FALSE,2009,,16-Feb,1-May,7,4,5,6,16-Mar,30-May,8.877815103
+237,DLLLF,Delta Lloyd N.V,$5.91 ,TRUE,,No data fetched for symbol DLLLF using YahooDailyReader,,,,,,,,,
+238,DLLLY,Delta Lloyd N.V,$2.90 ,TRUE,,No data fetched for symbol DLLLY using YahooDailyReader,,,,,,,,,
+239,DEBC,Delta National Bancorp,$17.50 ,TRUE,,'Date',,,,,,,,,
+240,DGAS,Delta Natural Gas Co Inc,$30.69 ,TRUE,,'Date',,,,,,,,,
+241,GOLHF,Delta Resources Ltd,0.272899985,FALSE,2009,,12-Jul,25-Sep,6,5,6,5,12-Jul,25-Sep,9.650975741
+242,DTXMF,Deltex Medical Group PLC,0.029999999,FALSE,2009,,18-Jul,1-Oct,0,8,0,8,18-Jul,1-Oct,8.095238013
+243,DEL,Deltic Timber Corp,93.27999878,TRUE,2012,,,,,,,,,,
+244,DTOOF,Delticom AG,$53.55 ,TRUE,,No data fetched for symbol DTOOF using YahooDailyReader,,,,,,,,,
+245,DLX,Deluxe Corp,26.14999962,FALSE,2009,,20-Nov,3-Feb,9,2,9,2,20-Nov,3-Feb,7.973609257
+246,YUMSF,Demae-Can Co Ltd,27.93000031,TRUE,2018,,,,,,,,,,
+247,DWRE,Demandware Inc,$74.97 ,TRUE,,'Date',,,,,,,,,
+248,WILLF,Demant AS,36.09999847,TRUE,2012,,,,,,,,,,
+249,WILYY,Demant AS,17.87999916,TRUE,2011,,,,,,,,,,
+250,MREOF,DEMIRE Deutsche Mittelstand Real Estate AG,5.02820015,TRUE,2014,,,,,,,,,,
+251,DEMO,Democrasoft Holdings Inc,0.02,FALSE,2009,,22-Feb,7-May,6,5,6,5,22-Feb,7-May,13.33664869
+252,DNACF,DeNA Co Ltd,17.70000076,FALSE,2010,,16-Jun,30-Aug,6,4,2,8,17-Feb,2-May,2.812769217
+253,DENI,Denali Bancorporation Inc,9.430000305,TRUE,2018,,,,,,,,,,
+254,DNLI,Denali Therapeutics Inc,65.16999817,TRUE,2017,,,,,,,,,,
+255,DNRCQ,Denbury Inc,0.029999999,FALSE,2009,,22-Jan,6-Apr,7,4,7,4,22-Jan,6-Apr,-21.24814498
+256,DEN,Denbury Inc,17.92000008,FALSE,2009,,11-Jul,24-Sep,1,7,1,7,11-Jul,24-Sep,30.00448593
+257,DNN,Denison Mines Corp,0.349999994,FALSE,2009,,1-Nov,15-Jan,6,5,6,5,1-Nov,15-Jan,9.629900998
+258,DENKF,Denka Co Ltd,4.340000153,TRUE,2012,,,,,,,,,,
+259,DMKBA,Denmark Bancshares Inc,23.75,TRUE,2012,,,,,,,,,,
+260,DMKBB,Denmark Bancshares Inc,23.37010002,TRUE,2019,,,,,,,,,,
+261,DENN,Denny's Corp,10.43000031,FALSE,2009,,4-Nov,18-Jan,8,3,8,3,4-Nov,18-Jan,8.399612485
+262,DNZOF,Denso Corp,49,FALSE,2009,,25-Oct,8-Jan,6,5,4,7,20-May,3-Aug,4.08472804
+263,DNZOY,Denso Corp,24.77000046,FALSE,2009,,14-Oct,28-Dec,3,8,3,8,14-Oct,28-Dec,4.699524917
+264,DPAT,Dental Patient Care Amer,0.029999999,FALSE,2009,,28-Feb,13-May,7,4,7,4,28-Feb,13-May,33.19444463
+265,XRAY,Dentsply Sirona Inc,51.36000061,FALSE,2009,,2-Oct,16-Dec,6,5,6,5,2-Oct,16-Dec,9.351890112
+266,DNTUF,Dentsu Group Inc,31.82999992,TRUE,2013,,,,,,,,,,
+267,DNTUY,Dentsu Group Inc,29.5,TRUE,2016,,,,,,,,,,
+268,DNVB,Denver Bankshares Inc,200,TRUE,2012,,,,,,,,,,
+269,SOSCF,Deoleo SA,0.028000001,TRUE,2017,,,,,,,,,,
+270,DEQSF,DEQ Systems Corp,$0.29 ,TRUE,,No data fetched for symbol DEQSF using YahooDailyReader,,,,,,,,,
+271,DSCI,Derma Sciences Inc,$7.00 ,TRUE,,'Date',,,,,,,,,
+272,DMPHF,Dermapharm Holding SE,$30.57 ,TRUE,,No data fetched for symbol DMPHF using YahooDailyReader,,,,,,,,,
+273,DERM,Dermira Inc,$18.75 ,TRUE,,No data fetched for symbol DERM using YahooDailyReader,,,,,,,,,
+274,DMTK,DermTech Inc,13.40999985,TRUE,2017,,,,,,,,,,
+275,DWVYF,Derwent London PLC,35.45000076,FALSE,2009,,12-Apr,26-Jun,5,6,5,6,25-Mar,8-Jun,11.11576551
+276,DHOXY,Desarrolladora Homex SAB de CV,$0.39 ,TRUE,,'Date',,,,,,,,,
+277,DESLF,Descente Ltd,11.01309967,TRUE,2016,,,,,,,,,,
+278,DAUGF,Desert Gold Ventures Inc,0.140000001,TRUE,2011,,,,,,,,,,
+279,DSLEF,Desert Lion Energy Inc,$0.50 ,TRUE,,No data fetched for symbol DSLEF using YahooDailyReader,,,,,,,,,
+280,DMEHF,Desert Mountain Energy Corp,1.419999957,TRUE,2013,,,,,,,,,,
+281,DSSHF,Design Hotels AG,$5.80 ,TRUE,,No data fetched for symbol DSSHF using YahooDailyReader,,,,,,,,,
+282,DBI,Designer Brands Inc,6.360000134,FALSE,2009,,13-Sep,27-Nov,6,5,6,5,27-Sep,11-Dec,4.915266872
+283,DESP,Despegar.com Corp,9.159999847,TRUE,2017,,,,,,,,,,
+284,DESTQ,Destination Maternity Corp,0.01,FALSE,2009,,8-Sep,22-Nov,4,7,4,7,8-Sep,22-Nov,-13.31396614
+285,DXLG,Destination XL Group Inc,0.319999993,FALSE,2009,,14-May,28-Jul,5,6,5,6,14-May,28-Jul,9.214733145
+286,DSNY,Destiny Media Technologies Inc,0.703000009,FALSE,2009,,24-Sep,8-Dec,6,5,6,5,24-Sep,8-Dec,6.632505582
+287,DSWL,Deswell Industries Inc,2.920000076,FALSE,2009,,28-Dec,13-Mar,7,4,7,4,28-Dec,13-Mar,2.777283401
+288,DTRM,Determine Inc,$0.18 ,TRUE,,No data fetched for symbol DTRM using YahooDailyReader,,,,,,,,,
+289,DRGDF,Detour Gold Corp,$17.50 ,TRUE,,No data fetched for symbol DRGDF using YahooDailyReader,,,,,,,,,
+290,DTRX,Detrex Corp,$26.77 ,TRUE,,'Date',,,,,,,,,
+291,DTRL,Detroit Legal News Co,300,FALSE,2010,,29-Oct,12-Jan,7,3,3,7,29-Oct,12-Jan,3.469602782
+292,DMCD,Detwiler Fenton Group Inc,0.039999999,FALSE,2009,,26-Aug,9-Nov,3,8,3,8,26-Aug,9-Nov,9.745000403
+293,DB,Deutsche Bank AG,10.72999954,FALSE,2009,,1-Jul,14-Sep,6,5,6,5,1-Jul,14-Sep,-4.104833577
+294,DEUBF,Deutsche Beteiligungs AG,28.75,TRUE,2012,,,,,,,,,,
+295,DBOEF,Deutsche Boerse AG,161.6900024,FALSE,2009,,23-Mar,6-Jun,7,4,7,4,15-Dec,28-Feb,6.568158357
+296,DBOEY,Deutsche Boerse AG,16.25,FALSE,2010,,13-Dec,26-Feb,7,3,7,3,13-Dec,26-Feb,8.8112765
+297,DUSCF,Deutsche EuroShop AG,12.55000019,TRUE,2013,,,,,,,,,,
+298,DEUIF,Deutsche Industrie REIT-AG,$12.35 ,TRUE,,No data fetched for symbol DEUIF using YahooDailyReader,,,,,,,,,
+299,DLAKF,Deutsche Lufthansa AG,11.01000023,FALSE,2010,,11-Oct,25-Dec,6,4,6,4,11-Oct,25-Dec,11.33219974
+300,DLAKY,Deutsche Lufthansa AG,10.89000034,FALSE,2010,,22-Sep,6-Dec,6,4,6,4,22-Sep,6-Dec,11.68286899
+301,PBBGF,Deutsche Pfandbriefbank AG,6.85010004,TRUE,2018,,,,,,,,,,
+302,DPSGY,Deutsche Post AG,46.25,FALSE,2009,,19-Sep,3-Dec,5,6,5,6,19-Sep,3-Dec,3.032374083
+303,DPSTF,Deutsche Post AG,46.20000076,FALSE,2009,,18-Feb,3-May,5,6,5,6,29-Jun,12-Sep,7.191081964
+304,DEUPF,Deutsche Postbank AG,$39.19 ,TRUE,,'Date',,,,,,,,,
+305,DTEGF,Deutsche Telekom AG,17.5,FALSE,2010,,13-Mar,27-May,2,8,2,8,13-Mar,27-May,3.068098326
+306,DTEGY,Deutsche Telekom AG,17.70999908,FALSE,2009,,9-Mar,23-May,3,8,3,8,1-Sep,15-Nov,1.846812322
+307,DWHHF,Deutsche Wohnen SE,50.22499847,FALSE,2009,,12-Jun,26-Aug,5,6,5,6,12-Jun,26-Aug,6.611464614
+308,DTCWY,Deutsche Wohnen SE,25.18000031,TRUE,2020,,,,,,,,,,
+309,DEUZF,Deutz AG,3.849999905,TRUE,2014,,,,,,,,,,
+310,DVRNF,Deveron Corp,0.241300002,TRUE,2020,,,,,,,,,,
+311,UREQF,DevEx Resources Ltd,0.109999999,TRUE,2013,,,,,,,,,,
+312,DEVM,DevMar Equities Inc,0.02,TRUE,2012,,,,,,,,,,
+313,DVN,Devon Energy Corp,11.77999973,FALSE,2009,,27-Nov,10-Feb,5,6,5,6,14-Oct,28-Dec,-1.397895098
+314,DVNO,Devonshire Consolidated Inc,$0.01 ,TRUE,,No data fetched for symbol DVNO using YahooDailyReader,,,,,,,,,
+315,DEITF,Devro PLC,1.970000029,TRUE,2012,,,,,,,,,,
+316,DEVOY,Devro PLC,4.489999771,TRUE,2013,,,,,,,,,,
+317,DEWY,Dewey Electronics Corp,4.349999905,FALSE,2009,,21-Aug,4-Nov,7,4,7,4,21-Aug,4-Nov,16.19147604
+318,DXTRQ,Dex Liquidating Co,0.033059999,TRUE,2012,,,,,,,,,,
+319,DXMMQ,Dex Media Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+320,DXCM,DexCom Inc,336.3999939,FALSE,2009,,11-May,25-Jul,9,2,9,2,11-May,25-Jul,13.99399436
+321,DXBGF,Dexia SA,14.10999966,TRUE,2019,,,,,,,,,,
+322,DXBGY,Dexia SA,0.939999998,TRUE,2012,,,,,,,,,,
+323,DXSPF,Dexus,6.829999924,FALSE,2009,,2-Apr,16-Jun,5,6,5,6,2-Apr,16-Jun,10.09811173
+324,DFDDF,DFDS A/S,30.98340034,TRUE,2016,,,,,,,,,,
+325,DFPH,DFP Healthcare Acquisitions Corp,10.05000019,TRUE,2020,,,,,,,,,,
+326,DRMGF,DGO Gold Ltd,$0.91 ,TRUE,,No data fetched for symbol DRMGF using YahooDailyReader,,,,,,,,,
+327,DGGRF,DGR Global Ltd,$0.10 ,TRUE,,No data fetched for symbol DGGRF using YahooDailyReader,,,,,,,,,
+328,DGTC,DGT Holdings Corp,$18.25 ,TRUE,,'Date',,,,,,,,,
+329,DHIFF,DH Corp,$18.95 ,TRUE,,'Date',,,,,,,,,
+330,DHX,DHI Group Inc,1.850000024,FALSE,2009,,9-Feb,24-Apr,4,7,4,7,9-Feb,24-Apr,3.135866489
+331,DHT,DHT Holdings Inc,5.289999962,FALSE,2009,,1-Nov,15-Jan,6,5,6,5,1-Nov,15-Jan,1.354621401
+332,DIUXF,Diaceutics PLC,2.278800011,TRUE,2020,,,,,,,,,,
+333,DEO,Diageo PLC,155.0899963,FALSE,2009,,3-May,17-Jul,6,5,5,6,3-May,17-Jul,3.667889209
+334,DGEAF,Diageo PLC,37.74000168,FALSE,2009,,17-Sep,1-Dec,5,6,5,6,17-Sep,1-Dec,4.028632819
+335,DGNOD,Diagnos Inc,$0.44 ,TRUE,,No data fetched for symbol DGNOD using YahooDailyReader,,,,,,,,,
+336,DIAOF,Diagnosticos da America SA,$0.05 ,TRUE,,No data fetched for symbol DIAOF using YahooDailyReader,,,,,,,,,
+337,DIALF,Dialight PLC,3.835000038,TRUE,2012,,,,,,,,,,
+338,DLGNF,Dialog Semiconductor PLC,41.09999847,FALSE,2010,,26-Dec,11-Mar,6,4,6,4,26-Dec,11-Mar,8.48876707
+339,DMIFF,Diamcor Mining Inc,0.059999999,TRUE,2012,,,,,,,,,,
+340,DMAC,DiaMedica Therapeutics Inc,4.179999828,TRUE,2012,,,,,,,,,,
+341,DMNB,Diamond Bancshares Inc,75,TRUE,2015,,,,,,,,,,
+342,DWWEF,Diamond Estates Wines & Spirits Inc,0.103,TRUE,2017,,,,,,,,,,
+343,DFIFF,Diamond Fields Resources Inc,0.086499996,FALSE,2009,,25-Nov,8-Feb,6,5,6,5,25-Nov,8-Feb,18.99741602
+344,DMND,Diamond Foods Inc,$37.56 ,TRUE,,'Date',,,,,,,,,
+345,DHIL,Diamond Hill Investment Group Inc,149.6999969,FALSE,2009,,22-Sep,6-Dec,6,5,6,5,13-Sep,27-Nov,10.62292242
+346,DLMI,Diamond Lake Minerals Inc,0.550000012,TRUE,2012,,,,,,,,,,
+347,DOFSQ,Diamond Offshore Drilling Inc,0.159999996,FALSE,2009,,9-Feb,24-Apr,5,6,5,6,9-Feb,24-Apr,0.109757499
+348,DRII,Diamond Resorts International Inc,$30.22 ,TRUE,,'Date',,,,,,,,,
+349,DSSI,Diamond S Shipping Inc,6.110000134,TRUE,2019,,,,,,,,,,
+350,FANG,Diamondback Energy Inc,33.59999847,TRUE,2012,,,,,,,,,,
+351,DHCC,Diamondhead Casino Corp,0.200900003,FALSE,2009,,10-Dec,23-Feb,3,8,3,8,10-Dec,23-Feb,8.245280656
+352,DPHC,DiamondPeak Holdings Corp,18.20999908,TRUE,2019,,,,,,,,,,
+353,DRH,Diamondrock Hospitality Co,6.650000095,FALSE,2009,,6-Nov,20-Jan,5,6,5,6,16-Oct,30-Dec,5.965911266
+354,DYMDF,Diamyd Medical AB,1.919999957,TRUE,2020,,,,,,,,,,
+355,DSX,Diana Shipping Inc,1.539999962,FALSE,2009,,1-Sep,15-Nov,5,6,5,6,1-Sep,15-Nov,1.383095448
+356,DSRLF,Diasorin SpA,183,TRUE,2012,,,,,,,,,,
+357,DICCF,DIC Corp,$28.40 ,TRUE,,No data fetched for symbol DICCF using YahooDailyReader,,,,,,,,,
+358,DRNA,Dicerna Pharmaceuticals Inc,22.87999916,TRUE,2014,,,,,,,,,,
+359,DKS,Dick's Sporting Goods Inc,50.90000153,FALSE,2009,,24-Jul,7-Oct,8,3,8,3,24-Jul,7-Oct,4.343606126
+360,DCOHF,Dickson Concepts (International) Ltd,0.409999996,TRUE,2012,,,,,,,,,,
+361,DCOIF,Dicot AB,$0.47 ,TRUE,,No data fetched for symbol DCOIF using YahooDailyReader,,,,,,,,,
+362,WNXDF,Diebold Nixdorf AG,$68.10 ,TRUE,,No data fetched for symbol WNXDF using YahooDailyReader,,,,,,,,,
+363,WNXDY,Diebold Nixdorf AG,$13.03 ,TRUE,,No data fetched for symbol WNXDY using YahooDailyReader,,,,,,,,,
+364,DBD,Diebold Nixdorf Inc,8.140000343,FALSE,2009,,11-Feb,26-Apr,6,5,6,5,12-Feb,27-Apr,-0.705345364
+365,TNTHF,Difference Capital Financial Inc,2.266000032,TRUE,2018,,,,,,,,,,
+366,DFFN,Diffusion Pharmaceuticals Inc,0.709999979,FALSE,2009,,14-Mar,28-May,3,8,3,8,14-Mar,28-May,12.35276658
+367,DTGI,Digerati Technologies Inc,0.046999998,FALSE,2009,,30-Jan,14-Apr,6,5,6,5,30-Jan,14-Apr,13.02949618
+368,DGII,Digi International Inc,16.70000076,FALSE,2009,,19-May,2-Aug,5,6,5,6,19-May,2-Aug,8.349187988
+369,DIGBF,Digi.com Bhd,$1.10 ,TRUE,,No data fetched for symbol DIGBF using YahooDailyReader,,,,,,,,,
+370,HSSHF,Digihost Technology Inc,0.140000001,TRUE,2020,,,,,,,,,,
+371,DGLT,Digiliti Money Group Inc,0.005,TRUE,2014,,,,,,,,,,
+372,DMRC,Digimarc Corp,33.77000046,FALSE,2009,,9-Apr,23-Jun,5,6,5,6,9-Apr,23-Jun,17.10329103
+373,EQOS,Diginex Ltd,7.150000095,TRUE,2020,,,,,,,,,,
+374,DIGP,DigiPath Inc,0.0233,TRUE,2012,,,,,,,,,,
+375,DRAD,Digirad Corp,2.630000114,FALSE,2009,,27-Jan,11-Apr,7,4,7,4,12-Feb,27-Apr,6.878804948
+376,DGLY,Digital Ally Inc,2.519999981,FALSE,2009,,15-Aug,29-Oct,4,7,4,7,15-Aug,29-Oct,5.112257709
+377,DATI,Digital Asset Monetary Network Inc,0.125,FALSE,2009,,23-Oct,6-Jan,3,8,3,8,23-Oct,6-Jan,10.63488095
+378,DCHIF,Digital China Holdings Ltd,0.769999981,FALSE,2010,,5-Sep,19-Nov,7,3,7,3,5-Sep,19-Nov,3.902352395
+379,DCHIY,Digital China Holdings Ltd,2.650000095,TRUE,2013,,,,,,,,,,
+380,DDDA,Digital Day Agency Inc,$25.00 ,TRUE,,No data fetched for symbol DDDA using YahooDailyReader,,,,,,,,,
+381,DGDM,Digital Development Partners Inc,0.054000001,FALSE,2009,,17-Jun,31-Aug,2,9,2,9,17-Jun,31-Aug,23.49289949
+382,DGMDF,Digital Domain Holdings Ltd,0.009,TRUE,2016,,,,,,,,,,
+383,DLGEF,Digital Garage Inc,37.25,TRUE,2013,,,,,,,,,,
+384,DGOOF,Digital Globe Services Ltd,$0.70 ,TRUE,,No data fetched for symbol DGOOF using YahooDailyReader,,,,,,,,,
+385,LDSSF,Digital Landscape Group Inc,8.300000191,TRUE,2018,,,,,,,,,,
+386,DLOC,Digital Locations Inc,0.01275,FALSE,2009,,3-May,17-Jul,4,7,4,7,3-May,17-Jul,-18.76225353
+387,DMS,Digital Media Solutions Inc,7.869999886,TRUE,2018,,,,,,,,,,
+388,DLR,Digital Realty Trust Inc,144.6499939,FALSE,2009,,26-Feb,11-May,9,2,9,2,26-Feb,11-May,7.710692667
+389,APPS,Digital Turbine Inc,37.27000046,FALSE,2009,,16-Jan,31-Mar,9,2,9,2,16-Jan,31-Mar,6.349844077
+390,DGGXF,Digital X Ltd,0.048,TRUE,2017,,,,,,,,,,
+391,DGI,DigitalGlobe Inc,$34.40 ,TRUE,,'Date',,,,,,,,,
+392,DIGI,Digitiliti Inc,0.017100001,TRUE,2012,,,,,,,,,,
+393,DIZTF,Dignitana AB,0.889999986,TRUE,2015,,,,,,,,,,
+394,DGNYF,Dignity PLC,2.900000095,TRUE,2018,,,,,,,,,,
+395,DDS,Dillard's Inc,47.61999893,FALSE,2009,,26-Sep,10-Dec,7,4,7,4,22-Sep,6-Dec,9.579894769
+396,DCOM,Dime Community Bancshares Inc,13.28999996,FALSE,2009,,19-Sep,3-Dec,8,3,7,4,3-Nov,17-Jan,4.263510982
+397,DIMC,Dimeco Inc,33.40000153,FALSE,2009,,22-Dec,7-Mar,7,4,7,4,13-Apr,27-Jun,2.920758649
+398,DMTX,Dimension Therapeutics Inc,$5.95 ,TRUE,,'Date',,,,,,,,,
+399,DIN,Dine Brands Global Inc,59.75,FALSE,2009,,29-Aug,12-Nov,8,3,8,3,29-Aug,12-Nov,8.552436069
+400,DNSBF,Dine SAB de CV,0.50999999,TRUE,2013,,,,,,,,,,
+401,DWIS,Dinewise Inc,0.0131,TRUE,2012,,,,,,,,,,
+402,DNOPY,Dino Polska SA,25.75,TRUE,2020,,,,,,,,,,
+403,DIOD,Diodes Inc,64.30000305,FALSE,2009,,10-Oct,24-Dec,8,3,8,3,10-Oct,24-Dec,10.63899537
+404,DYMEF,DionyMed Brands Inc,$0.02 ,TRUE,,No data fetched for symbol DYMEF using YahooDailyReader,,,,,,,,,
+405,DIOSF,Dios Exploration Inc,0.079999998,FALSE,2010,,10-Dec,23-Feb,4,6,4,6,10-Dec,23-Feb,8.170994851
+406,DPRTF,DIP Corp,25.95999908,TRUE,2019,,,,,,,,,,
+407,DPLMF,Diploma PLC,$20.66 ,TRUE,,No data fetched for symbol DPLMF using YahooDailyReader,,,,,,,,,
+408,DPLO,Diplomat Pharmacy Inc,$4.00 ,TRUE,,No data fetched for symbol DPLO using YahooDailyReader,,,,,,,,,
+409,DRCHF,Direcional Engenharia SA,$2.07 ,TRUE,,No data fetched for symbol DRCHF using YahooDailyReader,,,,,,,,,
+410,DCSX,Direct Communication Solutions Inc,0.994400024,TRUE,2020,,,,,,,,,,
+411,DIISF,Direct Line Insurance Group PLC,3.960000038,TRUE,2013,,,,,,,,,,
+412,DIISY,Direct Line Insurance Group PLC,15.19999981,TRUE,2013,,,,,,,,,,
+413,DTPKF,Directa Plus PLC,0.790000021,TRUE,2019,,,,,,,,,,
+414,DIRV,DirectView Holdings Inc,0.0231,FALSE,2010,,24-Apr,8-Jul,2,8,2,8,24-Apr,8-Jul,-5.628977232
+415,DRTT,Dirtt Environmental Solutions Ltd,1.370000005,TRUE,2014,,,,,,,,,,
+416,DISPF,Disco Corp,249.0500031,TRUE,2012,,,,,,,,,,
+417,DSCSY,Disco Corp,57.15000153,TRUE,2016,,,,,,,,,,
+418,DFS,Discover Financial Services,76.61000061,FALSE,2009,,2-Sep,16-Nov,6,5,6,5,2-Sep,16-Nov,7.860231455
+419,DRVYF,Discovery Africa Ltd,0.02,TRUE,2015,,,,,,,,,,
+420,DCVRF,Discovery Air Inc,$0.41 ,TRUE,,No data fetched for symbol DCVRF using YahooDailyReader,,,,,,,,,
+421,DENR,Discovery Energy Corp,0.157499999,FALSE,2009,,6-Feb,21-Apr,3,7,3,7,6-Feb,21-Apr,19.94689631
+422,DCHRF,Discovery Harbour Resources Corp,0.050999999,TRUE,2019,,,,,,,,,,
+423,DISCA,Discovery Inc,23.12000084,FALSE,2009,,29-Jan,13-Apr,6,5,6,5,29-Jan,13-Apr,3.51266506
+424,DISCB,Discovery Inc,30.38999939,FALSE,2009,,31-Jan,15-Apr,5,6,5,6,31-Jan,15-Apr,5.870736895
+425,DISCK,Discovery Inc,20.89999962,FALSE,2009,,27-Mar,10-Jun,6,5,6,5,27-Mar,10-Jun,6.267212462
+426,DCYHF,Discovery Ltd,8.149999619,TRUE,2012,,,,,,,,,,
+427,DCYHY,Discovery Ltd,24.35000038,TRUE,2015,,,,,,,,,,
+428,DSVMF,Discovery Metals Corp,1.440000057,TRUE,2017,,,,,,,,,,
+429,DSCVF,Discovery-Corp Enterprises Inc,0.0559,FALSE,2010,,5-Sep,19-Nov,1,6,1,6,5-Sep,19-Nov,5.575023588
+430,DISH,DISH Network Corp,31.54000092,FALSE,2009,,27-Oct,10-Jan,7,4,7,4,27-Oct,10-Jan,6.692066851
+431,DTTVY,Dish TV India Ltd,0.064999998,TRUE,2019,,,,,,,,,,
+432,DTLJF,Distell Group Holdings Ltd,10.23999977,TRUE,2014,,,,,,,,,,
+433,DSTZF,Distell Group Holdings Ltd,6.340000153,TRUE,2018,,,,,,,,,,
+434,BBVKF,Distil PLC,0.025,TRUE,2014,,,,,,,,,,
+435,DIDAF,Distribuidora Internacional De Alimentacion SA,0.25,TRUE,2011,,,,,,,,,,
+436,DIDAY,Distribuidora Internacional De Alimentacion SA,0.25999999,TRUE,2015,,,,,,,,,,
+437,CAXPF,District Copper Corp,0.007,FALSE,2010,,7-Mar,21-May,2,8,2,8,7-Mar,21-May,5.144479107
+438,MKVNF,District Metals Corp,0.260800004,FALSE,2009,,20-Nov,3-Feb,3,8,3,8,20-Nov,3-Feb,-3.768749559
+439,DHCPQ,Ditech Holding Corp,$0.09 ,TRUE,,No data fetched for symbol DHCPQ using YahooDailyReader,,,,,,,,,
+440,DIVXZ,Divall Insured Income Properties 2 LP,350,TRUE,2018,,,,,,,,,,
+441,ILISF,Divergent Energy Services Corp,$0.19 ,TRUE,,'Date',,,,,,,,,
+442,DVSAF,Diversa Ltd,$0.58 ,TRUE,,No data fetched for symbol DVSAF using YahooDailyReader,,,,,,,,,
+443,DVCR,Diversicare Healthcare Services Inc,3.480000019,FALSE,2009,,26-Dec,11-Mar,6,5,6,5,24-Dec,9-Mar,5.899318037
+444,DIEN,Diversified Energy Holdings Inc,0.344900012,TRUE,2012,,,,,,,,,,
+445,DGOCF,Diversified Gas & Oil PLC,1.49000001,TRUE,2020,,,,,,,,,,
+446,DHC,Diversified Healthcare Trust,4.010000229,FALSE,2009,,13-May,27-Jul,8,3,6,5,21-Feb,6-May,-13.68945246
+447,SAUC,Diversified Restaurant Holdings Inc,$1.04 ,TRUE,,No data fetched for symbol SAUC using YahooDailyReader,,,,,,,,,
+448,BEVFF,Diversified Royalty Corp,1.620000005,FALSE,2009,,21-Mar,4-Jun,6,5,5,6,21-Mar,4-Jun,6.642697031
+449,DVTS,Diversified Thermal Solutions Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+450,DSVTF,Divestco Inc,0.020099999,TRUE,2016,,,,,,,,,,
+451,DVSPF,Dividend 15 Split Corp,4.429999828,FALSE,2010,,15-Mar,29-May,5,5,4,6,14-Mar,28-May,2.942349875
+452,DVDDF,Dividend 15 Split Corp II,1.569689989,TRUE,2019,,,,,,,,,,
+453,DNI,Dividend and Income Fund,9.449999809,FALSE,2009,,27-Mar,10-Jun,9,2,6,5,23-Mar,6-Jun,4.365790237
+454,DDWWF,Dividend Growth Split Corp,4.124400139,TRUE,2018,,,,,,,,,,
+455,DVVDF,Dividend Select 15 Corp,4.617680073,TRUE,2018,,,,,,,,,,
+456,DXBRF,Dixie Brands Inc,0.125,TRUE,2019,,,,,,,,,,
+457,YWRLF,Dixie Gold Inc,0.142000005,TRUE,2012,,,,,,,,,,
+458,DSITF,Dixons Carphone PLC,1.559999943,TRUE,2015,,,,,,,,,,
+459,DIZNF,Dizun International Enterprises Inc,$0.11 ,TRUE,,No data fetched for symbol DIZNF using YahooDailyReader,,,,,,,,,
+460,DKGH,DKG Capital Inc,0.02,TRUE,2017,,,,,,,,,,
+461,DKKGF,DKK Co Ltd,$30.15 ,TRUE,,No data fetched for symbol DKKGF using YahooDailyReader,,,,,,,,,
+462,DKSHF,DKSH Holding Ltd,64.5,TRUE,2013,,,,,,,,,,
+463,DKSHY,DKSH Holding Ltd,$13.25 ,TRUE,,No data fetched for symbol DKSHY using YahooDailyReader,,,,,,,,,
+464,DMLYF,DKSH Holdings Malaysia Bhd,$0.05 ,TRUE,,No data fetched for symbol DMLYF using YahooDailyReader,,,,,,,,,
+465,DLDG,DLD Group Inc,0.011,TRUE,2013,,,,,,,,,,
+466,DLHC,DLH Holdings Corp,9,FALSE,2009,,10-Nov,24-Jan,7,4,7,4,10-Nov,24-Jan,10.05103377
+467,DLTI,DLT Resolution Inc,1.039999962,TRUE,2012,,,,,,,,,,
+468,DVRRF,DLV Resources Ltd,0.092699997,TRUE,2012,,,,,,,,,,
+469,BOOM,DMC Global Inc,37.45999908,FALSE,2009,,3-Apr,17-Jun,5,6,5,6,3-Apr,17-Jun,8.716181382
+470,DMCHY,DMCI Holdings Inc,0.540000021,TRUE,2016,,,,,,,,,,
+471,DMCIF,DMCI Holdings Inc,$0.27 ,TRUE,,'Date',,,,,,,,,
+472,APTOF,DMD Digital Health Connections Group Inc,0.189999998,TRUE,2012,,,,,,,,,,
+473,DMGGF,DMG Blockchain Solutions Inc,0.092,TRUE,2018,,,,,,,,,,
+474,GDMOF,DMG Mori Aktiengesellschaft,$46.91 ,TRUE,,No data fetched for symbol GDMOF using YahooDailyReader,,,,,,,,,
+475,MRSKY,Dmg Mori Co Ltd,$15.00 ,TRUE,,No data fetched for symbol MRSKY using YahooDailyReader,,,,,,,,,
+476,MRSKF,Dmg Mori Co Ltd,11.80000019,TRUE,2020,,,,,,,,,,
+477,DMXTY,DMX Technologies Group Ltd,$3.08 ,TRUE,,No data fetched for symbol DMXTY using YahooDailyReader,,,,,,,,,
+478,DMYT,dMY Technology Group Inc,11.06999969,TRUE,2020,,,,,,,,,,
+479,DMYD,dMY Technology Group Inc II,10.10999966,TRUE,2020,,,,,,,,,,
+480,DNBHF,DNB ASA,16.31999969,FALSE,2009,,6-Jan,21-Mar,10,1,10,1,6-Jan,21-Mar,-2.47707762
+481,DNHBY,DNB ASA,16.45000076,FALSE,2010,,16-Dec,1-Mar,9,1,9,1,16-Dec,1-Mar,9.336260007
+482,DNBF,DNB Financial Corp,$46.19 ,TRUE,,No data fetched for symbol DNBF using YahooDailyReader,,,,,,,,,
+483,DNDT,DND Technologies Inc,0.050000001,TRUE,2013,,,,,,,,,,
+484,DMNKF,DNI Metals Inc,0.0098,FALSE,2010,,24-Dec,9-Mar,4,6,4,6,24-Dec,9-Mar,14.82142796
+485,BINDQ,DNIB Unwind Inc,$0.15 ,TRUE,,'Date',,,,,,,,,
+486,DTNOF,DNO ASA,0.449999988,FALSE,2010,,12-Dec,25-Feb,6,4,6,4,12-Dec,25-Feb,7.005558047
+487,DTNOY,DNO ASA,4.150000095,TRUE,2014,,,,,,,,,,
+488,DNP,DNP Select Income Fund Inc,10.36999989,FALSE,2009,,4-Apr,18-Jun,8,3,8,3,6-Apr,20-Jun,4.760937179
+489,DOCOF,DO & Co AG,42.9355011,TRUE,2016,,,,,,,,,,
+490,POFFF,DO Deutsche Office AG,$4.10 ,TRUE,,No data fetched for symbol POFFF using YahooDailyReader,,,,,,,,,
+491,DCBOF,Docebo Inc,45,TRUE,2020,,,,,,,,,,
+492,DOCKF,Dockwise Ltd,24.07999992,FALSE,2009,,5-Aug,19-Oct,0,2,0,2,5-Aug,19-Oct,7.612156242
+493,DCMT,Document Capture Technologies Inc,$0.18 ,TRUE,,'Date',,,,,,,,,
+494,DSS,Document Security Systems Inc,5.090000153,FALSE,2009,,26-Sep,10-Dec,6,5,6,5,26-Sep,10-Dec,-1.650922598
+495,DOCU,DocuSign Inc,205.6999969,TRUE,2018,,,,,,,,,,
+496,DFASF,DOF ASA,0.055,FALSE,2010,,2-Jan,17-Mar,0,10,0,10,2-Jan,17-Mar,0
+497,DSGUY,Dogan Sirketler Grubu Holdings AS,1.389999986,TRUE,2016,,,,,,,,,,
+498,DOGZ,Dogness (International) Corp,2.00999999,TRUE,2017,,,,,,,,,,
+499,DSBX,Dogwood State Bank,14,TRUE,2012,,,,,,,,,,
+500,DOLNQ,Dolan Co,$0.06 ,TRUE,,No data fetched for symbol DOLNQ using YahooDailyReader,,,,,,,,,
+501,DLB,Dolby Laboratories Inc,87.19999695,FALSE,2009,,2-Oct,16-Dec,8,3,8,3,1-Oct,15-Dec,7.144023725
+502,DG,Dollar General Corp,213.8999939,FALSE,2009,,30-Mar,13-Jun,7,4,7,4,30-Mar,13-Jun,7.392180095
+503,DLTR,Dollar Tree Inc,94.94999695,FALSE,2009,,14-Sep,28-Nov,6,5,6,5,14-Sep,28-Nov,7.762118211
+504,DLMAF,Dollarama Inc,37.88000107,FALSE,2010,,24-Mar,7-Jun,4,6,4,6,24-Mar,7-Jun,13.45655316
+505,DOLLF,Dolly Varden Silver Corp,0.629999995,TRUE,2012,,,,,,,,,,
+506,FOEAY,Dolphin Drilling ASA,$0.04 ,TRUE,,No data fetched for symbol FOEAY using YahooDailyReader,,,,,,,,,
+507,DLPN,Dolphin Entertainment Inc,0.680000007,FALSE,2009,,18-Jan,2-Apr,4,7,4,7,18-Jan,2-Apr,6.724629897
+508,DOLPF,Dolphin Group ASA,$0.08 ,TRUE,,No data fetched for symbol DOLPF using YahooDailyReader,,,,,,,,,
+509,SECZF,DOM Security SA,$39.65 ,TRUE,,No data fetched for symbol SECZF using YahooDailyReader,,,,,,,,,
+510,DTCGF,Dometic Group AB,3.799999952,TRUE,2015,,,,,,,,,,
+511,DDC,Dominion Diamond Corp,$14.24 ,TRUE,,'Date',,,,,,,,,
+512,D,Dominion Energy Inc,84.93000031,FALSE,2009,,9-Aug,23-Oct,7,4,7,4,11-Aug,25-Oct,3.882508509
+513,DCUA,Dominion Energy Inc,$58.65 ,TRUE,,No data fetched for symbol DCUA using YahooDailyReader,,,,,,,,,
+514,DCUB,Dominion Energy Inc,$60.10 ,TRUE,,No data fetched for symbol DCUB using YahooDailyReader,,,,,,,,,
+515,DCUC,Dominion Energy Inc,$47.80 ,TRUE,,No data fetched for symbol DCUC using YahooDailyReader,,,,,,,,,
+516,DM,Dominion Energy Midstream Partners LP,17.25,TRUE,2014,,,,,,,,,,
+517,DOMR,Dominion Resources Black Warrior Trust,0.0066,FALSE,2009,,11-Dec,24-Feb,8,3,8,3,11-Dec,24-Feb,-36.35462822
+518,DMZPY,Domino's Pizza Enterprises Ltd,29.09000015,TRUE,2017,,,,,,,,,,
+519,DPZUF,Domino's Pizza Enterprises Ltd,59.29999924,TRUE,2012,,,,,,,,,,
+520,DMPZF,Domino's Pizza Group PLC,4.291900158,TRUE,2013,,,,,,,,,,
+521,DPUKY,Domino's Pizza Group PLC,8.68999958,TRUE,2012,,,,,,,,,,
+522,DPZ,Domino's Pizza Inc,389.6000061,FALSE,2009,,2-Jan,17-Mar,10,1,10,1,2-Jan,17-Mar,14.08616332
+523,DMMOY,Dommo Energia SA,2.650000095,TRUE,2018,,,,,,,,,,
+524,DOMO,Domo Inc,34.29999924,TRUE,2018,,,,,,,,,,
+525,UFS,Domtar Corp,27.02000046,FALSE,2009,,24-Sep,8-Dec,7,4,7,4,24-Sep,8-Dec,9.117784556
+526,DCI,Donaldson Co Inc,53.47000122,FALSE,2009,,26-Aug,9-Nov,6,5,6,5,26-Aug,9-Nov,5.981449989
+527,DGICA,Donegal Group Inc,14.43999958,FALSE,2009,,28-Sep,12-Dec,3,8,3,8,27-Sep,11-Dec,4.326425123
+528,DGICB,Donegal Group Inc,12.55000019,FALSE,2009,,17-Sep,1-Dec,7,4,7,4,12-Sep,26-Nov,2.039869341
+529,DFHL,Dong Fang Hui Le Inc,13.5,TRUE,2012,,,,,,,,,,
+530,DNGFF,Dongfang Electric Corp Ltd,$0.76 ,TRUE,,No data fetched for symbol DNGFF using YahooDailyReader,,,,,,,,,
+531,DNFGF,Dongfeng Motor Group Co Ltd,0.99000001,FALSE,2009,,20-May,3-Aug,7,4,7,4,23-Aug,6-Nov,7.746123365
+532,DNFGY,Dongfeng Motor Group Co Ltd,48.61999893,TRUE,2012,,,,,,,,,,
+533,SZDEF,Dongjiang Environmental Co Ltd,0.790000021,TRUE,2014,,,,,,,,,,
+534,DNGH,Dongsheng Pharmaceutical International Co Ltd,$0.01 ,TRUE,,No data fetched for symbol DNGH using YahooDailyReader,,,,,,,,,
+535,DNGYF,Dongyue Group Ltd,$0.26 ,TRUE,,No data fetched for symbol DNGYF using YahooDailyReader,,,,,,,,,
+536,DFIN,Donnelley Financial Solutions Inc,14.85000038,TRUE,2016,,,,,,,,,,
+537,DRLCQ,Doral Financial Corp,0.074320003,TRUE,2012,,,,,,,,,,
+538,DRYYF,Doray Minerals Ltd,$0.23 ,TRUE,,No data fetched for symbol DRYYF using YahooDailyReader,,,,,,,,,
+539,DMLP,Dorchester Minerals LP,10.52999973,FALSE,2009,,10-Mar,24-May,8,3,7,4,10-Mar,24-May,7.128322548
+540,DRCMF,Dore Copper Mining Corp,0.5255,TRUE,2020,,,,,,,,,,
+541,DIIBF,Dorel Industries Inc,10.94999981,FALSE,2009,,3-Oct,17-Dec,4,7,4,7,1-Oct,15-Dec,1.582236253
+542,DRLAF,Dorel Industries Inc,$27.82 ,TRUE,,'Date',,,,,,,,,
+543,LPG,Dorian LPG Ltd,9.050000191,TRUE,2014,,,,,,,,,,
+544,DRRKF,dorma+kaba Holding AG,557.5319824,TRUE,2013,,,,,,,,,,
+545,DRMKY,dorma+kaba Holding AG,14.14999962,TRUE,2017,,,,,,,,,,
+546,DORM,Dorman Products Inc,94.73999786,FALSE,2009,,29-Oct,12-Jan,7,4,7,4,29-Oct,12-Jan,7.892913127
+547,DSHIF,Doshisha Co Ltd,15.94999981,TRUE,2017,,,,,,,,,,
+548,HILL,Dot Hill Systems Corp,$9.75 ,TRUE,,'Date',,,,,,,,,
+549,DTVI,Dot VN Inc,0.01,TRUE,2016,,,,,,,,,,
+550,DOTDF,dotDigital Group PLC,1.850000024,TRUE,2014,,,,,,,,,,
+551,DBBPF,Double Bond Pharmaceutical International AB,0.5,TRUE,2018,,,,,,,,,,
+552,DDCC,Double Crown Resources Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+553,DSL,DoubleLine Income Solutions Fund,16.11000061,TRUE,2013,,,,,,,,,,
+554,DBL,Doubleline Opportunistic Credit Fund,19.32999992,TRUE,2012,,,,,,,,,,
+555,DBLVF,Doubleview Gold Corp,0.201440006,TRUE,2014,,,,,,,,,,
+556,MYDP,Dougherty's Pharmacy Inc,0.01,FALSE,2009,,16-Nov,30-Jan,5,6,5,6,16-Nov,30-Jan,16.25129861
+557,PLOW,Douglas Dynamics Inc,37.33000183,FALSE,2010,,20-May,3-Aug,6,4,6,4,21-Apr,5-Jul,3.526126699
+558,DEI,Douglas Emmett Inc,30.48999977,FALSE,2009,,5-Feb,20-Apr,7,4,7,4,28-Feb,13-May,6.26491969
+559,DOYU,DouYu International Holdings Ltd,14.21000004,TRUE,2019,,,,,,,,,,
+560,DOVA,Dova Pharmaceuticals Inc,$28.04 ,TRUE,,No data fetched for symbol DOVA using YahooDailyReader,,,,,,,,,
+561,DOVXF,Dovalues SpA,9.126000404,TRUE,2020,,,,,,,,,,
+562,DOV,Dover Corp,122.2799988,FALSE,2009,,15-Oct,29-Dec,9,2,9,2,15-Oct,29-Dec,6.041150443
+563,DDE,Dover Downs Gaming & Entertainment Inc,$2.64 ,TRUE,,No data fetched for symbol DDE using YahooDailyReader,,,,,,,,,
+564,DVD,Dover Motorsports Inc,1.809999943,FALSE,2009,,28-Oct,11-Jan,7,4,7,4,27-Oct,10-Jan,6.597930709
+565,DOW,Dow Inc,51.97000122,TRUE,2019,,,,,,,,,,
+566,^DJI,Dow Jones Industrial Average,29479.81055,FALSE,2009,,29-Aug,12-Nov,7,4,7,4,29-Aug,12-Nov,4.274329462
+567,DWMNF,DOWA Holdings Co Ltd,28.25,TRUE,2012,,,,,,,,,,
+568,DNERF,Downer EDI Ltd,$5.20 ,TRUE,,No data fetched for symbol DNERF using YahooDailyReader,,,,,,,,,
+569,DNERY,Downer EDI Ltd,$14.90 ,TRUE,,No data fetched for symbol DNERY using YahooDailyReader,,,,,,,,,
+570,DPW,DPW Holdings Inc,1.74000001,FALSE,2009,,20-May,3-Aug,3,8,3,8,20-May,3-Aug,9.232000248
+571,DRHNF,Dr Hoenle AG,50.75,TRUE,2019,,,,,,,,,,
+572,RDY,Dr Reddy's Laboratories Ltd,64.34999847,FALSE,2009,,23-Aug,6-Nov,7,4,7,4,23-Aug,6-Nov,11.93694858
+573,DGWPF,Draegerwerk AG & Co KGaA,72.36000061,TRUE,2012,,,,,,,,,,
+574,DRWKF,Draegerwerk AG & Co KGaA,80.15000153,TRUE,2012,,,,,,,,,,
+575,DKNG,DraftKings Inc,42.84000015,TRUE,2019,,,,,,,,,,
+576,DFLYF,Draganfly Inc,0.378600001,TRUE,2019,,,,,,,,,,
+577,DGBMF,DRAGON BRIGHT MINTAI BOTANICAL TECHNOLOGY (CAYMAN),$0.13 ,TRUE,,No data fetched for symbol DGBMF using YahooDailyReader,,,,,,,,,
+578,CDQFF,Dragon Legend Entertainment (Canada) Inc,0.017999999,TRUE,2013,,,,,,,,,,
+579,DGONF,Dragon Mining Ltd,0.119999997,FALSE,2010,,25-Aug,8-Nov,2,8,2,8,25-Aug,8-Nov,6.246711631
+580,DRAGF,Dragon Oil PLC,$12.00 ,TRUE,,'Date',,,,,,,,,
+581,DRAGY,Dragon Oil PLC,$10.00 ,TRUE,,No data fetched for symbol DRAGY using YahooDailyReader,,,,,,,,,
+582,LYL,Dragon Victory International Ltd,4.139999866,TRUE,2017,,,,,,,,,,
+583,DGNR,Dragoneer Growth Opportunities Corp,11.53999996,TRUE,2020,,,,,,,,,,
+584,DRWIQ,DragonWave Inc,$0.03 ,TRUE,,No data fetched for symbol DRWIQ using YahooDailyReader,,,,,,,,,
+585,GRWXF,Draper Esprit PLC,7.699999809,TRUE,2018,,,,,,,,,,
+586,DOTA,Draper Oakwood Technology Acquisition Inc,$5.13 ,TRUE,,'Date',,,,,,,,,
+587,DRXGF,Drax Group PLC,4.010000229,TRUE,2013,,,,,,,,,,
+588,DRXGY,Drax Group PLC,7,TRUE,2012,,,,,,,,,,
+589,DRD,DRDGold Ltd,11.13000011,FALSE,2009,,8-Dec,21-Feb,5,6,5,6,8-Dec,21-Feb,16.41955537
+590,DRDGF,DRDGold Ltd,1.110000014,TRUE,2012,,,,,,,,,,
+591,DRDNF,Dreadnought Resources Ltd,0.02,TRUE,2020,,,,,,,,,,
+592,DUNDF,Dream Global Real Estate Investment Trust,$12.71 ,TRUE,,No data fetched for symbol DUNDF using YahooDailyReader,,,,,,,,,
+593,DREM,Dream Homes & Development Corp,0.0605,TRUE,2017,,,,,,,,,,
+594,DDHRF,Dream Impact Trust,3.213490009,TRUE,2017,,,,,,,,,,
+595,DREUF,Dream Industrial Real Estate Investment Trust,9.555000305,TRUE,2013,,,,,,,,,,
+596,DRMMF,Dream International Ltd,0.300000012,TRUE,2020,,,,,,,,,,
+597,DRETF,Dream Office Real Estate Investment Trust,15.63000011,FALSE,2009,,1-Feb,16-Apr,5,6,5,6,1-Feb,16-Apr,1.596388175
+598,DRUNF,DREAM Unlimited Corp,14.30000019,TRUE,2013,,,,,,,,,,
+599,DWA,Dreamworks Animation SKG Inc,$40.97 ,TRUE,,'Date',,,,,,,,,
+600,DRQ,Dril-Quip Inc,28.78000069,FALSE,2009,,9-May,23-Jul,5,6,5,6,9-May,23-Jul,2.598521666
+601,DRLLF,Drillsearch Energy Ltd,$0.35 ,TRUE,,'Date',,,,,,,,,
+602,DS,Drive Shack Inc,1.350000024,FALSE,2009,,9-Mar,23-May,6,5,6,5,14-Mar,28-May,7.387897231
+603,DRVD,Driven Deliveries Inc,0.340000004,TRUE,2017,,,,,,,,,,
+604,TAKOF,Drone Delivery Canada Corp,0.519999981,TRUE,2018,,,,,,,,,,
+605,DRSHF,Droneshield Ltd,0.115000002,TRUE,2016,,,,,,,,,,
+606,DBX,Dropbox Inc,19.05999947,TRUE,2018,,,,,,,,,,
+607,EXMXF,Dropsuite Ltd,0.100000001,TRUE,2012,,,,,,,,,,
+608,DSOL,Drug Free Solution Inc,0.159999996,TRUE,2012,,,,,,,,,,
+609,DRYS,DryShips Inc,$5.24 ,TRUE,,No data fetched for symbol DRYS using YahooDailyReader,,,,,,,,,
+610,DSFN,DSA Financial Corp,$13.49 ,TRUE,,No data fetched for symbol DSFN using YahooDailyReader,,,,,,,,,
+611,DSGT,DSG Global Inc,0.169499993,TRUE,2015,,,,,,,,,,
+612,DSGLF,DSG International (Thailand) PLC,$0.14 ,TRUE,,No data fetched for symbol DSGLF using YahooDailyReader,,,,,,,,,
+613,DSPG,DSP Group Inc,15.84000015,FALSE,2009,,8-Feb,23-Apr,6,5,6,5,8-Feb,23-Apr,6.909941601
+614,DST,DST Systems Inc,10.09200001,TRUE,2012,,,,,,,,,,
+615,DSDVF,DSV Panalpina AS,163.4600067,TRUE,2012,,,,,,,,,,
+616,DSDVY,DSV Panalpina AS,81.06999969,TRUE,2018,,,,,,,,,,
+617,DQWS,DSwiss Inc,12.01000023,TRUE,2017,,,,,,,,,,
+618,DTE,DTE Energy Co,130.6999969,FALSE,2009,,14-Mar,28-May,8,3,8,3,18-Mar,1-Jun,5.517939872
+619,DTF,DTFTax-Free Income Inc,14.43000031,FALSE,2009,,21-Mar,4-Jun,8,3,7,4,20-Mar,3-Jun,4.811800774
+620,DTHR,Dthera Sciences,0.030999999,TRUE,2014,,,,,,,,,,
+621,DTSI,DTS Inc,$42.52 ,TRUE,,'Date',,,,,,,,,
+622,DAFL,Du-Art Film Labs Inc,89.80000305,TRUE,2016,,,,,,,,,,
+623,DCT,Duck Creek Technologies Inc,39.5,TRUE,2020,,,,,,,,,,
+624,DCO,Ducommun Inc,41.27000046,FALSE,2009,,9-Jul,22-Sep,8,3,8,3,9-Jul,22-Sep,6.833837591
+625,DUERF,Duerr AG,32.97000122,TRUE,2014,,,,,,,,,,
+626,DURYY,Duerr AG,5.909999847,TRUE,2016,,,,,,,,,,
+627,DUETF,DUET Group,2.960000038,TRUE,2017,,,,,,,,,,
+628,DPG,Duff & Phelps Global Utility Income Fund Inc.,11.69999981,TRUE,2011,,,,,,,,,,
+629,DSE,Duff & Phelps Select MLP & Midstream Energy Fund I,4.164999962,TRUE,2014,,,,,,,,,,
+630,DUC,DUFF & PHELPS UTILITY & CORPORATE BOND TRUST INC,9.170000076,FALSE,2009,,24-Jun,7-Sep,6,5,6,5,17-Apr,1-Jul,0.792955871
+631,DUFRY,Dufry AG,5.489999771,TRUE,2012,,,,,,,,,,
+632,DFRYF,Dufry AG,56.20999908,FALSE,2010,,1-Apr,15-Jun,5,5,5,5,1-Apr,15-Jun,4.883690069
+633,DUGG,Duggan?s Distillers Products Corp,0.050000001,FALSE,2009,,22-Jun,5-Sep,0,8,0,8,22-Jun,5-Sep,18.14541126
+634,DKGDF,Dukang Distillers Holdings Ltd,$0.25 ,TRUE,,No data fetched for symbol DKGDF using YahooDailyReader,,,,,,,,,
+635,DUK,Duke Energy Corp,94.98000336,FALSE,2009,,4-Jun,18-Aug,8,3,6,5,25-Aug,8-Nov,4.717316248
+636,DRE,Duke Realty Corp,40.33000183,FALSE,2009,,28-Feb,13-May,8,3,7,4,28-Feb,13-May,9.777035719
+637,DLTH,Duluth Holdings Inc,14.52000046,TRUE,2015,,,,,,,,,,
+638,DULUF,DuluxGroup Ltd,$6.85 ,TRUE,,No data fetched for symbol DULUF using YahooDailyReader,,,,,,,,,
+639,DNB,Dun & Bradstreet Holdings Inc,27.39999962,TRUE,2020,,,,,,,,,,
+640,DDEJF,Dundee Corp,1.110000014,FALSE,2009,,24-Aug,7-Nov,6,5,6,5,24-Aug,7-Nov,3.770355005
+641,DPMLF,Dundee Precious Metals Inc,6.71999979,FALSE,2009,,26-Jun,9-Sep,5,6,5,6,26-Jun,9-Sep,11.09013701
+642,DNDDF,Dundee Sustainable Technologies Inc,0.236900002,TRUE,2015,,,,,,,,,,
+643,DNLMY,Dunelm Group PLC,15.05000019,TRUE,2014,,,,,,,,,,
+644,DUNIF,Duni AB,$12.40 ,TRUE,,No data fetched for symbol DUNIF using YahooDailyReader,,,,,,,,,
+645,DUNIY,Duni AB,29.44000053,TRUE,2013,,,,,,,,,,
+646,DNKN,Dunkin' Brands Group Inc,106.1299973,TRUE,2011,,,,,,,,,,
+647,DXF,Dunxin Financial Holdings Ltd,1.309999943,TRUE,2019,,,,,,,,,,
+648,DUUO,Duo World Inc,0.100000001,TRUE,2017,,,,,,,,,,
+649,DUOT,Duos Technologies Group Inc,3.950000048,TRUE,2017,,,,,,,,,,
+650,DGWIY,Duoyuan Global Water Inc,$0.04 ,TRUE,,'Date',,,,,,,,,
+651,DD,DuPont de Nemours Inc,61.63000107,FALSE,2009,,26-Aug,9-Nov,8,3,8,3,26-Aug,9-Nov,5.582871633
+652,ATOXF,Durango Resources Inc,0.099299997,TRUE,2013,,,,,,,,,,
+653,DUVT,DuraVest Inc,0.015,TRUE,2019,,,,,,,,,,
+654,DRRX,Durect Corp,1.789999962,FALSE,2009,,26-Feb,11-May,5,6,5,6,26-Feb,11-May,13.64553256
+655,DUROF,Duro Felguera SA,0.430000007,TRUE,2013,,,,,,,,,,
+656,DUSXF,Dustin Group AB,8.069999695,TRUE,2020,,,,,,,,,,
+657,DVLN,DVL Inc,2200,FALSE,2009,,6-May,20-Jul,6,5,6,5,6-May,20-Jul,1.047378416
+658,DVXIF,DVx Inc,12.94999981,TRUE,2018,,,,,,,,,,
+659,KTF,DWS Municipal Income Trust,11.18999958,FALSE,2009,,22-Jun,5-Sep,8,3,7,4,27-Oct,10-Jan,1.493828224
+660,KSM,DWS Strategic Municipal Income Trust,10.93999958,FALSE,2009,,18-Mar,1-Jun,9,2,7,4,24-Mar,7-Jun,3.986305464
+661,DXC,DXC Technology Co,20.5,FALSE,2009,,9-Nov,23-Jan,7,4,7,4,9-Nov,23-Jan,3.574329905
+662,DXIEF,DXI Capital Corp,0.308499992,FALSE,2009,,25-Oct,8-Jan,6,5,6,5,25-Oct,8-Jan,-17.55366735
+663,DXPE,DXP Enterprises Inc,21.20000076,FALSE,2009,,11-Feb,26-Apr,4,7,4,7,11-Feb,26-Apr,2.593031462
+664,DXXSF,DXStorm.com Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+665,DYAI,Dyadic International Inc,6.420000076,FALSE,2009,,21-Feb,6-May,5,6,5,6,21-Feb,6-May,10.17876235
+666,DYAX,Dyax Corp,$38.41 ,TRUE,,'Date',,,,,,,,,
+667,DY,Dycom Industries Inc,70.83999634,FALSE,2009,,28-Feb,13-May,8,3,8,3,28-Feb,13-May,9.015058843
+668,DYDIF,DyDo Drinco Inc,$40.85 ,TRUE,,'Date',,,,,,,,,
+669,DYNDF,Dye & Durham Corp,15.70440006,TRUE,2020,,,,,,,,,,
+670,DGIX,Dyna Group International Inc,0.200000003,FALSE,2009,,3-May,17-Jul,2,9,2,9,3-May,17-Jul,8.273103982
+671,DYFSF,DynaCERT Inc,0.419999987,FALSE,2009,,6-Nov,20-Jan,5,6,5,6,6-Nov,20-Jan,10.85780965
+672,DNGDF,Dynacor Gold Mines Inc,1.440000057,FALSE,2010,,7-Dec,20-Feb,6,4,6,4,7-Dec,20-Feb,14.70753503
+673,DYII,Dynacq Healthcare Inc,$0.03 ,TRUE,,No data fetched for symbol DYII using YahooDailyReader,,,,,,,,,
+674,DLNG,Dynagas LNG Partners LP,2.50999999,TRUE,2013,,,,,,,,,,
+675,DJPHF,DYNAM JAPAN HOLDINGS Co Ltd,$1.28 ,TRUE,,No data fetched for symbol DJPHF using YahooDailyReader,,,,,,,,,
+676,DYNR,DynaResource Inc,0.879999995,FALSE,2009,,19-Aug,2-Nov,4,7,4,7,19-Aug,2-Nov,-1.1474621
+677,DYSL,Dynasil Corp of America,1.029999971,FALSE,2009,,24-Aug,7-Nov,6,5,6,5,24-Aug,7-Nov,14.00634664
+678,DYNA,Dynastar Holdings Inc,0.048999999,TRUE,2012,,,,,,,,,,
+679,DYCZF,Dynasty Ceramic PCL,$0.12 ,TRUE,,No data fetched for symbol DYCZF using YahooDailyReader,,,,,,,,,
+680,DGDCF,Dynasty Gold Corp,0.055500001,FALSE,2009,,10-Nov,24-Jan,3,8,3,8,10-Nov,24-Jan,21.19174381
+681,DYTM,Dynatem Inc,$0.80 ,TRUE,,'Date',,,,,,,,,
+682,DT,Dynatrace Inc,35.18999863,TRUE,2019,,,,,,,,,,
+683,DYNT,Dynatronics Corp,0.560000002,FALSE,2009,,27-Nov,10-Feb,6,5,6,5,27-Nov,10-Feb,13.501017
+684,DVAX,Dynavax Technologies Corp,4.159999847,FALSE,2009,,30-Oct,13-Jan,4,7,4,7,30-Oct,13-Jan,-0.153358008
+685,DVOXQ,DynaVox Inc,0.048,TRUE,2012,,,,,,,,,,
+686,DYN,Dyne Therapeutics Inc,19.30999947,TRUE,2020,,,,,,,,,,
+687,DYN,Dynegy Inc,19.30999947,TRUE,2020,,,,,,,,,,
+688,DX,Dynex Capital Inc,17.67000008,FALSE,2009,,26-Oct,9-Jan,6,5,6,5,15-Oct,29-Dec,4.560650761
+689,DNXWF,Dynex Power Inc,0.219999999,TRUE,2011,,,,,,,,,,
+690,DYNE,Dyntek Inc,15.19999981,FALSE,2010,,26-Nov,9-Feb,7,3,7,3,26-Nov,9-Feb,21.54805535
+691,DZSI,DZS Inc,12.96000004,FALSE,2009,,27-Oct,10-Jan,6,5,6,5,27-Oct,10-Jan,9.554573035

@@ -1,0 +1,715 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,RYPPF,RYU Apparel Inc,0.09939999878406525,True,2011.0,,,,,,,,,,
+1,RYOYF,Ryoyo Electro Corp,$8.76 ,True,,No data fetched for symbol RYOYF using YahooDailyReader,,,,,,,,,
+2,RYKKY,Ryohin Keikaku Co Ltd,21.540000915527344,True,2015.0,,,,,,,,,,
+3,RYKKF,Ryohin Keikaku Co Ltd,20.850000381469727,True,2013.0,,,,,,,,,,
+4,RYOTF,Ryoden Corp,$6.37 ,True,,No data fetched for symbol RYOTF using YahooDailyReader,,,,,,,,,
+5,RYBIF,Ryobi Ltd,11.0600004196167,True,2013.0,,,,,,,,,,
+6,RHP,Ryman Hospitality Properties Inc,58.68000030517578,False,2009.0,,10-27,01-10,7.0,7.0,4.0,4.0,10-24,01-07,8.493552742594202
+7,RYHTY,Ryman Healthcare Ltd,50.560001373291016,True,2013.0,,,,,,,,,,
+8,RHCGF,Ryman Healthcare Ltd,7.599999904632568,True,2013.0,,,,,,,,,,
+9,RYI,Ryerson Holding Corp,11.119999885559082,True,2014.0,,,,,,,,,,
+10,RPMGF,Rye Patch Gold Corp,$0.83 ,True,,No data fetched for symbol RPMGF using YahooDailyReader,,,,,,,,,
+11,R,Ryder System Inc,56.79999923706055,False,2009.0,,10-13,12-27,6.0,6.0,5.0,5.0,10-13,12-27,5.351937393399312
+12,RYB,RYB Education Inc,2.700000047683716,True,2017.0,,,,,,,,,,
+13,RYAOF,Ryanair Holdings PLC,14.199999809265137,True,2016.0,,,,,,,,,,
+14,RYAAY,Ryanair Holdings PLC,104.0,False,2009.0,,11-02,01-16,7.0,7.0,4.0,4.0,11-02,01-16,5.724735599996531
+15,RWSHF,RWS Holdings PLC,$2.00 ,True,,No data fetched for symbol RWSHF using YahooDailyReader,,,,,,,,,
+16,RWNFF,RWE AG,40.0099983215332,True,2011.0,,,,,,,,,,
+17,RWNEF,RWE AG,$25.35 ,True,,No data fetched for symbol RWNEF using YahooDailyReader,,,,,,,,,
+18,RWEOY,RWE AG,40.40999984741211,False,2009.0,,03-13,05-27,6.0,6.0,5.0,5.0,06-29,09-12,1.3459582192691761
+19,RWCI,RWC Inc,3.0,True,2012.0,,,,,,,,,,
+20,RVUE,RVUE Holdings Inc,$0.01 ,True,,'Date',,,,,,,,,
+21,RUTH,Ruth's Hospitality Group Inc,14.529999732971191,False,2009.0,,02-09,04-24,9.0,9.0,2.0,2.0,02-09,04-24,2.8703623117274666
+22,RUSMF,Russel Metals Inc,15.649999618530273,False,2010.0,,07-09,09-22,6.0,5.0,4.0,5.0,12-11,02-24,6.398039404702304
+23,RUSPF,RusPetro PLC,$0.26 ,True,,No data fetched for symbol RUSPF using YahooDailyReader,,,,,,,,,
+24,RMLFF,Rusoro Mining Ltd,0.036400001496076584,False,2010.0,,08-10,10-24,3.0,3.0,4.0,4.0,08-10,10-24,23.72926738732303
+25,RSHYY,RusHydro PJSC,0.9300000071525574,True,2011.0,,,,,,,,,,
+26,REXEF,Rush Exploration Inc,$20.00 ,True,,No data fetched for symbol REXEF using YahooDailyReader,,,,,,,,,
+27,RUSHB,Rush Enterprises Inc,34.119998931884766,False,2009.0,,10-18,01-01,4.0,4.0,7.0,7.0,10-18,01-01,7.846176991365068
+28,RUSHA,Rush Enterprises Inc,37.33000183105469,False,2009.0,,08-26,11-09,6.0,6.0,5.0,5.0,08-26,11-09,6.764745825048911
+29,RUSFF,RusForest AB,$0.16 ,True,,No data fetched for symbol RUSFF using YahooDailyReader,,,,,,,,,
+30,RFNDF,Rural Funds Group,1.690000057220459,True,2017.0,,,,,,,,,,
+31,RUPRF,Rupert Resources Ltd,3.930000066757202,True,2013.0,,,,,,,,,,
+32,RFXRF,Running Fox Resource Corp,0.016589999198913574,True,2012.0,,,,,,,,,,
+33,RUMOF,Rumo SA,3.452209949493408,True,2015.0,,,,,,,,,,
+34,RMBL,RumbleON Inc,34.650001525878906,True,2017.0,,,,,,,,,,
+35,RCMGF,Ruicheng (China) Media Group Ltd,0.028999999165534973,True,2020.0,,,,,,,,,,
+36,RUHN,Ruhnn Holding Ltd,2.509999990463257,True,2019.0,,,,,,,,,,
+37,RBMNF,Rugby Mining Ltd,0.07100000232458115,True,2013.0,,,,,,,,,,
+38,RKUS,Ruckus Wireless Inc,$12.87 ,True,,'Date',,,,,,,,,
+39,RT,Ruby Tuesday Inc,59989.6015625,True,2018.0,,,,,,,,,,
+40,RUBY,Rubius Therapeutics Inc,5.25,True,2018.0,,,,,,,,,,
+41,RUBSF,Rubis SCA,34.599998474121094,True,2014.0,,,,,,,,,,
+42,RBSFY,Rubis SCA,7.559999942779541,True,2014.0,,,,,,,,,,
+43,RBCN,Rubicon Technology Inc,8.800000190734863,False,2009.0,,05-07,07-21,4.0,4.0,7.0,7.0,05-07,07-21,0.038456681197316184
+44,ROMJF,Rubicon Organics Inc,2.8499999046325684,True,2018.0,,,,,,,,,,
+45,RBCF,Rubicon Financial Inc,$0.03 ,True,,'Date',,,,,,,,,
+46,RUBR,Rubber Research Elastomerics Inc,$0.01 ,True,,'Date',,,,,,,,,
+47,RTWIQ,RTW Retailwinds Inc,0.033900000154972076,False,2009.0,,02-01,04-16,6.0,6.0,5.0,5.0,02-01,04-16,8.370125050458492
+48,RTSO,RTS Oil Holdings Inc,0.550000011920929,True,2012.0,,,,,,,,,,
+49,RGLXY,RTL Group SA,4.150000095367432,True,2013.0,,,,,,,,,,
+50,RGLXF,RTL Group SA,39.79999923706055,True,2014.0,,,,,,,,,,
+51,RTGGF,RTG Mining Inc,0.08160000294446945,True,2019.0,,,,,,,,,,
+52,RTTGF,RTG Mining Inc,0.0430000014603138,True,2013.0,,,,,,,,,,
+53,RTMFF,RT Minerals Corp,0.12430000305175781,True,2013.0,,,,,,,,,,
+54,RSPP,RSP Permian Inc,47.83000183105469,True,2014.0,,,,,,,,,,
+55,RSYFF,RSI International Systems Inc,0.03590000048279762,True,2019.0,,,,,,,,,,
+56,RSNAY,RSA Insurance Group PLC,8.876999855041504,True,2011.0,,,,,,,,,,
+57,RSAIF,RSA Insurance Group PLC,9.050000190734863,True,2012.0,,,,,,,,,,
+58,RSHCQ,RS Legacy Corp,$0.02 ,True,,'Date',,,,,,,,,
+59,RRM,RR Media Ltd,$13.05 ,True,,'Date',,,,,,,,,
+60,RPXC,RPX Corp,10.479999542236328,True,2012.0,,,,,,,,,,
+61,RPT,RPT Realty,6.879899978637695,False,2009.0,,10-06,12-20,7.0,7.0,4.0,4.0,10-04,12-18,7.955135364535388
+62,RPSGF,RPS Group PLC,0.6299999952316284,True,2015.0,,,,,,,,,,
+63,RPM,RPM International Inc,88.86000061035156,False,2009.0,,10-05,12-19,6.0,6.0,5.0,5.0,10-15,12-29,7.447594855022875
+64,RPHL,RPHL Acquisition Corp,$0.01 ,True,,'Date',,,,,,,,,
+65,RES,RPC Inc,3.0450000762939453,False,2009.0,,10-25,01-08,6.0,6.0,5.0,5.0,10-25,01-08,4.0723359735459805
+66,RPCGY,RPC Group PLC,$19.55 ,True,,No data fetched for symbol RPCGY using YahooDailyReader,,,,,,,,,
+67,RPCGF,RPC Group PLC,$10.40 ,True,,No data fetched for symbol RPCGF using YahooDailyReader,,,,,,,,,
+68,RVT,Royce Value Trust Inc,14.9399995803833,False,2009.0,,10-14,12-28,9.0,6.0,2.0,5.0,12-13,02-26,5.370911011339165
+69,RMT,Royce Micro-Cap Trust Inc,9.024999618530273,False,2009.0,,02-01,04-16,7.0,5.0,4.0,6.0,12-13,02-26,4.547565590659186
+70,RGT,Royce Global Value Trust Inc,14.114999771118164,True,2013.0,,,,,,,,,,
+71,RPRX,Royalty Pharma PLC,41.68000030517578,True,2020.0,,,,,,,,,,
+72,RYTTF,Royalty North Partners Ltd,0.2801400125026703,True,2017.0,,,,,,,,,,
+73,ROGP,Royale Globe Holding Inc,$1.00 ,True,,'Date',,,,,,,,,
+74,ROYL,Royale Energy Inc,0.09000000357627869,False,2009.0,,03-03,05-17,6.0,6.0,5.0,5.0,03-03,05-17,-13.112098392165143
+75,ROYUF,Royal UNIBREW A/S,102.0,True,2018.0,,,,,,,,,,
+76,RYSMF,Royal Standard Minerals Inc,0.10000000149011612,False,2009.0,,11-20,02-03,4.0,4.0,7.0,7.0,11-20,02-03,11.216330753586023
+77,RRDMF,Royal Road Minerals Ltd,0.23999999463558197,True,2017.0,,,,,,,,,,
+78,RYLPF,Royal Philips NV,52.349998474121094,False,2009.0,,05-22,08-05,8.0,8.0,3.0,3.0,05-22,08-05,5.474743777980912
+79,PHG,Royal Philips NV,51.52000045776367,False,2009.0,,05-23,08-06,7.0,7.0,4.0,4.0,05-22,08-05,6.312984046761872
+80,ROCLF,Royal Olympic Cruise Lines Inc,0.03779999911785126,True,2012.0,,,,,,,,,,
+81,ROYMY,Royal Mail PLC,7.769999980926514,True,2014.0,,,,,,,,,,
+82,ROYMF,Royal Mail PLC,3.5,True,2013.0,,,,,,,,,,
+83,RIIC,Royal Invest International Corp,$0.01 ,True,,'Date',,,,,,,,,
+84,IMTEF,Royal Imtech NV,$0.01 ,True,,'Date',,,,,,,,,
+85,RHCCF,Royal Helium Ltd,0.21979999542236328,True,2020.0,,,,,,,,,,
+86,RGLD,Royal Gold Inc,109.73500061035156,False,2009.0,,04-08,06-22,4.0,3.0,7.0,8.0,04-08,06-22,5.511764991293495
+87,RYFL,Royal Financial Inc,13.140000343322754,False,2009.0,,12-20,03-05,8.0,8.0,3.0,3.0,12-20,03-05,8.177386295053315
+88,ROYE,Royal Energy Resources Inc,0.27570000290870667,True,2012.0,,,,,,,,,,
+89,RYDBF,Royal Dutch Shell PLC,15.5,True,2011.0,,,,,,,,,,
+90,RYDAF,Royal Dutch Shell PLC,16.309999465942383,False,2009.0,,03-14,05-28,4.0,4.0,7.0,7.0,03-15,05-29,4.231543305271516
+91,RDS.B,Royal Dutch Shell PLC,$31.22 ,True,,'Date',,,,,,,,,
+92,RDS.A,Royal Dutch Shell PLC,$32.99 ,True,,'Date',,,,,,,,,
+93,RCL,Royal Caribbean Group,73.79000091552734,False,2009.0,,08-10,10-24,6.0,6.0,5.0,5.0,08-10,10-24,7.780258616175928
+94,RY,Royal Bank of Canada,79.02999877929688,False,2009.0,,07-08,09-21,7.0,6.0,4.0,5.0,05-29,08-12,1.7772837499246592
+95,RBPAB,Royal Bancshares of Pennsylvania Inc,$4.75 ,True,,No data fetched for symbol RBPAB using YahooDailyReader,,,,,,,,,
+96,RBPAA,Royal Bancshares of Pennsylvania Inc,$4.52 ,True,,'Date',,,,,,,,,
+97,RYAV,Royal Alliance Ventures Corp,$0.10 ,True,,No data fetched for symbol RYAV using YahooDailyReader,,,,,,,,,
+98,ROGFF,Roxgold Inc,1.2699999809265137,True,2012.0,,,,,,,,,,
+99,RXXRF,Rox Resources Ltd,0.004999999888241291,True,2016.0,,,,,,,,,,
+100,ROWC,Rowe Companies,0.012000000104308128,True,2012.0,,,,,,,,,,
+101,RDC,Rowan Companies PLC,$10.93 ,True,,No data fetched for symbol RDC using YahooDailyReader,,,,,,,,,
+102,ROVVF,Rovio Entertainment Corp,$4.64 ,True,,No data fetched for symbol ROVVF using YahooDailyReader,,,,,,,,,
+103,ROVMF,Rover Metals Corp,0.05999999865889549,True,2019.0,,,,,,,,,,
+104,RDNAF,Routemaster Capital Inc,0.07800000160932541,True,2012.0,,,,,,,,,,
+105,ROIUF,Route1 Inc,0.6061999797821045,True,2012.0,,,,,,,,,,
+106,RSE,Rouse Properties Inc,$18.27 ,True,,'Date',,,,,,,,,
+107,RNDY,Roundys Inc,$3.60 ,True,,'Date',,,,,,,,,
+108,RNDOF,Round One Corp,8.25,True,2015.0,,,,,,,,,,
+109,RCHN,Rouchon Industries Inc,0.14000000059604645,True,2012.0,,,,,,,,,,
+110,RTTNY,Rottneros AB,22.969999313354492,True,2019.0,,,,,,,,,,
+111,RTERF,Rottneros AB,0.8999999761581421,True,2016.0,,,,,,,,,,
+112,DRCAF,Rotshtein Realestate Ltd,7.268099784851074,True,2020.0,,,,,,,,,,
+113,RTOXY,Rotork PLC,15.682000160217285,True,2012.0,,,,,,,,,,
+114,RTOXF,Rotork PLC,4.105000019073486,True,2012.0,,,,,,,,,,
+115,RTBC,Rotoblock Corp,$0.01 ,True,,'Date',,,,,,,,,
+116,PIEJF,Rothschild & Co SCA,29.399999618530273,True,2011.0,,,,,,,,,,
+117,ROCH,Roth CH Acquisition I Co,10.454999923706055,True,2020.0,,,,,,,,,,
+118,ROTGF,Rotary Engineering Ltd,$0.74 ,True,,No data fetched for symbol ROTGF using YahooDailyReader,,,,,,,,,
+119,ROTGY,Rotary Engineering Ltd,$9.29 ,True,,No data fetched for symbol ROTGY using YahooDailyReader,,,,,,,,,
+120,ROSMF,Rostelecom PJSC,$0.83 ,True,,'Date',,,,,,,,,
+121,ROSYY,Rostelecom PJSC,7.489999771118164,False,2009.0,,08-18,11-01,6.0,6.0,5.0,5.0,08-18,11-01,4.643412451679429
+122,RSRZF,Rossi Residencial SA,$0.96 ,True,,No data fetched for symbol RSRZF using YahooDailyReader,,,,,,,,,
+123,RSRZY,Rossi Residencial SA,$1.20 ,True,,'Date',,,,,,,,,
+124,ROST,Ross Stores Inc,110.29499816894531,False,2009.0,,07-08,09-21,8.0,8.0,3.0,3.0,09-01,11-15,6.287071581082615
+125,ROSX,Ross Industries Inc,0.11999999731779099,True,2012.0,,,,,,,,,,
+126,ROSSF,Ross Group PLC,0.009999999776482582,True,2018.0,,,,,,,,,,
+127,RNFTF,Rosneft Oil Co,5.1793999671936035,True,2013.0,,,,,,,,,,
+128,OJSCY,Rosneft Oil Co,5.579999923706055,True,2013.0,,,,,,,,,,
+129,ROSN,Rosinbomb,0.5199999809265137,True,2012.0,,,,,,,,,,
+130,RST,Rosetta Stone Inc,29.989999771118164,False,2009.0,,03-19,06-02,6.0,6.0,5.0,5.0,03-19,06-02,10.827958358603931
+131,ROSGQ,Rosetta Genomics Ltd,0.010599999688565731,True,2012.0,,,,,,,,,,
+132,ROSEQ,Rosehill Resources Inc,0.03500000014901161,True,2016.0,,,,,,,,,,
+133,RRMS,Rose Rock Midstream LP,$27.16 ,True,,'Date',,,,,,,,,
+134,RCGCF,Roscan Gold Corp,0.3059999942779541,True,2019.0,,,,,,,,,,
+135,RIHC,Rorine International Holding Corp,1.100000023841858,False,2010.0,,04-12,06-26,4.0,4.0,6.0,6.0,04-12,06-26,14.818456062209735
+136,ROP,Roper Technologies Inc,409.2749938964844,False,2009.0,,10-27,01-10,8.0,8.0,3.0,3.0,10-27,01-10,4.779337606860628
+137,RROTF,Roots Corp,1.0238699913024902,True,2017.0,,,,,,,,,,
+138,RTNB,root9B Holdings Inc,0.05000000074505806,False,2009.0,,03-26,06-09,3.0,3.0,8.0,8.0,03-26,06-09,10.108074656913212
+139,ROOT,Root Inc,18.360000610351562,True,2020.0,,,,,,,,,,
+140,RSAU,Rooshine Inc,0.006399999838322401,False,2009.0,,10-18,01-01,7.0,7.0,4.0,4.0,10-18,01-01,16.87840931541983
+141,MTWO,RoomLinX Inc,$0.10 ,True,,'Date',,,,,,,,,
+142,RONAF,RONA Inc,$18.55 ,True,,No data fetched for symbol RONAF using YahooDailyReader,,,,,,,,,
+143,RMIOF,Romios Gold Resources Inc,0.03629999980330467,False,2009.0,,07-02,09-15,6.0,6.0,5.0,5.0,07-02,09-15,21.133287292333208
+144,RYCEY,Rolls-Royce Holdings PLC,3.1649999618530273,False,2009.0,,02-13,04-28,8.0,8.0,3.0,3.0,12-03,02-16,2.2999510675259742
+145,RYCEF,Rolls-Royce Holdings PLC,1.3329999446868896,False,2009.0,,02-13,04-28,8.0,8.0,3.0,3.0,02-13,04-28,-4.677896065695268
+146,ROL,Rollins Inc,57.84000015258789,False,2009.0,,06-24,09-07,8.0,8.0,3.0,3.0,05-07,07-21,6.125976175453607
+147,ICTAF,Rolling Optics Holding AB,$4.38 ,True,,No data fetched for symbol ICTAF using YahooDailyReader,,,,,,,,,
+148,RLDGF,Roland DG Corp,$11.50 ,True,,No data fetched for symbol RLDGF using YahooDailyReader,,,,,,,,,
+149,RLDFF,Roland Corp,$18.25 ,True,,No data fetched for symbol RLDFF using YahooDailyReader,,,,,,,,,
+150,ROKU,Roku Inc,251.4582977294922,True,2017.0,,,,,,,,,,
+151,RKMSF,Rokmaster Resources Corp,0.23749999701976776,True,2017.0,,,,,,,,,,
+152,ROKK,Rokk3r Inc,102.0,True,2012.0,,,,,,,,,,
+153,PTRDF,ROK Resources Inc,0.11729999631643295,True,2012.0,,,,,,,,,,
+154,LKYSF,Rojo Resources Ltd,0.3480739891529083,True,2011.0,,,,,,,,,,
+155,RJIUF,Rojana Industrial Park PCL,$0.20 ,True,,No data fetched for symbol RJIUF using YahooDailyReader,,,,,,,,,
+156,ROII,ROI Land Investments Ltd,0.09000000357627869,True,2019.0,,,,,,,,,,
+157,ROIQ,ROI Acquisition Corp II,$10.00 ,True,,No data fetched for symbol ROIQ using YahooDailyReader,,,,,,,,,
+158,RPHCF,Rohto Pharmaceutical Co Ltd,$26.50 ,True,,No data fetched for symbol RPHCF using YahooDailyReader,,,,,,,,,
+159,ROHCY,Rohm Co Ltd,41.459999084472656,False,2009.0,,08-27,11-10,6.0,6.0,5.0,5.0,10-28,01-11,4.612564580995673
+160,ROHCF,Rohm Co Ltd,82.0,True,2012.0,,,,,,,,,,
+161,RGST,Rogue Station Companies Inc,0.04699999839067459,True,2012.0,,,,,,,,,,
+162,GCRIF,Rogue Resources Inc,0.07000000029802322,False,2010.0,,10-21,01-04,2.0,2.0,8.0,8.0,10-21,01-04,7.490212647092296
+163,RSGUF,Rogers Sugar Inc,3.75,False,2010.0,,05-22,08-05,5.0,5.0,5.0,5.0,05-22,08-05,3.033064470503304
+164,ROG,Rogers Corp,141.55499267578125,False,2009.0,,05-20,08-03,6.0,6.0,5.0,5.0,05-20,08-03,7.344597328291024
+165,RCIAF,Rogers Communications Inc,46.81999969482422,True,2013.0,,,,,,,,,,
+166,RCI,Rogers Communications Inc,45.599998474121094,False,2009.0,,06-29,09-12,7.0,7.0,4.0,4.0,06-27,09-10,4.544080629619552
+167,RSTI,Rofin-Sinar Technologies Inc,$32.55 ,True,,'Date',,,,,,,,,
+168,RWGI,Rodedawg International Industries Inc,0.03400000184774399,True,2012.0,,,,,,,,,,
+169,RCCTF,RocTool,$8.55 ,True,,No data fetched for symbol RCCTF using YahooDailyReader,,,,,,,,,
+170,RMHB,Rocky Mountain High Brands Inc,0.04899999871850014,True,2016.0,,,,,,,,,,
+171,RCKXF,Rocky Mountain Dealerships Inc,5.369999885559082,False,2009.0,,11-23,02-06,7.0,7.0,4.0,4.0,12-17,03-02,4.251583681376899
+172,RMCF,Rocky Mountain Chocolate Factory Inc,3.6705000400543213,False,2009.0,,12-13,02-26,9.0,9.0,2.0,2.0,11-11,01-25,5.620011852958174
+173,RMTN,Rocky Mountain Ayre Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+174,RCKY,Rocky Brands Inc,30.43000030517578,False,2009.0,,12-10,02-23,8.0,8.0,3.0,3.0,12-10,02-23,11.052738013965792
+175,RKWAF,Rockwool International A/S,378.5877990722656,True,2020.0,,,,,,,,,,
+176,RKWBF,Rockwool International A/S,448.0,True,2013.0,,,,,,,,,,
+177,RMTI,Rockwell Medical Inc,0.9684000015258789,False,2009.0,,04-07,06-21,6.0,6.0,5.0,5.0,04-07,06-21,4.701014296614967
+178,COL,Rockwell Collins Inc,48.25,True,2012.0,,,,,,,,,,
+179,ROK,Rockwell Automation Inc,245.90499877929688,False,2009.0,,08-26,11-09,9.0,9.0,2.0,2.0,08-26,11-09,9.427283117286606
+180,CRZHF,Rockwealth Resources Corp,0.0835999995470047,True,2012.0,,,,,,,,,,
+181,RKSCF,Rockshield Capital Corp,0.05999999865889549,True,2012.0,,,,,,,,,,
+182,RRSEF,RockRose Energy PLC,Â£ 22.42,True,,No data fetched for symbol RRSEF using YahooDailyReader,,,,,,,,,
+183,RRRLF,Rockridge Resources Ltd,0.08980000019073486,True,2019.0,,,,,,,,,,
+184,RPOR,Rockport National Bancorp Inc,$139.00 ,True,,'Date',,,,,,,,,
+185,RCKHF,Rockhopper Exploration PLC,0.07999999821186066,False,2010.0,,11-01,01-15,5.0,5.0,5.0,5.0,11-01,01-15,-0.9070974532726864
+186,RKHNF,Rockhaven Resources Ltd,0.09000000357627869,True,2011.0,,,,,,,,,,
+187,ROFO,Rockford Corp,9.850000381469727,False,2009.0,,06-26,09-09,7.0,7.0,4.0,4.0,06-28,09-11,8.947624423717004
+188,RKEXF,Rockex Mining Corp,$0.01 ,True,,No data fetched for symbol RKEXF using YahooDailyReader,,,,,,,,,
+189,RKFL,RocketFuel Blockchain Inc,1.899999976158142,False,2009.0,,07-21,10-04,5.0,5.0,6.0,6.0,07-21,10-04,2.3195658494819997
+190,RCKT,Rocket Pharmaceuticals Inc,34.81999969482422,True,2015.0,,,,,,,,,,
+191,RCKZF,Rocket Internet SE,22.163400650024414,True,2015.0,,,,,,,,,,
+192,FUEL,Rocket Fuel Inc,$2.60 ,True,,'Date',,,,,,,,,
+193,RKT,Rocket Companies Inc,21.239999771118164,True,2020.0,,,,,,,,,,
+194,SVVZF,Rockcliff Metals Corp,0.06300000101327896,True,2011.0,,,,,,,,,,
+195,RCKTF,Rock Tech Lithium Inc,0.691100001335144,False,2009.0,,08-11,10-25,4.0,4.0,7.0,7.0,08-11,10-25,12.704402735743676
+196,RRRI,Rock Ridge Resources Inc,0.0731000006198883,False,2009.0,,10-14,12-28,5.0,5.0,6.0,6.0,10-14,12-28,18.01365273894459
+197,RENFF,Rock Energy Inc,$0.67 ,True,,'Date',,,,,,,,,
+198,RCTFF,Rochester Resources Ltd,0.06880000233650208,True,2012.0,,,,,,,,,,
+199,RCCB,Rochester (NY) Community Baseball Inc,345.0,True,2013.0,,,,,,,,,,
+200,RHHVF,Roche Holding AG,336.0828857421875,False,2009.0,,02-07,04-22,7.0,4.0,4.0,7.0,10-26,01-09,3.889041527770373
+201,RHHBY,Roche Holding AG,41.7400016784668,False,2009.0,,02-07,04-22,7.0,4.0,4.0,7.0,11-07,01-21,4.357398713535614
+202,RHHBF,Roche Holding AG,339.5,True,2012.0,,,,,,,,,,
+203,RBSY,Roboserver Systems Corp,0.008999999612569809,False,2009.0,,04-26,07-10,3.0,3.0,6.0,6.0,04-26,07-10,-135.49092172451185
+204,ROBOF,Robo Group TEK Ltd,1.600000023841858,False,2009.0,,03-02,05-16,5.0,5.0,6.0,6.0,03-02,05-16,11.376198527095687
+205,RRETY,Robinsons Retail Holdings Inc,13.954999923706055,True,2014.0,,,,,,,,,,
+206,RBNTF,Robinsons Retail Holdings Inc,$1.28 ,True,,No data fetched for symbol RBNTF using YahooDailyReader,,,,,,,,,
+207,RBLAY,Robinsons Land Corp,6.309999942779541,True,2014.0,,,,,,,,,,
+208,RDSPY,Robinson Public Company Ltd,$5.31 ,True,,No data fetched for symbol RDSPY using YahooDailyReader,,,,,,,,,
+209,RBCPF,Robinson Public Company Ltd,$1.00 ,True,,No data fetched for symbol RBCPF using YahooDailyReader,,,,,,,,,
+210,RSRBF,Robex Resources Inc,0.3384999930858612,True,2014.0,,,,,,,,,,
+211,RHSC,Robertson Global Health Solutions Corp,$0.04 ,True,,'Date',,,,,,,,,
+212,RBCI,Robertson Banking Co,45.0,True,2012.0,,,,,,,,,,
+213,RBTEF,Robertet SA,1200.0,True,2018.0,,,,,,,,,,
+214,RBJM,Robert James & Associates Inc,$0.30 ,True,,No data fetched for symbol RBJM using YahooDailyReader,,,,,,,,,
+215,RHI,Robert Half International Inc,61.22999954223633,False,2009.0,,09-24,12-08,7.0,7.0,4.0,4.0,10-30,01-13,9.806656729373907
+216,ROAN,Roan Resources Inc,$1.52 ,True,,No data fetched for symbol ROAN using YahooDailyReader,,,,,,,,,
+217,RAHGF,Roan Holdings Group Co Ltd,0.08500000089406967,True,2014.0,,,,,,,,,,
+218,RRTS,Roadrunner Transportation Systems Inc,2.0999999046325684,False,2010.0,,05-17,07-31,5.0,5.0,5.0,5.0,05-17,07-31,7.3212947904414225
+219,RMANF,Roadman Investments Corp,0.02199999988079071,True,2019.0,,,,,,,,,,
+220,RKGXF,Road King Infrastructure Ltd,1.159999966621399,False,2009.0,,03-15,05-29,5.0,5.0,6.0,6.0,07-08,09-21,2.329312929555083
+221,RMRM,RMR Mortgage Trust,7.519999980926514,False,2009.0,,05-13,07-27,6.0,6.0,5.0,5.0,05-13,07-27,8.076714049371477
+222,RMGN,RMG Networks Holding Corp,1.2899999618530273,True,2012.0,,,,,,,,,,
+223,RMG,RMG Acquisition Corp,10.46500015258789,True,2019.0,,,,,,,,,,
+224,RMRMF,RM PLC,$2.40 ,True,,No data fetched for symbol RMRMF using YahooDailyReader,,,,,,,,,
+225,RLJ,RLJ Lodging Trust,12.109999656677246,True,2011.0,,,,,,,,,,
+226,RLJE,RLJ Entertainment Inc,6.25,True,2012.0,,,,,,,,,,
+227,RLI,RLI Corp,100.8499984741211,False,2009.0,,05-14,07-28,7.0,7.0,4.0,4.0,05-14,07-28,6.767910403455055
+228,RJKAF,RJK Explorations Ltd,0.13199999928474426,True,2012.0,,,,,,,,,,
+229,RJDG,RJD Green Inc,0.006399999838322401,True,2013.0,,,,,,,,,,
+230,RWCRF,RIWI Corp,2.4700000286102295,True,2016.0,,,,,,,,,,
+231,RIVU,Rivulet Media Inc,0.38100001215934753,True,2020.0,,,,,,,,,,
+232,RVRA,Riviera Resources Inc,0.2329999953508377,True,2018.0,,,,,,,,,,
+233,RIVX,Rivex Technology Corp,0.022199999541044235,True,2018.0,,,,,,,,,,
+234,RIVE,Riverview Financial Corp,7.309999942779541,False,2009.0,,07-26,10-09,5.0,4.0,6.0,7.0,07-26,10-09,3.072577624784422
+235,RVSB,Riverview Bancorp Inc,5.260000228881836,False,2009.0,,01-04,03-19,8.0,8.0,3.0,3.0,01-04,03-19,6.534322156202697
+236,REVSF,Riverstone Holdings Ltd,0.29750001430511475,True,2020.0,,,,,,,,,,
+237,RVSDF,Riverside Resources Inc,0.22419999539852142,False,2009.0,,06-17,08-31,6.0,6.0,5.0,5.0,06-17,08-31,8.933439877977507
+238,OPP,RiverNorth/DoubleLine Strategic Opportunity Fund I,14.079999923706055,True,2016.0,,,,,,,,,,
+239,RSF,RiverNorth Specialty Finance Corp,15.0600004196167,True,2019.0,,,,,,,,,,
+240,RIV,Rivernorth Opportunities Fund Inc,14.744999885559082,True,2016.0,,,,,,,,,,
+241,RMI,"RiverNorth Opportunistic Municipal Income Fund, In",21.049999237060547,True,2018.0,,,,,,,,,,
+242,RMM,RiverNorth Managed Duration Muni Inc Fd,17.520000457763672,True,2019.0,,,,,,,,,,
+243,RVDM,Riverdale Mining Inc,$0.22 ,True,,No data fetched for symbol RVDM using YahooDailyReader,,,,,,,,,
+244,RVCB,River Valley Community Bancorp,20.739999771118164,True,2011.0,,,,,,,,,,
+245,RIVR,River Valley Bancorp,$34.32 ,True,,'Date',,,,,,,,,
+246,RVRF,River Financial Corp,21.0,True,2018.0,,,,,,,,,,
+247,RCBC,River City Bank,153.0,False,2009.0,,03-22,06-05,10.0,10.0,1.0,1.0,02-21,05-06,5.170742408049289
+248,RVTI,Rival Technologies Inc,0.12995000183582306,True,2012.0,,,,,,,,,,
+249,RTTR,Ritter Pharmaceuticals Inc,$0.45 ,True,,No data fetched for symbol RTTR using YahooDailyReader,,,,,,,,,
+250,RTTO,Rito Group Corp,7.010000228881836,True,2017.0,,,,,,,,,,
+251,RAD,Rite Aid Corp,10.880000114440918,False,2009.0,,10-26,01-09,8.0,8.0,3.0,3.0,10-26,01-09,13.949090013311903
+252,RBA,Ritchie Bros Auctioneers Inc,64.4000015258789,False,2009.0,,10-26,01-09,6.0,6.0,5.0,5.0,10-26,01-09,4.754613953783227
+253,RITT,RIT Technologies Ltd,0.016200000420212746,False,2009.0,,01-21,04-05,6.0,6.0,5.0,5.0,01-21,04-05,0.9235748658575956
+254,RITPF,RIT Capital Partners PLC,25.200000762939453,False,2009.0,,08-22,11-05,6.0,6.0,5.0,5.0,10-07,12-21,3.704173387862926
+255,RYES,Rise Gold Corp,0.699999988079071,True,2012.0,,,,,,,,,,
+256,REDU,RISE Education Cayman Ltd,6.300000190734863,True,2017.0,,,,,,,,,,
+257,RIOT,Riot Blockchain Inc,5.650100231170654,True,2016.0,,,,,,,,,,
+258,RIOCF,Riocan Real Estate Investment Trust,13.107399940490723,False,2009.0,,10-27,01-10,5.0,5.0,6.0,6.0,02-28,05-13,1.069389300402723
+259,RIOFF,Rio2 Ltd,0.6306999921798706,True,2013.0,,,,,,,,,,
+260,RTPPF,Rio Tinto PLC,64.55000305175781,False,2009.0,,09-03,11-17,5.0,5.0,6.0,6.0,09-03,11-17,7.469183501465294
+261,RIO,Rio Tinto PLC,62.29999923706055,False,2009.0,,12-05,02-18,5.0,4.0,6.0,7.0,12-05,02-18,6.489450166333196
+262,RTNTF,Rio Tinto Ltd,72.19999694824219,False,2009.0,,12-12,02-25,7.0,5.0,4.0,6.0,12-12,02-25,7.342875728144332
+263,RYOOF,Rio Silver Inc,0.05982699990272522,False,2009.0,,12-05,02-18,2.0,2.0,9.0,9.0,12-05,02-18,-25.34174994169272
+264,DEIWY,Rio Paranapanema Energia SA,26.299999237060547,True,2011.0,,,,,,,,,,
+265,DEIPY,Rio Paranapanema Energia SA,6.329999923706055,True,2012.0,,,,,,,,,,
+266,RIVVF,Rio Novo Gold Inc,$0.11 ,True,,No data fetched for symbol RIVVF using YahooDailyReader,,,,,,,,,
+267,RIOB,Rio Bravo Oil Inc,0.019999999552965164,True,2019.0,,,,,,,,,,
+268,RINO,RINO International Corp,0.004999999888241291,False,2009.0,,06-15,08-29,4.0,4.0,7.0,7.0,06-15,08-29,-128.30897382959492
+269,RINIF,Rinnai Corp,62.0,True,2013.0,,,,,,,,,,
+270,RNG,RingCentral Inc,300.5450134277344,True,2013.0,,,,,,,,,,
+271,REI,Ring Energy Inc,0.5615000128746033,False,2009.0,,03-13,05-27,4.0,4.0,7.0,7.0,03-13,05-27,17.655214138086098
+272,RMNI,Rimini Street Inc,4.239999771118164,True,2015.0,,,,,,,,,,
+273,RNET,RigNet Inc,5.179999828338623,False,2010.0,,08-12,10-26,5.0,5.0,5.0,5.0,08-12,10-26,7.739357117212517
+274,NAME,Rightside Group Ltd,0.5299999713897705,True,2012.0,,,,,,,,,,
+275,RIHT,Rightscorp Inc,0.021199999377131462,True,2013.0,,,,,,,,,,
+276,RTMVY,Rightmove PLC,17.155000686645508,True,2012.0,,,,,,,,,,
+277,RTMVF,Rightmove PLC,8.800000190734863,False,2010.0,,03-31,06-14,6.0,6.0,4.0,4.0,03-31,06-14,9.396584215242118
+278,RIGL,Rigel Pharmaceuticals Inc,2.6600000858306885,False,2009.0,,05-22,08-05,7.0,7.0,4.0,4.0,05-22,08-05,5.441984729692326
+279,RRFFF,RIFCO Inc,$0.85 ,True,,No data fetched for symbol RRFFF using YahooDailyReader,,,,,,,,,
+280,RTRZY,Rieter Holding AG,$10.87 ,True,,No data fetched for symbol RTRZY using YahooDailyReader,,,,,,,,,
+281,RTRZF,Rieter Holding AG,$223.75 ,True,,No data fetched for symbol RTRZF using YahooDailyReader,,,,,,,,,
+282,RIDYF,Ridley Corp Ltd,0.6299999952316284,True,2012.0,,,,,,,,,,
+283,RIGMF,Ridgestone Mining Inc,0.058559998869895935,True,2018.0,,,,,,,,,,
+285,RDGA,Ridgefield Acquisition Corp,2.200000047683716,True,2012.0,,,,,,,,,,
+286,YAYO,Rideshare Rental Inc,0.43299999833106995,True,2019.0,,,,,,,,,,
+287,REXOF,RIDE ON EXPRESS Holdings Co Ltd,$0.51 ,True,,No data fetched for symbol REXOF using YahooDailyReader,,,,,,,,,
+288,RICOY,Ricoh Co Ltd,6.46999979019165,False,2009.0,,08-10,10-24,8.0,8.0,3.0,3.0,11-12,01-26,5.339401944853106
+289,RICOF,Ricoh Co Ltd,6.5,True,2013.0,,,,,,,,,,
+290,RCKMF,Rickmers Maritime,$0.03 ,True,,No data fetched for symbol RCKMF using YahooDailyReader,,,,,,,,,
+291,RIC,Richmont Mines Inc,4410.0,True,2012.0,,,,,,,,,,
+292,RMBI,Richmond Mutual Bancorp Inc,12.930000305175781,True,2019.0,,,,,,,,,,
+293,RMDFF,Richmond Minerals Inc,0.04408999904990196,True,2014.0,,,,,,,,,,
+294,TZNOF,Richland Resources Ltd,$0.03 ,True,,No data fetched for symbol TZNOF using YahooDailyReader,,,,,,,,,
+295,RIGG,Richland Resources International Group Inc,1.399999976158142,True,2020.0,,,,,,,,,,
+296,RRCH,Richland Resources Corp,$6.00 ,True,,'Date',,,,,,,,,
+297,RHUHF,Richelieu Hardware Ltd,27.850000381469727,True,2013.0,,,,,,,,,,
+298,RXHSF,Richco Investors Inc,5.999999848427251e-05,True,2019.0,,,,,,,,,,
+299,RELL,Richardson Electronics Ltd,4.579999923706055,False,2009.0,,11-14,01-28,4.0,4.0,7.0,7.0,11-14,01-28,6.257932122081687
+300,RPKIF,Richards Packaging Income Fund,51.099998474121094,False,2009.0,,04-04,06-18,11.0,11.0,0.0,0.0,04-04,06-18,13.791987759051366
+301,RIBT,RiceBran Technologies,0.6000000238418579,False,2009.0,,11-10,01-24,7.0,7.0,4.0,4.0,11-10,01-24,-2.0773177425957585
+302,RMP,Rice Midstream Partners LP,18.049999237060547,True,2014.0,,,,,,,,,,
+303,RICE,Rice Energy Inc,$29.32 ,True,,'Date',,,,,,,,,
+304,RCDOF,Ricardo PLC,4.900000095367432,True,2012.0,,,,,,,,,,
+305,RBBN,Ribbon Communications Inc,5.619999885559082,False,2009.0,,12-05,02-18,8.0,8.0,3.0,3.0,12-05,02-18,6.700412406608166
+306,LEAP,Ribbit LEAP Ltd,11.40999984741211,True,2020.0,,,,,,,,,,
+307,RSTAY,RIB Software SE,59.060001373291016,True,2013.0,,,,,,,,,,
+308,RSTAF,RIB Software SE,28.5,True,2013.0,,,,,,,,,,
+309,BLNKY,RhythmOne PLC,$17.48 ,True,,No data fetched for symbol BLNKY using YahooDailyReader,,,,,,,,,
+310,BLNKF,RhythmOne PLC,$2.15 ,True,,No data fetched for symbol BLNKF using YahooDailyReader,,,,,,,,,
+311,RYTM,Rhythm Pharmaceuticals Inc,21.364999771118164,True,2017.0,,,,,,,,,,
+312,RHRYF,Rhyolite Resources Ltd,0.6894000172615051,True,2020.0,,,,,,,,,,
+313,RLGHF,RHT Health Trust,$0.01 ,True,,No data fetched for symbol RLGHF using YahooDailyReader,,,,,,,,,
+314,RKAGY,Rhoen Klinikum AG,9.529999732971191,True,2013.0,,,,,,,,,,
+315,RHKJF,Rhoen Klinikum AG,19.441999435424805,True,2012.0,,,,,,,,,,
+316,RHNMF,Rhinomed Ltd,0.03689999878406525,True,2017.0,,,,,,,,,,
+317,RHNO,Rhino Resource Partners LP,0.03999999910593033,False,2010.0,,12-16,03-01,7.0,6.0,3.0,4.0,12-21,03-06,11.761863300116215
+318,RBKB,Rhinebeck Bancorp Inc,7.710000038146973,True,2019.0,,,,,,,,,,
+319,RMGNF,RHI Magnesita NV,28.0,True,2019.0,,,,,,,,,,
+320,RHHMY,RHI Magnesita NV,$60.83 ,True,,No data fetched for symbol RHHMY using YahooDailyReader,,,,,,,,,
+321,RXHKF,RHI AG,$38.04 ,True,,'Date',,,,,,,,,
+322,RNMBY,Rheinmetall AG,17.799999237060547,True,2012.0,,,,,,,,,,
+323,RNMBF,Rheinmetall AG,80.0,True,2012.0,,,,,,,,,,
+324,RHBAF,RHB Bank Bhd,1.1699999570846558,True,2013.0,,,,,,,,,,
+325,RH,RH,433.4599914550781,True,2012.0,,,,,,,,,,
+326,RGCO,RGC Resources Inc,24.34000015258789,False,2009.0,,08-29,11-12,7.0,5.0,4.0,6.0,08-25,11-08,4.402831845355305
+327,STHI,RG America Inc,0.12800000607967377,False,2009.0,,10-31,01-14,4.0,4.0,7.0,7.0,10-31,01-14,25.802058929520644
+328,RFMPF,RFM Corp,$0.07 ,True,,No data fetched for symbol RFMPF using YahooDailyReader,,,,,,,,,
+329,RFIL,RF Industries Ltd,4.6479997634887695,False,2009.0,,04-11,06-25,6.0,6.0,5.0,5.0,04-11,06-25,9.465920678781231
+330,RZLT,Rezolute Inc,19.920000076293945,True,2013.0,,,,,,,,,,
+331,REYN,Reynolds Consumer Products Inc,29.954999923706055,True,2020.0,,,,,,,,,,
+332,RAI,Reynolds American Inc,$65.40 ,True,,'Date',,,,,,,,,
+333,RSNVF,Reyna Silver Corp,0.6999499797821045,True,2020.0,,,,,,,,,,
+334,RXN,Rexnord Corp,37.310001373291016,True,2012.0,,,,,,,,,,
+335,REXHF,REXLot Holdings Ltd,$0.08 ,True,,No data fetched for symbol REXHF using YahooDailyReader,,,,,,,,,
+336,REXR,Rexford Industrial Realty Inc,48.81999969482422,True,2013.0,,,,,,,,,,
+337,RXLSF,Rexel SA,12.140000343322754,True,2013.0,,,,,,,,,,
+338,RXEEY,Rexel SA,12.994999885559082,True,2012.0,,,,,,,,,,
+339,REXMY,REXAM PLC,$42.60 ,True,,'Date',,,,,,,,,
+340,REXFF,REXAM PLC,$8.61 ,True,,No data fetched for symbol REXFF using YahooDailyReader,,,,,,,,,
+341,REXN,Rexahn Pharmaceuticals Inc,1.809999942779541,False,2009.0,,12-05,02-18,7.0,7.0,4.0,4.0,12-05,02-18,11.808496649138625
+342,RXRLF,Rex Minerals Ltd,0.12399999797344208,True,2020.0,,,,,,,,,,
+344,REXXQ,Rex Energy Corp,0.017999999225139618,True,2012.0,,,,,,,,,,
+345,REX,REX American Resources Corp,82.125,False,2009.0,,06-01,08-15,7.0,7.0,4.0,4.0,06-01,08-15,7.830598879185217
+346,RMLDF,Reward Minerals Ltd,$0.29 ,True,,No data fetched for symbol RMLDF using YahooDailyReader,,,,,,,,,
+347,RWLK,ReWalk Robotics Ltd,1.159999966621399,True,2014.0,,,,,,,,,,
+348,RVLV,Revolve Group Inc,19.875,True,2019.0,,,,,,,,,,
+349,RVMD,Revolution Medicines Inc,38.849998474121094,True,2020.0,,,,,,,,,,
+350,RVLT,Revolution Lighting Technologies Inc,0.10999999940395355,False,2009.0,,01-21,04-05,7.0,7.0,4.0,4.0,01-21,04-05,-0.26108300350125785
+400,REZI,Resideo Technologies Inc,17.360000610351562,True,2018.0,,,,,,,,,,
+401,RSLS,Reshape Lifesciences Inc,4.5,False,2009.0,,04-10,06-24,5.0,5.0,6.0,6.0,04-10,06-24,-34.41975912384421
+402,RGGI,Resgreen Group International Inc,0.019600000232458115,True,2013.0,,,,,,,,,,
+403,RVRLF,Reservoir Minerals Inc,$7.08 ,True,,No data fetched for symbol RVRLF using YahooDailyReader,,,,,,,,,
+404,RSERF,Reservoir Capital Corp,2.6029999256134033,True,2014.0,,,,,,,,,,
+405,RSSS,Research Solutions Inc,2.240000009536743,False,2010.0,,12-23,03-08,7.0,7.0,3.0,3.0,12-23,03-08,11.743314917681847
+406,REFR,Research Frontiers Inc,2.710200071334839,False,2009.0,,08-15,10-29,5.0,5.0,6.0,6.0,08-15,10-29,4.512144781619213
+407,RSASF,Resaas Services Inc,0.3799999952316284,True,2011.0,,,,,,,,,,
+408,RSG,Republic Services Inc,99.2699966430664,False,2009.0,,11-05,01-19,10.0,10.0,1.0,1.0,05-29,08-12,4.703554577872354
+409,FRBK,Republic First Bancorp Inc,2.950000047683716,False,2009.0,,11-07,01-21,6.0,6.0,5.0,5.0,11-07,01-21,10.184925993907392
+410,LGRCF,Republic Cement & Building Materials Inc,$0.19 ,True,,No data fetched for symbol LGRCF using YahooDailyReader,,,,,,,,,
+411,RBAZ,Republic Bank AZ NA,6.760000228881836,True,2013.0,,,,,,,,,,
+412,RBCAB,Republic Bancorp Inc,$32.62 ,True,,No data fetched for symbol RBCAB using YahooDailyReader,,,,,,,,,
+413,RBCAA,Republic Bancorp Inc,35.904998779296875,False,2009.0,,03-22,06-05,4.0,4.0,7.0,7.0,03-22,06-05,8.37347697913358
+414,RJETQ,Republic Airways Holdings Inc,0.03189999982714653,True,2012.0,,,,,,,,,,
+415,REPYY,Repsol SA,9.210000038146973,False,2009.0,,08-29,11-12,5.0,5.0,6.0,6.0,08-29,11-12,4.4841305503617
+416,REPYF,Repsol SA,9.279999732971191,False,2010.0,,09-05,11-19,6.0,6.0,4.0,4.0,09-05,11-19,4.64009697121753
+417,KRMD,Repro-Med Systems Inc,4.5,False,2009.0,,03-31,06-14,3.0,3.0,8.0,8.0,03-31,06-14,14.950064901007169
+418,RPYTF,Reply SpA,116.30999755859375,True,2016.0,,,,,,,,,,
+419,REPL,Replimune Group Inc,51.470001220703125,True,2018.0,,,,,,,,,,
+420,RGEN,Repligen Corp,185.50999450683594,False,2009.0,,02-23,05-08,6.0,6.0,5.0,5.0,02-23,05-08,9.910162293983928
+421,REPCF,RepliCel Life Sciences Inc,0.1889999955892563,False,2010.0,,10-27,01-10,4.0,4.0,6.0,6.0,10-27,01-10,10.489991635257654
+422,RPLA,Replay Acquisition Corp,10.119999885559082,True,2019.0,,,,,,,,,,
+423,RPAY,Repay Holdings Corp,21.7549991607666,True,2018.0,,,,,,,,,,
+424,NSEFF,Reparo Energy Partners Corp,$0.04 ,True,,'Date',,,,,,,,,
+425,RPTX,Repare Therapeutics Inc,27.850000381469727,True,2020.0,,,,,,,,,,
+426,REOP,Reo Plastics Inc,27.0,False,2009.0,,07-15,09-28,4.0,4.0,7.0,7.0,07-15,09-28,6.601550390092727
+427,GDYMF,Renu Energy Ltd,0.01899999938905239,False,2010.0,,12-24,03-09,3.0,3.0,7.0,7.0,12-24,03-09,5.070375202302769
+428,RENT,Rentrak Corp,$44.47 ,True,,'Date',,,,,,,,,
+429,RTOKY,Rentokil Initial PLC,34.2859992980957,False,2009.0,,11-15,01-29,6.0,6.0,5.0,5.0,11-15,01-29,4.8574854892559385
+430,RKLIF,Rentokil Initial PLC,6.90015983581543,False,2009.0,,03-25,06-08,4.0,4.0,7.0,7.0,03-25,06-08,11.303694319562295
+431,RNF,Rentech Nitrogen Partners LP,$11.41 ,True,,'Date',,,,,,,,,
+432,RTACF,Renta Corporacion Real Estate SA,4.081399917602539,True,2019.0,,,,,,,,,,
+433,RCII,Rent-A-Center Inc,33.744998931884766,False,2009.0,,10-31,01-14,4.0,4.0,7.0,7.0,10-31,01-14,4.309715946404292
+434,RENN,Renren Inc,3.7000999450683594,True,2011.0,,,,,,,,,,
+435,ROWKF,RenoWorks Software Inc,0.328000009059906,True,2012.0,,,,,,,,,,
+436,RNVT,Renovate Neighborhoods Inc,0.026000000536441803,False,2009.0,,01-06,03-21,6.0,6.0,5.0,5.0,01-06,03-21,15.684626364930013
+437,RCAR,RenovaCare Inc,3.559999942779541,False,2009.0,,11-23,02-06,8.0,8.0,3.0,3.0,11-23,02-06,16.97771917692533
+438,RNOPF,Renold PLC,$0.59 ,True,,No data fetched for symbol RNOPF using YahooDailyReader,,,,,,,,,
+439,RNVA,Rennova Health Inc,0.02969999983906746,False,2009.0,,08-22,11-05,3.0,3.0,8.0,8.0,08-22,11-05,-42.921725709494865
+440,RCG,RENN Fund Inc,1.5549999475479126,False,2009.0,,12-20,03-05,6.0,6.0,5.0,5.0,12-20,03-05,3.7727588617360164
+441,RNSHY,Renishaw PLC,24.299999237060547,True,2018.0,,,,,,,,,,
+442,RNSHF,Renishaw PLC,71.0,True,2013.0,,,,,,,,,,
+443,RNGOF,Rengo Co Ltd,$5.50 ,True,,No data fetched for symbol RNGOF using YahooDailyReader,,,,,,,,,
+444,RFHRF,Renforth Resources Inc,0.05000000074505806,True,2019.0,,,,,,,,,,
+445,SHMCF,Renewi PLC,0.3100000023841858,True,2013.0,,,,,,,,,,
+446,RNWF,Renewal Fuels Inc,0.006800000090152025,False,2009.0,,01-15,03-30,7.0,7.0,4.0,4.0,01-15,03-30,7.477659772864312
+447,RWFC,Renewable Fuel Corp,1.75,True,2012.0,,,,,,,,,,
+448,RESS,Renewable Energy Solution Systems Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+449,REGI,Renewable Energy Group Inc,53.769901275634766,True,2012.0,,,,,,,,,,
+450,RWEDQ,Renewable Energy Development Corp,$0.03 ,True,,No data fetched for symbol RWEDQ using YahooDailyReader,,,,,,,,,
+451,RNWB,Renewable Corp,0.004999999888241291,True,2012.0,,,,,,,,,,
+452,RNUGF,ReNeuron Group PLC,1.2799999713897705,False,2009.0,,12-22,03-07,6.0,6.0,5.0,5.0,12-22,03-07,14.670774479579144
+453,SOL,ReneSola Ltd,5.019999980926514,False,2009.0,,12-10,02-23,6.0,6.0,5.0,5.0,12-10,02-23,14.688283986972316
+454,RNECY,Renesas Electronics Corp,4.260000228881836,False,2009.0,,08-23,11-06,8.0,8.0,3.0,3.0,08-23,11-06,6.581712697938556
+455,RNECF,Renesas Electronics Corp,8.979999542236328,False,2010.0,,09-30,12-14,6.0,6.0,4.0,4.0,09-30,12-14,8.217208192947677
+456,RIII,Renavotio Inc,0.09000000357627869,True,2020.0,,,,,,,,,,
+457,RNSDF,Renault SA,37.0,True,2012.0,,,,,,,,,,
+458,RNLSY,Renault SA,7.324999809265137,True,2015.0,,,,,,,,,,
+459,RNST,Renasant Corp,31.329999923706055,False,2009.0,,08-17,10-31,6.0,6.0,5.0,5.0,09-25,12-09,6.287387723785457
+460,RNLX,Renalytix AI PLC,12.0,True,2020.0,,,,,,,,,,
+461,RTNXF,Renalytix AI PLC,6.349999904632568,True,2019.0,,,,,,,,,,
+462,RNR,RenaissanceRe Holdings Ltd,176.97000122070312,False,2009.0,,05-17,07-31,9.0,9.0,2.0,2.0,05-17,07-31,4.460599421449682
+463,RNSFF,Renaissance Oil Corp,0.055799998342990875,True,2014.0,,,,,,,,,,
+464,RNSGF,Renaissance Gold Inc,0.4399999976158142,True,2013.0,,,,,,,,,,
+465,RNCG,Renaissance Capital Group,$0.01 ,True,,'Date',,,,,,,,,
+466,RENZF,REN-Redes Energeticas Nacionais Sgps SA,$2.90 ,True,,No data fetched for symbol RENZF using YahooDailyReader,,,,,,,,,
+467,REMY,"Remy International, Inc.",$29.48 ,True,,'Date',,,,,,,,,
+468,REMYY,Remy Cointreau,18.260000228881836,True,2014.0,,,,,,,,,,
+469,REMYF,Remy Cointreau,176.3000030517578,False,2010.0,,03-30,06-13,6.0,6.0,4.0,4.0,03-30,06-13,7.438765223128676
+470,RMGOF,Remgro Ltd,5.039999961853027,True,2014.0,,,,,,,,,,
+471,RGXX,RemeGenix Inc,$4.00 ,True,,No data fetched for symbol RGXX using YahooDailyReader,,,,,,,,,
+472,REMI,Remedent Inc,0.14000000059604645,False,2009.0,,01-13,03-28,4.0,4.0,7.0,7.0,01-13,03-28,9.485629123332313
+473,MARK,Remark Holdings Inc,1.090000033378601,False,2009.0,,03-06,05-20,3.0,3.0,8.0,8.0,03-06,05-20,3.501306261744597
+474,RLYP,Relypsa Inc,$31.99 ,True,,'Date',,,,,,,,,
+475,RLXXF,RELX PLC,23.600000381469727,False,2010.0,,03-18,06-01,3.0,3.0,6.0,6.0,10-23,01-06,6.3702492522757845
+476,RELX,RELX PLC,23.520000457763672,False,2009.0,,03-15,05-29,7.0,7.0,4.0,4.0,03-13,05-27,3.895977363711919
+477,RDLSF,RELX NV,$21.45 ,True,,No data fetched for symbol RDLSF using YahooDailyReader,,,,,,,,,
+478,RENX,RELX NV,21.190000534057617,True,2012.0,,,,,,,,,,
+479,RELOF,Relo Group Inc,$23.49 ,True,,No data fetched for symbol RELOF using YahooDailyReader,,,,,,,,,
+480,RLMD,Relmada Therapeutics Inc,35.81999969482422,True,2014.0,,,,,,,,,,
+481,RLLHF,Rella Holding A/S,$11.48 ,True,,No data fetched for symbol RLLHF using YahooDailyReader,,,,,,,,,
+482,RELV,Reliv' International Inc,3.680299997329712,False,2009.0,,04-03,06-17,5.0,5.0,6.0,6.0,04-03,06-17,4.603851936759972
+483,RQHTF,Reliq Health Technologies Inc,0.2001499980688095,False,2010.0,,09-24,12-08,2.0,2.0,8.0,8.0,09-24,12-08,13.542419576478846
+484,RLFTF,Relief Therapeutics Holding AG,0.4350000023841858,True,2020.0,,,,,,,,,,
+485,RELT,Reliant Holdings Inc,0.15000000596046448,True,2020.0,,,,,,,,,,
+486,RBNC,Reliant Bancorp Inc,18.139999389648438,True,2012.0,,,,,,,,,,
+487,RLLWF,Reliance Worldwide Corp Ltd,3.0299999713897705,True,2016.0,,,,,,,,,,
+488,RS,Reliance Steel & Aluminum Co,117.8949966430664,False,2009.0,,09-25,12-09,8.0,8.0,3.0,3.0,09-25,12-09,8.370958291305465
+489,RELFF,Reliance Infrastructure Ltd,1.0399999618530273,True,2013.0,,,,,,,,,,
+490,RLNIY,Reliance Industries Ltd,$68.23 ,True,,'Date',,,,,,,,,
+491,RELI,Reliance Global Group Inc,0.07750000059604645,True,2015.0,,,,,,,,,,
+492,RLBS,Reliance Bancshares Inc,$1.64 ,True,,No data fetched for symbol RLBS using YahooDailyReader,,,,,,,,,
+493,RLBY,Reliability Inc,0.0949999988079071,False,2009.0,,03-20,06-03,3.0,3.0,8.0,8.0,03-20,06-03,20.76089046316569
+494,RLLVF,Relevium Technologies Inc,0.027000000700354576,True,2017.0,,,,,,,,,,
+495,RLAY,Relay Therapeutics Inc,54.69499969482422,True,2020.0,,,,,,,,,,
+496,RYMDF,Relay Medical Corp,0.19140000641345978,True,2014.0,,,,,,,,,,
+497,REKR,Rekor Systems Inc,3.990000009536743,True,2017.0,,,,,,,,,,
+498,RKIGF,Reko International Group Inc,2.3025999069213867,True,2013.0,,,,,,,,,,
+499,RTMNF,Reitmans (Canada) Ltd,0.13449999690055847,True,2013.0,,,,,,,,,,
+500,RTMAF,Reitmans (Canada) Ltd,0.05000000074505806,False,2009.0,,06-13,08-27,5.0,4.0,6.0,7.0,06-15,08-29,0.37568621344791264
+501,RETDF,Reit 1 Ltd,5.0,True,2019.0,,,,,,,,,,
+502,REIS,Reis Inc,41.25,True,2013.0,,,,,,,,,,
+503,RTP,Reinvent Technology Partners,10.670000076293945,True,2020.0,,,,,,,,,,
+504,RGA,Reinsurance Group of America Inc,114.90499877929688,False,2009.0,,09-18,12-02,10.0,10.0,1.0,1.0,09-26,12-10,6.428149230424893
+505,REVNF,Reinet Investments SCA,17.75,True,2012.0,,,,,,,,,,
+506,RGLS,Regulus Therapeutics Inc,0.6025000214576721,True,2012.0,,,,,,,,,,
+507,RGLSF,Regulus Resources Inc,0.8967700004577637,True,2013.0,,,,,,,,,,
+508,RPMT,Rego Payment Architectures Inc,0.7200000286102295,False,2010.0,,01-06,03-21,6.0,6.0,4.0,4.0,01-06,03-21,7.588962961259285
+509,RGMP,Regnum Corp,0.050999999046325684,True,2019.0,,,,,,,,,,
+510,RGRNF,Regis Resources Ltd,2.8399999141693115,True,2012.0,,,,,,,,,,
+511,RGS,Regis Corp,7.222499847412109,False,2009.0,,08-17,10-31,7.0,7.0,4.0,4.0,08-17,10-31,4.623892399791153
+512,RF,Regions Financial Corp,15.1850004196167,False,2009.0,,10-24,01-07,8.0,8.0,3.0,3.0,10-24,01-07,7.359650408606257
+513,RM,Regional Management Corp,26.5,True,2012.0,,,,,,,,,,
+514,RHE,Regional Health Properties Inc,1.4200999736785889,True,2017.0,,,,,,,,,,
+515,RGBD,Regional Brands Inc,10.0,False,2009.0,,04-14,06-28,2.0,2.0,9.0,9.0,04-14,06-28,15.380393135143533
+516,RGBC,Regional Bankshares Inc,13.5,True,2014.0,,,,,,,,,,
+517,RGUS,Regi US Inc,0.009999999776482582,False,2009.0,,12-05,02-18,5.0,5.0,6.0,6.0,12-05,02-18,11.17828590134225
+518,RGNX,Regenxbio Inc,36.45000076293945,True,2015.0,,,,,,,,,,
+519,RPGLF,Regent Pacific Group Ltd,0.019999999552965164,False,2009.0,,09-11,11-25,3.0,3.0,7.0,7.0,09-11,11-25,18.759920729957052
+520,RGTB,Regent Bancorp Inc,$9.39 ,True,,'Date',,,,,,,,,
+521,RGIN,Regenicin Inc,0.006800000090152025,False,2009.0,,01-08,03-23,6.0,6.0,5.0,5.0,01-08,03-23,12.098724177403096
+522,RGRX,Regenerx Biopharmaceuticals Inc,0.589900016784668,False,2009.0,,12-26,03-11,7.0,7.0,4.0,4.0,12-26,03-11,23.662843544403763
+523,REGN,Regeneron Pharmaceuticals Inc,517.7000122070312,False,2009.0,,03-25,06-08,9.0,9.0,2.0,2.0,03-25,06-08,10.681887024059094
+524,REG,Regency Centers Corp,47.290000915527344,False,2009.0,,12-15,02-28,8.0,8.0,3.0,3.0,12-14,02-27,4.19004410572469
+525,RAFI,Regency Affiliates Inc,5.179999828338623,False,2009.0,,08-28,11-11,8.0,8.0,3.0,3.0,12-26,03-11,6.281303648291558
+526,RGBOQ,ReGen Biologics Inc,0.009449999779462814,False,2009.0,,06-11,08-25,7.0,7.0,4.0,4.0,06-11,08-25,3.904522702493776
+527,RWMI,RegalWorks Media Inc,0.02500000037252903,True,2013.0,,,,,,,,,,
+528,RWGE,Regalwood Global Energy Ltd,$10.36 ,True,,No data fetched for symbol RWGE using YahooDailyReader,,,,,,,,,
+529,RREIF,Regal Real Estate Investment Trust,0.27000001072883606,True,2013.0,,,,,,,,,,
+530,RLIFF,Regal Lifestyle Communities Inc,$9.59 ,True,,No data fetched for symbol RLIFF using YahooDailyReader,,,,,,,,,
+531,REGHF,Regal Hotels International Holdings Ltd,$0.48 ,True,,No data fetched for symbol REGHF using YahooDailyReader,,,,,,,,,
+532,RGC,Regal Entertainment Group,22.989999771118164,True,2012.0,,,,,,,,,,
+533,RBC,Regal Beloit Corp,118.48069763183594,False,2009.0,,10-25,01-08,8.0,8.0,3.0,3.0,10-25,01-08,6.543244872017128
+534,RGBM,Regal Bancorp Inc,$12.70 ,True,,No data fetched for symbol RGBM using YahooDailyReader,,,,,,,,,
+535,RFFRY,Refresco Group NV,$22.60 ,True,,No data fetched for symbol RFFRY using YahooDailyReader,,,,,,,,,
+536,RFCS,Refocus Group Inc,0.019999999552965164,False,2009.0,,12-30,03-15,9.0,9.0,2.0,2.0,12-30,03-15,19.540343849061372
+537,RSCF,Reflect Scientific Inc,0.19499999284744263,False,2009.0,,07-17,09-30,4.0,4.0,7.0,7.0,07-17,09-30,24.304360527262546
+538,RLTR,Reeltime Rentals Inc,0.18000000715255737,False,2009.0,,03-20,06-03,7.0,7.0,4.0,4.0,03-20,06-03,4.916111158856388
+539,RCIT,Reelcause Inc,1704.8299560546875,False,2009.0,,03-09,05-23,8.0,8.0,3.0,3.0,03-09,05-23,4.450917245079963
+540,RCTUF,Reef Casino Trust,1.350000023841858,True,2013.0,,,,,,,,,,
+541,REED,Reed's Inc,0.7197999954223633,False,2009.0,,04-19,07-03,5.0,5.0,6.0,6.0,04-19,07-03,6.0472116430225755
+542,REECF,Reece Ltd,8.800000190734863,True,2019.0,,,,,,,,,,
+543,RBZHF,Reebonz Holding Ltd,0.032999999821186066,True,2017.0,,,,,,,,,,
+544,RWT,Redwood Trust Inc,8.779999732971191,False,2009.0,,11-06,01-20,8.0,8.0,3.0,3.0,11-12,01-26,3.9970664539271135
+545,RSCI,Redwood Scientific Technologies Inc,0.01549999974668026,True,2016.0,,,,,,,,,,
+546,BVPIF,Redwood Monthly Income Fund,$7.54 ,True,,No data fetched for symbol BVPIF using YahooDailyReader,,,,,,,,,
+547,REDW,Redwood Financial,115.30000305175781,False,2009.0,,01-16,03-31,7.0,7.0,4.0,4.0,01-16,03-31,9.376102094911213
+548,BAOGF,Redwood Energy Income Fund,$1.87 ,True,,No data fetched for symbol BAOGF using YahooDailyReader,,,,,,,,,
+549,RWCB,Redwood Capital Bancorp,12.850000381469727,False,2009.0,,03-14,05-28,7.0,7.0,4.0,4.0,10-28,01-11,5.4179403764479055
+550,RTAS,REDtone Asia Inc,0.13650000095367432,True,2012.0,,,,,,,,,,
+551,CAMCF,RedT Energy PLC,$0.04 ,True,,No data fetched for symbol CAMCF using YahooDailyReader,,,,,,,,,
+552,RDLCF,Redline Communications Group Inc,0.40053999423980713,True,2013.0,,,,,,,,,,
+553,RDCPF,Redishred Capital Corp,0.4000000059604645,True,2013.0,,,,,,,,,,
+554,REDFY,Rediff.com India Ltd,0.021400000900030136,False,2009.0,,02-07,04-22,6.0,6.0,5.0,5.0,02-07,04-22,8.598902244719655
+555,REDIF,Redhill Biopharma Ltd,0.6700000166893005,True,2012.0,,,,,,,,,,
+556,RDHL,Redhill Biopharma Ltd,8.84000015258789,True,2013.0,,,,,,,,,,
+557,RHWKF,Redhawk Resources Inc,0.04340000078082085,True,2012.0,,,,,,,,,,
+558,PNNRF,Redfund Capital Corp,0.012799999676644802,True,2018.0,,,,,,,,,,
+559,REFXF,RedFlow Ltd,0.03500000014901161,True,2019.0,,,,,,,,,,
+560,RFLXY,Redflex Holdings Ltd,$1.53 ,True,,No data fetched for symbol RFLXY using YahooDailyReader,,,,,,,,,
+561,RFLXF,Redflex Holdings Ltd,0.25,False,2009.0,,07-14,09-27,4.0,4.0,7.0,7.0,07-14,09-27,2.9065434964188634
+562,RDFN,Redfin Corp,43.47999954223633,True,2017.0,,,,,,,,,,
+563,RDFD,Redfield Energy LLC,0.5,True,2018.0,,,,,,,,,,
+564,RDCO,Redefy Corp,0.009999999776482582,True,2012.0,,,,,,,,,,
+565,RDPEF,Redefine Properties Ltd,0.1599999964237213,True,2014.0,,,,,,,,,,
+566,RDDC,Reddy Ice Holdings Inc,$0.05 ,True,,No data fetched for symbol RDDC using YahooDailyReader,,,,,,,,,
+567,NGTEF,Redde Northgate PLC,5.360000133514404,True,2014.0,,,,,,,,,,
+568,RDBBY,Redbubble Ltd,32.20000076293945,True,2020.0,,,,,,,,,,
+569,RDBBF,Redbubble Ltd,3.299999952316284,True,2016.0,,,,,,,,,,
+570,RBAC,RedBall Acquisition Corp,10.479999542236328,True,2020.0,,,,,,,,,,
+571,RWBYF,Red White & Bloom Brands Inc,0.5449000000953674,True,2020.0,,,,,,,,,,
+572,TDRYF,Red White & Bloom Brands Inc,$0.08 ,True,,No data fetched for symbol TDRYF using YahooDailyReader,,,,,,,,,
+573,RDVT,Red Violet Inc,22.5,True,2018.0,,,,,,,,,,
+574,REGX,Red Trail Energy LLC,0.949999988079071,True,2012.0,,,,,,,,,,
+575,RRR,Red Rock Resorts Inc,21.934999465942383,True,2016.0,,,,,,,,,,
+576,RRGB,Red Robin Gourmet Burgers Inc,18.8799991607666,False,2009.0,,02-02,04-17,8.0,8.0,3.0,3.0,02-02,04-17,-1.4324339398898804
+577,RRBI,Red River Bancshares Inc,49.5,True,2019.0,,,,,,,,,,
+578,RDEXF,Red Pine Exploration Inc,0.03345999866724014,False,2009.0,,10-26,01-09,6.0,6.0,5.0,5.0,10-26,01-09,12.2728707328111
+579,UNIGF,Red Oak Mining Corp,$0.01 ,True,,No data fetched for symbol UNIGF using YahooDailyReader,,,,,,,,,
+580,RMES,Red Metal Resources Ltd,0.08399999886751175,False,2009.0,,09-09,11-23,6.0,6.0,5.0,5.0,09-09,11-23,17.478976989679627
+581,RLH,Red Lion Hotels Corp,2.309999942779541,False,2009.0,,11-13,01-27,5.0,5.0,6.0,6.0,11-13,01-27,6.00147385522439
+582,TRUFF,Red Light Holland Corp,0.062199998646974564,True,2020.0,,,,,,,,,,
+583,REMPF,Red Emperor Resources NL,$0.05 ,True,,No data fetched for symbol REMPF using YahooDailyReader,,,,,,,,,
+584,RDEIY,Red Electrica Corporacion SA,9.760000228881836,False,2010.0,,05-06,07-20,5.0,5.0,5.0,5.0,11-12,01-26,4.000253952259717
+585,RDEIF,Red Electrica Corporacion SA,19.5,False,2009.0,,11-12,01-26,6.0,6.0,5.0,5.0,11-12,01-26,5.209402368789778
+586,XRELF,Red Eagle Exploration Ltd,$0.09 ,True,,No data fetched for symbol XRELF using YahooDailyReader,,,,,,,,,
+587,RCAT,Red Cat Holdings Inc,0.7975000143051147,True,2012.0,,,,,,,,,,
+588,RFVVF,Red 5 Ltd,$0.11 ,True,,No data fetched for symbol RFVVF using YahooDailyReader,,,,,,,,,
+589,RDFLY,Red 5 Ltd,$9.40 ,True,,No data fetched for symbol RDFLY using YahooDailyReader,,,,,,,,,
+590,IDSA,Recycling Asset Holdings Inc,$1.12 ,True,,No data fetched for symbol IDSA using YahooDailyReader,,,,,,,,,
+591,RCRT,Recruiter.Com Group Inc,1.725000023841858,True,2012.0,,,,,,,,,,
+592,RCRUY,Recruit Holdings Co Ltd,8.630000114440918,True,2018.0,,,,,,,,,,
+593,RCRRF,Recruit Holdings Co Ltd,43.68000030517578,True,2016.0,,,,,,,,,,
+594,REPH,Recro Pharma Inc,1.9299999475479126,True,2014.0,,,,,,,,,,
+595,RCDTF,Recordati SpA,54.9900016784668,False,2010.0,,03-24,06-07,2.0,2.0,8.0,8.0,05-27,08-10,7.700449611391012
+596,RECAF,Reconnaissance Energy Africa Ltd,1.149999976158142,True,2017.0,,,,,,,,,,
+597,RCON,Recon Technology Ltd,1.149999976158142,False,2009.0,,05-26,08-09,7.0,7.0,4.0,4.0,05-26,08-09,8.848667160561073
+598,RYPTF,Reckson New York Property Trust,$0.02 ,True,,No data fetched for symbol RYPTF using YahooDailyReader,,,,,,,,,
+599,RBGPF,Reckitt Benckiser Group PLC,87.80000305175781,False,2009.0,,03-02,05-16,6.0,6.0,5.0,5.0,03-02,05-16,4.418239671677246
+600,RBGLY,Reckitt Benckiser Group PLC,18.09000015258789,False,2009.0,,03-06,05-20,8.0,7.0,3.0,4.0,05-13,07-27,4.19325555238407
+601,RCPHF,Recipharm AB,16.049999237060547,True,2020.0,,,,,,,,,,
+602,RCPUF,Recipe Unlimited Corp,8.602899551391602,True,2020.0,,,,,,,,,,
+603,RCLHF,Recall Holdings Ltd,$5.80 ,True,,No data fetched for symbol RCLHF using YahooDailyReader,,,,,,,,,
+604,RNWEY,REC Silicon ASA,1.2450000047683716,True,2013.0,,,,,,,,,,
+605,RNWEF,REC Silicon ASA,1.2300000190734863,False,2009.0,,12-24,03-09,8.0,8.0,3.0,3.0,12-24,03-09,3.6145876242967794
+606,RBOR,Rebornne (USA) Inc,$0.04 ,True,,'Date',,,,,,,,,
+607,REBL,Rebel Group Inc,3.0,True,2013.0,,,,,,,,,,
+608,UTG,Reaves Utility Income Fund,33.1879997253418,False,2009.0,,03-18,06-01,8.0,8.0,3.0,3.0,11-23,02-06,5.143305632238854
+609,RETA,Reata Pharmaceuticals Inc,165.3800048828125,True,2016.0,,,,,,,,,,
+610,O,Realty Income Corp,60.66999816894531,False,2009.0,,11-12,01-26,10.0,9.0,1.0,2.0,06-11,08-25,3.814988264727367
+611,CVHL,Realty Finance Corp,0.006800000090152025,False,2009.0,,09-23,12-07,5.0,5.0,6.0,6.0,09-23,12-07,4.078561367123438
+612,RLTKF,Realtek Semiconductor Corp,$4.97 ,True,,No data fetched for symbol RLTKF using YahooDailyReader,,,,,,,,,
+613,RP,RealPage Inc,64.00499725341797,False,2010.0,,05-03,07-17,4.0,4.0,6.0,6.0,05-03,07-17,5.041977148719552
+614,RLGY,Realogy Holdings Corp,11.164999961853027,True,2012.0,,,,,,,,,,
+615,RNWK,RealNetworks Inc,1.3549000024795532,False,2009.0,,11-20,02-03,6.0,6.0,5.0,5.0,11-20,02-03,6.1201099031927875
+616,RLM,Realm Therapeutics PLC,$2.50 ,True,,No data fetched for symbol RLM using YahooDailyReader,,,,,,,,,
+617,RLD,RealD Inc,$11.00 ,True,,'Date',,,,,,,,,
+618,RLLMF,Real Matters Inc,19.06456184387207,True,2017.0,,,,,,,,,,
+619,RLGDF,Real Good Food PLC,0.05000000074505806,True,2014.0,,,,,,,,,,
+620,RLBD,Real Brands Inc,0.02800000086426735,True,2012.0,,,,,,,,,,
+621,RLAB,Real American Capital Corp,0.029999999329447746,True,2012.0,,,,,,,,,,
+622,RCTC,Ready Credit Corp,0.25,True,2012.0,,,,,,,,,,
+623,RC,Ready Capital Corp,12.979999542236328,True,2013.0,,,,,,,,,,
+624,RDIB,Reading International Inc,17.969999313354492,True,2012.0,,,,,,,,,,
+625,RDI,Reading International Inc,3.490000009536743,False,2009.0,,11-03,01-17,5.0,5.0,6.0,6.0,11-03,01-17,5.076487558200807
+626,RHCO,Readen Holding Corp,0.03849999979138374,True,2012.0,,,,,,,,,,
+627,RLOC,ReachLocal Inc,$4.60 ,True,,'Date',,,,,,,,,
+628,RTTTF,reach4entertainment Enterprises PLC,$0.02 ,True,,No data fetched for symbol RTTTF using YahooDailyReader,,,,,,,,,
+629,TNMRY,Reach PLC,1.3600000143051147,True,2010.0,,,,,,,,,,
+630,TNMRF,Reach PLC,$2.50 ,True,,No data fetched for symbol TNMRF using YahooDailyReader,,,,,,,,,
+631,REAC,REAC Group Inc,0.15000000596046448,True,2012.0,,,,,,,,,,
+632,RPGRY,REA Group Ltd,11.5,True,2016.0,,,,,,,,,,
+633,RPGRF,REA Group Ltd,77.27999877929688,True,2014.0,,,,,,,,,,
+634,RMAX,RE/MAX Holdings Inc,30.059999465942383,True,2013.0,,,,,,,,,,
+635,RROYF,RE Royalties Ltd,1.1269999742507935,True,2020.0,,,,,,,,,,
+636,RGDEF,RDX Technologies Corp,0.017899999395012856,True,2011.0,,,,,,,,,,
+637,RDMKF,RDM Corp,$4.06 ,True,,'Date',,,,,,,,,
+638,RDIRF,RDI REIT PLC,0.7907000184059143,True,2020.0,,,,,,,,,,
+639,RSTN,RDE Inc,0.9900000095367432,True,2020.0,,,,,,,,,,
+640,RZSMF,RCS Mediagroup SpA,0.6000000238418579,True,2016.0,,,,,,,,,,
+641,RCAPQ,RCS Capital Corp,$0.01 ,True,,'Date',,,,,,,,,
+642,RCMT,RCM Technologies Inc,1.4240000247955322,False,2009.0,,10-02,12-16,5.0,5.0,6.0,6.0,10-02,12-16,6.9205733082658485
+643,RCMFF,RCM Beteiligungs AG,$2.05 ,True,,No data fetched for symbol RCMFF using YahooDailyReader,,,,,,,,,
+644,RCLFF,RCL Foods Ltd,0.6759399771690369,True,2020.0,,,,,,,,,,
+645,RICK,RCI Hospitality Holdings Inc,27.0,False,2009.0,,12-14,02-27,8.0,8.0,3.0,3.0,12-14,02-27,11.732750037323527
+646,RBRWF,RBI Ventures Ltd,0.05000000074505806,True,2013.0,,,,,,,,,,
+647,RBCL,RBC Life Sciences Inc,0.10999999940395355,False,2009.0,,05-29,08-12,4.0,4.0,7.0,7.0,05-29,08-12,7.357758476092094
+648,ROLL,RBC Bearings Inc,164.3300018310547,False,2009.0,,09-06,11-20,5.0,5.0,6.0,6.0,09-06,11-20,7.826948558303605
+649,RBB,RBB Bancorp,14.859999656677246,True,2017.0,,,,,,,,,,
+650,RZREF,Razor Energy Corp,0.07209999859333038,True,2017.0,,,,,,,,,,
+651,RZZRY,Razer Inc,6.849999904632568,True,2018.0,,,,,,,,,,
+652,RAZFF,Razer Inc,0.3400000035762787,True,2017.0,,,,,,,,,,
+653,RTX,Raytheon Technologies Corp,69.72000122070312,False,2009.0,,10-11,12-25,10.0,10.0,1.0,1.0,10-15,12-29,5.688063176718772
+654,RTN,Raytheon Co,$116.96 ,True,,No data fetched for symbol RTN using YahooDailyReader,,,,,,,,,
+655,RSLBF,RaySearch Laboratories AB,11.149999618530273,True,2015.0,,,,,,,,,,
+656,RAYT,Rayont Inc,0.75,True,2012.0,,,,,,,,,,
+657,RYN,Rayonier Inc,27.100000381469727,False,2009.0,,02-16,05-01,9.0,9.0,2.0,2.0,02-17,05-02,6.019041316634032
+658,RYAM,Rayonier Advanced Materials Inc,5.610000133514404,True,2014.0,,,,,,,,,,
+659,RYWKF,Raymond Ltd,$20.86 ,True,,No data fetched for symbol RYWKF using YahooDailyReader,,,,,,,,,
+660,RJF,Raymond James Financial Inc,88.55999755859375,False,2009.0,,10-27,01-10,9.0,9.0,2.0,2.0,10-27,01-10,7.605290513398732
+661,RVVQF,Ravenquest BioMed Inc,0.007499999832361937,True,2018.0,,,,,,,,,,
+662,RVNRF,Raven Property Group Ltd,$0.54 ,True,,No data fetched for symbol RVNRF using YahooDailyReader,,,,,,,,,
+663,RAVN,Raven Industries Inc,23.264999389648438,False,2009.0,,10-10,12-24,6.0,6.0,5.0,5.0,10-10,12-24,5.643587492547962
+664,RAVE,Rave Restaurant Group Inc,0.8378000259399414,False,2009.0,,06-03,08-17,7.0,7.0,4.0,4.0,06-03,08-17,6.943460216931324
+665,RTLR,Rattler Midstream LP,8.25,True,2019.0,,,,,,,,,,
+666,RTOBF,Ratos AB,3.640000104904175,True,2013.0,,,,,,,,,,
+667,RTLLF,Rational AG,845.5,False,2010.0,,11-11,01-25,8.0,8.0,2.0,2.0,11-11,01-25,4.659627841031479
+668,RATIY,Rational AG,41.099998474121094,True,2015.0,,,,,,,,,,
+669,RTIOF,Ratio Petroleum Energy LP,0.8593000173568726,True,2019.0,,,,,,,,,,
+670,RTEXF,Ratio Oil Exploration (1992) LP,0.36000001430511475,True,2018.0,,,,,,,,,,
+671,RATHF,Rathdowney Resources Ltd,0.04820000007748604,True,2012.0,,,,,,,,,,
+672,RTBBF,Rathbone Brothers PLC,20.350000381469727,True,2017.0,,,,,,,,,,
+673,RGPCF,Ratch Group PCL,1.7200000286102295,True,2020.0,,,,,,,,,,
+674,SNCVF,Rassini SAB de CV,4.145100116729736,True,2014.0,,,,,,,,,,
+675,SNCCF,Rassini SAB de CV,2.072200059890747,True,2017.0,,,,,,,,,,
+676,RASP,Rasna Therapeutics Inc,0.07000000029802322,True,2015.0,,,,,,,,,,
+677,REEMF,Rare Element Resources Ltd,0.5745000243186951,False,2009.0,,12-15,02-28,5.0,5.0,6.0,6.0,12-15,02-28,11.250536955261405
+678,RAQUF,RaQualia Pharma Inc,$13.65 ,True,,No data fetched for symbol RAQUF using YahooDailyReader,,,,,,,,,
+679,RPTP,Raptor Pharmaceutical Corp,$9.00 ,True,,'Date',,,,,,,,,
+680,RAPT,RAPT Therapeutics Inc,15.90999984741211,True,2019.0,,,,,,,,,,
+681,RPGIF,Rapier Gold Inc,$0.06 ,True,,No data fetched for symbol RPGIF using YahooDailyReader,,,,,,,,,
+682,RPD,Rapid7 Inc,71.69999694824219,True,2015.0,,,,,,,,,,
+683,RTSL,Rapid Therapeutic Science Laboratories Inc,0.7818999886512756,True,2017.0,,,,,,,,,,
+684,RPNRF,Rapid Nutrition PLC,0.20000000298023224,True,2019.0,,,,,,,,,,
+685,RDTCF,Rapid Dose Therapeutics Corp,0.26109999418258667,True,2019.0,,,,,,,,,,
+686,RPNMF,Rapala VMC Corp,2.75,True,2012.0,,,,,,,,,,
+687,PACK,Ranpak Holdings Corp,11.15999984741211,True,2018.0,,,,,,,,,,
+688,RANKF,Rank Group (The) PLC,1.7699999809265137,True,2012.0,,,,,,,,,,
+689,RNGFF,Rangers International Football Club PLC,$0.01 ,True,,No data fetched for symbol RNGFF using YahooDailyReader,,,,,,,,,
+690,RNGR,Ranger Energy Services Inc,3.2100000381469727,True,2017.0,,,,,,,,,,
+691,RGFR,Rangeford Resources Inc,$0.23 ,True,,No data fetched for symbol RGFR using YahooDailyReader,,,,,,,,,
+692,RRC,Range Resources Corp,6.78000020980835,False,2009.0,,02-07,04-22,7.0,7.0,4.0,4.0,02-07,04-22,6.6014628656735805
+693,RANJY,Randstad NV,29.399999618530273,False,2010.0,,11-20,02-03,7.0,7.0,3.0,3.0,11-20,02-03,8.820521056555641
+694,RANJF,Randstad NV,60.0,False,2010.0,,08-31,11-14,7.0,7.0,3.0,3.0,08-31,11-14,7.455627117255764
+695,RNDB,Randolph Bancorp Inc,17.149999618530273,True,2016.0,,,,,,,,,,
+696,RGORF,Randgold Resources Ltd,83.30000305175781,True,2012.0,,,,,,,,,,
+697,RNDXF,Randgold & Exploration Co Ltd,0.10999999940395355,True,2013.0,,,,,,,,,,
+698,RBRG,Randall Bearings Inc,41.349998474121094,True,2012.0,,,,,,,,,,
+699,RQULF,Randall & Quilter Investment Holdings Ltd,1.9049999713897705,True,2020.0,,,,,,,,,,
+700,RWWI,Rand Worldwide Inc,12.5,False,2009.0,,03-23,06-06,9.0,9.0,2.0,2.0,03-23,06-06,10.871339312562203
+701,RMRHF,Rand Merchant Investment Holdings Ltd,1.649999976158142,True,2019.0,,,,,,,,,,
+702,RLOGQ,Rand Logistics Inc,0.012500000186264515,True,2012.0,,,,,,,,,,
+703,RAND,Rand Capital Corp,12.449999809265137,False,2009.0,,12-14,02-27,7.0,7.0,4.0,4.0,12-14,02-27,5.7391148913436485
+704,YYEQG,Rancon Realty Fund LP V,$90.00 ,True,,'Date',,,,,,,,,
+705,YYEQF,Rancon Realty Fund LP IV,565.0,True,2018.0,,,,,,,,,,
+706,RMYHY,Ramsay Health Care Ltd,11.9399995803833,True,2017.0,,,,,,,,,,
+707,RMSYF,Ramsay Health Care Ltd,47.720001220703125,False,2010.0,,12-24,03-09,8.0,8.0,2.0,2.0,12-24,03-09,6.964261098826242
+708,RMLRF,Ramelius Resources Ltd,1.350000023841858,False,2009.0,,11-26,02-09,9.0,9.0,2.0,2.0,11-26,02-09,20.217072415534588
+709,RMBS,Rambus Inc,15.555000305175781,False,2009.0,,10-21,01-04,5.0,5.0,6.0,6.0,10-21,01-04,-2.981122635402484
+710,RBMTF,Rambler Metals and Mining PLC,0.014000000432133675,True,2013.0,,,,,,,,,,
+711,METC,Ramaco Resources Inc,3.123800039291382,True,2017.0,,,,,,,,,,
+712,RL,Ralph Lauren Corp,81.41000366210938,False,2009.0,,09-25,12-09,6.0,6.0,5.0,5.0,09-25,12-09,7.3229464465661
+713,RLYNF,Rallye SA,7.5,True,2014.0,,,,,,,,,,
+714,RALEY,Rallye SA,$10.00 ,True,,No data fetched for symbol RALEY using YahooDailyReader,,,,,,,,,
+715,RKUNY,Rakuten Inc,10.515000343322754,True,2014.0,,,,,,,,,,
+716,RKUNF,Rakuten Inc,10.8100004196167,True,2012.0,,,,,,,,,,
+717,RAKNF,Rakon Ltd,$0.20 ,True,,No data fetched for symbol RAKNF using YahooDailyReader,,,,,,,,,
+718,RASFQ,RAIT Financial Trust,$0.04 ,True,,No data fetched for symbol RASFQ using YahooDailyReader,,,,,,,,,
+719,RTHVF,Raisio Oyj,3.8499999046325684,True,2012.0,,,,,,,,,,
+720,GLKFF,Raise Production Inc,0.054999999701976776,True,2012.0,,,,,,,,,,
+721,RMNXF,Rainy Mountain Royalty Corp,0.07999999821186066,False,2010.0,,12-15,02-28,5.0,5.0,5.0,5.0,12-15,02-28,13.371211738460481
+722,RAKR,Rainmaker Worldwide Inc,0.09000000357627869,True,2013.0,,,,,,,,,,
+723,RRIF,Rainforest Resources Inc,7.729499816894531,True,2016.0,,,,,,,,,,
+724,RFII,Rain Forest International Inc,0.024900000542402267,True,2012.0,,,,,,,,,,
+725,RAIFY,Raiffeisen Bank International AG,4.28000020980835,True,2011.0,,,,,,,,,,
+726,RAIFF,Raiffeisen Bank International AG,14.800000190734863,True,2012.0,,,,,,,,,,
+727,RAIAF,Raia Drogasil SA,$5.95 ,True,,No data fetched for symbol RAIAF using YahooDailyReader,,,,,,,,,
+728,RADLY,Raia Drogasil SA,4.659999847412109,True,2016.0,,,,,,,,,,
+729,RRENF,Raging River Exploration Inc,$4.53 ,True,,No data fetched for symbol RRENF using YahooDailyReader,,,,,,,,,
+730,VICA,Rafina Innovations Inc,0.07599999755620956,True,2013.0,,,,,,,,,,
+731,RAFLF,Raffles Medical Group Ltd,0.6100000143051147,False,2009.0,,05-23,08-06,6.0,6.0,5.0,5.0,05-23,08-06,4.793472428563036
+732,RAFFF,Raffles Financial Group Ltd,6.349999904632568,True,2020.0,,,,,,,,,,
+733,RFLFY,Raffles Education Corp Ltd,2.75,True,2014.0,,,,,,,,,,
+734,RFLFF,Raffles Education Corp Ltd,0.10999999940395355,False,2009.0,,03-21,06-04,2.0,2.0,9.0,9.0,03-21,06-04,4.0639379683556385
+735,RAFA,Rafarma Pharmaceuticals Inc,1.7000000476837158,True,2012.0,,,,,,,,,,
+736,RFL,Rafael Holdings Inc,20.7549991607666,True,2018.0,,,,,,,,,,
+737,RDWR,Radware Ltd,25.040000915527344,False,2009.0,,10-27,01-10,7.0,7.0,4.0,4.0,10-27,01-10,11.072737967843914
+738,RDVA,Radva Corp,0.6000000238418579,True,2012.0,,,,,,,,,,
+739,RDTK,RadTek Inc,$0.01 ,True,,No data fetched for symbol RDTK using YahooDailyReader,,,,,,,,,
+740,RDNT,RadNet Inc,17.969999313354492,False,2009.0,,08-27,11-10,9.0,9.0,2.0,2.0,08-27,11-10,9.207153118598177
+741,RDUS,Radius Health Inc,15.609999656677246,True,2014.0,,,,,,,,,,
+742,RDUFF,Radius Gold Inc,0.20999999344348907,False,2009.0,,07-02,09-15,4.0,4.0,7.0,7.0,07-02,09-15,13.513761483030102
+743,RADI,Radius Global Infrastructure Inc,9.0,True,2020.0,,,,,,,,,,
+744,RSYS,Radisys Corp,1.7200000286102295,True,2012.0,,,,,,,,,,
+745,RMRDF,Radisson Mining Resources Inc,0.2290000021457672,True,2012.0,,,,,,,,,,
+746,REZIF,Radisson Hospitality AB,4.489999771118164,True,2013.0,,,,,,,,,,
+747,RAIO,Radioio Inc,0.01600000075995922,False,2009.0,,07-02,09-15,5.0,5.0,6.0,6.0,07-02,09-15,23.65550111500998
+748,GEATF,Radiko Holdings Corp,0.019999999552965164,True,2017.0,,,,,,,,,,
+749,RDDTF,Radient Technologies Inc,0.07164999842643738,True,2016.0,,,,,,,,,,
+750,ROGI,Radiant Oil & Gas Inc,$0.45 ,True,,'Date',,,,,,,,,
+751,RLGT,Radiant Logistics Inc,5.630000114440918,False,2009.0,,02-10,04-25,6.0,6.0,5.0,5.0,02-10,04-25,12.821449421923175
+752,RDN,Radian Group Inc,18.459999084472656,False,2009.0,,08-06,10-20,6.0,6.0,5.0,5.0,08-06,10-20,10.54663889192676
+753,RDCM,Radcom Ltd,8.670000076293945,False,2009.0,,06-30,09-13,5.0,5.0,6.0,6.0,06-30,09-13,14.280678131711085
+754,RADA,Rada Electronics Industries Ltd,7.590000152587891,False,2009.0,,05-17,07-31,7.0,7.0,4.0,4.0,05-17,07-31,12.242896670143116
+755,RXT,Rackspace Technology Inc,16.0,True,2020.0,,,,,,,,,,
+756,RAX,Rackspace Hosting Inc,$31.99 ,True,,'Date',,,,,,,,,
+757,RMETF,Rackla Metals Inc,0.11999999731779099,True,2012.0,,,,,,,,,,
+758,RARX,Ra Pharmaceuticals Inc,$47.99 ,True,,No data fetched for symbol RARX using YahooDailyReader,,,,,,,,,
+759,RMED,Ra Medical Systems Inc,5.724999904632568,True,2018.0,,,,,,,,,,
+760,RTOH,R21 Hldgs Inc,$40.00 ,True,,No data fetched for symbol RTOH using YahooDailyReader,,,,,,,,,
+761,RCM,R1 RCM Inc,19.940000534057617,True,2017.0,,,,,,,,,,
+762,RRD,R.R.Donnelley & Sons Co,1.4199999570846558,False,2009.0,,08-21,11-04,5.0,5.0,6.0,6.0,08-21,11-04,8.398820592685846
+763,RRRT,R-Three Technologies Inc,0.07800000160932541,True,2012.0,,,,,,,,,,
+764,RSTTF,R Stahl AG,21.108800888061523,True,2019.0,,,,,,,,,,

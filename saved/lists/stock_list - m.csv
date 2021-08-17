@@ -1,0 +1,1261 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,MYTHY,Mytilineos SA,7.099999905,TRUE,2015,,,,,,,,,,
+1,MYTHF,Mytilineos SA,9.235600471,TRUE,2013,,,,,,,,,,
+2,MYRPF,MySale Group PLC,0.141680002,TRUE,2016,,,,,,,,,,
+3,MYRIF,Myriad Group AG,$0.30 ,TRUE,,No data fetched for symbol MYRIF using YahooDailyReader,,,,,,,,,
+4,MYGN,Myriad Genetics Inc,16.67000008,FALSE,2009,,15-Aug,29-Oct,5,5,6,6,15-Aug,29-Oct,6.579565428
+5,MYRX,Myrexis Inc,0.039999999,FALSE,2009,,9-Dec,22-Feb,5,4,6,7,21-Nov,4-Feb,13.82498797
+6,MYRG,MYR Group Inc,49.08000183,FALSE,2009,,10-May,24-Jul,6,6,5,5,10-May,24-Jul,3.530933754
+7,MYOV,Myovant Sciences Ltd,19.37000084,TRUE,2016,,,,,,,,,,
+8,MYOS,Myos Rens Technology Inc,12.11999989,FALSE,2010,,4-May,18-Jul,2,2,8,8,4-May,18-Jul,9.182802388
+9,MYO,Myomo Inc,5.309999943,TRUE,2017,,,,,,,,,,
+10,MYOK,MyoKardia Inc,224.9100037,TRUE,2015,,,,,,,,,,
+11,MOYFF,Mynaric AG,73.05259705,TRUE,2020,,,,,,,,,,
+12,MYMX,Mymetics Corp,0.052000001,FALSE,2009,,3-Feb,18-Apr,5,5,6,6,3-Feb,18-Apr,8.738600194
+13,MYMMF,MYM Nutraceuticals Inc,0.039999999,TRUE,2018,,,,,,,,,,
+14,MYFCF,myFC Holding AB,$1.48 ,TRUE,,No data fetched for symbol MYFCF using YahooDailyReader,,,,,,,,,
+15,MYE,Myers Industries Inc,17.15999985,FALSE,2009,,23-Mar,6-Jun,5,5,6,6,23-Mar,6-Jun,10.18885718
+16,MYRSY,Myer Holdings Ltd,1.370000005,TRUE,2013,,,,,,,,,,
+17,MYGSF,Myer Holdings Ltd,$0.97 ,TRUE,,No data fetched for symbol MYGSF using YahooDailyReader,,,,,,,,,
+18,MYCOF,Mydecine Innovations Group Inc,0.184699997,TRUE,2020,,,,,,,,,,
+19,MICLF,Mycronic AB,22.75,TRUE,2017,,,,,,,,,,
+20,MBCKF,MyBucks SA,10.69999981,TRUE,2019,,,,,,,,,,
+21,MYSZ,My Size Inc,1,TRUE,2016,,,,,,,,,,
+22,MYSL,My Screen Mobile Inc,0.0075,TRUE,2012,,,,,,,,,,
+23,MXLGF,MX Gold Corp,0.064999998,TRUE,2016,,,,,,,,,,
+24,MWBC,MW Bancorp Inc,29.86000061,TRUE,2015,,,,,,,,,,
+25,MVPT,MVP Holdings Inc,0.230000004,TRUE,2020,,,,,,,,,,
+26,MVC,MVC Capital Inc,8,FALSE,2009,,7-Nov,21-Jan,6,6,5,5,30-Sep,14-Dec,4.37727375
+27,MVBF,MVB Financial Corp,19.84000015,TRUE,2012,,,,,,,,,,
+28,MVPI,MV Portfolios Inc,0.129999995,TRUE,2018,,,,,,,,,,
+29,MVO,MV Oil Trust,2.670000076,FALSE,2009,,22-Dec,7-Mar,7,7,4,4,25-Jan,9-Apr,2.538266724
+30,MFSF,MutualFirst Financial Inc,$24.87 ,TRUE,,No data fetched for symbol MFSF using YahooDailyReader,,,,,,,,,
+31,MUTM,Mutual Merchant Services Inc,0.0115,FALSE,2009,,5-Jun,19-Aug,2,2,8,8,5-Jun,19-Aug,25.90378664
+32,MFDB,Mutual Federal Bancorp Inc,2.400000095,FALSE,2009,,26-Dec,11-Mar,8,8,3,3,26-Dec,11-Mar,9.422029654
+33,MGROF,MustGrow Biologics Corp,0.333350003,TRUE,2019,,,,,,,,,,
+34,MBIO,Mustang Bio Inc,3.089999914,TRUE,2017,,,,,,,,,,
+35,ITTRF,Must Capital Inc,$0.05 ,TRUE,,No data fetched for symbol ITTRF using YahooDailyReader,,,,,,,,,
+36,MGVMF,Musgrave Minerals Ltd,0.360000014,TRUE,2020,,,,,,,,,,
+37,MSLP,MusclePharm Corp,0.180000007,FALSE,2010,,6-Mar,20-May,4,4,6,6,6-Mar,20-May,19.86169729
+38,GRIL,Muscle Maker Inc,1.980000019,TRUE,2020,,,,,,,,,,
+39,MURZY,Murray And Roberts Holdings Ltd,$0.77 ,TRUE,,No data fetched for symbol MURZY using YahooDailyReader,,,,,,,,,
+40,MURSF,Murray And Roberts Holdings Ltd,$1.10 ,TRUE,,No data fetched for symbol MURSF using YahooDailyReader,,,,,,,,,
+41,MUSA,Murphy USA Inc,129.5700073,TRUE,2013,,,,,,,,,,
+42,MUR,Murphy Oil Corp,9.359999657,FALSE,2009,,5-Sep,19-Nov,5,4,6,7,5-Sep,19-Nov,4.72636703
+43,MURMF,Murchison Minerals Ltd,0.045899998,TRUE,2012,,,,,,,,,,
+44,MRAAY,Murata Manufacturing Co Ltd,19.52000046,FALSE,2010,,12-Sep,26-Nov,7,7,3,3,12-Sep,26-Nov,8.806384694
+45,MRAAF,Murata Manufacturing Co Ltd,78.69999695,TRUE,2012,,,,,,,,,,
+46,MMNNF,Munters Group AB,7.349999905,TRUE,2017,,,,,,,,,,
+47,MUNMF,Mundoro Capital Inc,0.129999995,FALSE,2009,,2-Jul,15-Sep,5,5,6,6,2-Jul,15-Sep,7.346650743
+48,MYBF,Muncy Bank Financial Inc,35.5,FALSE,2009,,29-May,12-Aug,4,4,7,7,29-May,12-Aug,4.544578789
+49,MURGY,Munchener Ruckversicherungs-Gesellschaft AG,28.44000053,FALSE,2009,,19-Sep,3-Dec,9,9,2,2,19-Sep,3-Dec,6.191612742
+50,MURGF,Munchener Ruckversicherungs-Gesellschaft AG,288.2999878,FALSE,2009,,19-Sep,3-Dec,9,9,2,2,19-Sep,3-Dec,6.0588332
+51,PPOLF,Multipolar Tbk,$0.01 ,TRUE,,No data fetched for symbol PPOLF using YahooDailyReader,,,,,,,,,
+52,MLTPF,Multiplus SA,$15.46 ,TRUE,,No data fetched for symbol MLTPF using YahooDailyReader,,,,,,,,,
+53,MXRNF,Multiplex European Property Fund,$0.03 ,TRUE,,No data fetched for symbol MXRNF using YahooDailyReader,,,,,,,,,
+54,MPLN,MultiPlan Corp,7.130000114,TRUE,2020,,,,,,,,,,
+55,MLTCF,Multiconsult ASA,9.800600052,TRUE,2020,,,,,,,,,,
+56,MCOIF,MultiChoice Group Ltd,8.170000076,TRUE,2019,,,,,,,,,,
+57,MCHOY,MultiChoice Group Ltd,8.289999962,TRUE,2019,,,,,,,,,,
+58,MFLX,Multi-Fineline Electronix Inc,$23.09 ,TRUE,,'Date',,,,,,,,,
+59,LABL,Multi-Color Corp,$50.01 ,TRUE,,No data fetched for symbol LABL using YahooDailyReader,,,,,,,,,
+60,MUSS,Multi Solutions II Inc,0.200000003,TRUE,2014,,,,,,,,,,
+61,MPSX,Multi Packaging Solutions International Ltd,$18.00 ,TRUE,,'Date',,,,,,,,,
+62,MLLGF,Mullen Group Ltd,7.099999905,FALSE,2009,,3-Jun,17-Aug,5,5,6,6,3-Jun,17-Aug,6.857274
+63,MULG,Muliang Viagoo Technology Inc,7,TRUE,2016,,,,,,,,,,
+64,MULE,MuleSoft Inc,44.56999969,TRUE,2017,,,,,,,,,,
+65,MLBGF,Mulberry Group PLC,2,TRUE,2012,,,,,,,,,,
+66,MWA,"Mueller Water Products, Inc.",11.88000011,FALSE,2009,,11-Oct,25-Dec,5,5,6,6,11-Oct,25-Dec,7.381205826
+67,MLI,Mueller Industries Inc,33,FALSE,2009,,30-Oct,13-Jan,7,7,4,4,30-Oct,13-Jan,4.739121688
+68,MUDS,Mudrick Capital Acquisition Corp,$12.65 ,TRUE,,No data fetched for symbol MUDS using YahooDailyReader,,,,,,,,,
+69,MYTG,Mu Yan Technology Group Co Ltd,$4.10 ,TRUE,,No data fetched for symbol MYTG using YahooDailyReader,,,,,,,,,
+70,MUGH,Mu Global Holding Ltd,1.299999952,TRUE,2020,,,,,,,,,,
+71,MTYFF,MTY Food Group Inc,34.42699814,TRUE,2014,,,,,,,,,,
+72,MTUAY,MTU Aero Engines AG,121.8000031,FALSE,2010,,15-Oct,29-Dec,6,6,4,4,15-Oct,29-Dec,9.061697783
+73,MTUAF,MTU Aero Engines AG,242.5200043,TRUE,2014,,,,,,,,,,
+74,MTSC,MTS Systems Corp,33.72000122,FALSE,2009,,21-Oct,4-Jan,6,6,5,5,21-Oct,4-Jan,4.435383245
+75,MTCPY,MTR Corp Ltd,16.32999992,FALSE,2010,,23-Jan,7-Apr,5,5,5,5,23-Jan,7-Apr,2.905085427
+76,MTRJF,MTR Corp Ltd,5.25,TRUE,2012,,,,,,,,,,
+77,MTNOY,MTN Group Ltd,4.289999962,FALSE,2010,,9-Feb,24-Apr,4,4,6,6,19-Feb,4-May,3.87240017
+78,MTNOF,MTN Group Ltd,4.059999943,TRUE,2011,,,,,,,,,,
+79,MTMC,MTM Technologies Inc,$0.25 ,TRUE,,'Date',,,,,,,,,
+80,MYTIF,MTI Ltd,"$1,986.83 ",TRUE,,No data fetched for symbol MYTIF using YahooDailyReader,,,,,,,,,
+81,MTGE,MTGE Investment Corp,19.79999924,TRUE,2012,,,,,,,,,,
+82,MTBC,MTBC Inc,8.569999695,TRUE,2014,,,,,,,,,,
+83,MHLG,MSO Holdings Inc,$0.10 ,TRUE,,No data fetched for symbol MHLG using YahooDailyReader,,,,,,,,,
+84,MSGN,MSG Networks Inc,11.39000034,FALSE,2010,,27-Oct,10-Jan,7,7,3,3,27-Oct,10-Jan,7.589821372
+85,MSCI,MSCI Inc,399.9500122,FALSE,2009,,29-Oct,12-Jan,9,9,2,2,29-Oct,12-Jan,8.497065186
+86,MSM,MSC Industrial Direct Co Inc,84.41000366,FALSE,2009,,27-Oct,10-Jan,7,7,4,4,27-Oct,10-Jan,6.249536373
+87,MSBF,MSB Financial Corp,10.38000011,FALSE,2009,,8-Dec,21-Feb,8,8,3,3,8-Dec,21-Feb,5.249072327
+88,MSA,MSA Safety Inc,138.6300049,FALSE,2009,,4-Sep,18-Nov,8,8,3,3,6-Oct,20-Dec,7.642459705
+89,MSADY,MS&AD Insurance Group Holdings Inc,15.25,FALSE,2009,,16-Mar,30-May,6,6,5,5,16-Mar,30-May,5.176420591
+90,MSADF,MS&AD Insurance Group Holdings Inc,26.87000084,FALSE,2009,,19-May,2-Aug,4,5,7,6,8-Apr,22-Jun,3.235923886
+91,MRVNY,MRV Engenharia e Participacoes SA,7.090000153,TRUE,2012,,,,,,,,,,
+92,MRVC,MRV Communications Inc,$9.98 ,TRUE,,'Date',,,,,,,,,
+93,MRC,MRC Global Inc,5.96999979,TRUE,2012,,,,,,,,,,
+94,COOP,Mr. Cooper Group Inc,25.53000069,TRUE,2012,,,,,,,,,,
+95,MRPZF,Mr Price Group Ltd,8,TRUE,2016,,,,,,,,,,
+96,MRPLY,Mr Price Group Ltd,10.31999969,TRUE,2012,,,,,,,,,,
+97,MPXOF,MPX International Corp,0.071699999,TRUE,2019,,,,,,,,,,
+98,MPXEF,MPX Bioceutical Corp,$0.92 ,TRUE,,No data fetched for symbol MPXEF using YahooDailyReader,,,,,,,,,
+99,MPMQ,MPM Holdings Inc,$31.85 ,TRUE,,No data fetched for symbol MPMQ using YahooDailyReader,,,,,,,,,
+100,MPLX,MPLX LP,20.10000038,TRUE,2012,,,,,,,,,,
+101,MNIGF,MPI SA,$5.93 ,TRUE,,No data fetched for symbol MNIGF using YahooDailyReader,,,,,,,,,
+102,MPHBF,MPHB Capital Bhd,$0.25 ,TRUE,,No data fetched for symbol MPHBF using YahooDailyReader,,,,,,,,,
+103,XDSL,mPhase Technologies Inc,0.040649999,TRUE,2012,,,,,,,,,,
+104,MPZZF,MPC Container Ships ASA,0.300000012,TRUE,2018,,,,,,,,,,
+105,MPPTF,Mpact Ltd,$1.62 ,TRUE,,No data fetched for symbol MPPTF using YahooDailyReader,,,,,,,,,
+106,MOXC,Moxian Inc,1.200000048,TRUE,2014,,,,,,,,,,
+107,MNHVF,Mowi ASA,20.29999924,FALSE,2009,,3-Jun,17-Aug,7,7,4,4,30-Aug,13-Nov,8.566184958
+108,MHGVY,Mowi ASA,20.35000038,TRUE,2011,,,,,,,,,,
+109,MVNT,Movement Industries Corp,0.037599999,TRUE,2012,,,,,,,,,,
+110,MVXM,Moveix Inc,1,TRUE,2019,,,,,,,,,,
+111,MOV,Movado Group Inc,15.22000027,FALSE,2009,,8-Feb,23-Apr,5,5,6,6,8-Feb,23-Apr,5.153721879
+112,MTVB,Mountain-Valley Bancshares Inc,41.5,TRUE,2012,,,,,,,,,,
+113,MVMDF,Mountain Valley MD Holdings Inc,0.079099998,TRUE,2020,,,,,,,,,,
+114,MTPP,Mountain Top Properties Inc,0.01,TRUE,2014,,,,,,,,,,
+115,MPVDF,Mountain Province Diamonds Inc,0.319999993,FALSE,2009,,22-Mar,5-Jun,2,2,9,9,22-Mar,5-Jun,9.462769621
+116,MPCB,Mountain Pacific Bancorp Inc,6.75,TRUE,2020,,,,,,,,,,
+117,MYHI,Mountain High Acquisitions Corp,0.012,TRUE,2014,,,,,,,,,,
+118,MCAC,Mountain Crest Acquisition Corp,10.05000019,TRUE,2020,,,,,,,,,,
+119,MCBI,Mountain Commerce Bancorp Inc,18,TRUE,2017,,,,,,,,,,
+120,MLCOF,Mountain China Resorts (Holding) Ltd,0.0081,TRUE,2012,,,,,,,,,,
+121,MBYMF,Mountain Boy Minerals Ltd,0.257999986,TRUE,2012,,,,,,,,,,
+122,PYCFF,Mount Logan Capital Inc,2.261499882,TRUE,2012,,,,,,,,,,
+123,MTGRY,Mount Gibson Iron Ltd,5.070000172,TRUE,2013,,,,,,,,,,
+124,MTGRF,Mount Gibson Iron Ltd,0.430000007,FALSE,2009,,6-Oct,20-Dec,4,4,7,7,6-Oct,20-Dec,-3.008407829
+125,MMOEF,Mount Dakota Energy Corp,$0.01 ,TRUE,,No data fetched for symbol MMOEF using YahooDailyReader,,,,,,,,,
+126,MCPB,Mount Carmel Public Utility Co,34.40000153,TRUE,2014,,,,,,,,,,
+127,MOTUY,Motus Holdings Ltd,2.680000067,TRUE,2018,,,,,,,,,,
+128,MOTS,Motus GI Holdings Inc,0.805000007,TRUE,2018,,,,,,,,,,
+129,MVAC,MotorVac Technologies Inc,0.039999999,TRUE,2012,,,,,,,,,,
+130,MTLQU,Motors Liquidation Co GUC Trust,1.399999976,TRUE,2012,,,,,,,,,,
+131,MTPTF,Motorpoint Group PLC,3.400000095,TRUE,2018,,,,,,,,,,
+132,MSI,Motorola Solutions Inc,167.4499969,FALSE,2009,,3-Aug,17-Oct,8,7,3,4,10-Sep,24-Nov,6.506258024
+133,MPAA,Motorcar Parts of America Inc,19.13999939,FALSE,2009,,9-Jul,22-Sep,7,7,4,4,9-Jul,22-Sep,3.800022912
+134,VIIN,Motor Sport Country Club Holdings Inc,0.02,TRUE,2012,,,,,,,,,,
+135,MOHCY,Motor Oil (Hellas) Corinth Refineries SA,5.449999809,TRUE,2014,,,,,,,,,,
+136,MOHCF,Motor Oil (Hellas) Corinth Refineries SA,12.17430019,TRUE,2013,,,,,,,,,,
+137,MNMT,Motivating the Masses Inc,0.100000001,TRUE,2015,,,,,,,,,,
+138,MDSVF,Motion Display Scandinavia AB,$0.56 ,TRUE,,No data fetched for symbol MDSVF using YahooDailyReader,,,,,,,,,
+139,MTFB,Motif Bio PLC,$0.11 ,TRUE,,No data fetched for symbol MTFB using YahooDailyReader,,,,,,,,,
+140,MHCRF,Mothercare PLC,$0.88 ,TRUE,,'Date',,,,,,,,,
+141,MOLB,Mother Lode Bk Sonora Ca,$1.58 ,TRUE,,'Date',,,,,,,,,
+142,MOSY,MoSys Inc,1.450000048,FALSE,2009,,16-Nov,30-Jan,2,2,9,9,16-Nov,30-Jan,4.439870178
+143,AOMOY,MOSENERGO,1.549999952,TRUE,2012,,,,,,,,,,
+144,MWCTY,Moscow City Telephone Network PJSC,10.75,TRUE,2009,,,,,,,,,,
+145,MOSC,Mosaic Acquisition Corp,$9.90 ,TRUE,,No data fetched for symbol MOSC using YahooDailyReader,,,,,,,,,
+146,MGAG,Mortgage Oil Corp,305,TRUE,2015,,,,,,,,,,
+147,MRWSY,Morrison (Wm) Supermarkets PLC,11.86999989,FALSE,2009,,29-Jun,12-Sep,7,7,4,4,29-Jun,12-Sep,4.127370116
+148,MRWSF,Morrison (Wm) Supermarkets PLC,2.349999905,FALSE,2009,,30-Jun,13-Sep,5,5,6,6,30-Jun,13-Sep,4.158615486
+149,MBLU,Morris State Bancshares Inc,58,TRUE,2019,,,,,,,,,,
+150,MBDE,Morris Business Development Co,0.077749997,FALSE,2009,,3-Mar,17-May,1,1,10,10,3-Mar,17-May,29.30037942
+151,MPSYF,MorphoSys AG,107.75,FALSE,2010,,26-Mar,9-Jun,6,6,4,4,26-Mar,9-Jun,10.83021099
+152,MOR,MorphoSys AG,25.87000084,TRUE,2018,,,,,,,,,,
+153,MPSYY,MorphoSys AG,26.5,TRUE,2013,,,,,,,,,,
+154,MORF,Morphic Holding Inc,28.17000008,TRUE,2019,,,,,,,,,,
+155,MRCR,Moro Corp,0.850000024,FALSE,2009,,21-Dec,6-Mar,7,7,4,4,21-Dec,6-Mar,19.26020275
+156,MORN,Morningstar Inc,198.6199951,FALSE,2009,,13-May,27-Jul,10,10,1,1,13-May,27-Jul,7.172546074
+157,MSIXF,Morneau Shepell Inc,21.09000015,FALSE,2010,,9-Apr,23-Jun,7,6,3,4,9-Apr,23-Jun,4.63368642
+158,MGAAF,Morinaga & Co Ltd,43,TRUE,2016,,,,,,,,,,
+159,APMCF,Morien Resources Corp,0.119029999,TRUE,2013,,,,,,,,,,
+160,MRGIF,MORI TRUST Sogo Reit Inc,"$1,828.90 ",TRUE,,No data fetched for symbol MRGIF using YahooDailyReader,,,,,,,,,
+161,MGRUF,Morguard Real Estate Investment Trust,3.701519966,FALSE,2009,,4-Sep,18-Nov,4,4,7,7,4-Sep,18-Nov,0.713313894
+162,MNARF,Morguard North American Residential Real Estate In,10.30589962,TRUE,2013,,,,,,,,,,
+163,MRCBF,Morguard Corp,80.93000031,FALSE,2010,,2-Apr,16-Jun,6,6,4,4,29-Sep,13-Dec,5.547676299
+164,MHGC,Morgans Hotel Group Co,$2.15 ,TRUE,,'Date',,,,,,,,,
+165,IIF,"Morgan Stanley India Investment Fund, Inc.",19.22999954,FALSE,2009,,23-May,6-Aug,6,6,5,5,22-Aug,5-Nov,4.385284814
+166,EDD,Morgan Stanley Emerging Markets Domestic Debt Fund,6.059999943,FALSE,2009,,18-Dec,3-Mar,9,9,2,2,22-Dec,7-Mar,4.371996218
+167,MSD,Morgan Stanley Emerg Mkts Debt Fd Inc,8.920000076,FALSE,2009,,17-Feb,2-May,9,9,2,2,22-Dec,7-Mar,2.730888029
+168,CAF,Morgan Stanley China A Share Fund Inc,23.21999931,FALSE,2009,,26-Aug,9-Nov,6,6,5,5,28-Sep,12-Dec,4.815950314
+169,MS,Morgan Stanley,58.81000137,FALSE,2009,,2-Oct,16-Dec,8,8,3,3,2-Oct,16-Dec,8.865269962
+170,MGSDF,Morgan Sindall Group PLC,$10.73 ,TRUE,,'Date',,,,,,,,,
+171,MGHL,Morgan Group Holding Co,6.760000229,TRUE,2012,,,,,,,,,,
+172,MORG,Morgan Financial Corp,$10.44 ,TRUE,,No data fetched for symbol MORG using YahooDailyReader,,,,,,,,,
+173,MCRUF,Morgan Advanced Materials PLC,2.950000048,TRUE,2012,,,,,,,,,,
+174,MGPC,Moregain Pictures Inc,0.02,TRUE,2015,,,,,,,,,,
+175,PALS,Mopals.com Inc,0.0098,FALSE,2009,,30-Jun,13-Sep,6,6,5,5,30-Jun,13-Sep,21.51198208
+176,MVVYF,Moovly Media Inc,0.052000001,TRUE,2017,,,,,,,,,,
+177,MOTMY,Mooter Media Ltd,$0.10 ,TRUE,,No data fetched for symbol MOTMY using YahooDailyReader,,,,,,,,,
+178,MOG.B,Moog Inc,$74.25 ,TRUE,,No data fetched for symbol MOG.B using YahooDailyReader,,,,,,,,,
+179,MOG.A,Moog Inc,$77.81 ,TRUE,,'Date',,,,,,,,,
+180,MCO,Moody's Corporation,272.6199951,FALSE,2009,,3-Feb,18-Apr,9,9,2,2,3-Feb,18-Apr,8.093346106
+181,FDMCF,Mood Media Corp,$0.12 ,TRUE,,No data fetched for symbol FDMCF using YahooDailyReader,,,,,,,,,
+182,MMTMF,Monument Mining Ltd,0.059999999,FALSE,2009,,27-Jun,10-Sep,6,6,5,5,27-Jun,10-Sep,9.415956932
+183,MEG,Montrose Environmental Group Inc,34.38000107,TRUE,2020,,,,,,,,,,
+184,MXTRF,Montero Mining and Exploration Ltd,0.123400003,TRUE,2012,,,,,,,,,,
+185,MONGF,Montego Resources Inc,0.009,TRUE,2018,,,,,,,,,,
+186,MONSF,Montea Comm.VA,107.9056015,TRUE,2020,,,,,,,,,,
+187,MR,Montage Resources Corp,5.360000134,TRUE,2014,,,,,,,,,,
+188,MWW,Monster Worldwide Inc,$3.41 ,TRUE,,'Date',,,,,,,,,
+189,MNST,Monster Beverage Corp,84.22000122,FALSE,2009,,8-May,22-Jul,7,7,4,4,8-May,22-Jul,8.140737019
+190,MRCC,Monroe Capital Corp,7.880000114,TRUE,2012,,,,,,,,,,
+191,MNRO,Monro Inc,43.29000092,FALSE,2009,,24-Oct,7-Jan,6,6,5,5,24-Oct,7-Jan,5.92513315
+192,TYPE,Monotype Imaging Holdings Inc,$19.84 ,TRUE,,No data fetched for symbol TYPE using YahooDailyReader,,,,,,,,,
+193,MONOY,MonotaRO Co Ltd,53.20000076,TRUE,2015,,,,,,,,,,
+194,MONOF,MonotaRO Co Ltd,$21.22 ,TRUE,,No data fetched for symbol MONOF using YahooDailyReader,,,,,,,,,
+195,MNPR,Monopar Therapeutics Inc,5.170000076,TRUE,2019,,,,,,,,,,
+196,MPWR,Monolithic Power Systems Inc,300.1099854,FALSE,2009,,6-Oct,20-Dec,7,7,4,4,6-Oct,20-Dec,9.916452649
+197,MORE,Monogram Residential Trust Inc,$11.99 ,TRUE,,'Date',,,,,,,,,
+198,MNCL,Monocle Acquisition Corp,10.21000004,TRUE,2019,,,,,,,,,,
+199,MNR,Monmouth Real Estate Investment Corp,14.56000042,FALSE,2009,,12-Nov,26-Jan,7,6,4,5,20-May,3-Aug,5.6876801
+200,MKRO,Monkey Rock Group Inc,0.028999999,TRUE,2011,,,,,,,,,,
+201,SCTY,Monitronics International Inc,6.590000153,TRUE,2019,,,,,,,,,,
+202,AVCVF,Monitor Ventures Inc,0.140000001,TRUE,2012,,,,,,,,,,
+203,MONIF,Monitise PLC,$0.04 ,TRUE,,No data fetched for symbol MONIF using YahooDailyReader,,,,,,,,,
+204,MNQQY,Monitise PLC,$10.00 ,TRUE,,No data fetched for symbol MNQQY using YahooDailyReader,,,,,,,,,
+205,MOGLY,Mongolian Mining Corp,$3.34 ,TRUE,,No data fetched for symbol MOGLY using YahooDailyReader,,,,,,,,,
+206,MOGLF,Mongolian Mining Corp,0.059999999,TRUE,2011,,,,,,,,,,
+207,MNHD,Mongolia Holdings Inc,0.005,FALSE,2009,,13-Feb,28-Apr,5,5,6,6,13-Feb,28-Apr,6.010989765
+208,MNGGF,Mongolia Growth Group Ltd,0.170000002,TRUE,2011,,,,,,,,,,
+209,MOAEY,Mongolia Energy Corp Ltd,1,TRUE,2014,,,,,,,,,,
+210,MOAEF,Mongolia Energy Corp Ltd,0.129999995,FALSE,2010,,5-Jan,20-Mar,7,7,3,3,5-Jan,20-Mar,23.47605471
+211,MDB,MongoDB Inc,247.3399963,TRUE,2017,,,,,,,,,,
+212,MYSRF,Moneysupermarket.com Group PLC,2.839400053,TRUE,2016,,,,,,,,,,
+213,MNSKY,Moneysupermarket.com Group PLC,$14.22 ,TRUE,,No data fetched for symbol MNSKY using YahooDailyReader,,,,,,,,,
+214,MOMT,MoneyOnMobile Inc,0.050000001,FALSE,2010,,30-Apr,14-Jul,3,3,7,7,30-Apr,14-Jul,8.696696181
+215,MGI,MoneyGram International Inc,7.28000021,FALSE,2009,,9-Jan,24-Mar,6,6,5,5,9-Jan,24-Mar,0.493161762
+216,MNXBY,Monex Group Inc,11.07999992,FALSE,2009,,30-May,13-Aug,7,7,4,4,30-May,13-Aug,2.334037637
+217,MNXBF,Monex Group Inc,2,TRUE,2013,,,,,,,,,,
+218,MPUCF,Moneta Porcupine Mines Inc,0.109999999,FALSE,2010,,22-Sep,6-Dec,5,5,5,5,22-Sep,6-Dec,1.908455857
+219,GMYYF,Moneta Money Bank AS,3.693300009,TRUE,2019,,,,,,,,,,
+220,MXSPF,Mondo TV SpA,$1.87 ,TRUE,,No data fetched for symbol MXSPF using YahooDailyReader,,,,,,,,,
+221,TRKTF,Mondi Tire Kutsan Kagit Ve Ambalaj Sanayii AS,0.378500015,TRUE,2019,,,,,,,,,,
+222,MONDY,Mondi PLC,45.11000061,TRUE,2014,,,,,,,,,,
+223,MONDF,Mondi PLC,22.25,TRUE,2012,,,,,,,,,,
+224,MODLY,Mondi Ltd,$37.94 ,TRUE,,No data fetched for symbol MODLY using YahooDailyReader,,,,,,,,,
+225,MODLF,Mondi Ltd,$22.14 ,TRUE,,No data fetched for symbol MODLF using YahooDailyReader,,,,,,,,,
+226,MDLZ,Mondelez International Inc,57.75999832,FALSE,2009,,21-Mar,4-Jun,5,5,6,6,20-Mar,3-Jun,6.838608422
+227,MONRY,Moncler SpA,49,TRUE,2017,,,,,,,,,,
+228,MONRF,Moncler SpA,48.95000076,TRUE,2013,,,,,,,,,,
+229,MAHI,Monarch Services Inc,0.07,FALSE,2009,,11-Feb,26-Apr,2,1,9,10,29-Aug,12-Nov,8.537581693
+230,MRQRF,Monarch Gold Corp,0.409999996,TRUE,2012,,,,,,,,,,
+231,MNRK,Monarch Financial Holdings Inc,$18.49 ,TRUE,,'Date',,,,,,,,,
+232,MCEMB,Monarch Cement Co,$28.04 ,TRUE,,No data fetched for symbol MCEMB using YahooDailyReader,,,,,,,,,
+233,MCEM,Monarch Cement Co,65.51999664,FALSE,2009,,8-Aug,22-Oct,6,5,5,6,12-Aug,26-Oct,4.95602769
+234,MCRI,Monarch Casino & Resort Inc,49.61999893,FALSE,2009,,27-Oct,10-Jan,3,3,8,8,27-Oct,10-Jan,8.563075807
+235,ORAGF,Monarca Minerals Inc,0.112999998,FALSE,2010,,25-Sep,9-Dec,7,7,3,3,25-Sep,9-Dec,17.09210326
+236,MKGI,Monaker Group Inc,2.279999971,TRUE,2015,,,,,,,,,,
+237,MOPHY,Monadelphous Group Ltd,6.980000019,TRUE,2013,,,,,,,,,,
+238,MDPHF,Monadelphous Group Ltd,11.77999973,TRUE,2014,,,,,,,,,,
+239,MSNI,Mon Space Net Inc,1.110000014,TRUE,2019,,,,,,,,,,
+240,MOMO,Momo Inc,14.96000004,TRUE,2014,,,,,,,,,,
+241,MPOHY,Momentum Metropolitan Holdings Ltd,$6.23 ,TRUE,,No data fetched for symbol MPOHY using YahooDailyReader,,,,,,,,,
+242,MMHDF,Momentum Metropolitan Holdings Ltd,$1.66 ,TRUE,,No data fetched for symbol MMHDF using YahooDailyReader,,,,,,,,,
+243,MMNT,Momentous Holdings Corp,0.152999997,TRUE,2018,,,,,,,,,,
+244,MMEG,Momentous Entertainment Group Inc,$0.01 ,TRUE,,No data fetched for symbol MMEG using YahooDailyReader,,,,,,,,,
+245,MNTA,Momenta Pharmaceuticals Inc,52.47999954,FALSE,2009,,14-May,28-Jul,6,6,5,5,14-May,28-Jul,9.315446104
+246,MXGBF,Molson Coors Canada Inc,44.84989929,TRUE,2015,,,,,,,,,,
+247,TAP.A,Molson Coors Beverage Co,$47.07 ,TRUE,,No data fetched for symbol TAP.A using YahooDailyReader,,,,,,,,,
+248,TAP,Molson Coors Beverage Co,43.56000137,FALSE,2009,,5-Jul,18-Sep,4,4,7,7,5-Jul,18-Sep,3.10842018
+249,MOPLF,Molinos Rio De La Plata SA,0.523020029,TRUE,2012,,,,,,,,,,
+250,MOH,Molina Healthcare Inc,213.3399963,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,30-Oct,13-Jan,11.26219845
+251,MOSKY,Moleskine SpA,$10.60 ,TRUE,,No data fetched for symbol MOSKY using YahooDailyReader,,,,,,,,,
+252,MLSKF,Moleskine SpA,$2.44 ,TRUE,,No data fetched for symbol MLSKF using YahooDailyReader,,,,,,,,,
+253,MBRX,Moleculin Biotech Inc,0.769999981,TRUE,2016,,,,,,,,,,
+254,EVRRF,Molecule Holdings Inc,0.100000001,FALSE,2009,,23-Dec,8-Mar,7,7,4,4,23-Dec,8-Mar,23.33423687
+255,MTEM,Molecular Templates Inc,9.130000114,FALSE,2009,,17-Dec,2-Mar,8,8,3,3,17-Dec,2-Mar,16.37708231
+256,MLLCF,Molecular Partners AG,21.95999908,TRUE,2018,,,,,,,,,,
+257,MKD,Molecular Data Inc,1.120000005,TRUE,2019,,,,,,,,,,
+258,MGYXY,MOL Hungarian Oil and Gas PLC,$3.61 ,TRUE,,No data fetched for symbol MGYXY using YahooDailyReader,,,,,,,,,
+259,MGYOY,MOL Hungarian Oil and Gas PLC,3.359999895,FALSE,2009,,29-Mar,12-Jun,5,5,6,6,29-Mar,12-Jun,5.368512706
+260,MOLGY,MOL Global Inc,$0.04 ,TRUE,,'Date',,,,,,,,,
+261,MOJO,Mojo Organics Inc,0.140000001,TRUE,2012,,,,,,,,,,
+262,MJDS,MOJO Data Solutions Inc,0.005,TRUE,2013,,,,,,,,,,
+263,MOJGF,Mojave Gold Corp,0.262400001,TRUE,2020,,,,,,,,,,
+264,MHK,Mohawk Industries Inc,128.25,FALSE,2009,,1-Oct,15-Dec,7,7,4,4,1-Oct,15-Dec,5.273581911
+265,MWK,Mohawk Group Holdings Inc,7.119999886,TRUE,2019,,,,,,,,,,
+266,MGUY,Mogul Energy International Inc,0.0051,TRUE,2012,,,,,,,,,,
+267,MOGU,MOGU Inc,2.440000057,TRUE,2018,,,,,,,,,,
+268,MOGO,Mogo Inc,2.039999962,TRUE,2017,,,,,,,,,,
+269,MC,Moelis & Co,38.13999939,TRUE,2014,,,,,,,,,,
+270,MSPP,Modular Space Holdings Inc,$22.72 ,TRUE,,No data fetched for symbol MSPP using YahooDailyReader,,,,,,,,,
+271,MODD,Modular Medical Inc,3,TRUE,2012,,,,,,,,,,
+272,MDSYF,ModSys International Ltd,$0.90 ,TRUE,,No data fetched for symbol MDSYF using YahooDailyReader,,,,,,,,,
+273,MOD,Modine Manufacturing Co,11.14999962,FALSE,2009,,25-Sep,9-Dec,5,5,6,6,25-Sep,9-Dec,5.636592983
+274,MRNA,Moderna Inc,88.88999939,TRUE,2018,,,,,,,,,,
+275,MWATF,Modern Water PLC,0.114,TRUE,2019,,,,,,,,,,
+276,MPVC,Modern PVC Inc,$0.01 ,TRUE,,No data fetched for symbol MPVC using YahooDailyReader,,,,,,,,,
+277,MDRM,Modern Mobility Aids Inc,0.018999999,TRUE,2014,,,,,,,,,,
+278,SUVRF,Modern Meat Inc,2.059999943,TRUE,2013,,,,,,,,,,
+279,MOCI,Modern Cinema Group Inc,0.048,TRUE,2012,,,,,,,,,,
+280,MODN,Model N Inc,32.15999985,TRUE,2013,,,,,,,,,,
+281,MDIKF,Modec Inc,$22.79 ,TRUE,,No data fetched for symbol MDIKF using YahooDailyReader,,,,,,,,,
+282,MDRSF,MOD Resources Ltd,47,TRUE,2020,,,,,,,,,,
+283,MOCO,MOCON Inc,$30.00 ,TRUE,,'Date',,,,,,,,,
+284,MOBXF,Mobotix AG,6.75,TRUE,2020,,,,,,,,,,
+285,MFON,Mobivity Holdings Corp,1.299999952,TRUE,2011,,,,,,,,,,
+286,MBLV,Mobiventures Inc,0.0078,FALSE,2009,,25-Jun,8-Sep,4,4,7,7,25-Jun,8-Sep,23.50783435
+287,MOBQ,Mobiquity Technologies Inc,6.050000191,FALSE,2009,,12-Feb,27-Apr,6,6,5,5,12-Feb,27-Apr,-5092.629727
+288,MBIOF,Mobio Technologies Inc,0.045499999,TRUE,2013,,,,,,,,,,
+289,MILOF,Mobilicom Ltd,$0.10 ,TRUE,,No data fetched for symbol MILOF using YahooDailyReader,,,,,,,,,
+290,MBBYF,Mobileye B.V.,63.20000076,TRUE,2014,,,,,,,,,,
+291,MSRM,Mobilestream Oil Inc,$0.08 ,TRUE,,No data fetched for symbol MSRM using YahooDailyReader,,,,,,,,,
+292,MOST,MobileSmith Inc,2.75,FALSE,2009,,1-Sep,15-Nov,5,5,6,6,1-Sep,15-Nov,9.683099304
+293,MOBL,MobileIron Inc,7.019999981,TRUE,2014,,,,,,,,,,
+294,MOTAY,Mobile TeleSystems PJSC,$81.05 ,TRUE,,No data fetched for symbol MOTAY using YahooDailyReader,,,,,,,,,
+295,MBT,Mobile TeleSystems PJSC,8.430000305,FALSE,2009,,9-Jan,24-Mar,8,8,3,3,9-Jan,24-Mar,3.587360368
+296,MINI,Mobile Mini Inc,29.5,FALSE,2009,,24-Dec,9-Mar,8,8,3,3,24-Dec,9-Mar,8.556115846
+297,MLOV,Mobile Matchmaking Inc,0.01,TRUE,2012,,,,,,,,,,
+298,MOBO,Mobile Lads Corp,0.035999998,TRUE,2014,,,,,,,,,,
+299,MOBIF,Mobi724 Global Solutions Inc,0.0277,TRUE,2012,,,,,,,,,,
+300,MPAY,Mobetize Corp,$0.01 ,TRUE,,No data fetched for symbol MPAY using YahooDailyReader,,,,,,,,,
+301,MBGRF,Moberg Pharma AB,1.649999976,TRUE,2016,,,,,,,,,,
+302,MGCPF,MOAG Copper Gold Resources Inc,$0.07 ,TRUE,,No data fetched for symbol MGCPF using YahooDailyReader,,,,,,,,,
+303,LTONY,MNC Media Investment Ltd,$0.15 ,TRUE,,'Date',,,,,,,,,
+304,MNBO,MNB Holdings Corp,45.09999847,FALSE,2009,,19-Feb,4-May,8,8,3,3,19-Feb,4-May,-3.316614119
+305,MNBC,MNB Corp,$40.00 ,TRUE,,No data fetched for symbol MNBC using YahooDailyReader,,,,,,,,,
+306,MMXXF,MMX Mineracao E Metalicos SA,$0.61 ,TRUE,,No data fetched for symbol MMXXF using YahooDailyReader,,,,,,,,,
+307,MMXMY,MMX Mineracao E Metalicos SA,$0.58 ,TRUE,,No data fetched for symbol MMXMY using YahooDailyReader,,,,,,,,,
+308,MMXCF,MMX Mineracao E Metalicos SA,$0.28 ,TRUE,,No data fetched for symbol MMXCF using YahooDailyReader,,,,,,,,,
+309,MTC,MMTEC Inc,1.075000048,TRUE,2019,,,,,,,,,,
+310,MMJJF,MMJ Group Holdings Ltd,0.085000001,TRUE,2017,,,,,,,,,,
+311,MMLTF,MMG Ltd,0.280000001,TRUE,2013,,,,,,,,,,
+312,MCPNF,MMC Corp Bhd,0.200000003,TRUE,2014,,,,,,,,,,
+313,MRMAF,MMA Offshore Ltd,$0.16 ,TRUE,,No data fetched for symbol MRMAF using YahooDailyReader,,,,,,,,,
+314,LUSI,MMA Global Inc,0.011,TRUE,2011,,,,,,,,,,
+315,MMAC,MMA Capital Management LLC,25.76000023,FALSE,2009,,16-Feb,1-May,6,6,5,5,16-Feb,1-May,14.5111947
+316,MLPKF,MLP SE,10,TRUE,2018,,,,,,,,,,
+317,MLCG,ML Capital Group Inc,0.052000001,TRUE,2013,,,,,,,,,,
+318,MKSI,MKS Instruments Inc,133.1999969,FALSE,2009,,17-Jan,1-Apr,8,8,3,3,6-Oct,20-Dec,9.323690728
+319,MKNGF,Mkango Resources Ltd,0.1373,TRUE,2020,,,,,,,,,,
+320,MJARF,MJardin Group Inc,0.029999999,TRUE,2018,,,,,,,,,,
+321,MJNE,MJ Holdings Inc,0.200000003,TRUE,2014,,,,,,,,,,
+322,MJHI,MJ Harvest Inc,0.549899995,TRUE,2012,,,,,,,,,,
+323,MIZUF,Mizuno Corp,17.78000069,TRUE,2013,,,,,,,,,,
+324,MZHOF,Mizuho Financial Group Inc,13.47999954,TRUE,2012,,,,,,,,,,
+325,MFG,Mizuho Financial Group Inc,2.710000038,FALSE,2009,,25-Oct,8-Jan,7,7,4,4,25-Oct,8-Jan,4.263896569
+326,MZTFF,Mizrahi Tefahot Bank Ltd,20.3654995,TRUE,2018,,,,,,,,,,
+327,MIXIF,mixi Inc,27.37000084,TRUE,2014,,,,,,,,,,
+328,MIXT,MiX Telematics Ltd,9.93999958,TRUE,2013,,,,,,,,,,
+329,MIXX,Mix 1 Life Inc,0.015,TRUE,2013,,,,,,,,,,
+330,MIURF,Miura Co Ltd,24.5,TRUE,2019,,,,,,,,,,
+331,MTSSF,Mitsui Sugar Co Ltd,$3.72 ,TRUE,,No data fetched for symbol MTSSF using YahooDailyReader,,,,,,,,,
+332,MSLOY,Mitsui O.S.K. Lines Ltd,11.69999981,FALSE,2010,,30-Oct,13-Jan,4,4,6,6,30-Oct,13-Jan,8.895231122
+333,MSLOF,Mitsui O.S.K. Lines Ltd,22.39999962,TRUE,2012,,,,,,,,,,
+334,MMSMY,Mitsui Mining and Smelting Co Ltd,5.644999981,TRUE,2014,,,,,,,,,,
+335,XZJCF,Mitsui Mining and Smelting Co Ltd,23,TRUE,2017,,,,,,,,,,
+336,MTSFY,Mitsui Fudosan Co Ltd,61.24499893,FALSE,2009,,22-Mar,5-Jun,1,1,9,9,10-Aug,24-Oct,5.92253635
+337,MTSFF,Mitsui Fudosan Co Ltd,20.65999985,TRUE,2012,,,,,,,,,,
+338,MIESY,Mitsui E&S Holdings Co Ltd,5,TRUE,2014,,,,,,,,,,
+339,MIESF,Mitsui E&S Holdings Co Ltd,5.570000172,TRUE,2013,,,,,,,,,,
+340,MITUY,Mitsui Chemicals Inc,14.28199959,TRUE,2012,,,,,,,,,,
+341,MITUF,Mitsui Chemicals Inc,25.20000076,TRUE,2013,,,,,,,,,,
+342,MITSY,Mitsui & Co Ltd,357.8099976,FALSE,2009,,19-Dec,4-Mar,8,8,3,3,19-Dec,4-Mar,6.812935804
+343,MITSF,Mitsui & Co Ltd,17.96500015,FALSE,2009,,19-Jul,2-Oct,4,5,5,4,17-Jul,30-Sep,5.028133888
+344,MIUFY,Mitsubishi UFJ Lease & Finance Co Ltd,8.68999958,TRUE,2012,,,,,,,,,,
+345,MIUFF,Mitsubishi UFJ Lease & Finance Co Ltd,3.950000048,TRUE,2020,,,,,,,,,,
+346,MBFJF,Mitsubishi UFJ Financial Group Inc,4.46999979,FALSE,2009,,20-May,3-Aug,5,5,6,6,24-Oct,7-Jan,8.845747348
+347,MUFG,Mitsubishi UFJ Financial Group Inc,4.539999962,FALSE,2009,,5-Sep,19-Nov,6,6,5,5,19-Oct,2-Jan,3.312517637
+348,MTZXF,Mitsubishi Tanabe Pharma Corp,$18.08 ,TRUE,,No data fetched for symbol MTZXF using YahooDailyReader,,,,,,,,,
+349,MTZPY,Mitsubishi Tanabe Pharma Corp,$18.60 ,TRUE,,No data fetched for symbol MTZPY using YahooDailyReader,,,,,,,,,
+350,MSHXF,Mitsubishi Shokuhin Co Ltd,25.75,TRUE,2019,,,,,,,,,,
+351,MMTOF,Mitsubishi Motors Corp,1.899999976,FALSE,2010,,18-Mar,1-Jun,4,4,6,6,23-Nov,6-Feb,3.714119927
+352,MIMTF,Mitsubishi Materials Corp,27.64999962,TRUE,2012,,,,,,,,,,
+353,MILGF,Mitsubishi Logistics Corp,21.48999977,TRUE,2019,,,,,,,,,,
+354,MHVYF,Mitsubishi Heavy Industries Ltd,24.90999985,FALSE,2010,,8-May,22-Jul,4,5,6,5,2-Apr,16-Jun,3.143740032
+355,MBGCF,Mitsubishi Gas Chemical Co Inc,21,TRUE,2013,,,,,,,,,,
+356,MITEY,Mitsubishi Estate Co Ltd,17.28000069,FALSE,2009,,22-Aug,5-Nov,5,5,6,6,22-Aug,5-Nov,5.063121058
+357,MITEF,Mitsubishi Estate Co Ltd,15.69999981,FALSE,2009,,20-Mar,3-Jun,4,6,7,5,31-Aug,14-Nov,5.235264402
+358,MIELY,Mitsubishi Electric Corp,28.15999985,FALSE,2009,,14-Oct,28-Dec,4,4,7,7,14-Oct,28-Dec,2.717307051
+359,MIELF,Mitsubishi Electric Corp,13.46000004,FALSE,2009,,15-Jul,28-Sep,5,3,4,6,26-Apr,10-Jul,2.850788023
+360,MSBHY,Mitsubishi Corp,40.22999954,FALSE,2009,,26-Dec,11-Mar,8,8,3,3,26-Dec,11-Mar,3.351772817
+361,MSBHF,Mitsubishi Corp,24.18000031,FALSE,2010,,26-Dec,11-Mar,7,7,3,3,26-Dec,11-Mar,4.607192955
+362,MTLHY,Mitsubishi Chemical Holdings Corp,28.70999908,FALSE,2010,,19-Jun,2-Sep,2,2,8,8,19-Jun,2-Sep,4.90945613
+363,MTLHF,Mitsubishi Chemical Holdings Corp,5.659999847,FALSE,2010,,25-Mar,8-Jun,6,3,4,7,10-Jul,23-Sep,4.334609232
+364,MITFY,MITIE Group PLC,2.109999895,TRUE,2011,,,,,,,,,,
+365,MITFF,MITIE Group PLC,0.412999988,TRUE,2013,,,,,,,,,,
+366,MITPF,Mithra Pharmaceuticals SA,18.31909943,TRUE,2020,,,,,,,,,,
+367,MITI,Mitesco Inc,0.02,TRUE,2012,,,,,,,,,,
+368,MITL,Mitel Networks Corp,11.14999962,TRUE,2012,,,,,,,,,,
+369,MITK,Mitek Systems Inc,12.09000015,FALSE,2009,,7-May,21-Jul,4,4,7,7,7-May,21-Jul,13.44786624
+370,MTTIF,Mitec Technologies Inc,0.006,TRUE,2012,,,,,,,,,,
+371,MBPFF,Mitchells & Butlers PLC,2.880000114,TRUE,2013,,,,,,,,,,
+372,MITCF,Mitani Corp,$24.60 ,TRUE,,No data fetched for symbol MITCF using YahooDailyReader,,,,,,,,,
+373,MITD,MIT Holding Inc,0.01246,TRUE,2012,,,,,,,,,,
+374,MUSJF,Misys PLC,5.369999886,TRUE,2012,,,,,,,,,,
+375,MSUXF,MISUMI Group Inc,28.95000076,TRUE,2013,,,,,,,,,,
+376,MG,MISTRAS Group Inc,4.989999771,FALSE,2009,,10-Oct,24-Dec,3,3,8,8,10-Oct,24-Dec,6.692037252
+377,MVLY,Mission Valley Bancorp,9.319999695,FALSE,2009,,14-Dec,27-Feb,6,6,5,5,14-Dec,27-Feb,3.405191105
+378,MSNVF,Mission Ready Solutions Inc,0.109999999,TRUE,2016,,,,,,,,,,
+379,AVO,Mission Produce Inc,13.90999985,TRUE,2020,,,,,,,,,,
+380,MSBC,Mission Bancorp,70,FALSE,2009,,5-Apr,19-Jun,6,6,5,5,5-Apr,19-Jun,7.22323683
+381,MSON,Misonix Inc,12.09000015,FALSE,2009,,6-Nov,20-Jan,6,6,5,5,6-Nov,20-Jan,9.14615684
+382,MIHDF,MISC Bhd,1.559999943,TRUE,2018,,,,,,,,,,
+383,MRVGF,Mirvac Group,1.950000048,TRUE,2013,,,,,,,,,,
+384,MIRM,Mirum Pharmaceuticals Inc,18.65999985,TRUE,2019,,,,,,,,,,
+385,MMDDF,Mirriad Advertising PLC,0.449999988,TRUE,2018,,,,,,,,,,
+386,MIRDF,MirLand Development Corp PLC,$3.76 ,TRUE,,No data fetched for symbol MIRDF using YahooDailyReader,,,,,,,,,
+387,MRGRY,Mirgor SACIFIA,$0.43 ,TRUE,,No data fetched for symbol MRGRY using YahooDailyReader,,,,,,,,,
+388,MRTX,Mirati Therapeutics Inc,225.4199982,TRUE,2013,,,,,,,,,,
+389,MRZLF,Mirasol Resources Ltd,0.300000012,FALSE,2009,,11-Nov,25-Jan,8,8,3,3,11-Nov,25-Jan,15.84116944
+390,MRRMF,Miramont Resources Corp,$1.01 ,TRUE,,No data fetched for symbol MRRMF using YahooDailyReader,,,,,,,,,
+391,MRLB,Miramar Labs Inc,$0.75 ,TRUE,,'Date',,,,,,,,,
+392,MMHTF,Miramar Hotel & Investment Co Ltd,1.539999962,TRUE,2016,,,,,,,,,,
+393,MGEN,Miragen Therapeutics Inc,17.64999962,TRUE,2014,,,,,,,,,,
+394,MRGE,Mirage Energy Corp,0.34525001,TRUE,2016,,,,,,,,,,
+395,MRBAF,Mirabela Nickel Ltd,$0.06 ,TRUE,,No data fetched for symbol MRBAF using YahooDailyReader,,,,,,,,,
+396,MQLYF,Miquel y Costas & Miquel SA,$35.70 ,TRUE,,No data fetched for symbol MQLYF using YahooDailyReader,,,,,,,,,
+397,MPZAF,MIPS AB,36.79600143,TRUE,2018,,,,,,,,,,
+398,MNTHF,Minth Group Ltd,$2.87 ,TRUE,,No data fetched for symbol MNTHF using YahooDailyReader,,,,,,,,,
+399,MLES,Mint Leasing Inc,$0.01 ,TRUE,,No data fetched for symbol MLES using YahooDailyReader,,,,,,,,,
+400,MICFF,MINT Income Fund,3.900000095,TRUE,2020,,,,,,,,,,
+401,MDSQF,Minsud Resources Corp,0.059999999,TRUE,2014,,,,,,,,,,
+402,MTFC,Minster Financial Corp,$55.05 ,TRUE,,No data fetched for symbol MTFC using YahooDailyReader,,,,,,,,,
+403,MURXF,Minotaur Exploration Ltd,0.050000001,TRUE,2017,,,,,,,,,,
+404,JSCRF,Minori Solutions Co Ltd,$18.30 ,TRUE,,No data fetched for symbol JSCRF using YahooDailyReader,,,,,,,,,
+405,MNRIF,Minor International PCL,0.572000027,TRUE,2016,,,,,,,,,,
+406,MNILY,Minor International PCL,14.98999977,TRUE,2014,,,,,,,,,,
+407,MIPCF,Minor International PCL,$1.00 ,TRUE,,No data fetched for symbol MIPCF using YahooDailyReader,,,,,,,,,
+408,MINOF,Minor International PCL,0.670000017,TRUE,2014,,,,,,,,,,
+409,AGRDF,Minnova Corp,0.219999999,TRUE,2012,,,,,,,,,,
+410,MNSO,MINISO Group Holding Ltd,19.95000076,TRUE,2020,,,,,,,,,,
+411,NILSY,Mining and Metallurgical Company NORILSK NICKEL PJ,27.28000069,FALSE,2009,,13-Nov,27-Jan,6,6,5,5,27-Nov,10-Feb,7.532571882
+412,YGMZ,MingZhu Logistics Holdings Ltd,3.744999886,TRUE,2020,,,,,,,,,,
+413,MFAIF,Ming Fai International Holdings Ltd,0.050000001,TRUE,2017,,,,,,,,,,
+414,MNNFF,Minfocus Exploration Corp,0.055,TRUE,2018,,,,,,,,,,
+415,MWXRF,Mineworx Technologies Ltd,0.039500002,TRUE,2011,,,,,,,,,,
+416,MGN,Mines Management Inc,$1.13 ,TRUE,,'Date',,,,,,,,,
+417,MRVSY,Minerva SA,9.859999657,TRUE,2012,,,,,,,,,,
+418,MRVSF,Minerva SA,$5.80 ,TRUE,,No data fetched for symbol MRVSF using YahooDailyReader,,,,,,,,,
+419,NERV,Minerva Neurosciences Inc,3.539999962,TRUE,2014,,,,,,,,,,
+420,MTX,Minerals Technologies Inc,59.61999893,FALSE,2009,,9-Sep,23-Nov,6,6,5,5,9-Sep,23-Nov,9.648898494
+421,MALRY,Mineral Resources Ltd,18.95999908,TRUE,2012,,,,,,,,,,
+422,MALRF,Mineral Resources Ltd,19.64999962,FALSE,2009,,9-Oct,23-Dec,7,7,4,4,7-Sep,21-Nov,7.35746159
+423,MNRLF,Mineral Mountain Resources Ltd,0.217199996,TRUE,2013,,,,,,,,,,
+424,MHIFF,Mineral Hill Industries Ltd,$0.01 ,TRUE,,No data fetched for symbol MHIFF using YahooDailyReader,,,,,,,,,
+425,MNLDF,Mineral Deposits Ltd,$0.77 ,TRUE,,No data fetched for symbol MNLDF using YahooDailyReader,,,,,,,,,
+426,MRLLY,Minera IRL Ltd,$3.25 ,TRUE,,No data fetched for symbol MRLLY using YahooDailyReader,,,,,,,,,
+427,MRLLF,Minera IRL Ltd,0.125,TRUE,2013,,,,,,,,,,
+428,MSNFY,Minera Frisco SAB de CV,0.425000012,TRUE,2011,,,,,,,,,,
+429,MFRVF,Minera Frisco SAB de CV,0.140000001,TRUE,2011,,,,,,,,,,
+430,MAIFF,Minera Alamos Inc,0.5273,TRUE,2012,,,,,,,,,,
+431,MNBEY,Minebea Mitsumi Inc,39.5,FALSE,2010,,30-Oct,13-Jan,6,6,4,4,30-Oct,13-Jan,7.198813572
+432,MNBEF,Minebea Mitsumi Inc,19.35000038,TRUE,2015,,,,,,,,,,
+433,TLVLF,Minds + Machines Group Ltd,0.066200003,TRUE,2017,,,,,,,,,,
+434,MDNB,Minden Bancorp Inc LA,$31.50 ,TRUE,,'Date',,,,,,,,,
+435,MB,MINDBODY Inc,$36.46 ,TRUE,,No data fetched for symbol MB using YahooDailyReader,,,,,,,,,
+436,MIND,MIND Technology Inc,2.119999886,FALSE,2009,,29-Oct,12-Jan,6,6,5,5,29-Oct,12-Jan,2.134181788
+437,MMEDF,Mind Medicine Inc,1.129999995,TRUE,2020,,,,,,,,,,
+438,MCURF,Mind Cure Health Inc,0.455320001,TRUE,2020,,,,,,,,,,
+439,MNDO,MIND C.T.I. Ltd,2.329999924,FALSE,2009,,13-Nov,27-Jan,7,5,4,6,22-Sep,6-Dec,8.951193267
+440,MCRZF,Mincor Resources NL,0.74000001,TRUE,2012,,,,,,,,,,
+441,MISVF,Minco Silver Corp,0.360000014,FALSE,2009,,19-Nov,2-Feb,6,6,5,5,19-Nov,2-Feb,2.712245638
+442,MGHCF,Minco Capital Corp,0.07,FALSE,2009,,27-Jun,10-Sep,5,5,6,6,27-Jun,10-Sep,6.559373681
+443,MMRGF,Minaurum Gold Inc,0.360000014,TRUE,2012,,,,,,,,,,
+444,MNIEF,Minaean SP Construction Corp,$0.10 ,TRUE,,No data fetched for symbol MNIEF using YahooDailyReader,,,,,,,,,
+445,MIMNF,Mimi's Rock Corp,0.349999994,TRUE,2020,,,,,,,,,,
+446,MDXG,MiMedx Group Inc,6.639999866,FALSE,2009,,22-Oct,5-Jan,3,3,8,8,22-Oct,5-Jan,7.620306173
+447,MIME,Mimecast Ltd,41.84999847,TRUE,2015,,,,,,,,,,
+448,MIMXF,Millstream Mines Ltd,$0.03 ,TRUE,,'Date',,,,,,,,,
+449,MMTRS,Mills Music Trust,38.25,FALSE,2010,,20-Oct,3-Jan,4,4,6,6,10-Oct,24-Dec,4.794761445
+450,MILTY,Mills Estruturas e Servicos de Engenharia SA,1.450000048,TRUE,2014,,,,,,,,,,
+451,MLRKF,Millrock Resources Inc,0.079999998,FALSE,2009,,17-Jun,31-Aug,3,3,8,8,17-Jun,31-Aug,8.029188118
+452,TIGO,Millicom International Cellular SA,36.04000092,TRUE,2019,,,,,,,,,,
+453,MICCF,Millicom International Cellular SA,28.82999992,TRUE,2012,,,,,,,,,,
+454,HIE,Miller/Howard High Income Equity Fund,7.300000191,TRUE,2014,,,,,,,,,,
+455,MLR,Miller Industries Inc.,33.75,FALSE,2009,,24-Jul,7-Oct,7,7,4,4,26-Jul,9-Oct,4.381213006
+456,MLLS,Miller Industries Inc,0.600000024,TRUE,2012,,,,,,,,,,
+457,MLMN,Millennium Prime Inc,0.0054,FALSE,2009,,18-Mar,1-Jun,7,7,4,4,18-Mar,1-Jun,19.77311301
+458,MMMDF,Millennium Minerals Ltd,$0.12 ,TRUE,,No data fetched for symbol MMMDF using YahooDailyReader,,,,,,,,,
+459,MILC,Millennium Investment & Acquisition Co Inc,0.389999986,FALSE,2009,,4-Apr,18-Jun,4,4,7,7,4-Apr,18-Jun,10.9827413
+460,MENC,Millennium Energy Corp,0.003,TRUE,2014,,,,,,,,,,
+461,MBVA,Millennium Bankshares Corp,0.07,FALSE,2009,,31-Dec,16-Mar,6,6,5,5,31-Dec,16-Mar,5.380647519
+462,MLCTF,Millennium & Copthorne Hotels PLC,$6.95 ,TRUE,,No data fetched for symbol MLCTF using YahooDailyReader,,,,,,,,,
+463,MM,Millennial Media Inc,$1.75 ,TRUE,,'Date',,,,,,,,,
+464,MLNLF,Millennial Lithium Corp,1.450000048,FALSE,2009,,15-Nov,29-Jan,4,4,7,7,15-Nov,29-Jan,-9.747367153
+465,MLND,Millendo Therapeutics Inc,1.679999948,TRUE,2012,,,,,,,,,,
+466,MCVT,Mill City Ventures III Ltd,0.75,FALSE,2010,,18-Apr,2-Jul,4,4,6,6,18-Apr,2-Jul,-63.72371638
+467,MLSS,Milestone Scientific Inc,1.50999999,FALSE,2009,,28-Mar,11-Jun,4,4,7,7,28-Mar,11-Jun,12.13328607
+468,MIST,Milestone Pharmaceuticals Inc,6.570000172,TRUE,2019,,,,,,,,,,
+469,MSTUF,Milestone Apartments REIT,$16.24 ,TRUE,,No data fetched for symbol MSTUF using YahooDailyReader,,,,,,,,,
+470,MIOFF,Milbon Co Ltd,52.59999847,TRUE,2019,,,,,,,,,,
+471,MCRN,Milacron Holdings Corp,$16.80 ,TRUE,,No data fetched for symbol MCRN using YahooDailyReader,,,,,,,,,
+472,MKRS,Mikros Systems Corp,0.129999995,FALSE,2009,,5-Feb,20-Apr,5,5,6,6,5-Feb,20-Apr,10.4404734
+473,MKRNF,Mikron Holding AG,$8.59 ,TRUE,,'Date',,,,,,,,,
+474,MZKR,Mikrocoze Inc,0.098499998,TRUE,2020,,,,,,,,,,
+475,MKJI,Mikojo Inc,$2.00 ,TRUE,,No data fetched for symbol MKJI using YahooDailyReader,,,,,,,,,
+476,MGOM,Migom Global Corp,30,TRUE,2019,,,,,,,,,,
+477,MIGDF,Migdal Insurance & Financial Holdings Ltd,$0.70 ,TRUE,,No data fetched for symbol MIGDF using YahooDailyReader,,,,,,,,,
+478,MIGGF,Migao Corp,$0.56 ,TRUE,,No data fetched for symbol MIGGF using YahooDailyReader,,,,,,,,,
+479,MIFF,Mifflinburg Bancorp Inc,35,TRUE,2013,,,,,,,,,,
+480,MIEXF,MIE Holdings Corp,$7.10 ,TRUE,,'Date',,,,,,,,,
+481,MOFG,MidWestOne Financial Group Inc,24.25,FALSE,2009,,21-Oct,4-Jan,6,6,5,5,8-Aug,22-Oct,1.776765627
+482,MDWT,Midwest Holding Inc,50,TRUE,2015,,,,,,,,,,
+483,MEEC,Midwest Energy Emissions Corp,0.280000001,TRUE,2012,,,,,,,,,,
+484,MSL,Midsouth Bancorp Inc,$11.44 ,TRUE,,No data fetched for symbol MSL using YahooDailyReader,,,,,,,,,
+485,MDNGF,Midnight Sun Mining Corp,0.178739995,TRUE,2018,,,,,,,,,,
+486,MSBI,Midland States Bancorp Inc,18.15999985,TRUE,2016,,,,,,,,,,
+487,MDICF,Midland IC&I Ltd,0.01,TRUE,2020,,,,,,,,,,
+488,MLNHF,Midland Holdings Ltd,$0.42 ,TRUE,,No data fetched for symbol MLNHF using YahooDailyReader,,,,,,,,,
+489,MIDLF,Midland Exploration Inc,0.689999998,FALSE,2010,,26-Jun,9-Sep,5,5,5,5,26-Jun,9-Sep,7.93172092
+490,MCPH,Midland Capital Holdings Corp,11.5,FALSE,2009,,4-Mar,18-May,5,3,6,8,18-Jan,2-Apr,0.491138775
+491,MSEX,Middlesex Water Co,69.62999725,FALSE,2009,,7-May,21-Jul,5,4,6,7,11-Sep,25-Nov,7.857295285
+492,MBCN,Middlefield Banc Corp,22.03000069,FALSE,2009,,26-Oct,9-Jan,8,6,3,5,26-Oct,9-Jan,9.618971629
+493,MDVT,Middlebury National Corp,38,FALSE,2009,,19-Mar,2-Jun,5,4,6,7,19-Mar,2-Jun,3.783989596
+494,MBRG,Middleburg Financial Corp,$40.04 ,TRUE,,'Date',,,,,,,,,
+495,MIDH,Middle East Oil Corp,$1.00 ,TRUE,,No data fetched for symbol MIDH using YahooDailyReader,,,,,,,,,
+496,MEP,Midcoast Energy Partners LP,58.34000015,TRUE,2016,,,,,,,,,,
+497,MDCT,Midcoast Community Bancorp Inc,$5.00 ,TRUE,,No data fetched for symbol MDCT using YahooDailyReader,,,,,,,,,
+498,MTP,Midatech Pharma PLC,1.889999986,TRUE,2015,,,,,,,,,,
+499,MGCFF,Midasco Capital Corp,0.057300001,TRUE,2019,,,,,,,,,,
+500,MDAHF,Midas Holdings Ltd,$0.20 ,TRUE,,No data fetched for symbol MDAHF using YahooDailyReader,,,,,,,,,
+501,MDRPF,Midas Gold Corp,0.860000014,TRUE,2012,,,,,,,,,,
+502,MSVB,Mid-Southern Bancorp Inc,13.74400043,FALSE,2009,,9-Jul,22-Sep,6,6,5,5,9-Jul,22-Sep,7.593535677
+503,MCEP,Mid-Con Energy Partners LP,2.75,TRUE,2011,,,,,,,,,,
+504,MAHN,Mid-atlan Home Hlth Ntwk,0.052000001,TRUE,2012,,,,,,,,,,
+505,MAA,Mid-America Apartment Communities Inc,126.0699997,FALSE,2009,,14-Mar,28-May,8,8,3,3,14-Mar,28-May,5.242596695
+506,MPB,Mid Penn Bancorp Inc,22.04999924,FALSE,2009,,26-Sep,10-Dec,6,5,5,6,18-Mar,1-Jun,4.01158651
+507,MICT,MICT Inc,1.549999952,TRUE,2012,,,,,,,,,,
+508,MFCO,Microwave Filter Co Inc,0.560000002,FALSE,2009,,13-Nov,27-Jan,3,3,8,8,13-Nov,27-Jan,13.98469165
+509,MVIS,Microvision Inc,1.970000029,FALSE,2009,,26-Mar,9-Jun,5,5,6,6,26-Mar,9-Jun,11.06163058
+510,MSTR,MicroStrategy Inc,212.9600067,FALSE,2009,,14-May,28-Jul,7,7,4,4,14-May,28-Jul,3.829896805
+511,MSFT,Microsoft Corp,211.0800018,FALSE,2009,,26-May,9-Aug,6,6,5,5,26-May,9-Aug,7.48709796
+512,MSCC,Microsemi Corp,68.73999786,TRUE,2012,,,,,,,,,,
+513,MCRPF,MicroPort Scientific Corp,4.199999809,TRUE,2012,,,,,,,,,,
+514,MRPS,Microphonics Inc,0.0065,FALSE,2009,,13-Jul,26-Sep,5,5,6,6,13-Jul,26-Sep,17.68014681
+515,MPAD,Micropac Industries Inc,11.75,FALSE,2009,,3-Dec,16-Feb,9,8,2,3,3-Dec,16-Feb,8.343265405
+516,MCNSF,Micronas Semiconductor Holding AG,$7.58 ,TRUE,,No data fetched for symbol MCNSF using YahooDailyReader,,,,,,,,,
+517,MICWF,Micron Waste Technologies Inc,0.094927996,TRUE,2015,,,,,,,,,,
+518,MU,Micron Technology Inc,60.74000168,FALSE,2009,,29-Oct,12-Jan,7,7,4,4,29-Oct,12-Jan,13.36295756
+519,MICR,Micron Solutions Inc,2.700000048,FALSE,2009,,28-Dec,13-Mar,9,8,2,3,28-Dec,13-Mar,9.407505617
+520,MMTIF,Micromem Technologies Inc,0.059999999,FALSE,2009,,5-Sep,19-Nov,6,6,5,5,5-Sep,19-Nov,11.62049002
+521,MICB,Microlin Bio Inc,$0.68 ,TRUE,,No data fetched for symbol MICB using YahooDailyReader,,,,,,,,,
+522,MCHP,Microchip Technology Inc,124.8499985,FALSE,2009,,18-Oct,1-Jan,9,9,2,2,21-Oct,4-Jan,7.629298227
+523,MBOT,Microbot Medical Inc,7.510000229,FALSE,2009,,20-Dec,5-Mar,5,5,6,6,20-Dec,5-Mar,11.8738319
+524,MBXBF,Microbix Biosystems Inc,0.277999997,FALSE,2009,,4-Jan,19-Mar,6,6,5,5,4-Jan,19-Mar,1.718427194
+525,MCRNF,Micro-Mechanics (Holdings) Ltd,0.699999988,TRUE,2013,,,,,,,,,,
+526,MMTC,Micro Imaging Technology Inc,0.064999998,FALSE,2009,,23-Feb,8-May,4,4,7,7,23-Feb,8-May,3.44873737
+527,MFGP,Micro Focus International PLC,4.809999943,TRUE,2017,,,,,,,,,,
+528,MCFYY,Micro Focus International PLC,$32.93 ,TRUE,,No data fetched for symbol MCFYY using YahooDailyReader,,,,,,,,,
+529,MCFUF,Micro Focus International PLC,4.679999828,FALSE,2010,,5-Oct,19-Dec,4,4,6,6,5-Oct,19-Dec,6.52790626
+530,MCBP,Michigan Community Bancorp Ltd,0.005,TRUE,2012,,,,,,,,,,
+531,MXRHF,Michael Hill International Ltd,0.610000014,TRUE,2016,,,,,,,,,,
+532,MAJJ,Michael Anthony Jewelers,2300,TRUE,2012,,,,,,,,,,
+533,MHPSY,MHP SE,5.699999809,TRUE,2013,,,,,,,,,,
+534,MHPSL,MHP SE,$7.29 ,TRUE,,No data fetched for symbol MHPSL using YahooDailyReader,,,,,,,,,
+535,MHMI,MHM Services Inc,5550,TRUE,2012,,,,,,,,,,
+536,MHHC,MHHC Enterprises Inc,0.110100001,FALSE,2009,,9-Jan,24-Mar,4,4,7,7,9-Jan,24-Mar,-6.590477314
+537,MGXMF,MGX Minerals Inc,0.044,TRUE,2016,,,,,,,,,,
+538,MGTI,MGT Capital Investments Inc,0.012,TRUE,2018,,,,,,,,,,
+539,MGPI,MGP Ingredients Inc,42.50999832,FALSE,2009,,7-Feb,22-Apr,6,6,5,5,7-Feb,22-Apr,11.25810904
+540,MGM,MGM Resorts International,26.90999985,FALSE,2009,,27-Oct,10-Jan,6,6,5,5,27-Oct,10-Jan,11.2072971
+541,MGMB,MGM Holdings Inc,$84.50 ,TRUE,,No data fetched for symbol MGMB using YahooDailyReader,,,,,,,,,
+542,MGP,MGM Growth Properties LLC,30.51000023,TRUE,2016,,,,,,,,,,
+543,MCHVY,MGM China Holdings Ltd,16.87999916,TRUE,2015,,,,,,,,,,
+544,MCHVF,MGM China Holdings Ltd,1.450000048,TRUE,2012,,,,,,,,,,
+545,MTG,MGIC Investment Corp,11.63000011,FALSE,2009,,30-Sep,14-Dec,7,7,4,4,30-Sep,14-Dec,10.83055713
+546,FRIIF,MGI Digital Graphic Technology SA,49.00999832,TRUE,2014,,,,,,,,,,
+547,MGEE,MGE Energy Inc,70.26999664,FALSE,2009,,21-May,4-Aug,4,4,7,7,11-Jun,25-Aug,5.718549705
+548,MGCV,MGC Ventures Inc,0.029999999,TRUE,2012,,,,,,,,,,
+549,MGCLF,MGC Pharmaceuticals Ltd,0.015,TRUE,2017,,,,,,,,,,
+550,MGCD,MGC Diagnostics Corp,$11.03 ,TRUE,,'Date',,,,,,,,,
+551,MGCCF,MG Capital Corp,0.192399994,TRUE,2020,,,,,,,,,,
+552,MFV,MFS Special Value Trust,5.670000076,FALSE,2009,,20-Aug,3-Nov,9,7,2,4,15-Mar,29-May,3.104145431
+553,MFM,MFS Municipal Income Trust,6.53000021,FALSE,2009,,16-Nov,30-Jan,8,6,3,5,19-Mar,2-Jun,4.125775108
+554,MMT,MFS Multimarket Income Trust,5.920000076,FALSE,2009,,20-Mar,3-Jun,5,5,6,6,20-Mar,3-Jun,4.16087102
+555,CXH,Mfs Investment Grade Municipal Trust,9.399999619,FALSE,2009,,13-Nov,27-Jan,8,6,3,5,13-Nov,27-Jan,2.714365466
+556,MIN,MFS Intermediate Income Trust,3.75,FALSE,2009,,4-Feb,19-Apr,8,6,3,5,24-Apr,8-Jul,-0.517566239
+557,CIF,Mfs Intermediate High Income Fund,2.549999952,FALSE,2009,,12-Dec,25-Feb,8,7,3,4,12-Dec,25-Feb,3.751314787
+558,CMU,Mfs High Yield Municipal Trust,4.320000172,FALSE,2009,,21-Mar,4-Jun,9,6,2,5,18-Mar,1-Jun,5.058119203
+559,CXE,Mfs High Income Municipal Trust,4.809999943,FALSE,2009,,17-Mar,31-May,9,6,2,5,18-Mar,1-Jun,5.568620229
+560,MGF,MFS Government Markets Income Trust,4.599999905,FALSE,2009,,25-Jun,8-Sep,7,5,4,6,15-Nov,29-Jan,0.732916931
+561,MCR,MFS Charter Income Trust,8.5,FALSE,2009,,19-Feb,4-May,7,6,4,5,16-Mar,30-May,2.579947747
+562,MFA,MFA Financial Inc,3.559999943,FALSE,2009,,24-Mar,7-Jun,7,7,4,4,9-Apr,23-Jun,4.684106762
+563,MYBUF,Meyer Burger Technology AG,0.379999995,FALSE,2009,,25-Aug,8-Nov,7,7,4,4,25-Aug,8-Nov,1.619743674
+564,MXSG,Mexus Gold US,0.032699998,TRUE,2012,,,,,,,,,,
+565,MXF,Mexico Fund Inc,12.60000038,FALSE,2009,,11-Dec,24-Feb,8,8,3,3,12-Nov,26-Jan,2.318133021
+566,MXE,Mexico Equity and Income Fund Inc,9.119999886,FALSE,2009,,1-Feb,16-Apr,6,6,5,5,1-Feb,16-Apr,0.537209251
+567,MEXGF,Mexican Gold Mining Corp,0.077509999,TRUE,2013,,,,,,,,,,
+568,MXC,Mexco Energy Corp,5.239999771,FALSE,2009,,28-Jan,12-Apr,5,5,6,6,28-Jan,12-Apr,3.074249001
+569,MXPKF,Mex Polska SA,$1.23 ,TRUE,,No data fetched for symbol MXPKF using YahooDailyReader,,,,,,,,,
+570,MTWD,Metwood Inc,0.115999997,FALSE,2009,,14-Aug,28-Oct,3,3,8,8,14-Aug,28-Oct,12.81576055
+571,MQTRF,Mettrum Health Corp,$5.36 ,TRUE,,No data fetched for symbol MQTRF using YahooDailyReader,,,,,,,,,
+572,MTD,Mettler-Toledo International Inc,1144.810059,FALSE,2009,,28-Aug,11-Nov,8,8,3,3,28-Aug,11-Nov,8.614319867
+573,OUKPY,Metso Outotec Corp,3.805000067,TRUE,2013,,,,,,,,,,
+574,OUKPF,Metso Outotec Corp,7.800000191,TRUE,2013,,,,,,,,,,
+575,MTSAF,Metsa Board Oyj,7.949999809,TRUE,2012,,,,,,,,,,
+576,MRVCF,Metrovacesa SA,7.057799816,TRUE,2020,,,,,,,,,,
+577,MERT,Metropolitan Royalty Corp,$100.00 ,TRUE,,No data fetched for symbol MERT using YahooDailyReader,,,,,,,,,
+578,MCB,Metropolitan Bank Holding Corp,33.63000107,TRUE,2017,,,,,,,,,,
+579,MTPOY,Metropolitan Bank & Trust Company,16.67000008,TRUE,2013,,,,,,,,,,
+580,MTPOF,Metropolitan Bank & Trust Company,0.699999988,TRUE,2013,,,,,,,,,,
+581,MTVAF,Metropole Television SA,$10.59 ,TRUE,,No data fetched for symbol MTVAF using YahooDailyReader,,,,,,,,,
+582,MTPVY,Metropole Television SA,$15.91 ,TRUE,,No data fetched for symbol MTPVY using YahooDailyReader,,,,,,,,,
+583,MGSBF,MetroGas SA,$0.74 ,TRUE,,No data fetched for symbol MGSBF using YahooDailyReader,,,,,,,,,
+584,MCBS,MetroCity Bankshares Inc,14.52999973,TRUE,2019,,,,,,,,,,
+585,MPHX,Metro Phoenix Bank Inc,10.25,TRUE,2018,,,,,,,,,,
+586,MPCIY,Metro Pacific Investments Corporation,12.78999996,TRUE,2013,,,,,,,,,,
+587,MPCFF,Metro Pacific Investments Corporation,$0.09 ,TRUE,,No data fetched for symbol MPCFF using YahooDailyReader,,,,,,,,,
+588,WOWI,Metro One Telecommunications Inc,0.00588,FALSE,2009,,16-Apr,30-Jun,6,6,5,5,16-Apr,30-Jun,0.536126766
+589,MTRAF,Metro Inc,45.97999954,FALSE,2010,,12-Mar,26-May,6,6,4,4,12-Mar,26-May,5.649298293
+590,MTRI,Metro Inc,0.0105,TRUE,2012,,,,,,,,,,
+591,MGMA,Metro Global Media Inc,0.370000005,TRUE,2012,,,,,,,,,,
+592,MBNKF,Metro Bank PLC,1.304999948,TRUE,2019,,,,,,,,,,
+593,METR,Metro Bancorp Inc,$28.19 ,TRUE,,'Date',,,,,,,,,
+594,MTGGY,METRO AG,4.900000095,TRUE,2017,,,,,,,,,,
+595,MTTWF,METRO AG,9.909999847,TRUE,2017,,,,,,,,,,
+596,MET,MetLife Inc,45.70999908,FALSE,2009,,1-Oct,15-Dec,6,5,5,6,25-Aug,8-Nov,3.538406276
+597,MTKAY,Metka Industrial - Construction SA,$7.50 ,TRUE,,No data fetched for symbol MTKAY using YahooDailyReader,,,,,,,,,
+598,MTKAF,Metka Industrial - Construction SA,$8.73 ,TRUE,,No data fetched for symbol MTKAF using YahooDailyReader,,,,,,,,,
+599,MEI,Methode Electronics Inc,35.95999908,FALSE,2009,,25-Sep,9-Dec,8,8,3,3,25-Sep,9-Dec,8.582723455
+600,MEIL,Methes Energies International Ltd,0.0102,TRUE,2012,,,,,,,,,,
+601,MEOH,Methanex Corp,38.06000137,FALSE,2009,,26-Aug,9-Nov,8,8,3,3,26-Aug,9-Nov,9.685239073
+602,MGSCF,Metgasco Ltd,0.035,TRUE,2019,,,,,,,,,,
+603,METX,Meten EdtechX Education Group Ltd,3.210000038,TRUE,2018,,,,,,,,,,
+604,MHTLY,Metcash Ltd,$10.88 ,TRUE,,No data fetched for symbol MHTLY using YahooDailyReader,,,,,,,,,
+605,MCSHF,Metcash Ltd,1.940000057,TRUE,2012,,,,,,,,,,
+606,MTWTF,Metawater Co Ltd,22.5,TRUE,2016,,,,,,,,,,
+607,MSWM,Metaswarm Inc.,$0.23 ,TRUE,,No data fetched for symbol MSWM using YahooDailyReader,,,,,,,,,
+608,MTST,MetaStat Inc,0.007,TRUE,2013,,,,,,,,,,
+609,MEAOF,Metanor Resources Inc,$0.44 ,TRUE,,No data fetched for symbol MEAOF using YahooDailyReader,,,,,,,,,
+610,MMATF,Metamaterial Inc,0.261000007,TRUE,2020,,,,,,,,,,
+611,MLXEF,Metals X Ltd,0.054000001,TRUE,2013,,,,,,,,,,
+612,MCREF,Metals Creek Resources Corp,0.050000001,TRUE,2012,,,,,,,,,,
+613,MTLRF,Metalore Resources Ltd,2.059999943,FALSE,2010,,9-Jan,24-Mar,4,4,6,6,9-Jan,24-Mar,7.19579872
+614,MSKTF,Metalo Manufacturing Inc,0.071350001,TRUE,2016,,,,,,,,,,
+615,MLLUY,Metallurgical Corp of China Ltd,3.690000057,TRUE,2014,,,,,,,,,,
+616,MTLFF,Metallis Resources Inc,0.254999995,TRUE,2014,,,,,,,,,,
+617,MLMZF,Metallica Minerals Ltd,0.01,TRUE,2012,,,,,,,,,,
+618,MMNGF,Metallic Minerals Corp,0.523168027,TRUE,2012,,,,,,,,,,
+619,MTA,Metalla Royalty & Streaming Ltd,8.829999924,FALSE,2009,,31-Oct,14-Jan,6,6,5,5,31-Oct,14-Jan,11.4663869
+620,MTLK,Metalink Ltd,0.379999995,FALSE,2009,,10-Jun,24-Aug,5,5,6,6,10-Jun,24-Aug,4.069169468
+621,MTLI,Metaline Contact Mines,0.079999998,FALSE,2009,,8-Aug,22-Oct,4,4,7,7,8-Aug,22-Oct,-0.566933294
+622,MTFSF,Metalfrio Solutions SA,$1.88 ,TRUE,,No data fetched for symbol MTFSF using YahooDailyReader,,,,,,,,,
+623,MXTLF,Metalex Ventures Ltd,0.021,FALSE,2009,,9-Nov,23-Jan,4,4,7,7,9-Nov,23-Jan,5.289778685
+624,MPG,Metaldyne Performance Group Inc,$21.90 ,TRUE,,'Date',,,,,,,,,
+625,MTLCF,MetalCorp Ltd,0.016000001,FALSE,2009,,21-Dec,6-Mar,7,7,4,4,21-Dec,6-Mar,-12.71006117
+626,MTCR,Metacrine Inc,9.770000458,TRUE,2020,,,,,,,,,,
+627,LGNZZ,Metabasis Therapeutics Inc,0.224999994,FALSE,2009,,30-Mar,13-Jun,3,3,6,6,30-Mar,13-Jun,22.9217579
+628,NACNF,Meta Growth Corp,0.098999999,TRUE,2018,,,,,,,,,,
+629,CASH,Meta Financial Group Inc,34.06999969,FALSE,2009,,15-May,29-Jul,8,8,3,3,25-Mar,8-Jun,10.01115464
+630,MCCK,Mestek Inc,28.97999954,FALSE,2009,,9-Apr,23-Jun,5,5,6,6,9-Apr,23-Jun,10.82058121
+631,MPIN,Message Processing International Inc,0.01,FALSE,2009,,2-Jan,17-Mar,3,3,7,7,2-Jan,17-Mar,15.35734601
+632,MEOBF,Mesoblast Ltd,2.359999895,FALSE,2010,,17-Dec,2-Mar,9,9,1,1,17-Dec,2-Mar,11.25537924
+633,MESO,Mesoblast Ltd,11.80000019,FALSE,2010,,17-Dec,2-Mar,7,7,3,3,17-Dec,2-Mar,9.990493288
+634,MSSV,Meso Numismatics Inc,0.028999999,FALSE,2009,,13-Dec,26-Feb,5,5,6,6,13-Dec,26-Feb,9.859958615
+635,MSB,Mesabi Trust,21.60000038,FALSE,2009,,15-Aug,29-Oct,7,5,4,6,12-Aug,26-Oct,10.45492222
+636,MTR,Mesa Royalty Trust,4.53000021,FALSE,2009,,18-Mar,1-Jun,7,6,4,5,21-Feb,6-May,4.530411503
+637,MLAB,Mesa Laboratories Inc,279.1000061,FALSE,2009,,23-Aug,6-Nov,5,5,6,6,23-Aug,6-Nov,8.620620712
+638,MESA,Mesa Air Group Inc,4.920000076,TRUE,2018,,,,,,,,,,
+639,MRUS,Merus NV,14.60999966,TRUE,2016,,,,,,,,,,
+640,MSLI,Merus Labs International Inc,$1.30 ,TRUE,,'Date',,,,,,,,,
+641,DMYDF,Mertiva AB,4.682400227,TRUE,2012,,,,,,,,,,
+642,CBLNF,Mersen SA,$28.39 ,TRUE,,'Date',,,,,,,,,
+643,CBLNY,Mersen SA,6.389999866,TRUE,2016,,,,,,,,,,
+644,MRSN,Mersana Therapeutics Inc,22.72999954,TRUE,2017,,,,,,,,,,
+645,MERR,Merriman Holdings Inc,0.029999999,FALSE,2009,,2-Jan,17-Mar,6,6,5,5,2-Jan,17-Mar,13.93437678
+646,MACK,Merrimack Pharmaceuticals Inc,3.809999943,TRUE,2012,,,,,,,,,,
+647,MXGIF,Merrex Gold Inc,$0.18 ,TRUE,,No data fetched for symbol MXGIF using YahooDailyReader,,,,,,,,,
+648,MRPRF,Merlin Properties SOCIMI SA,9.649999619,TRUE,2014,,,,,,,,,,
+649,MIINF,Merlin Entertainments PLC,$5.80 ,TRUE,,No data fetched for symbol MIINF using YahooDailyReader,,,,,,,,,
+650,MERLY,Merlin Entertainments PLC,$11.67 ,TRUE,,No data fetched for symbol MERLY using YahooDailyReader,,,,,,,,,
+651,NALDF,Merlin Diamonds Ltd,$0.03 ,TRUE,,No data fetched for symbol NALDF using YahooDailyReader,,,,,,,,,
+652,MKENF,Merko Ehitus AS,$10.45 ,TRUE,,No data fetched for symbol MKENF using YahooDailyReader,,,,,,,,,
+653,MERMF,Meritus Minerals Ltd,$0.01 ,TRUE,,No data fetched for symbol MERMF using YahooDailyReader,,,,,,,,,
+654,MTOR,Meritor Inc,25.54000092,FALSE,2009,,7-Dec,20-Feb,6,6,5,5,7-Dec,20-Feb,10.08937793
+655,MHGU,Meritage Hospitality Group Inc,17.38999939,FALSE,2009,,5-Apr,19-Jun,8,8,3,3,5-Apr,19-Jun,15.53384797
+656,MTH,Meritage Homes Corp,91.05999756,FALSE,2009,,17-Mar,31-May,8,8,3,3,17-Mar,31-May,10.60262583
+657,MMSI,Merit Medical Systems Inc,50.11000061,FALSE,2009,,26-Apr,10-Jul,7,7,4,4,26-Apr,10-Jul,9.646524109
+658,EWLU,Merion Inc,1,TRUE,2015,,,,,,,,,,
+659,MRRDF,Meridian Mining SE,0.155000001,TRUE,2017,,,,,,,,,,
+660,MRDH,Meridian Holdings Inc,0.01,FALSE,2009,,9-Sep,23-Nov,3,3,8,8,9-Sep,23-Nov,18.92734015
+661,MDDNF,Meridian Energy Ltd,2.900000095,TRUE,2017,,,,,,,,,,
+662,MRBK,Meridian Corp,18.67000008,TRUE,2017,,,,,,,,,,
+663,VIVO,Meridian Bioscience Inc,18.5,FALSE,2009,,5-May,19-Jul,5,5,6,6,5-May,19-Jul,9.487471978
+664,EBSB,Meridian Bancorp Inc,14.18000031,FALSE,2009,,14-May,28-Jul,7,7,4,4,17-Sep,1-Dec,6.21416232
+665,MCMJ,Merida Merger Corp I,9.875,TRUE,2019,,,,,,,,,,
+666,MERG,Merger Mines Corp,0.050000001,TRUE,2009,,,,,,,,,,
+667,MRGN,Mergence Corp,0.0089,FALSE,2009,,17-Feb,2-May,3,3,8,8,17-Feb,2-May,24.06734552
+668,MREO,Mereo BioPharma Group PLC,2.430000067,TRUE,2019,,,,,,,,,,
+669,MPQI,Meredith Enterprises Inc,$14.61 ,TRUE,,'Date',,,,,,,,,
+670,MDPEB,Meredith Corp,40,TRUE,2012,,,,,,,,,,
+671,MDP,Meredith Corp,18.29000092,FALSE,2009,,1-Oct,15-Dec,7,7,4,4,1-Oct,15-Dec,11.13221387
+672,MRCY,Mercury Systems Inc,67.09999847,FALSE,2009,,27-Oct,10-Jan,7,7,4,4,27-Oct,10-Jan,4.214240183
+673,MGHTF,Mercury NZ Ltd,$2.53 ,TRUE,,No data fetched for symbol MGHTF using YahooDailyReader,,,,,,,,,
+674,MCY,Mercury General Corp,45.02999878,FALSE,2009,,7-Sep,21-Nov,3,2,8,9,7-Sep,21-Nov,3.032209172
+675,MFH,Mercurity Fintech Holding Inc,2.390000105,TRUE,2015,,,,,,,,,,
+676,PMKIF,Merck Tbk,$2.14 ,TRUE,,'Date',,,,,,,,,
+677,MKKGY,Merck KGaA,30.36000061,FALSE,2009,,28-Aug,11-Nov,6,6,5,5,21-Aug,4-Nov,4.66306369
+678,MKGAF,Merck KGaA,154,TRUE,2012,,,,,,,,,,
+679,MRK,Merck & Co Inc,80.25,FALSE,2009,,25-Apr,9-Jul,7,6,4,5,3-Nov,17-Jan,5.154254159
+680,MEIYF,Mercialys SA,7.690000057,TRUE,2012,,,,,,,,,,
+681,MNPP,Merchants National Properties Inc,1310,FALSE,2010,,28-May,11-Aug,6,6,4,4,28-May,11-Aug,5.133833388
+682,MFGI,Merchants Financial Group Inc,58,FALSE,2009,,3-Oct,17-Dec,6,6,5,5,4-Oct,18-Dec,3.741891155
+683,MBVT,Merchants Bancshares Inc,$49.80 ,TRUE,,'Date',,,,,,,,,
+684,MBIN,Merchants Bancorp,27.11000061,TRUE,2017,,,,,,,,,,
+685,MNMB,Merchants & Marine Bancorp Inc,35,TRUE,2018,,,,,,,,,,
+686,MCBG,Mercersburg Financial Corp,37.09999847,TRUE,2012,,,,,,,,,,
+687,MRCQF,Mercer Park Brand Acquisition Corp,9.949999809,TRUE,2019,,,,,,,,,,
+688,MERC,Mercer International Inc,7.710000038,FALSE,2009,,18-Dec,3-Mar,5,5,6,6,18-Dec,3-Mar,9.42348249
+689,MRCIF,Mercari Inc,44.5,TRUE,2020,,,,,,,,,,
+690,MCARY,Mercari Inc,21,TRUE,2019,,,,,,,,,,
+691,MBWM,Mercantile Bank Corp,23.46999931,FALSE,2009,,9-Feb,24-Apr,6,5,5,6,6-Feb,21-Apr,3.445103101
+692,MSFZY,Mercantil Servicios Financieros CA,$18.15 ,TRUE,,No data fetched for symbol MSFZY using YahooDailyReader,,,,,,,,,
+693,MSFJY,Mercantil Servicios Financieros CA,20,TRUE,2019,,,,,,,,,,
+694,MELI,MercadoLibre Inc,1318.089966,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,30-Oct,13-Jan,7.947415831
+695,MRAFY,Merafe Resources Ltd,3.349999905,TRUE,2012,,,,,,,,,,
+696,MTSL,MER Telemanagement Solutions Ltd,1.190000057,FALSE,2009,,9-Aug,23-Oct,5,5,6,6,9-Aug,23-Oct,13.27638687
+697,MZTLF,Menzies (John) PLC,1.549999952,TRUE,2014,,,,,,,,,,
+698,MENT,Mentor Graphics Corp,$37.25 ,TRUE,,'Date',,,,,,,,,
+699,MNTR,Mentor Capital Inc,0.090000004,FALSE,2009,,26-Dec,11-Mar,7,7,4,4,26-Dec,11-Mar,17.83814301
+700,MENEF,Mene Inc,0.47299999,FALSE,2009,,15-Sep,29-Nov,5,5,6,6,15-Sep,29-Nov,12.94942981
+701,MENB,Mendocino Brewing Co Inc,0.059999999,FALSE,2009,,28-Dec,13-Mar,9,9,2,2,28-Dec,13-Mar,26.67556334
+702,MMAPF,Memscap SA,1.360000014,TRUE,2018,,,,,,,,,,
+703,MRD,Memorial Resource Development Corp,$14.72 ,TRUE,,'Date',,,,,,,,,
+704,MENXF,Memex Inc,0.0063,TRUE,2015,,,,,,,,,,
+705,MLSYY,Melrose Industries PLC,3.900000095,TRUE,2019,,,,,,,,,,
+706,MLSPF,Melrose Industries PLC,2.119999886,FALSE,2009,,12-Feb,27-Apr,7,7,4,4,28-Jun,11-Sep,2.050366365
+707,MELR,Melrose Bancorp Inc,$24.96 ,TRUE,,No data fetched for symbol MELR using YahooDailyReader,,,,,,,,,
+708,EVVRF,MelodyVR Group PLC,0.045000002,TRUE,2017,,,,,,,,,,
+709,MLNX,Mellanox Technologies Ltd,$124.89 ,TRUE,,No data fetched for symbol MLNX using YahooDailyReader,,,,,,,,,
+710,MKRIF,Melkior Resources Inc,0.699999988,FALSE,2009,,2-Nov,16-Jan,3,3,8,8,2-Nov,16-Jan,8.26140173
+711,MKRRF,Melker Schorling AB,$68.32 ,TRUE,,No data fetched for symbol MKRRF using YahooDailyReader,,,,,,,,,
+712,CCJMF,Melior Resources Inc,0.035420001,TRUE,2012,,,,,,,,,,
+713,MLNTQ,Melinta Therapeutics Inc,$0.11 ,TRUE,,No data fetched for symbol MLNTQ using YahooDailyReader,,,,,,,,,
+714,SMIZF,Melia Hotels International SA,5.880000114,FALSE,2010,,19-Dec,4-Mar,7,7,3,3,19-Dec,4-Mar,4.949008149
+715,MLXSF,Melexis NV,82.91220093,TRUE,2013,,,,,,,,,,
+716,MLGGY,Meldex International PLC,$0.01 ,TRUE,,No data fetched for symbol MLGGY using YahooDailyReader,,,,,,,,,
+717,MODVF,Melcor Developments Ltd,5.559000015,FALSE,2009,,2-May,16-Jul,3,3,8,8,21-May,4-Aug,2.783838724
+718,MLCO,Melco Resorts and Entertainment Ltd,18.45000076,FALSE,2009,,8-Dec,21-Feb,7,7,4,4,8-Dec,21-Feb,10.13136765
+719,MCWPF,Melco Resorts and Entertainment (Philippines) Corp,$0.13 ,TRUE,,No data fetched for symbol MCWPF using YahooDailyReader,,,,,,,,,
+720,MDEVF,Melco International Development Ltd,2.049999952,FALSE,2009,,10-Feb,25-Apr,6,6,5,5,10-Feb,25-Apr,10.1585353
+721,MEOAF,Melbana Energy Ltd,0.027000001,TRUE,2013,,,,,,,,,,
+722,MEOAY,Melbana Energy Ltd,$0.02 ,TRUE,,No data fetched for symbol MEOAY using YahooDailyReader,,,,,,,,,
+723,MPNGY,Meituan,76.59999847,TRUE,2020,,,,,,,,,,
+724,MPNGF,Meituan,38.35499954,TRUE,2018,,,,,,,,,,
+725,MEIUF,Meitu Inc,0.5,TRUE,2018,,,,,,,,,,
+726,MEITF,Meitec Corp,39.80220032,TRUE,2013,,,,,,,,,,
+727,MGTX,MeiraGTx Holdings PLC,14.35999966,TRUE,2018,,,,,,,,,,
+728,MKOTF,Meiko Trans Co Ltd,$8.97 ,TRUE,,No data fetched for symbol MKOTF using YahooDailyReader,,,,,,,,,
+729,MEJHY,Meiji Holdings Co Ltd,20.95000076,TRUE,2020,,,,,,,,,,
+730,MEJHF,Meiji Holdings Co Ltd,60,TRUE,2012,,,,,,,,,,
+731,MEIJF,Meiji Electric Industries Co Ltd,$12.02 ,TRUE,,No data fetched for symbol MEIJF using YahooDailyReader,,,,,,,,,
+732,MEIP,MEI Pharma Inc,2.779999971,FALSE,2009,,26-Jul,9-Oct,6,6,5,5,26-Jul,9-Oct,7.414029678
+733,NSAUF,MegumaGold Corp,0.095299996,TRUE,2012,,,,,,,,,,
+734,MGON,Megola Inc,0.0079,FALSE,2009,,12-Sep,26-Nov,6,6,5,5,12-Sep,26-Nov,-10.73144057
+735,MGHOF,Meghmani Organics Ltd,$0.18 ,TRUE,,No data fetched for symbol MGHOF using YahooDailyReader,,,,,,,,,
+736,MEGGY,Meggitt PLC,10.55000019,TRUE,2014,,,,,,,,,,
+737,MEGGF,Meggitt PLC,5.300000191,TRUE,2012,,,,,,,,,,
+738,MGAWY,Megaworld Corp,15.18999958,TRUE,2014,,,,,,,,,,
+739,MGAWF,Megaworld Corp,0.045000002,FALSE,2010,,29-Mar,12-Jun,0,0,8,8,29-Mar,12-Jun,-1.310344728
+740,MGTC,Megatech Corp,0.108000003,FALSE,2009,,14-Jan,29-Mar,4,4,7,7,14-Jan,29-Mar,17.39906955
+741,MSTXF,Megastar Development Corp,0.092399999,TRUE,2012,,,,,,,,,,
+742,MGPPF,Megaport Ltd,11.19999981,TRUE,2017,,,,,,,,,,
+743,MGNT,Meganet Corp,0.0099,TRUE,2016,,,,,,,,,,
+744,MFAC,Megalith Financial Acquisition Corp,10.39000034,TRUE,2018,,,,,,,,,,
+745,MEGH,Megalith Corp,0.01,FALSE,2009,,18-Jul,1-Oct,1,1,7,7,18-Jul,1-Oct,18.0277778
+746,MEGPF,MegaChips Corp,19.04999924,FALSE,2010,,1-Apr,15-Jun,0,0,9,9,1-Apr,15-Jun,1.861130887
+747,MHSDF,Megacable Holdings SAB de CV,3.450000048,FALSE,2009,,16-Mar,30-May,5,5,5,5,16-Mar,30-May,4.68782842
+748,MGABY,Megabank JSC,$55.73 ,TRUE,,No data fetched for symbol MGABY using YahooDailyReader,,,,,,,,,
+749,MGAFF,Mega Uranium Ltd,0.090000004,FALSE,2009,,9-Nov,23-Jan,5,5,6,6,9-Nov,23-Jan,3.352467214
+750,MGFCF,Mega First Corp Bhd,$0.50 ,TRUE,,No data fetched for symbol MGFCF using YahooDailyReader,,,,,,,,,
+751,MGFNF,Mega Financial Holding Co Ltd,$1.81 ,TRUE,,'Date',,,,,,,,,
+752,MEGEF,MEG Energy Corp,2.460000038,TRUE,2011,,,,,,,,,,
+753,MTGB,Meetinghouse Bancorp Inc,$25.90 ,TRUE,,'Date',,,,,,,,,
+754,MMMS,Medytox Solutions Inc,$3.00 ,TRUE,,No data fetched for symbol MMMS using YahooDailyReader,,,,,,,,,
+755,MEDH,MedX Holdings Inc,0.008,TRUE,2016,,,,,,,,,,
+756,MDXHF,Medx Health Corp,0.100000001,FALSE,2009,,26-Dec,11-Mar,7,7,4,4,26-Dec,11-Mar,17.71825522
+757,MDSMF,Medusa Mining Ltd,0.629999995,FALSE,2010,,29-Jun,12-Sep,6,6,4,4,29-Jun,12-Sep,6.730435332
+758,MDT,Medtronic PLC,109.4700012,FALSE,2009,,17-Mar,31-May,10,8,1,3,29-Oct,12-Jan,5.096203911
+759,MHMNF,MedTech SA,$54.50 ,TRUE,,No data fetched for symbol MHMNF using YahooDailyReader,,,,,,,,,
+760,MEDFF,MedReleaf Corp,18.80999947,TRUE,2017,,,,,,,,,,
+761,MEDP,Medpace Holdings Inc,123.0599976,TRUE,2016,,,,,,,,,,
+762,MD,Mednax Inc,18.98999977,FALSE,2009,,29-Oct,12-Jan,6,6,5,5,29-Oct,12-Jan,9.994087595
+763,MMIRF,MedMira Inc,0.176479995,TRUE,2012,,,,,,,,,,
+764,MMNFF,MedMen Enterprises Inc,0.150000006,TRUE,2018,,,,,,,,,,
+765,MDLY,Medley Management Inc,7.349999905,TRUE,2014,,,,,,,,,,
+766,MCC,Medley Capital Corp,20.60000038,TRUE,2011,,,,,,,,,,
+767,MDBBF,Medlab Clinical Ltd,0.120999999,TRUE,2018,,,,,,,,,,
+768,MDXL,MediXall Group Inc,1.049999952,TRUE,2011,,,,,,,,,,
+769,MDWD,MediWound Ltd,3.75999999,TRUE,2014,,,,,,,,,,
+770,MVRBF,Medivir AB,1.5,FALSE,2009,,15-Aug,29-Oct,4,4,7,7,15-Aug,29-Oct,8.489315979
+771,MDVN,Medivation Inc,$81.44 ,TRUE,,'Date',,,,,,,,,
+772,MDTWF,Mediterranean Towers Ltd,1.684599996,TRUE,2019,,,,,,,,,,
+773,MNRUF,Mediterranean Resources Ltd,$0.12 ,TRUE,,No data fetched for symbol MNRUF using YahooDailyReader,,,,,,,,,
+774,MDIT,Medite Cancer Diagnostics Inc,0.006,FALSE,2009,,27-Aug,10-Nov,5,5,6,6,27-Aug,10-Nov,4.626118384
+775,MEPTF,Medipost Co Ltd,$44.99 ,TRUE,,No data fetched for symbol MEPTF using YahooDailyReader,,,,,,,,,
+776,MEDIF,MediPharm Labs Corp,0.414999992,TRUE,2018,,,,,,,,,,
+777,MEPDF,Medipal Holdings Corp,18.60000038,TRUE,2019,,,,,,,,,,
+778,MAHLY,Medipal Holdings Corp,18.48999977,FALSE,2009,,29-Jul,12-Oct,5,5,6,6,29-Jul,12-Oct,1.412824928
+779,MDIBY,Mediobanca SpA,8.979999542,TRUE,2018,,,,,,,,,,
+780,MDIBF,Mediobanca SpA,7.900000095,FALSE,2009,,29-Mar,12-Jun,2,2,7,7,29-Mar,12-Jun,5.747794819
+781,MSGVF,Medigus Ltd,$0.08 ,TRUE,,No data fetched for symbol MSGVF using YahooDailyReader,,,,,,,,,
+782,MDGS,Medigus Ltd,2.019999981,TRUE,2015,,,,,,,,,,
+783,MDGEF,Medigene AG,4.244999886,TRUE,2013,,,,,,,,,,
+784,MED,Medifast Inc,168.5399933,FALSE,2009,,14-Mar,28-May,4,4,7,7,14-Mar,28-May,19.89223864
+785,MDSO,Medidata Solutions Inc,$92.22 ,TRUE,,No data fetched for symbol MDSO using YahooDailyReader,,,,,,,,,
+786,MDCR,Medicus Homecare Inc,0.013,TRUE,2014,,,,,,,,,,
+787,MCUJF,Medicure Inc,0.639999986,FALSE,2009,,5-Jun,19-Aug,6,6,5,5,5-Jun,19-Aug,5.845222098
+788,MRNTY,Medicrea International SA,2.769999981,TRUE,2018,,,,,,,,,,
+789,MRNTF,Medicrea International SA,7.840000153,TRUE,2015,,,,,,,,,,
+790,MCVEF,Medicover AB,10.75,TRUE,2019,,,,,,,,,,
+791,MCVEY,Medicover AB,11.5,TRUE,2019,,,,,,,,,,
+792,MDDT,Medico International Inc,$2.23 ,TRUE,,No data fetched for symbol MDDT using YahooDailyReader,,,,,,,,,
+793,ANHGY,Mediclinic International PLC,9,TRUE,2017,,,,,,,,,,
+794,ALNRF,Mediclinic International PLC,$12.29 ,TRUE,,No data fetched for symbol ALNRF using YahooDailyReader,,,,,,,,,
+795,MCFFY,Mediclinic International Ltd,$38.00 ,TRUE,,No data fetched for symbol MCFFY using YahooDailyReader,,,,,,,,,
+796,MNOV,MediciNova Inc,6.010000229,FALSE,2009,,26-Aug,9-Nov,8,8,3,3,26-Aug,9-Nov,7.512893675
+797,SHWZ,Medicine Man Technologies Inc,1.330000043,TRUE,2018,,,,,,,,,,
+798,MDNA,Medicenna Therapeutics Corp,3.75,TRUE,2017,,,,,,,,,,
+799,MSIU,Medical Supply International USA Inc,0.098399997,TRUE,2012,,,,,,,,,,
+800,MSMT,Medical Solutions Management Inc,$0.01 ,TRUE,,No data fetched for symbol MSMT using YahooDailyReader,,,,,,,,,
+801,MCLS,Medical Sciences Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+802,MPW,Medical Properties Trust Inc,18.93000031,FALSE,2009,,23-Sep,7-Dec,8,7,3,4,23-Sep,7-Dec,6.896309165
+803,MJNA,Medical Marijuana Inc,0.02,FALSE,2009,,7-Oct,21-Dec,3,3,8,8,7-Oct,21-Dec,-7.22028031
+804,MMAM,Medical Makeover Corp of America,1.100000024,TRUE,2012,,,,,,,,,,
+805,MEDD,Medical Imaging Corp,0.0069,FALSE,2009,,27-Oct,10-Jan,5,5,6,6,27-Oct,10-Jan,14.09194387
+806,MFCSF,Medical Facilities Corp,5.5,FALSE,2009,,11-Nov,25-Jan,9,9,2,2,21-Dec,6-Mar,5.248003313
+807,MDDVF,Medical Developments International Ltd,3.900000095,TRUE,2020,,,,,,,,,,
+808,MCTH,Medical Connections Holdings Inc,0.008,FALSE,2009,,3-Jan,18-Mar,7,7,4,4,3-Jan,18-Mar,0.080930133
+809,REFG,Medical Cannabis Payment Solutions Inc,0.0086,TRUE,2013,,,,,,,,,,
+810,MDAUY,Medical Australia Ltd,$1.85 ,TRUE,,No data fetched for symbol MDAUY using YahooDailyReader,,,,,,,,,
+811,MSURF,Medica Sur SAB de CV,0.673300028,TRUE,2020,,,,,,,,,,
+812,MDBIF,Medibio Ltd,0.011,TRUE,2017,,,,,,,,,,
+813,MDBPF,Medibank Private Ltd,1.899999976,TRUE,2018,,,,,,,,,,
+814,MDBKY,Medibank Private Ltd,$22.35 ,TRUE,,No data fetched for symbol MDBKY using YahooDailyReader,,,,,,,,,
+815,VRXWF,MediaValet Inc,1.960000038,FALSE,2009,,14-Dec,27-Feb,4,4,6,6,14-Dec,27-Feb,15.37371959
+816,MDTKF,MediaTek Inc,7.300000191,TRUE,2018,,,,,,,,,,
+817,MDIUY,Mediaset SpA,6.789999962,FALSE,2009,,20-Nov,3-Feb,4,4,7,7,20-Nov,3-Feb,10.61744332
+818,MDIEF,Mediaset SpA,$3.22 ,TRUE,,No data fetched for symbol MDIEF using YahooDailyReader,,,,,,,,,
+819,GETVY,Mediaset Espana Comunicacion SA,13.75,TRUE,2011,,,,,,,,,,
+820,GETVF,Mediaset Espana Comunicacion SA,3.700000048,TRUE,2013,,,,,,,,,,
+821,MDWG,Medianews Group Inc,$32.50 ,TRUE,,No data fetched for symbol MDWG using YahooDailyReader,,,,,,,,,
+822,MDIA,MediaCo Holding Inc,2.599999905,TRUE,2020,,,,,,,,,,
+823,MAX,MediaAlpha Inc,39.5,TRUE,2020,,,,,,,,,,
+824,MDTC,Media Technologies Inc,0.012,TRUE,2012,,,,,,,,,,
+825,MIAHF,Media Prima Bhd,$0.25 ,TRUE,,No data fetched for symbol MIAHF using YahooDailyReader,,,,,,,,,
+826,MPHD,Media Pal Holdings Corp,0.099849999,FALSE,2009,,11-Jan,26-Mar,7,7,4,4,11-Jan,26-Mar,13.18597338
+827,MAMG,Media Magic Inc,$0.01 ,TRUE,,No data fetched for symbol MAMG using YahooDailyReader,,,,,,,,,
+828,MDHG,Media Holdings International Inc,0.01,TRUE,2012,,,,,,,,,,
+829,FBOP,Media Central Corp Inc,0.00928,TRUE,2012,,,,,,,,,,
+830,MGLDF,Medgold Resources Corp,0.039999999,TRUE,2016,,,,,,,,,,
+831,MEDXF,Medexus Pharmaceuticals Inc,3.910000086,TRUE,2020,,,,,,,,,,
+832,MRT,MedEquities Realty Trust Inc,$11.03 ,TRUE,,No data fetched for symbol MRT using YahooDailyReader,,,,,,,,,
+833,PTGIF,Medco Energi Internasional Tbk,0.021,TRUE,2013,,,,,,,,,,
+834,MEYYY,Medco Energi Internasional Tbk,2.730000019,TRUE,2013,,,,,,,,,,
+835,MDAS,MedAssets Inc,$31.35 ,TRUE,,'Date',,,,,,,,,
+836,MDRSF,Medartis Holding AG,47,TRUE,2020,,,,,,,,,,
+837,MLLOF,Medallion Resources Ltd,0.165999994,FALSE,2009,,27-Jan,11-Apr,5,5,6,6,27-Jan,11-Apr,9.124107625
+838,MFIN,Medallion Financial Corp,4.309999943,FALSE,2009,,10-Feb,25-Apr,7,6,4,5,10-Feb,25-Apr,-10.38154107
+839,MDLA,Medallia Inc,32.70999908,TRUE,2019,,,,,,,,,,
+840,MDRR,Medalist Diversified REIT Inc,2.210000038,TRUE,2018,,,,,,,,,,
+841,MEDGF,Medacta Group SA,94,TRUE,2019,,,,,,,,,,
+842,MDABY,Meda AB,$18.00 ,TRUE,,No data fetched for symbol MDABY using YahooDailyReader,,,,,,,,,
+843,MDABF,Meda AB,$16.85 ,TRUE,,'Date',,,,,,,,,
+844,MOAK,Med One Oak Inc,$0.10 ,TRUE,,No data fetched for symbol MOAK using YahooDailyReader,,,,,,,,,
+845,MBGNF,Med Biogene Inc,0.059999999,FALSE,2010,,21-Dec,6-Mar,4,4,6,6,21-Dec,6-Mar,25.70346281
+846,MTLPR,Mechel PAO,$0.39 ,TRUE,,No data fetched for symbol MTLPR using YahooDailyReader,,,,,,,,,
+847,MTL,Mechel PAO,1.639999986,FALSE,2009,,6-Dec,19-Feb,6,6,5,5,6-Dec,19-Feb,11.35653594
+848,MCHB,Mechanics Bank,20000,FALSE,2009,,3-Aug,17-Oct,8,8,3,3,3-Aug,17-Oct,4.696011764
+849,MKTY,Mechanical Technology Inc,1.919999957,FALSE,2009,,21-Aug,4-Nov,5,5,6,6,22-Jul,5-Oct,12.51076007
+850,MECSF,MEC Resources Ltd,$0.01 ,TRUE,,No data fetched for symbol MECSF using YahooDailyReader,,,,,,,,,
+851,MTTCF,Meat-Tech 3D Ltd,1.070000052,TRUE,2020,,,,,,,,,,
+852,MAYGF,Meadow Bay Gold Corp,$0.01 ,TRUE,,No data fetched for symbol MAYGF using YahooDailyReader,,,,,,,,,
+853,MJN,Mead Johnson Nutrition Co,$89.98 ,TRUE,,'Date',,,,,,,,,
+854,MEPW,ME Renewable Power Corp,1,TRUE,2016,,,,,,,,,,
+855,MXDHF,MDxHealth SA,0.959999979,TRUE,2012,,,,,,,,,,
+856,MDWK,MDwerks Inc,0.005,TRUE,2012,,,,,,,,,,
+857,MDU,MDU Resources Group Inc,24.88999939,FALSE,2009,,16-Feb,1-May,7,7,4,4,23-Sep,7-Dec,4.191712485
+858,MDMP,MDM Permian Inc,0.008,TRUE,2013,,,,,,,,,,
+859,MDJH,MDJM Ltd,3.579999924,TRUE,2019,,,,,,,,,,
+860,MECVF,mdf commerce inc,6.796850204,TRUE,2012,,,,,,,,,,
+861,MDKM,Mdechem Inc,0.0075,FALSE,2009,,5-May,19-Jul,4,4,7,7,5-May,19-Jul,10.56417419
+862,MDCA,MDC Partners Inc,2.299999952,FALSE,2009,,18-Aug,1-Nov,6,6,5,5,18-Aug,1-Nov,1.977080284
+863,MDTO,MD Technologies Inc,$0.03 ,TRUE,,'Date',,,,,,,,,
+864,MCCX,MCX Technologies Corp,0.050000001,TRUE,2015,,,,,,,,,,
+865,MCRAB,McRae Industries Inc,20,FALSE,2009,,24-Oct,7-Jan,5,3,6,8,24-Oct,7-Jan,6.305682396
+866,MCRAA,McRae Industries Inc,21.46999931,FALSE,2009,,23-Oct,6-Jan,6,6,5,5,5-Oct,19-Dec,5.388894548
+867,MPHYF,McPhy Energy SA,26.95000076,TRUE,2020,,,,,,,,,,
+868,MCTZF,MCOT PCL,0.058490001,TRUE,2012,,,,,,,,,,
+869,MKIN,MCNB Banks Inc,19,TRUE,2013,,,,,,,,,,
+870,MCSLF,McMillan Shakespeare Ltd,9.899999619,TRUE,2013,,,,,,,,,,
+871,MCLDF,mCloud Technologies Corp,1.44599998,TRUE,2018,,,,,,,,,,
+872,MLRNF,McLaren Resources Inc,$0.02 ,TRUE,,No data fetched for symbol MLRNF using YahooDailyReader,,,,,,,,,
+873,CAKFY,McKesson Europe AG,5.010000229,FALSE,2009,,18-Dec,3-Mar,8,8,3,3,17-Dec,2-Mar,6.073065009
+874,CAKFF,McKesson Europe AG,29.90999985,FALSE,2009,,11-Jul,24-Sep,5,5,6,6,16-Jan,31-Mar,4.242555277
+875,MCK,McKesson Corp,176.5299988,FALSE,2009,,23-Mar,6-Jun,6,6,5,5,23-Mar,6-Jun,9.373488865
+876,MCKAF,McKay Securities PLC,1.891700029,TRUE,2020,,,,,,,,,,
+877,MCHN,McHenry Bancorp Inc,0.07,TRUE,2019,,,,,,,,,,
+878,MGRC,McGrath RentCorp,64.52999878,FALSE,2009,,16-Sep,30-Nov,6,6,5,5,17-Sep,1-Dec,8.005965019
+879,MCEEF,McEwen Mining-Minera Andes Acquisition Corp,$4.47 ,TRUE,,'Date',,,,,,,,,
+880,MUX,McEwen Mining Inc,0.980000019,FALSE,2009,,23-May,6-Aug,4,4,7,7,23-May,6-Aug,13.91611512
+881,MDNDF,McDonald's Holdings Co (Japan) Ltd,47.77000046,TRUE,2011,,,,,,,,,,
+882,MCD,McDonald's Corp,215.5200043,FALSE,2009,,14-Mar,28-May,7,7,4,4,14-Mar,28-May,5.520872762
+883,MCDIF,McDermott International Ltd,2,TRUE,2020,,,,,,,,,,
+884,MDRIQ,McDermott International Inc,0.071999997,TRUE,2012,,,,,,,,,,
+885,MCCRF,McCoy Global Inc,0.349999994,FALSE,2009,,22-May,5-Aug,3,3,8,8,22-May,5-Aug,3.046347053
+886,MKC.V,McCormick & Co Inc,$184.00 ,TRUE,,No data fetched for symbol MKC.V using YahooDailyReader,,,,,,,,,
+887,MKC,McCormick & Co Inc,182.1900024,FALSE,2009,,28-Feb,13-May,7,7,4,4,28-Feb,13-May,5.793414275
+888,MCCOF,McColl's Retail Group PLC,2.173120022,TRUE,2019,,,,,,,,,,
+889,MCCHF,McChip Resources Inc,0.349999994,FALSE,2009,,6-Mar,20-May,5,5,6,6,6-Mar,20-May,-0.21780654
+890,MCBRF,McBride PLC,$1.15 ,TRUE,,No data fetched for symbol MCBRF using YahooDailyReader,,,,,,,,,
+891,MAMTF,MCAN Mortgage Corp,11.81999969,TRUE,2013,,,,,,,,,,
+892,MCFE,McAfee Corp,16.60000038,TRUE,2020,,,,,,,,,,
+893,MBTF,MBT Financial Corp,$9.84 ,TRUE,,No data fetched for symbol MBTF using YahooDailyReader,,,,,,,,,
+894,MBKL,MBT Bancshares Inc,21,FALSE,2009,,28-May,11-Aug,4,4,7,7,28-May,11-Aug,1.736387445
+895,OSNDF,MBN Corp,4.480000019,TRUE,2014,,,,,,,,,,
+896,MBRTF,MBMI Resources Inc,14796,FALSE,2009,,21-Dec,6-Mar,9,9,2,2,21-Dec,6-Mar,22.81576961
+897,MBI,MBIA Inc,6.130000114,FALSE,2009,,28-Jun,11-Sep,6,6,5,5,28-Jun,11-Sep,9.53791802
+898,BREJY,mBank SA,2.994600058,TRUE,2020,,,,,,,,,,
+899,MBFI,MB Financial Inc,42.38000107,TRUE,2012,,,,,,,,,,
+900,MBCQ,MB Bancorp Inc,15.67000008,TRUE,2017,,,,,,,,,,
+901,MZRTF,Mazor Robotics Ltd,$24.00 ,TRUE,,No data fetched for symbol MZRTF using YahooDailyReader,,,,,,,,,
+902,MZOR,Mazor Robotics Ltd,58.22999954,TRUE,2013,,,,,,,,,,
+903,MZDAY,Mazda Motor Corp,3.029999971,FALSE,2010,,17-Oct,31-Dec,2,2,8,8,17-Oct,31-Dec,6.941754863
+904,MZDAF,Mazda Motor Corp,6.349999905,FALSE,2010,,7-Feb,22-Apr,5,2,5,8,6-Oct,20-Dec,6.828638758
+905,MEC,Mayville Engineering Co Inc,11.35999966,TRUE,2019,,,,,,,,,,
+906,MNHFY,Mayr-Melnhof Karton AG,42.11000061,TRUE,2012,,,,,,,,,,
+907,MNHFF,Mayr-Melnhof Karton AG,106.25,TRUE,2015,,,,,,,,,,
+908,MAYNF,Mayne Pharma Group Ltd,0.259000003,TRUE,2013,,,,,,,,,,
+909,MAYX,Mayex USA Inc,0.109999999,TRUE,2014,,,,,,,,,,
+910,MAXX,Maxxam Inc,790,TRUE,2012,,,,,,,,,,
+911,AMXX,Maxx Sports TV Inc,4.900000095,TRUE,2020,,,,,,,,,,
+912,MXWL,Maxwell Technologies Inc,$4.48 ,TRUE,,No data fetched for symbol MXWL using YahooDailyReader,,,,,,,,,
+913,MRTI,Maxus Realty Trust Inc,142,FALSE,2009,,1-Jul,14-Sep,6,6,5,5,1-Jul,14-Sep,7.679375739
+914,MTEHF,Maxtech Ventures Inc,0.054000001,TRUE,2017,,,,,,,,,,
+915,FCSOF,MaxSec Group Ltd,$0.01 ,TRUE,,No data fetched for symbol FCSOF using YahooDailyReader,,,,,,,,,
+916,MXPT,MaxPoint Interactive Inc,$13.85 ,TRUE,,'Date',,,,,,,,,
+917,MXL,MaxLinear Inc,27.37000084,FALSE,2010,,30-Oct,13-Jan,6,6,4,4,30-Oct,13-Jan,7.67545297
+918,MXTIF,Maxitrans Industries Ltd,$0.40 ,TRUE,,No data fetched for symbol MXTIF using YahooDailyReader,,,,,,,,,
+919,MAXSF,Maxis Bhd,1.279999971,TRUE,2013,,,,,,,,,,
+920,MMS,Maximus Inc,73,FALSE,2009,,14-Oct,28-Dec,8,8,3,3,11-Oct,25-Dec,5.619197144
+921,MXGFF,Maxim Power Corp,1.43659997,TRUE,2012,,,,,,,,,,
+922,MXIM,Maxim Integrated Products Inc,79.26000214,FALSE,2009,,12-Nov,26-Jan,8,8,3,3,12-Jan,27-Mar,4.385451415
+923,MAXN,Maxeon Solar Technologies Ltd,19.87999916,TRUE,2020,,,,,,,,,,
+924,MAXC,MaxCyte Inc,1.629999995,TRUE,2019,,,,,,,,,,
+925,MXTSF,Maxcom Telecomunicaciones SAB de CV,0.051399998,TRUE,2016,,,,,,,,,,
+926,MXMTY,Maxcom Telecomunicaciones SAB de CV,0.105250001,TRUE,2012,,,,,,,,,,
+927,MAXAF,Maxclean Holdings Ltd,$0.15 ,TRUE,,No data fetched for symbol MAXAF using YahooDailyReader,,,,,,,,,
+928,MAXR,Maxar Technologies Inc,27.67000008,FALSE,2009,,20-Mar,3-Jun,4,3,7,8,20-Mar,3-Jun,12.12770046
+929,MXROF,MAX Resource Corp,0.340000004,FALSE,2009,,5-Jan,20-Mar,7,7,4,4,5-Jan,20-Mar,13.62385573
+930,MXCLF,MAX Co Ltd,$10.37 ,TRUE,,No data fetched for symbol MXCLF using YahooDailyReader,,,,,,,,,
+931,MXAAF,MAX Automation SE,$6.00 ,TRUE,,No data fetched for symbol MXAAF using YahooDailyReader,,,,,,,,,
+932,MWSNF,Mawson Gold Ltd,0.310000002,FALSE,2009,,23-Sep,7-Dec,6,6,5,5,23-Sep,7-Dec,4.701878768
+933,MMX,Maverix Metals Inc,5.070000172,TRUE,2019,,,,,,,,,,
+934,MKGP,Maverick Energy Group Ltd,0.064999998,TRUE,2012,,,,,,,,,,
+935,MAVBF,MAV Beauty Brands Inc,3.903599977,TRUE,2019,,,,,,,,,,
+936,MKEAF,Mauna Kea Technologies SA,1.549999952,TRUE,2013,,,,,,,,,,
+937,MLP,Maui Land & Pineapple Co Inc,11.17000008,FALSE,2009,,11-Nov,25-Jan,3,3,8,8,11-Nov,25-Jan,1.657207676
+938,MCHT,Mauch Chunk Trust Financial Corp,11.5,TRUE,2012,,,,,,,,,,
+939,MTSN,Mattson Technology Inc,$3.60 ,TRUE,,'Date',,,,,,,,,
+940,MFRM,Mattress Firm Holding Corp,$64.02 ,TRUE,,'Date',,,,,,,,,
+941,MTMS,Mattmar Minerals Inc,$2.00 ,TRUE,,'Date',,,,,,,,,
+942,MATW,Matthews International Corp,28.52000046,FALSE,2009,,2-Oct,16-Dec,5,4,6,7,2-Oct,16-Dec,3.286559582
+943,MATR,Mattersight Corp,2.674999952,TRUE,2012,,,,,,,,,,
+944,MAT,Mattel Inc,14.53999996,FALSE,2009,,2-Oct,16-Dec,5,5,6,6,1-Oct,15-Dec,5.193628578
+945,MSMKF,Matsumotokiyoshi Holdings Co Ltd,$40.80 ,TRUE,,No data fetched for symbol MSMKF using YahooDailyReader,,,,,,,,,
+946,MTSEF,Matsui Securities Co Ltd,$9.50 ,TRUE,,No data fetched for symbol MTSEF using YahooDailyReader,,,,,,,,,
+947,MAUSY,Matsui Securities Co Ltd,17.70000076,TRUE,2012,,,,,,,,,,
+948,MATX,Matson Inc,58.29000092,FALSE,2009,,26-May,9-Aug,6,6,5,5,26-May,9-Aug,6.957412046
+949,MTRX,Matrix Service Co,9.680000305,FALSE,2009,,6-Aug,20-Oct,6,6,5,5,6-Aug,20-Oct,4.234227937
+950,MATAF,Matra Petroleum PLC,$0.01 ,TRUE,,No data fetched for symbol MATAF using YahooDailyReader,,,,,,,,,
+951,MTMW,Matmown Inc,0.0057,TRUE,2013,,,,,,,,,,
+952,MNEM,Matinee Media Corp,$0.01 ,TRUE,,No data fetched for symbol MNEM using YahooDailyReader,,,,,,,,,
+953,MTNB,Matinas BioPharma Holdings Inc,0.777999997,TRUE,2014,,,,,,,,,,
+954,MMJFF,Matica Enterprises Inc,0.021,TRUE,2019,,,,,,,,,,
+955,MTRN,Materion Corp,60.54999924,FALSE,2009,,23-Feb,8-May,8,8,3,3,23-Feb,8-May,6.54901418
+956,MTLS,Materialise NV,41.50999832,TRUE,2014,,,,,,,,,,
+957,MATN,Mateon Therapeutics Inc,0.189999998,FALSE,2009,,29-Jan,13-Apr,7,7,4,4,29-Jan,13-Apr,3.416190849
+958,MTXS,Matches Inc,0.008,TRUE,2011,,,,,,,,,,
+959,MCHA,Matchaah Holdings Inc,0.100000001,TRUE,2017,,,,,,,,,,
+960,MTCH,Match Group Inc,131.3500061,FALSE,2009,,17-May,31-Jul,8,8,3,3,17-May,31-Jul,9.883420127
+961,MAASF,Matas A/S,11.19999981,TRUE,2017,,,,,,,,,,
+962,MHREF,Matamec Explorations Inc,$0.02 ,TRUE,,No data fetched for symbol MHREF using YahooDailyReader,,,,,,,,,
+963,PMHRF,Matahari Putra Prima Tbk,$0.08 ,TRUE,,No data fetched for symbol PMHRF using YahooDailyReader,,,,,,,,,
+964,MTDR,Matador Resources Co,9.090000153,TRUE,2012,,,,,,,,,,
+965,MWCAF,Matachewan Consolidated Mines Ltd,0.109999999,TRUE,2012,,,,,,,,,,
+966,MSRDF,Mastrad SA,0.392399997,TRUE,2020,,,,,,,,,,
+967,MMND,Mastermind Inc,0.25,FALSE,2009,,28-Aug,11-Nov,6,6,5,5,28-Aug,11-Nov,14.76790289
+968,MCFT,MasterCraft Boat Holdings Inc,22.87000084,TRUE,2015,,,,,,,,,,
+969,MA,Mastercard Inc,335.9400024,FALSE,2009,,8-Jul,21-Sep,7,7,4,4,8-Jul,21-Sep,8.711129495
+970,MAST,Master Silicon Carbide Industries Inc,670,TRUE,2018,,,,,,,,,,
+971,KICK,Master Glazier's Karate,3.700000048,TRUE,2015,,,,,,,,,,
+972,MHH,Mastech Digital Inc,17.70000076,FALSE,2009,,24-May,7-Aug,7,7,4,4,24-May,7-Aug,7.381208859
+973,MTZ,MasTec Inc,55.97999954,FALSE,2009,,19-Dec,4-Mar,9,9,2,2,19-Dec,4-Mar,7.757232574
+974,MMRTY,Massmart Holdings Ltd,4.599999905,FALSE,2010,,23-Nov,6-Feb,6,6,4,4,23-Nov,6-Feb,3.08456768
+975,MMRTF,Massmart Holdings Ltd,$6.15 ,TRUE,,No data fetched for symbol MMRTF using YahooDailyReader,,,,,,,,,
+976,HUGE,Massive Interactive Inc,1.370000005,TRUE,2018,,,,,,,,,,
+977,MSSZF,Massimo Zanetti Beverage Group SpA,5.827700138,TRUE,2016,,,,,,,,,,
+978,MBDC,Massachusetts Business Development Corp,30.25,TRUE,2012,,,,,,,,,,
+979,MMMW,Mass Megawatts Wind Power Inc,0.018100001,FALSE,2009,,21-Sep,5-Dec,3,3,8,8,21-Sep,5-Dec,7.059080758
+980,DOOR,Masonite International Corp,97.08000183,FALSE,2009,,13-Dec,26-Feb,7,7,4,4,13-Dec,26-Feb,8.747440909
+981,MSSNF,Mason Resources Corp,$0.29 ,TRUE,,No data fetched for symbol MSSNF using YahooDailyReader,,,,,,,,,
+982,MGPHF,Mason Graphite Inc,0.296499997,TRUE,2012,,,,,,,,,,
+983,MMBMF,Masmovil Ibercom SA,26.50230026,TRUE,2020,,,,,,,,,,
+984,MASI,Masimo Corp,244.3500061,FALSE,2009,,21-Feb,6-May,7,7,4,4,21-Feb,6-May,7.757460197
+985,MAS,Masco Corp,55.02999878,FALSE,2009,,28-Oct,11-Jan,9,9,2,2,28-Oct,11-Jan,10.20706365
+986,MRVL,Marvell Technology Group Ltd,43.09000015,FALSE,2009,,30-Oct,13-Jan,8,8,3,3,30-Oct,13-Jan,12.64583104
+987,MRSZF,Marusan Securities Co Ltd,$10.07 ,TRUE,,'Date',,,,,,,,,
+988,MAURY,Marui Group Co Ltd,39.27000046,FALSE,2009,,1-Nov,15-Jan,5,5,6,6,1-Nov,15-Jan,8.158565894
+989,MAURF,Marui Group Co Ltd,21.79999924,TRUE,2013,,,,,,,,,,
+990,MUHGF,Maruhachi Holdings Co Ltd,5.71999979,TRUE,2020,,,,,,,,,,
+991,MARUY,Marubeni Corp,58.68000031,FALSE,2010,,8-Jul,21-Sep,6,6,4,4,8-Jul,21-Sep,5.215528296
+992,MARUF,Marubeni Corp,5.809999943,TRUE,2012,,,,,,,,,,
+993,MRETF,Martinrea International Inc,10.10000038,FALSE,2010,,17-Mar,31-May,7,7,3,3,17-Mar,31-May,6.208843254
+994,MMLP,Martin Midstream Partners LP,1.669999957,FALSE,2009,,22-Dec,7-Mar,7,5,4,6,11-Dec,24-Feb,4.249194799
+995,MLM,Martin Marietta Materials Inc,269.3599854,FALSE,2009,,15-Oct,29-Dec,6,6,5,5,15-Mar,29-May,6.206962249
+996,MRNRF,Martin Aircraft Co Ltd,$0.03 ,TRUE,,No data fetched for symbol MRNRF using YahooDailyReader,,,,,,,,,
+997,MSO,Martha Stewart Living Omnimedia Inc,$6.25 ,TRUE,,'Date',,,,,,,,,
+998,MRTN,Marten Transport Ltd,18.78000069,FALSE,2009,,29-Mar,12-Jun,9,9,2,2,29-Mar,12-Jun,7.207397762
+999,DRKOF,Martello Technologies Group Inc,0.200000003,TRUE,2012,,,,,,,,,,
+1000,MAUXF,Mart Resources Inc,$0.19 ,TRUE,,'Date',,,,,,,,,
+1001,MRTPY,Marston's PLC,12.93999958,TRUE,2016,,,,,,,,,,
+1002,MARZF,Marston's PLC,0.917699993,TRUE,2013,,,,,,,,,,
+1003,MMC,Marsh & McLennan Companies Inc,112,FALSE,2009,,6-Sep,20-Nov,9,9,2,2,25-Sep,9-Dec,4.82067337
+1004,MNBP,Mars Bancorp Inc,336,FALSE,2009,,30-Jun,13-Sep,6,4,5,7,30-Jun,13-Sep,3.096650634
+1005,MBII,Marrone Bio Innovations Inc,1.139999986,TRUE,2013,,,,,,,,,,
+1006,VAC,Marriott Vacations Worldwide Corp,125.4800034,TRUE,2011,,,,,,,,,,
+1007,MAR,Marriott International Inc,120.3399963,FALSE,2009,,21-Oct,4-Jan,9,9,2,2,23-Oct,6-Jan,8.283616137
+1008,MRRFF,Marr SpA,$19.02 ,TRUE,,No data fetched for symbol MRRFF using YahooDailyReader,,,,,,,,,
+1009,MNAT,Marquette National Corp,26,FALSE,2009,,19-Jul,2-Oct,5,5,6,6,5-Jul,18-Sep,4.284480624
+1010,MQLXF,Marquee Energy Ltd,$0.15 ,TRUE,,No data fetched for symbol MQLXF using YahooDailyReader,,,,,,,,,
+1011,MQXDF,Marquee Energy Ltd,$0.01 ,TRUE,,No data fetched for symbol MQXDF using YahooDailyReader,,,,,,,,,
+1012,MAOTF,Maroc Telecom SA,14.80000019,TRUE,2013,,,,,,,,,,
+1013,MRLWF,Marlowe PLC,5.579999924,TRUE,2018,,,,,,,,,,
+1014,MLNZF,Marlin Gold Mining Ltd,$0.10 ,TRUE,,No data fetched for symbol MLNZF using YahooDailyReader,,,,,,,,,
+1015,MRLN,Marlin Business Services Corp,10.10999966,FALSE,2009,,4-Aug,18-Oct,6,6,5,5,4-Aug,18-Oct,6.136107843
+1016,MLYSF,Marley Spoon AG`s,2.349999905,TRUE,2020,,,,,,,,,,
+1017,MWE,MarkWest Energy Partners LP,$41.53 ,TRUE,,'Date',,,,,,,,,
+1018,MKSEF,Marksmen Energy Inc,0.028000001,TRUE,2013,,,,,,,,,,
+1019,MAKSY,Marks & Spencer Group PLC,3.400000095,FALSE,2009,,30-Aug,13-Nov,4,4,7,7,30-Aug,13-Nov,4.478665296
+1020,MAKSF,Marks & Spencer Group PLC,1.730000019,FALSE,2010,,31-Aug,14-Nov,4,4,6,6,31-Aug,14-Nov,5.322565163
+1021,RVBR,Markray Corp,0.0117,TRUE,2011,,,,,,,,,,
+1022,MRKT,Markit Ltd,$32.84 ,TRUE,,'Date',,,,,,,,,
+1023,MKTO,Marketo Inc,$35.25 ,TRUE,,'Date',,,,,,,,,
+1024,MAAL,Marketing Alliance Inc,2.25999999,FALSE,2009,,26-Jun,9-Sep,6,6,5,5,26-Jun,9-Sep,8.922739337
+1025,MKTX,MarketAxess Holdings Inc,512.2600098,FALSE,2009,,30-Sep,14-Dec,9,9,2,2,30-Sep,14-Dec,9.407130348
+1026,MKTZF,Market Tech Holdings Ltd,$2.30 ,TRUE,,No data fetched for symbol MKTZF using YahooDailyReader,,,,,,,,,
+1027,MRKR,Marker Therapeutics Inc,1.50999999,FALSE,2009,,12-Jan,27-Mar,5,5,6,6,12-Jan,27-Mar,-0.270258652
+1028,MKL,Markel Corp,1035.01001,FALSE,2009,,15-Mar,29-May,9,9,2,2,15-Mar,29-May,4.387905286
+1029,MRZM,Marizyme Inc,1.799999952,FALSE,2010,,8-Jan,23-Mar,6,6,4,4,8-Jan,23-Mar,13.75498495
+1030,MRTMF,Maritime Resources Corp,0.104999997,TRUE,2011,,,,,,,,,,
+1031,MRNS,Marinus Pharmaceuticals Inc,14.32999992,TRUE,2014,,,,,,,,,,
+1032,HZO,MarineMax Inc,33.13999939,FALSE,2009,,12-Nov,26-Jan,7,7,4,4,12-Nov,26-Jan,10.45049397
+1033,MRSP,Marine Sports Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+1034,MPX,Marine Products Corp,16.71999931,FALSE,2009,,5-Jun,19-Aug,6,6,5,5,29-May,12-Aug,7.311301574
+1035,MARPS,Marine Petroleum Trust,3.670000076,FALSE,2009,,17-Jun,31-Aug,7,6,4,5,13-Jun,27-Aug,-5.412190585
+1036,MBOF,Marine Bancorp FLA Inc,17.5,TRUE,2019,,,,,,,,,,
+1037,MRIN,Marin Software Inc,2.069999933,TRUE,2013,,,,,,,,,,
+1038,MKKOF,Marimekko Oyj,$29.11 ,TRUE,,No data fetched for symbol MKKOF using YahooDailyReader,,,,,,,,,
+1039,MRMD,MariMed Inc,0.167999998,TRUE,2012,,,,,,,,,,
+1040,CROJF,Marimaca Copper Corp,2.789999962,FALSE,2009,,16-Dec,1-Mar,5,5,6,6,16-Dec,1-Mar,6.830334095
+1041,MFMLF,Marifil Mines Ltd,0.039999999,FALSE,2009,,2-Feb,17-Apr,5,5,6,6,2-Feb,17-Apr,13.31706019
+1042,BVDRF,Marie Brizard Wine and Spirits SA,1.519999981,TRUE,2012,,,,,,,,,,
+1043,MRLDF,Mariana Resources Ltd,$1.31 ,TRUE,,No data fetched for symbol MRLDF using YahooDailyReader,,,,,,,,,
+1044,MRGO,Margo Caribe Inc,8,FALSE,2009,,24-Jan,8-Apr,5,5,6,6,24-Jan,8-Apr,14.92283691
+1045,DDIAF,Margaret Lake Diamonds Inc,0.020099999,TRUE,2018,,,,,,,,,,
+1046,MRRTY,Marfrig Global Foods SA,2.779999971,TRUE,2011,,,,,,,,,,
+1047,MRRTF,Marfrig Global Foods SA,$2.86 ,TRUE,,No data fetched for symbol MRRTF using YahooDailyReader,,,,,,,,,
+1048,MRFGY,Marfin Investment Group Holdings SA,$0.26 ,TRUE,,No data fetched for symbol MRFGY using YahooDailyReader,,,,,,,,,
+1049,MRFGF,Marfin Investment Group Holdings SA,0.07,TRUE,2014,,,,,,,,,,
+1050,MARXF,Marenica Energy Ltd,0.039999999,TRUE,2013,,,,,,,,,,
+1051,MRCVF,Marcventures Holdings Inc,$0.05 ,TRUE,,No data fetched for symbol MRCVF using YahooDailyReader,,,,,,,,,
+1052,MCS,Marcus Corp,11.25,FALSE,2009,,25-Sep,9-Dec,5,5,6,6,25-Sep,9-Dec,6.361035708
+1053,MMI,Marcus & Millichap Inc,34.74000168,TRUE,2013,,,,,,,,,,
+1054,MCPOF,Marcopolo SA,1.031669974,TRUE,2014,,,,,,,,,,
+1055,MCHX,Marchex Inc,1.830000043,FALSE,2009,,25-Oct,8-Jan,5,4,6,7,31-Oct,14-Jan,3.092859805
+1056,MHECF,Marche Corp,$7.28 ,TRUE,,No data fetched for symbol MHECF using YahooDailyReader,,,,,,,,,
+1057,MRBLF,Marble Financial Inc,0.112099998,TRUE,2019,,,,,,,,,,
+1058,MPC,Marathon Petroleum Corp,38.54000092,TRUE,2011,,,,,,,,,,
+1059,MARA,Marathon Patent Group Inc,2.890000105,TRUE,2012,,,,,,,,,,
+1060,MRO,Marathon Oil Corp,5.489999771,FALSE,2009,,3-Sep,17-Nov,5,5,6,6,3-Sep,17-Nov,0.855224494
+1061,MGDPF,Marathon Gold Corp,1.840000033,TRUE,2012,,,,,,,,,,
+1062,MAPT,Maptelligent Inc,4,TRUE,2020,,,,,,,,,,
+1063,MAPX,Maplex Alliance Ltd,600,TRUE,2018,,,,,,,,,,
+1064,MTGCF,Mapletree North Asia Commercial Trust,0.790000021,TRUE,2020,,,,,,,,,,
+1065,MAPGF,Mapletree Logistics Trust,1.399999976,TRUE,2012,,,,,,,,,,
+1066,MAPIF,Mapletree Industrial Trust,2.349999905,TRUE,2012,,,,,,,,,,
+1067,MPCMF,Mapletree Commercial Trust,1.350000024,TRUE,2019,,,,,,,,,,
+1068,MAPL,Maple Press Co,1.25,TRUE,2012,,,,,,,,,,
+1069,MGWFF,Maple Leaf Green World Inc,0.045000002,TRUE,2016,,,,,,,,,,
+1070,MLFNF,Maple Leaf Foods Inc,19.46999931,FALSE,2010,,19-Feb,4-May,7,7,3,3,8-Dec,21-Feb,4.202532689
+1071,MGMLF,Maple Gold Mines Ltd,0.300000012,TRUE,2012,,,,,,,,,,
+1072,MEYPF,Maple Energy PLC,$0.02 ,TRUE,,No data fetched for symbol MEYPF using YahooDailyReader,,,,,,,,,
+1073,MPFRY,Mapfre SA,3.599999905,TRUE,2012,,,,,,,,,,
+1074,MPFRF,Mapfre SA,1.659999967,FALSE,2009,,2-Jun,16-Aug,6,6,5,5,2-Jun,16-Aug,4.495187139
+1075,MAOYF,Maoye International Holdings Ltd,$0.35 ,TRUE,,No data fetched for symbol MAOYF using YahooDailyReader,,,,,,,,,
+1076,MANZF,Manz AG,27.89999962,FALSE,2009,,19-Jul,2-Oct,4,4,7,7,19-Jul,2-Oct,7.814246813
+1077,MFC,Manulife Financial Corp,16.64999962,FALSE,2009,,29-Oct,12-Jan,6,6,5,5,23-Sep,7-Dec,4.645773276
+1078,MHPC,Manufactured Housing Properties Inc,4.019999981,FALSE,2009,,28-Aug,11-Nov,4,4,7,7,28-Aug,11-Nov,8.275003233
+1079,MHYR,Manthey Redmond Corp,0.01,TRUE,2011,,,,,,,,,,
+1080,MANT,Mantech International Corp,76.38999939,FALSE,2009,,21-Oct,4-Jan,8,7,3,4,21-Oct,4-Jan,5.870836743
+1081,MCPI,Mansfield-Martin Exploration Mining Inc,$0.01 ,TRUE,,No data fetched for symbol MCPI using YahooDailyReader,,,,,,,,,
+1082,MNSF,Mansfelder Metals Ltd,0.017999999,FALSE,2009,,13-Dec,26-Feb,5,5,6,6,13-Dec,26-Feb,-7.112416576
+1083,MSPVF,Mansei Corp,$16.20 ,TRUE,,No data fetched for symbol MSPVF using YahooDailyReader,,,,,,,,,
+1084,MAN,ManpowerGroup Inc,87.59999847,FALSE,2009,,25-Sep,9-Dec,6,6,5,5,25-Sep,9-Dec,7.807489998
+1085,MANR,Manor National Bank Pa,$502.00 ,TRUE,,No data fetched for symbol MANR using YahooDailyReader,,,,,,,,,
+1086,MNKD,MannKind Corp,2.779999971,FALSE,2009,,15-Apr,29-Jun,5,5,6,6,15-Apr,29-Jun,13.81488829
+1087,MN,Manning & Napier Inc,4.409999847,TRUE,2011,,,,,,,,,,
+1088,MTEX,Mannatech Inc,16.20000076,FALSE,2009,,12-Jul,25-Sep,4,4,7,7,2-Feb,17-Apr,3.765607595
+1089,MTW,Manitowoc Co Inc,11.55000019,FALSE,2009,,23-Oct,6-Jan,7,7,4,4,23-Oct,6-Jan,11.68286417
+1090,MNTUF,Manitou Gold Inc,0.039999999,TRUE,2011,,,,,,,,,,
+1091,MAOIF,Manitou BF SA,$18.47 ,TRUE,,'Date',,,,,,,,,
+1092,MOBAF,Manitoba Telecom Services Inc,$29.24 ,TRUE,,'Date',,,,,,,,,
+1093,MNTX,Manitex International Inc,4.599999905,FALSE,2009,,27-Nov,10-Feb,8,8,3,3,27-Nov,10-Feb,16.01586791
+1094,MWTCY,Manila Water Co Inc,7.550000191,TRUE,2012,,,,,,,,,,
+1095,MWTCF,Manila Water Co Inc,0.280000001,FALSE,2010,,2-Aug,16-Oct,6,5,4,5,10-Apr,24-Jun,5.530725059
+1096,MERVF,Manila Electric Co,5.349999905,TRUE,2013,,,,,,,,,,
+1097,MAEOY,Manila Electric Co,12.09000015,TRUE,2013,,,,,,,,,,
+1098,MNFSF,ManifestSeven Holdings Corp,0.150000006,TRUE,2020,,,,,,,,,,
+1099,MHTX,Manhattan Scientifics Inc,0.027000001,TRUE,2012,,,,,,,,,,
+1100,MHTZF,Manhattan Corp Ltd,0.021,TRUE,2013,,,,,,,,,,
+1101,LOAN,Manhattan Bridge Capital Inc,4.730000019,FALSE,2009,,26-Nov,9-Feb,7,7,4,4,21-Apr,5-Jul,13.1643522
+1102,MANH,Manhattan Associates Inc,91.16999817,FALSE,2009,,10-Apr,24-Jun,6,6,5,5,10-Apr,24-Jun,11.73562658
+1103,MCAP,Mango Capital Inc,0.01,FALSE,2009,,3-Jan,18-Mar,7,7,4,4,3-Jan,18-Mar,23.8790808
+1104,WHTGF,Mangazeya Mining Ltd,0.0854,TRUE,2011,,,,,,,,,,
+1105,MNXXF,Manganese X Energy Corp,0.223900005,TRUE,2020,,,,,,,,,,
+1106,MDOMF,Mandom Corp,$24.26 ,TRUE,,No data fetched for symbol MDOMF using YahooDailyReader,,,,,,,,,
+1107,MNOIY,Mandarin Oriental International Ltd,18.29999924,FALSE,2009,,24-Mar,7-Jun,8,7,3,4,24-Mar,7-Jun,5.511705864
+1108,MAORF,Mandarin Oriental International Ltd,1.899999976,FALSE,2010,,29-Aug,12-Nov,6,6,4,4,29-Aug,12-Nov,7.288106894
+1109,MNDJF,Mandalay Resources Corp,1.230000019,TRUE,2012,,,,,,,,,,
+1110,MANU,Manchester United PLC,15.35000038,TRUE,2012,,,,,,,,,,
+1111,MNII,Manati Industries Inc,0.07,FALSE,2009,,16-Apr,30-Jun,1,1,9,9,16-Apr,30-Jun,17.62826878
+1112,HZNB,Manasota Group Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+1113,MMCGF,Management Consulting Group PLC,0.02,TRUE,2012,,,,,,,,,,
+1114,MAWHY,Man Wah Holdings Ltd,31.48999977,TRUE,2011,,,,,,,,,,
+1115,MAWHF,Man Wah Holdings Ltd,1.789999962,FALSE,2010,,13-Oct,27-Dec,5,5,5,5,9-Sep,23-Nov,12.15235232
+1116,MAGOY,MAN SE,4.579999924,FALSE,2010,,19-Dec,4-Mar,7,7,3,3,19-Dec,4-Mar,6.225506276
+1117,MAGOF,MAN SE,47.61999893,TRUE,2012,,,,,,,,,,
+1118,MSGNF,Man Sang International Ltd,0.041000001,TRUE,2012,,,,,,,,,,
+1119,MNGPY,Man Group PLC,$1.79 ,TRUE,,No data fetched for symbol MNGPY using YahooDailyReader,,,,,,,,,
+1120,MNGPF,Man Group PLC,1.549999952,TRUE,2013,,,,,,,,,,
+1121,MMMRF,Mammoth Resources Corp,0.052000001,TRUE,2019,,,,,,,,,,
+1122,TUSK,Mammoth Energy Services Inc,2.190000057,TRUE,2016,,,,,,,,,,
+1123,MMMB,MamaMancini's Holdings Inc,1.960000038,TRUE,2013,,,,,,,,,,
+1124,MAMS,MAM Software Group Inc,$12.12 ,TRUE,,No data fetched for symbol MAMS using YahooDailyReader,,,,,,,,,
+1125,MLVF,Malvern Bancorp Inc,14.84000015,FALSE,2009,,31-Oct,14-Jan,7,7,4,4,31-Oct,14-Jan,5.595306662
+1126,MNKKQ,Mallinckrodt PLC,0.094999999,TRUE,2020,,,,,,,,,,
+1127,MLLNF,Malin Corporation PLC,5.674600124,TRUE,2017,,,,,,,,,,
+1128,MBUU,Malibu Boats Inc,57.58000183,TRUE,2014,,,,,,,,,,
+1129,MLYAF,Malaysian Airline System Bhd,$0.05 ,TRUE,,'Date',,,,,,,,,
+1130,MYPRF,Malaysia Airports Holdings Bhd,$2.14 ,TRUE,,No data fetched for symbol MYPRF using YahooDailyReader,,,,,,,,,
+1131,LMCTF,Malayan Cement Bhd,$2.35 ,TRUE,,No data fetched for symbol LMCTF using YahooDailyReader,,,,,,,,,
+1132,MLYNF,Malayan Banking Bhd,1.629999995,FALSE,2010,,14-Mar,28-May,4,4,6,6,23-Feb,8-May,3.603569544
+1133,MLYBY,Malayan Banking Bhd,3.980000019,FALSE,2009,,23-Feb,8-May,5,5,6,6,23-Feb,8-May,8.566540228
+1134,MLGF,Malaga Financial Corp,24,FALSE,2009,,8-May,22-Jul,8,8,3,3,8-May,22-Jul,5.497997138
+1135,MLAC,Malacca Straits Acquisition Co Ltd,9.770000458,TRUE,2020,,,,,,,,,,
+1136,MBCMF,Malabar Coal Ltd,0.234999999,TRUE,2016,,,,,,,,,,
+1137,MKCOF,Makoto Construction Co Ltd,5.599999905,TRUE,2019,,,,,,,,,,
+1138,MAKOF,Mako Mining Corp,0.230000004,TRUE,2012,,,,,,,,,,
+1139,MKTAY,Makita Corp,50.75999832,FALSE,2010,,15-Dec,28-Feb,6,6,4,4,15-Dec,28-Feb,6.32027249
+1140,MKEWF,Makita Corp,48.07500076,TRUE,2012,,,,,,,,,,
+1141,MKMLF,Makino Milling Machine Co Ltd,39.06000137,TRUE,2013,,,,,,,,,,
+1142,CQCQ,MakingORG Inc,0.5,TRUE,2014,,,,,,,,,,
+1143,MAKE,Makepeace AD Co,4550,TRUE,2012,,,,,,,,,,
+1144,MMYT,MakeMyTrip Ltd,24.93000031,FALSE,2010,,23-Aug,6-Nov,6,6,4,4,23-Aug,6-Nov,10.57842624
+1145,MAKAF,Makara Mining Corp,0.598999977,TRUE,2020,,,,,,,,,,
+1146,SIZYF,Major Precious Metals Corp,0.521600008,TRUE,2020,,,,,,,,,,
+1147,MJDLF,Major Drilling Group International Inc,5.25,FALSE,2009,,30-Nov,13-Feb,7,7,4,4,30-Nov,13-Feb,10.39994278
+1148,MCPDF,Major Cineplex Group PLC,$0.77 ,TRUE,,No data fetched for symbol MCPDF using YahooDailyReader,,,,,,,,,
+1149,MCGRF,Major Cineplex Group PLC,0.540000021,TRUE,2013,,,,,,,,,,
+1150,MJGCF,Majestic Gold Corp,0.049219999,TRUE,2012,,,,,,,,,,
+1151,MJCO,Majesco,16,TRUE,2015,,,,,,,,,,
+1152,BLURF,Maistro PLC,$0.29 ,TRUE,,No data fetched for symbol BLURF using YahooDailyReader,,,,,,,,,
+1153,MDOUF,Maisons du Monde France SA,17.39599991,TRUE,2018,,,,,,,,,,
+1154,MSFN,MainStreet Financial Corp,0.031500001,FALSE,2010,,1-Mar,15-May,2,2,8,8,1-Mar,15-May,18.01873544
+1155,MEQYF,Mainstreet Equity Corp,56.59999847,FALSE,2009,,1-May,15-Jul,7,7,4,4,1-May,15-Jul,4.416939304
+1156,MNSB,MainStreet Bancshares Inc,16.05999947,FALSE,2009,,5-Nov,19-Jan,7,7,4,4,5-Nov,19-Jan,7.141664549
+1157,MMDZF,Mainstay Medical International PLC,6.5,TRUE,2018,,,,,,,,,,
+1158,MMD,MainStay MacKay DefinedTerm Municipal Opportunitie,21.17000008,TRUE,2012,,,,,,,,,,
+1159,MSFG,MainSource Financial Group Inc,40.65000153,TRUE,2012,,,,,,,,,,
+1160,MLHHF,Mainland Headwear Holdings Ltd,$0.39 ,TRUE,,'Date',,,,,,,,,
+1161,MFGHF,Mainfreight Ltd,31.45000076,TRUE,2013,,,,,,,,,,
+1162,MSWV,Main Street Financial Services Corp,17.10000038,TRUE,2019,,,,,,,,,,
+1163,MAIN,Main Street Capital Corp,31.20999908,FALSE,2009,,13-May,27-Jul,8,8,3,3,13-May,27-Jul,4.131629755
+1164,MSPAF,MailUp SpA,6.130000114,TRUE,2020,,,,,,,,,,
+1165,MLRYY,Mail.ru Group Ltd,28.62000084,TRUE,2012,,,,,,,,,,
+1166,MLRUY,Mail.ru Group Ltd,$28.13 ,TRUE,,No data fetched for symbol MLRUY using YahooDailyReader,,,,,,,,,
+1167,MDNL,Maiden Lane Jewelry Ltd,0.550000012,TRUE,2014,,,,,,,,,,
+1168,MHLD,Maiden Holdings Ltd,2.00999999,FALSE,2009,,22-May,5-Aug,5,5,6,6,22-May,5-Aug,11.12589584
+1169,MGEVF,Mahindra Lifespace Developers Ltd,$25.50 ,TRUE,,No data fetched for symbol MGEVF using YahooDailyReader,,,,,,,,,
+1170,MAHMF,Mahindra & Mahindra Ltd,6.400000095,FALSE,2010,,25-Mar,8-Jun,4,4,6,6,25-Mar,8-Jun,6.78320548
+1171,MHGPF,Mahdia Gold Corp,$0.05 ,TRUE,,No data fetched for symbol MHGPF using YahooDailyReader,,,,,,,,,
+1172,MTENY,Mahanagar Telephone Nigam Ltd,0.189999998,FALSE,2009,,22-May,5-Aug,6,6,5,5,22-May,5-Aug,6.593249905
+1173,MYTAY,Magyar Telekom PLC,5.599999905,FALSE,2009,,6-Jul,19-Sep,7,7,4,4,6-Jul,19-Sep,3.559341255
+1174,MGYTF,Magyar Telekom PLC,1.309999943,TRUE,2014,,,,,,,,,,
+1175,MGYR,Magyar Bancorp Inc,9.050000191,FALSE,2009,,4-Apr,18-Jun,8,8,3,3,4-Apr,18-Jun,3.881757877
+1176,MGNU,Magnus International Resources Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+1177,MGIDF,Magnum Goldcorp Inc,0.032400001,TRUE,2019,,,,,,,,,,
+1178,SVMRF,Magnora ASA,2.220000029,FALSE,2009,,4-Jun,18-Aug,6,3,5,8,1-Dec,14-Feb,11.90114965
+1179,MGPTF,Magnolia Petroleum PLC,0.005,TRUE,2012,,,,,,,,,,
+1180,MGY,Magnolia Oil & Gas Corp,5.769999981,TRUE,2017,,,,,,,,,,
+1181,MGNI,Magnite Inc,12.06000042,TRUE,2014,,,,,,,,,,
+1182,MGJNF,Magnit PJSC,$114.00 ,TRUE,,'Date',,,,,,,,,
+1183,URNXF,Magnis Energy Technologies Ltd,0.180000007,FALSE,2009,,8-Dec,21-Feb,7,7,4,4,8-Dec,21-Feb,16.28157547
+1184,BKBLF,Magnetic North Acquisition Corp,0.629999995,TRUE,2020,,,,,,,,,,
+1185,MFRSY,Magnesita Refratarios SA,$28.07 ,TRUE,,No data fetched for symbol MFRSY using YahooDailyReader,,,,,,,,,
+1186,MFRSF,Magnesita Refratarios SA,$7.72 ,TRUE,,No data fetched for symbol MFRSF using YahooDailyReader,,,,,,,,,
+1187,MX,MagnaChip Semiconductor Corp,13.72999954,TRUE,2011,,,,,,,,,,
+1188,MAGAA,Magna-Lab Inc,1.700000048,TRUE,2012,,,,,,,,,,
+1189,BRIOF,Magna Terra Minerals Inc,0.172000006,FALSE,2010,,25-Jul,8-Oct,4,4,6,6,25-Jul,8-Oct,11.22936832
+1190,MGA,Magna International Inc,61.20000076,FALSE,2009,,7-Apr,21-Jun,6,6,5,5,7-Apr,21-Jun,6.650277661
+1191,MGLQF,Magna Gold Corp,0.901499987,TRUE,2019,,,,,,,,,,
+1192,MGGI,Magicstem Group Corp,0.093999997,TRUE,2014,,,,,,,,,,
+1193,CALL,magicJack VocalTec Ltd,8.670000076,TRUE,2012,,,,,,,,,,
+1194,MGIC,Magic Software Enterprises Ltd,14.72999954,FALSE,2009,,8-Dec,21-Feb,8,7,3,4,8-Dec,21-Feb,9.244685195
+1195,MGFRF,MagForce AG,2.819999933,TRUE,2018,,,,,,,,,,
+1196,MGTA,Magenta Therapeutics Inc,6.630000114,TRUE,2018,,,,,,,,,,
+1197,MAGNF,Magellan Minerals Ltd,$0.07 ,TRUE,,No data fetched for symbol MAGNF using YahooDailyReader,,,,,,,,,
+1198,MMP,Magellan Midstream Partners LP,40.79999924,FALSE,2009,,8-Dec,21-Feb,8,8,3,3,27-Oct,10-Jan,5.826886899
+1199,MGLN,Magellan Health Inc,82.25,FALSE,2009,,6-May,20-Jul,6,6,5,5,6-May,20-Jul,8.001618003
+1200,MAGE,Magellan Gold Corp,1.090000033,TRUE,2012,,,,,,,,,,
+1201,MALJF,Magellan Aerospace Corp,6.190000057,FALSE,2009,,30-Sep,14-Dec,3,3,8,8,30-Sep,14-Dec,4.838396899
+1202,MAGS,Magal Security Systems Ltd,3.730000019,FALSE,2009,,27-Oct,10-Jan,6,6,5,5,27-Oct,10-Jan,11.73013663
+1203,MAG,MAG Silver Corp,15.39000034,FALSE,2009,,24-Nov,7-Feb,6,6,5,5,24-Nov,7-Feb,6.89494924
+1204,MEISF,Maeda Seisakusho Co Ltd,3.589999914,TRUE,2019,,,,,,,,,,
+1205,MDGL,Madrigal Pharmaceuticals Inc,114.0199966,FALSE,2009,,29-Nov,12-Feb,4,4,7,7,29-Nov,12-Feb,5.75091449
+1206,MDEX,Madison Technologies Inc,0.219999999,TRUE,2012,,,,,,,,,,
+1207,MADI,Madison Systems Inc,0.035,FALSE,2009,,11-Jan,26-Mar,6,6,5,5,11-Jan,26-Mar,15.59419139
+1208,MSGS,Madison Square Garden Sports Corp,169.1000061,TRUE,2015,,,,,,,,,,
+1209,MSGE,Madison Square Garden Entertainment Corp,77,TRUE,2020,,,,,,,,,,
+1210,MDPCF,Madison Pacific Properties Inc,2.880000114,TRUE,2014,,,,,,,,,,
+1211,MCN,Madison Covrd Call & Eqt Strtg Fd,6.380000114,FALSE,2009,,6-Aug,20-Oct,8,8,3,3,28-Dec,13-Mar,2.066483459
+1212,MCBK,Madison County Financial Inc,28.15999985,TRUE,2012,,,,,,,,,,
+1213,MROIF,Madagascar Oil Ltd,$0.02 ,TRUE,,No data fetched for symbol MROIF using YahooDailyReader,,,,,,,,,
+1214,M,Macy's Inc,8.989999771,FALSE,2009,,19-Jan,3-Apr,6,6,5,5,14-May,28-Jul,7.422922273
+1215,MXICF,Macronix International Co Ltd,$0.48 ,TRUE,,No data fetched for symbol MXICF using YahooDailyReader,,,,,,,,,
+1216,MCCLF,Macromill Inc,6.900000095,TRUE,2013,,,,,,,,,,
+1217,MGNX,Macrogenics Inc,22.20999908,TRUE,2013,,,,,,,,,,
+1218,MCESF,Macro Enterprises Inc,1.894999981,TRUE,2013,,,,,,,,,,
+1219,MRPT,MacReport net Inc,0.02,TRUE,2012,,,,,,,,,,
+1220,MFD,Macquarie/First Trust Global Infrastructure/Utilit,8.420000076,FALSE,2009,,12-Dec,25-Feb,9,9,2,2,8-Dec,21-Feb,6.05728163
+1221,MQIIF,Macquarie Int?l Infra Fund Ltd,$0.06 ,TRUE,,No data fetched for symbol MQIIF using YahooDailyReader,,,,,,,,,
+1222,MIC,Macquarie Infrastructure Corp,32.84999847,FALSE,2009,,23-Mar,6-Jun,7,7,4,4,23-Mar,6-Jun,12.99991482
+1223,MQBKY,Macquarie Group Ltd,101.6500015,FALSE,2009,,4-Sep,18-Nov,8,8,3,3,10-Sep,24-Nov,4.98393629
+1224,MCQEF,Macquarie Group Ltd,92.5,FALSE,2009,,4-Sep,18-Nov,9,9,2,2,24-Aug,7-Nov,7.990784035
+1225,MGU,Macquarie Global Infrastructure Total Return Fund,20.18000031,FALSE,2009,,12-Nov,26-Jan,8,8,3,3,23-Mar,6-Jun,5.885678344
+1226,MTSI,MACOM Technology Solutions Holdings Inc,41.63000107,TRUE,2012,,,,,,,,,,
+1227,MCNCF,Macnica Fuji Electronics Holdings Inc,10.75,TRUE,2015,,,,,,,,,,
+1228,MCHHF,Macmahon Holdings Ltd,0.189999998,FALSE,2009,,30-Jan,14-Apr,7,7,4,4,30-Jan,14-Apr,8.111562808
+1229,MFNC,Mackinac Financial Corp,12.57999992,FALSE,2009,,11-Nov,25-Jan,8,8,3,3,14-Nov,28-Jan,5.105155253
+1230,MCKZF,Mackenzie Master LP,$0.78 ,TRUE,,No data fetched for symbol MCKZF using YahooDailyReader,,,,,,,,,
+1231,CLI,Mack-Cali Realty Corp,13.68999958,FALSE,2009,,12-Nov,26-Jan,6,4,5,7,13-Nov,27-Jan,3.413206763
+1232,TDMMF,Mach7 Technologies Ltd,0.675000012,TRUE,2015,,,,,,,,,,
+1233,MAC,Macerich Co,8.699999809,FALSE,2009,,27-Oct,10-Jan,8,6,3,5,1-Oct,15-Dec,4.923870726
+1234,MACE,Mace Security International Inc,0.400000006,FALSE,2009,,7-Nov,21-Jan,4,4,7,7,7-Nov,21-Jan,8.330690161
+1235,MCDMF,MacDonald Mines Exploration Ltd,0.057,FALSE,2009,,29-Jun,12-Sep,6,6,5,5,29-Jun,12-Sep,8.71507545
+1236,MRGLF,Macau Resources Group Ltd,$0.06 ,TRUE,,No data fetched for symbol MRGLF using YahooDailyReader,,,,,,,,,
+1237,MALDF,Macau Legend Development Ltd,0.148000002,TRUE,2014,,,,,,,,,,
+1238,MCIM,Macau Capital Investments Inc,0.0105,TRUE,2012,,,,,,,,,,
+1239,MCBC,Macatawa Bank Corp,7.889999866,FALSE,2009,,1-Nov,15-Jan,6,6,5,5,1-Nov,15-Jan,9.481421331
+1240,MMSDF,Macarthur Minerals Ltd,0.319999993,TRUE,2017,,,,,,,,,,
+1241,MBVXQ,MabVax Therapeutics Holdings Inc,$0.02 ,TRUE,,No data fetched for symbol MBVXQ using YahooDailyReader,,,,,,,,,
+1242,MBUMY,Mabuchi Motor Co Ltd,10.02000046,TRUE,2015,,,,,,,,,,
+1243,MBUMF,Mabuchi Motor Co Ltd,38.79000092,TRUE,2014,,,,,,,,,,
+1244,MAANF,Maanshan Iron And Steel Co Ltd,0.245000005,FALSE,2009,,30-May,13-Aug,2,2,9,9,30-Oct,13-Jan,6.525379442
+1245,MLGCF,M3 Metals Corp,0.063500002,TRUE,2011,,,,,,,,,,
+1246,MTHRY,M3 Inc,42.5,TRUE,2020,,,,,,,,,,
+1247,MTHRF,M3 Inc,77,TRUE,2014,,,,,,,,,,
+1248,WUHN,M2Bio Sciences Inc,0.300000012,FALSE,2009,,22-Dec,7-Mar,5,5,6,6,22-Dec,7-Mar,17.22427759
+1249,MTCZF,M2 Group Ltd,$7.85 ,TRUE,,No data fetched for symbol MTCZF using YahooDailyReader,,,,,,,,,
+1250,MCCBF,M2 Cobalt Corp,$0.14 ,TRUE,,No data fetched for symbol MCCBF using YahooDailyReader,,,,,,,,,
+1251,MBOFY,M1 Ltd,$14.81 ,TRUE,,No data fetched for symbol MBOFY using YahooDailyReader,,,,,,,,,
+1252,MBOFF,M1 Ltd,1.600000024,TRUE,2019,,,,,,,,,,
+1253,MHO,M/I Homes Inc,43.86999893,FALSE,2009,,2-Nov,16-Jan,3,3,8,8,2-Nov,16-Jan,10.60032246
+1254,MDC,M.D.C. Holdings Inc,47.25,FALSE,2009,,13-Nov,27-Jan,6,6,5,5,13-Nov,27-Jan,6.248572081
+1255,MTB,M&T Bank Corp,121.8899994,FALSE,2009,,2-Oct,16-Dec,9,9,2,2,1-Oct,15-Dec,6.731504083
+1256,MGPUF,M&G PLC,2.480000019,TRUE,2019,,,,,,,,,,
+1257,MSAAF,M&C Saatchi PLC,1.268419981,TRUE,2019,,,,,,,,,,
+1258,MPEVF,M P Evans Group PLC,$5.67 ,TRUE,,No data fetched for symbol MPEVF using YahooDailyReader,,,,,,,,,
+1259,MFBP,M & F Bancorp Inc,3.599999905,FALSE,2009,,23-Dec,8-Mar,7,7,4,4,23-Dec,8-Mar,9.404137298

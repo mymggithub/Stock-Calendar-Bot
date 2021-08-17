@@ -1,0 +1,1258 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,adj_downs
+0,BCOMF,B Communications Ltd,2.049999952316284,True,2020.0,,,,,
+1,BMRG,B Riley Principal Merger Corp II,10.569899559020996,True,2020.0,,,,,
+2,BGS,B&G Foods Inc,27.523799896240234,False,2009.0,,10-30,01-13,3.0,9.0
+3,BMRPF,B&M European Value Retail SA,6.638899803161621,True,2015.0,,,,,
+4,BMRRY,B&M European Value Retail SA,26.479999542236328,True,2016.0,,,,,
+5,SCDA,B- Scada Inc,0.019999999552965164,True,2012.0,,,,,
+6,RILY,B. Riley Financial Inc,29.59000015258789,False,2009.0,,03-19,06-02,4.0,8.0
+7,BEAV,B/E Aerospace Inc,$64.47 ,True,,'Date',,,,
+8,BTG,B2Gold Corp,6.085000038146973,False,2009.0,,11-24,02-07,6.0,6.0
+9,BTOHF,B2Holding ASA,$1.15 ,True,,No data fetched for symbol BTOHF using YahooDailyReader,,,,
+10,BTOOY,B2W - Companhia Digital,27.920000076293945,True,2012.0,,,,,
+11,BZWHF,B2W - Companhia Digital,$12.34 ,True,,No data fetched for symbol BZWHF using YahooDailyReader,,,,
+12,BABB,BAB Inc,0.5600000023841858,False,2009.0,,11-19,02-02,5.0,7.0
+13,BW,Babcock & Wilcox Enterprises Inc,2.759999990463257,True,2015.0,,,,,
+14,BCKIF,Babcock International Group PLC,3.5299999713897705,True,2012.0,,,,,
+15,BCKIY,Babcock International Group PLC,7.900000095367432,True,2014.0,,,,,
+16,BBYLF,Babylon Ltd,1.1863360404968262,True,2020.0,,,,,
+17,BCLMF,Bacanora Lithium PLC,0.46000000834465027,True,2013.0,,,,,
+18,BFEHF,Bachem Holding AG,418.0,True,2011.0,,,,,
+19,PRYNF,Backstageplay Inc,0.0640999972820282,False,2009.0,,12-29,03-14,9.0,3.0
+20,BCCEF,Bactech Environmental Corp,0.014999999664723873,True,2012.0,,,,,
+21,BTCA,Bactolac Pharmaceutical Inc,120000.0,True,2012.0,,,,,
+22,BADFF,Badger Daylighting Ltd,27.190000534057614,False,2009.0,,09-25,12-09,7.0,5.0
+23,BMI,Badger Meter Inc,77.18000030517578,False,2009.0,,10-20,01-03,6.0,6.0
+24,BPMI,Badger Paper Mills Inc,0.020400000736117363,True,2012.0,,,,,
+25,BADG,Badger State Ethanol LLC,"$5,000.00 ",True,,No data fetched for symbol BADG using YahooDailyReader,,,,
+26,BADGA,Badger State Ethanol LLC,"$4,625.00 ",True,,No data fetched for symbol BADGA using YahooDailyReader,,,,
+27,BAESF,BAE Systems PLC,6.210000038146973,False,2009.0,,11-15,01-29,6.0,6.0
+28,BAESY,BAE Systems PLC,25.10000038146973,False,2009.0,,11-16,01-30,6.0,6.0
+29,BDVB,Bagger Dave's Burger Tavern Inc,0.05000000074505806,True,2017.0,,,,,
+30,BSHPY,Bahamas Petroleum Co PLC,$1.06 ,True,,No data fetched for symbol BSHPY using YahooDailyReader,,,,
+31,BSHPF,Bahamas Petroleum Co PLC,0.035999998450279236,True,2013.0,,,,,
+32,BCCMY,BAIC Motor Corp Ltd,4.420000076293945,True,2018.0,,,,,
+33,BMCLF,BAIC Motor Corp Ltd,0.5,True,2018.0,,,,,
+34,BIDU,Baidu Inc,143.3300018310547,False,2009.0,,08-23,11-06,6.0,6.0
+35,BCSF,Bain Capital Specialty Finance Inc,10.770000457763672,True,2018.0,,,,,
+36,BMRMF,Bains de Mer Monaco,73.0,True,2012.0,,,,,
+37,BAOOF,BAIOO Family Interactive Ltd,$0.10 ,True,,No data fetched for symbol BAOOF using YahooDailyReader,,,,
+38,BBBK,Baker Boyer Bancorp,69.25,False,2009.0,,12-12,02-25,8.0,4.0
+39,BKR,Baker Hughes Co,17.510000228881836,False,2009.0,,03-09,05-23,6.0,6.0
+40,BKUH,"Bakhu Holdings, Corp.",5.25,True,2018.0,,,,,
+41,BKFKF,Bakkafrost P/F,64.375,True,2015.0,,,,,
+42,BKKVF,Bakkavor Group PLC,1.4094200134277344,True,2019.0,,,,,
+43,BKKN,Bakken Resources Inc,$0.08 ,True,,No data fetched for symbol BKKN using YahooDailyReader,,,,
+44,BWTX,Bakken Water Transfer Services Inc,0.009999999776482582,False,2009.0,,08-02,10-16,6.0,6.0
+45,BLNC,Balance Labs Inc,0.625,True,2016.0,,,,,
+46,BCPC,Balchem Corp,106.16999816894531,False,2009.0,,08-06,10-20,4.0,8.0
+47,BAFBF,Balfour Beatty PLC,2.650000095367432,False,2010.0,,12-14,02-27,5.0,6.0
+48,BAFYY,Balfour Beatty PLC,6.75600004196167,True,2012.0,,,,,
+49,BCNN,Balincan USA Inc,0.20000000298023224,False,2009.0,,03-16,05-30,1.0,11.0
+50,BLL,Ball Corp,94.4499969482422,False,2009.0,,01-07,03-22,10.0,2.0
+51,BTN,Ballantyne Strong Inc,1.6100000143051147,False,2009.0,,11-20,02-03,7.0,5.0
+52,BLDP,Ballard Power Systems Inc,16.170000076293945,False,2009.0,,12-10,02-23,10.0,2.0
+53,BRSI,Ballistic Recovery Systems Inc,0.02850000001490116,False,2009.0,,12-28,03-13,9.0,3.0
+54,BSPA,Ballston SpA Bancorp Inc,43.0,False,2009.0,,01-21,04-05,12.0,0.0
+55,BLYQ,Bally Corp,0.5600000023841858,True,2018.0,,,,,
+56,BLLY,Bally Total Fitness Holding Corp,$0.50 ,True,,No data fetched for symbol BLLY using YahooDailyReader,,,,
+57,BALY,Ballys Corp,28.6299991607666,True,2020.0,,,,,
+58,BALMF,Balmoral Resources Ltd,$0.58 ,True,,No data fetched for symbol BALMF using YahooDailyReader,,,,
+59,BLHEF,Baloise Holding AG,139.0,True,2012.0,,,,,
+60,BLHEY,Baloise Holding AG,14.380000114440918,False,2009.0,,07-01,09-14,3.0,9.0
+61,RWWDF,Balsam Technologies Corp,13.039999961853027,False,2009.0,,01-02,03-17,4.0,8.0
+62,BISA,Baltic International USA Inc,0.014499999582767487,True,2012.0,,,,,
+63,BWPPF,Balwin Properties Limited,$0.16 ,True,,No data fetched for symbol BWPPF using YahooDailyReader,,,,
+64,BYYLF,Balyo SA,1.2100000381469727,True,2018.0,,,,,
+65,NPEZF,Bam Bam Resources Corp,0.7081000208854675,True,2018.0,,,,,
+66,BSKZF,Bambuser AB,1.2000000476837158,True,2020.0,,,,,
+67,BANC,Banc of California Inc,13.199999809265135,False,2009.0,,05-18,08-01,8.0,4.0
+68,BNCDY,Banca Mediolanum,14.100000381469727,True,2016.0,,,,,
+69,BNMDF,Banca Mediolanum,7.650000095367432,True,2014.0,,,,,
+70,MDLAY,Banca Mediolanum,$13.80 ,True,,No data fetched for symbol MDLAY using YahooDailyReader,,,,
+71,BMDPF,Banca Monte dei Paschi di Siena,1.2100000381469727,True,2012.0,,,,,
+72,BMDPY,Banca Monte dei Paschi di Siena,0.6000000238418579,True,2014.0,,,,,
+73,BPMLF,Banca Popolare di Milano BPM Bipiemme,$0.39 ,True,,'Date',,,,
+74,BPMLY,Banca Popolare di Milano BPM Bipiemme,$2.42 ,True,,'Date',,,,
+75,BAFI,BancAffiliated Inc,106.0,True,2012.0,,,,,
+76,BANF,BancFirst Corp,52.02999877929688,False,2009.0,,05-20,08-03,7.0,5.0
+77,BBAR,Banco BBVA Argentina SA,3.059999942779541,False,2009.0,,11-17,01-31,4.0,8.0
+78,BBVXF,Banco Bilbao Vizcaya Argentaria Brasil SA,3.742500066757202,True,2012.0,,,,,
+79,BBVA,Banco Bilbao Vizcaya Argentaria SA,3.714999914169312,False,2009.0,,08-20,11-03,7.0,5.0
+80,BBVXF,Banco Bilbao Vizcaya Argentaria SA,3.742500066757202,True,2012.0,,,,,
+81,BBSPY,Banco BPI SA,$2.65 ,True,,No data fetched for symbol BBSPY using YahooDailyReader,,,,
+82,BNCZF,Banco BPM SpA,1.7091000080108643,True,2014.0,,,,,
+83,BPSAY,Banco BPM SpA,$1.70 ,True,,No data fetched for symbol BPSAY using YahooDailyReader,,,,
+84,BPCGY,Banco Comercial Portugues SA,$2.17 ,True,,No data fetched for symbol BPCGY using YahooDailyReader,,,,
+85,BPCGF,Banco Comercial Portugues SA,0.10000000149011612,True,2012.0,,,,,
+86,BDYVY,Banco Daycoval S.A.,$4.09 ,True,,No data fetched for symbol BDYVY using YahooDailyReader,,,,
+87,BCH,Banco De Chile,18.5,False,2009.0,,01-28,04-12,7.0,5.0
+88,BCCDF,Banco de Credito del Peru,$1.85 ,True,,'Date',,,,
+89,BNDSF,Banco de Sabadell S.A,0.3700000047683716,False,2010.0,,07-31,10-14,3.0,8.0
+90,BNDSY,Banco de Sabadell S.A,0.7160000205039978,True,2012.0,,,,,
+91,BBAJF,Banco del Bajio SA,1.0,True,2019.0,,,,,
+92,BDORY,Banco do Brasil SA BB Brasil,5.9724998474121085,False,2009.0,,05-20,08-03,6.0,6.0
+93,BHPTY,Banco Hipotecario SA,$2.80 ,True,,No data fetched for symbol BHPTY using YahooDailyReader,,,,
+94,BNZIF,Banco Invex SA Institucion De Banca Multiple-Invex,0.8234000205993652,True,2015.0,,,,,
+95,BLX,Banco Latinoamericano de Comercio Exterior SA,13.960000038146973,False,2009.0,,09-01,11-15,6.0,6.0
+96,BMA,Banco Macro SA,14.967700004577637,False,2009.0,,09-30,12-14,4.0,8.0
+97,BCVMF,Banco Macro SA,$2.35 ,True,,No data fetched for symbol BCVMF using YahooDailyReader,,,,
+98,BPATL,Banco Patagonia SA,$18.21 ,True,,No data fetched for symbol BPATL using YahooDailyReader,,,,
+99,BPESF,Banco Popular Espanol SA,$0.04 ,True,,'Date',,,,
+100,BSBR,Banco Santander (Brasil) SA,6.440000057220459,False,2009.0,,08-23,11-06,6.0,6.0
+101,BSAC,Banco Santander Chile,17.729999542236328,False,2009.0,,05-22,08-05,8.0,4.0
+102,BSMX,Banco Santander Mexico SA,4.650000095367432,True,2012.0,,,,,
+103,BMEXF,Banco Santander Mexico SA,0.6187700033187866,True,2013.0,,,,,
+104,BRPBF,Banco Santander Rio SA,2.2899999618530273,True,2019.0,,,,,
+105,SAN,Banco Santander SA,2.6600000858306885,False,2009.0,,11-20,02-03,7.0,5.0
+106,BCDRF,Banco Santander SA,2.815000057220459,False,2009.0,,11-24,02-07,6.0,6.0
+107,CIB,BanColombia SA,29.28000068664551,False,2009.0,,02-17,05-02,6.0,6.0
+108,BCTF,Bancorp 34 Inc,10.75,False,2009.0,,09-18,12-02,7.0,5.0
+109,BKJ,Bancorp of New Jersey Inc,$17.89 ,True,,No data fetched for symbol BKJ using YahooDailyReader,,,,
+110,BCSO,Bancorp Southern Indiana,42.0,True,2012.0,,,,,
+111,BXS,BancorpSouth Bank,26.399999618530273,False,2009.0,,10-18,01-01,6.0,6.0
+112,BCV,Bancroft Fund Ltd,26.59000015258789,False,2009.0,,12-09,02-22,9.0,3.0
+113,NCBDF,BANDAI NAMCO Holdings Inc,73.5199966430664,False,2009.0,,06-06,08-20,4.0,8.0
+114,NCBDY,BANDAI NAMCO Holdings Inc,36.720001220703125,True,2019.0,,,,,
+115,BANAF,Bandanna Energy Ltd,$0.10 ,True,,No data fetched for symbol BANAF using YahooDailyReader,,,,
+116,BAND,Bandwidth Inc,145.51499938964844,True,2017.0,,,,,
+117,BGOUF,Bang & Olufsen A/S,2.994999885559082,False,2009.0,,01-08,03-23,6.0,5.0
+118,BXNG,Bang Holdings Corp,0.4009999930858612,True,2016.0,,,,,
+119,BFGX,Bangfu Technology Group Co Ltd,6,True,2020.0,,,,,
+120,BKKLF,Bangkok Bank PCL,6.550000190734863,True,2012.0,,,,,
+121,BKKLY,Bangkok Bank PCL,18.360000610351562,True,2012.0,,,,,
+122,BKKPF,Bangkok Bank PCL,3.0199999809265137,False,2009.0,,06-29,09-12,8.0,4.0
+123,BKKLF,Bangkok Bank PCL,6.550000190734863,True,2012.0,,,,,
+124,BKKCF,Bangkok Chain Hospital PLC,9.420000076293945,True,2020.0,,,,,
+125,BDULF,Bangkok Dusit Medical Services PCL,0.6399999856948853,False,2009.0,,10-06,12-20,8.0,4.0
+126,BDUUF,Bangkok Dusit Medical Services PCL,0.6000000238418579,False,2010.0,,03-25,06-08,6.0,5.0
+127,BDUUY,Bangkok Dusit Medical Services PCL,23.25,True,2013.0,,,,,
+128,BKENF,Bangkok Expressway PLC,$1.10 ,True,,No data fetched for symbol BKENF using YahooDailyReader,,,,
+129,BGLAF,Bangkok Life Assurance PCL,$0.40 ,True,,No data fetched for symbol BGLAF using YahooDailyReader,,,,
+130,BGOPF,Bango PLC,$1.24 ,True,,No data fetched for symbol BGOPF using YahooDailyReader,,,,
+131,BQAZF,Bank Audi SAL,6.889999866485596,True,2013.0,,,,,
+132,BBD,Bank Bradesco SA,4.360099792480469,False,2009.0,,08-12,10-26,6.0,6.0
+133,BBDO,Bank Bradesco SA,3.9100000858306885,True,2012.0,,,,,
+134,PBDIF,Bank Danamon Indonesia Tbk,0.3100000023841858,True,2019.0,,,,,
+135,BFTL,Bank Fincastle VA,2.299999952316284,True,2016.0,,,,,
+136,BFC,Bank First Corp,65.34999847412111,False,2009.0,,03-15,05-29,8.0,4.0
+137,BKHPF,Bank Hapoalim BM,5.806399822235107,True,2012.0,,,,,
+138,BKHYY,Bank Hapoalim BM,31.399999618530273,False,2009.0,,05-26,08-09,5.0,7.0
+139,BKSNF,Bank J Safra Sarasin Ltd,$27.35 ,True,,No data fetched for symbol BKSNF using YahooDailyReader,,,,
+140,BLMIF,Bank Leumi Le-Israel BM,4.800000190734863,True,2012.0,,,,,
+141,BKMU,Bank Mutual Corp,$10.40 ,True,,'Date',,,,
+142,PTBRY,Bank Negara Indonesia (Persero) Tbk,9.399999618530273,True,2014.0,,,,,
+143,PBNNF,Bank Negara Indonesia (Persero) Tbk,0.23000000417232513,True,2018.0,,,,,
+144,AOCN,Bank Ocean City,$0.01 ,True,,No data fetched for symbol AOCN using YahooDailyReader,,,,
+145,BARK,Bank of Akron,130.0,True,2012.0,,,,,
+146,BAC,Bank of America Corp,26.97500038146973,False,2009.0,,11-04,01-18,8.0,4.0
+147,BKAHF,Bank Of Ayudhya PCL,0.6100000143051147,False,2010.0,,04-11,06-25,6.0,5.0
+148,BKAYY,Bank Of Ayudhya PCL,14.329999923706055,True,2014.0,,,,,
+149,BORT,Bank of Botetourt Buchanan VA,24.0,False,2009.0,,12-14,02-27,9.0,3.0
+150,BACHF,Bank Of China Ltd,0.3700000047683716,False,2009.0,,05-18,08-01,6.0,6.0
+151,BACHY,Bank Of China Ltd,8.720000267028809,False,2009.0,,09-26,12-10,6.0,6.0
+152,BOCH,Bank of Commerce Holdings Inc,9.125,False,2009.0,,10-23,01-06,5.0,7.0
+153,BCMXY,Bank of Communications Co Ltd,12.979999542236328,True,2012.0,,,,,
+154,BKFCF,Bank of Communications Co Ltd,0.5,False,2010.0,,05-04,07-18,2.0,9.0
+155,BKCYF,Bank of Cyprus Holdings PLC,0.699999988079071,True,2017.0,,,,,
+156,BACPY,Bank of Cyprus Public Company Ltd,$25.10 ,True,,No data fetched for symbol BACPY using YahooDailyReader,,,,
+157,BKEAF,Bank of East Asia Ltd,1.9600000381469729,False,2009.0,,02-22,05-07,8.0,4.0
+158,BKEAY,Bank of East Asia Ltd,2.0,False,2009.0,,03-24,06-07,8.0,4.0
+159,BDGSF,Bank of Georgia Group PLC,10.767999649047852,True,2016.0,,,,,
+160,BOH,Bank of Hawaii Corp,73.44999694824219,False,2009.0,,10-14,12-28,7.0,5.0
+161,BOID,Bank Of Idaho Holding Co,18.530000686645508,True,2019.0,,,,,
+162,ILDBY,Bank of Ireland Group PLC,$13.30 ,True,,No data fetched for symbol ILDBY using YahooDailyReader,,,,
+163,BKRIF,Bank of Ireland Group PLC,2.809999942779541,False,2009.0,,07-03,09-16,5.0,6.0
+164,BKRIY,Bank of Ireland Group PLC,2.890000104904175,True,2018.0,,,,,
+165,BKIWF,Bank of Iwate Ltd,40.0,True,2019.0,,,,,
+166,BOFKF,Bank of Kyoto Ltd,27.388900756835938,True,2012.0,,,,,
+167,BHDB,Bank of Labor Bancshares Inc,40.75,True,2012.0,,,,,
+168,BMRC,Bank of Marin Bancorp,33.509998321533196,False,2009.0,,09-22,12-06,7.0,5.0
+169,BMO,Bank of Montreal,66.26000213623047,False,2009.0,,08-06,10-20,7.0,5.0
+170,NTB,Bank of N.T Butterfield & Son Ltd,31.514999389648438,True,2016.0,,,,,
+171,BNNP,Bank of Napa NA,$20.65 ,True,,'Date',,,,
+172,BK,Bank of New York Mellon Corp,38.38000106811523,False,2009.0,,10-17,12-31,7.0,5.0
+173,BNS,Bank of Nova Scotia,46.2400016784668,False,2009.0,,08-22,11-05,7.0,5.0
+174,BKQNF,Bank of Queensland Ltd,3.950000047683716,True,2012.0,,,,,
+175,BKQNY,Bank of Queensland Ltd,8.880000114440918,True,2012.0,,,,,
+176,BSFO,Bank of San Francisco New,19.600000381469727,True,2018.0,,,,,
+177,BSCA,Bank Of Santa Clarita Ca,10.0,False,2009.0,,03-21,06-04,9.0,3.0
+178,BKSC,Bank of South Carolina Corp,16.475000381469727,False,2009.0,,08-25,11-08,7.0,5.0
+179,BOTJ,Bank of the James Financial Group Inc,10.789999961853027,False,2009.0,,11-25,02-08,6.0,6.0
+180,BPHLF,Bank of The Philippine Islands,1.840000033378601,True,2013.0,,,,,
+181,BPHLY,Bank of The Philippine Islands,31.459999084472656,True,2013.0,,,,,
+182,BKUT,Bank Of Utica (ny),600.0,False,2009.0,,10-19,01-02,6.0,6.0
+183,BKUTK,Bank Of Utica (ny),392.0499877929688,False,2009.0,,12-17,03-02,9.0,3.0
+184,OZK,Bank OZK,28.20000076293945,False,2009.0,,10-19,01-02,8.0,4.0
+185,PBPJF,Bank Pan Indonesia Tbk,0.05000000074505806,True,2019.0,,,,,
+186,PXBBF,Bank Permata Tbk,0.10999999940395355,True,2013.0,,,,,
+187,PKSKY,Bank Polska Kasa Opieki SA,$16.45 ,True,,'Date',,,,
+188,PKSVF,Bank Polska Kasa Opieki SA,12.020000457763672,True,2012.0,,,,,
+189,BKPKF,Bank Polska Kasa Opieki SA,12.803899765014648,True,2013.0,,,,,
+190,BKRKF,Bank Rakyat Indonesia (Persero) Tbk,0.30000001192092896,False,2010.0,,04-03,06-17,4.0,7.0
+191,BKRKY,Bank Rakyat Indonesia (Persero) Tbk,14.069999694824219,True,2011.0,,,,,
+192,BKRL,Bank Reale,5.010000228881836,True,2012.0,,,,,
+193,BSSC,Bank Southside VA Corp,222.0,True,2013.0,,,,,
+194,BSVN,Bank7 Corp,11.220000267028809,True,2018.0,,,,,
+195,BNKJF,Bankers Petroleum Ltd,$1.68 ,True,,'Date',,,,
+196,BFIN,BankFinancial Corp,8.114999771118164,False,2009.0,,10-25,01-08,6.0,6.0
+197,BFCC,BankFirst Capital Corp,20.0,True,2019.0,,,,,
+198,BKGM,BankGuam Holding Co,8.0,True,2012.0,,,,,
+199,BNKXF,Bankia SA,1.4199999570846558,True,2012.0,,,,,
+200,BNKXY,Bankia SA,13.300000190734863,True,2018.0,,,,,
+201,BKIMF,Bankinter SA,4.690000057220459,True,2012.0,,,,,
+202,BKNIY,Bankinter SA,4.710000038146973,False,2009.0,,08-10,10-24,5.0,7.0
+203,RATE,Bankrate Inc,$14.00 ,True,,'Date',,,,
+204,BKFY,Bankshares Fayetteville Inc,$50.00 ,True,,'Date',,,,
+205,BKU,BankUnited Inc,28.469100952148438,True,2011.0,,,,,
+206,BWFG,Bankwell Financial Group Inc,17.25,False,2010.0,,12-08,02-21,5.0,6.0
+207,BANR,Banner Corp,43.209999084472656,False,2009.0,,09-03,11-17,8.0,4.0
+208,BANM,Banner Energy SVCS Corp,0.28999999165534973,True,2015.0,,,,,
+209,BNNLF,Bannerman Resources Ltd,0.03099999949336052,False,2009.0,,11-06,01-20,4.0,8.0
+210,CMHZ,Banny Cosmic International Holdings Inc,0.008000000379979609,False,2009.0,,03-15,05-29,6.0,6.0
+211,BAPUF,Banpu PCL,$0.45 ,True,,No data fetched for symbol BAPUF using YahooDailyReader,,,,
+212,BNPJF,Banpu PCL,$0.96 ,True,,No data fetched for symbol BNPJF using YahooDailyReader,,,,
+213,BNPJY,Banpu PCL,4.460000038146973,True,2018.0,,,,,
+214,BQCNF,Banque Cantonale Vaudoise,104.0,True,2017.0,,,,,
+215,BQNBF,Banque Nationale de Belgique SA,"$3,000.00 ",True,,No data fetched for symbol BQNBF using YahooDailyReader,,,,
+216,BRGGF,Banregio Grupo Financiero SAB de CV,0.551800012588501,True,2018.0,,,,,
+217,BAA,Banro Corp,$0.11 ,True,,'Date',,,,
+218,BYAGF,Banyan Gold Corp,0.216389998793602,True,2017.0,,,,,
+219,BYNEF,Banyan Tree Holdings Ltd,0.1599999964237213,False,2009.0,,03-23,06-06,3.0,9.0
+220,BZUN,Baozun Inc,41.43000030517578,True,2015.0,,,,,
+221,BHB,Bar Harbor Bankshares Inc,23.239999771118164,False,2009.0,,02-12,04-27,7.0,5.0
+222,BAOB,Baraboo Bancorp Inc,3.009999990463257,False,2009.0,,04-06,06-20,4.0,8.0
+223,BRANF,Baran Group Ltd,1.5,False,2009.0,,09-17,12-01,1.0,10.0
+224,BCS,Barclays PLC,7.0349998474121085,False,2009.0,,12-11,02-24,7.0,5.0
+225,BCLYF,Barclays PLC,1.7300000190734863,False,2009.0,,12-10,02-23,7.0,5.0
+226,BCNAF,Barco NV,17.6200008392334,False,2010.0,,03-29,06-12,5.0,6.0
+227,BCNAY,Barco NV,13.40999984741211,True,2016.0,,,,,
+228,BRMT,Bare Metal Standard Inc,0.3499999940395355,True,2017.0,,,,,
+229,BRFH,Barfresh Food Group Inc,0.20499999821186066,True,2012.0,,,,,
+230,BBDC,Barings BDC Inc,8.414999961853027,False,2009.0,,05-09,07-23,8.0,4.0
+231,MCI,Barings Corporate Investors,13.404999732971193,False,2009.0,,06-12,08-26,6.0,6.0
+232,BGH,Barings Global Short Duration High Yield Fund,13.744999885559082,True,2012.0,,,,,
+233,MPV,Barings Participation Investors,12.18000030517578,False,2009.0,,04-03,06-17,7.0,5.0
+234,BHAC,Barington/Hilco Acquisition Corp,$10.90 ,True,,No data fetched for symbol BHAC using YahooDailyReader,,,,
+235,BCCI,Baristas Coffee Co Inc,0.016899999231100082,True,2012.0,,,,,
+236,BPTNF,Barito Pacific Tbk,$0.12 ,True,,'Date',,,,
+237,BKMNF,Barker Minerals Ltd,0.011500000022351742,True,2018.0,,,,,
+238,BGMZF,Barkerville Gold Mines Ltd,$0.30 ,True,,No data fetched for symbol BGMZF using YahooDailyReader,,,,
+239,BRKCF,Barksdale Resources Corp,0.536899983882904,True,2016.0,,,,,
+240,BRRAF,Barloworld Ltd,8.300000190734863,True,2012.0,,,,,
+241,BRRAY,Barloworld Ltd,3.920000076293945,False,2009.0,,01-21,04-05,6.0,6.0
+242,BNED,Barnes & Noble Education Inc,3.549999952316284,True,2015.0,,,,,
+243,BKS,Barnes & Noble Inc,$6.49 ,True,,No data fetched for symbol BKS using YahooDailyReader,,,,
+244,B,Barnes Group Inc,44.0,False,2009.0,,12-11,02-24,8.0,4.0
+245,BRN,Barnwell Industries Inc,1.017300009727478,False,2009.0,,08-11,10-25,3.0,9.0
+246,RNGTF,Barolo Ventures Corp,0.005499999970197678,True,2012.0,,,,,
+247,BDEYF,Baron de Ley SA,$97.00 ,True,,'Date',,,,
+248,BROE,Baron Energy Inc,0.005100000184029341,False,2009.0,,12-31,03-16,8.0,4.0
+249,GDOLF,Baron Oil PLC,$0.03 ,True,,No data fetched for symbol GDOLF using YahooDailyReader,,,,
+250,BARX,Barotex Technology Corp,$0.03 ,True,,No data fetched for symbol BARX using YahooDailyReader,,,,
+251,BRYGF,Baroyeca Gold & Silver Inc,0.17249000072479248,True,2018.0,,,,,
+252,BRCSF,Barra Resources Ltd,0.009999999776482582,True,2019.0,,,,,
+253,CUDA,Barracuda Networks Inc,27.540000915527344,True,2013.0,,,,,
+254,BTDPF,Barratt Developments PLC,6.73199987411499,True,2012.0,,,,,
+255,BTDPY,Barratt Developments PLC,16.334999084472656,True,2016.0,,,,,
+256,BBSI,Barrett Business Services Inc,69.98999786376953,False,2009.0,,05-20,08-03,5.0,7.0
+257,GOLD,Barrick Gold Corp,26.024999618530273,False,2009.0,,12-21,03-06,5.0,7.0
+258,BYCBF,Barry Callebaut AG,2158.0,False,2010.0,,04-09,06-23,9.0,2.0
+259,BRRLY,Barry Callebaut AG,22.0,True,2018.0,,,,,
+260,BRSLF,Barsele Minerals Corp,0.5525000095367432,True,2015.0,,,,,
+261,EAIAF,Baru Gold Corp,0.1120000034570694,False,2009.0,,12-26,03-11,7.0,5.0
+262,BASA,Basanite Inc,0.5099999904632568,True,2013.0,,,,,
+263,BAINF,BASE Inc,31.435800552368164,True,2020.0,,,,,
+264,BSRUF,Base Resources Ltd,0.19890999794006348,True,2017.0,,,,,
+265,BSENF,Baselode Energy Corp,0.33889999985694885,True,2020.0,,,,,
+266,BASFY,Basf SE,16.530000686645508,False,2009.0,,09-01,11-15,7.0,5.0
+267,BFFAF,Basf SE,65.05000305175781,False,2010.0,,04-01,06-15,7.0,4.0
+268,BHNFF,Bashneft PJSOC,$27.10 ,True,,No data fetched for symbol BHNFF using YahooDailyReader,,,,
+269,BASX,Basic Energy Services Inc,0.1462000012397766,True,2019.0,,,,,
+270,BSFFF,Basic-Fit NV,28.649999618530273,True,2018.0,,,,,
+271,BPMUF,Basilea Pharmaceutica Ltd,54.0,True,2015.0,,,,,
+272,BSLAF,Basler AG,$48.50 ,True,,No data fetched for symbol BSLAF using YahooDailyReader,,,,
+273,BSSRF,Bassari Resources Ltd,0.004999999888241291,True,2019.0,,,,,
+274,BSET,Bassett Furniture Industries Inc,14.739999771118164,False,2009.0,,09-18,12-02,7.0,5.0
+275,BOYJF,Basware Oyj,41.0099983215332,True,2014.0,,,,,
+276,BELDF,Batero Gold Corp,0.0689999982714653,False,2010.0,,11-17,01-31,4.0,7.0
+277,BTURF,Bathurst Resources Ltd,0.035999998450279236,True,2017.0,,,,,
+278,BTAVF,BATM Advanced Communications Ltd,1.2365000247955322,False,2010.0,,02-23,05-08,3.0,8.0
+279,BATL,Battalion Oil Corp,7.499899864196777,True,2019.0,,,,,
+280,BTRYF,Battery Minerals Ltd,0.020400000736117363,True,2020.0,,,,,
+281,BMTNF,Battle Mountain Gold Inc,$0.42 ,True,,No data fetched for symbol BMTNF using YahooDailyReader,,,,
+282,BNAUF,Battle North Gold Corp,1.5281000137329102,False,2009.0,,06-30,09-13,1.0,11.0
+283,BXRX,Baudax Bio Inc,1.090000033378601,True,2019.0,,,,,
+284,BRAGF,Bauer AG,16.979999542236328,True,2013.0,,,,,
+285,BHC,Bausch Health Companies Inc,19.309999465942386,False,2009.0,,11-17,01-31,7.0,5.0
+286,BVIKF,BAVARIA Industries Group AG,$35.74 ,True,,No data fetched for symbol BVIKF using YahooDailyReader,,,,
+287,BVNKF,Bavarian Nordic A/S,33.5,False,2010.0,,12-29,03-14,8.0,3.0
+288,BVNRY,Bavarian Nordic A/S,9.6850004196167,True,2013.0,,,,,
+289,BWAGF,Bawag Group AG,35.0,True,2018.0,,,,,
+290,BXLT,Baxalta Inc,$46.02 ,True,,'Date',,,,
+291,BAX,Baxter International Inc,81.83999633789062,False,2009.0,,05-13,07-27,7.0,5.0
+292,CHPMF,Bay Area Gold Group Ltd,$0.01 ,True,,No data fetched for symbol CHPMF using YahooDailyReader,,,,
+293,BYBK,Bay Bancorp Inc,13.300000190734863,True,2012.0,,,,,
+294,BAYK,Bay Banks of Virginia Inc,7.269899845123291,False,2009.0,,12-17,03-02,8.0,4.0
+295,BCML,BayCom Corp,13.5600004196167,False,2009.0,,03-31,06-14,7.0,5.0
+296,BAYRY,Bayer AG,14.119999885559082,False,2009.0,,11-16,01-30,6.0,6.0
+297,BAYZF,Bayer AG,56.35100173950195,False,2009.0,,11-16,01-30,6.0,6.0
+298,BAMXF,Bayerische Motoren Werke AG,83.98999786376953,False,2009.0,,10-02,12-16,4.0,8.0
+299,BMWYY,Bayerische Motoren Werke AG,27.88500022888184,False,2009.0,,09-25,12-09,5.0,7.0
+300,BYMOF,Bayerische Motoren Werke AG,61.0,True,2012.0,,,,,
+301,KXPLF,Bayhorse Silver Inc,0.07999999821186066,False,2009.0,,12-14,02-27,6.0,6.0
+302,BYIN,Baying Ecological Holding Group Inc,4.099999904632568,False,2009.0,,12-28,03-13,4.0,8.0
+303,BYLK,Baylake Corp,$17.43 ,True,,'Date',,,,
+304,BYLTF,Baylin Technologies Inc,0.7242000102996826,True,2018.0,,,,,
+305,BHROF,Bayshore Petroleum Corp,$0.03 ,True,,No data fetched for symbol BHROF using YahooDailyReader,,,,
+306,BYSD,Bayside Corp,0.17499999701976776,False,2009.0,,12-22,03-07,3.0,9.0
+307,BTE,Baytex Energy Corp,0.3928000032901764,False,2009.0,,02-21,05-06,3.0,9.0
+308,BBAGF,BB Biotech AG,76.05789947509766,False,2009.0,,05-29,08-12,2.0,10.0
+309,BLIAQ,BB Liquidating Inc,0.005280000157654285,False,2009.0,,08-01,10-15,8.0,4.0
+310,BBSEY,BB Seguridade Participacoes SA,4.849999904632568,True,2014.0,,,,,
+311,TRNX,BBHC Inc,0.01489999983459711,False,2009.0,,02-27,05-12,5.0,7.0
+312,BBMPY,BBMG Corp,$23.16 ,True,,No data fetched for symbol BBMPY using YahooDailyReader,,,,
+313,BMBGF,BBMG Corp,$0.34 ,True,,No data fetched for symbol BMBGF using YahooDailyReader,,,,
+314,BBQ,BBQ Holdings Inc,4.607600212097168,False,2009.0,,12-07,02-20,7.0,5.0
+315,BBHDF,BBR Holdings (S) Ltd,$0.12 ,True,,No data fetched for symbol BBHDF using YahooDailyReader,,,,
+316,BBXIB,BBX Capital Inc,4,True,2020.0,,,,,
+317,BBXIA,BBX Capital Inc,4.25,True,2020.0,,,,,
+318,CRFTF,BC Craft Supply Co Ltd,0.05999999865889549,True,2020.0,,,,,
+319,CYUXF,BC Moly Ltd,0.04399999976158142,False,2010.0,,09-27,12-11,0.0,11.0
+320,BCMKF,BCA Marketplace PLC,$3.07 ,True,,No data fetched for symbol BCMKF using YahooDailyReader,,,,
+321,BCBP,BCB Bancorp Inc,10.270000457763672,False,2009.0,,09-17,12-01,8.0,4.0
+322,BCE,BCE Inc,42.57400131225586,False,2009.0,,03-28,06-11,6.0,6.0
+323,BHIN,BCI Holding Inc,$0.80 ,True,,No data fetched for symbol BHIN using YahooDailyReader,,,,
+324,BIRNF,BCI Minerals Ltd,0.14000000059604645,False,2010.0,,12-28,03-13,9.0,2.0
+325,BLSA,BCLS Acquisition Corp,10.63479995727539,True,2020.0,,,,,
+326,BCMRF,BCM Resources Corp,0.04560000076889992,True,2018.0,,,,,
+327,BCTG,BCTG Acquisition Corp,10.210000038146973,True,2020.0,,,,,
+328,BCWG,BCW Group Holding Inc,1.25,True,2016.0,,,,,
+329,BDOUF,BDO Unibank Inc,1.8600000143051147,True,2013.0,,,,,
+330,BDOUY,BDO Unibank Inc,19.0,True,2014.0,,,,,
+331,JALA,Be Active Holdings Inc,0.02500000037252903,True,2012.0,,,,,
+332,BSRSF,BE Resources Inc,0.11249999701976776,True,2013.0,,,,,
+333,BESIY,BE Semiconductor Industries NV,46.5,False,2009.0,,12-15,02-28,10.0,2.0
+334,BESVF,BE Semiconductor Industries NV,45.029998779296875,True,2014.0,,,,,
+335,BCBF,Beach Community Bancshares Inc,0.25,False,2009.0,,12-06,02-19,7.0,5.0
+336,BCHEY,Beach Energy Ltd,22.020000457763672,True,2013.0,,,,,
+337,BEPTF,Beach Energy Ltd,1.1150000095367432,False,2010.0,,06-26,09-09,5.0,6.0
+338,BCONQ,Beacon Power Corp,0.008100000210106373,True,2012.0,,,,,
+339,BECN,Beacon Roofing Supply Inc,37.08000183105469,False,2009.0,,10-27,01-10,7.0,5.0
+340,BDREF,Beadell Resources Ltd,$0.02 ,True,,No data fetched for symbol BDREF using YahooDailyReader,,,,
+341,BEEM,Beam Global,19.22010040283203,True,2020.0,,,,,
+342,BEAM,Beam Therapeutics Inc,35.95000076293945,True,2020.0,,,,,
+343,BCEKF,Bear Creek Mining Corp,2.434799909591675,False,2009.0,,06-26,09-09,7.0,5.0
+344,BSF,Bear State Financial Inc,10.319999694824219,True,2012.0,,,,,
+345,BLILF,Bearing Lithium Corp,0.14059999585151672,True,2016.0,,,,,
+346,BBGI,Beasley Broadcast Group Inc,1.4500000476837158,False,2009.0,,12-14,02-27,9.0,3.0
+347,XHFNF,Beat Holdings Ltd,1.0499999523162842,True,2012.0,,,,,
+348,BFDRF,Beaufield Resources Inc,$0.10 ,True,,No data fetched for symbol BFDRF using YahooDailyReader,,,,
+349,BMNTF,Beaumont Select Corporations Inc,$1.21 ,True,,'Date',,,,
+350,BVERS,Beaver Coal Ltd,1349.7099609375,True,2012.0,,,,,
+351,BZH,Beazer Homes USA Inc,14.100000381469727,False,2009.0,,11-02,01-16,2.0,10.0
+352,BZLYF,Beazley PLC,3.950000047683716,False,2010.0,,12-12,02-25,5.0,6.0
+353,BEBE,bebe stores Inc,5.0,False,2009.0,,02-01,04-16,8.0,4.0
+354,BECVY,BEC World PCL,1.3700000047683716,True,2013.0,,,,,
+355,BECTY,Bechtle AG,36.849998474121094,True,2020.0,,,,,
+356,BCKMF,Becker Milk Co Ltd,8.49779987335205,True,2012.0,,,,,
+357,BCCLF,Becle SAB de CV,2.1700000762939453,True,2017.0,,,,,
+358,BDX,"Becton, Dickinson and Co",242.22999572753906,False,2009.0,,11-18,02-01,7.0,5.0
+359,BBBY,Bed Bath & Beyond Inc,20.190000534057617,False,2009.0,,01-27,04-11,6.0,6.0
+360,BFHI,Bedford Holdings Inc,$0.01 ,True,,'Date',,,,
+361,BEVVF,Bee Vectoring Technologies International Inc,0.22460000216960907,True,2015.0,,,,,
+362,BNNNF,Beenos Inc,$24.66 ,True,,No data fetched for symbol BNNNF using YahooDailyReader,,,,
+363,BEES,Beesfree Inc,0.029999999329447746,False,2010.0,,05-15,07-29,2.0,9.0
+364,BFMOF,Befimmo SA,41.53770065307617,True,2020.0,,,,,
+365,BHOR,Behringer Harvard Opportunity Reit I Inc,$1.30 ,True,,No data fetched for symbol BHOR using YahooDailyReader,,,,
+366,BDRFF,Beiersdorf AG,107.11000061035156,False,2010.0,,03-17,05-31,5.0,6.0
+367,BDRFY,Beiersdorf AG,24.054000854492188,False,2010.0,,03-29,06-12,2.0,9.0
+368,BGNE,BeiGene Ltd,278.5400085449219,True,2016.0,,,,,
+369,BJRRF,Beijer Electronics Group AB,$6.10 ,True,,No data fetched for symbol BJRRF using YahooDailyReader,,,,
+370,BJCHF,Beijing Capital International Airport Co Ltd,0.7900000214576721,False,2009.0,,10-02,12-16,3.0,9.0
+371,BJCHY,Beijing Capital International Airport Co Ltd,3.8499999046325684,True,2013.0,,,,,
+372,BJCLF,Beijing Capital Land Ltd,0.19200000166893005,True,2012.0,,,,,
+373,PVLTF,Beijing Energy International Holding Co Ltd,0.039000000804662704,True,2015.0,,,,,
+374,BJINF,Beijing Enterprises Holdings Ltd,3.0799999237060547,True,2012.0,,,,,
+375,BJINY,Beijing Enterprises Holdings Ltd,$57.62 ,True,,No data fetched for symbol BJINY using YahooDailyReader,,,,
+376,BJWTF,Beijing Enterprises Water Group Ltd,0.4099999964237213,True,2013.0,,,,,
+377,BJWTY,Beijing Enterprises Water Group Ltd,35.25,True,2019.0,,,,,
+378,BEIJF,Beijing North Star Co Ltd,0.17000000178813934,False,2010.0,,05-21,08-04,5.0,6.0
+379,BSIIF,Beijing Sports and Entertainment Industry Group Lt,$0.01 ,True,,No data fetched for symbol BSIIF using YahooDailyReader,,,,
+380,NFGRF,BeijingWest Industries International Ltd,0.019999999552965164,True,2012.0,,,,,
+381,BEINF,Being Co Ltd,$5.75 ,True,,No data fetched for symbol BEINF using YahooDailyReader,,,,
+382,BELFA,Bel Fuse Inc,13.0,False,2009.0,,08-22,11-05,2.0,10.0
+383,BELFB,Bel Fuse Inc,13.65999984741211,False,2009.0,,05-22,08-05,2.0,10.0
+384,BDC,Belden Inc,35.400001525878906,False,2009.0,,09-25,12-09,7.0,5.0
+385,BLGVF,Belgravia Hartford Capital Inc,0.014999999664723873,False,2009.0,,12-05,02-18,5.0,7.0
+386,BLHWF,Belimo Holding AG,8483.2099609375,True,2013.0,,,,,
+387,BLKIB,Belk Inc,$67.67 ,True,,'Date',,,,
+388,BLKIA,Belk Inc,$73.00 ,True,,'Date',,,,
+389,BCUFF,Bell Copper Corp,0.17509999871253967,True,2013.0,,,,,
+390,BLLQF,Bell Equipment Ltd,0.4699999988079071,True,2015.0,,,,,
+391,BLLI,Bell Industries Inc,1200.0,False,2009.0,,11-14,01-28,5.0,7.0
+392,BELR,Bell Rose Capital Inc,51.0,True,2012.0,,,,,
+393,BLLMF,Bellamy's Australia Ltd,$5.36 ,True,,No data fetched for symbol BLLMF using YahooDailyReader,,,,
+394,BXEFF,Bellatrix Exploration Ltd,0.2849000096321106,False,2010.0,,08-07,10-21,5.0,6.0
+395,BLCNF,Belle Corporation,$0.06 ,True,,'Date',,,,
+396,BELLF,Belle International Holdings Ltd,$0.77 ,True,,No data fetched for symbol BELLF using YahooDailyReader,,,,
+397,BELLY,Belle International Holdings Ltd,$7.91 ,True,,'Date',,,,
+398,BLPH,Bellerophon Therapeutics Inc,8.140000343322754,True,2015.0,,,,,
+399,BELGF,Bellevue Gold Ltd,0.8199999928474426,True,2020.0,,,,,
+400,BHVCF,Bellhaven Copper & Gold Inc,$0.32 ,True,,'Date',,,,
+401,BLCM,Bellicum Pharmaceuticals Inc,2.9000000953674316,True,2014.0,,,,,
+402,BRBR,BellRing Brands Inc,20.735000610351562,True,2019.0,,,,,
+403,DXBRF,BellRock Brands Inc,0.11349999904632568,True,2019.0,,,,,
+404,BTOW,Belltower Entertainment Corp,0.5099999904632568,True,2012.0,,,,,
+405,BLUNY,Belluna Co Ltd,6.639999866485596,False,2010.0,,05-06,07-20,5.0,6.0
+406,BLU,BELLUS Health Inc,2.444999933242798,False,2009.0,,12-07,02-20,7.0,5.0
+407,BLWYF,Bellway PLC,33.79999923706055,True,2012.0,,,,,
+408,BLWYY,Bellway PLC,38.150001525878906,True,2014.0,,,,,
+409,VNNHF,Belo Sun Mining Corp,0.892300009727478,False,2010.0,,06-16,08-30,5.0,6.0
+410,BELP,Belpointe REIT Inc,100.05000305175781,True,2019.0,,,,,
+411,BGCC,Beluga Composites Corp,$0.01 ,True,,'Date',,,,
+412,BMTLF,BeMetals Corp,0.30399999022483826,True,2019.0,,,,,
+413,BMS,Bemis Co Inc,57.25,True,2012.0,,,,,
+414,BFFI,Ben Franklin Financial Inc,10.329999923706055,False,2009.0,,12-15,02-28,5.0,7.0
+415,BTAM,Ben-Tam Inc,0.029999999329447746,True,2016.0,,,,,
+416,BMBN,Benchmark Bankshares Inc,15.550000190734863,False,2009.0,,12-12,02-25,6.0,6.0
+417,BHHKF,Benchmark Botanics Inc,0.13161000609397888,True,2017.0,,,,,
+418,BHE,Benchmark Electronics Inc,23.5,False,2009.0,,11-14,01-28,8.0,4.0
+419,BMRK,Benchmark Energy Corp,0.009999999776482582,True,2012.0,,,,,
+420,BHCCF,Benchmark Holdings PLC,$0.65 ,True,,No data fetched for symbol BHCCF using YahooDailyReader,,,,
+421,BNCHF,Benchmark Metals Inc,0.8789499998092651,True,2020.0,,,,,
+422,BXRBF,Bendigo and Adelaide Bank Ltd,4.0,False,2010.0,,12-22,03-07,7.0,4.0
+423,BNCL,Beneficial Bancorp Inc,$16.12 ,True,,No data fetched for symbol BNCL using YahooDailyReader,,,,
+424,BFHJ,Beneficial Holdings Inc,0.10000000149011612,False,2009.0,,06-27,09-10,3.0,9.0
+425,BNFT,Benefitfocus Inc,11.430000305175781,True,2013.0,,,,,
+426,BFYT,Benefytt Technologies Inc,31.0,True,2013.0,,,,,
+427,BSEFF,Benesse Holdings Inc,25.100000381469727,True,2012.0,,,,,
+428,BSEFY,Benesse Holdings Inc,24.270000457763672,False,2009.0,,07-16,09-29,4.0,8.0
+429,BTEAF,Beneteau SA,6.099999904632568,True,2017.0,,,,,
+430,BNGLF,Bengal Energy Ltd,0.019999999552965164,False,2009.0,,08-23,11-06,5.0,7.0
+431,BGUUF,Benguet Corp,0.03999999910593033,False,2010.0,,07-19,10-02,1.0,10.0
+432,XZJBF,Beni Stabili SpA SIIQ,$0.81 ,True,,'Date',,,,
+433,BNTC,Benitec Biopharma Inc,2.8740999698638916,True,2014.0,,,,,
+434,BNIKF,Benitec Biopharma Inc,$0.02 ,True,,No data fetched for symbol BNIKF using YahooDailyReader,,,,
+435,BNTC,Benitec Biopharma Inc,2.8740999698638916,True,2014.0,,,,,
+436,BSY,Bentley Systems Inc,32.689998626708984,True,2020.0,,,,,
+437,BTOF,Benton Financial Corp,$30.00 ,True,,No data fetched for symbol BTOF using YahooDailyReader,,,,
+438,BNTRF,Benton Resources Inc,0.12999999523162842,True,2012.0,,,,,
+439,BENZF,Benz Mining Corp,0.5199999809265137,True,2018.0,,,,,
+440,BEOB,BEO Bancorp OR,34.0,False,2009.0,,10-06,12-20,6.0,6.0
+441,BSNXY,Berendsen PLC,$0.78 ,True,,No data fetched for symbol BSNXY using YahooDailyReader,,,,
+442,BRTZF,Berentzen-Gruppe AG,7.849999904632568,True,2019.0,,,,,
+443,BRRGF,BerGenBio ASA,2.950000047683716,True,2018.0,,,,,
+444,BRGO,Bergio International Inc,0.006099999882280827,False,2009.0,,02-12,04-27,3.0,9.0
+445,BRYAF,Berjaya Corp Bhd,0.029999999329447746,False,2010.0,,10-09,12-23,1.0,10.0
+446,BRJYF,Berjaya Media Bhd,$0.04 ,True,,No data fetched for symbol BRJYF using YahooDailyReader,,,,
+447,BJSAF,Berjaya Sports Toto Bhd,0.6240000128746033,True,2013.0,,,,,
+448,BKLRF,Berkeley Energia Ltd,0.3539299964904785,False,2009.0,,06-25,09-08,4.0,8.0
+449,BKGFF,Berkeley Group Holdings (The) PLC,59.849998474121094,True,2013.0,,,,,
+450,BKGFY,Berkeley Group Holdings (The) PLC,59.93000030517578,True,2014.0,,,,,
+451,BLI,Berkeley Lights Inc,90.77999877929688,True,2020.0,,,,,
+452,BERK,Berkshire Bancorp Inc,9.350000381469727,False,2009.0,,12-16,03-01,8.0,4.0
+453,BRK.A,Berkshire Hathaway Inc,"$340,250.00 ",True,,'Date',,,,
+454,BRK.B,Berkshire Hathaway Inc,$226.67 ,True,,'Date',,,,
+455,BHLB,Berkshire Hills Bancorp Inc,15.59000015258789,False,2009.0,,09-22,12-06,4.0,8.0
+456,BKSH,Berkshire Homes Inc,$2.26 ,True,,No data fetched for symbol BKSH using YahooDailyReader,,,,
+457,BLJZY,Berli Jucker PCL,11.949999809265137,True,2013.0,,,,,
+458,BKTOF,Berner Kantonalbank AG,$232.50 ,True,,No data fetched for symbol BKTOF using YahooDailyReader,,,,
+459,BNIGF,Beroni Group Ltd,2.0,True,2019.0,,,,,
+460,BRY,Berry Corp (bry),3.2950000762939453,True,2018.0,,,,,
+461,BERY,Berry Global Group Inc,53.77000045776367,True,2012.0,,,,,
+462,BDGXF,Bertrandt AG,$45.14 ,True,,No data fetched for symbol BDGXF using YahooDailyReader,,,,
+463,BSPK,Bespoke Extracts Inc,0.012500000186264515,True,2012.0,,,,,
+464,TRYXF,Bessor Minerals Inc,0.0398700013756752,True,2018.0,,,,,
+465,BBY,Best Buy Co Inc,114.4000015258789,False,2009.0,,06-16,08-30,8.0,4.0
+466,BTHT,Best Hometown Bancorp Inc,$15.00 ,True,,No data fetched for symbol BTHT using YahooDailyReader,,,,
+467,BEST,BEST Inc,3.1649999618530273,True,2017.0,,,,,
+468,NWQZF,Best Pacific International Holdings Ltd,$0.61 ,True,,No data fetched for symbol NWQZF using YahooDailyReader,,,,
+469,BBEDF,Beter Bed Holding,7.949999809265137,True,2018.0,,,,,
+470,BTFRF,Betfair Group PLC,$63.48 ,True,,No data fetched for symbol BTFRF using YahooDailyReader,,,,
+471,TPBTF,BetMakers Technology Group Ltd,0.3400000035762787,True,2018.0,,,,,
+472,BSTBF,Betsson AB,$6.66 ,True,,No data fetched for symbol BSTBF using YahooDailyReader,,,,
+473,BTTR,Better Choice Co Inc,0.8100000023841858,False,2010.0,,04-23,07-07,3.0,8.0
+474,BEEN,Better Environment Concepts Inc,0.07000000029802322,True,2012.0,,,,,
+475,VEGGF,Better Plant Sciences Inc,0.05640000104904175,True,2020.0,,,,,
+476,BETRF,BetterLife Pharma Inc,0.4399999976158142,False,2010.0,,04-30,07-14,4.0,7.0
+477,BTTUF,betterU Education Corp,0.02070000022649765,True,2017.0,,,,,
+478,BWMX,Betterware de Mexico SAB de CV,31.489999771118164,True,2019.0,,,,,
+479,BETW,Bettwork Industries Inc,0.07000000029802322,True,2014.0,,,,,
+480,HOPS,Between Dandelions Inc,0.14499999582767487,False,2009.0,,08-16,10-30,5.0,7.0
+481,BVNNF,BevCanna Enterprises Inc,0.30000001192092896,True,2019.0,,,,,
+482,BEWFF,BeWhere Holdings Inc,0.1808999925851822,True,2014.0,,,,,
+483,BXLC,Bexil Corp,14.0,False,2009.0,,10-19,01-02,1.0,11.0
+484,XAIR,Beyond Air Inc,5.449999809265137,True,2018.0,,,,,
+485,BYND,Beyond Meat Inc,124.26000213623047,True,2019.0,,,,,
+486,BYSI,BeyondSpring Inc,17.360000610351562,True,2017.0,,,,,
+487,BZZZF,Bezant Resources PLC,$0.12 ,True,,No data fetched for symbol BZZZF using YahooDailyReader,,,,
+488,BZQIF,Bezeq The Israeli Telecommunication Corp Ltd,1.1699999570846558,False,2010.0,,09-08,11-22,3.0,8.0
+489,BZQIY,Bezeq The Israeli Telecommunication Corp Ltd,5.230000019073486,False,2010.0,,08-09,10-23,2.0,9.0
+490,BFET,BFE Corp,0.25,True,2012.0,,,,,
+491,PBITF,BFI Finance Indonesia Tbk,$0.15 ,True,,No data fetched for symbol PBITF using YahooDailyReader,,,,
+492,BRGXF,BG Group PLC,$15.50 ,True,,'Date',,,,
+493,BRGYY,BG Group PLC,$15.22 ,True,,'Date',,,,
+494,BGMD,BG Medicine Inc,0.009999999776482582,True,2011.0,,,,,
+495,BGSF,BG Staffing Inc,10.399999618530273,True,2014.0,,,,,
+496,BGCP,BGC Partners Inc,3.625,False,2009.0,,09-28,12-12,7.0,5.0
+497,BHNGF,Bhang Inc,0.043800000101327896,False,2009.0,,12-22,03-07,3.0,9.0
+498,BHP,BHP Group Ltd,53.02000045776367,False,2009.0,,08-25,11-08,4.0,8.0
+499,BHPLF,BHP Group Ltd,25.610000610351562,False,2009.0,,12-08,02-21,5.0,7.0
+500,BBL,BHP Group PLC,43.290000915527344,False,2009.0,,12-05,02-18,5.0,7.0
+501,BHPBF,BHP Group PLC,21.799999237060547,False,2010.0,,08-30,11-13,7.0,4.0
+502,BHPA,BHPA Inc,1.7999999523162842,True,2012.0,,,,,
+503,BICEF,Bic,58.404998779296875,True,2012.0,,,,,
+504,BICEY,Bic,29.989999771118164,True,2013.0,,,,,
+505,BCYC,Bicycle Therapeutics PLC,20.459999084472656,True,2019.0,,,,,
+506,BPPPF,Bid Corp Ltd,17.299999237060547,True,2016.0,,,,,
+507,FTBGF,Bidstack Group PLC,0.2879999876022339,True,2015.0,,,,,
+508,BDVSF,Bidvest Group Ltd,10.75,False,2010.0,,08-24,11-07,6.0,5.0
+509,BDVSY,Bidvest Group Ltd,20.020000457763672,False,2009.0,,10-01,12-15,5.0,7.0
+510,BFFBF,Biffa PLC,2.701280117034912,True,2017.0,,,,,
+511,BGFV,Big 5 Sporting Goods Corp,8.140000343322754,False,2009.0,,10-11,12-25,3.0,9.0
+512,BBUCQ,Big Buck Brewery & Steakhouse Inc,0.007899999618530273,True,2012.0,,,,,
+513,BGCUF,Big C Supercenter PCL,$5.50 ,True,,No data fetched for symbol BGCUF using YahooDailyReader,,,,
+514,BGCUY,Big C Supercenter PCL,$0.18 ,True,,No data fetched for symbol BGCUY using YahooDailyReader,,,,
+515,BIG,Big Lots Inc,46.65999984741211,False,2009.0,,01-02,03-17,8.0,4.0
+516,ALVLF,Big Ridge Gold Corp,0.09000000357627869,False,2010.0,,11-30,02-13,3.0,8.0
+517,CHLXF,Big River Gold Ltd,0.019999999552965164,True,2019.0,,,,,
+518,BRBMF,Big Rock Brewery Inc,3.930000066757202,False,2009.0,,08-05,10-19,7.0,5.0
+519,BRPA,Big Rock Partners Acquisition Corp,10.75,True,2017.0,,,,,
+520,BSEG,Big Screen Entertainment Group Inc,0.009999999776482582,False,2009.0,,11-16,01-30,4.0,8.0
+521,BGKYF,Big Sky Petroleum Corp,$0.28 ,True,,No data fetched for symbol BGKYF using YahooDailyReader,,,,
+522,BGGFF,Big Sofa Technologies Group PLC,$0.06 ,True,,No data fetched for symbol BGGFF using YahooDailyReader,,,,
+523,BTHI,Big Time Holdings Inc,0.012000000104308128,True,2012.0,,,,,
+524,BGGNF,Big Un Ltd,$3.12 ,True,,No data fetched for symbol BGGNF using YahooDailyReader,,,,
+525,BYLOF,Big Yellow Group PLC,14.239999771118164,True,2013.0,,,,,
+526,BIGC,BigCommerce Holdings Inc,66.76000213623047,True,2020.0,,,,,
+527,BBKCF,BIGG Digital Assets Inc,0.19009999930858612,True,2017.0,,,,,
+528,BH,Biglari Holdings Inc,100.01000213623047,False,2009.0,,11-14,01-28,6.0,6.0
+529,BH.A,Biglari Holdings Inc,$520.01 ,True,,No data fetched for symbol BH.A using YahooDailyReader,,,,
+530,BSPR,Bigsupersearch.com Inc,0.013000000268220901,True,2013.0,,,,,
+531,BTGHF,Bigtincan Holdings Ltd,0.8899999856948853,True,2020.0,,,,,
+532,BIJBF,Bijou Brigitte Modische Accessoires AG,$57.75 ,True,,No data fetched for symbol BIJBF using YahooDailyReader,,,,
+533,BFLBF,Bilfinger SE,22.450000762939453,True,2012.0,,,,,
+534,BFLBY,Bilfinger SE,4.880000114440918,False,2009.0,,12-15,02-28,6.0,6.0
+535,BBSAF,Bilia AB,$24.15 ,True,,No data fetched for symbol BBSAF using YahooDailyReader,,,,
+536,BILI,Bilibili Inc,48.52000045776367,True,2018.0,,,,,
+537,BILL,Bill.com Holdings Inc,94.66000366210938,True,2019.0,,,,,
+538,BLLAF,Billabong International Ltd,0.7549999952316284,True,2012.0,,,,,
+539,BLLAY,Billabong International Ltd,$1.51 ,True,,No data fetched for symbol BLLAY using YahooDailyReader,,,,
+540,BLRDF,BillerudKorsnas AB,16.33742332458496,True,2014.0,,,,,
+541,BLRDY,BillerudKorsnas AB,32.2599983215332,True,2015.0,,,,,
+542,BLMC,Biloxi Marsh Lands Corp,2.200000047683716,False,2009.0,,03-30,06-13,6.0,6.0
+543,BMBRF,Bim Birlesik Magazalar AS,6.900000095367432,False,2009.0,,09-29,12-13,0.0,12.0
+544,BMBHF,Bimb Holdings Bhd,$1.01 ,True,,No data fetched for symbol BMBHF using YahooDailyReader,,,,
+545,BMNM,Bimini Capital Management Inc,1.0,False,2009.0,,04-04,06-18,4.0,8.0
+546,BINCF,BinckBank NV,$7.55 ,True,,No data fetched for symbol BINCF using YahooDailyReader,,,,
+547,BINHF,Binhai Investment Co Ltd,0.20000000298023224,True,2019.0,,,,,
+548,BNVIF,Binovi Technologies Corp,0.17499999701976776,True,2020.0,,,,,
+549,BLAB,Bio Lab Naturals Inc,0.20000000298023224,True,2012.0,,,,,
+550,CDURQ,Bio Pappel SAB de CV,$1.50 ,True,,'Date',,,,
+551,CADGF,Bio Pappel SAB de CV,2.299999952316284,False,2009.0,,02-23,05-08,6.0,6.0
+552,BIAD,Bio-AMD Inc,0.006320000160485506,True,2012.0,,,,,
+553,BOAA,Bio-America Inc,2.0,True,2015.0,,,,,
+554,BENH,Bio-En Holdings Corp,1.5,True,2015.0,,,,,
+555,BKYI,BIO-key International Inc,0.41190001368522644,False,2009.0,,12-29,03-14,10.0,2.0
+556,BPTH,Bio-Path Holdings Inc,3.299999952316284,False,2009.0,,09-02,11-16,5.0,7.0
+557,BIO,Bio-Rad Laboratories Inc,603.8900146484375,False,2009.0,,12-22,03-07,9.0,3.0
+558,BIO.B,Bio-Rad Laboratories Inc,$596.08 ,True,,'Date',,,,
+559,TECH,Bio-Techne Corp,303.8699951171875,False,2009.0,,04-10,06-24,7.0,5.0
+560,BDPT,BioAdaptives Inc,0.03200000151991844,True,2014.0,,,,,
+561,BIOAQ,BioAmber Inc,$0.05 ,True,,No data fetched for symbol BIOAQ using YahooDailyReader,,,,
+562,BIOA.U,BioAmber Inc,$8.35 ,True,,No data fetched for symbol BIOA.U using YahooDailyReader,,,,
+563,BASI,Bioanalytical Systems Inc,6.160099983215332,False,2009.0,,11-04,01-18,4.0,8.0
+564,BIOAF,Bioasis Technologies Inc,0.25699999928474426,False,2010.0,,07-28,10-11,3.0,8.0
+565,BCDA,BioCardia Inc,2.0799999237060547,False,2009.0,,12-28,03-13,5.0,7.0
+566,BIOC,Biocept Inc,4.660299777984619,True,2014.0,,,,,
+567,BIOX,Bioceres Crop Solutions Corp,5.860000133514404,True,2018.0,,,,,
+568,BICX,BioCorRx Inc,1.75,False,2010.0,,12-17,03-02,6.0,5.0
+569,BCRX,BioCryst Pharmaceuticals Inc,4.4085001945495605,False,2009.0,,05-06,07-20,5.0,7.0
+570,BICTF,Biocure Technology Inc,0.08829999715089798,True,2018.0,,,,,
+571,BDSI,BioDelivery Sciences International Inc,3.7950000762939453,False,2009.0,,03-28,06-11,6.0,6.0
+572,BDSX,Biodesix Inc,11.270000457763672,True,2020.0,,,,,
+573,LITH,BioELife Corp,0.1899999976158142,False,2010.0,,12-31,03-16,9.0,2.0
+574,BOTHD,Bioethics Ltd,2.5,True,2020.0,,,,,
+575,BPHMF,Biofermin Pharmaceutical Co Ltd,20.885000228881836,True,2019.0,,,,,
+576,BFNH,BioForce Nanosciences Holdings Inc,0.9700000286102295,False,2009.0,,12-27,03-12,9.0,3.0
+577,BFRA,Biofrontera AG,6.7820000648498535,True,2018.0,,,,,
+578,BFFTF,Biofrontera AG,5.650000095367432,True,2018.0,,,,,
+579,BFLS,Biofuels Power Corp,$0.05 ,True,,No data fetched for symbol BFLS using YahooDailyReader,,,,
+580,BGAIF,BioGaia AB,53.65999984741211,False,2009.0,,02-28,05-13,4.0,8.0
+581,BIOGY,BioGaia AB,26.329999923706055,True,2015.0,,,,,
+582,BIIB,Biogen Inc,246.39999389648438,False,2009.0,,10-25,01-08,8.0,4.0
+583,CNVCF,BioHarvest Sciences Inc,0.11230000108480453,True,2019.0,,,,,
+584,BHVN,Biohaven Pharmaceutical Holding Co Ltd,93.92500305175781,True,2017.0,,,,,
+585,BKIT,Biohemp International Inc,0.005499999970197678,True,2015.0,,,,,
+586,BHTG,BioHiTech Global Inc,1.2599999904632568,True,2018.0,,,,,
+587,BOVNF,BioInvent International AB,0.18469999730587006,True,2013.0,,,,,
+588,BLGO,BioLargo Inc,0.1340000033378601,False,2009.0,,06-25,09-08,4.0,8.0
+589,BIOL,Biolase Inc,0.2847000062465668,False,2009.0,,12-23,03-08,9.0,3.0
+590,BLFE,Biolife Sciences Inc,1.909999966621399,False,2009.0,,02-25,05-10,0.0,6.0
+591,BLFS,BioLife Solutions Inc,31.7549991607666,False,2009.0,,05-23,08-06,5.0,7.0
+592,BOLT,BioLight Life Sciences Ltd,$21.99 ,True,,'Date',,,,
+593,BLGTY,BioLight Life Sciences Ltd,$45.92 ,True,,'Date',,,,
+594,BLLSF,BioLight Life Sciences Ltd,$0.09 ,True,,No data fetched for symbol BLLSF using YahooDailyReader,,,,
+595,BLRX,BioLine Rx Ltd,2.3424999713897705,True,2011.0,,,,,
+596,BLNEF,BioLine Rx Ltd,$0.86 ,True,,No data fetched for symbol BLNEF using YahooDailyReader,,,,
+597,BIUPF,Biom'Up SA,$2.40 ,True,,No data fetched for symbol BIUPF using YahooDailyReader,,,,
+598,BMRN,Biomarin Pharmaceutical Inc,77.8499984741211,False,2009.0,,12-07,02-20,8.0,4.0
+599,BMKDF,Biomark Diagnostics Inc,0.11884000152349472,True,2015.0,,,,,
+600,BIOIF,Biome Grow Inc,0.02500000037252903,True,2015.0,,,,,
+601,BMR,BioMed Realty Trust Inc,$23.81 ,True,,'Date',,,,
+602,BMRA,Biomerica Inc,6.861599922180176,False,2009.0,,12-17,03-02,7.0,5.0
+603,BMXMF,BioMerieux SA,145.35000610351562,True,2017.0,,,,,
+604,PHGE,BiomX Inc,5.900000095367432,True,2019.0,,,,,
+605,BNET,Bion Environmental Technologies Inc,0.5099999904632568,False,2009.0,,12-01,02-14,7.0,5.0
+606,BNGO,Bionano Genomics Inc,0.5152999758720398,True,2018.0,,,,,
+607,BVXV,BiondVax Pharmaceuticals Ltd,2.8399999141693115,True,2015.0,,,,,
+608,BVAXF,BiondVax Pharmaceuticals Ltd,$0.12 ,True,,No data fetched for symbol BVAXF using YahooDailyReader,,,,
+609,BIMO,BioNeutra International Ltd,0.10999999940395355,True,2012.0,,,,,
+610,BGLC,BioNexus Gene Lab Corp,2.450000047683716,True,2020.0,,,,,
+611,BNKL,Bionik Laboratories Corp,1.2100000381469727,True,2015.0,,,,,
+612,BNOEF,Bionomics Ltd,0.06199999898672104,True,2014.0,,,,,
+613,BIIO,Bionovate Technologies Corp,1.000100016593933,True,2014.0,,,,,
+614,BNTX,BioNTech SE,105.4800033569336,True,2019.0,,,,,
+615,BPIC,BioPharmetics Inc,$14.84 ,True,,No data fetched for symbol BPIC using YahooDailyReader,,,,
+616,BPMX,BioPharmX Corp,$6.12 ,True,,No data fetched for symbol BPMX using YahooDailyReader,,,,
+617,THOXF,Bioporto A/S,0.362419992685318,True,2019.0,,,,,
+618,BOPO,BioPower Operations Corp,0.025499999523162842,True,2012.0,,,,,
+619,BIOQ,Bioqual Inc,70.0,False,2009.0,,08-12,10-26,6.0,6.0
+620,BIQLF,Bioquell PLC,7.050000190734863,False,2009.0,,05-31,08-14,5.0,6.0
+621,BQST,BioQuest Corp,4.199999809265137,True,2014.0,,,,,
+622,BIRMF,Biorem Inc,0.27799999713897705,False,2010.0,,03-21,06-04,7.0,4.0
+623,BRTXQ,BioRestorative Therapies Inc,0.015300000086426735,True,2012.0,,,,,
+624,DEVV,Bioscience Neutraceuticals Inc,0.05000000074505806,True,2017.0,,,,,
+625,BSGM,BioSig Technologies Inc,3.859999895095825,True,2014.0,,,,,
+626,BSRC,BioSolar Inc,0.006339999847114086,False,2009.0,,05-24,08-07,4.0,8.0
+627,BSTC,BioSpecifics Technologies Corp,88.25,False,2009.0,,08-23,11-06,6.0,6.0
+628,BSTG,Biostage Inc,1.4700000286102295,True,2013.0,,,,,
+629,BSPM,Biostar Pharmaceuticals Inc,0.14499999582767487,False,2009.0,,06-06,08-20,6.0,6.0
+630,BSEM,BioStem Technologies Inc,1.2000000476837158,True,2015.0,,,,,
+631,BIOYF,Biosyent Inc,5.28000020980835,True,2012.0,,,,,
+632,BITGF,Biotage AB,18.5,True,2012.0,,,,,
+633,BMCS,BioTech Medics Inc,0.010999999940395355,False,2010.0,,12-19,03-04,7.0,4.0
+634,BEAT,BioTelemetry Inc,47.31999969482422,False,2009.0,,12-10,02-23,8.0,4.0
+635,BIESF,Biotest AG,22.309999465942383,True,2014.0,,,,,
+636,BTESF,Biotest AG,$17.91 ,True,,No data fetched for symbol BTESF using YahooDailyReader,,,,
+637,BITI,Biotie Therapies Corp,$25.80 ,True,,'Date',,,,
+638,BIOZF,Biotie Therapies Corp,$0.34 ,True,,No data fetched for symbol BIOZF using YahooDailyReader,,,,
+639,BTCY,Biotricity Inc,0.9605000019073486,True,2018.0,,,,,
+640,BITRF,Biotron Ltd,0.05999999865889549,True,2013.0,,,,,
+641,LMNGF,BioVaxys Technology Corp,0.26499998569488525,True,2018.0,,,,,
+642,BVNXF,Bioventix PLC,$14.71 ,True,,No data fetched for symbol BVNXF using YahooDailyReader,,,,
+643,BIVV,Bioverativ Inc,104.9800033569336,True,2017.0,,,,,
+644,BIVI,BioVie Inc,8.114999771118164,True,2020.0,,,,,
+645,BTAI,BioXcel Therapeutics Inc,53.7599983215332,True,2018.0,,,,,
+646,BIXT,Bioxytran Inc,0.1875,True,2012.0,,,,,
+647,BIREF,Birchcliff Energy Ltd,1.590000033378601,False,2009.0,,03-09,05-23,6.0,6.0
+648,BIRDF,Bird Construction Inc,4.949999809265137,False,2009.0,,07-18,10-01,4.0,8.0
+649,BDTYF,Birdstep Technology ASA,$0.40 ,True,,'Date',,,,
+650,BGI,Birks Group Inc,0.7269999980926514,False,2009.0,,05-22,08-05,4.0,8.0
+651,BBBI,Birmingham Bloomfield Bancshares Inc,$16.40 ,True,,'Date',,,,
+652,BDMS,Birner Dental Management Services Inc,10.600000381469727,True,2012.0,,,,,
+653,BPCP,Bishop Capital Corp (WY),40.0,False,2010.0,,05-02,07-16,3.0,8.0
+654,BGEZF,Bison Gold Resources Inc,$0.47 ,True,,No data fetched for symbol BGEZF using YahooDailyReader,,,,
+655,XU100.IS,BIST 100,1291.2900390625,False,2009.0,,02-10,04-25,4.0,7.0
+656,BTBT,Bit Digital Inc,4.309999942779541,True,2020.0,,,,,
+657,BITA,Bitauto Holdings Ltd,15.9399995803833,False,2010.0,,08-11,10-25,5.0,6.0
+658,BTGN,Bitcoin Generation Inc,0.4000000059604645,True,2013.0,,,,,
+659,BTSC,Bitcoin Services Inc,0.016899999231100082,False,2009.0,,03-29,06-12,3.0,9.0
+660,BITFY,Bitfarms Ltd,$5.00 ,True,,No data fetched for symbol BITFY using YahooDailyReader,,,,
+661,BLLCF,Bitfarms Ltd,$0.91 ,True,,No data fetched for symbol BLLCF using YahooDailyReader,,,,
+662,BFARF,Bitfarms Ltd,0.4000000059604645,True,2019.0,,,,,
+663,BFCH,BitFrontier Capital Holdings Inc,0.017899999395012856,False,2009.0,,12-10,02-23,5.0,7.0
+664,BIMT,Bitmis Corp,3.049999952316284,True,2019.0,,,,,
+665,BITTF,Bitterroot Resources Ltd,0.05249999836087227,False,2010.0,,06-11,08-25,4.0,5.0
+666,BJRI,BJ's Restaurants Inc,36.939998626708984,False,2009.0,,09-26,12-10,8.0,4.0
+667,BJ,BJ's Wholesale Club Holdings Inc,40.73500061035156,True,2018.0,,,,,
+668,BKTI,BK Technologies Corp,3.190000057220459,False,2009.0,,12-11,02-24,7.0,5.0
+669,BKFG,BKF Capital Group Inc,12.0,False,2009.0,,07-03,09-16,2.0,10.0
+670,BKWAF,BKW AG,$50.50 ,True,,No data fetched for symbol BKWAF using YahooDailyReader,,,,
+671,BDIMF,Black Diamond Group Ltd,1.360990047454834,False,2010.0,,04-14,06-28,3.0,8.0
+672,BDTX,Black Diamond Therapeutics Inc,32.880001068115234,True,2020.0,,,,,
+673,ATRGF,Black Dragon Gold Corp,$0.01 ,True,,No data fetched for symbol ATRGF using YahooDailyReader,,,,
+674,BDGCF,Black Dragon Gold Corp,0.05000000074505806,True,2019.0,,,,,
+675,BLKEF,Black Earth Farming LTD,$0.80 ,True,,No data fetched for symbol BLKEF using YahooDailyReader,,,,
+676,BKH,Black Hills Corp,63.279998779296875,False,2009.0,,12-15,02-28,8.0,4.0
+677,BKIRF,Black Iron Inc,0.09279999881982803,True,2013.0,,,,,
+678,BLAIF,Black Isle Resources Corp,$0.01 ,True,,No data fetched for symbol BLAIF using YahooDailyReader,,,,
+679,BKI,Black Knight Inc,94.03500366210938,True,2015.0,,,,,
+680,LQRCF,Black Mammoth Metals Corp,0.04839000105857849,True,2012.0,,,,,
+681,ANFC,Black Ridge Oil & Gas Inc,5.0,False,2010.0,,12-21,03-06,6.0,5.0
+682,BKRP,Black Rock Petroleum Co,3.25,True,2020.0,,,,,
+683,BSM,Black Stone Minerals LP,7.114999771118164,True,2015.0,,,,,
+684,BTKRF,Black Tusk Resources Inc,0.03804999962449074,True,2018.0,,,,,
+685,BLKB,Blackbaud Inc,52.040000915527344,False,2009.0,,05-14,07-28,7.0,5.0
+686,BB,BlackBerry Ltd,5.110099792480469,False,2009.0,,10-28,01-11,7.0,5.0
+687,BKBEF,Blackbird Energy Inc,0.41350001096725464,True,2019.0,,,,,
+688,BLBX,Blackboxstocks Inc,3.299999952316284,True,2016.0,,,,,
+689,BLCK,Blackcraft Cult Inc,$1.10 ,True,,No data fetched for symbol BLCK using YahooDailyReader,,,,
+690,BHWB,Blackhawk Bancorp Inc,24.469999313354492,False,2009.0,,12-26,03-11,11.0,1.0
+691,BLRZF,Blackhawk Growth Corp,0.009999999776482582,True,2013.0,,,,,
+692,HAWK,Blackhawk Network Holdings Inc,45.150001525878906,True,2013.0,,,,,
+693,BL,BlackLine Inc,107.20999908447266,True,2016.0,,,,,
+694,BLKLF,Blackline Safety Corp,5.061100006103516,True,2016.0,,,,,
+695,BLMMF,Blackmores Ltd,103.4800033569336,True,2016.0,,,,,
+696,BLKPF,BlackPearl Resources Inc,$0.83 ,True,,No data fetched for symbol BLKPF using YahooDailyReader,,,,
+697,BGIO,BlackRock 2022 Global Income Opportunity,8.609999656677246,True,2017.0,,,,,
+698,BFZ,Blackrock CA Muni Income Tr,13.470000267028809,False,2009.0,,03-17,05-31,5.0,7.0
+699,BCAT,BlackRock Capital Allocation Trust,20.562700271606445,True,2020.0,,,,,
+700,BKCC,BlackRock Capital Investment Corp,2.889899969100952,False,2009.0,,12-07,02-20,7.0,5.0
+701,BHK,Blackrock Core Bond Trust,15.8149995803833,False,2009.0,,06-23,09-06,7.0,5.0
+702,HYT,BlackRock Corporate High Yield Fund Inc,11.179900169372559,False,2009.0,,03-16,05-30,7.0,5.0
+703,BTZ,Blackrock Credit Allocation Income Trust,14.346799850463867,False,2009.0,,03-16,05-30,8.0,4.0
+704,DSU,Blackrock Debt Strategies Fund Inc,9.991600036621094,False,2009.0,,12-15,02-28,8.0,4.0
+705,BGR,BlackRock Energy & Resources Trust,6.579999923706055,False,2009.0,,12-06,02-19,7.0,5.0
+706,CII,"Blackrock Enhanced Cap&Inc Fund, Inc",16.309900283813477,False,2009.0,,10-21,01-04,9.0,3.0
+707,BDJ,BlackRock Enhanced Equity Dividend Trust,7.75,False,2009.0,,05-07,07-21,6.0,6.0
+708,BOE,Blackrock Enhanced Global Dividend Trust,10.239999771118164,False,2009.0,,12-08,02-21,8.0,4.0
+709,EGF,Blackrock Enhanced Government Fund Inc,13.0,False,2009.0,,06-01,08-15,6.0,6.0
+710,BGY,Blackrock Enhanced International Dividend Trust,5.590000152587891,False,2009.0,,05-14,07-28,8.0,4.0
+711,FRA,Blackrock Floating Rate Inc Stra Fd Inc,11.845000267028809,False,2009.0,,12-13,02-26,9.0,3.0
+712,BGT,Blackrock Floating Rate Income Trust,11.619799613952637,False,2009.0,,12-13,02-26,8.0,4.0
+713,BFO,Blackrock Florida Muni 2020 Term Tr,14.788999557495117,False,2009.0,,06-04,08-18,11.0,1.0
+714,BKRRF,Blackrock Gold Corp,0.6237199902534485,True,2016.0,,,,,
+715,BME,Blackrock Health Sciences Trust,46.08000183105469,False,2009.0,,10-29,01-12,9.0,3.0
+716,BLK,BlackRock Inc,668.14501953125,False,2009.0,,10-21,01-04,6.0,6.0
+717,BKT,Blackrock Income Trust Inc,6.079999923706055,False,2009.0,,03-21,06-04,6.0,6.0
+718,BKN,"Blackrock Investment Quality Municipal Trust, Inc.",16.683000564575195,False,2009.0,,11-14,01-28,7.0,5.0
+719,BTA,Blackrock Long-term Municipal AdtgTrust,12.268400192260742,False,2009.0,,12-15,02-28,8.0,4.0
+720,BLW,Blackrock Ltd Duration Income Trust,15.035099983215332,False,2009.0,,11-19,02-02,9.0,3.0
+721,BZM,Blackrock Maryland Municipal Bond Trust,14.329999923706055,False,2009.0,,03-20,06-03,8.0,4.0
+722,MHE,BlackRock Massachusetts Tax-Exempt Trust,13.449999809265137,False,2009.0,,11-15,01-29,8.0,4.0
+723,BIT,BlackRock Multi-Sector Income Trust,16.345600128173828,True,2013.0,,,,,
+724,MEN,Blackrock Muni Enhanced Fund Inc,11.630000114440918,False,2009.0,,03-21,06-04,7.0,5.0
+725,MUI,Blackrock Muni Interm Duration Fund Inc,14.190999984741211,False,2009.0,,11-14,01-28,7.0,5.0
+726,MNE,BLACKROCK MUNI NEW YORK INTERMEDIATE DURATION FUND,$14.55 ,True,,No data fetched for symbol MNE using YahooDailyReader,,,,
+727,MUA,Blackrock Muniassets Fund Inc,13.795599937438965,False,2009.0,,12-15,02-28,7.0,5.0
+728,BKK,Blackrock Municipal 2020 Term Trust,15.044699668884277,False,2009.0,,12-22,03-07,9.0,3.0
+729,BTT,Blackrock Municipal 2030 Target Term Trust,25.16830062866211,True,2012.0,,,,,
+730,BBK,Blackrock Municipal Bond Trust,15.878299713134766,False,2009.0,,12-21,03-06,7.0,5.0
+731,BBF,Blackrock Municipal Inc Invstmt Tr,13.069999694824219,False,2009.0,,12-15,02-28,6.0,6.0
+732,BAF,Blackrock Municipal Income Investment Quality Trus,14.5,False,2009.0,,12-15,02-28,10.0,2.0
+733,BYM,Blackrock Municipal Income Quality Trust,14.369999885559082,False,2009.0,,12-15,02-28,7.0,5.0
+734,BFK,Blackrock Municipal Income Trust,14.399999618530273,False,2009.0,,12-15,02-28,7.0,5.0
+735,BLE,Blackrock Municipal Income Trust II,15.165300369262695,False,2009.0,,03-18,06-01,7.0,5.0
+736,MUC,BlackRock MuniHoldings California Quality Fund Inc,14.5,False,2009.0,,03-21,06-04,7.0,5.0
+737,MUH,"Blackrock Muniholdings Fund II , Inc",14.835000038146973,False,2009.0,,12-18,03-03,8.0,4.0
+738,MHD,Blackrock Muniholdings Fund Inc,15.699999809265137,False,2009.0,,12-15,02-28,7.0,5.0
+739,MFL,Blackrock Muniholdings Investment Quality Fund,13.655099868774414,False,2009.0,,12-15,02-28,7.0,5.0
+740,MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc,13.90999984741211,False,2009.0,,03-15,05-29,7.0,5.0
+741,MHN,"BLACKROCK MUNIHOLDINGS NEW YORK QUALITY FUND, INC.",13.645000457763672,False,2009.0,,12-14,02-27,7.0,5.0
+742,MUE,BlackRock MuniHoldings Quality Fund II Inc,12.850000381469727,False,2009.0,,12-18,03-03,8.0,4.0
+743,MUS,Blackrock Muniholdings Quality Fund Inc,12.892999649047852,False,2009.0,,11-14,01-28,7.0,5.0
+744,MVT,Blackrock Munivest Fund II Inc,14.470000267028809,False,2009.0,,12-21,03-06,6.0,6.0
+745,MVF,Blackrock Munivest Fund Inc,8.925000190734863,False,2009.0,,12-20,03-05,7.0,5.0
+746,MZA,"Blackrock Muniyield Arizona Fund, Inc",15.069100379943848,False,2009.0,,12-18,03-03,10.0,2.0
+747,MYC,"Blackrock Muniyield California Fund, Inc",14.0600004196167,False,2009.0,,03-18,06-01,6.0,6.0
+748,MCA,"BLACKROCK MUNIYIELD CALIFORNIA QUALITY FUND, INC.",14.635000228881836,False,2009.0,,03-15,05-29,8.0,4.0
+749,MYD,Blackrock Muniyield Fund Inc,13.670000076293945,False,2009.0,,12-15,02-28,6.0,6.0
+750,MFT,Blackrock Muniyield Investment Quality Fund,13.729999542236328,False,2009.0,,12-15,02-28,8.0,4.0
+751,MYF,Blackrock Muniyield Invstmt Fd,13.524999618530273,False,2009.0,,03-18,06-01,7.0,5.0
+752,MIY,Blackrock Muniyield Michigan Quality Fund Inc,14.140000343322754,False,2009.0,,12-21,03-06,6.0,6.0
+753,MYJ,Blackrock Muniyield New Jersey Fund Inc,13.90999984741211,False,2009.0,,12-23,03-08,6.0,6.0
+754,MYN,"Blackrock Muniyield NY Quality FD, Inc",12.984999656677246,False,2009.0,,12-15,02-28,8.0,4.0
+755,MPA,Blackrock Muniyield Pennsylvania Quality Fund,14.045100212097168,False,2009.0,,12-15,02-28,7.0,5.0
+756,MQT,"BLACKROCK MUNIYIELD QUALITY FUND II, INC.",13.300000190734863,False,2009.0,,03-15,05-29,8.0,4.0
+757,MYI,"BLACKROCK MUNIYIELD QUALITY FUND III, INC.",13.720000267028809,False,2009.0,,03-16,05-30,9.0,3.0
+758,MQY,Blackrock Muniyield Quality Fund Inc,16.20599937438965,False,2009.0,,03-19,06-02,6.0,6.0
+759,BFY,Blackrock New York Muni Income Tr II,14.100000381469727,False,2009.0,,03-20,06-03,7.0,5.0
+760,BQH,Blackrock New York Municipal Bond Trust,15.619999885559082,False,2009.0,,03-17,05-31,10.0,2.0
+761,BSE,BlackRock New York Municipal Income Quality Trust,13.15999984741211,False,2009.0,,03-17,05-31,6.0,6.0
+762,BNY,Blackrock NY Municipal Income Tr,13.84000015258789,False,2009.0,,12-15,02-28,8.0,4.0
+763,BCX,BlackRock Resources & Commodities Strategy Trust,6.340000152587891,True,2011.0,,,,,
+764,BST,BlackRock Science and Technology Trust,45.82600021362305,True,2014.0,,,,,
+765,BSTZ,BlackRock Science and Technology Trust II,29.149999618530273,True,2019.0,,,,,
+766,BSD,Blackrock Strategic Municipal Trust,13.649999618530273,False,2009.0,,03-15,05-29,6.0,6.0
+767,BBN,BlackRock Taxable Municipal Bond Trust,25.479999542236328,False,2010.0,,06-24,09-07,9.0,2.0
+768,TCPC,BlackRock TCP Capital Corp,10.970000267028809,True,2012.0,,,,,
+769,BUI,BlackRock Utility Infrastructure & Power Opportuni,24.05769920349121,True,2011.0,,,,,
+770,BHV,Blackrock Virginia Municipal Bond Trust,16.690099716186523,False,2009.0,,03-17,05-31,5.0,7.0
+771,BEGI,Blackstar Enterprise Group Inc,0.028999999165534973,False,2010.0,,09-05,11-19,4.0,7.0
+772,BGX,Blackstone / GSO Long-Short Credit Income Fund,12.989999771118164,True,2012.0,,,,,
+773,BGB,Blackstone / GSO Strategic Credit Fund,12.220000267028809,True,2012.0,,,,,
+774,BX,Blackstone Group Inc,55.73500061035156,False,2009.0,,12-08,02-21,9.0,3.0
+775,BLSTF,Blackstone Minerals Ltd,0.0949999988079071,True,2012.0,,,,,
+776,BXMT,Blackstone Mortgage Trust Inc,25.299999237060547,False,2009.0,,03-18,06-01,7.0,5.0
+777,BSL,Blackstone/GSO Senior Floating Rate Term Fund,13.897199630737305,False,2010.0,,12-13,02-26,7.0,4.0
+778,BCDS,Blaqclouds Inc,0.20000000298023224,True,2012.0,,,,,
+779,BLGID,BLGI Inc,0.12999999523162842,True,2020.0,,,,,
+780,BLCRF,Blind Creek Resources Ltd,$0.21 ,True,,No data fetched for symbol BLCRF using YahooDailyReader,,,,
+781,BLNK,Blink Charging Co,9.5600004196167,False,2009.0,,06-07,08-21,6.0,6.0
+782,PUNK,Blink Technologies Inc,$0.01 ,True,,No data fetched for symbol PUNK using YahooDailyReader,,,,
+783,BLTHF,BLIS Technologies Ltd,$0.02 ,True,,No data fetched for symbol BLTHF using YahooDailyReader,,,,
+784,HSTRF,BlissCo Cannabis Corp,0.0949999988079071,True,2020.0,,,,,
+785,BLFDF,Blockchain Foundry Inc,0.09390000253915787,True,2018.0,,,,,
+786,BCII,Blockchain Industries Inc,0.17010000348091125,True,2018.0,,,,,
+787,BBLC,Blockchain Loyalty Inc,0.10700000077486038,False,2009.0,,07-11,09-24,1.0,11.0
+788,BLCS,Blockchain Solutions Inc,$2.00 ,True,,No data fetched for symbol BLCS using YahooDailyReader,,,,
+789,BIDCF,BlockchainK2 Corp,0.20589999854564667,False,2009.0,,07-03,09-16,6.0,6.0
+790,BKLIF,Blockmint Technologies Inc,0.10000000149011612,True,2019.0,,,,,
+791,BLPFF,BLOK Technologies Inc,0.0062500000931322575,True,2018.0,,,,,
+792,BMBZF,Blom Bank SAL,8.609999656677246,True,2013.0,,,,,
+793,BDR,Blonder Tongue Laboratories Inc,0.9208999872207642,False,2009.0,,11-14,01-28,7.0,5.0
+794,BE,Bloom Energy Corp,17.889999389648438,True,2018.0,,,,,
+795,BLBRF,Bloomberry Resorts Corp,0.09000000357627869,True,2013.0,,,,,
+796,BLMN,Bloomin Brands Inc,15.989999771118164,True,2012.0,,,,,
+797,BMBYF,Bloomsbury Publishing PLC,2.299999952316284,False,2010.0,,06-06,08-20,5.0,6.0
+798,NPMRF,Blossomvale Holdings Ltd,0.14000000059604645,False,2009.0,,10-01,12-15,2.0,9.0
+799,BLT,Blount International Inc,$10.00 ,True,,'Date',,,,
+800,BDIC,Blow & Drive Interlock Corp,0.14499999582767487,True,2015.0,,,,,
+801,BZRD,Blubuzzard Inc,0.007199999876320362,False,2009.0,,12-19,03-04,8.0,4.0
+802,BCOR,Blucora Inc,12.069999694824219,False,2009.0,,03-17,05-31,7.0,5.0
+803,APRN,Blue Apron Holdings Inc,5.659999847412109,True,2017.0,,,,,
+804,BLBD,Blue Bird Corp,14.585000038146973,True,2014.0,,,,,
+805,BUFF,Blue Buffalo Pet Products Inc,32.72999954223633,True,2016.0,,,,,
+806,BCYP,Blue Calypso Inc,$0.01 ,True,,No data fetched for symbol BCYP using YahooDailyReader,,,,
+807,BCRHF,Blue Capital Reinsurance Holdings Ltd,0.36010000109672546,True,2017.0,,,,,
+808,BDCO,Blue Dolphin Energy Co,0.2800000011920929,False,2009.0,,12-01,02-14,7.0,5.0
+809,BEAG,Blue Eagle Lithium Inc,0.03999999910593033,True,2017.0,,,,,
+810,BERI,Blue Earth Resources Inc,0.4259999990463257,False,2010.0,,04-23,07-07,3.0,8.0
+811,BUENF,Blue Energy Ltd,0.05730000138282776,True,2020.0,,,,,
+812,BHAT,Blue Hat Interactive Entertainment Technology,0.8769999742507935,True,2019.0,,,,,
+813,BHBK,Blue Hills Bancorp Inc,23.899999618530273,True,2014.0,,,,,
+814,BLAGF,Blue Lagoon Resources Inc,0.6700000166893005,True,2019.0,,,,,
+815,BMOOF,Blue Moon Zinc Corp,0.039900001138448715,False,2010.0,,12-26,03-11,3.0,7.0
+816,NILE,Blue Nile Inc,$40.71 ,True,,'Date',,,,
+817,BPRMF,Blue Prism Group PLC,20.700000762939453,True,2016.0,,,,,
+818,BLUBF,Blue Ribbon Income Fund,5.150000095367432,False,2009.0,,12-16,03-01,5.0,7.0
+819,BRBS,Blue Ridge Bankshares Inc,14.364999771118164,True,2012.0,,,,,
+820,BRMR,Blue Ridge Mountain Resources Inc,$4.75 ,True,,No data fetched for symbol BRMR using YahooDailyReader,,,,
+821,BRRE,Blue Ridge Real Estate Co,4.199999809265137,True,2013.0,,,,,
+822,BRVRF,Blue River Resources Ltd,0.008999999612569809,True,2012.0,,,,,
+823,BKUCF,Blue Sky Uranium Corp,0.0746999979019165,False,2009.0,,09-22,12-06,4.0,8.0
+824,BSOLF,Blue Solutions SA,19.200000762939453,True,2019.0,,,,,
+825,BSFC,Blue Star Foods Corp,2.049999952316284,True,2020.0,,,,,
+826,WPCZF,Blue Star Gold Corp,0.058070000261068344,True,2014.0,,,,,
+827,AZZEF,Blue Star Helium Ltd,0.03400000184774399,True,2016.0,,,,,
+828,BSTO,Blue Star Opportunities Corp,0.014399999752640724,True,2012.0,,,,,
+829,BVBC,Blue Valley Ban Corp,$14.40 ,True,,No data fetched for symbol BVBC using YahooDailyReader,,,,
+830,BWPC,Blue Water Petroleum Corp,0.029999999329447746,True,2013.0,,,,,
+831,BWVI,Blue Water Ventures International Inc,0.03799999877810478,False,2009.0,,03-21,06-04,6.0,6.0
+832,BBRRF,Blueberries Medical Corp,0.036400001496076584,True,2019.0,,,,,
+833,BLUE,bluebird bio Inc,45.869998931884766,True,2013.0,,,,,
+834,BLCT,BlueCity Holdings Ltd,9.579999923706055,True,2020.0,,,,,
+835,BXG,Bluegreen Vacations Corp,6.099999904632568,True,2017.0,,,,,
+836,BVH,Bluegreen Vacations Holding Corp,11.819999694824219,False,2009.0,,02-04,04-19,8.0,4.0
+837,BVHBB,Bluegreen Vacations Holding Corp,10.800000190734863,True,2018.0,,,,,
+838,BLHK,BlueHarbor Bank,9.319999694824219,False,2010.0,,01-16,03-31,6.0,5.0
+839,BLLYF,Bluejay Mining PLC,0.09000000357627869,True,2018.0,,,,,
+840,BKEP,Blueknight Energy Partners LP,1.5801000595092773,False,2010.0,,12-13,02-26,5.0,6.0
+841,BXC,BlueLinx Holdings Inc,23.09000015258789,False,2009.0,,12-17,03-02,6.0,6.0
+842,ALLXF,Bluenose Gold Corp,1.590000033378601,False,2009.0,,02-04,04-19,4.0,8.0
+843,CBDEF,BlueNRGY Group Ltd,0.013100000098347664,True,2016.0,,,,,
+844,BCRD,Blueone Card Inc,0.5080000162124634,True,2011.0,,,,,
+845,BPMC,Blueprint Medicines Corp,101.33999633789062,True,2015.0,,,,,
+846,BRG,Bluerock Residential Growth REIT Inc,9.270000457763672,True,2014.0,,,,,
+847,BLSFF,BlueScope Steel Ltd,11.569999694824219,False,2010.0,,10-21,01-04,6.0,5.0
+848,BLSFY,BlueScope Steel Ltd,47.2400016784668,False,2010.0,,12-31,03-16,9.0,2.0
+849,BTCWF,Bluesky Digital Assets Corp,0.10000000149011612,True,2017.0,,,,,
+850,BGRP,Bluestem Group Inc,0.2409999966621399,True,2011.0,,,,,
+851,BBSRF,Bluestone Resources Inc,1.5061999559402466,True,2012.0,,,,,
+852,BUGLF,Bluglass Ltd,0.08500000089406967,True,2014.0,,,,,
+853,BMWLF,Bluma Wellness Inc,0.49399998784065247,True,2020.0,,,,,
+854,SEPOF,BluMetric Environmental Inc,0.1080000028014183,True,2012.0,,,,,
+855,BTH,Blyth Inc,0.22499999403953552,True,2018.0,,,,,
+856,BMCH,BMC Stock Holdings Inc,45.459999084472656,True,2013.0,,,,,
+857,MRIRF,BMEX Gold Inc,0.3885999917984009,True,2020.0,,,,,
+858,BMGRF,BMG Resources Ltd,$0.25 ,True,,No data fetched for symbol BMGRF using YahooDailyReader,,,,
+859,BMLKF,BML Inc,$25.35 ,True,,No data fetched for symbol BMLKF using YahooDailyReader,,,,
+860,BNCN,BNC Bancorp,$35.15 ,True,,'Date',,,,
+861,BNCC,BNCCORP Inc,37.0,False,2009.0,,08-21,11-04,5.0,7.0
+862,BNTT,Bnet Media Group Inc,0.6499999761581421,True,2018.0,,,,,
+863,BNPQF,BNP Paribas,47.36000061035156,False,2010.0,,07-07,09-20,6.0,5.0
+864,BNPQY,BNP Paribas,23.71500015258789,False,2009.0,,07-08,09-21,5.0,7.0
+865,BNPCF,BNP Resources Inc,$0.04 ,True,,No data fetched for symbol BNPCF using YahooDailyReader,,,,
+866,DCF,BNY Mellon Alcentra Global Credit Income 2024 Targ,8.010000228881836,True,2017.0,,,,,
+867,DHF,BNY Mellon High Yield Strategies Fund,2.8350000381469727,False,2009.0,,03-18,06-01,9.0,3.0
+868,DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc",13.729999542236328,True,2013.0,,,,,
+869,DMF,"BNY Mellon Municipal Income, Inc.",8.449999809265137,False,2009.0,,03-19,06-02,10.0,2.0
+870,DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",7.510000228881836,False,2009.0,,03-15,05-29,8.0,4.0
+871,LEO,"BNY Mellon Strategic Municipals, Inc.",8.335000038146973,False,2009.0,,03-16,05-30,7.0,5.0
+872,BWP,Boardwalk Pipeline Partners LP,12.050000190734863,True,2012.0,,,,,
+873,BOWFF,Boardwalk Real Estate Investment Trust,23.915000915527344,False,2009.0,,03-22,06-05,6.0,6.0
+874,BWLKF,Boardwalktech Software Corp,0.4000000059604645,True,2019.0,,,,,
+875,BLGPY,Boart Longyear Ltd,$1.50 ,True,,No data fetched for symbol BLGPY using YahooDailyReader,,,,
+876,BOARF,Boart Longyear Ltd,0.30000001192092896,False,2009.0,,11-13,01-27,3.0,9.0
+877,BTIM,Boatim Inc,1.0499999523162842,True,2020.0,,,,,
+878,BOBE,Bob Evans Farms Inc,$77.01 ,True,,'Date',,,,
+879,BBBSF,Bobst Group SA,75.0,True,2018.0,,,,,
+880,BCVVF,BOC Aviation Ltd,8.319999694824219,True,2018.0,,,,,
+881,BHKLY,BOC Hong Kong Holdings Ltd,61.98500061035156,False,2009.0,,02-17,05-02,6.0,6.0
+882,BNKHF,BOC Hong Kong Holdings Ltd,3.0950000286102295,False,2009.0,,03-28,06-11,6.0,6.0
+883,BMMJ,Body and Mind Inc,0.33399999141693115,True,2012.0,,,,,
+884,ZCBD,Body Basics Inc,0.005799999926239252,True,2012.0,,,,,
+885,BODY,Body Central Corp,0.008500000461935997,True,2012.0,,,,,
+886,BDCYY,Bodycote PLC,$16.76 ,True,,No data fetched for symbol BDCYY using YahooDailyReader,,,,
+887,BYPLF,Bodycote PLC,9.5,True,2012.0,,,,,
+888,VARXF,BOE Varitronix Ltd,0.4699999988079071,True,2013.0,,,,,
+889,VARXY,BOE Varitronix Ltd,3.4200000762939453,True,2012.0,,,,,
+890,BA,Boeing Co,186.3350067138672,False,2009.0,,09-01,11-15,8.0,4.0
+891,BOGN,Bogen Communications International Inc,0.05000000074505806,False,2009.0,,09-19,12-03,5.0,7.0
+892,BOGMF,Bogo Medellin Milling Co Inc,1.5,True,2012.0,,,,,
+893,BSBK,Bogota Financial Corp,8.5600004196167,True,2020.0,,,,,
+894,WIFI,Boingo Wireless Inc,13.010000228881836,True,2011.0,,,,,
+895,BOIRF,Boiron SA,47.5,False,2009.0,,03-20,06-03,5.0,7.0
+896,BCC,Boise Cascade Co,41.4900016784668,True,2013.0,,,,,
+897,BOJA,Bojangles Inc,16.09000015258789,True,2015.0,,,,,
+898,BOKF,BOK Financial Corp,67.79000091552734,False,2009.0,,03-15,05-29,6.0,6.0
+899,BOLB,Bol Bancshares Inc,15.0,True,2012.0,,,,,
+900,BVLDF,Bold Ventures Inc,0.03220999985933304,True,2012.0,,,,,
+901,BLBK,BOLDFACE Group Inc,$0.01 ,True,,'Date',,,,
+902,BOLIF,Boliden AB,29.880300521850586,True,2012.0,,,,,
+903,BDNNY,Boliden AB,63.880001068115234,True,2020.0,,,,,
+904,BOLL,Bollinger Industries Inc,20.0,True,2012.0,,,,,
+905,BOIVF,Bollore SA,4.039999961853027,False,2010.0,,03-23,06-06,8.0,3.0
+906,BOLRF,Bollore SA,$3.75 ,True,,No data fetched for symbol BOLRF using YahooDailyReader,,,,
+907,BLLRF,Bollore SA,$0.21 ,True,,No data fetched for symbol BLLRF using YahooDailyReader,,,,
+908,BOMXF,Bolsa Mexicana de Valores SAB de CV,2.0199999809265137,True,2012.0,,,,,
+909,BMCDF,Bolsas Y Mercados Argentinos SA,$2.62 ,True,,No data fetched for symbol BMCDF using YahooDailyReader,,,,
+910,BOLYY,Bolsas Y Mercados Espanoles SHMSF SA,19.799999237060547,True,2013.0,,,,,
+911,SOHMF,Bolsas Y Mercados Espanoles SHMSF SA,$35.14 ,True,,No data fetched for symbol SOHMF using YahooDailyReader,,,,
+912,PCRCF,Bolt Metals Corp,0.25,True,2018.0,,,,,
+913,BDRAF,Bombardier Inc,0.33180001378059387,False,2009.0,,12-09,02-22,6.0,6.0
+914,BDRBF,Bombardier Inc,0.21496999263763428,False,2009.0,,12-11,02-24,5.0,7.0
+915,BMBPY,Bombril SA,$0.35 ,True,,No data fetched for symbol BMBPY using YahooDailyReader,,,,
+916,BONA,Bona Film Group Ltd,$13.63 ,True,,'Date',,,,
+917,BONL,Bonal International Inc,1.3600000143051147,False,2010.0,,10-11,12-25,5.0,6.0
+918,BCEI,Bonanza Creek Energy Inc,22.219999313354492,True,2011.0,,,,,
+919,BNPUF,Bonavista Energy Corp,0.029400000348687172,False,2009.0,,08-23,11-06,5.0,7.0
+920,BBLG,Bone Biologics Corp,4.849999904632568,True,2016.0,,,,,
+921,BNZPF,Bone Therapeutics SA,4.199999809265137,True,2017.0,,,,,
+922,BOEUF,Bonesupport Holding AB,5.099999904632568,True,2020.0,,,,,
+923,BNHUF,Bonheur ASA,27.100000381469727,True,2018.0,,,,,
+924,BJURF,Bonjour Holdings Ltd,0.019999999552965164,True,2012.0,,,,,
+925,BNSO,Bonso Electronics International Inc,4.239999771118164,False,2009.0,,12-29,03-14,11.0,1.0
+926,BNEFF,Bonterra Energy Corp,1.149999976158142,False,2009.0,,03-12,05-26,5.0,7.0
+927,BONXF,BonTerra Resources Inc,0.9750000238418579,False,2010.0,,06-27,09-10,3.0,8.0
+928,BOTX,Bontex Inc,0.04975999891757965,False,2009.0,,02-04,04-19,4.0,8.0
+929,BBIXF,Bonus BioGroup Ltd,0.09000000357627869,True,2019.0,,,,,
+930,BHHOF,Boohoo Group PLC,3.559999942779541,True,2017.0,,,,,
+931,BHOOY,Boohoo Group PLC,68.9000015258789,True,2014.0,,,,,
+932,BOKGF,Booker Group PLC,$2.65 ,True,,No data fetched for symbol BOKGF using YahooDailyReader,,,,
+933,BOKGY,Booker Group PLC,$31.15 ,True,,No data fetched for symbol BOKGY using YahooDailyReader,,,,
+934,BKNG,Booking Holdings Inc,2066.10009765625,False,2009.0,,12-11,02-24,10.0,2.0
+935,BAMM,Books-A-Million Inc,$3.25 ,True,,'Date',,,,
+936,BOMH,Boomer Holdings Inc,0.8799999952316284,True,2019.0,,,,,
+937,BMERQ,Boomerang Systems Inc,$0.03 ,True,,'Date',,,,
+938,BOOT,Boot Barn Holdings Inc,38.060001373291016,True,2014.0,,,,,
+939,BAH,Booz Allen Hamilton Holding Corp,87.41000366210938,False,2010.0,,06-26,09-09,7.0,4.0
+940,BOZTY,Boozt AB,17.399999618530273,True,2017.0,,,,,
+941,BZTAF,Boozt AB,18.031389236450195,True,2020.0,,,,,
+942,BIMI,BOQI International Medical Inc,1.8600000143051147,False,2009.0,,04-03,06-17,6.0,6.0
+943,BQ,Boqii Holding Ltd,5.574999809265137,True,2020.0,,,,,
+944,BOALF,Boral Ltd,3.299999952316284,False,2010.0,,12-23,03-08,10.0,1.0
+945,BOALY,Boral Ltd,13.25,False,2009.0,,12-11,02-24,8.0,4.0
+946,BRLXF,Boralex Inc,30.469999313354492,False,2010.0,,12-30,03-15,11.0,0.0
+947,BBME,Border Bancshares Inc Me,0.01209999993443489,True,2012.0,,,,,
+948,BOREF,Borealis Exploration Ltd,7.199999809265137,False,2009.0,,06-27,09-10,8.0,4.0
+949,BWA,BorgWarner Inc,37.78499984741211,False,2009.0,,09-25,12-09,8.0,4.0
+950,BRQS,Borqs Technologies Inc,1.0549999475479126,True,2015.0,,,,,
+951,BORR,Borr Drilling Ltd,0.5788999795913696,True,2019.0,,,,,
+952,BRGAY,Borregaard ASA,$13.07 ,True,,No data fetched for symbol BRGAY using YahooDailyReader,,,,
+953,BRRDF,Borregaard ASA,14.174099922180176,True,2018.0,,,,,
+954,BWMYD,BorrowMoney.com Inc,3,True,2020.0,,,,,
+955,BORUF,Borussia Dortmund GmbH & Co KGaA,6.269999980926514,True,2013.0,,,,,
+956,BOSC,BOS Better Online Solutions Ltd,2.5255000591278076,False,2009.0,,11-19,02-02,5.0,7.0
+957,FTGZF,BOS Global Holdings Ltd,$0.09 ,True,,No data fetched for symbol FTGZF using YahooDailyReader,,,,
+958,BSDGF,Bosideng International Holdings Ltd,0.4950000047683716,True,2013.0,,,,,
+959,BSDGY,Bosideng International Holdings Ltd,22.670000076293945,True,2011.0,,,,,
+960,BSPB,BOSP Bancshares Inc,$31.90 ,True,,No data fetched for symbol BSPB using YahooDailyReader,,,,
+961,BSHI,Boss Holdings Inc,19.5,False,2009.0,,11-14,01-28,10.0,2.0
+962,BHAGF,Bossard Holding AG,171.0,True,2020.0,,,,,
+963,SAM,Boston Beer Co Inc,937.0,False,2009.0,,06-07,08-21,3.0,9.0
+964,XXCCH,Boston Capital Tax Credit Fund LP,$0.27 ,True,,'Date',,,,
+965,XXJZA,Boston Capital Tax Credit Fund LP,$1.97 ,True,,No data fetched for symbol XXJZA using YahooDailyReader,,,,
+966,YYSSL,Boston Capital Tax Credit Fund LP,$1.10 ,True,,No data fetched for symbol YYSSL using YahooDailyReader,,,,
+967,YYSSM,Boston Capital Tax Credit Fund LP,$1.08 ,True,,No data fetched for symbol YYSSM using YahooDailyReader,,,,
+968,BOMN,Boston Omaha Corp,19.702999114990234,True,2017.0,,,,,
+969,BPZZF,Boston Pizza Royalties Income Fund,5.679999828338623,False,2009.0,,12-17,03-02,7.0,5.0
+970,BPFH,Boston Private Financial Holdings Inc,7.260000228881836,False,2009.0,,12-05,02-18,8.0,4.0
+971,BXP,Boston Properties Inc,91.06999969482422,False,2009.0,,11-01,01-15,7.0,5.0
+972,BRAI,Boston Restaurant Associates Inc,$0.25 ,True,,'Date',,,,
+973,BSND,Boston Sand & Gravel Co,550.0,False,2009.0,,11-08,01-22,4.0,8.0
+974,BSX,Boston Scientific Corp,38.005001068115234,False,2009.0,,11-20,02-03,7.0,5.0
+975,BTHE,Boston Therapeutics Inc,0.006200000178068876,True,2012.0,,,,,
+976,BWEL,Boswell (JG) Co,550.0,False,2009.0,,02-09,04-24,7.0,5.0
+977,BXPHF,Botanix Pharmaceuticals Ltd,0.07999999821186066,True,2019.0,,,,,
+978,BTZI,BOTS Inc,0.04399999976158142,True,2012.0,,,,,
+979,EPAY,Bottomline Technologies Inc,43.7599983215332,False,2009.0,,11-14,01-28,5.0,7.0
+980,BOCOF,Bougainville Copper Ltd,0.1850000023841858,False,2010.0,,02-14,04-29,4.0,7.0
+981,BDBD,Boulder Brands Inc,$11.03 ,True,,'Date',,,,
+982,BLLDF,Boulder Energy Ltd,$1.99 ,True,,No data fetched for symbol BLLDF using YahooDailyReader,,,,
+983,BIF,Boulder Growth & Income Fund,10.600000381469727,False,2009.0,,10-30,01-13,8.0,4.0
+984,BDABF,Boule Diagnostics AB,7.840000152587891,True,2017.0,,,,,
+985,BNCM,Bounce Mobile Systems Inc,0.05999999865889549,True,2012.0,,,,,
+986,PRZFF,Boundary Gold and Copper Mining Ltd,0.027650000527501106,False,2009.0,,12-08,02-21,3.0,9.0
+987,BYOGF,Bounty Oil & Gas NL,0.014000000432133675,True,2012.0,,,,,
+988,BOUBF,Bourbon Corp,$11.55 ,True,,'Date',,,,
+989,BSTHY,Boustead Holdings Bhd,$0.53 ,True,,No data fetched for symbol BSTHY using YahooDailyReader,,,,
+990,BSTJF,Boustead Projects Ltd,0.7699999809265137,True,2017.0,,,,,
+991,BSTGF,Boustead Singapore Ltd,0.5099999904632568,True,2015.0,,,,,
+992,BOUYF,Bouygues,35.33000183105469,False,2010.0,,11-13,01-27,8.0,3.0
+993,BOUYY,Bouygues,7.099999904632568,True,2012.0,,,,,
+994,ACKBF,Bow Energy Ltd,0.0731000006198883,True,2012.0,,,,,
+995,BWL.A,Bowl America Inc,$9.06 ,True,,No data fetched for symbol BWL.A using YahooDailyReader,,,,
+996,BWLVF,Bowleven PLC,0.05999999865889549,False,2010.0,,12-23,03-08,5.0,6.0
+997,BWTL,Bowlin Travel Centers Inc,2.7100000381469727,False,2009.0,,02-08,04-23,4.0,8.0
+998,BOWX,BowX Acquisition Corp,9.8100004196167,True,2020.0,,,,,
+999,BOX,Box Inc,17.155000686645508,True,2015.0,,,,,
+1000,BOXL,Boxlight Corp,1.649999976158142,True,2017.0,,,,,
+1001,BOXS,BoxScore Brands Inc,0.010499999858438969,True,2014.0,,,,,
+1002,BXXY,Boxxy Inc,$3.00 ,True,,No data fetched for symbol BXXY using YahooDailyReader,,,,
+1003,BOYAF,Boyaa Interactive International Ltd,0.07000000029802322,True,2015.0,,,,,
+1004,BYD,Boyd Gaming Corp,34.939998626708984,False,2009.0,,10-29,01-12,6.0,6.0
+1005,BYDGF,Boyd Group Services Inc,152.08799743652344,True,2012.0,,,,,
+1006,BYLB,Boyle Bancorp Inc,65.0,False,2009.0,,07-14,09-27,7.0,5.0
+1007,BYGRF,Boyuan Construction Group Inc,0.3495199978351593,True,2016.0,,,,,
+1008,BOZZD,Bozzuto's Inc,$199.50 ,True,,No data fetched for symbol BOZZD using YahooDailyReader,,,,
+1009,BPKKF,BP Castrol KK,$7.60 ,True,,No data fetched for symbol BPKKF using YahooDailyReader,,,,
+1010,BPMP,BP Midstream Partners LP,10.819999694824219,True,2017.0,,,,,
+1011,BP,BP PLC,18.78499984741211,False,2009.0,,08-21,11-04,5.0,7.0
+1012,BPAQF,BP PLC,3.0889999866485596,False,2009.0,,12-11,02-24,6.0,6.0
+1013,BPT,BP Prudhoe Bay Royalty Trust,1.541599988937378,False,2009.0,,12-13,02-26,6.0,6.0
+1014,BPXXY,BPER Banca SpA,2.319999933242798,True,2015.0,,,,,
+1015,SLCFF,BPLI Holdings Inc,0.1046999990940094,True,2013.0,,,,,
+1016,BPOSF,Bpost SA de Droit Public,10.300000190734863,True,2014.0,,,,,
+1017,BPOSY,Bpost SA de Droit Public,10.5,True,2013.0,,,,,
+1018,BTQNF,BQE Water Inc,11.381099700927734,True,2012.0,,,,,
+1019,BRMLL,BR Malls Participacoes SA,$7.09 ,True,,'Date',,,,
+1020,BRMSY,BR Malls Participacoes SA,3.490000009536743,False,2010.0,,11-16,01-30,5.0,6.0
+1021,BRLPF,BR Malls Participacoes SA,3.9764599800109863,True,2017.0,,,,,
+1022,BRPPF,BR Properties SA,$3.09 ,True,,No data fetched for symbol BRPPF using YahooDailyReader,,,,
+1023,BRPPY,BR Properties SA,$3.26 ,True,,No data fetched for symbol BRPPY using YahooDailyReader,,,,
+1024,SATYF,Bracell Ltd,$0.28 ,True,,No data fetched for symbol SATYF using YahooDailyReader,,,,
+1025,BRKNF,Bradken Ltd,$2.90 ,True,,No data fetched for symbol BRKNF using YahooDailyReader,,,,
+1026,BRC,Brady Corp,43.96500015258789,False,2009.0,,10-21,01-04,7.0,5.0
+1027,BRDYF,Brady PLC,$0.83 ,True,,No data fetched for symbol BRDYF using YahooDailyReader,,,,
+1028,BHR,Braemar Hotels & Resorts Inc,3.3399999141693115,True,2013.0,,,,,
+1029,BSEAF,Braemar Shipping Services PLC,1.7999999523162842,False,2010.0,,06-29,09-12,1.0,10.0
+1030,BRGGF,Bragg Gaming Group Inc,0.550000011920929,True,2018.0,,,,,
+1031,BRSF,Brain Scientific Inc,1.0,True,2020.0,,,,,
+1032,AZKLF,BrainChip Holdings Ltd,0.2578999996185303,True,2015.0,,,,,
+1033,BCLI,Brainstorm Cell Therapeutics Inc,11.723799705505371,False,2009.0,,12-26,03-11,9.0,3.0
+1034,BRSYF,Brainsway Ltd,3.069999933242798,True,2011.0,,,,,
+1035,BWAY,Brainsway Ltd,5.889999866485596,True,2019.0,,,,,
+1036,BRTLF,Brait SE,$3.45 ,True,,No data fetched for symbol BRTLF using YahooDailyReader,,,,
+1037,BMBLF,Brambles Ltd,8.0,False,2009.0,,10-28,01-11,5.0,7.0
+1038,BXBLY,Brambles Ltd,15.470000267028809,False,2009.0,,11-01,01-15,7.0,5.0
+1039,BMMEF,Brammer PLC,$2.02 ,True,,No data fetched for symbol BMMEF using YahooDailyReader,,,,
+1040,BMPAF,Brampton Brick Ltd,4.699999809265137,True,2012.0,,,,,
+1041,LGMFF,Brand X Lifestyle Corp,0.13391000032424927,True,2020.0,,,,,
+1042,BLEG,Branded Legacy Inc,0.4000000059604645,True,2020.0,,,,,
+1043,BNDT,Brandt Inc,0.11999999731779099,True,2012.0,,,,,
+1044,BDN,Brandywine Realty Trust,10.694999694824219,False,2009.0,,11-19,02-02,6.0,6.0
+1045,BWG,BrandywineGLOBAL - Global Income Opportunities Fun,11.550000190734863,True,2012.0,,,,,
+1046,BBZKF,Brasil Brokers Participacoes SA,$0.36 ,True,,No data fetched for symbol BBZKF using YahooDailyReader,,,,
+1047,LND,Brasilagro - Cia Bras de Prop Agricolas,4.440000057220459,True,2012.0,,,,,
+1048,BRCPF,Brasilagro - Cia Bras de Prop Agricolas,$4.09 ,True,,No data fetched for symbol BRCPF using YahooDailyReader,,,,
+1049,BAK,Braskem SA,9.069999694824219,True,2019.0,,,,,
+1050,LNDZF,Brattle Street Investment Corp,0.0949999988079071,True,2015.0,,,,,
+1051,BGAVF,Bravada Gold Corp,0.1050499975681305,True,2013.0,,,,,
+1052,BVTK,Bravatek Solutions Inc,0.004000000189989805,False,2009.0,,05-18,08-01,2.0,10.0
+1053,RIINF,Braveheart Resources Inc,0.07339999824762344,True,2012.0,,,,,
+1054,PCTZF,Bravern Ventures Ltd,0.37926000356674194,True,2015.0,,,,,
+1055,BBRG,Bravo Brio Restaurant Group Inc,4.050000190734863,True,2012.0,,,,,
+1056,BRVO,Bravo Multinational Inc,0.10000000149011612,False,2010.0,,11-02,01-16,5.0,6.0
+1057,BTKGF,BreadTalk Group Ltd,$0.55 ,True,,No data fetched for symbol BTKGF using YahooDailyReader,,,,
+1058,BDDSF,Brederode SA,$43.30 ,True,,No data fetched for symbol BDDSF using YahooDailyReader,,,,
+1059,BZC,Breeze-Eastern Corp,$19.80 ,True,,No data fetched for symbol BZC using YahooDailyReader,,,,
+1060,BRZV,Breezer Ventures Inc,0.0027000000700354576,False,2009.0,,09-20,12-04,4.0,8.0
+1061,BECC,Breitling Energy Corp,$0.01 ,True,,'Date',,,,
+1062,BFDI,Brekford Traffic Safety Inc,$0.12 ,True,,'Date',,,,
+1063,BRBOF,Brembo SpA,11.149999618530273,True,2012.0,,,,,
+1064,BBIM,Bremen Bancorp Inc,$93.03 ,True,,'Date',,,,
+1065,BNTGF,Brenntag AG,67.41999816894531,True,2012.0,,,,,
+1066,BNTGY,Brenntag AG,14.265000343322754,True,2012.0,,,,,
+1067,BRER,Bresler & Reiner Inc,0.03999999910593033,False,2009.0,,01-09,03-24,6.0,6.0
+1068,BVILF,Breville Group Ltd,18.399999618530273,True,2012.0,,,,,
+1069,BVILY,Breville Group Ltd,18.68000030517578,True,2013.0,,,,,
+1070,BDNHF,Brewin Dolphin Holdings PLC,2.990999937057495,True,2014.0,,,,,
+1071,BRFS,BRF SA,3.634999990463257,False,2009.0,,06-30,09-13,4.0,8.0
+1072,BRYFF,Bri-Chem Corp,0.03999999910593033,True,2012.0,,,,,
+1073,BCTXF,BriaCell Therapeutics Corp,3.990000009536743,True,2012.0,,,,,
+1074,BBI,Brickell Biotech Inc,0.5274999737739563,False,2009.0,,02-11,04-26,7.0,5.0
+1075,BRKWF,Brickworks Ltd,8.300000190734863,True,2012.0,,,,,
+1076,BDGE,Bridge Bancorp Inc,20.75,False,2009.0,,10-24,01-07,5.0,7.0
+1077,BBIO,BridgeBio Pharma Inc,43.31999969482422,True,2019.0,,,,,
+1078,BBGP,Bridgegate Pictures Corp,0.03999999910593033,True,2016.0,,,,,
+1079,BLIN,Bridgeline Digital Inc,2.109999895095825,False,2009.0,,11-19,02-02,5.0,7.0
+1080,BREUF,Bridgemarq Real Estate Services Inc,10.774999618530273,False,2009.0,,12-14,02-27,8.0,4.0
+1081,BRDCF,Bridgestone Corp,35.459999084472656,True,2012.0,,,,,
+1082,BRDCY,Bridgestone Corp,17.200000762939453,False,2009.0,,09-19,12-03,7.0,5.0
+1083,BWB,Bridgewater Bancshares Inc,11.970000267028809,True,2018.0,,,,,
+1084,BDGY,Bridgeway National Corp,0.023000000044703484,True,2014.0,,,,,
+1085,BRID,Bridgford Foods Corp,18.389999389648438,False,2009.0,,11-10,01-24,8.0,4.0
+1086,BGADF,Brigadier Gold Ltd,0.2130099982023239,True,2012.0,,,,,
+1087,BGGSQ,Briggs & Stratton Corp,0.21836000680923462,False,2009.0,,01-26,04-10,5.0,7.0
+1088,MNRL,Brigham Minerals Inc,11.09000015258789,True,2019.0,,,,,
+1089,BFAM,Bright Horizons Family Solutions Inc,166.27999877929688,True,2013.0,,,,,
+1090,BMTM,Bright Mountain Media Inc,3.0999999046325684,True,2014.0,,,,,
+1091,BEDU,Bright Scholar Education Holdings Ltd,6.324999809265137,True,2017.0,,,,,
+1092,BCOV,Brightcove Inc,12.8100004196167,True,2012.0,,,,,
+1093,BHF,Brighthouse Financial Inc,34.099998474121094,True,2017.0,,,,,
+1094,BTLN,Brightlane Corp,0.08500000089406967,False,2010.0,,03-23,06-06,3.0,8.0
+1095,BRTPF,Brightoil Petroleum (Holdings) Ltd,$0.29 ,True,,No data fetched for symbol BRTPF using YahooDailyReader,,,,
+1096,BRGC,BrightRock Gold Corp,0.020999999716877937,True,2012.0,,,,,
+1097,BSIG,BrightSphere Investment Group Inc,17.71500015258789,True,2014.0,,,,,
+1098,BV,BrightView Holdings Inc,14.3149995803833,True,2018.0,,,,,
+1099,BCAUF,Brilliance China Automotive Holdings Ltd,0.9100000262260437,False,2010.0,,08-27,11-10,6.0,5.0
+1100,BCAUY,Brilliance China Automotive Holdings Ltd,9.569999694824219,True,2011.0,,,,,
+1101,BRLI,Brilliant Acquisition Corp,9.793999671936035,True,2020.0,,,,,
+1102,EAT,Brinker International Inc,47.04999923706055,False,2009.0,,10-27,01-10,8.0,4.0
+1103,BNXR,Brinx Resources Ltd,0.008500000461935997,True,2012.0,,,,,
+1104,BRRGF,Brio Gold Inc,2.950000047683716,True,2018.0,,,,,
+1105,BMY,Bristol-Myers Squibb Company,63.62300109863281,False,2009.0,,08-07,10-21,6.0,6.0
+1106,VTOL,Bristow Group Inc,22.440000534057617,True,2013.0,,,,,
+1107,BRSWQ,Bristow Group Inc Old,$0.01 ,True,,No data fetched for symbol BRSWQ using YahooDailyReader,,,,
+1108,BMIN,Britannia Mining Inc,0.005100000184029341,False,2009.0,,05-29,08-12,4.0,8.0
+1109,BSTK,Brite-Strike Tactical Illumination Products Inc,0.019999999552965164,True,2013.0,,,,,
+1110,BATMF,British American Tobacco Malaysia Bhd,7.650000095367432,True,2012.0,,,,,
+1111,BTI,British American Tobacco PLC,36.849998474121094,False,2009.0,,12-23,03-08,9.0,3.0
+1112,BTAFF,British American Tobacco PLC,37.560001373291016,False,2010.0,,12-12,02-25,8.0,3.0
+1113,BRLAF,British Land Co PLC,4.889999866485596,True,2011.0,,,,,
+1114,BTLCY,British Land Co PLC,6.269999980926514,False,2009.0,,02-18,05-03,5.0,7.0
+1115,BTVCF,Britvic PLC,11.050000190734863,True,2012.0,,,,,
+1116,BTVCY,Britvic PLC,21.959999084472656,True,2018.0,,,,,
+1117,BRX,Brixmor Property Group Inc,15.135000228881836,True,2013.0,,,,,
+1118,BBBXF,Brixton Metals Corp,0.22634999454021454,True,2011.0,,,,,
+1119,BRKK,BRK Inc,8.0,True,2014.0,,,,,
+1120,BRST,Broad Street Realty Inc,1.0,False,2009.0,,03-21,06-04,2.0,10.0
+1121,BDCM,Broadcast Marketing Group Inc,0.04399999976158142,False,2009.0,,12-30,03-15,8.0,4.0
+1122,BRCM,Broadcom Corp,$54.67 ,True,,'Date',,,,
+1123,AVGO,Broadcom Inc,373.4700012207031,False,2009.0,,04-23,07-07,9.0,3.0
+1124,BRDLF,Broadleaf Co Ltd,$6.20 ,True,,No data fetched for symbol BRDLF using YahooDailyReader,,,,
+1125,BRMK,Broadmark Realty Capital Inc,10.204999923706055,True,2019.0,,,,,
+1126,BR,Broadridge Financial Solutions Inc,146.00579833984375,False,2009.0,,06-24,09-07,7.0,5.0
+1127,BRSE,Broadside Enterprises Inc,0.061000000685453415,False,2009.0,,08-06,10-20,2.0,10.0
+1128,BSFT,BroadSoft Inc,$54.90 ,True,,'Date',,,,
+1129,TFFTF,Broadspectrum Ltd,$0.84 ,True,,No data fetched for symbol TFFTF using YahooDailyReader,,,,
+1130,BSN,Broadstone Acquisition Corp,9.649999618530273,True,2020.0,,,,,
+1131,BNL,Broadstone Net Lease Inc,17.09000015258789,True,2020.0,,,,,
+1132,BVWN,Broadview Networks Holdings Inc,$6.50 ,True,,No data fetched for symbol BVWN using YahooDailyReader,,,,
+1133,BVSN,BroadVision Inc,$4.41 ,True,,No data fetched for symbol BVSN using YahooDailyReader,,,,
+1134,BYFC,Broadway Financial Corp,1.6799999475479126,False,2009.0,,12-21,03-06,7.0,5.0
+1135,BDWYF,Broadway Gold Mining Ltd,$0.05 ,True,,No data fetched for symbol BDWYF using YahooDailyReader,,,,
+1136,BWEN,Broadwind Inc,3.565000057220459,False,2009.0,,03-01,05-15,5.0,7.0
+1137,BROD,Broder Brothers Co,$7.09 ,True,,'Date',,,,
+1138,BROG,Brooge Energy Ltd,8.800000190734863,True,2018.0,,,,,
+1139,BKD,Brookdale Senior Living Inc,4.067299842834473,False,2009.0,,12-08,02-21,7.0,5.0
+1140,BAM,Brookfield Asset Management Inc,37.095001220703125,False,2009.0,,12-21,03-06,8.0,4.0
+1141,BBU,Brookfield Business Partners LP,33.58000183105469,True,2016.0,,,,,
+1142,BOXC,Brookfield Canada Office Properties,$24.96 ,True,,'Date',,,,
+1143,BIPC,Brookfield Infrastructure Corp,65.59500122070312,True,2020.0,,,,,
+1144,BIP,Brookfield Infrastructure Partners LP,51.0,False,2009.0,,12-20,03-05,8.0,4.0
+1145,BPY,Brookfield Property Partners LP,15.261099815368652,True,2013.0,,,,,
+1146,BPYU,Brookfield Property REIT Inc,16.184999465942383,True,2018.0,,,,,
+1147,RA,Brookfield Real Assets Income Fund Inc.,16.895000457763672,True,2016.0,,,,,
+1148,BEPC,Brookfield Renewable Corp,73.0,True,2020.0,,,,,
+1149,BEP,Brookfield Renewable Partners LP,57.63999938964844,False,2009.0,,11-21,02-04,7.0,5.0
+1150,BRKL,Brookline Bancorp Inc,11.399999618530273,False,2009.0,,10-21,01-04,5.0,7.0
+1151,BMXI,Brookmount Explorations,0.9599999785423279,False,2009.0,,04-21,07-05,6.0,6.0
+1152,BRKS,Brooks Automation Inc,68.13500213623047,False,2009.0,,08-26,11-09,8.0,4.0
+1153,RDFEF,Brookside Energy Ltd,0.009999999776482582,True,2012.0,,,,,
+1154,BRTHF,Brother Industries Ltd,17.540000915527344,False,2010.0,,01-16,03-31,5.0,6.0
+1155,BRTHY,Brother Industries Ltd,33.15999984741211,False,2009.0,,10-12,12-26,6.0,6.0
+1156,BRO,Brown & Brown Inc,47.0099983215332,False,2009.0,,04-07,06-21,8.0,4.0
+1157,NBRNF,Brown (N) Group PLC,1.3242199420928955,True,2015.0,,,,,
+1158,BF.A,Brown-Forman Corp,$72.43 ,True,,'Date',,,,
+1159,BF.B,Brown-Forman Corp,$78.85 ,True,,'Date',,,,
+1160,BWMG,Brownie's Marine Group Inc,0.019999999552965164,True,2012.0,,,,,
+1161,BRP,BRP Group Inc,31.844999313354492,True,2019.0,,,,,
+1162,DOOO,BRP Inc,48.59000015258789,True,2013.0,,,,,
+1163,BRT,BRT Apartments Corp,13.350000381469727,False,2009.0,,08-05,10-19,6.0,6.0
+1164,BRKR,Bruker Corp,48.939998626708984,False,2009.0,,11-14,01-28,8.0,4.0
+1165,BCUCF,Brunello Cucinelli SpA,29.8799991607666,True,2012.0,,,,,
+1166,BCUCY,Brunello Cucinelli SpA,17.399999618530273,True,2013.0,,,,,
+1167,BRBW,Brunswick Bancorp,7.800000190734863,False,2009.0,,11-10,01-24,6.0,6.0
+1168,BC,Brunswick Corp,70.97000122070312,False,2009.0,,09-25,12-09,8.0,4.0
+1169,KMMTF,Brunswick Exploration Inc,$0.26 ,True,,No data fetched for symbol KMMTF using YahooDailyReader,,,,
+1170,BMTC,Bryn Mawr Bank Corp,29.56999969482422,False,2009.0,,03-29,06-12,6.0,6.0
+1171,BLMT,BSB Bancorp Inc,32.84000015258789,True,2012.0,,,,,
+1172,BLZSF,BSD Crown Ltd,0.20000000298023224,True,2012.0,,,,,
+1173,PRSNQ,BSD Medical Corp,0.019999999552965164,True,2012.0,,,,,
+1174,BSMZF,BSM Technologies Inc,$1.02 ,True,,No data fetched for symbol BSMZF using YahooDailyReader,,,,
+1175,BSQR,BSQUARE Corp,1.409999966621399,False,2009.0,,08-13,10-27,5.0,7.0
+1176,BSRTF,BSR Real Estate Investment Trust,10.771499633789062,True,2018.0,,,,,
+1177,BTTGY,BT Group PLC,$10.83 ,True,,No data fetched for symbol BTTGY using YahooDailyReader,,,,
+1178,BTGOF,BT Group PLC,1.600000023841858,False,2010.0,,10-31,01-14,5.0,6.0
+1179,BTBIF,BTB Real Estate Investment Trust,2.3459999561309814,False,2010.0,,12-26,03-11,6.0,5.0
+1180,BTCS,BTCS Inc,0.14000000059604645,False,2010.0,,12-27,03-12,8.0,3.0
+1181,BTGGF,BTG PLC,$10.05 ,True,,No data fetched for symbol BTGGF using YahooDailyReader,,,,
+1182,BGPBF,BTS Group AB,26.799999237060547,True,2013.0,,,,,
+1183,BTGWF,BTS Group Holdings PLC,$0.38 ,True,,No data fetched for symbol BTGWF using YahooDailyReader,,,,
+1184,BTSGY,BTS Group Holdings PLC,27.0,True,2013.0,,,,,
+1185,BTGRF,BTS Group Holdings PLC,0.30831000208854675,True,2020.0,,,,,
+1186,BTUMF,BTU Metals Corp,0.1379999965429306,True,2019.0,,,,,
+1187,BBLR,Bubblr Inc,2,True,2020.0,,,,,
+1188,BCHHF,Bucher Industries AG,312.0,True,2012.0,,,,,
+1189,BUHF,Buck Hill Falls Co,14.0,True,2012.0,,,,,
+1190,BKE,Buckle Inc,27.389999389648438,False,2009.0,,09-12,11-26,6.0,6.0
+1191,BKCS,Bucks County Bank,$12.30 ,True,,No data fetched for symbol BKCS using YahooDailyReader,,,,
+1192,POTTF,Buddy Technologies Ltd,0.04699999839067459,True,2012.0,,,,,
+1193,BDWBF,Budweiser Brewing Co APAC Ltd,3.200000047683716,True,2019.0,,,,,
+1194,BDWBY,Budweiser Brewing Co APAC Ltd,15.069999694824219,True,2020.0,,,,,
+1195,BVN,Buenaventura Mining Co Inc,11.319999694824219,False,2009.0,,07-11,09-24,6.0,6.0
+1196,BWLD,Buffalo Wild Wings Inc,$156.95 ,True,,'Date',,,,
+1197,BIIAF,Buhler Industries Inc,2.049999952316284,False,2010.0,,06-29,09-12,1.0,10.0
+1198,BBW,Build-A-Bear Workshop Inc,4.534999847412109,False,2009.0,,11-07,01-21,6.0,6.0
+1199,BABL,Buildablock Corp,0.00570000009611249,False,2009.0,,03-20,06-03,2.0,10.0
+1200,BLDR,Builders FirstSource Inc,34.790000915527344,False,2009.0,,10-31,01-14,6.0,6.0
+1201,BULIF,Bulgari SpA,$15.79 ,True,,'Date',,,,
+1202,BFGC,Bullfrog Gold Corp,0.22699999809265137,True,2011.0,,,,,
+1203,TTEXF,Bullion Gold Resources Corp,0.05999999865889549,True,2013.0,,,,,
+1204,BRDBF,Bumi Armada Bhd,0.15000000596046448,True,2014.0,,,,,
+1205,PBMRY,Bumi Resources Tbk,0.6800000071525574,False,2010.0,,11-24,02-07,5.0,6.0
+1206,BUGDF,Bumrungrad Hospital PCL,3.319999933242798,False,2010.0,,06-21,09-04,6.0,5.0
+1207,BUHPF,Bumrungrad Hospital PCL,2.9200000762939453,False,2010.0,,07-20,10-03,9.0,2.0
+1208,BUHPY,Bumrungrad Hospital PCL,59.67829895019531,True,2015.0,,,,,
+1209,BG,Bunge Ltd,58.93000030517578,False,2009.0,,10-07,12-21,5.0,7.0
+1210,BHLL,Bunker Hill Mining Corp,0.3781999945640564,False,2010.0,,08-26,11-09,6.0,5.0
+1211,BZLFF,Bunzl PLC,33.54999923706055,False,2010.0,,03-22,06-05,8.0,3.0
+1212,BZLFY,Bunzl PLC,32.39500045776367,False,2009.0,,03-31,06-14,10.0,2.0
+1213,BBRYF,Burberry Group PLC,21.399999618530273,False,2010.0,,12-08,02-21,8.0,3.0
+1214,BURBY,Burberry Group PLC,21.325000762939453,False,2009.0,,12-04,02-17,8.0,4.0
+1215,BCKDY,Burckhardt Compression Holding AG,$15.50 ,True,,No data fetched for symbol BCKDY using YahooDailyReader,,,,
+1216,BUROF,Burcon NutraScience Corp,1.7000000476837158,False,2010.0,,12-21,03-06,5.0,6.0
+1217,BVRDF,Bureau Veritas SA,25.264999389648438,False,2010.0,,04-10,06-24,4.0,7.0
+1218,BRFRY,Burford Capital Ltd,9.0,True,2017.0,,,,,
+1219,BUR,Burford Capital Ltd,9.90999984741211,True,2020.0,,,,,
+1220,BFWWF,Burger Fuel Group Ltd,0.23999999463558197,True,2013.0,,,,,
+1221,BTAQU,Burgundy Technology Acquisition Corp,10.0,True,2020.0,,,,,
+1222,BTAQ,Burgundy Technology Acquisition Corp,9.739999771118164,True,2020.0,,,,,
+1223,BHRB,Burke & Herbert Bank & Trust Co,1676.0,False,2009.0,,03-22,06-05,8.0,4.0
+1224,BURL,Burlington Stores Inc,226.0,True,2013.0,,,,,
+1225,BURCA,Burnham Holdings Inc,12.649999618530273,False,2009.0,,12-10,02-23,9.0,3.0
+1226,BURCB,Burnham Holdings Inc,$14.31 ,True,,No data fetched for symbol BURCB using YahooDailyReader,,,,
+1227,BNR,Burning Rock Biotech Ltd,28.2549991607666,True,2020.0,,,,,
+1228,BSMAF,Bursa Malaysia Bhd,$1.84 ,True,,No data fetched for symbol BSMAF using YahooDailyReader,,,,
+1229,BRNGF,Buru Energy Ltd,0.07000000029802322,True,2011.0,,,,,
+1230,BZYR,Burzynski Research Institute Inc,0.029999999329447746,False,2009.0,,08-07,10-21,4.0,8.0
+1231,CGLD,Buscar Co,0.08500000089406967,True,2013.0,,,,,
+1232,BSHVF,Bushveld Minerals Ltd,0.22499999403953552,True,2017.0,,,,,
+1233,BDVC,Business Development Corp Of America,$0.01 ,True,,'Date',,,,
+1234,BFST,Business First Bancshares Inc,19.3700008392334,True,2018.0,,,,,
+1235,BMSV,Business Marketing Services Inc,$0.05 ,True,,'Date',,,,
+1236,BZWR,Business Warrior Corp,0.01889999955892563,True,2020.0,,,,,
+1237,BUKS,Butler National Corp,0.5400000214576721,False,2009.0,,05-25,08-08,4.0,8.0
+1238,BZZFF,Buzzi Unicem SpA,16.149999618530273,True,2014.0,,,,,
+1239,BZZUF,Buzzi Unicem SpA,22.950000762939453,True,2013.0,,,,,
+1240,BZZUY,Buzzi Unicem SpA,12.270000457763672,False,2010.0,,04-26,07-10,7.0,4.0
+1241,BVFL,Bv Financial Inc,17.75,False,2009.0,,09-22,12-06,7.0,5.0
+1242,BWLLF,BW LPG Ltd,5.099999904632568,True,2014.0,,,,,
+1243,BWLLY,BW LPG Ltd,4.119999885559082,True,2016.0,,,,,
+1244,BGSWF,BW Offshore Ltd,$3.55 ,True,,No data fetched for symbol BGSWF using YahooDailyReader,,,,
+1245,PYGMF,bwin.party digital entertainment PLC,$1.75 ,True,,No data fetched for symbol PYGMF using YahooDailyReader,,,,
+1246,BWXXF,BWX Ltd,4.489999771118164,True,2018.0,,,,,
+1247,BWXT,BWX Technologies Inc,56.369998931884766,False,2010.0,,12-12,02-25,7.0,4.0
+1248,BYDDF,BYD Co Ltd,23.3799991607666,False,2009.0,,08-28,11-11,9.0,3.0
+1249,BYDDY,BYD Co Ltd,46.689998626708984,False,2009.0,,08-28,11-11,9.0,3.0
+1250,BYDIF,BYD Electronic (International) Co Ltd,4.579999923706055,False,2010.0,,08-18,11-01,6.0,5.0
+1251,BY,Byline Bancorp Inc,14.819999694824219,True,2017.0,,,,,
+1252,BYLG,Bylog Group Corp,0.75,True,2018.0,,,,,
+1253,BYTRF,Byotrol PLC,0.019999999552965164,False,2009.0,,05-30,08-13,2.0,9.0
+1254,BYRN,Byrna Technologies Inc,1.409999966621399,False,2009.0,,03-31,06-14,5.0,7.0
+1255,BYROF,Byron Energy Ltd,0.08500000089406967,True,2014.0,,,,,
+1256,BYZN,Byzen Digital Inc,0.07999999821186066,True,2012.0,,,,,

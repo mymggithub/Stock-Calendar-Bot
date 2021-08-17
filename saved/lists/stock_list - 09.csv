@@ -1,0 +1,74 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,JFU,9F Inc,1.2699999809265137,True,2019.0,,,,,,,,,,
+1,NNCT,99 Cent Stuff Inc,$0.01 ,True,,'Date',,,,,,,,,
+2,NMTR,9 Meters Biopharma Inc,0.9751999974250793,True,2016.0,,,,,,,,,,
+3,EGHT,8x8 Inc,18.850000381469727,False,2009.0,,05-15,07-29,5.0,5.0,6.0,6.0,05-15,07-29,12.097534046657698
+4,CAFD,8point3 Energy Partners LP,12.420000076293945,True,2015.0,,,,,,,,,,
+5,JFK,8i Enterprises Acquisition Corp,9.0,True,2019.0,,,,,,,,,,
+6,ETNB,89bio Inc,25.90999984741211,True,2019.0,,,,,,,,,,
+7,EIHDF,888 Holdings PLC,3.5,True,2012.0,,,,,,,,,,
+8,TNGRY,88 Energy Ltd,$0.02 ,True,,No data fetched for symbol TNGRY using YahooDailyReader,,,,,,,,,
+9,RNWR,808 Renewable Energy Corp,0.019999999552965164,True,2014.0,,,,,,,,,,
+10,SIXD,6D Global Technologies Inc,0.011300000362098217,True,2012.0,,,,,,,,,,
+11,FPLSF,5N Plus Inc,1.809999942779541,False,2009.0,,11-10,01-24,5.0,5.0,6.0,6.0,11-10,01-24,2.133326459612356
+12,FNGWF,5G Networks Ltd,1.1799999475479126,True,2020.0,,,,,,,,,,
+13,FVAM,5:01 Acquisition Corp,10.020000457763672,True,2020.0,,,,,,,,,,
+14,WUBA,58.com Inc,55.880001068115234,True,2013.0,,,,,,,,,,
+15,JOBS,51job Inc,70.02999877929689,False,2009.0,,09-12,11-26,8.0,8.0,3.0,3.0,09-12,11-26,10.357619829254414
+16,WBAI,500.com Ltd,2.9800000190734863,True,2013.0,,,,,,,,,,
+17,FSCGF,4SC AG,$5.30 ,True,,No data fetched for symbol FSCGF using YahooDailyReader,,,,,,,,,
+18,FOREY,4imprint Group PLC,$47.31 ,True,,'Date',,,,,,,,,
+19,FRRFF,4imprint Group PLC,33.400001525878906,True,2012.0,,,,,,,,,,
+20,FUNWF,4Fun Media SA,$1.84 ,True,,No data fetched for symbol FUNWF using YahooDailyReader,,,,,,,,,
+21,FFNTF,4Front Ventures Corp,0.7099999785423279,True,2018.0,,,,,,,,,,
+22,FRDSF,4DS Memory Ltd,0.03999999910593033,True,2020.0,,,,,,,,,,
+23,FRPRF,4d pharma PLC,1.899999976158142,True,2020.0,,,,,,,,,,
+24,SYGWF,4Basebio AG,$1.20 ,True,,No data fetched for symbol SYGWF using YahooDailyReader,,,,,,,,,
+25,FNINF,49 North Resources Inc,0.09000000357627869,False,2009.0,,02-19,05-04,5.0,5.0,6.0,6.0,02-19,05-04,-4.026088832606795
+26,NCNNF,48North Cannabis Corp,0.11020000278949738,True,2018.0,,,,,,,,,,
+27,TRSBF,3SBio Inc,1.4299999475479126,True,2018.0,,,,,,,,,,
+28,PSPW,3Power Energy Group Inc,0.05000000074505806,False,2009.0,,08-12,10-26,6.0,6.0,5.0,5.0,08-12,10-26,-31.76099278651909
+29,MMM,3M Co,170.7899932861328,False,2009.0,,10-29,01-12,8.0,7.0,3.0,4.0,10-29,01-12,5.1938007285462895
+30,TGOPY,3i Group PLC,7.177999973297119,False,2010.0,,11-09,01-23,5.0,4.0,5.0,6.0,12-11,02-24,10.030819817572006
+31,TGOPF,3i Group PLC,13.960000038146973,False,2009.0,,03-05,05-19,7.0,7.0,4.0,4.0,03-05,05-19,5.842591222052361
+32,DDDX,3DX Industries Inc,0.009999999776482582,False,2010.0,,10-11,12-25,3.0,3.0,7.0,7.0,10-11,12-25,-2.698777446866156
+33,THDS,3Dshopping.com Inc,0.007550000213086605,False,2009.0,,11-13,01-27,4.0,4.0,7.0,7.0,11-13,01-27,11.195729654903284
+34,DDD,3D Systems Corp,7.079999923706055,False,2009.0,,12-11,02-24,7.0,7.0,4.0,4.0,12-11,02-24,15.075710535648431
+35,DPSM,3D Pioneer Systems Inc,0.02199999988079071,True,2013.0,,,,,,,,,,
+36,TOILF,3D Oil Ltd,0.0689999982714653,True,2019.0,,,,,,,,,,
+37,MRJT,3D MakerJet Inc,0.00800000037997961,True,2015.0,,,,,,,,,,
+38,HHHEF,37 Capital Inc,0.0340999998152256,True,2012.0,,,,,,,,,,
+39,KRKR,36KR Holdings Inc,3.0299999713897705,True,2019.0,,,,,,,,,,
+40,TSIOF,361 Degrees International Ltd,0.1289999932050705,True,2012.0,,,,,,,,,,
+41,QFIN,360 DigiTech Inc,12.460000038146973,True,2018.0,,,,,,,,,,
+42,DMTRF,3-D Matrix Ltd,3.2100000381469727,True,2013.0,,,,,,,,,,
+43,SAYFF,3 Sixty Risk Solutions Ltd,0.03068999946117401,False,2010.0,,04-20,07-04,4.0,4.0,4.0,4.0,04-20,07-04,5.627459717327542
+44,TWOU,2U Inc,33.43000030517578,True,2014.0,,,,,,,,,,
+45,ZGBEF,2G Energy AG,84.0,True,2014.0,,,,,,,,,,
+46,TFSVF,24SevenOffice Scandinavia AB,4.142099857330322,True,2020.0,,,,,,,,,,
+47,XXII,22nd Century Group Inc,1.284999966621399,True,2011.0,,,,,,,,,,
+48,VNET,21Vianet Group Inc,22.719999313354492,True,2011.0,,,,,,,,,,
+49,TWGL,20/20 Global Inc,0.05000000074505806,True,2012.0,,,,,,,,,,
+50,FSMK,1st Summit Bancorp Johnstown Inc,82.0,True,2013.0,,,,,,,,,,
+51,SRCE,1st Source Corp,37.099998474121094,False,2009.0,,10-09,12-23,7.0,6.0,4.0,5.0,10-21,01-04,6.592675748390769
+52,FCCY,1st Constitution Bancorp,15.5,False,2009.0,,10-30,01-13,7.0,7.0,4.0,4.0,10-30,01-13,6.9490242884666475
+53,FCOB,1st Colonial Bancorp Inc,6.75,False,2009.0,,03-26,06-09,7.0,7.0,4.0,4.0,11-06,01-20,3.904529456586209
+54,FCTY,1st Century Bancshrs Inc,$11.22 ,True,,'Date',,,,,,,,,
+55,FISB,1st Cap Bancorp,11.199999809265137,False,2009.0,,01-22,04-06,8.0,8.0,3.0,3.0,01-22,04-06,-0.7628979914328463
+56,ONEM,1Life Healthcare Inc,33.474998474121094,True,2020.0,,,,,,,,,,
+57,TGIFF,1933 Industries Inc,0.06199999898672104,True,2013.0,,,,,,,,,,
+58,AUMBF,1911 Gold Corp,0.38499999046325684,True,2020.0,,,,,,,,,,
+59,BCOW,1895 Bancorp of Wisconsin Inc,9.567000389099121,True,2019.0,,,,,,,,,,
+60,WFCL,1867 Western Financial Corp,6600.0,True,2012.0,,,,,,,,,,
+61,EFSH,1847 Holdings LLC,1.7100000381469727,True,2018.0,,,,,,,,,,
+62,GOED,1847 Goedeker Inc,5.839099884033203,True,2020.0,,,,,,,,,,
+63,ATNF,180 Life Sciences Corp,2.190000057220459,True,2020.0,,,,,,,,,,
+64,TURN,180 Degree Capital Corp,1.9021999835968018,False,2009.0,,11-10,01-24,7.0,7.0,4.0,4.0,11-10,01-24,2.8356588015057604
+65,YSGG,1399 Internet Technology Application Group Inc,2.0,False,2009.0,,12-11,02-24,5.0,5.0,6.0,6.0,12-11,02-24,44.116666280336815
+66,PIH,1347 Property Insurance Holdings Inc,3.059999942779541,True,2014.0,,,,,,,,,,
+67,YI,111 Inc,7.309999942779541,True,2018.0,,,,,,,,,,
+68,TLGAF,11 88 0 Solutions AG,1.2200000286102295,True,2019.0,,,,,,,,,,
+69,TXG,10x Genomics Inc,140.13499450683594,True,2019.0,,,,,,,,,,
+70,FLWS,1-800-Flowers.com Inc,22.8700008392334,False,2009.0,,01-29,04-13,8.0,8.0,3.0,3.0,01-29,04-13,15.425729132337075
+71,DRHKF,1&1 Drillisch AG,$39.44 ,True,,'Date',,,,,,,,,
+72,OONEF,01 Communique Laboratory Inc,0.3400000035762787,True,2020.0,,,,,,,,,,

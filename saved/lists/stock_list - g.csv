@@ -1,0 +1,1021 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,GZIC,GZ6G Technologies Corp,0.131999999,FALSE,2009,,24-Oct,7-Jan,5,5,6,6,24-Oct,7-Jan,9.879635934
+1,GYTI,Gyrotron Technology Inc,0.07,TRUE,2012,,,,,,,,,,
+2,GYRO,Gyrodyne LLC,16.62000084,FALSE,2009,,10-Jul,23-Sep,5,5,6,6,23-Jun,6-Sep,3.305968071
+3,GMBEQ,Gymboree Holding Corp,$0.01 ,TRUE,,No data fetched for symbol GMBEQ using YahooDailyReader,,,,,,,,,
+4,GYYMF,Gym Group (The) PLC,2.783299923,TRUE,2018,,,,,,,,,,
+5,CLAGF,GxP German Properties AG,$1.10 ,TRUE,,No data fetched for symbol CLAGF using YahooDailyReader,,,,,,,,,
+6,GXGX,GX Acquisition Corp,10.28999996,TRUE,2019,,,,,,,,,,
+7,GWGWF,GWR Global Water Resources Corp,$6.50 ,TRUE,,'Date',,,,,,,,,
+8,GWGH,GWG Holdings Inc,7.889999866,TRUE,2014,,,,,,,,,,
+9,GWAXY,GWA Group Ltd,$9.33 ,TRUE,,No data fetched for symbol GWAXY using YahooDailyReader,,,,,,,,,
+10,GWPRF,GW Pharmaceuticals PLC,9.710000038,FALSE,2010,,5-Apr,19-Jun,6,6,4,4,5-Apr,19-Jun,13.83657046
+11,GWPH,GW Pharmaceuticals PLC,118.6999969,TRUE,2013,,,,,,,,,,
+12,GVMUF,GVIC Communications Corp,$0.08 ,TRUE,,No data fetched for symbol GVMUF using YahooDailyReader,,,,,,,,,
+13,GVCXF,GVIC Communications Corp,0.088200003,TRUE,2014,,,,,,,,,,
+14,GMVHY,GVC Holdings PLC,13.47990036,TRUE,2020,,,,,,,,,,
+15,GMVHF,GVC Holdings PLC,12.80000019,FALSE,2009,,23-Mar,6-Jun,4,3,5,6,23-Mar,6-Jun,15.8410756
+16,GYNAF,Guyana Goldstrike Inc,0.092799999,TRUE,2013,,,,,,,,,,
+17,GUYFF,Guyana Goldfields Inc,1.399999976,FALSE,2009,,11-Jun,25-Aug,4,4,7,7,11-Jun,25-Aug,7.67102985
+18,GSHN,Gushen Inc,1,TRUE,2017,,,,,,,,,,
+19,SLLFF,Gusbourne PLC,0.694999993,TRUE,2012,,,,,,,,,,
+20,GRNVF,Gurunavi Inc,$12.40 ,TRUE,,No data fetched for symbol GRNVF using YahooDailyReader,,,,,,,,,
+21,GZCC,Guozi Zhongyu Capital Holdings Co,0.07,TRUE,2012,,,,,,,,,,
+22,GUOSF,Guotai Junan Securities Co Ltd,1.329519987,TRUE,2020,,,,,,,,,,
+23,GUOTF,Guotai Junan International Holdings Ltd,$0.33 ,TRUE,,No data fetched for symbol GUOTF using YahooDailyReader,,,,,,,,,
+24,GULRY,Guoco Group Ltd,23.92000008,FALSE,2010,,1-Oct,15-Dec,7,3,3,7,8-Jul,21-Sep,1.913824936
+25,GULRF,Guoco Group Ltd,16.63999939,FALSE,2009,,24-Sep,8-Dec,7,5,4,6,20-Aug,3-Nov,5.791840089
+26,CJIMF,Gunpoint Exploration Ltd,0.600000024,FALSE,2010,,26-Dec,11-Mar,4,4,6,6,26-Dec,11-Mar,3.864907488
+27,GBOGF,Gunnebo AB,$3.72 ,TRUE,,No data fetched for symbol GBOGF using YahooDailyReader,,,,,,,,,
+28,GMBKF,Gunma Bank Ltd,3.25999999,TRUE,2019,,,,,,,,,,
+29,ASWRF,Gungnir Resources Inc,0.062899999,FALSE,2009,,30-Jul,13-Oct,6,6,5,5,30-Jul,13-Oct,10.11623367
+30,GUNGF,GungHo Online Entertainment Inc,17,TRUE,2014,,,,,,,,,,
+31,JAHI,Gundaker/Jordan American Holdings Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+32,GFPOF,Gulfsands Petroleum PLC,$0.08 ,TRUE,,No data fetched for symbol GFPOF using YahooDailyReader,,,,,,,,,
+33,GPOR,Gulfport Energy Corp,0.173099995,FALSE,2009,,18-Feb,3-May,8,8,3,3,18-Feb,3-May,4.702179665
+34,GLF,GulfMark Offshore Inc,28.37000084,TRUE,2017,,,,,,,,,,
+35,GLFMQ,GulfMark Offshore Inc,$0.13 ,TRUE,,'Date',,,,,,,,,
+36,GWSN,Gulf West Security Network Inc,0.082500003,TRUE,2014,,,,,,,,,,
+37,GURE,Gulf Resources Inc,4.769999981,FALSE,2009,,1-Sep,15-Nov,7,7,4,4,1-Sep,15-Nov,11.12200098
+38,GUKYF,Gulf Keystone Petroleum Ltd,1.110000014,FALSE,2009,,27-Jun,10-Sep,3,3,8,8,27-Jun,10-Sep,1.238648385
+39,GFKSY,Gulf Keystone Petroleum Ltd,0.180000007,FALSE,2010,,9-Jul,22-Sep,4,4,6,6,9-Jul,22-Sep,12.36018927
+40,GIFI,Gulf Island Fabrication Inc,3.00999999,FALSE,2009,,25-Aug,8-Nov,2,2,9,9,25-Aug,8-Nov,5.649531377
+41,GULTU,Gulf Coast Ultra Deep Royalty Trust,0.015,TRUE,2013,,,,,,,,,,
+42,GUJZF,Gujarat Narmada Valley Fertilizers & Chemicals Ltd,$1.60 ,TRUE,,No data fetched for symbol GUJZF using YahooDailyReader,,,,,,,,,
+43,GHLD,Guild Holdings Co,14.34000015,TRUE,2020,,,,,,,,,,
+44,GULDF,Guild Esports PLC,0.106600001,TRUE,2020,,,,,,,,,,
+45,GWRE,Guidewire Software Inc,114.3499985,TRUE,2012,,,,,,,,,,
+46,GTHP,Guided Therapeutics Inc,0.25999999,FALSE,2009,,7-Apr,21-Jun,3,3,8,8,7-Apr,21-Jun,-135.0090544
+47,GUID,Guidance Software Inc,$7.07 ,TRUE,,'Date',,,,,,,,,
+48,GBAB,Guggenheim Taxable Municipal Managed Duration Trus,25.14529991,FALSE,2010,,5-Nov,19-Jan,7,7,3,3,16-Dec,1-Mar,3.205840345
+49,GOF,Guggenheim Strategic Opportunities Fund,18.45000076,FALSE,2009,,19-Mar,2-Jun,8,6,3,5,22-Feb,7-May,3.074247539
+50,GPM,Guggenheim Enhanced Equity Income Fund,6.269999981,FALSE,2009,,6-Apr,20-Jun,7,6,4,5,29-Mar,12-Jun,4.724943107
+51,GGM,Guggenheim Credit Allocation Fund,18.68499947,TRUE,2013,,,,,,,,,,
+52,GES,Guess? Inc,15.07499981,FALSE,2009,,19-Oct,2-Jan,5,5,6,6,19-Oct,2-Jan,6.00076181
+53,GVXNF,Guerrero Ventures Inc,0.263099998,TRUE,2015,,,,,,,,,,
+54,GUERF,Guerbet SA,58.34999847,TRUE,2017,,,,,,,,,,
+55,GUDHF,GUD Holdings Ltd,$6.50 ,TRUE,,No data fetched for symbol GUDHF using YahooDailyReader,,,,,,,,,
+56,GUDDY,GUD Holdings Ltd,13,TRUE,2012,,,,,,,,,,
+57,GHSI,Guardion Health Sciences Inc,0.199900001,TRUE,2019,,,,,,,,,,
+58,GUEXF,Guardian Exploration Inc,$0.04 ,TRUE,,No data fetched for symbol GUEXF using YahooDailyReader,,,,,,,,,
+59,GCAAF,Guardian Capital Group Ltd,16.7112999,FALSE,2009,,12-Jul,25-Sep,4,4,7,7,12-Jul,25-Sep,5.15424148
+60,GH,Guardant Health Inc,108.5100021,TRUE,2018,,,,,,,,,,
+61,GCGUF,Guararapes Confeccoes SA,23.44939995,TRUE,2019,,,,,,,,,,
+62,GUARY,Guaranty Trust Bank PLC,4.697700024,TRUE,2016,,,,,,,,,,
+63,GUARL,Guaranty Trust Bank PLC,$8.29 ,TRUE,,'Date',,,,,,,,,
+64,GFCJ,Guaranty Financial Corp,0.01,FALSE,2009,,21-Dec,6-Mar,8,8,3,3,21-Dec,6-Mar,26.85990641
+65,GFED,Guaranty Federal Bancshares Inc,15.51010036,FALSE,2009,,11-May,25-Jul,8,8,3,3,11-May,25-Jul,2.32393942
+66,GRTYA,Guaranty Corp,25000,TRUE,2012,,,,,,,,,,
+67,GNTY,Guaranty Bancshares Inc,29.79000092,TRUE,2017,,,,,,,,,,
+68,GUAA,Guaranty Bancorp Inc,27.55999947,TRUE,2013,,,,,,,,,,
+69,GBNK,Guaranty Bancorp,20.75,TRUE,2012,,,,,,,,,,
+70,GZUHY,Guangzhou R&F Properties Co Ltd,24.26000023,TRUE,2012,,,,,,,,,,
+71,GZUHF,Guangzhou R&F Properties Co Ltd,1.279999971,FALSE,2009,,9-May,23-Jul,2,2,9,9,20-Mar,3-Jun,6.888493204
+72,GZPHY,Guangzhou Baiyunshan Pharmaceutical Holdings Co Lt,$58.29 ,TRUE,,No data fetched for symbol GZPHY using YahooDailyReader,,,,,,,,,
+73,GZPHF,Guangzhou Baiyunshan Pharmaceutical Holdings Co Lt,2.470000029,FALSE,2010,,26-May,9-Aug,2,2,8,8,12-Nov,26-Jan,9.712463706
+74,GNZUF,Guangzhou Automobile Group Co Ltd,1.070000052,FALSE,2010,,8-Sep,22-Nov,5,5,5,5,8-Sep,22-Nov,10.10998929
+75,GNGYF,Guangshen Railway Co Ltd,0.180000007,TRUE,2013,,,,,,,,,,
+76,GSH,Guangshen Railway Co Ltd,9.199999809,FALSE,2009,,30-Aug,13-Nov,5,5,6,6,30-Aug,13-Nov,5.026688422
+77,GUDNF,Guangdong Yueyun Transportation Co Ltd,0.349999994,TRUE,2014,,,,,,,,,,
+78,KYBWF,Guangdong Land Holdings Ltd,$0.25 ,TRUE,,No data fetched for symbol KYBWF using YahooDailyReader,,,,,,,,,
+79,GGDVY,Guangdong Investment Ltd,84.05999756,TRUE,2011,,,,,,,,,,
+80,GGDVF,Guangdong Investment Ltd,1.769999981,TRUE,2012,,,,,,,,,,
+81,HDOOF,Guangdong Hong Kong Greater Bay Area Holdings Ltd,$0.19 ,TRUE,,No data fetched for symbol HDOOF using YahooDailyReader,,,,,,,,,
+82,GUAXF,Guan Chong Bhd,$0.61 ,TRUE,,No data fetched for symbol GUAXF using YahooDailyReader,,,,,,,,,
+83,GTYH,GTY Technology Holdings Inc,3.29550004,TRUE,2016,,,,,,,,,,
+84,GTXO,GTX Corp,0.00774,TRUE,2012,,,,,,,,,,
+85,GTT,GTT Communications Inc,3.930000067,FALSE,2009,,15-Dec,28-Feb,8,8,3,3,15-Dec,28-Feb,18.22431241
+86,GTGT,GTG Ventures Inc,1.25,TRUE,2012,,,,,,,,,,
+87,GGTTF,GTEC Holdings Ltd,0.116800003,TRUE,2018,,,,,,,,,,
+88,GTGDF,GT Gold Corp,1.19630003,TRUE,2017,,,,,,,,,,
+89,GTBP,GT Biopharma Inc,0.182999998,TRUE,2018,,,,,,,,,,
+90,GTAT,GT Advanced Technologies Inc,35,TRUE,2012,,,,,,,,,,
+91,GSX,GSX Techedu Inc,68.02500153,TRUE,2019,,,,,,,,,,
+92,GSVI,GSV Inc,0.0087,FALSE,2009,,21-May,4-Aug,5,5,6,6,21-May,4-Aug,-1.8092998
+93,GSRX,GSRX Industries Inc,0.022,FALSE,2009,,6-Mar,20-May,5,5,6,6,6-Mar,20-May,16.3065343
+94,GSRCF,GSP Resource Corp,0.25,TRUE,2019,,,,,,,,,,
+95,GSMF,GSM Fund Group Inc,$1.00 ,TRUE,,No data fetched for symbol GSMF using YahooDailyReader,,,,,,,,,
+96,GSIT,GSI Technology Inc,5.980000019,FALSE,2009,,13-Nov,27-Jan,9,9,2,2,13-Nov,27-Jan,9.491158927
+97,GVP,GSE Systems Inc,1,FALSE,2009,,10-Nov,24-Jan,5,5,6,6,10-Nov,24-Jan,11.54883084
+98,EVRMD,GSDT Fintech Group Inc,0.75,TRUE,2020,,,,,,,,,,
+99,GSDHF,GSD Holding AS,$0.25 ,TRUE,,No data fetched for symbol GSDHF using YahooDailyReader,,,,,,,,,
+100,GYUAF,GS Yuasa Corp,$20.41 ,TRUE,,No data fetched for symbol GYUAF using YahooDailyReader,,,,,,,,,
+101,GSAH,GS Acquisition Holdings Corp II,10.07999992,TRUE,2020,,,,,,,,,,
+102,GPHYF,Gryphon Minerals Ltd,$0.16 ,TRUE,,No data fetched for symbol GPHYF using YahooDailyReader,,,,,,,,,
+103,GYPHQ,Gryphon Gold Corp,0.015,FALSE,2009,,31-Mar,14-Jun,5,5,6,6,31-Mar,14-Jun,26.15902666
+104,GRPOF,Grupo Traxion SAB de CV,0.670000017,TRUE,2020,,,,,,,,,,
+105,GTMAY,Grupo TMM SA,0.910000026,FALSE,2009,,28-Jun,11-Sep,4,4,7,7,28-Jun,11-Sep,9.386627545
+106,GRPFF,Grupo Televisa SAB,1.600000024,FALSE,2009,,23-Oct,6-Jan,5,5,6,6,23-Oct,6-Jan,0.107703369
+107,TV,Grupo Televisa SAB,8.109999657,FALSE,2009,,7-May,21-Jul,3,3,8,8,23-May,6-Aug,5.039885188
+108,SUPV,Grupo Supervielle SA,1.980000019,TRUE,2016,,,,,,,,,,
+109,SIM,Grupo Simec SAB de CV,8.871700287,FALSE,2009,,12-Nov,26-Jan,4,4,7,7,12-Nov,26-Jan,5.353599086
+110,GSAOF,Grupo Sanborns SA de CV,0.860000014,TRUE,2019,,,,,,,,,,
+111,GUOHF,Grupo Radio Centro SAB de CV,0.178100005,TRUE,2013,,,,,,,,,,
+112,GPSDF,Grupo Pochteca SAB de CV,0.280000001,TRUE,2013,,,,,,,,,,
+113,GCHOY,Grupo Nutresa SA,4.730000019,TRUE,2014,,,,,,,,,,
+114,GPMCF,Grupo Modelo SAB de CV,$0.02 ,TRUE,,No data fetched for symbol GPMCF using YahooDailyReader,,,,,,,,,
+115,GMBXF,Grupo Mexico SAB de CV,3.49000001,FALSE,2010,,22-May,5-Aug,7,7,3,3,10-Dec,23-Feb,6.692037276
+116,GMXDF,Grupo Mexicano de Desarrollo S A B,0.100000001,FALSE,2009,,4-Jun,18-Aug,6,6,5,5,4-Jun,18-Aug,-1.571708289
+117,GLSDF,Grupo Lamosa SAB de CV,$1.93 ,TRUE,,No data fetched for symbol GLSDF using YahooDailyReader,,,,,,,,,
+118,GRPBF,Grupo Lala SAB de CV,0.597000003,TRUE,2014,,,,,,,,,,
+119,GKSDF,Grupo Kuo SAB de CV,2.139400005,TRUE,2013,,,,,,,,,,
+120,GUZOF,Grupo Herdez SAB de CV,1.980000019,TRUE,2013,,,,,,,,,,
+121,GUZBY,Grupo Herdez SAB de CV,$8.68 ,TRUE,,'Date',,,,,,,,,
+122,GPGNY,Grupo Gigante SAB de CV,$0.65 ,TRUE,,'Date',,,,,,,,,
+123,GPGNF,Grupo Gigante SAB de CV,1,FALSE,2009,,30-Jun,13-Sep,6,6,5,5,30-Jun,13-Sep,6.205038867
+124,GPGJY,Grupo Gigante SAB de CV,$17.61 ,TRUE,,'Date',,,,,,,,,
+125,GPFOY,Grupo Financiero Inbursa SAB de CV,4.199999809,FALSE,2010,,24-Jun,7-Sep,5,5,5,5,24-Jun,7-Sep,6.637770295
+126,GPFOF,Grupo Financiero Inbursa SAB de CV,0.800000012,TRUE,2013,,,,,,,,,,
+127,GGABF,Grupo Financiero Galicia SA,0.779999971,TRUE,2012,,,,,,,,,,
+128,GGAL,Grupo Financiero Galicia SA,8.239999771,FALSE,2009,,1-Oct,15-Dec,5,5,6,6,1-Oct,15-Dec,10.08310634
+129,GBOOY,Grupo Financiero Banorte SAB de CV,26.82500076,FALSE,2010,,7-Feb,22-Apr,6,6,4,4,7-Feb,22-Apr,-0.782956492
+130,GBOOF,Grupo Financiero Banorte SAB de CV,5.71999979,TRUE,2011,,,,,,,,,,
+131,GUFAF,Grupo Famsa SAB de CV,0.01,TRUE,2014,,,,,,,,,,
+132,GLEKY,Grupo Elektra SAB de CV,$0.25 ,TRUE,,No data fetched for symbol GLEKY using YahooDailyReader,,,,,,,,,
+133,GIVSY,Grupo de Inversiones Suramericana SA,11.47999954,TRUE,2012,,,,,,,,,,
+134,GIVPY,Grupo de Inversiones Suramericana SA,$0.25 ,TRUE,,No data fetched for symbol GIVPY using YahooDailyReader,,,,,,,,,
+135,GCHEF,Grupo Comercial Chedraui SAB de CV,1.14989996,TRUE,2013,,,,,,,,,,
+136,GRCLY,Grupo Clarin SA,$18.85 ,TRUE,,No data fetched for symbol GRCLY using YahooDailyReader,,,,,,,,,
+137,GCWOF,Grupo Cementos de Chihuahua SAB de CV,4.829999924,FALSE,2010,,10-Jan,25-Mar,4,4,6,6,10-Jan,25-Mar,10.0188215
+138,GCNJF,Grupo Catalana Occidente SA,25.29999924,TRUE,2013,,,,,,,,,,
+139,GPOVY,Grupo Carso SAB de CV,5.190000057,FALSE,2009,,10-Jun,24-Aug,6,6,5,5,10-Jun,24-Aug,5.604810928
+140,GPOVF,Grupo Carso SAB de CV,2.289999962,FALSE,2010,,11-Aug,25-Oct,5,5,5,5,8-Jul,21-Sep,11.94722313
+141,GPOOY,Grupo Carso SAB de CV,$9.53 ,TRUE,,No data fetched for symbol GPOOY using YahooDailyReader,,,,,,,,,
+142,GRBMF,Grupo Bimbo SAB de CV,2.079999924,FALSE,2009,,10-Feb,25-Apr,7,7,4,4,10-Feb,25-Apr,6.327860323
+143,BMBOY,Grupo Bimbo SAB de CV,8.75,TRUE,2016,,,,,,,,,,
+144,AVAL,Grupo Aval Acciones y Valores SA,5.079999924,TRUE,2014,,,,,,,,,,
+145,ASRMF,Grupo Aeroportuario del Sureste SAB de CV,11.63000011,TRUE,2013,,,,,,,,,,
+146,ASR,Grupo Aeroportuario del Sureste SAB de CV,154.5850067,FALSE,2009,,11-Nov,25-Jan,7,7,4,4,12-Nov,26-Jan,7.242142274
+147,GPAEF,Grupo Aeroportuario del Pacifico SAB de CV,9.831199646,TRUE,2013,,,,,,,,,,
+148,PAC,Grupo Aeroportuario del Pacifico SAB de CV,103.9199982,FALSE,2009,,11-Nov,25-Jan,6,6,5,5,11-Nov,25-Jan,7.566310007
+149,GAERF,Grupo Aeroportuario del Centro Norte SAB de CV,5.994599819,TRUE,2013,,,,,,,,,,
+150,OMAB,Grupo Aeroportuario del Centro Norte SAB de CV,47.68000031,FALSE,2009,,31-Jan,15-Apr,7,7,4,4,31-Jan,15-Apr,1.525453724
+151,GRPAQ,Grupo Aeromexico SAB de CV,0.25,TRUE,2013,,,,,,,,,,
+152,GPOLF,Grupa LOTOS SA,$18.17 ,TRUE,,'Date',,,,,,,,,
+153,GPAGF,Gruma SAB de CV,10.57499981,FALSE,2009,,11-Dec,24-Feb,7,7,4,4,11-Dec,24-Feb,7.70637802
+154,GMKYY,Gruma SAB de CV,$56.01 ,TRUE,,'Date',,,,,,,,,
+155,GMKKY,Gruma SAB de CV,9.449999809,TRUE,2019,,,,,,,,,,
+156,GRUB,GrubHub Inc,71.05280304,TRUE,2014,,,,,,,,,,
+157,GWWTF,Growthpoint Properties Ltd,0.850000024,TRUE,2015,,,,,,,,,,
+158,GRWPF,Growthpoint Properties Australia,2.039999962,TRUE,2020,,,,,,,,,,
+159,GRUSF,Grown Rogue International Inc,0.085000001,FALSE,2010,,2-Mar,16-May,5,5,5,5,2-Mar,16-May,-19.57900976
+160,APEOF,GrowMax Resources Corp,0.011,FALSE,2010,,21-Aug,4-Nov,4,4,6,6,13-Dec,26-Feb,7.279813909
+161,PHOT,GrowLife Inc,0.115000002,FALSE,2009,,22-Dec,7-Mar,6,6,5,5,22-Dec,7-Mar,23.75401255
+162,GRWG,GrowGeneration Corp,29.29999924,TRUE,2018,,,,,,,,,,
+163,GRWC,Grow Capital Inc,1.049999952,FALSE,2010,,3-Apr,17-Jun,2,2,8,8,3-Apr,17-Jun,12.93709559
+164,GRPN,Groupon Inc,27.32999992,TRUE,2011,,,,,,,,,,
+165,GGRGY,GROUPE GORGE SA,$23.15 ,TRUE,,No data fetched for symbol GGRGY using YahooDailyReader,,,,,,,,,
+166,GGRGF,Groupe Gorge SA,12.90999985,TRUE,2013,,,,,,,,,,
+167,GPEFF,Groupe Flo SA,$4.20 ,TRUE,,No data fetched for symbol GPEFF using YahooDailyReader,,,,,,,,,
+168,GBLBY,Groupe Bruxelles Lambert SA,8.989999771,TRUE,2016,,,,,,,,,,
+169,GBLBF,Groupe Bruxelles Lambert SA,92.98999786,FALSE,2010,,12-Dec,25-Feb,7,7,3,3,12-Dec,25-Feb,3.824827964
+170,PGEZF,Group Ten Metals Inc,0.224900007,FALSE,2009,,5-Dec,18-Feb,2,2,9,9,5-Dec,18-Feb,9.186506835
+171,GPLPF,Group Lease PCL,0.100000001,TRUE,2018,,,,,,,,,,
+172,GRPLF,Group Lease PCL,$0.65 ,TRUE,,No data fetched for symbol GRPLF using YahooDailyReader,,,,,,,,,
+173,GRLVF,Group Eleven Resources Corp,0.068599999,TRUE,2018,,,,,,,,,,
+174,GPI,Group 1 Automotive Inc,123.9499969,FALSE,2009,,25-May,8-Aug,5,5,6,6,25-May,8-Aug,9.13883401
+175,GRVE,Groove Botanicals Inc,0.046999998,TRUE,2012,,,,,,,,,,
+176,GRMM,Grom Social Enterprises Inc,0.059999999,TRUE,2017,,,,,,,,,,
+177,GO,Grocery Outlet Holding Corp,37.11999893,TRUE,2019,,,,,,,,,,
+178,GRNF,GRN Holding Corp,0.061000001,TRUE,2012,,,,,,,,,,
+179,GZDIF,Grizzly Discoveries Inc,0.059999999,FALSE,2010,,4-Jun,18-Aug,6,6,4,4,4-Jun,18-Aug,18.17340072
+180,GRVVF,Grivalia Properties Real Estate Investment Co,$13.10 ,TRUE,,No data fetched for symbol GRVVF using YahooDailyReader,,,,,,,,,
+181,GRTS,Gritstone Oncology Inc,2.805000067,TRUE,2018,,,,,,,,,,
+182,GRIN,Grindrod Shipping Holdings Ltd,4.099999905,TRUE,2018,,,,,,,,,,
+183,GRDLY,Grindrod Ltd,12,TRUE,2012,,,,,,,,,,
+184,GRDLF,Grindrod Ltd,$0.72 ,TRUE,,No data fetched for symbol GRDLF using YahooDailyReader,,,,,,,,,
+185,GIKLY,Grifols SA,15.44999981,FALSE,2010,,8-Feb,23-Apr,6,6,4,4,8-Feb,23-Apr,7.167713215
+186,GIFOF,Grifols SA,19.08399963,TRUE,2013,,,,,,,,,,
+187,GIFLF,Grifols SA,30.79999924,FALSE,2009,,12-Sep,26-Nov,6,6,5,5,12-Sep,26-Nov,6.883682184
+188,GRFS,Grifols SA,18.93499947,TRUE,2011,,,,,,,,,,
+189,GFF,Griffon Corp,20.92000008,FALSE,2009,,26-Sep,10-Dec,5,5,6,6,26-Sep,10-Dec,3.654369317
+190,GRIF,Griffin Industrial Realty Inc,56.90000153,FALSE,2009,,10-May,24-Jul,6,5,5,6,10-May,24-Jul,8.066614803
+191,GRGSF,Grieg Seafood ASA,10.19999981,TRUE,2017,,,,,,,,,,
+192,GSUM,Gridsum Holding Inc,1.690000057,TRUE,2016,,,,,,,,,,
+193,GMVP,Gridiron BioNutrients Inc,0.0062,TRUE,2017,,,,,,,,,,
+194,MSMGF,Grid Metals Corp,0.075000003,FALSE,2009,,27-Nov,10-Feb,6,6,5,5,27-Nov,10-Feb,14.69479961
+195,GDYN,Grid Dynamics Holdings Inc,9.600000381,TRUE,2018,,,,,,,,,,
+196,GLGI,Greystone Logistics Inc,0.949999988,FALSE,2009,,15-Jun,29-Aug,7,7,4,4,15-Jun,29-Aug,17.25645712
+197,GRCK,Grey Cloak Tech Inc,0.064999998,TRUE,2015,,,,,,,,,,
+198,GKSGF,Grenke AG,40.29999924,TRUE,2015,,,,,,,,,,
+199,GRDNF,Grendene SA,$4.80 ,TRUE,,No data fetched for symbol GRDNF using YahooDailyReader,,,,,,,,,
+200,GREM,Grem USA,$0.10 ,TRUE,,No data fetched for symbol GREM using YahooDailyReader,,,,,,,,,
+201,GKDLF,Greka Drilling Ltd,$0.05 ,TRUE,,No data fetched for symbol GKDLF using YahooDailyReader,,,,,,,,,
+202,GRFBF,Greiffenberger AG,$2.84 ,TRUE,,No data fetched for symbol GRFBF using YahooDailyReader,,,,,,,,,
+203,GEF.B,Greif Inc,$49.65 ,TRUE,,'Date',,,,,,,,,
+204,GEF,Greif Inc,48.23500061,FALSE,2009,,1-Oct,15-Dec,5,5,6,6,1-Oct,15-Dec,5.357589343
+205,GGGSF,Greggs PLC,21.25,TRUE,2012,,,,,,,,,,
+206,GRBS,Greer Bancshares Inc,$23.00 ,TRUE,,'Date',,,,,,,,,
+207,PIGUF,Greenyard,4.900000095,TRUE,2019,,,,,,,,,,
+208,NEWG,Greenwind Holdings Inc,0.015,TRUE,2016,,,,,,,,,,
+209,GLSI,Greenwich LifeSciences Inc,5.050000191,TRUE,2020,,,,,,,,,,
+210,GWYT,Greenway Technology,0.005,TRUE,2012,,,,,,,,,,
+211,GWTI,Greenway Technologies Inc,0.01475,TRUE,2012,,,,,,,,,,
+212,GRNV,GreenVision Acquisition Corp,10.0600996,TRUE,2019,,,,,,,,,,
+213,GVFF,Greenville Federal Financial Corp,7,FALSE,2009,,16-May,30-Jul,8,7,3,4,16-May,30-Jul,8.522851898
+214,GVLMF,Greenvale Mining Ltd,0.02,TRUE,2012,,,,,,,,,,
+215,GHG,GreenTree Hospitality Group Ltd,13.53999996,TRUE,2018,,,,,,,,,,
+216,GTWCF,Greentown China Holdings Ltd,1.25,TRUE,2012,,,,,,,,,,
+217,GRGCF,Greenstar Agricultural Corp,6.150000095,TRUE,2019,,,,,,,,,,
+218,GREN,Greensmart Corp,0.0089,FALSE,2009,,5-Mar,19-May,2,2,9,9,5-Mar,19-May,21.7222106
+219,GSKY,GreenSky Inc,4.215000153,TRUE,2018,,,,,,,,,,
+220,GERS,Greenshift Corp,0.086999997,FALSE,2009,,21-Apr,5-Jul,3,3,8,8,21-Apr,5-Jul,-94.92160042
+221,GNRS,Greenrose Acquisition Corp,9.800000191,TRUE,2020,,,,,,,,,,
+222,GRNQ,Greenpro Capital Corp,1.789999962,TRUE,2018,,,,,,,,,,
+223,GP,GreenPower Motor Company Inc,18.66500092,TRUE,2020,,,,,,,,,,
+224,GRPX,Greenplex Services Inc,0.140000001,TRUE,2012,,,,,,,,,,
+225,GRNL,Greenlite Ventures Inc,19,TRUE,2012,,,,,,,,,,
+226,WSHE,GreenLink International Inc,0.0105,FALSE,2009,,27-Feb,12-May,3,3,8,8,27-Feb,12-May,10.01943019
+227,GLRE,Greenlight Capital Re Ltd,8.244999886,FALSE,2009,,14-Sep,28-Nov,5,5,6,6,14-Sep,28-Nov,3.451101938
+228,GNLN,Greenlane Holdings Inc,2.89989996,TRUE,2019,,,,,,,,,,
+229,GTEC,Greenland Technologies Holding Corp,5.019999981,TRUE,2018,,,,,,,,,,
+230,GDLNF,Greenland Minerals Ltd,0.204999998,FALSE,2010,,8-Jun,22-Aug,5,5,5,5,8-Jun,22-Aug,7.353706406
+231,SGHGF,Greenland Hong Kong Holdings Ltd,$0.25 ,TRUE,,No data fetched for symbol SGHGF using YahooDailyReader,,,,,,,,,
+232,GKIT,Greenkraft Inc,0.0185,TRUE,2014,,,,,,,,,,
+233,GRHHQ,GreenHunter Resources Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+234,GHL,Greenhill & Co Inc,12.38000011,FALSE,2009,,16-Aug,30-Oct,5,5,6,6,17-Aug,31-Oct,3.270883248
+235,OMNRF,Greenheart Group Ltd,0.029999999,TRUE,2013,,,,,,,,,,
+236,GEEPF,Greenfields Petroleum Corp,0.300000012,TRUE,2012,,,,,,,,,,
+237,GRKGF,Greene King PLC,$10.25 ,TRUE,,No data fetched for symbol GRKGF using YahooDailyReader,,,,,,,,,
+238,GKNGY,Greene King PLC,$21.23 ,TRUE,,No data fetched for symbol GKNGY using YahooDailyReader,,,,,,,,,
+239,GCBC,Greene County Bancorp Inc,26.30999947,FALSE,2009,,13-Oct,27-Dec,3,3,8,8,13-Oct,27-Dec,7.369206711
+240,GRSSF,Greencross Ltd,$3.86 ,TRUE,,No data fetched for symbol GRSSF using YahooDailyReader,,,,,,,,,
+241,GNCGY,Greencore Group PLC,6.150000095,FALSE,2009,,12-Oct,26-Dec,4,4,7,7,14-Oct,28-Dec,11.46623495
+242,GNCGF,Greencore Group PLC,1.429999948,FALSE,2009,,17-Mar,31-May,6,5,5,6,17-Mar,31-May,4.760299664
+243,GRCY,Greencity Acquisition Corp,9.899999619,TRUE,2020,,,,,,,,,,
+244,GRSFF,Greencastle Resources Ltd,0.072300002,TRUE,2012,,,,,,,,,,
+245,GBOKF,Greenbrook TMS Inc,1.133710027,TRUE,2018,,,,,,,,,,
+246,GBX,Greenbrier Companies Inc,33.81999969,FALSE,2009,,6-Aug,20-Oct,5,5,6,6,6-Aug,20-Oct,7.849639244
+247,GEBRF,Greenbriar Capital Corp,1.14993,TRUE,2013,,,,,,,,,,
+248,GRBX,GreenBox POS,0.521574974,FALSE,2010,,8-Feb,23-Apr,4,4,6,6,8-Feb,23-Apr,21.90642784
+249,GRCO,Greenbelt Resources Corp,0.00912,FALSE,2009,,9-Nov,23-Jan,5,5,6,6,9-Nov,23-Jan,4.702911287
+250,GRNBF,GreenBank Capital Inc,0.250079989,TRUE,2014,,,,,,,,,,
+251,GTBIF,Green Thumb Industries Inc,20,TRUE,2018,,,,,,,,,,
+252,GSFI,Green Stream Holdings Inc,0.050000001,FALSE,2009,,10-Jul,23-Sep,4,4,7,7,10-Jul,23-Sep,-6.655338939
+253,CCRRF,Green River Gold Corp,0.049570002,TRUE,2020,,,,,,,,,,
+254,GPDB,Green PolkaDot Box Inc,0.015,TRUE,2012,,,,,,,,,,
+255,GNPG,"Green Planet Group, Inc.",0.0109,FALSE,2009,,6-Jan,21-Mar,7,7,4,4,6-Jan,21-Mar,9.190680641
+256,GPLB,Green Planet Bioengineering Co Ltd,0.041999999,TRUE,2012,,,,,,,,,,
+257,GPP,Green Plains Partners LP,8.405900002,TRUE,2015,,,,,,,,,,
+258,GPRE,Green Plains Inc,16.51000023,FALSE,2009,,6-Feb,21-Apr,7,7,4,4,6-Feb,21-Apr,-4.834084806
+259,GRYN,Green Hygienics Holdings Inc,0.57099998,TRUE,2012,,,,,,,,,,
+260,GGBXF,Green Growth Brands Inc,0.022,TRUE,2019,,,,,,,,,,
+261,GRGG,Green For Energy Inc,0.008,TRUE,2012,,,,,,,,,,
+262,GRMS,Green Energy Management Services Holdings Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+263,GRNE,Green Endeavors Inc,$0.18 ,TRUE,,No data fetched for symbol GRNE using YahooDailyReader,,,,,,,,,
+264,GDOT,Green Dot Corp,53.11000061,FALSE,2010,,13-May,27-Jul,5,5,5,5,13-May,27-Jul,6.998166628
+265,PRCXF,Green Cross Health Ltd,0.699999988,TRUE,2019,,,,,,,,,,
+266,GCRXF,Green Cross Co Ltd,$9.27 ,TRUE,,No data fetched for symbol GCRXF using YahooDailyReader,,,,,,,,,
+267,GRBK,Green Brick Partners Inc,23.52000046,FALSE,2009,,10-Sep,24-Nov,5,5,6,6,10-Sep,24-Nov,9.164930201
+268,GNBC,Green Bancorp Inc,17.13999939,TRUE,2014,,,,,,,,,,
+269,GBLL,Green Ballast Inc,$0.01 ,TRUE,,No data fetched for symbol GBLL using YahooDailyReader,,,,,,,,,
+270,GRKZF,Greek Organisation of Football Prognostics SA,10.02999973,TRUE,2012,,,,,,,,,,
+271,GOFPY,Greek Organisation of Football Prognostics SA,5.130000114,FALSE,2010,,11-Nov,25-Jan,6,6,4,4,11-Nov,25-Jan,6.006479488
+272,GREZF,GREE Inc,4.25,FALSE,2010,,26-Jun,9-Sep,6,2,4,8,9-May,23-Jul,-1.41740803
+273,GRVWF,Greatview Aseptic Packaging Co Ltd,0.503400028,TRUE,2012,,,,,,,,,,
+274,GHDS,Greater Hudson Bank,$4.25 ,TRUE,,No data fetched for symbol GHDS using YahooDailyReader,,,,,,,,,
+275,GCHLF,Greater China Financial Holdings Ltd,0.025,TRUE,2019,,,,,,,,,,
+276,DYSOY,Greatcell Solar Ltd,$1.20 ,TRUE,,No data fetched for symbol DYSOY using YahooDailyReader,,,,,,,,,
+277,DYSOF,Greatcell Solar Ltd,$0.10 ,TRUE,,No data fetched for symbol DYSOF using YahooDailyReader,,,,,,,,,
+278,GWLIF,Great-West Lifeco Inc,23,FALSE,2010,,26-Sep,10-Dec,5,5,5,5,26-Sep,10-Dec,3.690498207
+279,GWIO,Great Western Iron Ore Properties Inc,0.007,FALSE,2009,,10-Oct,24-Dec,1,1,9,9,10-Oct,24-Dec,6.876983266
+280,GWB,Great Western Bancorp Inc,17.43000031,TRUE,2014,,,,,,,,,,
+281,SCPXY,Great Wall Pan Asia Holdings Ltd,$1.27 ,TRUE,,'Date',,,,,,,,,
+282,GRWWF,Great Wall Pan Asia Holdings Ltd,0.055,TRUE,2013,,,,,,,,,,
+283,GWLLY,Great Wall Motor Co Ltd,17.5,TRUE,2012,,,,,,,,,,
+284,GWLLF,Great Wall Motor Co Ltd,1.779999971,FALSE,2009,,15-Aug,29-Oct,6,6,5,5,15-Aug,29-Oct,13.80231813
+285,EKONY,Great Wall Belt & Road Holdings Ltd,$18.08 ,TRUE,,No data fetched for symbol EKONY using YahooDailyReader,,,,,,,,,
+286,EKONF,Great Wall Belt & Road Holdings Ltd,0.01,TRUE,2012,,,,,,,,,,
+287,GTGFF,Great Thunder Gold Corp,0.649999976,TRUE,2020,,,,,,,,,,
+288,GSTB,Great State Bank Wilkesboro NC,$15.30 ,TRUE,,No data fetched for symbol GSTB using YahooDailyReader,,,,,,,,,
+289,GSBC,Great Southern Bancorp Inc,47.00999832,FALSE,2009,,13-May,27-Jul,2,2,9,9,13-May,27-Jul,5.283950859
+290,GQMLF,Great Quest Fertilizer Ltd,$0.07 ,TRUE,,No data fetched for symbol GQMLF using YahooDailyReader,,,,,,,,,
+291,GPEAF,Great Portland Estates PLC,7.71999979,TRUE,2013,,,,,,,,,,
+292,GPEOL,Great Plains Ethanol LLC,"$5,650.00 ",TRUE,,No data fetched for symbol GPEOL using YahooDailyReader,,,,,,,,,
+293,GPELL,Great Plains Ethanol LLC,"$5,500.00 ",TRUE,,No data fetched for symbol GPELL using YahooDailyReader,,,,,,,,,
+294,GXP,Great Plains Energy Inc,31.98999977,TRUE,2012,,,,,,,,,,
+295,GPL,Great Panther Mining Ltd,0.796599984,FALSE,2009,,20-Dec,5-Mar,7,7,4,4,20-Dec,5-Mar,16.4421264
+296,GLRC,Great Lakes Recreation Co,0.119999997,TRUE,2018,,,,,,,,,,
+297,GLDD,Great Lakes Dredge & Dock Corp,11.84000015,FALSE,2009,,2-Oct,16-Dec,4,4,7,7,2-Oct,16-Dec,12.72521542
+298,GLUX,Great Lakes Aviation Ltd,0.039999999,FALSE,2009,,14-May,28-Jul,4,4,7,7,14-May,28-Jul,18.27514885
+299,GEC,Great Elm Capital Group Inc,2.595000029,FALSE,2009,,10-Feb,25-Apr,4,4,7,7,10-Feb,25-Apr,7.739235369
+300,GECC,Great Elm Capital Corp,3.279999971,TRUE,2016,,,,,,,,,,
+301,GESGF,Great Eastern Shipping Co Ltd,$27.55 ,TRUE,,No data fetched for symbol GESGF using YahooDailyReader,,,,,,,,,
+302,GEHDY,Great Eastern Holdings Ltd,27.57999992,TRUE,2012,,,,,,,,,,
+303,GEHDF,Great Eastern Holdings Ltd,15.17000008,TRUE,2012,,,,,,,,,,
+304,GEAHF,Great Eagle Holdings Ltd,2.630000114,FALSE,2010,,25-Feb,10-May,6,6,4,4,12-Jan,27-Mar,9.641842111
+305,GCGMF,Great Canadian Gaming Corp,29.52964973,FALSE,2010,,24-Mar,7-Jun,4,4,6,6,24-Mar,7-Jun,9.669515895
+306,GTBAF,Great Bear Resources Ltd,12.29759979,TRUE,2020,,,,,,,,,,
+307,GBSNQ,Great Basin Scientific Inc,$0.02 ,TRUE,,No data fetched for symbol GBSNQ using YahooDailyReader,,,,,,,,,
+308,GBEI,Great Basin Energies Inc,0.039999999,FALSE,2009,,10-Jun,24-Aug,4,4,7,7,10-Jun,24-Aug,-26.88083797
+309,PRZCF,Great Atlantic Resources Corp,$0.11 ,TRUE,,No data fetched for symbol PRZCF using YahooDailyReader,,,,,,,,,
+310,GAMN,Great American Food Chain Inc,0.018999999,FALSE,2009,,7-Mar,21-May,3,3,8,8,7-Mar,21-May,20.82153461
+311,GTPS,Great American Bancorp Inc,29,FALSE,2009,,29-Jul,12-Oct,8,7,3,4,29-Jul,12-Oct,3.649467339
+312,AJX,Great Ajax Corp,9.890899658,TRUE,2015,,,,,,,,,,
+313,GSON,Grayson Bankshares Inc,$13.00 ,TRUE,,'Date',,,,,,,,,
+314,LTCN,Grayscale Litecoin TR LTC,245,TRUE,2020,,,,,,,,,,
+315,GDLC,Grayscale Digital Large Cap Fund LLC,16.01000023,TRUE,2019,,,,,,,,,,
+316,BCHG,Grayscale Bitcoin Cash TR BCH,16.98999977,TRUE,2020,,,,,,,,,,
+317,GRAY,Graybug Vision Inc,27.96999931,TRUE,2020,,,,,,,,,,
+318,GTN.A,Gray Television Inc,$15.68 ,TRUE,,No data fetched for symbol GTN.A using YahooDailyReader,,,,,,,,,
+319,GTN,Gray Television Inc,17.57999992,FALSE,2009,,9-Sep,23-Nov,7,7,4,4,9-Sep,23-Nov,11.71924
+320,GRVY,GRAVITY Co Ltd,128.9499969,FALSE,2009,,6-Nov,20-Jan,7,7,4,4,6-Nov,20-Jan,8.212534801
+321,CBULF,Gratomic Inc,0.108000003,TRUE,2013,,,,,,,,,,
+322,GRSXY,Grasim Industries Ltd,$13.64 ,TRUE,,No data fetched for symbol GRSXY using YahooDailyReader,,,,,,,,,
+323,GPHOF,Graphite One Inc,0.393999994,FALSE,2010,,26-Jan,10-Apr,4,4,6,6,26-Jan,10-Apr,-1.918424737
+324,GRXXF,Graphite Energy Corp,0.528999984,TRUE,2017,,,,,,,,,,
+325,GPK,Graphic Packaging Holding Co,15.64000034,FALSE,2009,,29-Oct,12-Jan,9,9,2,2,29-Oct,12-Jan,8.301747016
+326,GRPEF,Graphene NanoChem PLC,0.270000011,TRUE,2013,,,,,,,,,,
+327,GSTX,Graphene & Solar Technologies Ltd,0.340000004,TRUE,2012,,,,,,,,,,
+328,REGRF,Graph Blockchain Inc,0.0068,FALSE,2009,,3-Nov,17-Jan,3,3,8,8,3-Nov,17-Jan,35.07871367
+329,GPFT,Grapefruit USA Inc,0.029300001,TRUE,2012,,,,,,,,,,
+330,GRP.U,Granite Real Estate Investment Trust,$57.66 ,TRUE,,No data fetched for symbol GRP.U using YahooDailyReader,,,,,,,,,
+331,GPMT,Granite Point Mortgage Trust Inc,9.409999847,TRUE,2017,,,,,,,,,,
+332,GXOCF,Granite Oil Corp,$0.69 ,TRUE,,No data fetched for symbol GXOCF using YahooDailyReader,,,,,,,,,
+333,GFGY,Granite Falls Energy LLC,1800,TRUE,2014,,,,,,,,,,
+334,GCXXF,Granite Creek Copper Ltd,0.129500002,TRUE,2020,,,,,,,,,,
+335,GVA,Granite Construction Inc,25.13500023,FALSE,2009,,25-Oct,8-Jan,5,5,6,6,25-Oct,8-Jan,12.37945866
+336,GCFB,Granite City Food & Brewery Ltd,0.018100001,FALSE,2009,,17-Mar,31-May,6,6,5,5,17-Mar,31-May,14.90091146
+337,GRRP,Granite Broadcasting Corp,$0.09 ,TRUE,,No data fetched for symbol GRRP using YahooDailyReader,,,,,,,,,
+338,GRRLF,Grange Resources Ltd,0.159999996,TRUE,2012,,,,,,,,,,
+339,GWON,Grandwon Corp,0.340000004,TRUE,2016,,,,,,,,,,
+340,GRRDF,GrandVision NV,$30.19 ,TRUE,,No data fetched for symbol GRRDF using YahooDailyReader,,,,,,,,,
+341,GRRB,Grandsouth Bancorpation,14.89999962,FALSE,2009,,22-Feb,7-May,6,6,5,5,22-Mar,5-Jun,8.830221958
+342,GPNC,Grandpoint Capital Inc,$17.51 ,TRUE,,No data fetched for symbol GPNC using YahooDailyReader,,,,,,,,,
+343,GWTNF,Grande West Transportation Group Inc,1.227900028,TRUE,2016,,,,,,,,,,
+344,GPTRF,Grande Portage Resources Ltd,0.336450011,TRUE,2016,,,,,,,,,,
+345,GNRV,Grand River Commerce Inc,4.849999905,FALSE,2010,,31-Mar,14-Jun,5,5,5,5,31-Mar,14-Jun,10.13988682
+346,GPIW,Grand Perfecta Inc,0.029999999,FALSE,2009,,27-Jun,10-Sep,5,5,6,6,27-Jun,10-Sep,13.72650473
+347,GPKUF,Grand Peak Capital Corp,0.110100001,TRUE,2012,,,,,,,,,,
+348,GMBB,Grand Mountain Bancshares Inc,3.400000095,TRUE,2018,,,,,,,,,,
+349,GHAV,Grand Havana Inc,0.008,TRUE,2013,,,,,,,,,,
+350,GRDDY,Grand City Properties SA,24.5,TRUE,2018,,,,,,,,,,
+351,GRNNF,Grand City Properties SA,24.10000038,TRUE,2017,,,,,,,,,,
+352,LOPE,Grand Canyon Education Inc,84.55999756,FALSE,2009,,26-May,9-Aug,8,8,3,3,26-May,9-Aug,5.91160256
+353,BAOXF,Grand Baoxin Auto Group Ltd,0.270000011,TRUE,2013,,,,,,,,,,
+354,GBYLY,Grand Banks Yachts Ltd,$0.72 ,TRUE,,'Date',,,,,,,,,
+355,GBYLF,Grand Banks Yachts Ltd,$0.19 ,TRUE,,No data fetched for symbol GBYLF using YahooDailyReader,,,,,,,,,
+356,GABK,Grand Bank Corp,5599.75,TRUE,2012,,,,,,,,,,
+357,GBBFF,Granada Gold Mine Inc,0.150099993,FALSE,2009,,2-Dec,15-Feb,4,4,7,7,2-Dec,15-Feb,11.02399558
+358,GTE,Gran Tierra Energy Inc,0.229000002,FALSE,2009,,2-Feb,17-Apr,5,5,6,6,2-Feb,17-Apr,-10.7625016
+359,TPRFF,Gran Colombia Gold Corp,4.639999866,FALSE,2010,,29-Nov,12-Feb,3,3,7,7,29-Nov,12-Feb,-1.833829148
+360,GMEGF,Grammer AG,$21.30 ,TRUE,,No data fetched for symbol GMEGF using YahooDailyReader,,,,,,,,,
+361,GPT,Gramercy Property Trust,27.47999954,TRUE,2013,,,,,,,,,,
+362,GRCLF,Graincorp Ltd,3.180000067,FALSE,2009,,10-Dec,23-Feb,5,5,6,6,10-Dec,23-Feb,8.145219472
+363,GHC,Graham Holdings Co,458.5450134,FALSE,2009,,14-Oct,28-Dec,9,9,2,2,14-Oct,28-Dec,4.987427521
+364,GHM,Graham Corp,15.89000034,FALSE,2009,,26-Sep,10-Dec,3,3,8,8,26-Sep,10-Dec,8.304660434
+365,GROUF,Grafton Group PLC,10.25,FALSE,2010,,28-Jan,12-Apr,6,6,4,4,28-Jan,12-Apr,7.624145077
+366,EAF,GrafTech International Ltd,7.900000095,TRUE,2018,,,,,,,,,,
+367,GRAF,Graf Industrial Corp,24.75,TRUE,2018,,,,,,,,,,
+368,GGG,Graco Inc,68.27999878,FALSE,2009,,11-Oct,25-Dec,8,8,3,3,19-Oct,2-Jan,7.647788052
+369,SRTSF,Gr. Sarantis SA,8.092000008,TRUE,2013,,,,,,,,,,
+370,GRSLF,Gr Silver Mining Ltd,0.442200005,TRUE,2018,,,,,,,,,,
+371,GPTGF,GPT Group,2.75999999,FALSE,2009,,30-Nov,13-Feb,8,8,3,3,8-Dec,21-Feb,4.254917225
+372,GPOX,GPO Plus Inc,0.699999988,TRUE,2020,,,,,,,,,,
+373,GPMTF,GPM Metals Inc,0.050000001,TRUE,2012,,,,,,,,,,
+374,GPX,GP Strategies Corp,12.69999981,FALSE,2009,,21-May,4-Aug,7,7,4,4,21-May,4-Aug,5.931199984
+375,GWPD,GP Solutions Inc,0.699999988,TRUE,2013,,,,,,,,,,
+376,GPIIF,GP Investments Ltd,1.561570048,TRUE,2014,,,,,,,,,,
+377,GPBIF,GP Batteries International Ltd,0.550000012,TRUE,2013,,,,,,,,,,
+378,GWSAF,Gowest Gold Ltd,0.340000004,TRUE,2012,,,,,,,,,,
+379,GVXXF,GoviEx Uranium Inc,0.104999997,TRUE,2016,,,,,,,,,,
+380,GOVB,Gouverneur Bancorp Inc,10.5,FALSE,2009,,8-Jun,22-Aug,7,7,4,4,12-Apr,26-Jun,4.218436323
+381,GDVTZ,Gould Investors LP,450,TRUE,2012,,,,,,,,,,
+382,GOTNF,Gotenehus Group AB,0.4296,TRUE,2020,,,,,,,,,,
+383,GSSRF,Gossan Resources Ltd,0.091499999,TRUE,2012,,,,,,,,,,
+384,GOSS,Gossamer Bio Inc,8.984999657,TRUE,2019,,,,,,,,,,
+385,GRC,Gorman-Rupp Co,34.36000061,FALSE,2009,,20-Oct,3-Jan,4,4,7,7,20-Oct,3-Jan,7.933286036
+386,GMHI,Gores Metropoulos Inc,10.25500011,TRUE,2019,,,,,,,,,,
+387,GRSV,Gores Holdings V Inc,9.789999962,TRUE,2020,,,,,,,,,,
+388,GHIV,Gores Holdings IV Inc,10,TRUE,2020,,,,,,,,,,
+389,GPAQ,Gordon Pointe Acquisition Corp,12,TRUE,2018,,,,,,,,,,
+390,GORL,Gordon I Corp,23,TRUE,2012,,,,,,,,,,
+391,GPRO,GoPro Inc,8.159999847,TRUE,2014,,,,,,,,,,
+392,GSHD,Goosehead Insurance Inc,122.9199982,TRUE,2018,,,,,,,,,,
+393,GOOO,GoooGreen Inc,0.800000012,TRUE,2013,,,,,,,,,,
+394,GOOI,Gooi Global Inc,0.025,TRUE,2012,,,,,,,,,,
+395,GT,Goodyear Tire & Rubber Co,10.89799976,FALSE,2009,,28-Oct,11-Jan,4,4,7,7,28-Oct,11-Jan,7.533123491
+396,GDYRF,Goodyear (Thailand) PCL,9.577269554,TRUE,2019,,,,,,,,,,
+397,GDWWF,Goodwin PLC,$23.53 ,TRUE,,No data fetched for symbol GDWWF using YahooDailyReader,,,,,,,,,
+398,GDRX,GoodRx Holdings Inc,33.98500061,TRUE,2020,,,,,,,,,,
+399,GDP,Goodrich Petroleum Corp,11.58390045,TRUE,2016,,,,,,,,,,
+400,GDPMQ,Goodrich Petroleum Corp,$0.01 ,TRUE,,'Date',,,,,,,,,
+401,GMGSF,Goodman Group,13.77999973,TRUE,2012,,,,,,,,,,
+402,GDFLY,Goodman Fielder Ltd,$4.98 ,TRUE,,No data fetched for symbol GDFLY using YahooDailyReader,,,,,,,,,
+403,GWOX,Goodheart-Willcox Co Inc,113,FALSE,2010,,20-Mar,3-Jun,2,2,8,8,20-Mar,3-Jun,7.76450287
+404,GDDFF,Goodfood Market Corp,6.356999874,TRUE,2017,,,,,,,,,,
+405,GFELF,Goodfellow Inc,$7.78 ,TRUE,,'Date',,,,,,,,,
+406,GBBYF,Goodbaby International Holdings Ltd,0.135000005,TRUE,2013,,,,,,,,,,
+407,GTIM,Good Times Restaurants Inc,1.389999986,FALSE,2009,,14-Mar,28-May,8,8,3,3,14-Mar,28-May,13.64903948
+408,SLGBF,Good Natured Products Inc,0.279700011,TRUE,2017,,,,,,,,,,
+409,GHMP,Good Hemp Inc,0.75999999,TRUE,2012,,,,,,,,,,
+410,GMER,Good Gaming Inc,0.021,FALSE,2009,,24-Dec,9-Mar,3,3,7,7,24-Dec,9-Mar,-0.149776096
+411,GFRTF,Good Friend International Holdings Inc,$0.49 ,TRUE,,No data fetched for symbol GFRTF using YahooDailyReader,,,,,,,,,
+412,GMELY,GOME Retail Holdings Ltd,7.809999943,FALSE,2010,,24-Dec,9-Mar,5,5,5,5,24-Dec,9-Mar,1.252770096
+413,GMELF,GOME Retail Holdings Ltd,0.115000002,TRUE,2013,,,,,,,,,,
+414,GBDC,Golub Capital BDC Inc,13.81000042,FALSE,2010,,22-Jun,5-Sep,5,4,5,6,22-Jun,5-Sep,3.75999333
+415,GOTRF,Goliath Resources Ltd,0.132599995,TRUE,2018,,,,,,,,,,
+416,GHRI,Goliath Resources Inc,0.0102,TRUE,2012,,,,,,,,,,
+417,GFMH,Goliath Film & Media Holdings,0.0057,FALSE,2009,,7-Jul,20-Sep,7,7,4,4,7-Jul,20-Sep,25.24341423
+418,GLFAF,Golf & Co Group Ltd,$0.71 ,TRUE,,No data fetched for symbol GLFAF using YahooDailyReader,,,,,,,,,
+419,GWNCF,Goldwin Inc,$4.05 ,TRUE,,No data fetched for symbol GWNCF using YahooDailyReader,,,,,,,,,
+420,APRAF,Goldstrike Resources Ltd,0.2104,FALSE,2009,,21-Dec,6-Mar,7,7,4,4,21-Dec,6-Mar,30.97232099
+421,GDMIF,Goldstar Minerals Inc,0.015,TRUE,2018,,,,,,,,,,
+422,GDDCF,GoldSpot Discoveries Corp,0.360000014,TRUE,2019,,,,,,,,,,
+423,GXSFF,Goldsource Mines Inc,0.105999999,FALSE,2009,,22-Dec,7-Mar,5,5,6,6,22-Dec,7-Mar,16.78678108
+424,GSKKF,Goldseek Resources Inc,0.265399992,TRUE,2020,,,,,,,,,,
+425,GDRRF,Goldrush Resources Ltd,$0.02 ,TRUE,,'Date',,,,,,,,,
+426,MFMNF,Goldrock Mines Corp,$1.11 ,TRUE,,'Date',,,,,,,,,
+427,GRMC,Goldrich Mining Co,0.037,FALSE,2009,,31-May,14-Aug,3,3,8,8,31-May,14-Aug,17.81088703
+428,GORAF,Goldrea Resources Corp,0.0219,FALSE,2009,,2-Dec,15-Feb,7,7,4,4,2-Dec,15-Feb,19.59015349
+429,GDQMF,GoldQuest Mining Corp,0.227401003,FALSE,2009,,29-Nov,12-Feb,6,6,5,5,29-Nov,12-Feb,19.08876744
+430,NCMBF,GoldON Resources Ltd,0.5546,TRUE,2012,,,,,,,,,,
+431,XAUMF,GoldMoney Inc,1.830899954,TRUE,2016,,,,,,,,,,
+432,GLDG,GoldMining Inc,2.230000019,TRUE,2020,,,,,,,,,,
+433,GMZ,Goldman Sachs MLP Income Opportunities Fund,8.090000153,TRUE,2013,,,,,,,,,,
+434,GER,Goldman Sachs MLP and Energy Renaissance Fund,7.590000153,TRUE,2014,,,,,,,,,,
+435,GS,Goldman Sachs Group Inc,226.023407,FALSE,2009,,19-May,2-Aug,6,6,5,5,18-May,1-Aug,4.848055461
+436,GSBD,Goldman Sachs BDC Inc,17.31999969,TRUE,2015,,,,,,,,,,
+437,GLLHF,Goldlion Holdings Ltd,0.207100004,TRUE,2013,,,,,,,,,,
+438,ZWBC,Goldkey Corp,0.119999997,FALSE,2009,,1-May,15-Jul,2,2,7,7,1-May,15-Jul,18.2675781
+439,MSOVF,Goldhills Holding Ltd,0.079999998,TRUE,2012,,,,,,,,,,
+440,ATUMF,GoldHaven Resources Corp,0.360000014,TRUE,2020,,,,,,,,,,
+441,GGAZF,Goldgroup Mining Inc,0.0298,TRUE,2011,,,,,,,,,,
+442,GEYEF,Goldeye Explorations Ltd,$0.04 ,TRUE,,'Date',,,,,,,,,
+443,GDXRF,Goldex Resources Corp,0.054000001,TRUE,2012,,,,,,,,,,
+444,GVYB,Golden VY Bancshares Inc,10.75,FALSE,2009,,18-Sep,2-Dec,7,6,4,5,18-Sep,2-Dec,6.407368689
+445,GLVMF,Golden Valley Mines Ltd,6.050000191,TRUE,2014,,,,,,,,,,
+446,GVDI,Golden Valley Development Inc,0.032000002,TRUE,2012,,,,,,,,,,
+447,GTVH,Golden Triangle Ventures Inc,0.045000002,TRUE,2020,,,,,,,,,,
+448,GTNM,Golden Time Network Marketing Ltd,0.0083,FALSE,2009,,20-Dec,5-Mar,6,6,5,5,20-Dec,5-Mar,27.02738717
+449,GTAGF,Golden Tag Resources Ltd,0.334800005,FALSE,2009,,24-May,7-Aug,3,3,8,8,24-May,7-Aug,17.87513748
+450,GSUXF,Golden Sun Mining Corp,0.0115,TRUE,2012,,,,,,,,,,
+451,GSBX,Golden State Bancorp,13.5,FALSE,2009,,24-Nov,7-Feb,8,8,3,3,24-Nov,7-Feb,11.19143821
+452,GSS,Golden Star Resources Ltd,3.845000029,FALSE,2009,,1-Jul,14-Sep,6,6,5,5,1-Jul,14-Sep,5.537297751
+453,GLNS,Golden Star Resources Corp,0.340000004,TRUE,2012,,,,,,,,,,
+454,GSPT,Golden Star Enterprises Ltd,0.0145,FALSE,2009,,20-Mar,3-Jun,3,3,8,8,20-Mar,3-Jun,27.22196632
+455,LCKYF,Golden Sky Minerals Corp,0.269300014,TRUE,2018,,,,,,,,,,
+456,GLDMF,Golden Share Resources Corp,$0.07 ,TRUE,,'Date',,,,,,,,,
+457,GORV,Golden River Resources Corp,$0.09 ,TRUE,,No data fetched for symbol GORV using YahooDailyReader,,,,,,,,,
+458,GORIF,Golden Ridge Resources Ltd,0.138999999,TRUE,2018,,,,,,,,,,
+459,GQMNF,Golden Queen Mining Consolidated Ltd,$0.16 ,TRUE,,No data fetched for symbol GQMNF using YahooDailyReader,,,,,,,,,
+460,FPVTF,Golden Pursuit Resources Ltd,0.129999995,FALSE,2009,,27-Feb,12-May,2,2,9,9,27-Feb,12-May,27.06739228
+461,NTGSF,Golden Predator Mining Corp,0.179199994,FALSE,2009,,23-May,6-Aug,7,7,4,4,23-May,6-Aug,23.2466143
+462,GPBI,Golden Pacific Bancorp Inc,1.700000048,TRUE,2018,,,,,,,,,,
+463,GOGL,Golden Ocean Group Ltd,3.819999933,FALSE,2009,,9-Jan,24-Mar,7,7,4,4,9-Jan,24-Mar,4.958486626
+464,AUMN,Golden Minerals Co,0.482899994,FALSE,2009,,1-Nov,15-Jan,4,4,7,7,1-Nov,15-Jan,12.47787207
+465,GMGI,Golden Matrix Group Inc,6.050000191,FALSE,2009,,10-Feb,25-Apr,4,4,7,7,10-Feb,25-Apr,-234.8259958
+466,GLDFF,Golden Leaf Holdings Ltd,0.017000001,TRUE,2016,,,,,,,,,,
+467,GOLXF,Golden Lake Exploration Inc,0.102799997,TRUE,2020,,,,,,,,,,
+468,GIDMF,Golden Independence Mining Corp,0.535000026,TRUE,2020,,,,,,,,,,
+469,GLHRF,Golden Harp Resources Inc,0.185330003,TRUE,2013,,,,,,,,,,
+470,GOGY,Golden Grail Technology Corp,0.0073,FALSE,2010,,29-Nov,12-Feb,5,5,5,5,29-Nov,12-Feb,15.92455547
+471,GGTHF,Golden Goliath Resources Ltd,0.153830007,FALSE,2009,,6-Jul,19-Sep,6,6,5,5,6-Jul,19-Sep,21.88810576
+472,GNGT,Golden Gate Partners Inc,0.100000001,TRUE,2012,,,,,,,,,,
+473,GDEN,Golden Entertainment Inc,16.41500092,FALSE,2009,,30-Oct,13-Jan,9,9,2,2,30-Oct,13-Jan,8.764505621
+474,GLDC,Golden Enterprises Inc,$12.00 ,TRUE,,'Date',,,,,,,,,
+475,GDNEY,Golden Eagle Retail Group Ltd,$55.51 ,TRUE,,No data fetched for symbol GDNEY using YahooDailyReader,,,,,,,,,
+476,GDNEF,Golden Eagle Retail Group Ltd,0.899999976,FALSE,2009,,7-Aug,21-Oct,5,5,6,6,15-Feb,30-Apr,0.560888936
+477,GDMRF,Golden Dawn Minerals Inc,0.105999999,TRUE,2012,,,,,,,,,,
+478,GCSSF,Golden Cross Resources Ltd,0.02,TRUE,2018,,,,,,,,,,
+479,SUNXF,Golden Coast Energy Corp,$0.02 ,TRUE,,No data fetched for symbol SUNXF using YahooDailyReader,,,,,,,,,
+480,GCCFF,Golden Cariboo Resources Ltd,0.095399998,TRUE,2012,,,,,,,,,,
+481,GARWF,Golden Arrow Resources Corp,0.140000001,FALSE,2009,,11-Nov,25-Jan,3,3,8,8,11-Nov,25-Jan,14.89281301
+482,GARPY,Golden Agri-Resources Ltd,10.81999969,TRUE,2012,,,,,,,,,,
+483,GARPF,Golden Agri-Resources Ltd,0.079999998,TRUE,2012,,,,,,,,,,
+484,CDCTF,Goldcrest Co Ltd,14.35999966,TRUE,2012,,,,,,,,,,
+485,GG,Goldcorp Inc,$11.19 ,TRUE,,No data fetched for symbol GG using YahooDailyReader,,,,,,,,,
+486,CZSVF,Goldcore Resources Ltd,0.100000001,FALSE,2009,,14-May,28-Jul,1,1,10,10,14-May,28-Jul,10.6924804
+487,GCFFF,Goldcliff Resource Corp,0.112599999,TRUE,2012,,,,,,,,,,
+488,NKAFF,Goldbar Resources Inc,$0.01 ,TRUE,,No data fetched for symbol NKAFF using YahooDailyReader,,,,,,,,,
+489,GLBKF,Goldbank Mining Corp,0.087300003,FALSE,2009,,21-Sep,5-Dec,0,0,11,11,21-Sep,5-Dec,16.09867771
+490,AUSVF,Gold79 Mines Ltd,0.053970002,FALSE,2009,,11-Dec,24-Feb,8,8,3,3,11-Dec,24-Feb,0.84943877
+491,GLDXF,Gold X Mining Corp,2.320100069,TRUE,2020,,,,,,,,,,
+492,GTOR,Gold Torrent Inc,0.550000012,TRUE,2012,,,,,,,,,,
+493,YGTFF,Gold Terra Resource Corp,0.264999986,TRUE,2020,,,,,,,,,,
+494,GSV,Gold Standard Ventures Corp,0.676900029,TRUE,2012,,,,,,,,,,
+495,TMIBF,Gold Springs Resource Corp,$0.09 ,TRUE,,No data fetched for symbol TMIBF using YahooDailyReader,,,,,,,,,
+496,GRCAF,Gold Springs Resource Corp,0.098200001,TRUE,2014,,,,,,,,,,
+497,SGRWF,Gold Rush Cariboo Corp,0.005,TRUE,2014,,,,,,,,,,
+498,ELKMF,Gold Road Resources Ltd,0.930000007,TRUE,2011,,,,,,,,,,
+499,GORO,Gold Resource Corp,2.964999914,FALSE,2009,,12-Nov,26-Jan,5,5,6,6,10-Nov,24-Jan,1.271801111
+500,GDRZF,Gold Reserve Inc,1.585000038,TRUE,2013,,,,,,,,,,
+501,GPOTF,Gold Port Corp,0.210500002,TRUE,2020,,,,,,,,,,
+502,GPMNF,Gold Plus Mining Inc,0.089100003,TRUE,2020,,,,,,,,,,
+503,GPINY,Gold Peak Industries (Holdings) Ltd,$0.90 ,TRUE,,'Date',,,,,,,,,
+504,GPINF,Gold Peak Industries (Holdings) Ltd,0.079999998,TRUE,2017,,,,,,,,,,
+505,GFTRF,Gold n Futures Mineral Corp,0.139899999,TRUE,2020,,,,,,,,,,
+506,GDDLF,Gold Mountain Mining Corp,$0.24 ,TRUE,,No data fetched for symbol GDDLF using YahooDailyReader,,,,,,,,,
+507,GLIOF,Gold Lion Resources Inc,0.235799998,TRUE,2020,,,,,,,,,,
+508,TLLZF,Gold Line Resources Ltd,0.177100003,TRUE,2013,,,,,,,,,,
+509,GHML,Gold Hills Mining Ltd,0.449999988,TRUE,2012,,,,,,,,,,
+510,GULD,Gold Hill Resources Inc,$0.06 ,TRUE,,'Date',,,,,,,,,
+511,GFIOF,Gold Fields Ltd,11.07999992,FALSE,2010,,5-Jul,18-Sep,6,5,2,3,5-Jul,18-Sep,10.33221766
+512,GFI,Gold Fields Ltd,9.795000076,FALSE,2009,,10-Jun,24-Aug,3,3,8,8,10-Jun,24-Aug,7.398105234
+513,GLDT,Gold Coast Bancorp Inc,$12.51 ,TRUE,,No data fetched for symbol GLDT using YahooDailyReader,,,,,,,,,
+514,GCYO,Gold Canyon Bank Az,0.029999999,FALSE,2009,,19-Mar,2-Jun,4,4,7,7,19-Mar,2-Jun,20.84954429
+515,BLSSF,Gold Bull Resources Corp,0.397659987,FALSE,2009,,20-May,3-Aug,4,4,7,7,20-May,3-Aug,3.296775837
+516,GMLP,Golar LNG Partners LP,2.440000057,TRUE,2011,,,,,,,,,,
+517,GLNG,Golar LNG Ltd,9.159999847,FALSE,2009,,17-Jun,31-Aug,6,4,5,7,17-Jun,31-Aug,3.872287935
+518,GOL,Gol Intelligent Airlines Inc,8.289999962,FALSE,2009,,26-Aug,9-Nov,6,6,5,5,26-Aug,9-Nov,11.26983691
+519,GOCO,GoHealth Inc,11.60999966,TRUE,2020,,,,,,,,,,
+520,GLGDF,GoGold Resources Inc,1.184999943,TRUE,2012,,,,,,,,,,
+521,GOGO,Gogo Inc,10.14999962,TRUE,2013,,,,,,,,,,
+522,GOFF,Goff Corp,0.0078,TRUE,2013,,,,,,,,,,
+523,EHMEF,goeasy Ltd,65.98999786,TRUE,2011,,,,,,,,,,
+524,GDPHF,Godolphin Resources Ltd,0.170000002,TRUE,2020,,,,,,,,,,
+525,GDDY,GoDaddy Inc,76.26000214,TRUE,2015,,,,,,,,,,
+526,GCOMF,GoCo Group PLC,1.549999952,TRUE,2019,,,,,,,,,,
+527,GMNFF,GobiMin Inc,0.230000004,FALSE,2010,,29-Jul,12-Oct,3,3,7,7,29-Jul,12-Oct,3.940082103
+528,GHGUF,Go-Ahead Group (The) PLC,$25.65 ,TRUE,,No data fetched for symbol GHGUF using YahooDailyReader,,,,,,,,,
+529,GHGUY,Go-Ahead Group (The) PLC,$10.33 ,TRUE,,No data fetched for symbol GHGUY using YahooDailyReader,,,,,,,,,
+530,GOCOF,Go Metals Corp,0.05745,TRUE,2018,,,,,,,,,,
+531,GOGR,Go Green Global Technologies Corp,0.023,TRUE,2012,,,,,,,,,,
+532,GOAC,GO Acquisition Corp,9.75,TRUE,2020,,,,,,,,,,
+533,GNIIF,GNI Group Ltd,12.93330002,TRUE,2013,,,,,,,,,,
+534,GNCIQ,GNC Holdings Inc,0.059999999,TRUE,2011,,,,,,,,,,
+535,GNBF,GNB Financial Services Inc,50.5,FALSE,2010,,11-Mar,25-May,4,1,6,9,13-Mar,27-May,12.87573158
+536,GNNDY,GN Store Nord A/S,236.1999969,TRUE,2013,,,,,,,,,,
+537,GGNDF,GN Store Nord A/S,71.23999786,TRUE,2012,,,,,,,,,,
+538,GMVMF,GMV Minerals Inc,0.180000007,TRUE,2012,,,,,,,,,,
+539,GMS,GMS Inc,31.75,TRUE,2016,,,,,,,,,,
+540,GMPXF,GMP Capital Inc,1.429999948,FALSE,2009,,22-Nov,5-Feb,7,7,4,4,13-Dec,26-Feb,10.63948337
+541,GMYTF,GMO Payment Gateway Inc,66,TRUE,2019,,,,,,,,,,
+542,GMYOY,GMO internet Inc,15.30000019,TRUE,2014,,,,,,,,,,
+543,GMOYF,GMO internet Inc,25.25,TRUE,2016,,,,,,,,,,
+544,GMOOF,GMO Financial Holdings Inc,$7.50 ,TRUE,,No data fetched for symbol GMOOF using YahooDailyReader,,,,,,,,,
+545,GMOFF,GMO Financial Gate Inc,181.0690002,TRUE,2020,,,,,,,,,,
+546,GMRSF,GME Resources Ltd,0.021,TRUE,2018,,,,,,,,,,
+547,GMCI,GMCI Corp,$2.90 ,TRUE,,'Date',,,,,,,,,
+548,GLYE,GlyEco Inc,0.050000001,TRUE,2012,,,,,,,,,,
+549,GLYC,GlycoMimetics Inc,4.119999886,TRUE,2014,,,,,,,,,,
+550,GLUSF,Gluskin Sheff & Associates Inc,$10.56 ,TRUE,,No data fetched for symbol GLUSF using YahooDailyReader,,,,,,,,,
+551,GLUC,Glucose Health Inc,2.835000038,FALSE,2009,,21-May,4-Aug,7,7,4,4,21-May,4-Aug,18.70385285
+552,GLUU,Glu Mobile Inc,8.729999542,FALSE,2009,,12-Jan,27-Mar,10,10,1,1,12-Jan,27-Mar,13.34252329
+553,GBTZF,GLP Pte Ltd,$1.50 ,TRUE,,No data fetched for symbol GBTZF using YahooDailyReader,,,,,,,,,
+554,GLOH,Glow Holdings Inc,0.039999999,FALSE,2009,,5-Oct,19-Dec,3,3,7,7,5-Oct,19-Dec,1.333250858
+555,GWEPF,Glow Energy PCL,$2.07 ,TRUE,,No data fetched for symbol GWEPF using YahooDailyReader,,,,,,,,,
+556,GWEFF,Glow Energy PCL,2.400000095,FALSE,2009,,21-Mar,4-Jun,5,5,6,6,31-Aug,14-Nov,5.280231805
+557,GWECY,Glow Energy PCL,25,TRUE,2014,,,,,,,,,,
+558,GWIN,Glorywin Entertainment Group Inc,0.100000001,TRUE,2013,,,,,,,,,,
+559,GSMG,Glory Star New Media Group Holdings Ltd,2.730000019,TRUE,2018,,,,,,,,,,
+560,GLYYY,GLORY Ltd,23.20999908,TRUE,2012,,,,,,,,,,
+561,GLYYF,GLORY Ltd,$26.50 ,TRUE,,No data fetched for symbol GLYYF using YahooDailyReader,,,,,,,,,
+562,GLROY,Glorious Property Holdings Ltd,$13.47 ,TRUE,,No data fetched for symbol GLROY using YahooDailyReader,,,,,,,,,
+563,GLROF,Glorious Property Holdings Ltd,$0.15 ,TRUE,,No data fetched for symbol GLROF using YahooDailyReader,,,,,,,,,
+564,GLOCF,Glomac Bhd,$0.15 ,TRUE,,No data fetched for symbol GLOCF using YahooDailyReader,,,,,,,,,
+565,GMED,Globus Medical Inc,56.22000122,TRUE,2012,,,,,,,,,,
+566,GLBS,Globus Maritime Ltd,8.409999847,FALSE,2009,,9-Nov,23-Jan,6,6,5,5,9-Nov,23-Jan,-72.8886679
+567,GOBPY,Globo PLC,$11.91 ,TRUE,,No data fetched for symbol GOBPY using YahooDailyReader,,,,,,,,,
+568,GOBLF,Globo PLC,$0.55 ,TRUE,,No data fetched for symbol GOBLF using YahooDailyReader,,,,,,,,,
+569,GLBXF,Globex Mining Enterprises Inc,0.519999981,FALSE,2010,,30-Jun,13-Sep,6,6,4,4,30-Jun,13-Sep,12.50805147
+570,SWISF,GlobeX Data Ltd,0.094999999,TRUE,2019,,,,,,,,,,
+571,GBTKF,Globetronics Technology Bhd,$1.41 ,TRUE,,No data fetched for symbol GBTKF using YahooDailyReader,,,,,,,,,
+572,GBIM,GlobeImmune Inc,0.150000006,TRUE,2014,,,,,,,,,,
+573,GBCEF,Globe Trade Centre SA,2.059999943,TRUE,2019,,,,,,,,,,
+574,GBCEY,Globe Trade Centre SA,3.25,TRUE,2015,,,,,,,,,,
+575,GTMEY,Globe Telecom Inc,41.43500137,TRUE,2016,,,,,,,,,,
+576,GTMEF,Globe Telecom Inc,43.95000076,TRUE,2012,,,,,,,,,,
+577,GNTW,Globe Net Wireless Corp,0.017000001,TRUE,2015,,,,,,,,,,
+578,GLNMF,Globe Metals & Mining Ltd,$0.02 ,TRUE,,No data fetched for symbol GLNMF using YahooDailyReader,,,,,,,,,
+579,GL,Globe Life Inc,93.38999939,FALSE,2009,,25-Sep,9-Dec,8,8,3,3,2-Oct,16-Dec,7.877183161
+580,GBNLF,Globe International Ltd,0.400000006,TRUE,2012,,,,,,,,,,
+581,GLBP,Globe Bancorp Inc,18,TRUE,2018,,,,,,,,,,
+582,GLOB,Globant SA,183.8300018,TRUE,2014,,,,,,,,,,
+583,GLTVF,Globaltrans Investment PLC,6.011000156,TRUE,2019,,,,,,,,,,
+584,GLBH,Globaltech Holdings Inc,0.0155,TRUE,2012,,,,,,,,,,
+585,GSAT,Globalstar Inc,0.314399987,FALSE,2009,,15-Mar,29-May,5,5,6,6,15-Mar,29-May,6.828246194
+586,GSB,GlobalSCAPE Inc,9.479999542,FALSE,2009,,17-May,31-Jul,6,6,5,5,17-May,31-Jul,15.59552412
+587,LVVEF,Globalive Technology Inc,0.917999983,TRUE,2018,,,,,,,,,,
+588,GAI,Global-Tech Advanced Innovations Inc,545,TRUE,2020,,,,,,,,,,
+589,GYRMF,Global Yatirim Holding AS,$0.66 ,TRUE,,No data fetched for symbol GYRMF using YahooDailyReader,,,,,,,,,
+590,GWHP,Global Wholehealth Partners Corp,2.200000048,TRUE,2015,,,,,,,,,,
+591,GWTR,Global Water Technologies Inc,0.017999999,TRUE,2012,,,,,,,,,,
+592,GLWSF,Global Water Solutions Fund,$6.60 ,TRUE,,No data fetched for symbol GLWSF using YahooDailyReader,,,,,,,,,
+593,GWRS,Global Water Resources Inc,12.5,TRUE,2016,,,,,,,,,,
+594,GLWA,Global Water Asset Corporation,0.0142,TRUE,2012,,,,,,,,,,
+595,GWSO,Global Warming Solutions Inc,0.860000014,FALSE,2010,,21-Sep,5-Dec,5,5,5,5,21-Sep,5-Dec,9.837022729
+596,GUHI,Global Unicorn Holdings Inc,$0.01 ,TRUE,,No data fetched for symbol GUHI using YahooDailyReader,,,,,,,,,
+597,YRLLF,Global UAV Technologies Ltd,0.0057,FALSE,2010,,4-Nov,18-Jan,6,6,4,4,4-Nov,18-Jan,13.62583124
+598,PSYC,Global Trac Solutions Inc,0.0062,TRUE,2017,,,,,,,,,,
+599,ORSTF,Global Telecom Holding SAE,$1.55 ,TRUE,,'Date',,,,,,,,,
+600,ORSMY,Global Telecom Holding SAE,$2.75 ,TRUE,,No data fetched for symbol ORSMY using YahooDailyReader,,,,,,,,,
+601,GTII,Global Tech Industries Group Inc,0.11445,FALSE,2009,,25-Aug,8-Nov,4,4,7,7,25-Aug,8-Nov,5.409461399
+602,DHKCF,Global Strategic Group Ltd,$0.02 ,TRUE,,No data fetched for symbol DHKCF using YahooDailyReader,,,,,,,,,
+603,GSOL,Global Sources Ltd,$20.00 ,TRUE,,'Date',,,,,,,,,
+604,TDXP,Global Smart Capital Corp,$5.00 ,TRUE,,No data fetched for symbol TDXP using YahooDailyReader,,,,,,,,,
+605,GSL,Global Ship Lease Inc,9.25,FALSE,2009,,12-Nov,26-Jan,6,6,5,5,12-Nov,26-Jan,1.192257719
+606,SELF,Global Self Storage Inc,4,FALSE,2009,,21-May,4-Aug,6,5,5,6,7-Jul,20-Sep,3.355488601
+607,GLBD,Global Seed Corp,0.330000013,TRUE,2014,,,,,,,,,,
+608,GSFD,Global Seafood Technologies Inc,660,TRUE,2012,,,,,,,,,,
+609,GBEN,Global Resource Energy Inc,0.400000006,TRUE,2012,,,,,,,,,,
+610,QCLSY,Global PVQ SE,$0.12 ,TRUE,,No data fetched for symbol QCLSY using YahooDailyReader,,,,,,,,,
+611,QCLSF,Global PVQ SE,0.01,TRUE,2009,,,,,,,,,,
+612,GLPT,Global Profit Technologies Inc,0.079999998,FALSE,2009,,21-May,4-Aug,1,1,10,10,21-May,4-Aug,12.42063589
+613,GPHDF,Global Ports Holding PLC,$4.90 ,TRUE,,No data fetched for symbol GPHDF using YahooDailyReader,,,,,,,,,
+614,GPGC,Global Pole Trusion Group Corp,0.029999999,FALSE,2010,,7-May,21-Jul,3,3,7,7,7-May,21-Jul,16.99708746
+615,GBLP,Global Pharmatech Inc,0.055,TRUE,2012,,,,,,,,,,
+616,GPHG,Global Pharm Holdings Group Inc,0.99000001,FALSE,2010,,15-Jun,29-Aug,1,1,9,9,15-Jun,29-Aug,15.81726338
+617,GBPOF,Global Petroleum Ltd,$0.01 ,TRUE,,No data fetched for symbol GBPOF using YahooDailyReader,,,,,,,,,
+618,GPN,Global Payments Inc,189.0749969,FALSE,2009,,6-Aug,20-Oct,8,8,3,3,6-Aug,20-Oct,5.562918112
+619,GPTX,Global Payment Technologies Inc,0.0075,FALSE,2009,,29-Mar,12-Jun,5,5,6,6,29-Mar,12-Jun,19.63412978
+620,GLP,Global Partners LP,16.67000008,FALSE,2009,,14-Mar,28-May,6,5,5,6,22-Aug,5-Nov,5.556494859
+621,GNL,Global Net Lease Inc,16.85000038,TRUE,2015,,,,,,,,,,
+622,GMRE,Global Medical REIT Inc,14.05000019,TRUE,2016,,,,,,,,,,
+623,GBTZY,Global Logistic Properties Ltd,$25.37 ,TRUE,,No data fetched for symbol GBTZY using YahooDailyReader,,,,,,,,,
+624,GBBGF,Global Li-Ion Graphite Corp,0.089199997,TRUE,2017,,,,,,,,,,
+625,GLIVF,Global Investments Ltd,$0.12 ,TRUE,,No data fetched for symbol GLIVF using YahooDailyReader,,,,,,,,,
+626,GLBN,Global Innovation Corp,$0.02 ,TRUE,,No data fetched for symbol GLBN using YahooDailyReader,,,,,,,,,
+627,GBLS,Global Industries Corp,$0.05 ,TRUE,,'Date',,,,,,,,,
+628,GBLI,Global Indemnity Group LLC,27.20000076,FALSE,2009,,19-Oct,2-Jan,6,6,5,5,19-Oct,2-Jan,7.830382992
+629,GBLHF,Global Hunter Corp,0.024,FALSE,2009,,20-Aug,3-Nov,0,0,11,11,20-Aug,3-Nov,27.03539012
+630,GOHG,Global Holdings Inc,0.029999999,TRUE,2012,,,,,,,,,,
+631,GBHPF,Global Hemp Group Inc,0.012,TRUE,2014,,,,,,,,,,
+632,GBCS,Global Healthcare REIT Inc,0.280000001,FALSE,2009,,18-Sep,2-Dec,5,5,6,6,18-Sep,2-Dec,8.58728703
+633,LRSNF,Global Health Clinics Ltd,0.1197,TRUE,2016,,,,,,,,,,
+634,GGRN,Global Green Solutions Inc,0.057,FALSE,2009,,29-Dec,14-Mar,7,7,4,4,29-Dec,14-Mar,13.1729968
+635,GOGC,Global Green Inc,$0.02 ,TRUE,,No data fetched for symbol GOGC using YahooDailyReader,,,,,,,,,
+636,GLLGF,Global Graphics SE,3.769999981,TRUE,2018,,,,,,,,,,
+637,GBGD,Global Gold Corp,0.75,TRUE,2018,,,,,,,,,,
+638,GGGRF,Global Gardens Group Inc,0.00855,TRUE,2018,,,,,,,,,,
+639,BLKCF,Global Gaming Technologies Corp,0.016000001,TRUE,2017,,,,,,,,,,
+640,GFDCF,Global Food Creators Co Ltd,$12.50 ,TRUE,,No data fetched for symbol GFDCF using YahooDailyReader,,,,,,,,,
+641,SUAFF,Global Ferronickel Holdings Inc,0.015,TRUE,2012,,,,,,,,,,
+642,GLFGF,Global Fashion Group SA,5.666100025,TRUE,2020,,,,,,,,,,
+643,GBBLF,Global Energy Ventures Ltd,0.07,TRUE,2018,,,,,,,,,,
+644,TTENY,Global Energy Ventures Ltd,$2.04 ,TRUE,,No data fetched for symbol TTENY using YahooDailyReader,,,,,,,,,
+645,GBNW,Global Energy Networks Corp,0.077490002,FALSE,2009,,15-Apr,29-Jun,4,4,7,7,15-Apr,29-Jun,18.95508117
+646,GBLEF,Global Energy Metals Corp,0.201000005,TRUE,2017,,,,,,,,,,
+647,GEENQ,Global Eagle Entertainment Inc,0.481840014,TRUE,2011,,,,,,,,,,
+648,GBDMF,Global Dominion Access SA,2.690000057,TRUE,2018,,,,,,,,,,
+649,GDMK,Global Diversified Marketing Group Inc,0.449999988,TRUE,2020,,,,,,,,,,
+650,GIIZF,Global Diversified Investment Grade Income Trust I,$0.16 ,TRUE,,No data fetched for symbol GIIZF using YahooDailyReader,,,,,,,,,
+651,GDSI,Global Digital Solutions Inc,0.017999999,FALSE,2009,,29-Nov,12-Feb,6,6,3,3,29-Nov,12-Feb,26.68663199
+652,JETMF,Global Crossing Airlines Inc,0.718900025,FALSE,2009,,4-Nov,18-Jan,8,8,3,3,4-Nov,18-Jan,12.65959727
+653,CO,Global Cord Blood Corp,4.110000134,FALSE,2009,,27-Jan,11-Apr,7,7,4,4,27-Jan,11-Apr,3.417622492
+654,GCEI,Global Clean Energy Inc,0.196500003,FALSE,2009,,6-Sep,20-Nov,6,6,5,5,6-Sep,20-Nov,13.69740933
+655,GCEH,Global Clean Energy Holdings Inc,0.189999998,FALSE,2009,,17-Jun,31-Aug,8,8,3,3,17-Jun,31-Aug,19.38883078
+656,RSCZF,Global Care Capital Inc,0.0218,FALSE,2009,,7-Nov,21-Jan,5,5,6,6,7-Nov,21-Jan,16.89120926
+657,FUAPF,Global Cannabis Applications Corp,0.0425,TRUE,2014,,,,,,,,,,
+658,GLBR,Global Brokerage Inc,0.052999999,FALSE,2010,,12-Nov,26-Jan,4,4,6,6,19-Dec,4-Mar,-52.05135623
+659,BRSS,Global Brass and Copper Holdings Inc,$43.99 ,TRUE,,No data fetched for symbol BRSS using YahooDailyReader,,,,,,,,,
+660,GLBRF,Global Brands Group Holdings Ltd,0.02,TRUE,2014,,,,,,,,,,
+661,GBBT,Global Boatworks Holdings Inc,0.449999988,TRUE,2016,,,,,,,,,,
+662,GB,Global Blue Group Holding AG,11.22000027,TRUE,2020,,,,,,,,,,
+663,GBT,Global Blood Therapeutics Inc,43.11999893,TRUE,2015,,,,,,,,,,
+664,GLLBF,Global Bioenergies,8.270000458,TRUE,2019,,,,,,,,,,
+665,GBCMF,Global Bio-chem Technology Group Co Ltd,0.01,TRUE,2012,,,,,,,,,,
+666,REZZF,Global Battery Metals Ltd,0.07051,TRUE,2017,,,,,,,,,,
+667,GLATF,Global Atomic Corp,0.488799989,FALSE,2009,,6-Mar,20-May,4,4,7,7,6-Mar,20-May,19.07453905
+668,GAHD,Global Agricultural Holdings Inc,0.012,TRUE,2012,,,,,,,,,,
+669,GLGLF,Glg Life Tech Corp,0.122000001,TRUE,2012,,,,,,,,,,
+670,GLNV,Glenville Bank Holding Co Inc,90,TRUE,2012,,,,,,,,,,
+671,GLVHF,Glenveagh Properties PLC,0.764999986,TRUE,2020,,,,,,,,,,
+672,GLNCY,Glencore PLC,5.065000057,TRUE,2012,,,,,,,,,,
+673,GLCNF,Glencore PLC,2.549999952,TRUE,2011,,,,,,,,,,
+674,GERFF,Glen Eagle Resources Inc,0.0592,FALSE,2009,,23-Dec,8-Mar,6,6,5,5,23-Dec,8-Mar,13.36170643
+675,GLBZ,Glen Burnie Bancorp,10.11999989,FALSE,2009,,6-Dec,19-Feb,6,6,5,5,6-Dec,19-Feb,6.055111466
+676,GLCH,Gleacher & Co Inc,0.805000007,TRUE,2012,,,,,,,,,,
+677,GLAXF,GlaxoSmithKline PLC,17.86000061,FALSE,2010,,6-Feb,21-Apr,6,6,4,4,1-Feb,16-Apr,3.182329023
+678,GSK,GlaxoSmithKline PLC,36.80400085,FALSE,2009,,10-Mar,24-May,7,6,4,5,5-Feb,20-Apr,1.52650307
+679,GKOS,Glaukos Corp,67.31500244,TRUE,2015,,,,,,,,,,
+680,GLT,Glatfelter Corp,15.98999977,FALSE,2009,,19-Aug,2-Nov,7,7,4,4,7-Oct,21-Dec,3.349317707
+681,GLAE,GlassBridge Enterprises Inc,60,FALSE,2009,,25-Jan,9-Apr,7,7,4,4,25-Jan,9-Apr,-2.216888598
+682,GLAPY,Glanbia PLC,52.75,TRUE,2012,,,,,,,,,,
+683,GLAPF,Glanbia PLC,10.5,TRUE,2012,,,,,,,,,,
+684,LAND,Gladstone Land Corp,14.94999981,TRUE,2013,,,,,,,,,,
+685,GAIN,Gladstone Investment Corp,9.887499809,FALSE,2009,,3-Nov,17-Jan,8,8,3,3,7-Nov,21-Jan,3.814009222
+686,GOOD,Gladstone Commercial Corp,18.22500038,FALSE,2009,,12-Mar,26-May,6,6,5,5,18-Mar,1-Jun,7.587903124
+687,GLAD,Gladstone Capital Corp,8.5,FALSE,2009,,29-May,12-Aug,7,7,4,4,28-May,11-Aug,4.67587422
+688,GWSV,Glacier Water Services Inc,$22.98 ,TRUE,,'Date',,,,,,,,,
+689,GLMFF,Glacier Media Inc,0.186399996,TRUE,2013,,,,,,,,,,
+690,GLIIF,Glacier Lake Resources Inc,0.07,TRUE,2012,,,,,,,,,,
+691,GBCI,Glacier Bancorp Inc,43.31999969,FALSE,2009,,21-Oct,4-Jan,6,6,5,5,16-Oct,30-Dec,8.047265225
+692,GLLL,Glacial Lakes Corn Processors Inc,0.860000014,TRUE,2018,,,,,,,,,,
+693,GUORY,GL Ltd,3.049999952,FALSE,2009,,18-Feb,3-May,6,6,5,5,18-Feb,3-May,4.148411363
+694,GUORF,GL Ltd,0.349999994,FALSE,2009,,8-Dec,21-Feb,6,6,5,5,8-Dec,21-Feb,3.970873426
+695,GRLB,GL Brands Inc,0.0187,TRUE,2017,,,,,,,,,,
+696,GKNLY,GKN PLC,5.614999771,TRUE,2012,,,,,,,,,,
+697,GKNNF,GKN PLC,0.01,TRUE,2012,,,,,,,,,,
+698,GKSFF,GK Software SE,$85.00 ,TRUE,,No data fetched for symbol GKSFF using YahooDailyReader,,,,,,,,,
+699,GJNSY,Gjensidige Forsikring ASA,21.51000023,TRUE,2014,,,,,,,,,,
+700,GJNSF,Gjensidige Forsikring ASA,19.39999962,TRUE,2013,,,,,,,,,,
+701,GJCU,GJ Culture Group US Inc,0.150000006,TRUE,2020,,,,,,,,,,
+702,CATPF,Giyani Metals Corp,0.170000002,TRUE,2011,,,,,,,,,,
+703,GOOXF,Givot Olam Oil Exploration LP,0.216999993,FALSE,2010,,28-Feb,13-May,4,4,6,6,28-Feb,13-May,16.45157789
+704,GMPW,GiveMePower Corp,0.046500001,FALSE,2009,,17-Jun,31-Aug,6,6,5,5,17-Jun,31-Aug,22.71718574
+705,GVDNY,Givaudan SA,80.03500366,FALSE,2009,,9-Mar,23-May,6,6,5,5,15-May,29-Jul,3.749035491
+706,GVDBF,Givaudan SA,3991,FALSE,2010,,18-Mar,1-Jun,7,7,3,3,8-Jan,23-Mar,6.337562503
+707,GILXF,Gitennes Exploration Inc,0.090000004,FALSE,2009,,2-Aug,16-Oct,9,9,2,2,2-Aug,16-Oct,11.6829124
+708,GRDZF,Giordano International Ltd,0.150000006,TRUE,2012,,,,,,,,,,
+709,GDBGF,Gindalbie Metals Ltd,0.006,TRUE,2019,,,,,,,,,,
+710,GIMVF,GIMV NV,$56.35 ,TRUE,,No data fetched for symbol GIMVF using YahooDailyReader,,,,,,,,,
+711,GILD,Gilead Sciences Inc,60.94900131,FALSE,2009,,8-May,22-Jul,9,9,2,2,8-May,22-Jul,5.05930902
+712,GIL,Gildan Activewear Inc,25.52000046,FALSE,2009,,28-Mar,11-Jun,8,8,3,3,28-Mar,11-Jun,10.65502504
+713,GILT,Gilat Satellite Networks Ltd,5.445000172,FALSE,2009,,23-Dec,8-Mar,9,9,2,2,23-Dec,8-Mar,7.772911996
+714,GIGL,Giggles N' Hugs Inc,0.028999999,FALSE,2010,,9-Feb,24-Apr,7,7,3,3,9-Feb,24-Apr,29.27093731
+715,GIK,GigCapital3 Inc,9.880000114,TRUE,2020,,,,,,,,,,
+716,GIX,Gigcapital2 Inc,10.07999992,TRUE,2019,,,,,,,,,,
+717,ARQTF,Gigaset AG,$1.00 ,TRUE,,No data fetched for symbol ARQTF using YahooDailyReader,,,,,,,,,
+718,GIMO,Gigamon Inc,$38.50 ,TRUE,,'Date',,,,,,,,,
+719,GIGM,GigaMedia Ltd,2.799999952,FALSE,2009,,16-May,30-Jul,5,5,6,6,16-May,30-Jul,0.232013642
+720,GIGA,Giga-tronics Inc,4.050000191,FALSE,2009,,9-Nov,23-Jan,4,4,7,7,9-Nov,23-Jan,6.872466311
+721,HNCKF,Giga Metals Corp,0.435400009,FALSE,2009,,21-Aug,4-Nov,4,4,5,5,21-Aug,4-Nov,3.139594737
+722,GIFX,Gifa Inc,0.045000002,TRUE,2012,,,,,,,,,,
+723,GBNXF,Gibson Energy Inc,15.35649967,TRUE,2012,,,,,,,,,,
+724,ROCK,Gibraltar Industries Inc,65.55999756,FALSE,2009,,24-Oct,7-Jan,4,4,7,7,24-Oct,7-Jan,14.71642171
+725,GIBX,Gib Cap Group Inc,1.200000048,TRUE,2020,,,,,,,,,,
+726,GIREF,Giant Resources Inc,$0.01 ,TRUE,,No data fetched for symbol GIREF using YahooDailyReader,,,,,,,,,
+727,GGLT,Giant Group Ltd,50.00999832,FALSE,2009,,18-May,1-Aug,2,2,9,9,18-May,1-Aug,8.858171269
+728,GGXXF,GGX Gold Corp,0.137199998,TRUE,2013,,,,,,,,,,
+729,GGLXF,GGL Resources Corp,0.215000004,TRUE,2012,,,,,,,,,,
+730,GFRP,GFR Pharmaceuticals Inc,0.100000001,TRUE,2012,,,,,,,,,,
+731,GFPTF,GFPT PCL,0.529999971,TRUE,2013,,,,,,,,,,
+732,GFL,GFL Environmental Inc,24.75499916,TRUE,2020,,,,,,,,,,
+733,GFKAF,GfK SE,$46.45 ,TRUE,,No data fetched for symbol GFKAF using YahooDailyReader,,,,,,,,,
+734,GFIZF,Gfinity PLC,0.048999999,TRUE,2019,,,,,,,,,,
+735,GFIG,GFI Group Inc,$6.16 ,TRUE,,'Date',,,,,,,,,
+736,GFGSF,GFG Resources Inc,0.165900007,TRUE,2017,,,,,,,,,,
+737,GXXM,GEX Management Inc,0.027000001,TRUE,2017,,,,,,,,,,
+738,GEVO,Gevo Inc,1.080000043,TRUE,2011,,,,,,,,,,
+739,GTY,Getty Realty Corp,28.58869934,FALSE,2009,,16-Mar,30-May,6,6,5,5,22-Mar,5-Jun,5.378523508
+740,GTCDF,Getty Copper Inc,0.064999998,TRUE,2012,,,,,,,,,,
+741,GSWTF,GetSwift Ltd,0.230000004,TRUE,2017,,,,,,,,,,
+742,GRPTY,Getlink SE,$30.80 ,TRUE,,No data fetched for symbol GRPTY using YahooDailyReader,,,,,,,,,
+743,GRPTF,Getlink SE,16.79999924,TRUE,2012,,,,,,,,,,
+744,GNGBY,Getinge AB,21.20000076,TRUE,2012,,,,,,,,,,
+745,GNGBF,Getinge AB,21.54999924,TRUE,2011,,,,,,,,,,
+746,GETPF,GETECH Group PLC,$0.34 ,TRUE,,No data fetched for symbol GETPF using YahooDailyReader,,,,,,,,,
+747,GGLDF,Getchell Gold Corp,0.259790003,TRUE,2019,,,,,,,,,,
+748,GTRL,Get Real USA Inc,0.090000004,FALSE,2009,,23-Feb,8-May,4,4,7,7,23-Feb,8-May,14.54581034
+749,GMPUF,Gestamp Automocion,4.840000153,TRUE,2019,,,,,,,,,,
+750,GRYIY,Gerry Weber International AG,$5.64 ,TRUE,,No data fetched for symbol GRYIY using YahooDailyReader,,,,,,,,,
+751,GRYIF,Gerry Weber International AG,1,FALSE,2009,,18-Mar,1-Jun,4,4,7,7,18-Mar,1-Jun,9.398575353
+752,GRRMF,Gerresheimer AG,119.5,TRUE,2012,,,,,,,,,,
+753,GERN,Geron Corp,1.929999948,FALSE,2009,,1-Mar,15-May,5,5,6,6,1-Mar,15-May,-3.977695321
+754,GABC,German American Bancorp,33.77259827,FALSE,2009,,14-May,28-Jul,5,5,6,6,14-May,28-Jul,7.78239049
+755,GGB,Gerdau SA,3.950000048,FALSE,2009,,25-Aug,8-Nov,5,5,6,6,25-Aug,8-Nov,6.778517041
+756,GXSBY,Geox SpA,0.75999999,TRUE,2014,,,,,,,,,,
+757,GXSBF,Geox SpA,0.579999983,FALSE,2009,,24-Dec,9-Mar,8,8,3,3,24-Dec,9-Mar,6.255807926
+758,GVCM,Geovic Mining Corp,$0.03 ,TRUE,,No data fetched for symbol GVCM using YahooDailyReader,,,,,,,,,
+759,GOVX,Geovax Labs Inc,2.730000019,TRUE,2020,,,,,,,,,,
+760,GEOS,Geospace Technologies Corp,5.989999771,FALSE,2009,,6-Sep,20-Nov,4,4,7,7,6-Sep,20-Nov,10.94529607
+761,GOYJF,Geosentric Oyj,$0.01 ,TRUE,,No data fetched for symbol GOYJF using YahooDailyReader,,,,,,,,,
+762,GHCGF,Georgia Healthcare Group PLC,1.188799977,TRUE,2020,,,,,,,,,,
+763,GRGCF,Georgia Capital PLC,6.150000095,TRUE,2019,,,,,,,,,,
+764,GTWN,Georgetown Bancorp Inc,$26.00 ,TRUE,,'Date',,,,,,,,,
+765,WNGRF,George Weston Ltd,74.83000183,FALSE,2010,,30-Mar,13-Jun,4,4,6,6,4-Jun,18-Aug,4.975241695
+766,RSKIA,George Risk Industries Inc,10.10000038,FALSE,2009,,19-Jul,2-Oct,4,4,7,7,19-Jun,2-Sep,4.496127725
+767,GPLS,Geopulse Exploration Inc,0.022500001,FALSE,2009,,14-Jan,29-Mar,7,7,2,2,14-Jan,29-Mar,26.44338084
+768,GPRK,GeoPark Ltd,9.649999619,FALSE,2010,,28-Mar,11-Jun,4,4,6,6,28-Mar,11-Jun,11.95863039
+769,GPACF,Geopacific Resources Ltd,0.400000006,TRUE,2013,,,,,,,,,,
+770,GOMRF,Geomega Resources Inc,0.143999994,TRUE,2011,,,,,,,,,,
+771,GDLLF,Geodrill Ltd,1.379999995,TRUE,2012,,,,,,,,,,
+772,GJST,GEO JS Tech Group Corp,0.02,TRUE,2014,,,,,,,,,,
+773,GMICF,Genworth MI Canada Inc,33.37120056,FALSE,2010,,28-Aug,11-Nov,6,6,4,4,27-Aug,10-Nov,4.453838258
+774,GNW,Genworth Financial Inc,4.440000057,FALSE,2009,,7-Aug,21-Oct,5,5,6,6,7-Aug,21-Oct,11.08307087
+775,GNVC,Genvec Inc,$7.19 ,TRUE,,'Date',,,,,,,,,
+776,GENSF,Genus PLC,54,TRUE,2012,,,,,,,,,,
+777,GPC,Genuine Parts Co,99.79000092,FALSE,2009,,27-Sep,11-Dec,7,7,4,4,25-Sep,9-Dec,5.816508318
+778,GFOO,Genufood Energy Enzymes Corp,0.017000001,TRUE,2013,,,,,,,,,,
+779,GNTOF,Gentor Resources Inc,$0.03 ,TRUE,,No data fetched for symbol GNTOF using YahooDailyReader,,,,,,,,,
+780,GIGNY,Genting Singapore Ltd,27.65999985,FALSE,2010,,12-Nov,26-Jan,6,6,4,4,12-Nov,26-Jan,2.800666904
+781,GIGNF,Genting Singapore Ltd,0.519999981,FALSE,2010,,21-Nov,4-Feb,3,3,7,7,21-Nov,4-Feb,1.48867721
+782,GMALY,Genting Malaysia Bhd,12.01000023,TRUE,2012,,,,,,,,,,
+783,GMALF,Genting Malaysia Bhd,0.529999971,TRUE,2020,,,,,,,,,,
+784,GTHKF,Genting Hong Kong Ltd,0.029999999,TRUE,2012,,,,,,,,,,
+785,GEBHY,Genting Bhd,4.670000076,FALSE,2010,,26-Dec,11-Mar,6,5,4,5,26-Dec,11-Mar,5.751898849
+786,GEBHF,Genting Bhd,0.970000029,FALSE,2010,,26-Jan,10-Apr,5,3,5,7,26-Jan,10-Apr,6.62326645
+787,GEBEY,Genting Bhd,$1.16 ,TRUE,,No data fetched for symbol GEBEY using YahooDailyReader,,,,,,,,,
+788,THRM,Gentherm Inc,54.75,FALSE,2009,,11-Oct,25-Dec,8,8,3,3,11-Oct,25-Dec,6.604284501
+789,GNTX,Gentex Corp,32.875,FALSE,2009,,26-Sep,10-Dec,5,5,6,6,26-Sep,10-Dec,13.94534729
+790,CMPRF,Gentera SAB de CV,0.400000006,TRUE,2012,,,,,,,,,,
+791,AGCCF,Gensource Potash Corp,0.159999996,FALSE,2009,,4-Apr,18-Jun,6,6,5,5,4-Apr,18-Jun,10.29491313
+792,GSGTF,Gensight Biologics SA,4.800000191,TRUE,2018,,,,,,,,,,
+793,GNNSF,Genscript Biotech Corp,1.570000052,TRUE,2017,,,,,,,,,,
+794,GNPX,Genprex Inc,3.092799902,TRUE,2018,,,,,,,,,,
+795,G,Genpact Ltd,40.5,FALSE,2009,,14-Feb,29-Apr,6,6,5,5,14-Feb,29-Apr,4.941550467
+796,GEOVF,Genovis AB,$1.18 ,TRUE,,No data fetched for symbol GEOVF using YahooDailyReader,,,,,,,,,
+797,GNMLF,Genomma Lab Internacional SAB de CV,0.879999995,TRUE,2012,,,,,,,,,,
+798,GNOLF,Genoil Inc,0.018999999,FALSE,2009,,15-Sep,29-Nov,4,4,7,7,15-Sep,29-Nov,1.143162602
+799,GNCA,Genocea Biosciences Inc,2.079999924,TRUE,2014,,,,,,,,,,
+800,GNMK,GenMark Diagnostics Inc,14.35000038,FALSE,2010,,3-Nov,17-Jan,5,5,5,5,3-Nov,17-Jan,6.610464451
+801,GNMSF,Genmab A/S,356.7900085,FALSE,2010,,15-Nov,29-Jan,7,7,3,3,15-Nov,29-Jan,12.40675883
+802,GMAB,Genmab A/S,36.10499954,FALSE,2009,,15-May,29-Jul,6,6,5,5,15-May,29-Jul,5.307537581
+803,GNUS,Genius Brands International Inc,1.210000038,TRUE,2012,,,,,,,,,,
+804,GNE,Genie Energy Ltd,8.724100113,TRUE,2011,,,,,,,,,,
+805,GNFT,Genfit SA,4.769999981,TRUE,2019,,,,,,,,,,
+806,GNFTF,Genfit SA,4.784999847,TRUE,2014,,,,,,,,,,
+807,GNRRF,GeNeuro SA,3.339999914,TRUE,2017,,,,,,,,,,
+808,GTH,Genetron Holdings Ltd,11.35000038,TRUE,2020,,,,,,,,,,
+809,GENE,Genetic Technologies Ltd,2.974999905,FALSE,2009,,30-Dec,15-Mar,10,10,1,1,30-Dec,15-Mar,14.66626533
+810,GTHR,GeneThera Inc,0.023,TRUE,2012,,,,,,,,,,
+811,GEIN,Genesys Industries Inc,0.230000004,TRUE,2019,,,,,,,,,,
+812,GGISF,Genesis Metals Corp,0.147200003,TRUE,2012,,,,,,,,,,
+813,GNLAF,Genesis Land Development Corp,1.149999976,TRUE,2012,,,,,,,,,,
+814,GEN,Genesis Healthcare Inc,0.486699998,FALSE,2009,,5-Oct,19-Dec,4,4,7,7,5-Oct,19-Dec,6.189607261
+815,GFNL,Genesis Financial Inc,1.220000029,TRUE,2012,,,,,,,,,,
+816,GEL,Genesis Energy LP,6.189899921,FALSE,2009,,4-May,18-Jul,7,7,4,4,4-May,18-Jul,7.163818089
+817,GWR,Genesee & Wyoming Inc,$111.88 ,TRUE,,No data fetched for symbol GWR using YahooDailyReader,,,,,,,,,
+818,GCO,Genesco Inc,30.62000084,FALSE,2009,,26-Oct,9-Jan,7,7,4,4,26-Oct,9-Jan,9.241589855
+819,UMTAF,Genertec Universal Medical Group Co Ltd,0.720000029,TRUE,2017,,,,,,,,,,
+820,GGCPF,Generic Gold Corp,0.330000013,TRUE,2020,,,,,,,,,,
+821,GNBT,Generex Biotechnology Corp,0.224999994,TRUE,2017,,,,,,,,,,
+822,VEND,Generation Next Franchise Brands Inc,0.0086,TRUE,2013,,,,,,,,,,
+823,GENMF,Generation Mining Ltd,0.396100014,TRUE,2018,,,,,,,,,,
+824,GENH,Generation Hemp Inc,0.210099995,TRUE,2014,,,,,,,,,,
+825,GBIO,Generation Bio Co,33.14170074,TRUE,2020,,,,,,,,,,
+826,GNAL,Generation Alpha Inc,0.015,TRUE,2018,,,,,,,,,,
+827,GSIH,General Steel Holdings Inc,0.039999999,FALSE,2009,,10-Feb,25-Apr,5,5,6,6,10-Feb,25-Apr,8.798249185
+828,GBRAF,General Shopping e Outlets do Brasil SA,$0.88 ,TRUE,,'Date',,,,,,,,,
+829,GPSI,General Payment Systems Inc,0.0093,TRUE,2012,,,,,,,,,,
+830,GM/WS/B,General Motors Co,$23.05 ,TRUE,,"Unable to read URL: https://finance.yahoo.com/quote/GM/WS/B/history?period1=1230804000&period2=1605779999&interval=1d&frequency=1d&filter=history
+Response Text:
+b'<html>\n<meta charset=\'utf-8\'>\n<script>\nvar u=\'https://www.yahoo.com/?err=404&err_url=https%3a%2f%2ffinance.yahoo.com%2fquote%2fGM%2fWS%2fB%2fhistory%3fperiod1%3d1230804000%26period2%3d1605779999%26interval%3d1d%26frequency%3d1d%26filter%3dhistory\';\nif(window!=window.top){\n  document.write(\'<p>Content is currently unavailable.</p><img src=""//geo.yahoo.com/p?s=1197757039&t=\'+new Date().getTime()+\'&_R=\'+encodeURIComponent(document.referrer)+\'&err=404&err_url=\'+u+\'"" width=""0px"" height=""0px""/>\');\n}else{\n  window.location.replace(u);\n}\n</script>\n<noscript><META http-equiv=""refresh"" content=""0;URL=\'https://www.yahoo.com/?err=404&err_url=https%3a%2f%2ffinance.yahoo.com%2fquote%2fGM%2fWS%2fB%2fhistory%3fperiod1%3d1230804000%26period2%3d1605779999%26interval%3d1d%26frequency%3d1d%26filter%3dhistory\'""></noscript>\n</html>\n'",,,,,,,,,
+831,GM,General Motors Co,43.25999832,FALSE,2010,,27-Sep,11-Dec,4,4,6,6,25-Sep,9-Dec,8.077137314
+832,GMOL,General Moly Inc,0.029999999,TRUE,2020,,,,,,,,,,
+833,GNMNF,General Mining Corp Ltd,$0.62 ,TRUE,,No data fetched for symbol GNMNF using YahooDailyReader,,,,,,,,,
+834,GIS,General Mills Inc,61.88999939,FALSE,2009,,3-Mar,17-May,6,6,5,5,3-Mar,17-May,3.83847445
+835,GFN,General Finance Corp,8.25,FALSE,2009,,28-Oct,11-Jan,6,6,5,5,28-Oct,11-Jan,7.488516742
+836,GFDV,General Finance & Development Inc,0.200000003,TRUE,2012,,,,,,,,,,
+837,GESI,General European Strategic Invts Inc,2,FALSE,2009,,3-Jan,18-Mar,6,6,5,5,3-Jan,18-Mar,0.970995308
+838,GEVI,General Environmental Management Inc,0.044399999,FALSE,2009,,6-Jan,21-Mar,7,7,4,4,6-Jan,21-Mar,14.97186725
+839,GE/WD,General Electric Co,$30.72 ,TRUE,,"Unable to read URL: https://finance.yahoo.com/quote/GE/WD/history?period1=1230804000&period2=1605779999&interval=1d&frequency=1d&filter=history
+Response Text:
+b'<html>\n<meta charset=\'utf-8\'>\n<script>\nvar u=\'https://www.yahoo.com/?err=404&err_url=https%3a%2f%2ffinance.yahoo.com%2fquote%2fGE%2fWD%2fhistory%3fperiod1%3d1230804000%26period2%3d1605779999%26interval%3d1d%26frequency%3d1d%26filter%3dhistory\';\nif(window!=window.top){\n  document.write(\'<p>Content is currently unavailable.</p><img src=""//geo.yahoo.com/p?s=1197757039&t=\'+new Date().getTime()+\'&_R=\'+encodeURIComponent(document.referrer)+\'&err=404&err_url=\'+u+\'"" width=""0px"" height=""0px""/>\');\n}else{\n  window.location.replace(u);\n}\n</script>\n<noscript><META http-equiv=""refresh"" content=""0;URL=\'https://www.yahoo.com/?err=404&err_url=https%3a%2f%2ffinance.yahoo.com%2fquote%2fGE%2fWD%2fhistory%3fperiod1%3d1230804000%26period2%3d1605779999%26interval%3d1d%26frequency%3d1d%26filter%3dhistory\'""></noscript>\n</html>\n'",,,,,,,,,
+840,GE,General Electric Co,9.824999809,FALSE,2009,,1-Sep,15-Nov,6,6,5,5,1-Sep,15-Nov,3.396086451
+841,GD,General Dynamics Corp,154.9400024,FALSE,2009,,9-Jul,22-Sep,8,8,3,3,9-Jul,22-Sep,4.087410992
+842,GNRD,General DataComm Industries Inc,0.0131,FALSE,2009,,23-Jul,6-Oct,2,2,9,9,23-Jul,6-Oct,8.152174648
+843,GNMP,General Chemical Group Inc,0.005,TRUE,2012,,,,,,,,,,
+844,CANN,General Cannabis Corp,0.416099995,TRUE,2012,,,,,,,,,,
+845,BGC,General Cable Corp,30,TRUE,2012,,,,,,,,,,
+846,GNBR,General Broadcasting Inc,$0.01 ,TRUE,,'Date',,,,,,,,,
+847,GAM,General American Investors Company Inc,35.31999969,FALSE,2009,,3-Feb,18-Apr,8,8,3,3,10-Feb,25-Apr,2.076103572
+848,GNRC,Generac Holdings Inc,212.0099945,FALSE,2010,,27-Aug,10-Nov,7,7,3,3,27-Aug,10-Nov,15.82320574
+849,GNRT,Gener8 Maritime Inc,6.610000134,TRUE,2015,,,,,,,,,,
+850,GEGYY,Genel Energy PLC,1.409999967,TRUE,2014,,,,,,,,,,
+851,GEGYF,Genel Energy PLC,1.659999967,TRUE,2012,,,,,,,,,,
+852,CRXM,Gene Biotherapeutics Inc,0.033300001,FALSE,2009,,20-Apr,4-Jul,3,3,8,8,20-Apr,4-Jul,3.973780664
+853,GNDIF,Gendis Inc,4.170100212,TRUE,2012,,,,,,,,,,
+854,GENC,Gencor Industries Inc,11.57999992,FALSE,2009,,25-Sep,9-Dec,8,8,3,3,25-Sep,9-Dec,4.623025365
+855,GNKOQ,Genco Shipping & Trading Ltd,$0.79 ,TRUE,,No data fetched for symbol GNKOQ using YahooDailyReader,,,,,,,,,
+856,GNK,Genco Shipping & Trading Ltd,7.46999979,TRUE,2014,,,,,,,,,,
+857,GNCNF,Gencan Capital Inc,0.023,TRUE,2014,,,,,,,,,,
+858,GNSS,Genasys Inc,6.340000153,FALSE,2009,,4-Aug,18-Oct,4,4,7,7,4-Aug,18-Oct,9.909687988
+859,ISRJF,GEN III Oil Corp,0.214900002,TRUE,2012,,,,,,,,,,
+860,GTVHF,Gems TV Holdings Ltd,$0.01 ,TRUE,,No data fetched for symbol GTVHF using YahooDailyReader,,,,,,,,,
+861,GEMNF,Gemini Corp,$0.04 ,TRUE,,No data fetched for symbol GEMNF using YahooDailyReader,,,,,,,,,
+862,GFLDF,Gemfields PLC,$0.38 ,TRUE,,No data fetched for symbol GFLDF using YahooDailyReader,,,,,,,,,
+863,PLLHF,Gemfields Group Ltd,0.100000001,TRUE,2017,,,,,,,,,,
+864,GTOMY,Gemalto,$28.11 ,TRUE,,No data fetched for symbol GTOMY using YahooDailyReader,,,,,,,,,
+865,GTOFF,Gemalto,$56.40 ,TRUE,,No data fetched for symbol GTOFF using YahooDailyReader,,,,,,,,,
+866,GMDMF,Gem Diamonds Ltd,0.5,TRUE,2012,,,,,,,,,,
+867,JAMTF,Gelum Capital Ltd,0.035,TRUE,2018,,,,,,,,,,
+868,GLTC,GelTech Solutions Inc,0.0175,FALSE,2009,,13-Jan,28-Mar,9,9,2,2,13-Jan,28-Mar,12.87812932
+869,GKTRF,GEK Terna Holding Real Estate Construction SA,7.260000229,TRUE,2016,,,,,,,,,,
+870,GEIG,GEI Global Energy Corp,$0.05 ,TRUE,,'Date',,,,,,,,,
+871,GELYY,Geely Automobile Holdings Ltd,58.93000031,FALSE,2010,,11-Sep,25-Nov,5,5,5,5,11-Sep,25-Nov,19.05607414
+872,GELYF,Geely Automobile Holdings Ltd,2.950000048,FALSE,2009,,22-Sep,6-Dec,5,5,6,6,22-Sep,6-Dec,13.90671113
+873,JOB,GEE Group Inc,0.951799989,FALSE,2009,,2-Aug,16-Oct,6,6,5,5,2-Aug,16-Oct,5.115431009
+874,GPEDF,GEDI Gruppo Editoriale SpA,0.5,TRUE,2019,,,,,,,,,,
+875,GECFF,Gecina Nom,153,TRUE,2012,,,,,,,,,,
+876,GBERY,Geberit AG,61.5,TRUE,2012,,,,,,,,,,
+877,GBERF,Geberit AG,619.3045044,TRUE,2012,,,,,,,,,,
+878,GENGF,Gear Energy Ltd,0.170000002,TRUE,2014,,,,,,,,,,
+879,GEAGY,GEA Group AG,33.70500183,FALSE,2010,,16-Dec,1-Mar,6,6,4,4,16-Dec,1-Mar,3.200351173
+880,GEAGF,GEA Group AG,37.29999924,FALSE,2009,,6-Mar,20-May,8,8,3,3,29-Dec,14-Mar,4.351170142
+881,GDS,GDS Holdings Ltd,88.62999725,TRUE,2016,,,,,,,,,,
+882,GDL,GDL Fund,8.63560009,FALSE,2009,,12-Nov,26-Jan,9,9,2,2,13-Dec,26-Feb,1.883575728
+883,GDIFF,GDI Integrated Facility Services Inc,28.32559967,TRUE,2013,,,,,,,,,,
+884,GCP,GCP Applied Technologies Inc,24.0625,TRUE,2016,,,,,,,,,,
+885,GCLMF,GCM Resources PLC,0.119999997,FALSE,2009,,8-Mar,22-May,2,2,9,9,8-Mar,22-May,12.28768605
+886,GCPEF,GCL-Poly Energy Holdings Ltd,0.0669,TRUE,2012,,,,,,,,,,
+887,SMTLF,GCL New Energy Holdings Ltd,0.094099998,TRUE,2019,,,,,,,,,,
+888,GLIBB,GCI Liberty Inc,78.48999786,TRUE,2018,,,,,,,,,,
+889,GNCMB,GCI Liberty Inc,37.65000153,TRUE,2012,,,,,,,,,,
+890,LVNTB,GCI Liberty Inc,54.02000046,TRUE,2012,,,,,,,,,,
+891,GLIBA,GCI Liberty Inc,90.77999878,TRUE,2012,,,,,,,,,,
+892,GNCMA,GCI Liberty Inc,36.27999878,TRUE,2012,,,,,,,,,,
+893,GCIN,GC International Inc,0.100000001,TRUE,2012,,,,,,,,,,
+894,GTCH,GBT Technologies Inc,0.011,TRUE,2014,,,,,,,,,,
+895,GTDNF,GBST Holdings Ltd,$3.35 ,TRUE,,No data fetched for symbol GTDNF using YahooDailyReader,,,,,,,,,
+896,GBLTF,GBLT Corp,0.119499996,TRUE,2019,,,,,,,,,,
+897,GBLX,GB Sciences Inc,0.02881,FALSE,2009,,2-Feb,17-Apr,6,6,5,5,2-Feb,17-Apr,15.892705
+898,GBGPF,GB Group PLC,9.158499718,TRUE,2019,,,,,,,,,,
+899,GZPZF,Gaztransport et technigaz SA,94.84999847,TRUE,2014,,,,,,,,,,
+900,GZPMF,Gazprom PJSC,$5.73 ,TRUE,,No data fetched for symbol GZPMF using YahooDailyReader,,,,,,,,,
+901,OGZPY,Gazprom PJSC,4.849999905,FALSE,2009,,4-Sep,18-Nov,6,6,5,5,4-Sep,18-Nov,3.147366429
+902,GZPFY,Gazprom Neft PJSC,21,FALSE,2009,,25-Sep,9-Dec,4,4,7,7,25-Sep,9-Dec,4.920907268
+903,GZTGF,Gazit-Globe Ltd,5.269999981,TRUE,2011,,,,,,,,,,
+904,GMNTF,Gaumont,116.9509964,TRUE,2016,,,,,,,,,,
+905,VINO,Gaucho Group Holdings Inc,0.620000005,TRUE,2016,,,,,,,,,,
+906,GATX,GATX Corp,80.23999786,FALSE,2009,,21-Oct,4-Jan,9,9,2,2,20-Oct,3-Jan,5.916382508
+907,GTTCF,Gattaca PLC,$1.39 ,TRUE,,No data fetched for symbol GTTCF using YahooDailyReader,,,,,,,,,
+908,GATO,Gatos Silver Inc,6.494999886,TRUE,2020,,,,,,,,,,
+909,GATGF,Gatling Exploration Inc,0.207320005,TRUE,2018,,,,,,,,,,
+910,GWBK,Gateway Bank F S B Oakland Calif,0.349999994,TRUE,2019,,,,,,,,,,
+911,GTES,Gates Industrial Corp PLC,13.30000019,TRUE,2018,,,,,,,,,,
+912,GKPRF,Gatekeeper Systems Inc,0.529999971,TRUE,2015,,,,,,,,,,
+913,GGRUF,gategroup Holding AG,$53.24 ,TRUE,,No data fetched for symbol GGRUF using YahooDailyReader,,,,,,,,,
+914,GLOP,GasLog Partners LP,2.599999905,TRUE,2014,,,,,,,,,,
+915,GLOG,GasLog Ltd,3,TRUE,2012,,,,,,,,,,
+916,GASE,GASE Energy Inc,0.0036,TRUE,2014,,,,,,,,,,
+917,EGAS,Gas Natural Inc,$13.10 ,TRUE,,'Date',,,,,,,,,
+918,IT,Gartner Inc,154.9949951,FALSE,2009,,6-Apr,20-Jun,7,7,4,4,6-Apr,20-Jun,8.493025693
+919,GARS,Garrison Capital Inc,3.880000114,TRUE,2013,,,,,,,,,,
+920,GTXMQ,Garrett Motion Inc,4.289999962,TRUE,2020,,,,,,,,,,
+921,GGAC,Garnero Group Acquisition Co,$10.05 ,TRUE,,'Date',,,,,,,,,
+922,GRMN,Garmin Ltd,114.8550034,FALSE,2009,,9-Jul,22-Sep,8,8,3,3,23-Sep,7-Dec,5.951930082
+923,GGIFF,Garibaldi Resources Corp,0.359295011,FALSE,2010,,10-Aug,24-Oct,5,5,5,5,10-Aug,24-Oct,15.6417542
+924,GCCO,Garden City Co,1115,TRUE,2012,,,,,,,,,,
+925,GPS,Gap Inc,23.90999985,FALSE,2009,,16-Jan,31-Mar,7,7,4,4,16-Jan,31-Mar,-0.80603068
+926,GCI,Gannett Co Inc,2.50999999,TRUE,2014,,,,,,,,,,
+927,GNENF,Ganfeng Lithium Co Ltd,7.960000038,TRUE,2019,,,,,,,,,,
+928,GMMNF,GAN PLC,$2.85 ,TRUE,,No data fetched for symbol GMMNF using YahooDailyReader,,,,,,,,,
+929,GAN,GAN Ltd,17.20999908,TRUE,2020,,,,,,,,,,
+930,GMUAF,Gamuda Bhd,0.816999972,TRUE,2017,,,,,,,,,,
+931,GAMCF,Gamma Communications PLC,21.33679962,TRUE,2020,,,,,,,,,,
+932,PSDMF,Gaming Realms PLC,0.254999995,FALSE,2010,,18-May,1-Aug,4,4,6,6,18-May,1-Aug,-46.42891774
+933,GMNZF,Gaming Nation Inc,$0.72 ,TRUE,,No data fetched for symbol GMNZF using YahooDailyReader,,,,,,,,,
+934,GLPI,Gaming and Leisure Properties Inc,41.25,TRUE,2013,,,,,,,,,,
+935,GMDA,Gamida Cell Ltd,6.664999962,TRUE,2018,,,,,,,,,,
+936,JKPTF,Gamesys Group PLC,14.26000023,TRUE,2017,,,,,,,,,,
+937,GME,GameStop Corp,11.72999954,FALSE,2009,,27-Aug,10-Nov,4,3,7,8,27-Aug,10-Nov,9.581521826
+938,MCOLF,Gamesquare Esports Inc,$0.06 ,TRUE,,No data fetched for symbol MCOLF using YahooDailyReader,,,,,,,,,
+939,GMWKF,Games Workshop Group PLC,130.3000031,TRUE,2011,,,,,,,,,,
+940,GMNNF,Gamenet Group SpA,9.919659615,TRUE,2019,,,,,,,,,,
+941,GLOFY,Gameloft SE,$34.16 ,TRUE,,No data fetched for symbol GLOFY using YahooDailyReader,,,,,,,,,
+942,GLOFF,Gameloft SE,$8.95 ,TRUE,,'Date',,,,,,,,,
+943,GHIFF,Gamehost Inc,4.460000038,FALSE,2010,,20-Mar,3-Jun,6,6,4,4,20-Mar,3-Jun,3.94576048
+944,GPLA,Game Plan Inc,0.045000002,TRUE,2012,,,,,,,,,,
+945,GPLH,Game Plan Holdings Inc,$0.02 ,TRUE,,'Date',,,,,,,,,
+946,GNT,"GAMCO Natural Resources, Gold & Income Trust",5.034999847,TRUE,2011,,,,,,,,,,
+947,GBL,GAMCO Investors Inc,13.10000038,FALSE,2009,,26-Sep,10-Dec,4,4,7,7,21-Oct,4-Jan,4.850363825
+948,GGN,GAMCO Global Gold Natural Resources & Income Trust,3.484999895,FALSE,2009,,6-Dec,19-Feb,7,7,4,4,14-Jan,29-Mar,-0.504396503
+949,CDNMF,Gambier Gold Corp,0.159999996,TRUE,2013,,,,,,,,,,
+950,GMHLY,GAM Holding AG,0.340000004,FALSE,2009,,16-Feb,1-May,7,7,4,4,16-Feb,1-May,-0.649528897
+951,GMHLF,GAM Holding AG,2.019999981,FALSE,2010,,23-Feb,8-May,6,6,4,4,23-Dec,8-Mar,7.942539831
+952,GAYMF,Galway Metals Inc,0.945599973,TRUE,2013,,,,,,,,,,
+953,GAYGF,Galway Gold Inc,0.100000001,TRUE,2013,,,,,,,,,,
+954,GLPEY,Galp Energia SGPS SA,5.230000019,TRUE,2012,,,,,,,,,,
+955,GLPEF,Galp Energia SGPS SA,10.67940044,FALSE,2009,,14-Mar,28-May,6,6,5,5,14-Mar,28-May,2.826088423
+956,GLMD,Galmed Pharmaceuticals Ltd,3.75,TRUE,2014,,,,,,,,,,
+957,GALLF,Galliford Try Holdings PLC,$8.55 ,TRUE,,No data fetched for symbol GALLF using YahooDailyReader,,,,,,,,,
+958,PNCKF,Galleon Gold Corp,0.082999997,FALSE,2009,,1-Mar,15-May,5,5,6,6,1-Mar,15-May,20.7555134
+959,GLVNF,Gallant Venture Ltd,0.079999998,TRUE,2012,,,,,,,,,,
+960,CYBXF,Gallagher Security Corp,0.088500001,TRUE,2017,,,,,,,,,,
+961,PLORF,Galileo Petroleum Ltd,$0.03 ,TRUE,,'Date',,,,,,,,,
+962,GLEO,Galileo Acquisition Corp,9.87899971,TRUE,2019,,,,,,,,,,
+963,GAU,Galiano Gold Inc,1.129999995,FALSE,2009,,31-May,14-Aug,5,5,6,6,31-May,14-Aug,3.92420328
+964,GRTX,Galera Therapeutics Inc,10.92000008,TRUE,2019,,,,,,,,,,
+965,GLFH,Galenfeha Inc,0.011,TRUE,2014,,,,,,,,,,
+966,GLTO,Galecto Inc,16.5,TRUE,2020,,,,,,,,,,
+967,GALT,Galectin Therapeutics Inc,2.694999933,FALSE,2009,,4-Jan,19-Mar,8,8,3,3,4-Jan,19-Mar,16.87878458
+968,GALXF,Galaxy Resources Ltd,1.320000052,FALSE,2010,,31-Oct,14-Jan,3,3,7,7,31-Oct,14-Jan,8.92243936
+969,GAXY,Galaxy Next Generation Inc,0.0093,TRUE,2012,,,,,,,,,,
+970,GLXZ,Galaxy Gaming Inc,1.169999957,FALSE,2010,,22-Mar,5-Jun,4,4,6,6,22-Mar,5-Jun,18.40675635
+971,GXYYY,Galaxy Entertainment Group Ltd,40.20000076,TRUE,2018,,,,,,,,,,
+972,GXYEY,Galaxy Entertainment Group Ltd,$26.30 ,TRUE,,'Date',,,,,,,,,
+973,GXYEF,Galaxy Entertainment Group Ltd,7.989999771,FALSE,2010,,2-Oct,16-Dec,8,8,2,2,2-Oct,16-Dec,14.12344902
+974,BRPHF,Galaxy Digital Holdings Ltd,4.710000038,FALSE,2009,,2-Nov,16-Jan,2,2,8,8,2-Nov,16-Jan,8.426517665
+975,GLPGF,Galapagos NV,124,FALSE,2009,,27-May,10-Aug,7,7,4,4,27-May,10-Aug,10.42306797
+976,GLPG,Galapagos NV,124.7900009,TRUE,2012,,,,,,,,,,
+977,GALKF,Galantas Gold Corp,0.194999993,FALSE,2009,,6-Mar,20-May,5,5,6,6,6-Mar,20-May,11.27120438
+978,GGGOF,Galane Gold Ltd,0.1664,TRUE,2013,,,,,,,,,,
+979,GANS,Gainsco Inc,103.9499969,FALSE,2009,,17-Apr,1-Jul,5,5,6,6,17-Apr,1-Jul,13.56193099
+980,GNYPF,Gainey Capital Corp,0.02324,TRUE,2014,,,,,,,,,,
+981,GCLT,GainClients Inc,0.01,FALSE,2009,,4-Aug,18-Oct,3,3,8,8,4-Aug,18-Oct,5.477898657
+982,GCTY,Gain Cities Ltd,450,TRUE,2016,,,,,,,,,,
+983,GCAP,GAIN Capital Holdings Inc,0.0085,FALSE,2010,,27-Aug,10-Nov,6,6,4,4,23-Aug,6-Nov,7.862146085
+984,GAILF,GAIL (India) Ltd,6.630000114,TRUE,2014,,,,,,,,,,
+985,RGDCF,Gaia Metals Corp,0.075839996,TRUE,2013,,,,,,,,,,
+986,GAIA,Gaia Inc,11.28079987,FALSE,2009,,8-Mar,22-May,5,5,6,6,8-Mar,22-May,10.33879417
+987,GGFHF,Gagfah SA,$18.00 ,TRUE,,No data fetched for symbol GGFHF using YahooDailyReader,,,,,,,,,
+988,GFSAY,Gafisa SA,$248.21 ,TRUE,,No data fetched for symbol GFSAY using YahooDailyReader,,,,,,,,,
+989,GFFSF,Gafisa SA,$1.47 ,TRUE,,No data fetched for symbol GFFSF using YahooDailyReader,,,,,,,,,
+990,GFASY,Gafisa SA,1.639999986,TRUE,2018,,,,,,,,,,
+991,GEGR,Gaensel Energy Group Inc,0.839999974,TRUE,2012,,,,,,,,,,
+992,GADS,Gadsden Properties Inc,0.050159998,TRUE,2019,,,,,,,,,,
+993,FCRE,Gadsden Properties Inc,$0.10 ,TRUE,,No data fetched for symbol FCRE using YahooDailyReader,,,,,,,,,
+994,GABLF,Gaby Inc,0.058600001,TRUE,2018,,,,,,,,,,
+995,GBRRF,Gabriel Resources Ltd,0.200100005,FALSE,2009,,23-Jun,6-Sep,5,5,6,6,23-Jun,6-Sep,11.63617379
+996,GUT,Gabelli Utility Trust,7.630000114,FALSE,2009,,31-Aug,14-Nov,7,7,4,4,17-Sep,1-Dec,2.923739822
+997,GGT,Gabelli Multimedia Trust Inc,7.255000114,FALSE,2009,,30-Oct,13-Jan,7,7,4,4,1-Jul,14-Sep,2.9795075
+998,GRX,Gabelli Healthcare & WellnessRx Trust,11.33769989,FALSE,2009,,4-May,18-Jul,8,8,3,3,8-May,22-Jul,2.877220425
+999,GLU,Gabelli Global Utility & Income Trust,17.61000061,FALSE,2009,,12-Nov,26-Jan,8,5,3,6,20-May,3-Aug,2.803513758
+1000,GAB,Gabelli Equity Trust Inc,6.005000114,FALSE,2009,,29-Oct,12-Jan,10,10,1,1,31-Dec,16-Mar,4.884911839
+1001,GDV,Gabelli Dividend & Income Trust,20.54999924,FALSE,2009,,14-May,28-Jul,6,6,5,5,11-Dec,24-Feb,4.038300607
+1002,GCV,GABELLI CONVERTIBLE & INCOME SECURITIES FUND INC,5.760000229,FALSE,2009,,12-Nov,26-Jan,9,8,2,3,16-Dec,1-Mar,4.734182808
+1003,GPHBF,G6 Materials Corp,0.058600001,TRUE,2014,,,,,,,,,,
+1004,GENTF,G5 Entertainment AB,47.54999924,TRUE,2019,,,,,,,,,,
+1005,GFSZY,G4S PLC,14.66749954,FALSE,2010,,28-Mar,11-Jun,6,6,4,4,9-Nov,23-Jan,3.655855127
+1006,GFSZF,G4S PLC,2.859999895,FALSE,2009,,29-Mar,12-Jun,5,5,6,6,29-Mar,12-Jun,7.662759105
+1007,GRDGF,G3 Exploration Ltd,$0.85 ,TRUE,,No data fetched for symbol GRDGF using YahooDailyReader,,,,,,,,,
+1008,GTGEF,G2 Technologies Corp,0.0064,TRUE,2018,,,,,,,,,,
+1009,GUYGF,G2 Goldfields Inc,0.370000005,TRUE,2020,,,,,,,,,,
+1010,GTHX,G1 Therapeutics Inc,12.73999977,TRUE,2017,,,,,,,,,,
+1011,WILC,G. Willi-Food International Ltd,19.65500069,FALSE,2009,,5-Nov,19-Jan,7,7,4,4,5-Nov,19-Jan,9.063992364
+1012,GGPXF,G-Resources Group Ltd,0.005,TRUE,2012,,,,,,,,,,
+1013,GIII,G-III Apparel Group Ltd,20.10000038,FALSE,2009,,9-Feb,24-Apr,8,8,3,3,9-Feb,24-Apr,4.909410044
+1014,GMMVF,G Medical Innovations Holdings Ltd,0.758000016,TRUE,2018,,,,,,,,,,
+1015,GK,G & K Services Inc,$97.49 ,TRUE,,'Date',,,,,,,,,

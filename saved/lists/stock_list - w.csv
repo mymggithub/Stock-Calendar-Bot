@@ -1,0 +1,492 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,WYNYF,Wynyard Group Ltd,$1.69 ,True,,No data fetched for symbol WYNYF using YahooDailyReader,,,,,,,,,
+1,WYNN,Wynn Resorts Ltd,95.29000091552734,False,2009.0,,12-10,02-23,9.0,9.0,2.0,2.0,12-10,02-23,9.295636870070734
+2,WYNMY,Wynn Macau Ltd,17.510000228881836,False,2010.0,,10-04,12-18,7.0,7.0,3.0,3.0,10-04,12-18,6.322371461712189
+3,WYNMF,Wynn Macau Ltd,1.75,False,2010.0,,03-27,06-10,7.0,7.0,3.0,3.0,02-05,04-20,7.744139650237748
+4,WH,Wyndham Hotels & Resorts Inc,54.70000076293945,True,2018.0,,,,,,,,,,
+5,WYND,Wyndham Destinations Inc,41.959999084472656,False,2009.0,,10-28,01-11,9.0,9.0,2.0,2.0,10-28,01-11,9.1959881512211
+6,WW,WW International Inc,27.440000534057617,False,2009.0,,09-06,11-20,4.0,4.0,7.0,7.0,09-06,11-20,10.826057292376952
+7,WVFC,WVS Financial Corp,15.380000114440918,False,2009.0,,10-29,01-12,5.0,5.0,6.0,6.0,03-29,06-12,-0.45457756418117
+8,WUYIF,Wuyi International Pharmaceutical Co Ltd,$0.04 ,True,,No data fetched for symbol WUYIF using YahooDailyReader,,,,,,,,,
+9,WX,WuXi PharmaTech (Cayman) Inc,$45.90 ,True,,'Date',,,,,,,,,
+10,WXIBF,WuXi Biologics (Cayman) Inc,34.25,True,2018.0,,,,,,,,,,
+11,WXXWY,WuXi Biologics (Cayman) Inc,130.0800018310547,True,2017.0,,,,,,,,,,
+12,WUXIF,Wuxi AppTec Co Ltd,14.100000381469727,True,2020.0,,,,,,,,,,
+13,WUMSY,Wumart Stores Inc,$7.61 ,True,,No data fetched for symbol WUMSY using YahooDailyReader,,,,,,,,,
+14,WUMSF,Wumart Stores Inc,0.005499999970197678,True,2012.0,,,,,,,,,,
+15,WBWB,WU BA Superior Products Holding Group Inc,0.13304999470710754,True,2011.0,,,,,,,,,,
+16,WTBFB,WTB Financial A,309.0,False,2009.0,,11-25,02-08,9.0,9.0,2.0,2.0,11-25,02-08,6.4360217171153895
+17,WTBFA,WTB Financial A,385.0,True,2012.0,,,,,,,,,,
+18,WSPOF,WSP Global Inc,72.31310272216797,True,2013.0,,,,,,,,,,
+19,WSCI,WSI Industries Inc,6.989999771118164,True,2012.0,,,,,,,,,,
+20,WSFS,WSFS Financial Corp,38.72999954223633,False,2009.0,,09-08,11-22,6.0,6.0,5.0,5.0,09-08,11-22,8.313069867822907
+21,WRIT,WRIT Media Group Inc,0.005100000184029341,False,2009.0,,02-22,05-07,4.0,4.0,7.0,7.0,02-22,05-07,-34.187508029332626
+22,WMGI,Wright Medical Group NV,29.979999542236328,True,2011.0,,,,,,,,,,
+23,IWSH,Wright Investors' Service Holdings Inc,0.2199999988079071,True,2020.0,,,,,,,,,,
+24,WRTC,Wrap Technologies Inc,6.0,True,2018.0,,,,,,,,,,
+25,WRB,WR Berkley Corp,65.4800033569336,False,2009.0,,05-04,07-18,7.0,7.0,4.0,4.0,04-07,06-21,2.9669498939787458
+26,WQNI,WQN Inc,0.006000000052154064,True,2012.0,,,,,,,,,,
+27,WPX,WPX Energy Inc,6.739999771118164,True,2011.0,,,,,,,,,,
+28,WPTIF,WPT Industrial Real Estate Investment Trust,13.489999771118164,True,2015.0,,,,,,,,,,
+29,WPPGF,WPP PLC,9.8100004196167,True,2012.0,,,,,,,,,,
+30,WPP,WPP PLC,48.52000045776367,False,2009.0,,10-27,01-10,6.0,6.0,5.0,5.0,11-12,01-26,6.471890438376409
+31,WPDPF,WPD Pharmaceuticals Inc,0.19009999930858612,True,2020.0,,,,,,,,,,
+32,BWOWF,Wowjoint Holdings Ltd,0.008100000210106373,False,2009.0,,10-06,12-20,7.0,7.0,4.0,4.0,10-06,12-20,13.4750160173881
+33,WOWU,WOWI Inc,1.0,True,2012.0,,,,,,,,,,
+34,WOWMF,Wow Unlimited Media Inc,0.2802000045776367,True,2013.0,,,,,,,,,,
+35,WFEMF,Woulfe Mining Corp,$0.05 ,True,,No data fetched for symbol WFEMF using YahooDailyReader,,,,,,,,,
+36,WOR,Worthington Industries Inc,51.439998626708984,False,2009.0,,05-13,07-27,7.0,7.0,4.0,4.0,05-12,07-26,8.675883099959444
+37,TEAH,Worry Free Tea House Holdings Co,0.029999999329447746,False,2009.0,,05-14,07-28,4.0,4.0,7.0,7.0,05-14,07-28,2.540852856688165
+38,WYCC,Worry Free Holdings Co,7.0,True,2013.0,,,,,,,,,,
+39,WYGPY,Worley Ltd,8.899999618530273,False,2010.0,,01-27,04-11,7.0,7.0,3.0,3.0,01-27,04-11,3.4254059261252365
+40,WYGPF,Worley Ltd,8.020000457763672,False,2010.0,,12-23,03-08,7.0,7.0,3.0,3.0,06-10,08-24,5.4093726521809335
+41,WWSG,Worldwide Strategies Inc,0.029249999672174454,True,2012.0,,,,,,,,,,
+42,ECNRF,Worldwide Resources Corp,0.02377999946475029,True,2012.0,,,,,,,,,,
+43,WVVEF,WorldVest Equity Inc,$0.01 ,True,,No data fetched for symbol WVVEF using YahooDailyReader,,,,,,,,,
+44,WDDD,Worlds Inc,0.27000001072883606,False,2009.0,,12-16,03-01,9.0,9.0,2.0,2.0,12-16,03-01,22.646610545511237
+45,WP,Worldpay Inc,$135.00 ,True,,No data fetched for symbol WP using YahooDailyReader,,,,,,,,,
+46,WPYGY,Worldpay Group PLC,$18.36 ,True,,No data fetched for symbol WPYGY using YahooDailyReader,,,,,,,,,
+47,WDDYF,Worldpay Group PLC,$5.85 ,True,,No data fetched for symbol WDDYF using YahooDailyReader,,,,,,,,,
+48,WWLNF,Worldline SA,88.47149658203125,True,2016.0,,,,,,,,,,
+49,WRDLY,Worldline SA,45.09000015258789,True,2017.0,,,,,,,,,,
+50,WWE,World Wrestling Entertainment Inc,40.970001220703125,False,2009.0,,06-12,08-26,8.0,7.0,3.0,4.0,11-20,02-03,9.575535661410935
+51,WWRL,World Wireless Communications Inc,0.00989999994635582,True,2012.0,,,,,,,,,,
+52,WSGF,World Series of Golf Inc,0.008899999782443047,False,2009.0,,03-31,06-14,6.0,6.0,5.0,5.0,03-31,06-14,-16.51277324570684
+53,WRGP,World Racing Group Inc,$0.10 ,True,,No data fetched for symbol WRGP using YahooDailyReader,,,,,,,,,
+54,WPKS,World Poker Store Inc,0.02199999988079071,False,2010.0,,06-07,08-21,1.0,1.0,9.0,9.0,06-07,08-21,25.99094546757703
+55,WPFH,World Poker Fund Holdings Inc,0.05000000074505806,False,2009.0,,01-13,03-28,4.0,4.0,7.0,7.0,01-13,03-28,-14.708712727804086
+56,WPT,World Point Terminals LP,$17.29 ,True,,'Date',,,,,,,,,
+57,WWII,World Of Wireless International Telecom Inc,0.006750000175088644,False,2009.0,,03-19,06-02,6.0,6.0,5.0,5.0,03-19,06-02,19.775016799016356
+58,WMHI,World Mobile Holdings Inc,0.017999999225139618,True,2012.0,,,,,,,,,,
+59,WHWRF,World Houseware holdings,0.029999999329447746,False,2009.0,,09-16,11-30,1.0,1.0,10.0,10.0,09-16,11-30,14.299835761030893
+60,WRHLF,World High Life PLC,0.013500000350177288,True,2020.0,,,,,,,,,,
+61,INT,World Fuel Services Corp,28.260000228881836,False,2009.0,,10-14,12-28,6.0,6.0,5.0,5.0,10-14,12-28,6.958433182681423
+62,WFHG,World Financial Holding Group,10.0,False,2009.0,,12-12,02-25,4.0,4.0,7.0,7.0,12-12,02-25,0.4390831853681879
+63,WDFPF,World Duty Free SpA,$11.53 ,True,,No data fetched for symbol WDFPF using YahooDailyReader,,,,,,,,,
+64,WCEXF,World Class Extractions Inc,0.015250000171363354,True,2012.0,,,,,,,,,,
+65,WRLD,World Acceptance Corp,109.76000213623047,False,2009.0,,04-02,06-16,7.0,7.0,4.0,4.0,04-02,06-16,10.844679702814608
+66,WKSP,Worksport Ltd,0.12999999523162842,False,2009.0,,02-06,04-21,4.0,4.0,7.0,7.0,02-06,04-21,15.221033798760402
+67,WKPPF,Workspace Group PLC,8.329999923706055,True,2020.0,,,,,,,,,,
+68,WK,Workiva Inc,72.11000061035156,True,2014.0,,,,,,,,,,
+69,WKHS,Workhorse Group Inc,25.780000686645508,False,2010.0,,07-01,09-14,3.0,3.0,7.0,7.0,07-01,09-14,5.0339168116601885
+70,WDAY,Workday Inc,209.39999389648438,True,2012.0,,,,,,,,,,
+71,WF,Woori Financial Group Inc,27.09000015258789,False,2009.0,,05-23,08-06,5.0,5.0,6.0,6.0,05-23,08-06,3.804862811803445
+73,OZAMY,Woomera Mining Ltd,$0.17 ,True,,No data fetched for symbol OZAMY using YahooDailyReader,,,,,,,,,
+74,WLWHY,Woolworths Holdings Ltd,2.4100000858306885,True,2012.0,,,,,,,,,,
+75,WLWHF,Woolworths Holdings Ltd,2.0899999141693115,True,2017.0,,,,,,,,,,
+76,WOLWF,Woolworths Group Ltd,27.950000762939453,False,2010.0,,12-14,02-27,6.0,6.0,4.0,4.0,12-14,02-27,5.658666621419918
+77,WWD,Woodward Inc,108.63999938964844,False,2009.0,,10-30,01-13,6.0,6.0,5.0,5.0,10-30,01-13,11.089646878586812
+78,WSFL,Woodstock Holdings Inc,0.050999999046325684,False,2010.0,,02-20,05-05,2.0,2.0,8.0,8.0,02-20,05-05,22.12222872641725
+79,WOPEY,Woodside Petroleum Ltd,15.970000267028809,False,2009.0,,02-10,04-25,6.0,4.0,5.0,7.0,02-11,04-26,1.7617784415008881
+80,WOPEF,Woodside Petroleum Ltd,14.9399995803833,False,2010.0,,12-16,03-01,6.0,4.0,4.0,6.0,12-12,02-25,3.0371740118694577
+81,WDFN,Woodlands Financial Services Co,25.850000381469727,False,2009.0,,07-12,09-25,7.0,6.0,4.0,5.0,09-22,12-06,7.784227540840994
+82,WDBG,Woodbrook Group Holdings Inc,0.4000000059604645,False,2009.0,,07-16,09-29,3.0,3.0,8.0,8.0,07-16,09-29,-35.40531803748919
+83,WBQNL,Woodbridge Liquidation Trust,14.0,True,2020.0,,,,,,,,,,
+84,WDGJY,Wood Group (John) PLC,5.670000076293945,True,2018.0,,,,,,,,,,
+85,WDGJF,Wood Group (John) PLC,3.559999942779541,False,2010.0,,02-13,04-28,8.0,8.0,2.0,2.0,12-28,03-13,4.7303099051322075
+86,WHHT,Wonhe High-Tech International Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+87,WKKHF,Wong's Kong King International (Holdings) Ltd,$0.08 ,True,,No data fetched for symbol WKKHF using YahooDailyReader,,,,,,,,,
+88,WNGFF,Wong's International Holdings Ltd,$0.32 ,True,,No data fetched for symbol WNGFF using YahooDailyReader,,,,,,,,,
+89,WIEI,Wonder International Education & Investment Group,$0.04 ,True,,No data fetched for symbol WIEI using YahooDailyReader,,,,,,,,,
+90,WWW,Wolverine World Wide Inc,28.600000381469727,False,2009.0,,07-08,09-21,8.0,8.0,3.0,3.0,07-08,09-21,3.9593876307058613
+91,WEIIF,Wolverine Energy and Infrastructure Inc,0.33237001299858093,True,2019.0,,,,,,,,,,
+92,WBKC,Wolverine Bancorp Inc,$43.50 ,True,,'Date',,,,,,,,,
+93,WTKWY,Wolters Kluwer NV,85.81999969482422,False,2009.0,,02-28,05-13,7.0,7.0,4.0,4.0,05-26,08-09,4.9110560442070135
+94,WOLTF,Wolters Kluwer NV,82.24939727783203,False,2010.0,,07-15,09-28,8.0,8.0,2.0,2.0,12-19,03-04,4.721083813903518
+95,WLFDY,Wolford AG,1.4299999475479126,True,2012.0,,,,,,,,,,
+96,WLFDF,Wolford AG,$29.68 ,True,,'Date',,,,,,,,,
+97,WLFFF,Wolfden Resources Corp,0.14993999898433685,True,2017.0,,,,,,,,,,
+98,WFMRF,Wolf Minerals Ltd,$6.00 ,True,,No data fetched for symbol WFMRF using YahooDailyReader,,,,,,,,,
+99,WNS,WNS (Holdings) Ltd,68.0199966430664,False,2009.0,,06-24,09-07,6.0,6.0,5.0,5.0,06-24,09-07,10.926562518427767
+100,WMFWF,WMF AG,$74.22 ,True,,No data fetched for symbol WMFWF using YahooDailyReader,,,,,,,,,
+101,WHLX,WLMG Holding Inc,0.05000000074505806,True,2012.0,,,,,,,,,,
+102,WZZZY,Wizz Air Holdings PLC,15.649999618530273,True,2017.0,,,,,,,,,,
+103,WZZAF,Wizz Air Holdings PLC,58.474998474121094,True,2017.0,,,,,,,,,,
+104,WIZP,Wize Pharma Inc,0.1599999964237213,True,2012.0,,,,,,,,,,
+105,WIZD,Wizard Entertainment Inc,0.9900000095367432,True,2013.0,,,,,,,,,,
+106,WIX,Wix.com Ltd,256.6700134277344,True,2013.0,,,,,,,,,,
+107,WIGBY,WiseTech Global Ltd,13.319999694824219,True,2019.0,,,,,,,,,,
+108,WTCHF,WiseTech Global Ltd,18.90999984741211,True,2017.0,,,,,,,,,,
+109,WISM,Wiseman Global Ltd,4.5,True,2019.0,,,,,,,,,,
+110,WKEY,WISeKey International Holding Ltd,5.949999809265137,True,2019.0,,,,,,,,,,
+111,WSKEF,WISeKey International Holding Ltd,1.899999976158142,True,2017.0,,,,,,,,,,
+112,WETF,WisdomTree Investments Inc,4.239999771118164,False,2009.0,,10-14,12-28,6.0,6.0,5.0,5.0,10-14,12-28,10.403541023485202
+113,WIRX,Wireless Xcessories Group Inc,0.009999999776482582,False,2009.0,,02-19,05-04,4.0,4.0,7.0,7.0,02-19,05-04,5.7082869681986175
+114,WTT,Wireless Telecom Group Inc,1.5299999713897705,False,2009.0,,10-22,01-05,6.0,6.0,5.0,5.0,10-22,01-05,11.497085661434305
+115,WDSL,Wireless Data Solutions Inc,0.1469999998807907,True,2012.0,,,,,,,,,,
+116,WRCDF,Wirecard AG,0.7200000286102295,True,2012.0,,,,,,,,,,
+117,WCAGY,Wirecard AG,0.3440000116825104,True,2015.0,,,,,,,,,,
+118,WIT,Wipro Ltd,5.059999942779541,False,2009.0,,08-22,11-05,8.0,8.0,3.0,3.0,08-22,11-05,5.104293089925543
+119,WTFC,Wintrust Financial Corp,54.7599983215332,False,2009.0,,10-27,01-10,9.0,7.0,2.0,4.0,10-27,01-10,4.560872310730993
+120,FUR,Winthrop Realty Trust Inc,$9.33 ,True,,'Date',,,,,,,,,
+121,WSPS,Winter Sports Inc,"$30,000.00 ",True,,No data fetched for symbol WSPS using YahooDailyReader,,,,,,,,,
+122,WISRF,Winston Resources Inc,$0.55 ,True,,No data fetched for symbol WISRF using YahooDailyReader,,,,,,,,,
+123,WPHM,Winston Pharmaceuticals Inc,0.07999999821186066,False,2009.0,,05-29,08-12,1.0,1.0,10.0,10.0,05-29,08-12,26.826923038298602
+124,WGMCF,Winston Gold Corp,0.12229999899864197,True,2016.0,,,,,,,,,,
+125,HELOF,Winshear Gold Corp,0.06261000037193298,True,2012.0,,,,,,,,,,
+126,WINSF,Wins Finance Holdings Inc,4.329999923706055,True,2020.0,,,,,,,,,,
+127,WIPKF,Winpak Ltd,32.33000183105469,True,2012.0,,,,,,,,,,
+128,WGO,Winnebago Industries Inc,50.2400016784668,False,2009.0,,04-19,07-03,7.0,7.0,4.0,4.0,04-19,07-03,6.661422741669627
+129,WNMLA,Winmill & Co Inc,0.699999988079071,False,2009.0,,03-18,06-01,4.0,4.0,7.0,7.0,03-18,06-01,2.6444463919563983
+130,WINA,Winmark Corp,178.39999389648438,False,2009.0,,06-01,08-15,6.0,5.0,5.0,6.0,06-01,08-15,9.118091224177997
+131,WELX,Winland Holdings Corp,1.850000023841858,False,2009.0,,10-24,01-07,4.0,4.0,7.0,7.0,10-24,01-07,8.974760715068781
+132,WINH,Winha International Group Ltd,0.20000000298023224,True,2014.0,,,,,,,,,,
+133,WING,Wingstop Inc,129.0,True,2015.0,,,,,,,,,,
+134,WTHEF,Wing Tai Holdings Ltd,$1.44 ,True,,No data fetched for symbol WTHEF using YahooDailyReader,,,,,,,,,
+135,WONCF,Wing On Co International Ltd,$2.95 ,True,,No data fetched for symbol WONCF using YahooDailyReader,,,,,,,,,
+136,WINT,Windtree Therapeutics Inc,6.539999961853027,False,2009.0,,01-31,04-15,4.0,4.0,7.0,7.0,01-31,04-15,1.6644943372663814
+137,WINMQ,Windstream Holdings Inc,0.07900000363588333,False,2009.0,,07-13,09-26,4.0,4.0,7.0,7.0,07-13,09-26,1.1804756322945869
+138,WRLC,Windrock LD Co,318.0,True,2020.0,,,,,,,,,,
+139,WGEI,WindGen Energy Inc,0.005499999970197678,True,2012.0,,,,,,,,,,
+140,WINKF,Windfall Geotek Inc,0.05000000074505806,True,2020.0,,,,,,,,,,
+141,WWPW,Wind Works Power Corp.,0.00800000037997961,False,2009.0,,04-07,06-21,3.0,3.0,8.0,8.0,04-07,06-21,-3.272109690654169
+142,WMGEF,Winchester Minerals & Gold Exploration Ltd,0.03999999910593033,True,2020.0,,,,,,,,,,
+143,WNCH,Winchester International Resorts Inc,$0.01 ,True,,No data fetched for symbol WNCH using YahooDailyReader,,,,,,,,,
+144,WCHS,Winchester Holding Group,3.0,True,2013.0,,,,,,,,,,
+145,WCHEF,Winchester Energy Ltd,0.029999999329447746,True,2019.0,,,,,,,,,,
+146,WNCNF,Wincanton PLC,$3.33 ,True,,No data fetched for symbol WNCNF using YahooDailyReader,,,,,,,,,
+147,WBEMF,Winbond Electronics Corp,$2.15 ,True,,'Date',,,,,,,,,
+148,WIMI,WiMi Hologram Cloud Inc,6.320000171661377,True,2020.0,,,,,,,,,,
+149,WMXCF,Wiluna Mining Corp Ltd,1.25,True,2020.0,,,,,,,,,,
+150,WLTNF,Wilton Resources Inc,0.27320000529289246,True,2016.0,,,,,,,,,,
+151,WCRE,Wilson Creek Mining Corp,$1.01 ,True,,No data fetched for symbol WCRE using YahooDailyReader,,,,,,,,,
+152,WBYLF,Wilson Bayly Holmes-Ovcon Ltd,$12.50 ,True,,No data fetched for symbol WBYLF using YahooDailyReader,,,,,,,,,
+153,WBHC,Wilson Bank Holding Co,24.65999984741211,True,2016.0,,,,,,,,,,
+154,WLSE,Wilshire Enterprises Inc,$3.35 ,True,,'Date',,,,,,,,,
+155,WIBC,Wilshire Bancorp Inc,$10.74 ,True,,'Date',,,,,,,,,
+156,WMGTF,Wilmington PLC,1.2868200540542603,True,2017.0,,,,,,,,,,
+157,WLMIY,Wilmar International Ltd,32.630001068115234,False,2010.0,,08-22,11-05,7.0,7.0,3.0,3.0,08-22,11-05,3.898175916694644
+158,WLMIF,Wilmar International Ltd,3.1700000762939453,False,2010.0,,09-24,12-08,5.0,5.0,5.0,5.0,09-24,12-08,3.1887513956806286
+159,WSC,WillScot Mobile Mini Holdings Corp,21.450000762939453,True,2015.0,,,,,,,,,,
+160,CANSF,Willow Biosciences Inc,0.43459999561309814,True,2012.0,,,,,,,,,,
+161,WHCA,Williston Holding Co,0.3499999940395355,True,2013.0,,,,,,,,,,
+162,WLTW,Willis Towers Watson PLC,199.39999389648438,False,2009.0,,04-05,06-19,7.0,7.0,4.0,4.0,04-05,06-19,5.469815651247448
+163,WLFC,Willis Lease Finance Corp,28.6299991607666,False,2009.0,,09-20,12-04,7.0,7.0,4.0,4.0,09-20,12-04,11.743908616063099
+164,WSM,Williams-Sonoma Inc,107.70999908447266,False,2009.0,,03-22,06-05,6.0,6.0,5.0,5.0,01-30,04-14,9.249691501311188
+165,WPZ,Williams Partners LP,47.369998931884766,True,2012.0,,,,,,,,,,
+166,WMSI,Williams Industries Inc,2.25,False,2009.0,,07-09,09-22,5.0,5.0,6.0,6.0,07-09,09-22,5.846028749867233
+167,WLMS,Williams Industrial Services Group Inc,1.7549999952316284,True,2018.0,,,,,,,,,,
+168,WMGPF,Williams Grand Prix Holdings PLC,26.200000762939453,True,2017.0,,,,,,,,,,
+169,WPRXF,Williams Grand Prix Holdings PLC,$19.50 ,True,,No data fetched for symbol WPRXF using YahooDailyReader,,,,,,,,,
+170,WMB,Williams Companies Inc,20.34000015258789,False,2009.0,,03-07,05-21,7.0,7.0,4.0,4.0,03-07,05-21,7.374975209990205
+171,WMCB,Williamette Community Bank,8.930000305175781,False,2009.0,,02-24,05-09,4.0,4.0,7.0,7.0,02-24,05-09,1.4458946922909093
+172,WMPN,William Penn Bancorp Inc,34.5,False,2009.0,,11-13,01-27,7.0,7.0,4.0,4.0,11-13,01-27,6.650482199511626
+173,WLH,William Lyon Homes,$24.37 ,True,,No data fetched for symbol WLH using YahooDailyReader,,,,,,,,,
+174,WIMHY,William Hill PLC,14.199999809265137,True,2014.0,,,,,,,,,,
+175,WIMHF,William Hill PLC,3.5399999618530273,False,2010.0,,08-24,11-07,6.0,6.0,4.0,4.0,11-30,02-13,5.5066258426778445
+176,SADL,William H Sadlier Inc,25.0,False,2009.0,,04-14,06-28,6.0,6.0,5.0,5.0,10-24,01-07,5.034916517403187
+177,WLDN,Willdan Group Inc,37.279998779296875,False,2009.0,,08-06,10-20,7.0,7.0,4.0,4.0,08-06,10-20,16.013815709722387
+178,WGRP,Willbros Group Inc,0.5910000205039978,True,2012.0,,,,,,,,,,
+179,WVVI,Willamette Valley Vineyards Inc,6.570000171661377,False,2009.0,,03-14,05-28,6.0,6.0,5.0,5.0,03-14,05-28,7.416912624332478
+180,WHLM,Wilhelmina International Inc,3.5799999237060547,False,2009.0,,05-15,07-29,4.0,4.0,7.0,7.0,05-15,07-29,8.237281169826183
+181,WLLSF,Wilh. Wilhelmsen Holding ASA,15.949999809265137,True,2017.0,,,,,,,,,,
+182,WLHSF,Wilh. Wilhelmsen Holding ASA,$21.25 ,True,,No data fetched for symbol WLHSF using YahooDailyReader,,,,,,,,,
+183,WLXMF,Wilex AG,$1.08 ,True,,No data fetched for symbol WLXMF using YahooDailyReader,,,,,,,,,
+184,HWTHF,Wildsky Resources Inc,0.14000000059604645,False,2010.0,,11-10,01-24,5.0,5.0,5.0,5.0,11-10,01-24,-54.01586808424931
+185,WRD,WildHorse Resource Development Corp,16.969999313354492,True,2016.0,,,,,,,,,,
+186,WLDFF,Wildflower Brands Inc,0.12099999934434891,True,2017.0,,,,,,,,,,
+187,WDCTF,Wildcat resources Ltd,$0.12 ,True,,No data fetched for symbol WDCTF using YahooDailyReader,,,,,,,,,
+188,DMQHF,WildBrain Ltd,$2.63 ,True,,No data fetched for symbol DMQHF using YahooDailyReader,,,,,,,,,
+189,WLDBF,WildBrain Ltd,1.3672000169754028,True,2012.0,,,,,,,,,,
+190,WBRE,Wild Brush Energy Inc,0.008999999612569809,True,2012.0,,,,,,,,,,
+191,WSFT,Wikisoft Corp,2.25,True,2012.0,,,,,,,,,,
+192,WIHLY,Wihlborgs Fastigheter AB,18.170000076293945,True,2014.0,,,,,,,,,,
+193,WBRBY,Wienerberger AG,5.650000095367432,False,2009.0,,11-12,01-26,10.0,10.0,1.0,1.0,11-12,01-26,8.90374524645915
+194,WBRBF,Wienerberger AG,18.139799118041992,True,2012.0,,,,,,,,,,
+195,WYY,WidePoint Corp,6.909999847412109,False,2009.0,,09-19,12-03,7.0,7.0,4.0,4.0,09-19,12-03,13.64642500598414
+196,WOW,WideOpenWest Inc,7.260000228881836,True,2017.0,,,,,,,,,,
+197,ISEYF,Wi2Wi Corp,0.027000000700354576,True,2012.0,,,,,,,,,,
+198,WGLD,Whole Gold International Group Holding Co,$0.01 ,True,,No data fetched for symbol WGLD using YahooDailyReader,,,,,,,,,
+199,WFM,Whole Foods Market Inc,$41.99 ,True,,'Date',,,,,,,,,
+200,FREE,Whole Earth Brands Inc,8.0,True,2019.0,,,,,,,,,,
+201,WHZT,Whiting USA Trust II,0.07999999821186066,True,2016.0,,,,,,,,,,
+202,WHXT,Whiting USA Trust I,$0.06 ,True,,No data fetched for symbol WHXT using YahooDailyReader,,,,,,,,,
+203,WLL,Whiting Petroleum Corp,18.190000534057617,False,2009.0,,01-29,04-13,8.0,8.0,3.0,3.0,01-29,04-13,-85.3142071001888
+204,WSR,Whitestone REIT,7.739999771118164,False,2010.0,,09-16,11-30,5.0,5.0,5.0,5.0,09-13,11-27,5.19973535003681
+205,WHF,WhiteHorse Finance Inc,13.449999809265137,True,2012.0,,,,,,,,,,
+206,WHITF,Whitehaven Coal Ltd,0.8999999761581421,False,2010.0,,12-02,02-15,3.0,3.0,7.0,7.0,12-02,02-15,-14.42556974564282
+207,SPGYF,Whitecap Resources Inc,2.619999885559082,False,2009.0,,08-31,11-14,6.0,6.0,5.0,5.0,08-31,11-14,13.091496276245602
+208,WRMCF,White Rock Minerals Ltd,0.36000001430511475,True,2020.0,,,,,,,,,,
+209,WRIV,White River Bancshares Company,55.0,True,2019.0,,,,,,,,,,
+210,WTM,White Mountains Insurance Group Ltd,961.280029296875,False,2009.0,,09-27,12-11,8.0,8.0,3.0,3.0,09-27,12-11,4.626965548326778
+211,TNMLF,White Metal Resources Corp,0.04315999895334244,True,2013.0,,,,,,,,,,
+212,WLAB,White Label Liquid Inc,0.02810000069439411,False,2010.0,,03-14,05-28,4.0,4.0,6.0,6.0,03-14,05-28,11.544097954313498
+213,WHGOF,White Gold Corp,0.6050000190734863,True,2017.0,,,,,,,,,,
+214,WECFY,White Energy Co Ltd,$0.22 ,True,,No data fetched for symbol WECFY using YahooDailyReader,,,,,,,,,
+215,WECFF,White Energy Co Ltd,0.10000000149011612,False,2010.0,,05-25,08-08,3.0,3.0,7.0,7.0,05-25,08-08,15.661360822199926
+216,WTBDY,Whitbread PLC,10.010000228881836,True,2013.0,,,,,,,,,,
+217,WTBCF,Whitbread PLC,40.91899871826172,True,2012.0,,,,,,,,,,
+218,WGXLF,Whistler Gold Exploration Inc,$0.03 ,True,,No data fetched for symbol WGXLF using YahooDailyReader,,,,,,,,,
+219,WSBHF,Whistler Blackcomb Holdings Inc,$28.05 ,True,,No data fetched for symbol WSBHF using YahooDailyReader,,,,,,,,,
+220,WHSPF,Whispir Ltd,2.2799999713897705,True,2020.0,,,,,,,,,,
+221,WHR,Whirlpool Corp,192.91000366210938,False,2009.0,,11-13,01-27,6.0,6.0,5.0,5.0,11-13,01-27,5.364923107550426
+222,TVTV,WhereverTV Broadcasting Corp,0.11999999731779099,True,2012.0,,,,,,,,,,
+223,WFCF,Where Food Comes From Inc,2.3499999046325684,False,2009.0,,12-26,03-11,7.0,7.0,4.0,4.0,12-26,03-11,13.340089070253162
+224,WHLKY,Wheelock and Co Ltd,69.69000244140625,False,2010.0,,02-23,05-08,8.0,8.0,2.0,2.0,02-23,05-08,6.689107419101102
+225,WHLKF,Wheelock and Co Ltd,8.0,False,2010.0,,02-22,05-07,7.0,7.0,3.0,3.0,02-22,05-07,9.070655580551136
+226,WHLR,Wheeler Real Estate Investment Trust Inc,3.0199999809265137,True,2012.0,,,,,,,,,,
+227,WPM,Wheaton Precious Metals Corp,41.29999923706055,False,2009.0,,06-16,08-30,6.0,6.0,5.0,5.0,06-16,08-30,6.220336303439188
+228,WRFRF,Wharf Real Estate Investment Co Ltd,5.050000190734863,True,2018.0,,,,,,,,,,
+229,WHTPF,WH Smith PLC,19.049999237060547,True,2020.0,,,,,,,,,,
+230,WHGRF,WH Group Ltd,0.8799999952316284,True,2015.0,,,,,,,,,,
+231,WHGLY,WH Group Ltd,17.030000686645508,True,2014.0,,,,,,,,,,
+232,WGL,WGL Holdings Inc,88.73999786376953,True,2012.0,,,,,,,,,,
+233,WY,Weyerhaeuser Co,28.75,False,2009.0,,09-26,12-10,7.0,6.0,4.0,5.0,09-26,12-10,3.899060743601208
+234,WEYS,Weyco Group Inc,16.8700008392334,False,2009.0,,10-06,12-20,4.0,4.0,7.0,7.0,05-12,07-26,4.0849823118832616
+235,WEX,WEX Inc,171.7100067138672,False,2009.0,,04-07,06-21,6.0,6.0,5.0,5.0,04-07,06-21,9.452346637422947
+236,WEWA,Wewards Inc,0.02500000037252903,True,2015.0,,,,,,,,,,
+237,WETG,WeTrade Group Inc,8.5,True,2020.0,,,,,,,,,,
+238,WETH,Wetouch Technology Inc,1.5,True,2020.0,,,,,,,,,,
+239,JDWPY,Wetherspoon (J D) PLC,54.560001373291016,True,2012.0,,,,,,,,,,
+240,JDWPF,Wetherspoon (J D) PLC,11.75,True,2012.0,,,,,,,,,,
+241,WHG,Westwood Holdings Group Inc,12.670000076293945,False,2009.0,,09-06,11-20,6.0,5.0,5.0,6.0,09-06,11-20,5.502297382826454
+242,WWR,Westwater Resources Inc,6.53000020980835,False,2009.0,,10-30,01-13,3.0,3.0,8.0,8.0,10-30,01-13,5.3505657376415385
+243,WTSHF,Westshore Terminals Investment Corp,12.199999809265137,False,2009.0,,08-06,10-20,8.0,8.0,3.0,3.0,03-20,06-03,6.460752127094449
+244,WRK,WestRock Co,42.209999084472656,True,2015.0,,,,,,,,,,
+245,WSTTF,Westports Holdings Bhd,1.2563899755477905,True,2019.0,,,,,,,,,,
+246,WPRT,Westport Fuel Systems Inc,3.4700000286102295,False,2009.0,,05-07,07-21,6.0,6.0,5.0,5.0,05-07,07-21,15.282782439065784
+247,WPTH,Westport Energy Holdings Inc,$0.15 ,True,,'Date',,,,,,,,,
+248,WEBNF,Westpac Banking Corp,14.460000038146973,False,2009.0,,12-17,03-02,7.0,7.0,4.0,4.0,02-12,04-27,5.749872118283452
+249,WBK,Westpac Banking Corp,14.569999694824219,False,2009.0,,02-02,04-17,9.0,9.0,2.0,2.0,02-02,04-17,4.484058694614203
+250,WMTN,Westmountain Gold Inc,3.0,False,2010.0,,12-19,03-04,5.0,5.0,5.0,5.0,12-19,03-04,2.8082353410197918
+251,WMDS,WestMountain Distressed Debt Inc,$0.25 ,True,,No data fetched for symbol WMDS using YahooDailyReader,,,,,,,,,
+252,WMELF,Westmount Energy Ltd,0.2800000011920929,True,2020.0,,,,,,,,,,
+253,WMLPQ,Westmoreland Resource Partners LP,$0.02 ,True,,No data fetched for symbol WMLPQ using YahooDailyReader,,,,,,,,,
+254,WLBAQ,Westmoreland Coal Co,$0.01 ,True,,No data fetched for symbol WLBAQ using YahooDailyReader,,,,,,,,,
+255,WMRSF,Westminster Resources Ltd,0.1381399929523468,True,2013.0,,,,,,,,,,
+256,WSMTF,Westminster Group PLC,$0.32 ,True,,No data fetched for symbol WSMTF using YahooDailyReader,,,,,,,,,
+257,WLKP,Westlake Chemical Partners LP,20.139999389648438,True,2014.0,,,,,,,,,,
+258,WLK,Westlake Chemical Corp,73.54000091552734,False,2009.0,,10-28,01-11,8.0,8.0,3.0,3.0,10-28,01-11,5.619758801841863
+259,WKGFF,WestKam Gold Corp,0.20900000631809235,False,2010.0,,05-01,07-15,3.0,3.0,7.0,7.0,05-01,07-15,15.664522951436288
+260,WJAVF,Westjet Airlines Ltd,$11.00 ,True,,No data fetched for symbol WJAVF using YahooDailyReader,,,,,,,,,
+261,WJAFF,Westjet Airlines Ltd,$23.48 ,True,,No data fetched for symbol WJAFF using YahooDailyReader,,,,,,,,,
+262,WAB,Westinghouse Air Brake Technologies Corp,70.9800033569336,False,2009.0,,02-09,04-24,9.0,8.0,2.0,3.0,02-09,04-24,6.5037072056561
+263,WTHVF,Westhaven Gold Corp,0.6370999813079834,True,2014.0,,,,,,,,,,
+264,WTGRF,Westgold Resources Ltd,1.8700000047683716,True,2017.0,,,,,,,,,,
+265,WFGPY,Westfield Corp,$13.54 ,True,,No data fetched for symbol WFGPY using YahooDailyReader,,,,,,,,,
+266,WEFIF,Westfield Corp,6.755000114440918,True,2012.0,,,,,,,,,,
+267,WSTRF,Western Uranium & Vanadium Corp,0.48989999294281006,True,2016.0,,,,,,,,,,
+268,WTCRF,Western Troy Capital Resources Inc,0.1589999943971634,False,2009.0,,10-31,01-14,3.0,3.0,8.0,8.0,10-31,01-14,-2.5630563475049617
+269,WSRC,Western Sierra Resource Corp,0.012649999931454659,True,2012.0,,,,,,,,,,
+270,WTRNF,Western Resources Corp,0.12353000044822693,False,2009.0,,12-12,02-25,7.0,7.0,4.0,4.0,12-12,02-25,8.815681152849697
+271,WNRL,Western Refining Logistics LP,$23.85 ,True,,'Date',,,,,,,,,
+272,WNR,Western Refining Inc,$36.18 ,True,,'Date',,,,,,,,,
+273,WNEB,Western New England Bancorp Inc,6.0,False,2009.0,,10-25,01-08,6.0,6.0,5.0,5.0,10-25,01-08,4.291610144449376
+274,WES,Western Midstream Partners LP,13.529999732971191,True,2012.0,,,,,,,,,,
+275,WTLC,Western Metals Corp,0.25999999046325684,False,2009.0,,06-27,09-10,4.0,4.0,7.0,7.0,06-27,09-10,18.373815744580586
+276,MLYF,Western Magnesium Corp,0.09179999679327011,True,2012.0,,,,,,,,,,
+277,WFSTF,Western Forest Products Inc,0.7059999704360962,True,2012.0,,,,,,,,,,
+278,WEEEF,Western Energy Services Corp,0.20399999618530273,False,2009.0,,12-12,02-25,5.0,5.0,6.0,6.0,12-12,02-25,14.720602252550805
+279,WDC,Western Digital Corp,42.41999816894531,False,2009.0,,12-01,02-14,6.0,6.0,5.0,5.0,12-01,02-14,6.870421324186175
+280,WRN,Western Copper & Gold Corp,1.1100000143051147,False,2009.0,,06-27,09-10,5.0,5.0,6.0,6.0,06-27,09-10,9.893662726344909
+281,WCRS,Western Capital Resources Inc,6.150000095367432,True,2013.0,,,,,,,,,,
+282,PPZRF,Western Atlas Resources Inc,0.07784999907016754,True,2011.0,,,,,,,,,,
+283,GFY,Western Asset Variable Rate Strategic Fd Inc.,16.290000915527344,False,2009.0,,03-14,05-28,6.0,5.0,5.0,6.0,11-16,01-30,2.295299490687281
+284,WEA,Western Asset Premier Bond Fund,13.609999656677246,False,2009.0,,03-20,06-03,9.0,9.0,2.0,2.0,05-01,07-15,2.710428198530421
+285,MNP,Western Asset Municipal Partners Fd Inc,14.539999961853027,False,2009.0,,03-18,06-01,7.0,7.0,4.0,4.0,06-05,08-19,1.3885746772045495
+286,MHF,Western Asset Municipal High Income Fund Inc,7.369999885559082,False,2009.0,,03-15,05-29,8.0,6.0,3.0,5.0,03-18,06-01,3.0359933627632683
+287,MTT,Western Asset Mu Defined Opp Tr Inc,20.31999969482422,False,2009.0,,12-15,02-28,10.0,9.0,1.0,2.0,12-23,03-08,2.7590966706135314
+288,DMO,Western Asset Mortgage Defined Opportunity Fund In,13.430000305175781,False,2010.0,,08-11,10-25,8.0,7.0,2.0,3.0,11-22,02-05,2.1928964235317667
+289,WMC,Western Asset Mortgage Capital Corp,2.930000066757202,True,2012.0,,,,,,,,,,
+290,MMU,Western Asset Managed Municipals Fd Inc,12.609999656677246,False,2009.0,,11-13,01-27,8.0,7.0,3.0,4.0,11-13,01-27,1.859928087418356
+291,IGI,Western Asset Invstm Grd Dfnd Opp Tr Inc,21.350000381469727,False,2009.0,,11-12,01-26,7.0,5.0,4.0,6.0,02-19,05-04,1.851187151185127
+292,PAI,Western Asset Investment Grade Income Fund Inc,15.279999732971191,False,2009.0,,06-22,09-05,7.0,7.0,4.0,4.0,06-22,09-05,4.7171422535808025
+293,SBI,Western Asset Intermediate Muni Fd Inc,9.029999732971191,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,03-15,05-29,2.3087040680779127
+294,WIW,Western Asset Inflation-Linked Opportunities and I,11.600000381469727,False,2009.0,,03-23,06-06,7.0,4.0,4.0,7.0,03-21,06-04,2.9192139502310988
+295,WIA,Western Asset Inflation Linked Income Fund,12.40999984741211,False,2009.0,,03-21,06-04,7.0,5.0,4.0,6.0,03-21,06-04,3.0762243879696016
+296,HYI,Western Asset High Yield Defined Opps.,14.989999771118164,False,2010.0,,12-19,03-04,8.0,6.0,2.0,4.0,12-19,03-04,2.9398761983399413
+297,HIO,Western Asset High Income Oppor Fd Inc,4.960000038146973,False,2009.0,,02-10,04-25,8.0,6.0,3.0,5.0,12-14,02-27,2.4767350578846243
+298,HIX,Western Asset High Income Fund II Inc,7.019999980926514,False,2009.0,,02-28,05-13,8.0,8.0,3.0,3.0,02-20,05-05,2.4311133733459007
+299,EHI,Western Asset Global High Inc Fd Inc,10.729999542236328,False,2009.0,,02-05,04-20,9.0,9.0,2.0,2.0,02-19,05-04,2.0502708451314064
+300,GDO,Western Asset Global Corp Defined Opp,17.40999984741211,False,2009.0,,02-15,04-30,7.0,7.0,4.0,4.0,02-20,05-05,0.3826875557929688
+301,EMD,Western Asset Emg Markets Debt Fund Inc,13.380000114440918,False,2009.0,,12-16,03-01,9.0,7.0,2.0,4.0,12-23,03-08,2.4479389974036403
+302,TLI,Western Asset Corporate Loan Fund Inc,9.1899995803833,False,2009.0,,03-18,06-01,8.0,8.0,3.0,3.0,12-17,03-02,3.6556580807369183
+303,WNARF,Western Areas Ltd,1.590000033378601,True,2013.0,,,,,,,,,,
+304,WAL,Western Alliance Bancorp,53.40999984741211,False,2009.0,,09-19,12-03,8.0,8.0,3.0,3.0,09-19,12-03,9.751370067380307
+305,WSTL,Westell Technologies Inc,0.7900000214576721,False,2009.0,,01-23,04-07,6.0,6.0,5.0,5.0,01-23,04-07,-0.6821183942245757
+306,WRRNF,Westcore Energy Ltd,0.013000000268220901,True,2013.0,,,,,,,,,,
+307,WBBW,Westbury Bancorp Inc,23.8799991607666,True,2013.0,,,,,,,,,,
+308,WBTMU,Westbrook Thompson,36.060001373291016,True,2012.0,,,,,,,,,,
+309,WEGYF,Westbridge Energy Corp,0.0625,False,2009.0,,09-22,12-06,4.0,4.0,7.0,7.0,09-22,12-06,5.960248845557017
+310,WBNEF,WestBond Enterprises Corp,0.45370998978614807,True,2020.0,,,,,,,,,,
+311,TEXG,Westar Oil & Gas Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+312,WABC,Westamerica Bancorp,57.88999938964844,False,2009.0,,10-24,01-07,6.0,6.0,5.0,5.0,10-24,01-07,5.4958401161103465
+313,WEDXF,Westaim Corp,1.7799999713897705,False,2009.0,,02-19,05-04,6.0,6.0,5.0,5.0,02-19,05-04,5.360796050287812
+314,WVMDF,West Vault Mining Inc,1.4299999475479126,True,2012.0,,,,,,,,,,
+315,WTWN,West Town Bancorp Inc,8.0,True,2009.0,,,,,,,,,,
+316,WTXR,West Texas Resources Inc,0.18400000035762787,True,2012.0,,,,,,,,,,
+317,WNRP,West Suburban Bancorp Inc,360.010009765625,True,2012.0,,,,,,,,,,
+318,WSSH,West Shore Bank Corp,22.0,False,2009.0,,02-18,05-03,8.0,8.0,3.0,3.0,02-18,05-03,2.3717868894189467
+319,RLGMF,West Red Lake Gold Mines Inc,0.07999999821186066,True,2012.0,,,,,,,,,,
+320,WST,West Pharmaceutical Services Inc,284.7300109863281,False,2009.0,,03-04,05-18,7.0,7.0,4.0,4.0,10-02,12-16,6.222014376058067
+321,WMAR,West Marine Inc,$12.97 ,True,,'Date',,,,,,,,,
+322,WJRYY,West Japan Railway Co,48.88999938964844,True,2011.0,,,,,,,,,,
+323,WJRYF,West Japan Railway Co,48.0,True,2014.0,,,,,,,,,,
+324,WHYRF,West High Yield (W.H.Y.) Resources Ltd,0.17000000178813934,False,2009.0,,02-04,04-19,3.0,3.0,8.0,8.0,02-04,04-19,9.377249943516974
+325,WFTBF,West Fraser Timber Co.Ltd,53.84000015258789,False,2009.0,,10-14,12-28,8.0,8.0,3.0,3.0,10-14,12-28,11.78436651734158
+326,WEIN,West End Indiana Bancshares Inc,36.540000915527344,True,2012.0,,,,,,,,,,
+327,WSTC,West Corp,$23.50 ,True,,'Date',,,,,,,,,
+328,WCHNF,West China Cement Ltd,0.20000000298023224,False,2010.0,,02-05,04-20,4.0,4.0,6.0,6.0,02-05,04-20,11.971074093448069
+329,WCYN,West Canyon Energy Inc,0.009800000116229057,True,2013.0,,,,,,,,,,
+330,WTBA,West Bancorp Inc,19.059999465942383,False,2009.0,,05-15,07-29,6.0,6.0,5.0,5.0,05-15,07-29,3.649957247050629
+331,WFRSF,West African Resources Ltd,0.699999988079071,True,2014.0,,,,,,,,,,
+332,KJWNF,Wessanen NV,$12.59 ,True,,No data fetched for symbol KJWNF using YahooDailyReader,,,,,,,,,
+333,WSZWF,Wesizwe Platinum Ltd,0.009200000204145908,True,2019.0,,,,,,,,,,
+334,WFAFY,Wesfarmers Ltd,18.260000228881836,False,2010.0,,06-24,09-07,6.0,4.0,4.0,6.0,06-28,09-11,6.401495880782168
+335,WFAFF,Wesfarmers Ltd,36.040000915527344,False,2010.0,,06-30,09-13,6.0,5.0,4.0,5.0,07-05,09-18,5.101271703614052
+336,WDOFF,Wesdome Gold Mines Ltd,7.78000020980835,False,2009.0,,11-24,02-07,5.0,5.0,6.0,6.0,11-24,02-07,7.107581351199429
+337,WCC,WESCO International Inc,62.0,False,2009.0,,10-28,01-11,6.0,6.0,5.0,5.0,10-28,01-11,9.474474192777583
+338,WAIR,Wesco Aircraft Holdings Inc,$11.04 ,True,,No data fetched for symbol WAIR using YahooDailyReader,,,,,,,,,
+339,WEGOF,Wescan Goldfields Inc,0.044849999248981476,True,2012.0,,,,,,,,,,
+340,GPIPF,Wescan Energy Corp,$0.03 ,True,,'Date',,,,,,,,,
+341,WRCKF,WeSC AB,$1.16 ,True,,No data fetched for symbol WRCKF using YahooDailyReader,,,,,,,,,
+342,WSBC,Wesbanco Inc,28.75,False,2009.0,,09-01,11-15,6.0,6.0,5.0,5.0,09-01,11-15,4.503657355353288
+343,WERN,Werner Enterprises Inc,41.0,False,2009.0,,12-06,02-19,8.0,8.0,3.0,3.0,12-06,02-19,4.515821195204065
+344,WRDEF,Wereldhave NV,9.593700408935547,True,2013.0,,,,,,,,,,
+345,WONEF,WEQ Holdings Inc,0.04500000178813934,True,2013.0,,,,,,,,,,
+346,WENTF,Wentworth Resources PLC,$0.35 ,True,,No data fetched for symbol WENTF using YahooDailyReader,,,,,,,,,
+347,WNDLF,Wendel SE,93.30000305175781,False,2010.0,,12-24,03-09,7.0,7.0,3.0,3.0,12-24,03-09,5.986060636656959
+348,WELL,Welltower Inc,64.51000213623047,False,2009.0,,03-15,05-29,8.0,6.0,3.0,5.0,05-13,07-27,6.208516740858125
+349,WTKN,WellTek Inc,0.006000000052154064,False,2009.0,,12-20,03-05,4.0,4.0,7.0,7.0,12-20,03-05,27.48823132224596
+350,WSEYF,Wellstar Energy Corp,$0.05 ,True,,No data fetched for symbol WSEYF using YahooDailyReader,,,,,,,,,
+351,WEFP,Wells Financial Corp,$51.88 ,True,,'Date',,,,,,,,,
+352,ERH,Wells Fargo Utilities and High Income Fund,12.510000228881836,False,2009.0,,11-23,02-06,8.0,7.0,3.0,4.0,12-22,03-07,4.6207176666466045
+353,ERC,Wells Fargo Multi-Sector Income Fund,11.520000457763672,False,2009.0,,03-18,06-01,8.0,8.0,3.0,3.0,12-13,02-26,3.0214663589524466
+354,EAD,Wells Fargo Income Opportunities Fund,7.690000057220459,False,2009.0,,02-23,05-08,8.0,6.0,3.0,5.0,11-16,01-30,1.8961322153513211
+355,EOD,Wells Fargo Global Dividend Opportunity Fund,4.670000076293945,False,2009.0,,02-16,05-01,8.0,6.0,3.0,5.0,03-13,05-27,3.6384189516382
+356,WFC,Wells Fargo & Co,25.479999542236328,False,2009.0,,10-15,12-29,8.0,8.0,3.0,3.0,10-15,12-29,6.504024848087053
+357,WCUI,Wellness Center USA Inc,0.07999999821186066,True,2012.0,,,,,,,,,,
+358,WFVLF,Wellington Drive Technologies Ltd,$0.05 ,True,,No data fetched for symbol WFVLF using YahooDailyReader,,,,,,,,,
+359,WEBK,Wellesley Bancorp Inc,$34.00 ,True,,No data fetched for symbol WEBK using YahooDailyReader,,,,,,,,,
+360,WCG,WellCare Health Plans Inc,$349.92 ,True,,No data fetched for symbol WCG using YahooDailyReader,,,,,,,,,
+361,WLYYF,WELL Health Technologies Corp,5.540579795837402,True,2018.0,,,,,,,,,,
+362,WBT,Welbilt Inc,9.170000076293945,True,2016.0,,,,,,,,,,
+363,WMK,Weis Markets Inc,48.66999816894531,False,2009.0,,10-21,01-04,3.0,3.0,8.0,8.0,02-10,04-25,5.705121927957141
+364,WEIGF,Weir Group PLC,22.31999969482422,False,2009.0,,03-30,06-13,7.0,7.0,4.0,4.0,03-30,06-13,9.363350373996154
+365,WEGRY,Weir Group PLC,11.380000114440918,True,2012.0,,,,,,,,,,
+366,WQTEF,Weiqiao Textile Co Ltd,0.23000000417232513,False,2010.0,,03-28,06-11,7.0,7.0,3.0,3.0,01-31,04-15,9.859870242147512
+367,WRI,Weingarten Realty Investors,21.950000762939453,False,2009.0,,11-12,01-26,8.0,8.0,3.0,3.0,12-13,02-26,4.1230290627894215
+368,WEI,Weidai Ltd,1.600000023841858,True,2018.0,,,,,,,,,,
+369,WEICY,Weichai Power Co Ltd,17.889999389648438,False,2010.0,,08-28,11-11,5.0,5.0,5.0,5.0,08-28,11-11,12.406653983076188
+370,WEICF,Weichai Power Co Ltd,2.2799999713897705,False,2009.0,,09-17,12-01,4.0,4.0,7.0,7.0,09-19,12-03,13.117833700551047
+371,WB,Weibo Corp,45.04999923706055,True,2014.0,,,,,,,,,,
+372,WPEC,Wei Pai Electronic Commerce Co Ltd,0.05999999865889549,True,2017.0,,,,,,,,,,
+373,WEGZY,Weg SA,18.979999542236328,True,2011.0,,,,,,,,,,
+374,WKULF,Weekend Unlimited Industries Inc,0.2079000025987625,True,2019.0,,,,,,,,,,
+375,WDDMF,WeedMD Inc,0.21960000693798065,True,2017.0,,,,,,,,,,
+376,BUDZ,Weed Inc,0.23000000417232513,False,2010.0,,10-04,12-18,4.0,4.0,6.0,6.0,10-04,12-18,21.122938232446547
+377,WEDG,Weed Growth Fund Inc,"$2,000.00 ",True,,No data fetched for symbol WEDG using YahooDailyReader,,,,,,,,,
+378,WCIG,Wee-Cig International Corp,0.013000000268220901,False,2009.0,,08-14,10-28,4.0,4.0,6.0,6.0,08-14,10-28,-0.9919927098229696
+379,WECT,Weconnect Tech International Inc,0.012000000104308128,False,2009.0,,03-10,05-24,1.0,1.0,9.0,9.0,03-10,05-24,10.170909198501644
+380,WEC,WEC Energy Group Inc,96.0999984741211,False,2009.0,,05-10,07-24,9.0,9.0,2.0,2.0,05-13,07-27,4.802729874464709
+381,WZENY,Webzen Inc,$4.40 ,True,,No data fetched for symbol WZENY using YahooDailyReader,,,,,,,,,
+382,IPGOF,WeBuild SpA,2.049999952316284,True,2013.0,,,,,,,,,,
+383,IMPJY,WeBuild SpA,2.7960000038146973,True,2013.0,,,,,,,,,,
+384,WEWWF,WebTech Wireless Inc,$1.78 ,True,,'Date',,,,,,,,,
+385,WEBEF,Webster Ltd,$1.30 ,True,,No data fetched for symbol WEBEF using YahooDailyReader,,,,,,,,,
+386,WBS,Webster Financial Corp,38.04999923706055,False,2009.0,,09-22,12-06,10.0,9.0,1.0,2.0,10-02,12-16,9.424298311565346
+387,WBSI,WebSafety Inc,0.5299999713897705,False,2009.0,,03-08,05-22,5.0,5.0,6.0,6.0,03-08,05-22,-0.26108928303430995
+388,WEJTY,Webjet Ltd,7.25,True,2019.0,,,,,,,,,,
+389,WEBJF,Webjet Ltd,3.440000057220459,True,2015.0,,,,,,,,,,
+390,WEBC,Webco Industries Inc,110.0,False,2009.0,,12-28,03-13,9.0,9.0,2.0,2.0,12-28,03-13,5.087456416281256
+391,MLBEF,Webcentral Group Ltd,$0.23 ,True,,No data fetched for symbol MLBEF using YahooDailyReader,,,,,,,,,
+392,WEB,Web.com Group Inc,3.4000000953674316,True,2012.0,,,,,,,,,,
+393,WEBB,Web Blockchain Media Inc,0.013000000268220901,False,2009.0,,02-26,05-11,6.0,6.0,5.0,5.0,02-26,05-11,23.28237517840559
+394,WFTLF,Weatherford International PLC,2.4200000762939453,True,2019.0,,,,,,,,,,
+395,WHSI,Wearable Health Solutions Inc,0.009499999694526196,False,2009.0,,08-07,10-21,1.0,1.0,10.0,10.0,08-07,10-21,14.795779048856874
+396,WCCP,Wealthcraft Capital Inc,0.2460000067949295,True,2012.0,,,,,,,,,,
+397,HHHH,Wealthbridge Acquisition Ltd,$9.55 ,True,,No data fetched for symbol HHHH using YahooDailyReader,,,,,,,,,
+398,WMLLF,Wealth Minerals Ltd,0.07999999821186066,False,2009.0,,12-23,03-08,8.0,8.0,3.0,3.0,12-23,03-08,25.752427922090693
+399,WDFC,WD-40 Co,255.6699981689453,False,2009.0,,04-28,07-12,7.0,7.0,4.0,4.0,04-28,07-12,7.11564737881023
+400,WCIC,WCI Communities Inc,$23.45 ,True,,'Date',,,,,,,,,
+401,WCFB,WCF Bancorp Inc,7.050000190734863,False,2009.0,,10-06,12-20,5.0,5.0,6.0,6.0,10-06,12-20,4.698063718464458
+402,WSTG,Wayside Technology Group Inc,21.829999923706055,False,2009.0,,03-18,06-01,8.0,8.0,3.0,3.0,03-18,06-01,7.438046451619496
+403,WYPH,Waypoint Biomedical Holdings Inc,0.029999999329447746,True,2015.0,,,,,,,,,,
+404,WAYN,Wayne Savings Bancshares Inc,19.8700008392334,False,2009.0,,11-17,01-31,8.0,8.0,3.0,3.0,12-09,02-22,6.814668482988168
+405,W,Wayfair Inc,252.5399932861328,True,2014.0,,,,,,,,,,
+406,WXMN,Waxman Industries Inc,3.009999990463257,False,2009.0,,12-23,03-08,7.0,7.0,4.0,4.0,12-23,03-08,19.669238826306007
+407,WAWL,Wawel Savings Bank,3.950000047683716,True,2012.0,,,,,,,,,,
+408,WFTSF,Wavefront Technology Solutions Inc,0.03999999910593033,False,2009.0,,11-28,02-11,3.0,3.0,8.0,8.0,11-28,02-11,13.149910858424358
+409,WAVXQ,Wave Systems Corp,$0.04 ,True,,'Date',,,,,,,,,
+410,WVE,WAVE Life Sciences Ltd,8.630000114440918,True,2015.0,,,,,,,,,,
+411,WTS,Watts Water Technologies Inc,116.27999877929688,False,2009.0,,07-06,09-19,7.0,7.0,4.0,4.0,06-01,08-15,8.190740500629575
+412,WSO.B,Watsco Inc,$232.00 ,True,,No data fetched for symbol WSO.B using YahooDailyReader,,,,,,,,,
+413,WSO,Watsco Inc,232.14999389648438,False,2009.0,,04-08,06-22,9.0,9.0,2.0,2.0,03-22,06-05,6.925035109821268
+414,WTRE,Watford Holdings Ltd,34.70000076293945,True,2019.0,,,,,,,,,,
+415,WSBF,Waterstone Financial Inc,18.079999923706055,False,2009.0,,03-18,06-01,6.0,6.0,5.0,5.0,04-01,06-15,5.098887889256765
+416,WSCC,Waterside Capital Corp,0.20000000298023224,True,2012.0,,,,,,,,,,
+417,WAT,Waters Corp,225.39999389648438,False,2009.0,,09-03,11-17,9.0,9.0,2.0,2.0,09-03,11-17,5.336873517411854
+418,WLOOF,Waterloo Investment Holdings Ltd,$0.03 ,True,,No data fetched for symbol WLOOF using YahooDailyReader,,,,,,,,,
+419,BIBLF,Waterloo Brewing Ltd,3.9000000953674316,False,2010.0,,02-03,04-18,6.0,6.0,4.0,4.0,02-03,04-18,8.390986466124591
+420,WOSSF,Water Oasis Group Ltd,0.12999999523162842,True,2012.0,,,,,,,,,,
+421,WTNW,"Water Now, Inc.",0.10154999792575836,True,2018.0,,,,,,,,,,
+422,WTLLF,Water Intelligence PLC,6.251500129699707,True,2020.0,,,,,,,,,,
+423,QUPPF,Watchstone Group PLC,0.699999988079071,True,2014.0,,,,,,,,,,
+424,WM,Waste Management Inc,120.3499984741211,False,2009.0,,11-02,01-16,8.0,8.0,3.0,3.0,10-29,01-12,4.816857070434531
+425,WCN,Waste Connections Inc,105.94000244140625,False,2009.0,,03-27,06-10,10.0,10.0,1.0,1.0,03-27,06-10,7.115170966108612
+426,WHTCF,WashTec AG,$52.40 ,True,,No data fetched for symbol WHTCF using YahooDailyReader,,,,,,,,,
+427,WFBI,WashingtonFirst Bankshares Inc,$34.26 ,True,,'Date',,,,,,,,,
+428,WASH,Washington Trust Bancorp Inc,39.13999938964844,False,2009.0,,05-14,07-28,4.0,4.0,7.0,7.0,05-14,07-28,4.981806436720516
+429,WRE,Washington REIT,24.030000686645508,False,2009.0,,05-15,07-29,6.0,6.0,5.0,5.0,05-14,07-28,3.8976520631067473
+430,WPG,Washington Prime Group Inc,0.8059999942779541,True,2014.0,,,,,,,,,,
+431,WSOUF,Washington H Soul Pattinson & Co Ltd,$13.50 ,True,,No data fetched for symbol WSOUF using YahooDailyReader,,,,,,,,,
+432,WAFD,Washington Federal Inc,24.299999237060547,False,2009.0,,10-17,12-31,6.0,6.0,5.0,5.0,10-17,12-31,5.919489903017862
+433,WBZB,Washington Business Bank,15.25,True,2019.0,,,,,,,,,,
+434,WGTB,Washington Bancorp,$6.38 ,True,,No data fetched for symbol WGTB using YahooDailyReader,,,,,,,,,
+435,WSRUF,Waseco Resources Inc,0.027000000700354576,False,2010.0,,07-12,09-25,2.0,2.0,8.0,8.0,07-12,09-25,10.84744417330332
+436,WRTBY,Wartsila Corp,1.7400000095367432,True,2012.0,,,,,,,,,,
+437,WRTBF,Wartsila Corp,9.4399995803833,True,2013.0,,,,,,,,,,
+438,HCC,Warrior Met Coal Inc,16.549999237060547,True,2017.0,,,,,,,,,,
+439,WARGF,Warrior Gold Inc,0.07999999821186066,True,2012.0,,,,,,,,,,
+440,WRESQ,Warren Resources Inc,$0.01 ,True,,'Date',,,,,,,,,
+441,PRYGF,Warrego Energy Ltd,$0.23 ,True,,No data fetched for symbol PRYGF using YahooDailyReader,,,,,,,,,
+442,WPNTF,Warpaint London PLC,0.9399999976158142,True,2019.0,,,,,,,,,,
+443,WMG,Warner Music Group Corp,29.079999923706055,True,2020.0,,,,,,,,,,
+444,WRRI,Wari Inc,6.25,True,2020.0,,,,,,,,,,
+445,WDPSF,Warehouses De Pauw,34.04290008544922,True,2018.0,,,,,,,,,,
+446,WHGPF,Warehouse Group Ltd (The),1.4500000476837158,True,2014.0,,,,,,,,,,
+447,WWNTY,Want Want China Holdings Ltd,38.209999084472656,True,2012.0,,,,,,,,,,
+448,WWNTF,Want Want China Holdings Ltd,0.699999988079071,True,2012.0,,,,,,,,,,
+449,WANSF,Wandisco PLC,6.130000114440918,True,2012.0,,,,,,,,,,
+450,WSG,Wanda Sports Group Co Ltd,2.119999885559082,True,2019.0,,,,,,,,,,
+451,WNHTF,Wanda Hotel Development Co Ltd,0.07000000029802322,True,2018.0,,,,,,,,,,
+452,WMT,Walmart Inc,150.24000549316406,False,2009.0,,06-26,09-09,6.0,6.0,5.0,5.0,08-30,11-13,4.294750575629943
+453,WLLKF,Walliser Kantonalbank,$848.00 ,True,,No data fetched for symbol WLLKF using YahooDailyReader,,,,,,,,,
+454,WLBMF,Wallbridge Mining Co Ltd,0.6299999952316284,False,2010.0,,12-05,02-18,3.0,3.0,7.0,7.0,12-05,02-18,15.103341010474734
+455,WSCO,Wall Street Media Co Inc,0.07999999821186066,True,2012.0,,,,,,,,,,
+456,WFICF,Wall Financial Corp,12.842700004577637,True,2017.0,,,,,,,,,,
+457,WALKQ,Walking Co Holdings Inc,0.20000000298023224,True,2012.0,,,,,,,,,,
+458,WRRZF,Walker River Resources Corp,0.07000000029802322,True,2016.0,,,,,,,,,,
+459,WKLN,Walker Lane Exploration Inc,0.09399999678134918,False,2010.0,,10-24,01-07,5.0,5.0,5.0,5.0,10-24,01-07,-26.34830599877147
+460,WLKR,Walker Innovation Inc,0.49869999289512634,True,2012.0,,,,,,,,,,
+461,WKGBF,Walker Greenbank PLC,$2.78 ,True,,'Date',,,,,,,,,
+462,WD,Walker & Dunlop Inc,78.29000091552734,False,2010.0,,09-19,12-03,6.0,6.0,4.0,4.0,09-19,12-03,9.956935816512749
+463,WBA,Walgreens Boots Alliance Inc,37.529998779296875,False,2009.0,,09-30,12-14,6.0,6.0,5.0,5.0,10-14,12-28,5.0322258900672985
+464,WALRF,Walcott Resources Ltd,0.7601000070571899,True,2020.0,,,,,,,,,,
+465,WMMVY,Wal - Mart de Mexico SAB de CV,28.639999389648438,False,2009.0,,01-31,04-15,7.0,7.0,4.0,4.0,01-31,04-15,8.188431528719226
+466,WMMVF,Wal - Mart de Mexico SAB de CV,2.630000114440918,False,2009.0,,02-16,05-01,7.0,7.0,4.0,4.0,01-31,04-15,7.405431941530452
+467,WAKTF,Wakita & Co Ltd,$8.30 ,True,,No data fetched for symbol WAKTF using YahooDailyReader,,,,,,,,,
+468,WAKE,Wake Forest Bancshares Inc,15.229999542236328,False,2009.0,,07-28,10-11,7.0,7.0,4.0,4.0,07-28,10-11,5.875610598200693
+469,WJXFF,Wajax Corp,12.520000457763672,False,2010.0,,07-05,09-18,6.0,6.0,4.0,4.0,06-27,09-10,5.2621179869485735
+470,WTRH,Waitr Holdings Inc,3.740000009536743,True,2016.0,,,,,,,,,,
+471,WKUA,Wailuku Agribusiness Co Inc,$600.00 ,True,,'Date',,,,,,,,,
+472,WAFU,Wah Fu Education Group Ltd,4.329999923706055,True,2019.0,,,,,,,,,,
+473,WAGE,WageWorks Inc,$51.34 ,True,,No data fetched for symbol WAGE using YahooDailyReader,,,,,,,,,
+474,WGBS,WaferGen Bio-systems Inc,$6.90 ,True,,'Date',,,,,,,,,
+475,WDR,Waddell & Reed Financial Inc,15.949999809265137,False,2009.0,,02-10,04-25,5.0,5.0,6.0,6.0,10-13,12-27,4.825013559049627
+476,WACMY,Wacom Co Ltd,7.510000228881836,True,2013.0,,,,,,,,,,
+477,WACMF,Wacom Co Ltd,7.5,True,2013.0,,,,,,,,,,
+478,WACLF,Wacoal Holdings Corp,17.200000762939453,True,2018.0,,,,,,,,,,
+479,WACLY,Wacoal Holdings Corp,100.75,False,2009.0,,07-20,10-03,7.0,7.0,4.0,4.0,07-20,10-03,1.895920765390028
+480,WKRCF,Wacker Neuson SE,18.670000076293945,False,2009.0,,04-08,06-22,8.0,8.0,3.0,3.0,04-08,06-22,4.1523485098974735
+481,WKCMF,Wacker Chemie AG,106.0,True,2012.0,,,,,,,,,,
+482,WBC,WABCO Holdings Inc,$136.46 ,True,,No data fetched for symbol WBC using YahooDailyReader,,,,,,,,,
+483,WNC,Wabash National Corp,17.43000030517578,False,2009.0,,12-08,02-21,8.0,8.0,3.0,3.0,12-08,02-21,13.928249947965874
+484,GWW,W.W. Grainger Inc,409.29998779296875,False,2009.0,,10-21,01-04,7.0,7.0,4.0,4.0,10-21,01-04,5.947620078508928
+485,WPC,W.P. Carey Inc,69.08000183105469,False,2009.0,,06-05,08-19,8.0,8.0,3.0,3.0,05-05,07-19,6.022717117888753
+486,WSPCF,W-SCOPE Corp,6.300000190734863,True,2020.0,,,,,,,,,,
+487,WTI,W&T Offshore Inc,1.7300000190734863,False,2009.0,,08-24,11-07,5.0,5.0,6.0,6.0,08-24,11-07,-0.03808335146191647
+488,WWHC,W World Corp,3.440000057220459,True,2020.0,,,,,,,,,,
+489,WTCG,W Technologies Inc,0.4000000059604645,False,2009.0,,12-19,03-04,7.0,7.0,4.0,4.0,12-19,03-04,27.2396453835881
+490,WREOF,W Resources PLC,$0.01 ,True,,No data fetched for symbol WREOF using YahooDailyReader,,,,,,,,,
+491,GRA,W R Grace & Co,54.97999954223633,False,2009.0,,10-21,01-04,8.0,8.0,3.0,3.0,10-21,01-04,7.343220906889441

@@ -1,0 +1,1273 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,TZLTF,TZ Ltd,0.12999999523162842,True,2012.0,,,,,,,,,,
+1,TSN,Tyson Foods Inc,62.34000015258789,False,2009.0,,10-25,01-08,7.0,7.0,4.0,4.0,10-25,01-08,7.091346448907577
+2,TYRA,TyraTech Inc,$0.02 ,True,,No data fetched for symbol TYRA using YahooDailyReader,,,,,,,,,
+3,TYPFF,Typhoon Exploration Inc,0.05000000074505806,False,2010.0,,07-05,09-18,3.0,3.0,7.0,7.0,07-05,09-18,2.78534181371804
+4,TIPNF,Tyner Resources Ltd,0.10000000149011612,False,2010.0,,01-19,04-03,3.0,3.0,7.0,7.0,01-19,04-03,9.154663115149084
+5,TYME,Tyme Technologies Inc,0.9430000185966492,True,2015.0,,,,,,,,,,
+6,LPUSY,Tyman PLC,$0.15 ,True,,No data fetched for symbol LPUSY using YahooDailyReader,,,,,,,,,
+7,LPUSF,Tyman PLC,$3.79 ,True,,'Date',,,,,,,,,
+8,TYL,Tyler Technologies Inc,414.3800048828125,False,2009.0,,05-08,07-22,7.0,7.0,4.0,4.0,05-08,07-22,11.692626615657566
+9,TYC,Tyco International PLC,$47.74 ,True,,'Date',,,,,,,,,
+10,TXHG,TX Holdings Inc,0.012500000186264515,False,2009.0,,11-19,02-02,5.0,5.0,6.0,6.0,11-19,02-02,25.567061860591405
+11,TURV,Two Rivers Water & Farming Co,0.07410000264644623,False,2009.0,,05-27,08-10,4.0,4.0,7.0,7.0,05-27,08-10,-3.23267743139396
+12,TRVR,Two Rivers Financial Group Inc,26.0,False,2009.0,,11-01,01-15,5.0,5.0,6.0,6.0,03-27,06-10,4.1589609724134515
+13,TRCB,Two River Bancorp,$22.40 ,True,,No data fetched for symbol TRCB using YahooDailyReader,,,,,,,,,
+14,TWO,Two Harbors Investment Corp,6.260000228881836,False,2009.0,,11-12,01-26,7.0,7.0,4.0,4.0,11-12,01-26,3.4814082287802237
+15,TWTR,Twitter Inc,43.619998931884766,True,2013.0,,,,,,,,,,
+16,TWST,Twist Bioscience Corp,114.5,True,2018.0,,,,,,,,,,
+17,TLCC,Twinlab Consolidated Holdings Inc,0.10999999940395355,True,2015.0,,,,,,,,,,
+18,TVPC,Twin Vee Powercats Inc,0.07999999821186066,False,2009.0,,01-02,03-17,7.0,7.0,4.0,4.0,01-02,03-17,19.764961447667268
+19,TWIN,Twin Disc Inc,5.679999828338623,False,2009.0,,10-24,01-07,4.0,4.0,7.0,7.0,10-24,01-07,4.7905916672257165
+20,TWLO,Twilio Inc,295.6400146484375,True,2016.0,,,,,,,,,,
+21,TFOXL,Twenty-First Century Fox Inc,$34.70 ,True,,No data fetched for symbol TFOXL using YahooDailyReader,,,,,,,,,
+22,FOXVV,Twenty-First Century Fox Inc,$29.02 ,True,,No data fetched for symbol FOXVV using YahooDailyReader,,,,,,,,,
+23,FOXAV,Twenty-First Century Fox Inc,$41.70 ,True,,No data fetched for symbol FOXAV using YahooDailyReader,,,,,,,,,
+24,TFCFA,Twenty-First Century Fox Inc,$49.69 ,True,,No data fetched for symbol TFCFA using YahooDailyReader,,,,,,,,,
+25,TFCF,Twenty-First Century Fox Inc,$49.61 ,True,,No data fetched for symbol TFCF using YahooDailyReader,,,,,,,,,
+26,BROG,Twelve Seas Investment Co,8.899999618530273,True,2018.0,,,,,,,,,,
+27,TWCT,TWC Tech Holdings II Corp,9.732999801635742,True,2020.0,,,,,,,,,,
+28,CLKXF,TWC Enterprises Ltd,8.583999633789062,True,2014.0,,,,,,,,,,
+29,TWAC,TWA Corp,130.0,True,2012.0,,,,,,,,,,
+30,TVNWY,TVN SA,$22.02 ,True,,No data fetched for symbol TVNWY using YahooDailyReader,,,,,,,,,
+31,TVIPF,TVI Pacific Inc,0.017500000074505806,False,2010.0,,06-20,09-03,5.0,5.0,5.0,5.0,06-20,09-03,15.599802301051552
+32,TVAGF,TVA Group Inc,1.2000000476837158,True,2017.0,,,,,,,,,,
+33,AZTEF,Tv Azteca SAB de CV,0.019999999552965164,False,2009.0,,07-05,09-18,5.0,5.0,6.0,6.0,07-05,09-18,1.314194039708024
+34,TVAHF,TV Asahi Holdings Corp,15.699999809265137,True,2016.0,,,,,,,,,,
+35,THDDY,TV Asahi Holdings Corp,16.729999542236328,True,2018.0,,,,,,,,,,
+36,TPC,Tutor Perini Corp,13.800000190734863,False,2009.0,,01-23,04-07,7.0,7.0,4.0,4.0,01-23,04-07,-3.4887083771063963
+37,TIDZQ,Tuscany International Drilling Inc,$0.01 ,True,,No data fetched for symbol TIDZQ using YahooDailyReader,,,,,,,,,
+38,THCA,Tuscan Holdings Corp II,10.024999618530273,True,2019.0,,,,,,,,,,
+39,THCB,Tuscan Holdings Corp,10.380000114440918,True,2019.0,,,,,,,,,,
+40,HEAR,Turtle Beach Corp,18.34000015258789,False,2010.0,,05-13,07-27,6.0,6.0,4.0,4.0,05-13,07-27,15.161220367908134
+41,TRQ,Turquoise Hill Resources Ltd,10.3100004196167,False,2009.0,,12-21,03-06,6.0,6.0,5.0,5.0,12-21,03-06,6.5379107095278615
+42,TKSI,Turnkey Solutions Inc,0.014999999664723873,True,2020.0,,,,,,,,,,
+43,TKCI,Turnkey Capital Inc,2.009999990463257,True,2014.0,,,,,,,,,,
+44,TPTX,Turning Point Therapeutics Inc,102.38999938964844,True,2019.0,,,,,,,,,,
+45,TPB,Turning Point Brands Inc,38.75,True,2016.0,,,,,,,,,,
+46,TVOG,Turner Valley Oil & Gas Inc,0.009999999776482582,False,2009.0,,12-13,02-26,8.0,8.0,3.0,3.0,12-13,02-26,19.73568740475795
+47,TBXXF,Turmalina Metals Corp,0.6632999777793884,True,2020.0,,,,,,,,,,
+48,TKYVF,Turkiye Vakiflar Bankasi TAO,$2.85 ,True,,No data fetched for symbol TKYVF using YahooDailyReader,,,,,,,,,
+49,TKYVY,Turkiye Vakiflar Bankasi TAO,5.900000095367432,True,2011.0,,,,,,,,,,
+50,TSSCF,Turkiye Sise ve Cam Fabrikalari AS,$0.75 ,True,,No data fetched for symbol TSSCF using YahooDailyReader,,,,,,,,,
+51,TRKYY,Turkiye Sinai Kalkinma Bankasi AS,1.5499999523162842,True,2015.0,,,,,,,,,,
+52,TYIBF,Turkiye Is Bankasi AS,0.6935999989509583,True,2012.0,,,,,,,,,,
+53,THBIY,Turkiye Halk Bankasi AS,1.3300000429153442,False,2010.0,,09-30,12-14,4.0,4.0,6.0,6.0,09-30,12-14,7.991405722431279
+54,TKGZY,Turkiye Garanti Bankasi AS,1.350000023841858,True,2013.0,,,,,,,,,,
+55,TKGBY,Turkiye Garanti Bankasi AS,1.2000000476837158,False,2009.0,,08-23,11-06,7.0,7.0,4.0,4.0,08-23,11-06,7.693456967324733
+56,TKGBF,Turkiye Garanti Bankasi AS,1.159999966621399,True,2012.0,,,,,,,,,,
+57,TKF,Turkish Investment Fund Inc,$9.13 ,True,,'Date',,,,,,,,,
+58,TKCZF,Turkcell Iletisim Hizmetleri AS,$2.43 ,True,,No data fetched for symbol TKCZF using YahooDailyReader,,,,,,,,,
+59,TKC,Turkcell Iletisim Hizmetleri AS,5.300000190734863,False,2009.0,,09-02,11-16,5.0,5.0,6.0,6.0,09-20,12-04,3.7971552872932204
+60,TTRKF,Turk Traktor ve Ziraat Makineleri AS,$8.11 ,True,,No data fetched for symbol TTRKF using YahooDailyReader,,,,,,,,,
+61,TRKNY,Turk Telekomunikasyon AS,1.9500000476837158,True,2013.0,,,,,,,,,,
+62,TRKNF,Turk Telekomunikasyon AS,0.8199999928474426,True,2013.0,,,,,,,,,,
+63,TKHVY,Turk Hava Yollari AO,15.670000076293945,True,2013.0,,,,,,,,,,
+64,TKHVF,Turk Hava Yollari AO,2.75,True,2019.0,,,,,,,,,,
+65,TVNB,Turbotville National Bank Inc,$93.16 ,True,,No data fetched for symbol TVNB using YahooDailyReader,,,,,,,,,
+66,TURA,Turbine Aviation Inc,0.014000000432133675,False,2009.0,,05-03,07-17,3.0,3.0,8.0,8.0,05-03,07-17,8.216576852837356
+67,TPYSF,Tupy SA,$3.66 ,True,,No data fetched for symbol TPYSF using YahooDailyReader,,,,,,,,,
+68,TUPRF,Tupras-Turkiye Petrol Rafineleri AS,$24.25 ,True,,No data fetched for symbol TUPRF using YahooDailyReader,,,,,,,,,
+69,TUP,Tupperware Brands Corp,35.150001525878906,False,2009.0,,08-17,10-31,6.0,6.0,5.0,5.0,10-01,12-15,8.459869977846678
+70,TPPR,Tupper Inc,$63.91 ,True,,No data fetched for symbol TPPR using YahooDailyReader,,,,,,,,,
+71,TOUR,Tuniu Corp,2.119999885559082,True,2014.0,,,,,,,,,,
+72,TUGHF,Tungtex (Holdings) Co Ltd,0.07999999821186066,True,2014.0,,,,,,,,,,
+73,TGTNF,Tungsten Corp PLC,0.4230000078678131,True,2014.0,,,,,,,,,,
+74,TUMI,Tumi Holdings Inc,$26.74 ,True,,'Date',,,,,,,,,
+75,TUWOY,Tullow Oil PLC,0.12999999523162842,False,2009.0,,02-12,04-27,4.0,4.0,7.0,7.0,02-01,04-16,0.326606737204906
+76,TUWLF,Tullow Oil PLC,0.3199999928474426,False,2010.0,,07-30,10-13,4.0,4.0,6.0,6.0,07-30,10-13,-0.3100581511151788
+77,TUIFY,TUI AG,2.809999942779541,True,2013.0,,,,,,,,,,
+78,TUIFF,TUI AG,5.699999809265137,False,2010.0,,11-05,01-19,6.0,6.0,4.0,4.0,11-05,01-19,8.921662710635475
+79,TUFN,Tufin Software Technologies Ltd,7.820000171661377,True,2019.0,,,,,,,,,,
+80,TUESQ,Tuesday Morning Corp,1.0399999618530273,False,2009.0,,01-23,04-07,6.0,6.0,5.0,5.0,01-23,04-07,-5.9673365500655855
+81,TDRRF,Tudor Gold Corp,2.0927000045776367,True,2016.0,,,,,,,,,,
+82,TDRLF,Tudor Corp Ltd,$0.01 ,True,,'Date',,,,,,,,,
+83,TCX,Tucows Inc,72.19000244140625,False,2009.0,,09-30,12-14,7.0,7.0,4.0,4.0,09-30,12-14,9.798063693816774
+84,TUBE,TubeMogul Inc,$14.00 ,True,,'Date',,,,,,,,,
+85,TBCXF,Tubacex SA,$2.36 ,True,,'Date',,,,,,,,,
+86,TC,TuanChe Ltd,3.140000104904175,True,2018.0,,,,,,,,,,
+87,TTWSF,TTW PCL,0.36500000953674316,False,2010.0,,07-15,09-28,7.0,4.0,3.0,6.0,03-01,05-15,4.2662569196057305
+88,TTWPF,TTW PCL,0.4399999976158142,True,2013.0,,,,,,,,,,
+89,TTAPY,TTW PCL,17.760000228881836,True,2012.0,,,,,,,,,,
+90,TTAPF,TTW PCL,0.3700000047683716,False,2010.0,,07-31,10-14,3.0,0.0,7.0,10.0,08-04,10-18,6.827937326036544
+91,TTMI,TTM Technologies Inc,12.720000267028809,False,2009.0,,10-10,12-24,7.0,7.0,4.0,4.0,10-10,12-24,6.658735919519732
+92,TTMRF,TTM Resources Inc,$0.02 ,True,,No data fetched for symbol TTMRF using YahooDailyReader,,,,,,,,,
+93,TTEC,TTEC Holdings Inc,65.12000274658203,False,2009.0,,05-14,07-28,4.0,4.0,7.0,7.0,05-14,07-28,11.337395366495869
+94,TTGPF,TT Electronics PLC,2.825000047683716,True,2013.0,,,,,,,,,,
+95,TSSJF,Tsutsumi Jewelry Co Ltd,16.899999618530273,True,2012.0,,,,,,,,,,
+96,TSUSF,Tsuruha Holdings Inc,140.0,True,2014.0,,,,,,,,,,
+97,TSMRF,Tsumura & Co,32.15599822998047,True,2013.0,,,,,,,,,,
+98,TSGMY,Tsugami Corp,$66.00 ,True,,No data fetched for symbol TSGMY using YahooDailyReader,,,,,,,,,
+99,TSSI,TSS Inc,0.5400000214576721,False,2009.0,,12-30,03-15,8.0,8.0,3.0,3.0,12-30,03-15,14.321884121733055
+100,TSRI,TSR Inc,6.800000190734863,False,2009.0,,08-01,10-15,7.0,7.0,4.0,4.0,08-01,10-15,1.5044491646954583
+101,TSDRF,Tsodilo Resources Ltd,0.14000000059604645,False,2010.0,,11-29,02-12,3.0,3.0,7.0,7.0,11-29,02-12,13.15716492222135
+102,TSGTY,Tsingtao Brewery Co Ltd,46.849998474121094,False,2010.0,,01-31,04-15,4.0,4.0,6.0,6.0,01-31,04-15,7.501831804435276
+103,TSGTF,Tsingtao Brewery Co Ltd,9.369999885559082,False,2009.0,,02-05,04-20,5.0,5.0,6.0,6.0,02-05,04-20,10.112183543075412
+104,TSIHF,TSI Holdings Co Ltd,2.109999895095825,True,2012.0,,,,,,,,,,
+105,^TWII,TSEC Weighted Index,13716.23046875,False,2009.0,,11-13,01-27,8.0,8.0,3.0,3.0,11-13,01-27,3.597992812925769
+106,TSBBY,TSB Banking Group PLC,$10.25 ,True,,No data fetched for symbol TSBBY using YahooDailyReader,,,,,,,,,
+107,TSBBF,TSB Banking Group PLC,$4.17 ,True,,No data fetched for symbol TSBBF using YahooDailyReader,,,,,,,,,
+108,TNP,Tsakos Energy Navigation Ltd,7.949999809265137,False,2009.0,,03-08,05-22,7.0,7.0,4.0,4.0,03-08,05-22,5.127884880620845
+109,TGVSF,Tryg A/S,29.950000762939453,True,2013.0,,,,,,,,,,
+110,TRYF,Trycera Financial Inc,$8.35 ,True,,'Date',,,,,,,,,
+111,MEDS,Trxade Group Inc,4.78000020980835,True,2014.0,,,,,,,,,,
+112,TRUX,Truxton Corp,46.0,False,2009.0,,04-01,06-15,9.0,9.0,2.0,2.0,12-23,03-08,6.459793224647446
+113,TRWKF,Truworths International Ltd,1.75,True,2016.0,,,,,,,,,,
+114,TTTSF,TruTrace Technologies Inc,0.03350000083446503,True,2018.0,,,,,,,,,,
+115,TKLS,Trutankless Inc,0.1599999964237213,False,2010.0,,08-03,10-17,3.0,3.0,7.0,7.0,08-03,10-17,15.470486462708573
+116,TRPWF,Trustpower Ltd,$5.29 ,True,,No data fetched for symbol TRPWF using YahooDailyReader,,,,,,,,,
+117,TRPRY,Trustpower Ltd,$10.30 ,True,,No data fetched for symbol TRPRY using YahooDailyReader,,,,,,,,,
+118,TRMK,Trustmark Corp,25.84000015258789,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-26,12-10,5.7189015235887055
+119,TSCHY,Trustco Group Holdings Ltd,10.0600004196167,True,2016.0,,,,,,,,,,
+120,TSCHF,Trustco Group Holdings Ltd,$0.23 ,True,,No data fetched for symbol TSCHF using YahooDailyReader,,,,,,,,,
+121,TRST,Trustco Bank Corp N Y,6.21999979019165,False,2009.0,,10-15,12-29,2.0,2.0,9.0,9.0,09-06,11-20,6.0248655729678635
+122,TRUP,Trupanion Inc,96.19000244140625,True,2014.0,,,,,,,,,,
+123,TRMYQ,Trump Entertainment Resorts Inc,$0.01 ,True,,No data fetched for symbol TRMYQ using YahooDailyReader,,,,,,,,,
+124,TRUHY,Truly International Holdings Ltd,1.809999942779541,False,2009.0,,02-03,04-18,5.0,5.0,6.0,6.0,02-03,04-18,12.963830616868933
+125,TRUHF,Truly International Holdings Ltd,0.1177000030875206,True,2012.0,,,,,,,,,,
+126,TRUL,Trulite Inc,0.4519999921321869,False,2009.0,,11-15,01-29,1.0,1.0,8.0,8.0,11-15,01-29,16.28691729590107
+127,TCNNF,Trulieve Cannabis Corp,26.549999237060547,True,2019.0,,,,,,,,,,
+128,TFC,Truist Financial Corp,46.900001525878906,False,2009.0,,10-21,01-04,9.0,9.0,2.0,2.0,10-21,01-04,6.772629849132612
+129,TRFNF,Trufin PLC,0.3122999966144562,True,2020.0,,,,,,,,,,
+130,THST,Truett-Hurst Inc,0.5699999928474426,True,2013.0,,,,,,,,,,
+131,TRUE,TrueCar Inc,3.9700000286102295,True,2014.0,,,,,,,,,,
+132,TBI,TrueBlue Inc,17.8700008392334,False,2009.0,,10-28,01-11,7.0,7.0,4.0,4.0,10-28,01-11,8.442866115391691
+133,TNGMF,True North Gems Inc,0.06235000118613243,True,2013.0,,,,,,,,,,
+134,TUERF,True North Commercial REIT,4.820030212402344,True,2019.0,,,,,,,,,,
+135,TNATF,True North Apartment Real Estate Investment Trust,$5.47 ,True,,No data fetched for symbol TNATF using YahooDailyReader,,,,,,,,,
+136,TRLFF,True Leaf Brands Inc,0.06629999727010727,True,2017.0,,,,,,,,,,
+137,RVREF,True Gold Mining Inc,$0.53 ,True,,No data fetched for symbol RVREF using YahooDailyReader,,,,,,,,,
+138,TCPFF,True Corp PCL,0.07999999821186066,True,2012.0,,,,,,,,,,
+139,ROKR,True Blue Holdings Inc,0.4000000059604645,True,2012.0,,,,,,,,,,
+140,TREP,Trucept Inc,0.039000000804662704,False,2009.0,,12-28,03-13,6.0,6.0,5.0,5.0,12-28,03-13,15.979626405241936
+141,TRYRF,Troy Resources Ltd,0.07999999821186066,False,2009.0,,07-09,09-22,3.0,3.0,8.0,8.0,07-09,09-22,7.499049491969589
+142,TROUF,Troubadour Resources Inc,0.05339999869465828,True,2019.0,,,,,,,,,,
+143,TPCA,Tropicana Entertainment Inc,73.9000015258789,True,2012.0,,,,,,,,,,
+144,TROX,Tronox Holdings PLC,11.979999542236328,False,2010.0,,02-02,04-17,7.0,7.0,3.0,3.0,02-02,04-17,11.21451813001957
+145,TGRP,TRON Group Inc,1.350000023841858,True,2017.0,,,,,,,,,,
+146,CHXMF,Troilus Gold Corp,0.8600000143051147,False,2010.0,,12-18,03-03,6.0,6.0,4.0,4.0,12-18,03-03,20.593576844211725
+147,TRIV,TriVascular Technologies Inc,$5.87 ,True,,'Date',,,,,,,,,
+148,TRVG,trivago NV,1.5,True,2016.0,,,,,,,,,,
+149,TROG,Triumph Oil & Gas Corp,0.014999999664723873,False,2009.0,,10-29,01-12,1.0,1.0,9.0,9.0,10-29,01-12,-4.722149407805034
+150,TGI,Triumph Group Inc,11.470000267028809,False,2009.0,,03-22,06-05,4.0,4.0,7.0,7.0,03-22,06-05,9.215487414682816
+151,TIGCF,Triumph Gold Corp,0.1599999964237213,False,2009.0,,06-27,09-10,4.0,4.0,7.0,7.0,06-27,09-10,13.830399981741676
+152,TBK,Triumph Bancorp Inc,46.97999954223633,True,2014.0,,,,,,,,,,
+153,TRUA,Triumph Apparel Corp,0.019999999552965164,False,2009.0,,04-18,07-02,2.0,2.0,7.0,7.0,04-18,07-02,-43.36724346959367
+154,TRTN,Triton International Ltd,43.63999938964844,False,2009.0,,10-05,12-19,6.0,6.0,5.0,5.0,10-05,12-19,9.425431501875122
+155,TRIT,Triterras Inc,12.15999984741211,True,2019.0,,,,,,,,,,
+156,TRRSF,Trisura Group Ltd,63.349998474121094,True,2017.0,,,,,,,,,,
+157,TSNLF,Tristel PLC,$1.15 ,True,,No data fetched for symbol TSNLF using YahooDailyReader,,,,,,,,,
+158,TSC,TriState Capital Holdings Inc,15.619999885559082,True,2013.0,,,,,,,,,,
+159,TSGZF,Tristar Gold Inc,0.2199999988079071,True,2011.0,,,,,,,,,,
+160,TAGP,Tristar Acquisition Group,0.05999999865889549,True,2011.0,,,,,,,,,,
+161,TPVG,TriplePoint Venture Growth BDC Corp,12.960000038146973,True,2014.0,,,,,,,,,,
+162,GTS,Triple-S Management Corp,22.360000610351562,False,2009.0,,10-29,01-12,6.0,6.0,5.0,5.0,10-29,01-12,8.737307296693057
+163,TRRB,TripBorn Inc,0.550000011920929,True,2017.0,,,,,,,,,,
+164,TRIP,TripAdvisor Inc,26.549999237060547,True,2011.0,,,,,,,,,,
+165,TCOM,Trip.com Group Ltd,33.68000030517578,False,2009.0,,05-14,07-28,5.0,5.0,6.0,6.0,05-14,07-28,3.8606331254702253
+166,TRPS,Trip Technologies Inc,1800.0,False,2009.0,,01-03,03-18,9.0,9.0,2.0,2.0,01-03,03-18,23.42515003276997
+167,TRT,Trio-Tech International,3.809999942779541,False,2009.0,,07-09,09-22,6.0,6.0,5.0,5.0,07-09,09-22,6.762237417713363
+168,TRIG,Trio Industries Group Inc,0.14000000059604645,False,2010.0,,07-18,10-01,1.0,1.0,9.0,9.0,07-18,10-01,15.273635212247967
+169,TSE,Trinseo SA,38.88999938964844,True,2014.0,,,,,,,,,,
+170,TRRI,Trinity Resources Inc,0.06040000170469284,False,2009.0,,06-23,09-06,4.0,4.0,7.0,7.0,06-23,09-06,5.66242026990023
+171,TPHS,Trinity Place Holdings Inc,1.399999976158142,True,2012.0,,,,,,,,,,
+172,TTYP,Trinity Petroleum Trust,67.0,False,2009.0,,04-15,06-29,8.0,8.0,3.0,3.0,04-05,06-19,7.854066208864974
+173,TMCX,Trinity Merger Corp,$11.00 ,True,,No data fetched for symbol TMCX using YahooDailyReader,,,,,,,,,
+174,TTTXF,Trinity Ltd,$0.11 ,True,,No data fetched for symbol TTTXF using YahooDailyReader,,,,,,,,,
+175,TRN,Trinity Industries Inc,22.549999237060547,False,2009.0,,07-09,09-22,7.0,7.0,4.0,4.0,07-08,09-21,8.469778792470278
+176,BEGYF,Trinity Exploration & Production PLC,0.09000000357627869,True,2012.0,,,,,,,,,,
+177,TCPP,Trinity Capital Partners Inc,0.2199999988079071,False,2009.0,,08-12,10-26,3.0,1.0,6.0,8.0,11-05,01-19,12.873591691229029
+178,TRIN,Trinity Capital Corp,$10.55 ,True,,No data fetched for symbol TRIN using YahooDailyReader,,,,,,,,,
+179,TRIB,Trinity Biotech PLC,2.7100000381469727,False,2009.0,,05-14,07-28,9.0,9.0,2.0,2.0,05-08,07-22,11.524365384485204
+180,TYBT,Trinity Bank NA,64.0,False,2009.0,,06-15,08-29,4.0,4.0,7.0,7.0,06-15,08-29,6.583858457984103
+181,TDGCF,Trinidad Drilling Ltd,$1.28 ,True,,No data fetched for symbol TDGCF using YahooDailyReader,,,,,,,,,
+182,TNET,Trinet Group Inc,75.0199966430664,True,2014.0,,,,,,,,,,
+183,TRNE,Trine Acquisition Corp,10.369999885559082,True,2019.0,,,,,,,,,,
+184,TSL,Trina Solar Ltd,$11.54 ,True,,'Date',,,,,,,,,
+185,TMED,Trimedyne Inc,$4.25 ,True,,No data fetched for symbol TMED using YahooDailyReader,,,,,,,,,
+186,TRMB,Trimble Inc,57.7400016784668,False,2009.0,,10-29,01-12,8.0,8.0,3.0,3.0,10-29,01-12,8.643087250921742
+187,TRS,TriMas Corp,27.5,False,2009.0,,09-04,11-18,4.0,4.0,7.0,7.0,09-04,11-18,7.497385484994338
+188,TRAAF,Trimac Transportation Ltd,$4.78 ,True,,No data fetched for symbol TRAAF using YahooDailyReader,,,,,,,,,
+189,TMQ,Trilogy Metals Inc,1.659999966621399,True,2012.0,,,,,,,,,,
+190,TLLYF,Trilogy International Partners Inc,0.9532999992370605,True,2017.0,,,,,,,,,,
+191,TRGGF,Trilogy International Ltd,0.2921000123023987,True,2017.0,,,,,,,,,,
+192,TETZF,Trilogy Energy Corp,$5.05 ,True,,'Date',,,,,,,,,
+193,TRIL,Trillium Therapeutics Inc,17.56999969482422,True,2013.0,,,,,,,,,,
+194,TGLDF,Trillium Gold Mines Inc,1.2300000190734863,True,2011.0,,,,,,,,,,
+195,TCFF,Trillion Energy International Inc,0.06800000369548798,False,2010.0,,09-21,12-05,6.0,6.0,4.0,4.0,09-21,12-05,7.9053994185736824
+196,PNTZF,Trigon Metals Inc,0.2336599975824356,True,2016.0,,,,,,,,,,
+197,TIGGF,Trigiant Group Ltd,$0.27 ,True,,No data fetched for symbol TIGGF using YahooDailyReader,,,,,,,,,
+198,TGNOF,Trigano SA,155.24000549316406,True,2018.0,,,,,,,,,,
+199,TRRFF,Trifecta Gold Ltd,0.05821999907493591,True,2017.0,,,,,,,,,,
+200,TFSTF,Trifast PLC,3.606600046157837,True,2019.0,,,,,,,,,,
+201,TDNT,Trident Brands Inc,0.07999999821186066,True,2013.0,,,,,,,,,,
+202,TDAC,Trident Acquisitions Corp,11.100000381469727,True,2018.0,,,,,,,,,,
+203,TCNGF,Tricon Residential Inc,8.525130271911621,True,2013.0,,,,,,,,,,
+204,TCBK,TriCo Bancshares,33.52000045776367,False,2009.0,,10-24,01-07,6.0,6.0,5.0,5.0,09-25,12-09,10.459842105385516
+205,TCDA,Tricida Inc,7.519999980926514,True,2018.0,,,,,,,,,,
+206,TRICF,Trichome Financial Corp,1.024399995803833,True,2019.0,,,,,,,,,,
+207,TCCR,TRICCAR Inc,1.0,True,2020.0,,,,,,,,,,
+208,TOLWF,Trican Well Service Ltd,1.0499999523162842,False,2009.0,,12-11,02-24,5.0,5.0,6.0,6.0,12-11,02-24,13.00691111313448
+209,TBRIF,Tribute Resources Inc,$0.03 ,True,,No data fetched for symbol TBRIF using YahooDailyReader,,,,,,,,,
+210,TBUFF,Tribute Pharmaceuticals Canada Inc,$0.93 ,True,,'Date',,,,,,,,,
+211,TPCO,Tribune Publishing Co,12.369999885559082,True,2014.0,,,,,,,,,,
+212,TRBAB,Tribune Media Co,$35.11 ,True,,No data fetched for symbol TRBAB using YahooDailyReader,,,,,,,,,
+213,TRCO,Tribune Media Co,$46.66 ,True,,No data fetched for symbol TRCO using YahooDailyReader,,,,,,,,,
+214,TGRGF,Tribal Group PLC,1.0947999954223633,True,2019.0,,,,,,,,,,
+215,TPII,Triad Pro Innovators Inc,0.013000000268220901,True,2012.0,,,,,,,,,,
+216,TGIC,Triad Guaranty Inc,0.03999999910593033,False,2009.0,,07-24,10-07,6.0,6.0,5.0,5.0,07-24,10-07,6.5713579585384325
+217,TBBC,Triad Business Bank,10.5,True,2020.0,,,,,,,,,,
+218,TRVB,Tri-Valley Bank,0.8100000023841858,True,2012.0,,,,,,,,,,
+219,TSOH,Tri-State 1st Banc Inc,20.0,True,2012.0,,,,,,,,,,
+220,TY,Tri-Continental Corp,28.520000457763672,False,2009.0,,05-07,07-21,8.0,8.0,3.0,3.0,03-23,06-06,4.417569115583454
+221,TPH,TRI Pointe Group Inc,18.149999618530273,True,2013.0,,,,,,,,,,
+222,TROIF,Tri Origin Exploration Ltd,0.11999999731779099,True,2012.0,,,,,,,,,,
+223,TYFG,Tri County Financial Group Inc,34.0,True,2018.0,,,,,,,,,,
+224,TRCY,Tri City Bankshares Corp,16.299999237060547,False,2009.0,,09-14,11-28,6.0,5.0,5.0,6.0,08-14,10-28,3.9944765271809017
+225,TREX,Trex Co Inc,75.33999633789062,False,2009.0,,10-30,01-13,8.0,8.0,3.0,3.0,10-30,01-13,12.531465376310926
+226,TRXA,Trex Acquisition Corp,0.25,True,2012.0,,,,,,,,,,
+227,TRVI,Trevi Therapeutics Inc,3.0,True,2019.0,,,,,,,,,,
+228,TVFZF,Trevi Finanziaria Industriale SpA,1.5172799825668335,True,2013.0,,,,,,,,,,
+229,TRVN,Trevena Inc,2.450000047683716,True,2014.0,,,,,,,,,,
+230,TREVF,Trevali Mining Corp,0.1599999964237213,False,2009.0,,12-08,02-21,5.0,5.0,6.0,6.0,12-08,02-21,11.808329537616943
+231,TRES,Tresor Corp,$63.91 ,True,,No data fetched for symbol TRES using YahooDailyReader,,,,,,,,,
+232,TRSFF,Tres-Or Resources Ltd,0.10253000259399414,False,2010.0,,06-04,08-18,4.0,4.0,3.0,3.0,06-04,08-18,12.645807034814528
+233,TMIN,Trendmaker Inc Ltd,$1.30 ,True,,No data fetched for symbol TMIN using YahooDailyReader,,,,,,,,,
+234,TMICY,Trend Micro Inc,51.439998626708984,False,2009.0,,06-03,08-17,4.0,4.0,7.0,7.0,06-03,08-17,3.640307130116719
+235,TMICF,Trend Micro Inc,58.31999969482422,True,2012.0,,,,,,,,,,
+236,TREN,Trend Innovations Holding Inc,3.490000009536743,True,2020.0,,,,,,,,,,
+237,TRDX,Trend Exploration Inc,0.5400000214576721,False,2010.0,,01-19,04-03,4.0,4.0,6.0,6.0,01-19,04-03,17.55284479768441
+238,NVTQD,Trench Metals Corp,$0.15 ,True,,No data fetched for symbol NVTQD using YahooDailyReader,,,,,,,,,
+239,TTTPF,Tremor International Ltd,1.7999999523162842,True,2018.0,,,,,,,,,,
+240,TRMT,Tremont Mortgage Trust,4.275000095367432,True,2017.0,,,,,,,,,,
+241,TBABF,Trelleborg AB,19.25,True,2012.0,,,,,,,,,,
+242,TRKX,Trek Resources Inc,297.95001220703125,True,2012.0,,,,,,,,,,
+243,THS,Treehouse Foods Inc,39.13999938964844,False,2009.0,,02-16,05-01,6.0,6.0,5.0,5.0,02-16,05-01,6.281562196553877
+244,TCOR,TreeCon Resources Inc,0.46000000834465027,False,2009.0,,07-20,10-03,6.0,6.0,5.0,5.0,07-20,10-03,14.442030828440267
+245,TOKIF,Tree Of Knowledge International Corp,0.009999999776482582,True,2018.0,,,,,,,,,,
+246,TWIRF,Tree Island Steel Ltd,1.7000000476837158,False,2010.0,,11-04,01-18,4.0,4.0,6.0,6.0,07-13,09-26,2.048626011391904
+247,TG,Tredegar Corp,15.899999618530273,False,2009.0,,05-19,08-02,5.0,5.0,6.0,6.0,05-19,08-02,6.127754115315246
+248,TREC,Trecora Resources,6.699999809265137,False,2009.0,,05-11,07-25,3.0,3.0,8.0,8.0,05-11,07-25,8.694985341039812
+249,TREB,Trebia Acquisition Corp,9.899999618530273,True,2020.0,,,,,,,,,,
+250,TOAK,Treaty Oak Bancorp Inc,$1.00 ,True,,No data fetched for symbol TOAK using YahooDailyReader,,,,,,,,,
+251,TTTRF,Treatt PLC,7.600800037384033,True,2013.0,,,,,,,,,,
+252,TSRYY,Treasury Wine Estates Ltd,7.309999942779541,True,2011.0,,,,,,,,,,
+253,TSRYF,Treasury Wine Estates Ltd,7.150000095367432,True,2011.0,,,,,,,,,,
+254,TSRMF,Treasury Metals Inc,1.0499999523162842,False,2009.0,,10-31,01-14,6.0,6.0,5.0,5.0,10-31,01-14,8.546972824662616
+255,TRSU,Treasure State Bank Mt,$7.40 ,True,,No data fetched for symbol TRSU using YahooDailyReader,,,,,,,,,
+256,TRSUF,Treasure ASA,$1.43 ,True,,No data fetched for symbol TRSUF using YahooDailyReader,,,,,,,,,
+257,BLIS,Treasure & Shipwreck Recovery Inc,0.1099499985575676,True,2019.0,,,,,,,,,,
+258,TIG,Trean Insurance Group Inc,14.0,True,2020.0,,,,,,,,,,
+259,TRR,TRC Companies Inc,$17.55 ,True,,'Date',,,,,,,,,
+260,TVPKF,Travis Perkins PLC,17.25,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,10-08,12-22,3.5483532585626487
+261,TPRKY,Travis Perkins PLC,16.299999237060547,True,2011.0,,,,,,,,,,
+262,RTRX,Travere Therapeutics Inc,24.25,True,2012.0,,,,,,,,,,
+263,TZOO,Travelzoo,10.0600004196167,False,2009.0,,03-16,05-30,6.0,6.0,5.0,5.0,03-16,05-30,20.83563311878584
+264,TSYHY,TravelSky Technology Ltd,24.200000762939453,True,2013.0,,,,,,,,,,
+265,TSYHF,TravelSky Technology Ltd,2.430000066757202,False,2009.0,,10-26,01-09,6.0,6.0,5.0,5.0,10-29,01-12,10.101254687730664
+266,TVPT,Travelport Worldwide Ltd,15.75,True,2014.0,,,,,,,,,,
+267,TA,TravelCenters Of America Inc,31.81999969482422,False,2009.0,,11-14,01-28,6.0,6.0,5.0,5.0,11-14,01-28,9.692058354700297
+268,TRIQ,TraqIQ Inc,1.0,True,2020.0,,,,,,,,,,
+269,TAQR,Traqer Corp,0.5099999904632568,True,2017.0,,,,,,,,,,
+270,TRWO,TransWorld Holdings Inc,1.3289999961853027,True,2020.0,,,,,,,,,,
+271,TRAUF,Transurban Group,10.90999984741211,False,2009.0,,10-28,01-11,7.0,7.0,4.0,4.0,10-19,01-02,6.520308405929806
+272,TRU,TransUnion,96.31999969482422,True,2015.0,,,,,,,,,,
+273,TRTI,Transtech Industries Inc,0.06199999898672104,False,2009.0,,01-25,04-09,5.0,5.0,6.0,6.0,01-25,04-09,14.494996451467786
+274,TLSS,Transportation And Logistics Systems Inc,0.010999999940395355,True,2014.0,,,,,,,,,,
+275,TGDBF,Transportadora de Gas del Sur SA,$0.57 ,True,,No data fetched for symbol TGDBF using YahooDailyReader,,,,,,,,,
+276,TGS,Transportadora de Gas del Sur SA,5.239999771118164,False,2009.0,,10-04,12-18,2.0,2.0,9.0,9.0,10-04,12-18,8.852491924043061
+277,TPIHF,Transport International Holdings Ltd,$2.97 ,True,,No data fetched for symbol TPIHF using YahooDailyReader,,,,,,,,,
+278,TGAN,Transphorm Inc,3.5,True,2020.0,,,,,,,,,,
+279,RIGP,Transocean Partners LLC,$17.83 ,True,,'Date',,,,,,,,,
+280,RIG,Transocean Ltd,1.3300000429153442,False,2009.0,,08-10,10-24,5.0,5.0,6.0,6.0,08-10,10-24,-11.437601802090052
+281,TAMG,Transnational Group Inc,0.06499999761581421,True,2014.0,,,,,,,,,,
+282,TLP,TransMontaigne Partners LP,$40.99 ,True,,No data fetched for symbol TLP using YahooDailyReader,,,,,,,,,
+283,TMDX,TransMedics Group Inc,14.229999542236328,True,2019.0,,,,,,,,,,
+284,TBIO,Translate Bio Inc,18.030000686645508,True,2018.0,,,,,,,,,,
+285,TTHI,Transition Therapeutics Inc,$1.52 ,True,,'Date',,,,,,,,,
+286,TNTMF,Transition Metals Corp,0.11214999854564667,True,2014.0,,,,,,,,,,
+287,TGA,TransGlobe Energy Corp,0.46000000834465027,False,2009.0,,02-21,05-06,3.0,3.0,8.0,8.0,02-21,05-06,5.343869509334521
+288,TMSH,TransGlobal Assets Inc,0.007849999703466892,False,2009.0,,03-21,06-04,5.0,5.0,6.0,6.0,03-21,06-04,13.905148396212228
+289,TRGNF,Transgene SA,1.5299999713897705,True,2013.0,,,,,,,,,,
+290,TRXC,TransEnterix Inc,0.4300000071525574,False,2009.0,,07-09,09-22,6.0,6.0,5.0,5.0,07-09,09-22,10.210491406925506
+291,TDG,TransDigm Group Inc,590.6500244140625,False,2009.0,,06-27,09-10,8.0,8.0,3.0,3.0,10-28,01-11,8.772493297413039
+292,TRCLF,transcosmos inc,21.399999618530273,True,2014.0,,,,,,,,,,
+293,TCI,Transcontinental Realty Investors Inc,28.239999771118164,False,2009.0,,06-04,08-18,9.0,9.0,2.0,2.0,06-04,08-18,9.38302976705278
+294,TCLCF,Transcontinental Inc,13.445199966430664,True,2013.0,,,,,,,,,,
+295,TCLAF,Transcontinental Inc,13.720000267028809,False,2010.0,,12-09,02-22,5.0,4.0,5.0,6.0,03-19,06-02,-0.3147675062934089
+296,TCRTS,Transco Realty Trust,6.0,True,2012.0,,,,,,,,,,
+297,TRNS,Transcat Inc,30.700000762939453,False,2009.0,,02-15,04-30,7.0,7.0,4.0,4.0,02-15,04-30,6.968373402676827
+298,TCNAF,Transcanna Holdings Inc,0.6240000128746033,True,2019.0,,,,,,,,,,
+299,TAT,TransAtlantic Petroleum Ltd,0.25,False,2009.0,,01-21,04-05,3.0,3.0,8.0,8.0,01-21,04-05,-1.8357269627391968
+300,TRRGF,Transatlantic Mining Corp,0.048670001327991486,True,2017.0,,,,,,,,,,
+301,TACI,TransAtlantic Capital Inc,0.061000000685453415,True,2014.0,,,,,,,,,,
+302,TRZBF,Transat A.T. Inc,4.159999847412109,True,2016.0,,,,,,,,,,
+303,TRSWF,TransAlta Renewables Inc,13.059000015258789,True,2015.0,,,,,,,,,,
+304,TAC,TransAlta Corp,6.510000228881836,False,2009.0,,12-10,02-23,4.0,3.0,7.0,8.0,12-10,02-23,5.4739158753970285
+305,TAKD,TransAKT Ltd,0.01119999960064888,False,2009.0,,02-06,04-21,7.0,7.0,4.0,4.0,02-06,04-21,19.37291687738572
+306,TACT,Transact Technologies Inc,9.050000190734863,False,2009.0,,08-24,11-07,5.0,5.0,6.0,6.0,08-25,11-08,8.7200313137674
+307,TEGY,Transact Energy Corp,0.014999999664723873,False,2010.0,,09-08,11-22,5.0,5.0,5.0,5.0,09-08,11-22,16.674798253476045
+308,TNLX,Trans-Lux Corp,0.17000000178813934,False,2009.0,,08-16,10-30,5.0,5.0,6.0,6.0,08-16,10-30,4.790802769429068
+309,TWOC,Trans World Corp,4.25,False,2009.0,,01-17,04-02,6.0,6.0,4.0,4.0,01-17,04-02,6.033894879956815
+310,TRHXF,Trans Hex Group Ltd,$0.26 ,True,,'Date',,,,,,,,,
+311,TENG,Trans Energy Inc,5.010000228881836,False,2009.0,,10-14,12-28,3.0,3.0,7.0,7.0,10-14,12-28,14.692745099703185
+312,TT,Trane Technologies PLC,146.7899932861328,False,2009.0,,08-26,11-09,8.0,7.0,3.0,4.0,08-26,11-09,7.084636502793168
+313,TRNCF,Trancom Co Ltd,$48.10 ,True,,No data fetched for symbol TRNCF using YahooDailyReader,,,,,,,,,
+314,TRKCF,Trakya Cam Sanayii AS,0.44729000329971313,True,2015.0,,,,,,,,,,
+315,TNLIY,Trainline PLC,9.449999809265137,True,2020.0,,,,,,,,,,
+316,TNLIF,Trainline PLC,4.75,True,2019.0,,,,,,,,,,
+317,TBLZ,Trailblazer Resources Inc,0.05000000074505806,False,2009.0,,11-04,01-18,6.0,6.0,5.0,5.0,11-04,01-18,20.844813273230887
+318,TW,Tradeweb Markets Inc,58.75,True,2019.0,,,,,,,,,,
+319,TRMEF,Trade Me Group Ltd,3.359999895095825,True,2019.0,,,,,,,,,,
+320,TSCO,Tractor Supply Co,131.25,False,2009.0,,02-16,05-01,7.0,7.0,4.0,4.0,02-16,05-01,7.219859707365368
+321,TBLEF,Tractebel Energia SA,$13.32 ,True,,No data fetched for symbol TBLEF using YahooDailyReader,,,,,,,,,
+322,TCIIF,Tracsis PLC,7.900000095367432,True,2013.0,,,,,,,,,,
+323,TCON,TRACON Pharmaceuticals Inc,8.520000457763672,True,2015.0,,,,,,,,,,
+324,TKXHF,TrackX Holdings Inc,0.03099999949336052,True,2013.0,,,,,,,,,,
+325,TLOOF,Tracker Ventures Corp,0.5587000250816345,True,2019.0,,,,,,,,,,
+326,TFGL,Tracker Financial Group Ltd,0.20000000298023224,True,2012.0,,,,,,,,,,
+327,TRCK,Track Group Inc,0.22110000252723694,False,2009.0,,11-18,02-01,5.0,5.0,6.0,6.0,11-18,02-01,4.033693391311066
+328,TRAC,Track Data Corp,22.0,False,2009.0,,11-25,02-08,6.0,6.0,5.0,5.0,11-25,02-08,6.935844700725178
+329,UTOLF,TraceSafe Inc,0.25,True,2014.0,,,,,,,,,,
+330,TPVTY,TPV Technology Ltd,$11.03 ,True,,No data fetched for symbol TPVTY using YahooDailyReader,,,,,,,,,
+331,TPVTF,TPV Technology Ltd,$0.45 ,True,,No data fetched for symbol TPVTF using YahooDailyReader,,,,,,,,,
+332,TPTW,TPT Global Tech Inc,0.02734999917447567,False,2009.0,,05-19,08-02,2.0,2.0,8.0,8.0,05-19,08-02,25.472618750205267
+333,TPIUY,TPI Triunfo Participacoes e Investimentos SA,$1.35 ,True,,No data fetched for symbol TPIUY using YahooDailyReader,,,,,,,,,
+334,TPIL,TPI International Inc,0.005100000184029341,True,2012.0,,,,,,,,,,
+335,TPIC,TPI Composites Inc,39.09000015258789,True,2016.0,,,,,,,,,,
+336,TPPTY,TPG Telecom Ltd,7.834099769592285,True,2018.0,,,,,,,,,,
+337,TPGTF,TPG Telecom Ltd,$7.30 ,True,,No data fetched for symbol TPGTF using YahooDailyReader,,,,,,,,,
+338,TRTX,TPG RE Finance Trust Inc,9.609999656677246,True,2017.0,,,,,,,,,,
+339,TULLF,TP ICap PLC,2.499000072479248,True,2017.0,,,,,,,,,,
+340,TPGPF,TP Group PLC,0.06224000081419945,True,2020.0,,,,,,,,,,
+341,TYHOF,Toyota Tsusho Corp,31.96619987487793,True,2013.0,,,,,,,,,,
+342,TOYOF,Toyota Motor Corp,69.86000061035156,False,2009.0,,09-23,12-07,2.0,6.0,9.0,5.0,09-24,12-08,2.6238617292392905
+343,TM,Toyota Motor Corp,140.9199981689453,False,2009.0,,10-30,01-13,6.0,6.0,5.0,5.0,10-31,01-14,5.68059345390519
+344,TYIDY,Toyota Industries Corp,68.62999725341797,False,2010.0,,09-08,11-22,6.0,6.0,4.0,4.0,10-11,12-25,5.970750614105054
+345,TYIDF,Toyota Industries Corp,70.20999908447266,False,2009.0,,07-13,09-26,5.0,6.0,6.0,5.0,10-24,01-07,5.48862213917102
+346,TDBOY,Toyota Boshoku Corp,$33.90 ,True,,No data fetched for symbol TDBOY using YahooDailyReader,,,,,,,,,
+347,TDBOF,Toyota Boshoku Corp,15.359999656677246,True,2013.0,,,,,,,,,,
+348,TGOSF,Toyoda Gosei Co Ltd,23.100000381469727,True,2012.0,,,,,,,,,,
+349,TGOSY,Toyoda Gosei Co Ltd,46.88999938964844,False,2010.0,,08-29,11-12,4.0,4.0,6.0,6.0,05-24,08-07,2.5050180782255214
+350,TYOBF,Toyobo Co Ltd,$220.00 ,True,,'Date',,,,,,,,,
+351,TYOBY,Toyobo Co Ltd,13.789999961853027,True,2012.0,,,,,,,,,,
+352,TOTTF,Toyo Tire Corp,$13.77 ,True,,No data fetched for symbol TOTTF using YahooDailyReader,,,,,,,,,
+353,TYOTF,Toyo Tanso Co Ltd,$53.50 ,True,,No data fetched for symbol TYOTF using YahooDailyReader,,,,,,,,,
+354,TSUKY,Toyo Suisan Kaisha Ltd,49.5,False,2010.0,,07-29,10-12,7.0,7.0,3.0,3.0,02-09,04-24,5.5195200930621935
+355,TSUKF,Toyo Suisan Kaisha Ltd,50.29999923706055,True,2013.0,,,,,,,,,,
+356,TOSKF,Toyo Seikan Group Holdings Ltd,15.350000381469727,True,2012.0,,,,,,,,,,
+357,TOXFF,Tox Free Solutions Ltd,$1.85 ,True,,No data fetched for symbol TOXFF using YahooDailyReader,,,,,,,,,
+358,TSQ,Townsquare Media Inc,5.610000133514404,True,2014.0,,,,,,,,,,
+359,TGASF,Towngas China Co Ltd,0.46000000834465027,False,2010.0,,05-18,08-01,5.0,5.0,5.0,5.0,01-24,04-08,3.8332050169627547
+360,TOWN,Towne Bank,21.959999084472656,False,2009.0,,09-25,12-09,5.0,5.0,6.0,6.0,09-25,12-09,6.893771061195184
+361,TWNE,Towne Bancorp Inc Az,0.06515000015497208,True,2012.0,,,,,,,,,,
+362,CLUBQ,Town Sports International Holdings Inc,0.12999999523162842,True,2020.0,,,,,,,,,,
+363,TWSCF,Town Centre Securities PLC,$4.85 ,True,,No data fetched for symbol TWSCF using YahooDailyReader,,,,,,,,,
+364,TCNB,Town Center Bank Il,2.9200000762939453,False,2009.0,,05-07,07-21,8.0,8.0,3.0,3.0,05-07,07-21,8.799161542712136
+365,TWCF,Town & Country Financial Corp,18.5,False,2009.0,,07-05,09-18,4.0,4.0,7.0,7.0,07-05,09-18,6.060317522435946
+366,TWER,Towerstream Corp,0.6899999976158142,False,2009.0,,11-20,02-03,4.0,4.0,7.0,7.0,11-20,02-03,10.77469395803507
+367,TSEM,Tower Semiconductor Ltd,23.510000228881836,False,2009.0,,10-29,01-12,6.0,6.0,5.0,5.0,10-29,01-12,6.060063232816111
+368,TWRFF,Tower Resources Ltd,0.06509999930858612,False,2009.0,,12-14,02-27,4.0,4.0,7.0,7.0,12-14,02-27,7.097755233167021
+369,TPRP,Tower Properties Co,20000.0,False,2009.0,,04-24,07-08,5.0,5.0,6.0,6.0,04-24,07-08,-0.6080518664935329
+370,TOWTF,Tower One Wireless Corp,0.041430000215768814,True,2014.0,,,,,,,,,,
+371,TOWR,Tower International Inc,$31.00 ,True,,No data fetched for symbol TOWR using YahooDailyReader,,,,,,,,,
+372,TWAPF,TOWA Pharmaceutical Co Ltd,53.0,True,2012.0,,,,,,,,,,
+373,TRMLF,Tourmaline Oil Corp,13.539999961853027,True,2011.0,,,,,,,,,,
+374,TBLT,ToughBuilt Industries Inc,0.8100000023841858,True,2018.0,,,,,,,,,,
+375,PBEGF,Touchstone Exploration Inc,1.6200000047683716,False,2009.0,,08-11,10-25,6.0,6.0,5.0,5.0,08-11,10-25,4.579066730815075
+376,TSBA,Touchstone Bankshares Inc,8.829999923706055,False,2009.0,,03-18,06-01,5.0,5.0,6.0,6.0,03-18,06-01,8.211780582875964
+377,TGHI,Touchpoint Group Holdings Inc,0.019999999552965164,False,2009.0,,11-05,01-19,3.0,3.0,8.0,8.0,11-05,01-19,7.8805696166354435
+378,TMAK,Touchmark Bancshares Inc,6.5,True,2012.0,,,,,,,,,,
+379,TCNT,Toucan Interactive Corp,0.20000000298023224,True,2015.0,,,,,,,,,,
+380,TTVSF,Totvs SA,5.577390193939209,True,2014.0,,,,,,,,,,
+381,TOTA,Tottenham Acquisition I Ltd,10.949999809265137,True,2018.0,,,,,,,,,,
+382,TOTDY,TOTO Ltd,54.400001525878906,False,2010.0,,08-05,10-19,4.0,4.0,6.0,6.0,09-06,11-20,7.799133398465992
+383,TOTDF,TOTO Ltd,46.25,True,2012.0,,,,,,,,,,
+384,TOTXF,Totens Sparebank,$11.27 ,True,,No data fetched for symbol TOTXF using YahooDailyReader,,,,,,,,,
+385,TTLTF,Total Telcom Inc,0.08663000166416168,True,2016.0,,,,,,,,,,
+386,TSS,Total System Services Inc,$133.27 ,True,,No data fetched for symbol TSS using YahooDailyReader,,,,,,,,,
+387,TTFNF,Total SE,39.65999984741211,False,2010.0,,08-20,11-03,6.0,6.0,4.0,4.0,03-21,06-04,2.6369684105372984
+388,TOT,Total SE,41.209999084472656,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,08-06,10-20,2.5426852166931826
+389,TTPPF,Total Produce PLC,1.559999942779541,False,2009.0,,04-11,06-25,5.0,5.0,6.0,6.0,04-11,06-25,8.830330692904939
+390,TOTZF,Total Energy Services Inc,1.75,False,2009.0,,05-14,07-28,6.0,6.0,5.0,5.0,05-13,07-27,2.9911476790086113
+391,BRRZY,Total Brain Ltd,3.0,True,2013.0,,,,,,,,,,
+392,TTBLF,Total Brain Ltd,0.27000001072883606,True,2013.0,,,,,,,,,,
+393,TCCMF,Total Access Communication PCL,$1.14 ,True,,'Date',,,,,,,,,
+394,TACYY,Total Access Communication PCL,5.71999979019165,True,2012.0,,,,,,,,,,
+395,TACJF,Total Access Communication PCL,$2.46 ,True,,No data fetched for symbol TACJF using YahooDailyReader,,,,,,,,,
+396,TOSCF,Tosoh Corp,16.850000381469727,True,2013.0,,,,,,,,,,
+397,TSHTY,Toshiba Tec Corp,14.0,True,2014.0,,,,,,,,,,
+398,TSHTF,Toshiba Tec Corp,$3.50 ,True,,No data fetched for symbol TSHTF using YahooDailyReader,,,,,,,,,
+399,TOISF,Toshiba Plant Systems & Services Corp,$24.00 ,True,,No data fetched for symbol TOISF using YahooDailyReader,,,,,,,,,
+400,TOSYY,Toshiba Corp,13.760000228881836,False,2010.0,,08-22,11-05,5.0,5.0,5.0,5.0,10-02,12-16,4.221225477293181
+401,TOSBF,Toshiba Corp,27.100000381469727,False,2009.0,,08-22,11-05,5.0,5.0,6.0,6.0,08-22,11-05,3.443794828198071
+402,TOETF,Tosei Corp,$9.99 ,True,,No data fetched for symbol TOETF using YahooDailyReader,,,,,,,,,
+403,TPZ,Tortoise Power & Energy Infra Fd Inc,9.670000076293945,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,12-06,02-19,2.6860019958376657
+404,TTP,Tortoise Pipeline & Energy Fund Inc,15.09000015258789,True,2011.0,,,,,,,,,,
+405,NTG,"Tortoise Midstream Energy Fund, Inc.",18.8700008392334,False,2010.0,,10-27,01-10,5.0,5.0,5.0,5.0,12-06,02-19,6.324597264964454
+406,TEAF,Tortoise Essential Assets Income Term,13.84000015258789,True,2019.0,,,,,,,,,,
+407,TYG,Tortoise Energy Infrastructure Corp.,19.110000610351562,False,2009.0,,12-06,02-19,7.0,6.0,4.0,5.0,12-06,02-19,5.655095528189925
+408,NDP,"Tortoise Energy Independence Fund, Inc.",12.15999984741211,True,2012.0,,,,,,,,,,
+409,SNPR,Tortoise Acquisition Corp II,10.119999885559082,True,2020.0,,,,,,,,,,
+410,SHLL,Tortoise Acquisition Corp,44.90999984741211,True,2019.0,,,,,,,,,,
+411,TRTK,TORtec Group Corp,$0.60 ,True,,No data fetched for symbol TRTK using YahooDailyReader,,,,,,,,,
+412,TORSF,Torstar Corp,0.550000011920929,True,2012.0,,,,,,,,,,
+413,TORW,Torrington Water Co Inc,37.099998474121094,True,2012.0,,,,,,,,,,
+414,TRRPF,Torrent Capital Ltd,0.6384400129318237,True,2013.0,,,,,,,,,,
+415,TQLB,Torque Lifestyle Brands Inc,1,True,2020.0,,,,,,,,,,
+416,TRBMF,Torq Resources Inc,0.46000000834465027,True,2013.0,,,,,,,,,,
+417,TTLO,Torotel Inc,6.079999923706055,False,2009.0,,07-24,10-07,5.0,5.0,6.0,6.0,07-24,10-07,16.888207136806948
+418,TMTNF,Toromont Industries Ltd,65.4000015258789,False,2010.0,,06-25,09-08,7.0,7.0,3.0,3.0,06-25,09-08,6.200271914239155
+419,KEGYF,Toro Oil & Gas Ltd,$0.27 ,True,,'Date',,,,,,,,,
+420,TOEYF,Toro Energy Ltd,0.013000000268220901,True,2013.0,,,,,,,,,,
+421,TRRNF,Tornado Global Hydrovacs Ltd,0.10199999809265137,True,2016.0,,,,,,,,,,
+422,TRMD,TORM PLC,7.25,True,2018.0,,,,,,,,,,
+423,TSPPF,Torishima Pump Mfg Co Ltd,$16.45 ,True,,No data fetched for symbol TSPPF using YahooDailyReader,,,,,,,,,
+424,TRWRF,Torino Power Solutions Inc,0.10199999809265137,True,2017.0,,,,,,,,,,
+425,TRXPF,Torii Pharmaceutical Co Ltd,$25.50 ,True,,No data fetched for symbol TRXPF using YahooDailyReader,,,,,,,,,
+426,TORXF,Torex Gold Resources Inc,13.90999984741211,False,2010.0,,06-18,09-01,6.0,6.0,4.0,4.0,06-18,09-01,6.197269618768059
+427,TRCH,Torchlight Energy Resources Inc,0.28999999165534973,False,2010.0,,05-16,07-30,7.0,7.0,3.0,3.0,05-16,07-30,13.48938402102864
+428,VREYF,TORC Oil & Gas Ltd,1.399999976158142,False,2010.0,,09-10,11-24,4.0,4.0,6.0,6.0,01-30,04-14,1.4274042156870217
+429,TRYIY,Toray Industries Inc,10.880000114440918,False,2009.0,,02-08,04-23,7.0,7.0,4.0,4.0,07-11,09-24,3.837521525877804
+430,TRYIF,Toray Industries Inc,5.190000057220459,True,2011.0,,,,,,,,,,
+431,TORM,TOR Minerals International Inc,1.0499999523162842,False,2009.0,,03-17,05-31,5.0,5.0,6.0,6.0,03-17,05-31,10.795690151703848
+432,TPREF,Topre Corp,$4.83 ,True,,'Date',,,,,,,,,
+433,TPTJF,Topps Tiles PLC,0.6029000282287598,True,2013.0,,,,,,,,,,
+434,TOPPY,Toppan Printing Co Ltd,7.099999904632568,False,2009.0,,03-12,05-26,7.0,7.0,4.0,4.0,11-18,02-01,4.575491260451861
+435,TONPF,Toppan Printing Co Ltd,15.100000381469727,True,2012.0,,,,,,,,,,
+436,TPDNF,Topdanmark A/S,45.290000915527344,True,2020.0,,,,,,,,,,
+437,TPDKY,Topdanmark A/S,4.320000171661377,True,2015.0,,,,,,,,,,
+438,TOPCF,Topcon Corp,13.256999969482422,True,2014.0,,,,,,,,,,
+439,BLD,TopBuild Corp,181.5800018310547,True,2015.0,,,,,,,,,,
+440,TOPZ,Topaz Resources Inc,0.10499999672174454,False,2010.0,,11-12,01-26,3.0,3.0,7.0,7.0,11-12,01-26,-323.297515976796
+441,TPPRF,Top Strike Resources Corp,0.009999999776482582,True,2018.0,,,,,,,,,,
+442,TOPS,TOP Ships Inc,1.1200000047683716,False,2009.0,,11-02,01-16,3.0,3.0,8.0,8.0,11-02,01-16,-54.69433602469803
+443,TISA,Top Image Systems Ltd,$0.85 ,True,,No data fetched for symbol TISA using YahooDailyReader,,,,,,,,,
+444,TPGVF,Top Glove Corp Bhd,1.899999976158142,True,2011.0,,,,,,,,,,
+445,TGLVY,Top Glove Corp Bhd,6.576000213623047,True,2012.0,,,,,,,,,,
+446,TPHIF,Top Frontier Investment Holdings Inc,2.3399999141693115,True,2014.0,,,,,,,,,,
+447,TROLB,Tootsie Roll Industries Inc,29.0,False,2010.0,,09-19,12-03,5.0,3.0,5.0,7.0,06-25,09-08,-11.519462776000507
+448,TR,Tootsie Roll Industries Inc,31.989999771118164,False,2009.0,,10-21,01-04,5.0,5.0,6.0,6.0,09-21,12-05,4.460780629619136
+449,TOOTQ,Tootie Pie Co Inc,$0.06 ,True,,No data fetched for symbol TOOTQ using YahooDailyReader,,,,,,,,,
+450,TODM,Tonopah Divide Mining Co,0.10300000011920929,True,2012.0,,,,,,,,,,
+451,TNGL,Tonogold Resources Inc,0.3799999952316284,False,2009.0,,03-20,06-03,5.0,5.0,6.0,6.0,03-20,06-03,19.016345260717628
+452,TNEHF,Tonly Electronics Holdings Ltd,0.949999988079071,True,2017.0,,,,,,,,,,
+453,TNXP,Tonix Pharmaceuticals Holding Corp,0.5799999833106995,True,2012.0,,,,,,,,,,
+454,TXIC,Tongxin International Ltd,0.019999999552965164,False,2009.0,,07-06,09-19,2.0,2.0,9.0,9.0,07-06,09-19,9.820431474042449
+455,TGLP,Tongli Pharmaceuticals (USA) Inc,$0.03 ,True,,No data fetched for symbol TGLP using YahooDailyReader,,,,,,,,,
+456,TONJ,Tongji Healthcare Group Inc,1.7300000190734863,True,2012.0,,,,,,,,,,
+457,TDGFF,Tongda Group Holdings Ltd,0.05000000074505806,True,2020.0,,,,,,,,,,
+458,TGATF,Tongaat Hulett Ltd,$11.91 ,True,,No data fetched for symbol TGATF using YahooDailyReader,,,,,,,,,
+459,TGRNF,Tong Ren Tang Technologies Co Ltd,0.5899999737739563,True,2012.0,,,,,,,,,,
+460,TGRLF,TonenGeneral Sekiyu KK,$12.10 ,True,,No data fetched for symbol TGRLF using YahooDailyReader,,,,,,,,,
+461,TOMYY,TOMY Co Ltd,9.149999618530273,True,2020.0,,,,,,,,,,
+462,TMOAY,TomTom NV,3.7699999809265137,True,2012.0,,,,,,,,,,
+463,TMOAF,TomTom NV,7.53000020980835,False,2009.0,,07-06,09-19,4.0,4.0,7.0,7.0,07-06,09-19,11.037215084292825
+464,TMRAY,Tomra Systems ASA,41.79999923706055,False,2009.0,,01-27,04-11,8.0,8.0,3.0,3.0,01-27,04-11,10.144564898819151
+465,TMRAF,Tomra Systems ASA,41.599998474121094,False,2010.0,,03-15,05-29,8.0,8.0,2.0,2.0,02-01,04-16,10.100832191015261
+466,TMP,Tompkins Financial Corp,66.58999633789062,False,2009.0,,10-22,01-05,6.0,6.0,5.0,5.0,11-09,01-23,3.4322780364087486
+467,TOMZ,TOMI Environmental Solutions Inc,4.449999809265137,False,2009.0,,05-29,08-12,5.0,5.0,6.0,6.0,05-29,08-12,11.427086536605806
+468,TMEEF,Tomen Electronics Corp,$16.00 ,True,,No data fetched for symbol TMEEF using YahooDailyReader,,,,,,,,,
+469,TMCGF,TomCo Energy PLC,0.009999999776482582,True,2013.0,,,,,,,,,,
+470,TMBXF,Tombstone Exploration Corp,2.240000009536743,False,2009.0,,03-10,05-24,5.0,5.0,6.0,6.0,03-10,05-24,18.831893095500888
+471,TAAI,Tombao Antiques & Art Group,2.75,True,2013.0,,,,,,,,,,
+472,TOGOF,TomaGold Corp,0.06199999898672104,True,2013.0,,,,,,,,,,
+473,TMMTF,TOM TAILOR Holding SE,$7.80 ,True,,No data fetched for symbol TMMTF using YahooDailyReader,,,,,,,,,
+474,TOCOF,TOM Group Ltd,0.15800000727176666,True,2012.0,,,,,,,,,,
+475,THKUF,Toll Holdings Ltd,6.678500175476074,True,2012.0,,,,,,,,,,
+476,TOL,Toll Brothers Inc,47.2400016784668,False,2009.0,,11-07,01-21,8.0,8.0,3.0,3.0,11-02,01-16,8.093616599907246
+477,TKURF,Tokyu Reit Inc,1480.0,False,2010.0,,11-17,01-31,5.0,0.0,5.0,10.0,09-25,12-09,2.173807957980926
+478,TTUUF,Tokyu Fudosan Holdings Corp,4.09499979019165,True,2019.0,,,,,,,,,,
+479,TKFOY,Tokyu Fudosan Holdings Corp,9.069999694824219,True,2014.0,,,,,,,,,,
+480,TOKUY,Tokyu Corp,13.050000190734863,True,2011.0,,,,,,,,,,
+481,TOKUF,Tokyu Corp,12.390000343322754,False,2009.0,,02-28,05-13,2.0,2.0,9.0,9.0,06-14,08-28,5.9378617248561625
+482,TYTMY,Tokyo Tatemono Co Ltd,$15.29 ,True,,No data fetched for symbol TYTMY using YahooDailyReader,,,,,,,,,
+483,TYTMF,Tokyo Tatemono Co Ltd,13.0,True,2013.0,,,,,,,,,,
+484,TOKSF,Tokyo Steel Manufacturing Co Ltd,$6.20 ,True,,No data fetched for symbol TOKSF using YahooDailyReader,,,,,,,,,
+485,TOKCF,Tokyo Ohka Kogyo Co Ltd,58.0,True,2018.0,,,,,,,,,,
+486,TKGSY,Tokyo Gas Co Ltd,12.829999923706055,False,2010.0,,01-17,04-01,6.0,6.0,4.0,4.0,01-17,04-01,5.751055688237375
+487,TKGSF,Tokyo Gas Co Ltd,21.850000381469727,True,2012.0,,,,,,,,,,
+488,TOELY,Tokyo Electron Ltd,77.1500015258789,False,2010.0,,09-21,12-05,6.0,6.0,4.0,4.0,10-06,12-20,10.48829483500849
+489,TOELF,Tokyo Electron Ltd,307.5,False,2010.0,,03-13,05-27,3.0,6.0,7.0,4.0,10-04,12-18,12.330108036991847
+490,TKECF,Tokyo Electric Power Co Holdings,2.700000047683716,False,2010.0,,05-26,08-09,2.0,2.0,8.0,8.0,05-26,08-09,1.5114340702852822
+491,TKECY,Tokyo Electric Power Co Holdings,2.759999990463257,False,2010.0,,08-01,10-15,1.0,1.0,9.0,9.0,08-01,10-15,-7.622787539373182
+492,TKYMY,Tokuyama Corp,11.899999618530273,True,2012.0,,,,,,,,,,
+493,TKYMF,Tokuyama Corp,24.25,True,2013.0,,,,,,,,,,
+494,TKOMY,Tokio Marine Holdings Inc,53.720001220703125,False,2009.0,,05-23,08-06,6.0,6.0,5.0,5.0,05-23,08-06,3.5736739310347136
+495,TKOMF,Tokio Marine Holdings Inc,50.029998779296875,False,2010.0,,03-28,06-11,5.0,5.0,5.0,5.0,09-09,11-23,5.208152228920371
+496,TKCM,Token Communities Ltd,7.550000190734863,True,2018.0,,,,,,,,,,
+497,TOKTF,Tokai Tokyo Financial Holdings Inc,$3.65 ,True,,No data fetched for symbol TOKTF using YahooDailyReader,,,,,,,,,
+498,TOKTY,Tokai Tokyo Financial Holdings Inc,2.740000009536743,True,2013.0,,,,,,,,,,
+499,TKRKF,Tokai Rika Co Ltd,$20.65 ,True,,No data fetched for symbol TKRKF using YahooDailyReader,,,,,,,,,
+500,TKCBF,Tokai Carbon Co Ltd,9.449999809265137,True,2019.0,,,,,,,,,,
+501,TKCBY,Tokai Carbon Co Ltd,48.040000915527344,True,2017.0,,,,,,,,,,
+502,TEPCY,Tohoku Electric Power Co Inc,8.609999656677246,True,2011.0,,,,,,,,,,
+503,TEPCF,Tohoku Electric Power Co Inc,9.050000190734863,True,2013.0,,,,,,,,,,
+504,TOZOF,Toho Zinc Co Ltd,$7.70 ,True,,No data fetched for symbol TOZOF using YahooDailyReader,,,,,,,,,
+505,TTNMF,Toho Titanium Co Ltd,$39.20 ,True,,'Date',,,,,,,,,
+506,THOGF,Toho Gas Co Ltd,49.5,True,2013.0,,,,,,,,,,
+507,TKCOF,Toho Co Ltd,36.25,True,2014.0,,,,,,,,,,
+508,TOGL,Toga Ltd,8.109999656677246,False,2009.0,,04-21,07-05,3.0,3.0,6.0,6.0,04-21,07-05,26.537842119597816
+509,TOFB,Tofutti Brands Inc,1.9800000190734863,False,2009.0,,04-09,06-23,6.0,6.0,5.0,5.0,04-09,06-23,8.524359786716085
+510,TTOFF,Tofas Turk Otomobil Fabrikasi AS,3.0,True,2019.0,,,,,,,,,,
+511,TTOBF,Tofas Turk Otomobil Fabrikasi AS,$18.58 ,True,,No data fetched for symbol TTOBF using YahooDailyReader,,,,,,,,,
+512,TOEAF,Toei Animation Co Ltd,45.28450012207031,True,2019.0,,,,,,,,,,
+513,TOMDF,Todos Medical Ltd,0.0560000017285347,True,2017.0,,,,,,,,,,
+514,TODAF,TODA International Holdings Inc,$4.22 ,True,,'Date',,,,,,,,,
+515,TODCF,Toda Corp,$4.55 ,True,,No data fetched for symbol TODCF using YahooDailyReader,,,,,,,,,
+516,TODGF,Tod's SpA,25.75,True,2013.0,,,,,,,,,,
+517,TDPAY,Tod's SpA,2.880000114440918,True,2013.0,,,,,,,,,,
+518,TOCA,Tocagen Inc,$18.90 ,True,,No data fetched for symbol TOCA using YahooDailyReader,,,,,,,,,
+519,TBURF,Tobu Railway Co Ltd,34.5,True,2020.0,,,,,,,,,,
+520,TBRA,Tobira Therapeutics Inc,$42.09 ,True,,'Date',,,,,,,,,
+521,TBIIF,Tobii AB,5.940000057220459,True,2015.0,,,,,,,,,,
+522,TOAGF,Toagosei Co Ltd,10.199999809265137,True,2018.0,,,,,,,,,,
+523,TIMGF,Toachi Mining Inc,$0.05 ,True,,No data fetched for symbol TIMGF using YahooDailyReader,,,,,,,,,
+524,TOAOF,Toa Oil Co Ltd,16.75,True,2019.0,,,,,,,,,,
+525,TNTEY,TNT Express NV,9.307999610900879,True,2012.0,,,,,,,,,,
+526,TNSB,TNSB Group Inc,0.03500000014901161,True,2012.0,,,,,,,,,,
+527,TNRK,TNR Technical Inc,12.899999618530273,False,2009.0,,03-18,06-01,5.0,5.0,6.0,6.0,03-18,06-01,8.109935286445834
+528,TRRXF,TNR Gold Corp,0.03929999843239784,False,2010.0,,12-11,02-24,7.0,7.0,3.0,3.0,12-11,02-24,17.612857624913246
+529,TNGZF,TNG Ltd,0.07900000363588333,True,2018.0,,,,,,,,,,
+530,TMXXF,TMX Group Ltd,96.23999786376953,True,2012.0,,,,,,,,,,
+531,TPPM,TMPOS Inc,0.03999999910593033,True,2018.0,,,,,,,,,,
+532,TMMI,TMM Inc,0.01269999984651804,True,2012.0,,,,,,,,,,
+533,TMKXY,TMK PAO,3.0,True,2011.0,,,,,,,,,,
+534,TMKOY,TMK PAO,2.109999895095825,False,2010.0,,05-25,08-08,2.0,2.0,8.0,8.0,04-20,07-04,4.384398225070029
+535,TMKOL,TMK PAO,$7.82 ,True,,No data fetched for symbol TMKOL using YahooDailyReader,,,,,,,,,
+536,TMBBF,TMB Bank Public Co Ltd,$0.07 ,True,,No data fetched for symbol TMBBF using YahooDailyReader,,,,,,,,,
+537,TMBBY,TMB Bank Public Co Ltd,7.28000020980835,True,2017.0,,,,,,,,,,
+538,TMMFF,TMAC Resources Inc,0.9140499830245972,True,2016.0,,,,,,,,,,
+539,TLMMF,TLG Immobilien AG,30.600000381469727,True,2015.0,,,,,,,,,,
+540,TLDE,TLD3 Entertainment Group Inc,0.03999999910593033,True,2012.0,,,,,,,,,,
+541,TKHGF,TKH Group NV,58.599998474121094,True,2017.0,,,,,,,,,,
+542,TJX,TJX Companies Inc,61.560001373291016,False,2009.0,,06-27,09-10,9.0,9.0,2.0,2.0,06-27,09-10,7.465472372790611
+543,AXLE,TJT Inc,0.23000000417232513,False,2009.0,,08-07,10-21,5.0,5.0,6.0,6.0,08-07,10-21,14.626339047759721
+544,TIZAF,Tiziana Life Sciences PLC,2.0501999855041504,True,2020.0,,,,,,,,,,
+545,TLSA,Tiziana Life Sciences PLC,2.8399999141693115,True,2018.0,,,,,,,,,,
+546,TIXC,Tix Corp,0.20000000298023224,False,2009.0,,05-24,08-07,6.0,6.0,5.0,5.0,05-22,08-05,6.709029757735048
+547,TIVO,TiVo Corp,$6.09 ,True,,No data fetched for symbol TIVO using YahooDailyReader,,,,,,,,,
+548,TVTY,Tivity Health Inc,15.979999542236328,False,2009.0,,11-04,01-18,7.0,7.0,4.0,4.0,11-04,01-18,8.766267867132884
+549,TITMF,Titomic Ltd,0.41999998688697815,True,2020.0,,,,,,,,,,
+550,TTTGF,Titanium Transportation Group Inc,1.8217999935150146,True,2016.0,,,,,,,,,,
+551,TNSMF,Titanium Sands Ltd,0.019999999552965164,True,2020.0,,,,,,,,,,
+552,TTHG,Titanium Holdings Group Inc,0.25,False,2009.0,,07-01,09-14,6.0,6.0,5.0,5.0,07-01,09-14,10.941255923887262
+553,TITUF,Titanium Corp Inc,0.1899999976158142,False,2009.0,,03-07,05-21,4.0,4.0,7.0,7.0,03-07,05-21,7.530814866859451
+554,TTNP,Titan Pharmaceuticals Inc,0.17000000178813934,False,2009.0,,05-06,07-20,7.0,7.0,4.0,4.0,05-06,07-20,5.742063915297755
+555,TIPGF,Titan Petrochemicals Group Ltd,0.024000000208616257,True,2011.0,,,,,,,,,,
+556,TNMCF,Titan Mining Corp,0.6186000108718872,True,2018.0,,,,,,,,,,
+557,TTTNF,Titan Minerals Ltd,0.06499999761581421,True,2016.0,,,,,,,,,,
+558,TMDI,Titan Medical Inc,0.75,False,2010.0,,09-14,11-28,5.0,5.0,5.0,5.0,09-14,11-28,-7.648300306292344
+559,TITN,Titan Machinery Inc,18.459999084472656,False,2009.0,,11-01,01-15,6.0,6.0,5.0,5.0,11-01,01-15,7.056847543950576
+560,TPCFF,Titan Logix Corp,0.24699999392032623,True,2012.0,,,,,,,,,,
+561,TWI,Titan International Inc,4.869999885559082,False,2009.0,,10-01,12-15,7.0,7.0,4.0,4.0,10-01,12-15,6.668817870841937
+562,TTEN,Titan Energy LLC,0.029999999329447746,True,2016.0,,,,,,,,,,
+563,TITCY,Titan Cement Co SA,$11.49 ,True,,No data fetched for symbol TITCY using YahooDailyReader,,,,,,,,,
+564,TITCF,Titan Cement Co SA,$22.15 ,True,,No data fetched for symbol TITCF using YahooDailyReader,,,,,,,,,
+565,TSSNF,Tissue Regenix Group PLC,0.00800000037997961,True,2016.0,,,,,,,,,,
+566,TSBLF,Tiso Blackstar Group SE,0.07999999821186066,True,2018.0,,,,,,,,,,
+567,SNRAF,Tisdale Resources Corp,0.41999998688697815,False,2010.0,,07-25,10-08,2.0,2.0,8.0,8.0,07-25,10-08,15.853458796931234
+568,TSCFY,TISCO Financial Group PCL,20.0,True,2013.0,,,,,,,,,,
+569,TSCXF,Tiscali SpA,$2.45 ,True,,'Date',,,,,,,,,
+570,TISNF,TIS Inc,21.600000381469727,True,2020.0,,,,,,,,,,
+571,TIPT,Tiptree Inc,5.400000095367432,False,2010.0,,04-06,06-20,6.0,6.0,4.0,4.0,04-03,06-17,6.479551863339119
+572,TNYYF,Tinybeans Group Pty Ltd,1.190000057220459,True,2017.0,,,,,,,,,,
+573,TNTRQ,Tintri Inc,0.017000000923871994,True,2017.0,,,,,,,,,,
+574,TNTC,Tintic Standard Gold Mines Inc,0.550000011920929,False,2009.0,,01-16,03-31,4.0,4.0,7.0,7.0,01-16,03-31,-1.5048853025513325
+575,TMGG,Tintic Gold Mining Co,$0.08 ,True,,No data fetched for symbol TMGG using YahooDailyReader,,,,,,,,,
+576,TKSTF,Tinkerine Studios Ltd,0.041999999433755875,True,2014.0,,,,,,,,,,
+577,TKRFF,Tinka Resources Ltd,0.14000000059604645,False,2009.0,,12-14,02-27,8.0,8.0,3.0,3.0,12-14,02-27,19.463297938090765
+578,TCYMY,Tingyi (Cayman Islands) Holding Corp,35.7599983215332,False,2010.0,,06-10,08-24,4.0,4.0,6.0,6.0,06-10,08-24,2.340548574953192
+579,TCYMF,Tingyi (Cayman Islands) Holding Corp,1.7999999523162842,False,2010.0,,06-04,08-18,3.0,3.0,7.0,7.0,06-25,09-08,5.268173982949116
+580,TMST,TimkenSteel Corp,4.510000228881836,True,2014.0,,,,,,,,,,
+581,HOMS,Timios National Corp,0,True,2019.0,,,,,,,,,,
+582,TIMCF,Timia Capital Corp,0.17069999873638153,True,2018.0,,,,,,,,,,
+583,FBIHF,Times Universal Group Holdings Ltd,$0.04 ,True,,No data fetched for symbol FBIHF using YahooDailyReader,,,,,,,,,
+584,TNHDF,Times Neighborhood Holdings Ltd,0.9800000190734863,True,2020.0,,,,,,,,,,
+585,TMPPF,Times China Holdings Ltd,1.4550000429153442,True,2017.0,,,,,,,,,,
+586,TWX,Time Warner Inc,98.7699966430664,True,2012.0,,,,,,,,,,
+587,TWC,Time Warner Cable Inc,$209.56 ,True,,'Date',,,,,,,,,
+588,TIME,Time Inc,$18.50 ,True,,'Date',,,,,,,,,
+589,TLRS,Timberline Resources Corp,0.2800000011920929,False,2009.0,,07-15,09-28,4.0,4.0,7.0,7.0,07-15,09-28,12.877394750625687
+590,TSBK,Timberland Bancorp Inc,23.559999465942383,False,2009.0,,07-20,10-03,9.0,9.0,2.0,2.0,07-20,10-03,2.709763183914501
+591,TBCRF,Timbercreek Financial Corp,6.254640102386475,True,2020.0,,,,,,,,,,
+592,TMBR,Timber Pharmaceuticals Inc,0.949999988079071,True,2014.0,,,,,,,,,,
+593,TIMB,TIM SA,13.029999732971191,False,2009.0,,11-12,01-26,8.0,8.0,3.0,3.0,11-12,01-26,7.950774508857492
+594,TLLZF,Tilting Capital Corp,0.17710000276565552,True,2013.0,,,,,,,,,,
+595,TLLTF,TILT Holdings Inc,0.3297500014305115,True,2018.0,,,,,,,,,,
+596,TLRY,Tilray Inc,6.730000019073486,True,2018.0,,,,,,,,,,
+597,TLYS,Tilly's Inc,8.210000038146973,True,2012.0,,,,,,,,,,
+598,TILCF,Till Capital Corp,1.86899995803833,True,2014.0,,,,,,,,,,
+599,TTSH,Tile Shop Holdings Inc,4.28000020980835,True,2019.0,,,,,,,,,,
+600,TFSHF,Tikun Olam Cannbit Pharmaceuticals Ltd,1.4500000476837158,True,2020.0,,,,,,,,,,
+601,TKKIF,Tikkurila Oyj,$19.25 ,True,,No data fetched for symbol TKKIF using YahooDailyReader,,,,,,,,,
+602,TKKHF,Tikehau Capital SCA,27.18000030517578,True,2018.0,,,,,,,,,,
+603,TIKRF,Tikcro Technologies Ltd,0.23999999463558197,False,2009.0,,01-25,04-09,4.0,4.0,7.0,7.0,01-25,04-09,8.116427630513229
+604,TIGE,Tigrent Inc,0.006500000134110451,False,2009.0,,04-09,06-23,3.0,3.0,8.0,8.0,04-09,06-23,26.623353765909812
+605,TRSDF,Tiger Resources Ltd,$0.02 ,True,,No data fetched for symbol TRSDF using YahooDailyReader,,,,,,,,,
+606,TGILF,Tiger International Resources Inc,0.10300000011920929,True,2018.0,,,,,,,,,,
+607,TBLMY,Tiger Brands Ltd,13.25,False,2009.0,,10-22,01-05,5.0,4.0,6.0,7.0,10-22,01-05,5.59812889709998
+608,TBLMF,Tiger Brands Ltd,12.532999992370605,True,2013.0,,,,,,,,,,
+609,TAIRF,Tiger Airways Holdings Ltd,$0.29 ,True,,No data fetched for symbol TAIRF using YahooDailyReader,,,,,,,,,
+610,TGXSF,TiGenix NV,$2.04 ,True,,No data fetched for symbol TGXSF using YahooDailyReader,,,,,,,,,
+611,PTTGF,Tiga Pilar Sejahtera Food Tbk,$0.06 ,True,,No data fetched for symbol PTTGF using YahooDailyReader,,,,,,,,,
+612,TIF,Tiffany & Co,131.52999877929688,False,2009.0,,02-19,05-04,5.0,5.0,6.0,6.0,09-01,11-15,8.886085676810199
+613,TCYBF,TietoEVRY Corp,31.75,True,2015.0,,,,,,,,,,
+614,TIER,Tier REIT Inc,$28.88 ,True,,No data fetched for symbol TIER using YahooDailyReader,,,,,,,,,
+615,TIEMF,Tiemco Ltd,5.550000190734863,True,2016.0,,,,,,,,,,
+616,TTCS,TIE Technologies Inc,0.065700002014637,False,2009.0,,06-03,08-17,3.0,3.0,8.0,8.0,06-03,08-17,23.324741825341547
+617,TWMIF,Tidewater Midstream and Infrastructure Ltd,0.5244500041007996,True,2017.0,,,,,,,,,,
+618,TDW,Tidewater Inc,9.529999732971191,False,2009.0,,02-28,05-13,7.0,7.0,4.0,4.0,02-28,05-13,-2.281844002873855
+619,TIRTZ,Tidelands Royalty Trust B,0.18000000715255737,False,2009.0,,12-26,03-11,8.0,8.0,3.0,3.0,12-30,03-15,5.389378900474548
+620,TDBK,Tidelands Bancshares Inc,$0.52 ,True,,'Date',,,,,,,,,
+621,TIBR,Tiberius Acquisition Corp,$8.32 ,True,,No data fetched for symbol TIBR using YahooDailyReader,,,,,,,,,
+622,TNMD,Tianrong Medical Group Inc,0.032999999821186066,True,2014.0,,,,,,,,,,
+623,TIPS,Tianrong Internet Products And Services Inc,0.007499999832361937,False,2009.0,,04-25,07-09,1.0,1.0,9.0,9.0,04-25,07-09,-1602.9677139306314
+624,TIANF,Tianneng Power International Ltd,1.3200000524520874,True,2013.0,,,,,,,,,,
+625,TZHGF,Tianjin Zhong Xin Pharmaceutical Group Corp Ltd,$1.13 ,True,,No data fetched for symbol TZHGF using YahooDailyReader,,,,,,,,,
+626,TJIPF,Tianjin Port Development Holdings Ltd,0.07999999821186066,False,2010.0,,05-21,08-04,3.0,3.0,7.0,7.0,09-30,12-14,7.028892208417691
+627,TJSCF,Tianjin Development Holdings Ltd,0.33000001311302185,False,2009.0,,05-20,08-03,2.0,2.0,8.0,8.0,12-20,03-04,5.11816465866222
+628,TNJIF,Tianjin Capital Environmental Protection Group Co,0.4129999876022339,True,2015.0,,,,,,,,,,
+629,TCEPY,Tianjin Capital Environmental Protection Group Co,11.880000114440918,True,2018.0,,,,,,,,,,
+630,CIIT,Tianci International Inc,1.5199999809265137,True,2013.0,,,,,,,,,,
+631,TNPH,Tian'an Pharmaceutical Co Ltd,0.03500000014901161,True,2012.0,,,,,,,,,,
+632,TGRVF,Tian Ge Interactive Holdings Ltd,$0.80 ,True,,No data fetched for symbol TGRVF using YahooDailyReader,,,,,,,,,
+633,TIACF,Tian An China Investments Co Ltd,0.5249999761581421,False,2009.0,,03-27,06-10,2.0,2.0,9.0,9.0,05-14,07-28,7.3562654846875555
+634,TYEKF,thyssenkrupp AG,5.489999771118164,False,2010.0,,11-13,01-27,4.0,3.0,6.0,7.0,03-12,05-26,-2.1429702416505134
+635,TKAMY,thyssenkrupp AG,5.635000228881836,True,2011.0,,,,,,,,,,
+636,THURF,Thunderstruck Resources Ltd,0.06109999865293503,True,2016.0,,,,,,,,,,
+637,THRSF,Thunderbird Resorts Inc,0.029999999329447746,False,2010.0,,12-19,03-04,4.0,4.0,6.0,6.0,12-19,03-04,6.192293703341941
+638,THBRF,Thunderbird Entertainment Group Inc,1.899999976158142,True,2013.0,,,,,,,,,,
+639,THMG,Thunder Mountain Gold Inc,0.14000000059604645,False,2009.0,,12-19,03-04,5.0,5.0,6.0,6.0,12-19,03-04,15.829413152343054
+640,TNRG,Thunder Energies Corp,0.17000000178813934,True,2014.0,,,,,,,,,,
+641,THBR,Thunder Bridge Acquisition II Ltd,10.130000114440918,True,2019.0,,,,,,,,,,
+642,THUPY,Thule Group AB,16.510000228881836,True,2019.0,,,,,,,,,,
+643,THLPF,Thule Group AB,25.001100540161133,True,2015.0,,,,,,,,,,
+644,THRY,Thryv Holdings Inc,9.680000305175781,True,2018.0,,,,,,,,,,
+645,DIGTF,Thruvision Group PLC,0.36000001430511475,True,2016.0,,,,,,,,,,
+646,IDKFF,ThreeD Capital Inc,0.27959999442100525,True,2020.0,,,,,,,,,,
+647,TSHR,Three Shores Bancorporation Inc,6.670000076293945,True,2018.0,,,,,,,,,,
+648,PEMTF,Thoughtful Brands Inc,0.05849999934434891,True,2018.0,,,,,,,,,,
+649,THFWF,Thorpe (F W) PLC,$3.50 ,True,,No data fetched for symbol THFWF using YahooDailyReader,,,,,,,,,
+650,GNWKY,Thorney Technologies Ltd,$25.77 ,True,,No data fetched for symbol GNWKY using YahooDailyReader,,,,,,,,,
+651,THAFF,Thoresen Thai Agencies PCL,0.09000000357627869,False,2009.0,,01-08,03-23,8.0,5.0,3.0,6.0,07-10,09-23,9.221982296181595
+652,THO,Thor Industries Inc,92.54000091552734,False,2009.0,,09-21,12-05,7.0,7.0,4.0,4.0,09-21,12-05,6.972313015930343
+653,TRI,Thomson Reuters Corp,80.69000244140625,False,2009.0,,07-06,09-19,7.0,6.0,4.0,5.0,06-01,08-15,4.7554606343560915
+654,TCPTF,Thompson Creek Metals Co Inc,$0.50 ,True,,'Date',,,,,,,,,
+655,THVB,Thomasville Bancshares Inc,48.5,False,2009.0,,11-09,01-23,8.0,8.0,3.0,3.0,11-09,01-23,4.182960666076213
+656,TGISQ,Thomas Group Inc,$0.01 ,True,,'Date',,,,,,,,,
+657,TCKGY,Thomas Cook Group PLC,0.10999999940395355,False,2010.0,,12-18,03-03,6.0,5.0,4.0,5.0,12-18,03-03,12.64879763983617
+658,TCKGF,Thomas Cook Group PLC,$0.07 ,True,,No data fetched for symbol TCKGF using YahooDailyReader,,,,,,,,,
+659,FSLF,THL Credit Senior Loan Fund,12.979999542236328,True,2013.0,,,,,,,,,,
+660,THKLY,THK Co Ltd,14.539999961853027,False,2010.0,,09-03,11-17,6.0,6.0,4.0,4.0,10-17,12-31,6.249273274018332
+661,THKLF,THK Co Ltd,24.799999237060547,True,2012.0,,,,,,,,,,
+662,TPRE,Third Point Reinsurance Ltd,9.3100004196167,True,2013.0,,,,,,,,,,
+663,TDCB,Third Century Bancorp,12.0,False,2009.0,,03-20,06-03,6.0,6.0,5.0,5.0,03-20,06-03,8.227382919429969
+664,TFECY,Thin Film Electronics ASA,0.15800000727176666,True,2015.0,,,,,,,,,,
+665,TFECF,Thin Film Electronics ASA,0.0430000014603138,True,2012.0,,,,,,,,,,
+666,TGMGF,Theta Gold Mines Ltd,0.30000001192092896,True,2020.0,,,,,,,,,,
+667,THRO,Theron Resource Group,0.9100000262260437,True,2012.0,,,,,,,,,,
+668,TOOD,Thermwood Corp,9.0,True,2012.0,,,,,,,,,,
+669,THR,Thermon Group Holdings Inc,13.220000267028809,True,2011.0,,,,,,,,,,
+670,THMO,ThermoGenesis Holdings Inc,2.5399999618530273,False,2009.0,,12-18,03-03,4.0,4.0,7.0,7.0,12-18,03-03,13.689257517932722
+671,TDYT,Thermodynetics Inc,0.007000000216066837,False,2009.0,,03-01,05-15,7.0,7.0,4.0,4.0,03-01,05-15,37.23125303895667
+672,TRHIF,ThermoCeramix Corp,$0.03 ,True,,No data fetched for symbol TRHIF using YahooDailyReader,,,,,,,,,
+673,TMO,Thermo Fisher Scientific Inc,453.1000061035156,False,2009.0,,05-13,07-27,8.0,8.0,3.0,3.0,05-13,07-27,6.8602312648668775
+674,TMGEF,Thermal Energy International Inc,0.05073999986052513,True,2018.0,,,,,,,,,,
+675,TZPC,ThermaFreeze Products Corp,3.450000047683716,True,2012.0,,,,,,,,,,
+676,THRBF,Therma Bright Inc,0.06499999761581421,True,2018.0,,,,,,,,,,
+677,TBPH,Theravance Biopharma Inc,17.149999618530273,True,2014.0,,,,,,,,,,
+678,THTX,Theratechnologies Inc,2.309999942779541,False,2009.0,,11-25,02-08,5.0,5.0,6.0,6.0,11-25,02-08,16.001868972129714
+679,TRPXY,Therapix Biosciences Ltd,3.3299999237060547,True,2020.0,,,,,,,,,,
+680,TXMD,TherapeuticsMD Inc,1.2999999523162842,False,2009.0,,11-12,01-26,7.0,7.0,4.0,4.0,11-12,01-26,0.6807121416784606
+681,RACA,Therapeutics Acquisition Corp,14.600000381469727,True,2020.0,,,,,,,,,,
+682,TSOI,Therapeutic Solutions International Inc,0.004999999888241291,False,2009.0,,06-03,08-17,3.0,3.0,8.0,8.0,06-03,08-17,23.46470927682681
+683,OBMP,Theralink Technologies Inc,0.15000000596046448,False,2010.0,,05-30,08-13,4.0,4.0,6.0,6.0,05-30,08-13,-13.592925154516875
+684,TLTFF,Theralase Technologies Inc,0.11999999731779099,False,2010.0,,10-25,01-08,3.0,3.0,7.0,7.0,10-25,01-08,4.193719573586611
+685,TCLIF,Theraclion,1.850000023841858,True,2019.0,,,,,,,,,,
+686,MVEN,theMaven Inc,0.6299999952316284,False,2009.0,,04-06,06-20,4.0,5.0,7.0,6.0,12-04,02-17,13.861826837189186
+687,MACQF,Themac Resources Group Ltd,0.06750000268220901,True,2012.0,,,,,,,,,,
+688,TGLO,Theglobe.com Inc,0.05000000074505806,False,2009.0,,10-29,01-12,6.0,6.0,5.0,5.0,10-29,01-12,12.391561603630032
+689,NCTY,The9 Ltd,2.5299999713897705,False,2009.0,,11-02,01-16,4.0,4.0,7.0,7.0,11-02,01-16,0.99050440259935
+690,YORW,The York Water Co,45.70000076293945,False,2009.0,,09-25,12-09,4.0,4.0,7.0,7.0,09-26,12-10,5.396151358051453
+691,WWAV,The WhiteWave Foods Co,$56.24 ,True,,'Date',,,,,,,,,
+692,WARFY,The Wharf (Holdings) Ltd,4.46999979019165,False,2010.0,,11-09,01-23,5.0,5.0,5.0,5.0,08-29,11-12,5.333559080506915
+693,WARFF,The Wharf (Holdings) Ltd,2.240000009536743,False,2009.0,,03-26,06-09,7.0,7.0,4.0,4.0,03-25,06-08,4.955355511173031
+694,WU,The Western Union Co,21.530000686645508,False,2009.0,,10-30,01-13,6.0,6.0,5.0,5.0,10-30,01-13,4.47095066656633
+695,WEN,The Wendy's Co,22.579999923706055,False,2009.0,,09-25,12-09,7.0,7.0,4.0,4.0,09-25,12-09,4.9681096631131645
+696,DIS,The Walt Disney Co,141.72000122070312,False,2009.0,,10-11,12-25,8.0,8.0,3.0,3.0,09-24,12-08,7.959758272907068
+697,VRYYF,The Very Good Food Co Inc,3.1600000858306885,True,2020.0,,,,,,,,,,
+698,VLNCF,The Valens Co Inc,1.4299999475479126,True,2013.0,,,,,,,,,,
+699,ULTI,The Ultimate Software Group Inc,$331.36 ,True,,No data fetched for symbol ULTI using YahooDailyReader,,,,,,,,,
+700,TRNLY,The Trendlines Group Ltd,3.049999952316284,True,2018.0,,,,,,,,,,
+701,TRV,The Travelers Companies Inc,133.8699951171875,False,2009.0,,10-02,12-16,8.0,8.0,3.0,3.0,09-25,12-09,6.409354153219493
+702,TTD,The Trade Desk Inc,805.9199829101562,True,2016.0,,,,,,,,,,
+703,TD,The Toronto-Dominion Bank,52.4900016784668,False,2009.0,,06-27,09-10,6.0,5.0,5.0,6.0,05-20,08-03,4.036353860509538
+704,TTC,The Toro Co,88.41999816894531,False,2009.0,,09-21,12-05,8.0,8.0,3.0,3.0,08-30,11-13,6.292067760016778
+705,TNYBF,The Tinley Beverage Co Inc,0.4284999966621399,True,2013.0,,,,,,,,,,
+706,TKR,The Timken Co,72.20999908447266,False,2009.0,,10-29,01-12,7.0,7.0,4.0,4.0,03-12,05-26,5.92282259618986
+707,SWGNF,The Swatch Group AG,49.54999923706055,False,2010.0,,01-30,04-14,6.0,6.0,4.0,4.0,01-30,04-14,6.8239711432676105
+708,SWGAY,The Swatch Group AG,12.770000457763672,False,2010.0,,01-31,04-15,5.0,5.0,5.0,5.0,01-31,04-15,1.9651093416183223
+709,SWGAF,The Swatch Group AG,247.80999755859375,False,2010.0,,02-01,04-16,6.0,6.0,4.0,4.0,02-01,04-16,2.325521038539049
+710,SPRWF,The Supreme Cannabis Co Inc,0.11400000005960464,True,2014.0,,,,,,,,,,
+711,SPCO,The Stephan Co,2.5,False,2009.0,,01-02,03-17,7.0,6.0,4.0,5.0,05-21,08-04,12.057782266998105
+712,TSG,The Stars Group Inc,27.309999465942383,False,2010.0,,03-15,05-29,5.0,5.0,5.0,5.0,03-15,05-29,15.58532868939458
+713,EHGRF,The Star Entertainment Group Ltd,2.430000066757202,True,2012.0,,,,,,,,,,
+714,JOE,The St. Joe Co,31.690000534057617,False,2009.0,,06-01,08-15,4.0,4.0,7.0,7.0,06-01,08-15,6.010422044376978
+715,SPNC,The Spectranetics Corp,$38.45 ,True,,'Date',,,,,,,,,
+716,SMPL,The Simply Good Foods Co,23.780000686645508,True,2017.0,,,,,,,,,,
+717,SMUUY,The Siam Commercial Bank PCL,10.702500343322754,True,2012.0,,,,,,,,,,
+718,SMUUF,The Siam Commercial Bank PCL,$5.25 ,True,,No data fetched for symbol SMUUF using YahooDailyReader,,,,,,,,,
+719,SMCBF,The Siam Commercial Bank PCL,2.1700000762939453,True,2011.0,,,,,,,,,,
+720,SHYF,The Shyft Group Inc,24.420000076293945,False,2009.0,,10-16,12-30,6.0,6.0,5.0,5.0,11-08,01-22,2.115553399191028
+721,SMG,The Scotts Miracle Gro Co,168.25,False,2009.0,,06-17,08-31,7.0,7.0,4.0,4.0,07-28,10-11,3.932786553130331
+722,RMR,The RMR Group Inc,32.22999954223633,True,2015.0,,,,,,,,,,
+723,RSRV,The Reserve Petroleum Co,155.0,False,2009.0,,10-27,01-10,7.0,7.0,4.0,4.0,02-20,05-05,0.7950601850465636
+724,RJCTF,The Reject Shop Ltd,$8.99 ,True,,No data fetched for symbol RJCTF using YahooDailyReader,,,,,,,,,
+725,REAL,The RealReal Inc,13.4399995803833,True,2019.0,,,,,,,,,,
+726,REAXF,The Real Brokerage Inc,1.440000057220459,True,2020.0,,,,,,,,,,
+727,PRSC,The Providence Service Corp,123.02999877929688,False,2009.0,,03-08,05-22,7.0,7.0,4.0,4.0,03-08,05-22,15.940455996252876
+728,PSKXF,The Philippine Stock Exchange Inc,$3.51 ,True,,No data fetched for symbol PSKXF using YahooDailyReader,,,,,,,,,
+729,PINXY,The People's Insurance Co (Group) of China Ltd,6.480000019073486,True,2018.0,,,,,,,,,,
+730,PINXF,The People's Insurance Co (Group) of China Ltd,$0.54 ,True,,No data fetched for symbol PINXF using YahooDailyReader,,,,,,,,,
+731,PEGX,The Pegasus Companies Inc,189.0,True,2012.0,,,,,,,,,,
+732,PECK,The Peck Co Holdings Inc,6.204999923706055,True,2016.0,,,,,,,,,,
+733,STKS,The One Group Hospitality Inc,3.25,True,2014.0,,,,,,,,,,
+734,OLB,The OLB Group Inc,4.070000171661377,True,2012.0,,,,,,,,,,
+735,OKEPF,The Okinawa Electric Power Co Inc,$15.95 ,True,,No data fetched for symbol OKEPF using YahooDailyReader,,,,,,,,,
+736,ODP,The ODP Corp,29.219999313354492,False,2009.0,,09-01,11-15,6.0,6.0,5.0,5.0,09-01,11-15,14.036274111669321
+737,NWPN,The Now Corp,0.006800000090152025,False,2009.0,,01-15,03-30,6.0,6.0,5.0,5.0,01-15,03-30,13.197536177499714
+738,NNWWF,The North West Co Inc,24.720199584960938,False,2010.0,,04-23,07-07,3.0,3.0,5.0,5.0,04-23,07-07,4.562345722113975
+739,IRL,The New Ireland Fund Inc,9.369999885559082,False,2009.0,,02-05,04-20,7.0,7.0,4.0,4.0,03-27,06-10,6.374398606942999
+740,NWHM,The New Home Co Inc,5.480000019073486,True,2014.0,,,,,,,,,,
+741,POELF,The Navigator Co SA,2.700000047683716,True,2012.0,,,,,,,,,,
+742,MVES,The Movie Studio Inc,0.009399999864399433,False,2009.0,,04-21,07-05,5.0,5.0,6.0,6.0,04-21,07-05,7.53889638432392
+743,MOS,The Mosaic Co,19.579999923706055,False,2009.0,,12-19,03-04,7.0,7.0,4.0,4.0,12-20,03-05,5.799738475497767
+744,MITJF,The Mint Corp,0.023000000044703484,True,2012.0,,,,,,,,,,
+745,MIDD,The Middleby Corp,134.72000122070312,False,2009.0,,07-08,09-21,7.0,7.0,4.0,4.0,07-08,09-21,6.057783369898932
+746,MIK,The Michaels Companies Inc,9.390000343322754,True,2014.0,,,,,,,,,,
+747,MEET,The Meet Group Inc,2.5799999237060547,False,2009.0,,11-14,01-28,6.0,6.0,5.0,5.0,11-14,01-28,15.700714780646939
+748,MDCO,The Medicines Co,$84.90 ,True,,No data fetched for symbol MDCO using YahooDailyReader,,,,,,,,,
+749,MGLO,The MEDIA GLOBO Corp,0.25,True,2012.0,,,,,,,,,,
+750,MRKGF,The Marketing Group PLC,0.20999999344348907,True,2019.0,,,,,,,,,,
+751,LOVE,The Lovesac Co,29.059999465942383,True,2018.0,,,,,,,,,,
+752,SCXLB,The L S Starrett Co,4.0,True,2012.0,,,,,,,,,,
+753,SCX,The L S Starrett Co,3.7300000190734863,False,2009.0,,11-04,01-18,8.0,8.0,3.0,3.0,11-04,01-18,6.464710498462111
+754,KR,The Kroger Co,32.7599983215332,False,2009.0,,09-16,11-30,6.0,6.0,5.0,5.0,09-22,12-06,6.769408794974361
+755,KHC,The Kraft Heinz Co,31.8799991607666,True,2015.0,,,,,,,,,,
+756,KRIUF,The Keg Royalties Income Fund,7.400000095367432,False,2009.0,,03-17,05-31,6.0,6.0,5.0,5.0,03-17,05-31,3.4747848920836235
+757,JYNT,The Joint Corp,25.75,True,2014.0,,,,,,,,,,
+758,JCOUF,The Jean Coutu Group (PJC) Inc,18.750499725341797,True,2012.0,,,,,,,,,,
+759,JPSWF,The Japan Steel Works Ltd,$16.40 ,True,,No data fetched for symbol JPSWF using YahooDailyReader,,,,,,,,,
+760,JPSWY,The Japan Steel Works Ltd,13.050000190734863,False,2010.0,,09-09,11-23,5.0,5.0,5.0,5.0,09-09,11-23,14.683909464497127
+761,IRLCF,The Israel Corporation Ltd,116.25,False,2010.0,,08-31,11-14,3.0,3.0,7.0,7.0,08-31,11-14,6.071084863534772
+762,INGGF,The Intertain Group Ltd,$8.36 ,True,,No data fetched for symbol INGGF using YahooDailyReader,,,,,,,,,
+763,IPG,The Interpublic Group of Companies Inc,21.59000015258789,False,2009.0,,10-27,01-10,8.0,8.0,3.0,3.0,10-27,01-10,6.8204413267428246
+764,INTG,The Intergroup Corp,32.75,False,2009.0,,03-11,05-25,7.0,7.0,4.0,4.0,03-11,05-25,7.410780700224439
+765,IFN,The India Fund Inc,18.3700008392334,False,2009.0,,05-13,07-27,7.0,7.0,4.0,4.0,05-13,07-27,6.841404238428006
+766,HHC,The Howard Hughes Corp,71.94000244140625,False,2010.0,,01-20,04-04,8.0,8.0,2.0,2.0,01-20,04-04,3.107518180474301
+767,HKSHY,The Hongkong and Shanghai Hotels Ltd,16.219999313354492,True,2013.0,,,,,,,,,,
+768,HKSHF,The Hongkong and Shanghai Hotels Ltd,0.8999999761581421,False,2010.0,,01-24,04-08,6.0,6.0,4.0,4.0,01-24,04-08,4.638005079740481
+769,HD,The Home Depot Inc,270.92999267578125,False,2009.0,,03-15,05-29,7.0,7.0,4.0,4.0,03-15,05-29,6.656738156885836
+770,HSYFB,The Hershey Co,$96.28 ,True,,No data fetched for symbol HSYFB using YahooDailyReader,,,,,,,,,
+771,HSY,The Hershey Co,149.39999389648438,False,2009.0,,11-09,01-23,9.0,9.0,2.0,2.0,06-28,09-11,4.487984433770278
+772,HIG,The Hartford Financial Services Group Inc,46.2400016784668,False,2009.0,,09-04,11-18,8.0,8.0,3.0,3.0,09-04,11-18,6.835457943699413
+773,THG,The Hanover Insurance Group Inc,115.13999938964844,False,2009.0,,10-20,01-03,6.0,4.0,5.0,7.0,10-02,12-16,5.801488489221865
+774,HAIN,The Hain Celestial Group Inc,37.369998931884766,False,2009.0,,04-27,07-11,7.0,7.0,4.0,4.0,04-27,07-11,8.559753848463876
+775,HCKT,The Hackett Group Inc,15.109999656677246,False,2009.0,,08-22,11-05,7.0,7.0,4.0,4.0,08-22,11-05,8.428237319618287
+776,HABT,The Habit Restaurants Inc,$13.98 ,True,,No data fetched for symbol HABT using YahooDailyReader,,,,,,,,,
+777,TGODF,The Green Organic Dutchman Holdings Ltd,0.20399999618530273,True,2018.0,,,,,,,,,,
+778,GYST,The Graystone Co Inc,0.007499999832361937,True,2011.0,,,,,,,,,,
+779,GV,The Goldfield Corp,4.420000076293945,False,2009.0,,11-14,01-28,7.0,7.0,4.0,4.0,11-14,01-28,10.67474339801502
+780,GEO,The GEO Group Inc,9.449999809265137,False,2009.0,,03-15,05-29,7.0,6.0,4.0,5.0,03-15,05-29,6.5472182788267395
+781,GGO,The Gabelli Go Anywhere Trust,11.90999984741211,True,2016.0,,,,,,,,,,
+782,GGZ,The Gabelli Global Small and Mid Cap Value Trust,11.619999885559082,True,2014.0,,,,,,,,,,
+783,FLWPF,The Flowr Corp,0.33000001311302185,True,2018.0,,,,,,,,,,
+784,FMD,The First Marblehead Corp,$5.05 ,True,,'Date',,,,,,,,,
+785,FCPA,The Finance Company of Pennsylvania,$125.00 ,True,,'Date',,,,,,,,,
+786,XONE,The ExOne Co,10.84000015258789,True,2013.0,,,,,,,,,,
+787,EL,The Estee Lauder Companies Inc,241.9199981689453,False,2009.0,,10-27,01-10,9.0,9.0,2.0,2.0,10-24,01-07,7.655054566463613
+788,EML,The Eastern Co,22.68000030517578,False,2009.0,,02-16,05-01,6.0,6.0,5.0,5.0,02-16,05-01,6.1362996352998165
+789,SSP,The E W Scripps Co,12.5,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-26,12-10,7.0729377179980695
+790,DDRLF,The Drilling Company of 1972 A/S,20.600000381469727,True,2019.0,,,,,,,,,,
+791,DXYN,The Dixie Group Inc,1.9800000190734863,False,2009.0,,01-19,04-03,7.0,7.0,4.0,4.0,01-19,04-03,2.118638664859826
+792,DSGX,The Descartes Systems Group Inc,55.310001373291016,False,2009.0,,05-05,07-19,8.0,8.0,3.0,3.0,05-05,07-19,6.9140302071344015
+793,SRV,The Cushing MLP & Infrastructure Total Return Fund,20.149999618530273,False,2009.0,,12-13,02-26,5.0,4.0,6.0,7.0,03-12,05-26,5.448972843292864
+794,SRF,The Cushing Energy Income Fund,$4.12 ,True,,No data fetched for symbol SRF using YahooDailyReader,,,,,,,,,
+795,CRCW,The Crypto Co,17.5,True,2017.0,,,,,,,,,,
+796,CRTG,The Coretec Group Inc,0.07500000298023224,True,2012.0,,,,,,,,,,
+797,COO,The Cooper Companies Inc,332.2300109863281,False,2009.0,,12-28,03-13,11.0,11.0,0.0,0.0,12-28,03-13,9.597027650827313
+798,TCS,The Container Store Group Inc,10.380000114440918,True,2013.0,,,,,,,,,,
+799,TCFC,The Community Financial Corp,26.780000686645508,False,2009.0,,04-22,07-06,7.0,7.0,4.0,4.0,04-22,07-06,4.642910296429375
+800,CHBLF,The Chugoku Bank Ltd,$14.33 ,True,,'Date',,,,,,,,,
+801,CHBAY,The Chiba Bank Ltd,28.639999389648438,True,2011.0,,,,,,,,,,
+802,CHBAF,The Chiba Bank Ltd,4.960000038146973,True,2012.0,,,,,,,,,,
+803,CC,The Chemours Co,23.8799991607666,True,2015.0,,,,,,,,,,
+804,CHEF,The Chefs' Warehouse Inc,20.06999969482422,True,2011.0,,,,,,,,,,
+805,CATO,The Cato Corp,8.039999961853027,False,2009.0,,10-09,12-23,3.0,3.0,8.0,8.0,09-13,11-27,4.66322530675991
+806,CG,The Carlyle Group Inc,27.799999237060547,True,2012.0,,,,,,,,,,
+807,BCO,The Brink's Co,64.11000061035156,False,2009.0,,11-02,01-16,6.0,6.0,5.0,5.0,11-02,01-16,7.195831386053414
+808,BONTQ,The Bon-Ton Stores Inc,0.011500000022351742,True,2012.0,,,,,,,,,,
+809,BYOKF,The Bank of Yokohama Ltd,$6.25 ,True,,No data fetched for symbol BYOKF using YahooDailyReader,,,,,,,,,
+810,BKJAY,The Bank of Yokohama Ltd,$18.00 ,True,,'Date',,,,,,,,,
+811,BPRN,The Bank of Princeton,22.5,True,2017.0,,,,,,,,,,
+812,BNGYF,The Bank of Nagoya Ltd,$36.15 ,True,,No data fetched for symbol BNGYF using YahooDailyReader,,,,,,,,,
+813,TBBK,The Bancorp Inc,11.40999984741211,False,2009.0,,09-01,11-15,6.0,6.0,5.0,5.0,09-01,11-15,9.501597042567203
+814,AZEK,The AZEK Co Inc,35.060001373291016,True,2020.0,,,,,,,,,,
+815,AEGG,The American Energy Group Ltd,0.019999999552965164,False,2009.0,,04-07,06-21,5.0,5.0,6.0,6.0,04-07,06-21,9.684470196718204
+816,AES,The AES Corp,20.8799991607666,False,2009.0,,11-01,01-15,5.0,5.0,6.0,6.0,11-01,01-15,2.222736467976476
+817,ACOPY,The a2 Milk Co Ltd,10.270000457763672,True,2020.0,,,,,,,,,,
+818,ACOPF,The a2 Milk Co Ltd,10.25,True,2013.0,,,,,,,,,,
+819,SVSVF,The 77 Bank Ltd,$4.03 ,True,,'Date',,,,,,,,,
+820,FLES,The 4 Less Group Inc,3.0399999618530273,False,2010.0,,01-02,03-17,6.0,6.0,4.0,4.0,01-02,03-17,9.97683692811745
+821,THCT,THC Therapeutics Inc,0.029999999329447746,True,2017.0,,,,,,,,,,
+822,HDRPF,THC Global Group Ltd,0.16500000655651093,True,2018.0,,,,,,,,,,
+823,CBDG,THC Farmaceuticals Inc,0.11599999666213989,True,2014.0,,,,,,,,,,
+824,THCBF,THC Biomed International Ltd,0.06700000166893005,True,2018.0,,,,,,,,,,
+825,TIHRF,Tharisa PLC,0.6845999956130981,True,2020.0,,,,,,,,,,
+826,THNZF,Thanachart Capital PCL,$0.99 ,True,,No data fetched for symbol THNZF using YahooDailyReader,,,,,,,,,
+827,THNUY,Thanachart Capital PCL,10.8100004196167,True,2014.0,,,,,,,,,,
+828,THNVF,Thanachart Capital PCL,1.0800000429153442,True,2013.0,,,,,,,,,,
+829,THLLY,Thales,18.780000686645508,True,2018.0,,,,,,,,,,
+830,THLEY,Thales,$101.00 ,True,,'Date',,,,,,,,,
+831,THLEF,Thales,88.05000305175781,False,2009.0,,12-24,03-09,8.0,8.0,3.0,3.0,12-24,03-09,5.1409960686590725
+832,THMMF,Thaicom PCL,$0.64 ,True,,No data fetched for symbol THMMF using YahooDailyReader,,,,,,,,,
+833,THMNY,Thaicom PCL,$1.44 ,True,,No data fetched for symbol THMNY using YahooDailyReader,,,,,,,,,
+834,THMNF,Thaicom PCL,$1.20 ,True,,No data fetched for symbol THMNF using YahooDailyReader,,,,,,,,,
+835,THVUF,Thai Vegetable Oil PCL,$0.57 ,True,,No data fetched for symbol THVUF using YahooDailyReader,,,,,,,,,
+836,THVGF,Thai Vegetable Oil PCL,$0.66 ,True,,'Date',,,,,,,,,
+837,TUFUF,Thai Union Group PCL,0.4699999988079071,True,2013.0,,,,,,,,,,
+838,TUFRF,Thai Union Group PCL,$0.54 ,True,,'Date',,,,,,,,,
+839,TUFBY,Thai Union Group PCL,8.0,True,2014.0,,,,,,,,,,
+840,THFRF,Thai Union Group PCL,$0.65 ,True,,No data fetched for symbol THFRF using YahooDailyReader,,,,,,,,,
+841,TSETF,Thai Stanley Electric (Thailand) PCL,$6.20 ,True,,No data fetched for symbol TSETF using YahooDailyReader,,,,,,,,,
+842,TUUNF,Thai Rung Union Car PLC,$0.22 ,True,,No data fetched for symbol TUUNF using YahooDailyReader,,,,,,,,,
+843,TIEFF,Thai Reinsurance PLC,$0.11 ,True,,'Date',,,,,,,,,
+844,TIEUF,Thai Reinsurance PCL,$0.07 ,True,,No data fetched for symbol TIEUF using YahooDailyReader,,,,,,,,,
+845,TRAYF,Thai Rayon PCL,$1.70 ,True,,No data fetched for symbol TRAYF using YahooDailyReader,,,,,,,,,
+846,THPFF,Thai President Foods PCL,$4.67 ,True,,'Date',,,,,,,,,
+847,TOIPY,Thai Oil PCL,11.029999732971191,True,2012.0,,,,,,,,,,
+848,TOIPF,Thai Oil PCL,1.5700000524520874,False,2009.0,,02-21,05-06,7.0,5.0,4.0,6.0,02-16,05-01,1.5613836861369452
+849,TNKHF,Thai Nakarin Hospital PLC,$0.35 ,True,,No data fetched for symbol TNKHF using YahooDailyReader,,,,,,,,,
+850,TBVPY,Thai Beverage PLC,51.41999816894531,True,2014.0,,,,,,,,,,
+851,TBVPF,Thai Beverage PLC,0.550000011920929,False,2010.0,,03-25,06-08,7.0,7.0,3.0,3.0,12-24,03-09,11.562961065537536
+852,TAWNY,Thai Airways International PCL,$26.35 ,True,,No data fetched for symbol TAWNY using YahooDailyReader,,,,,,,,,
+853,TAWNF,Thai Airways International PCL,0.10999999940395355,True,2013.0,,,,,,,,,,
+854,TGSNF,TGS-NOPEC Geophysical Co ASA,10.050000190734863,False,2010.0,,12-23,03-08,9.0,6.0,1.0,4.0,12-11,02-24,5.102561596717659
+855,TGSGY,TGS-NOPEC Geophysical Co ASA,12.949999809265137,True,2013.0,,,,,,,,,,
+856,TGSI,TGS International Ltd,4.0,True,2018.0,,,,,,,,,,
+857,TGRF,TGR Financial Inc,8.899999618530273,True,2018.0,,,,,,,,,,
+858,TGLTY,TGLT SA,1.3350000381469727,True,2012.0,,,,,,,,,,
+859,TGTX,TG Therapeutics Inc,29.760000228881836,False,2010.0,,10-29,01-12,7.0,7.0,3.0,3.0,10-29,01-12,15.647095571052756
+860,TFSL,TFS Financial Corp,16.75,False,2009.0,,10-21,01-04,7.0,7.0,4.0,4.0,10-21,01-04,3.873236789670566
+861,TFII,TFI International Inc,51.58000183105469,False,2009.0,,09-25,12-09,5.0,5.0,6.0,6.0,06-30,09-13,6.925351326184551
+862,TFFP,TFF Pharmaceuticals Inc,16.40999984741211,True,2019.0,,,,,,,,,,
+863,FRFTF,TFF Group,29.959800720214844,True,2020.0,,,,,,,,,,
+864,TFCH,TFC Holding Co,$15.40 ,True,,No data fetched for symbol TFCH using YahooDailyReader,,,,,,,,,
+865,TBBN,TFB Bancorp Inc,$28.02 ,True,,No data fetched for symbol TBBN using YahooDailyReader,,,,,,,,,
+866,TXWHF,Texwinca Holdings Ltd,$0.35 ,True,,No data fetched for symbol TXWHF using YahooDailyReader,,,,,,,,,
+867,TXTR,Textura Corp,$25.99 ,True,,'Date',,,,,,,,,
+868,TXT,Textron Inc,45.45000076293945,False,2009.0,,10-26,01-09,8.0,8.0,3.0,3.0,10-26,01-09,7.458392075741961
+869,VUVAF,Texton Property Fund Ltd,$0.28 ,True,,No data fetched for symbol VUVAF using YahooDailyReader,,,,,,,,,
+870,TGH,Textainer Group Holdings Ltd,18.579999923706055,False,2009.0,,10-09,12-23,6.0,6.0,5.0,5.0,10-09,12-23,6.029660804007197
+871,TEXS,TexStar Oil Corp,$0.25 ,True,,'Date',,,,,,,,,
+872,TTXTF,Texhong Textile Group Ltd,0.7099999785423279,True,2019.0,,,,,,,,,,
+873,TEXC,Texcom Inc,0.01549999974668026,False,2010.0,,01-22,04-06,7.0,7.0,3.0,3.0,01-22,04-06,-258.2502891680876
+874,TXRH,Texas Roadhouse Inc,73.94000244140625,False,2009.0,,11-13,01-27,7.0,7.0,4.0,4.0,11-13,01-27,5.239422123181456
+875,TPL,Texas Pacific Land Trust,574.989990234375,False,2009.0,,03-23,06-06,8.0,8.0,3.0,3.0,03-23,06-06,15.870944311420956
+876,TMRC,Texas Mineral Resources Corp,1.4500000476837158,False,2009.0,,02-02,04-17,2.0,2.0,9.0,9.0,02-02,04-17,7.714830296516224
+877,TXN,Texas Instruments Inc,157.27000427246094,False,2009.0,,11-02,01-16,9.0,9.0,2.0,2.0,11-02,01-16,5.1765194033724145
+878,TXGE,Texas Gulf Energy Inc,1922.8900146484375,True,2013.0,,,,,,,,,,
+879,TCBI,Texas Capital Bancshares Inc,53.61000061035156,False,2009.0,,08-29,11-12,7.0,7.0,4.0,4.0,08-29,11-12,7.321701933496675
+880,TEVJF,Teva Pharmaceutical Industries Ltd,9.25,False,2010.0,,10-09,12-23,8.0,6.0,2.0,4.0,11-16,01-30,1.9186174351682304
+881,TEVA,Teva Pharmaceutical Industries Ltd,9.350000381469727,False,2009.0,,11-14,01-28,6.0,6.0,5.0,5.0,11-14,01-28,5.181193293602371
+882,TEUZF,Teuza a Fairchild Technology Venture Ltd,0.2491219937801361,True,2020.0,,,,,,,,,,
+883,TEUTF,Teuton Resources Corp,1.7000000476837158,False,2009.0,,06-09,08-23,7.0,7.0,4.0,4.0,06-09,08-23,39.61040141278575
+884,TTPH,Tetraphase Pharmaceuticals Inc,2.200000047683716,True,2013.0,,,,,,,,,,
+885,TLOG,TetraLogic Pharmaceuticals Corp,0.008999999612569809,True,2013.0,,,,,,,,,,
+886,TGONF,Tetragon Financial Group Ltd,9.25,False,2009.0,,10-25,01-08,8.0,8.0,3.0,3.0,11-15,01-29,6.905286196650567
+887,TTI,Tetra Technologies Inc,0.7099999785423279,False,2009.0,,06-26,09-09,4.0,4.0,7.0,7.0,06-26,09-09,0.9499695573257336
+888,TTEK,Tetra Tech Inc,121.3499984741211,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-26,12-10,6.885031919433678
+889,TBPMF,Tetra Bio Pharma Inc,0.14010000228881836,True,2012.0,,,,,,,,,,
+890,TETAB,Teton Advisors Inc,29.0,True,2017.0,,,,,,,,,,
+891,TETAA,Teton Advisors Inc,41.5,False,2010.0,,10-14,12-28,4.0,4.0,6.0,6.0,10-14,12-28,12.272560006578846
+892,TETHF,Tethys Petroleum Ltd,0.6140000224113464,False,2010.0,,05-31,08-14,6.0,6.0,2.0,2.0,05-31,08-14,9.734008806425534
+893,THOLF,Tethys Oil AB,$8.14 ,True,,No data fetched for symbol THOLF using YahooDailyReader,,,,,,,,,
+894,TEYNF,Tethyan Resource Corp,0.2496500015258789,True,2020.0,,,,,,,,,,
+895,TSSZF,Tessi,$101.25 ,True,,No data fetched for symbol TSSZF using YahooDailyReader,,,,,,,,,
+896,TSDOF,Tessenderlo Group NV,30.276100158691406,True,2017.0,,,,,,,,,,
+897,TESS,Tessco Technologies Inc,5.809999942779541,False,2009.0,,11-05,01-19,6.0,6.0,5.0,5.0,11-05,01-19,5.121164956488617
+898,NNGVF,Tesoro Minerals Corp,0.05000000074505806,False,2010.0,,10-25,01-08,2.0,2.0,8.0,8.0,10-25,01-08,0.9710744627862256
+899,TSNP,Tesoro Enterprises Inc,0.019349999725818634,False,2009.0,,01-04,03-19,3.0,3.0,8.0,8.0,01-04,03-19,19.51388851521007
+900,TSLA,Tesla Inc,499.2699890136719,False,2010.0,,05-08,07-22,6.0,6.0,4.0,4.0,05-08,07-22,13.967788602555597
+901,TXLZF,Tesla Exploration Ltd,0.32499998807907104,False,2010.0,,02-28,05-13,4.0,4.0,6.0,6.0,02-28,05-13,26.774506562251553
+902,TSCDY,Tesco PLC,9.359999656677246,False,2009.0,,01-31,04-15,5.0,5.0,6.0,6.0,01-31,04-15,0.8638226311296853
+903,TSCDF,Tesco PLC,3.069999933242798,False,2009.0,,12-10,02-23,5.0,5.0,6.0,6.0,12-10,02-23,3.5157346093832067
+904,TESO,Tesco Corp,$3.70 ,True,,'Date',,,,,,,,,
+905,TSRO,Tesaro Inc,74.95999908447266,True,2012.0,,,,,,,,,,
+906,TRVCF,Tervita Corp,1.3790600299835205,True,2019.0,,,,,,,,,,
+907,TTALF,Terveystalo PLC,$10.54 ,True,,No data fetched for symbol TTALF using YahooDailyReader,,,,,,,,,
+908,TRUMY,Terumo Corp,41.119998931884766,False,2010.0,,05-15,07-29,5.0,5.0,5.0,5.0,05-15,07-29,5.441470628446329
+909,TRUMF,Terumo Corp,41.34000015258789,True,2011.0,,,,,,,,,,
+910,TBNK,Territorial Bancorp Inc,22.5,False,2009.0,,11-04,01-18,5.0,5.0,6.0,6.0,09-19,12-03,5.865917670235639
+911,MGYFF,Terreno Resources Corp,$0.14 ,True,,No data fetched for symbol MGYFF using YahooDailyReader,,,,,,,,,
+912,TRNO,Terreno Realty Corp,58.900001525878906,False,2010.0,,10-06,12-20,5.0,5.0,5.0,5.0,10-06,12-20,5.335603485250073
+913,TAUX,Terre Aux Boeufs Land Co Inc,200.0,True,2015.0,,,,,,,,,,
+914,TRRVF,TerraVest Industries Inc,11.540399551391602,True,2014.0,,,,,,,,,,
+915,TRSSF,TerrAscend Corp,7.929999828338623,True,2017.0,,,,,,,,,,
+916,TZNZF,Terramin Australia Ltd,$0.10 ,True,,No data fetched for symbol TZNZF using YahooDailyReader,,,,,,,,,
+917,TERP,TerraForm Power Inc,19.350000381469727,True,2014.0,,,,,,,,,,
+918,GLBL,TerraForm Global Inc,$5.08 ,True,,'Date',,,,,,,,,
+919,TCEGF,Terraco Gold Corp,$0.11 ,True,,No data fetched for symbol TCEGF using YahooDailyReader,,,,,,,,,
+920,TRTC,Terra Tech Corp,0.10999999940395355,True,2012.0,,,,,,,,,,
+921,TRNAF,Terra Nova Resources Inc,0.054999999701976776,True,2019.0,,,,,,,,,,
+922,TNH,Terra Nitrogen Co LP,83.95999908447266,True,2012.0,,,,,,,,,,
+923,TFCCF,Terra Firma Capital Corp,3.106800079345703,True,2013.0,,,,,,,,,,
+924,TRRE,Terra Energy Resources Ltd,0.014999999664723873,False,2009.0,,06-08,08-22,4.0,4.0,7.0,7.0,06-08,08-22,16.52805092198462
+925,TX,Ternium SA,24.610000610351562,False,2009.0,,08-21,11-04,6.0,6.0,5.0,5.0,08-21,11-04,5.157886498438264
+926,SDDFF,Ternium Argentina SA,0.25999999046325684,False,2009.0,,06-15,08-29,5.0,2.0,6.0,9.0,09-14,11-28,7.699992629533009
+927,TEZNY,Terna SpA,22.479999542236328,True,2012.0,,,,,,,,,,
+928,TERRF,Terna SpA,6.904699802398682,True,2013.0,,,,,,,,,,
+929,TREAY,Terna Energy SA,27.799999237060547,True,2016.0,,,,,,,,,,
+930,TREAF,Terna Energy SA,11.5,True,2014.0,,,,,,,,,,
+931,TNPRF,Tern Properties Co Ltd,$0.48 ,True,,No data fetched for symbol TNPRF using YahooDailyReader,,,,,,,,,
+932,TERNF,Tern PLC,0.07543999701738358,True,2019.0,,,,,,,,,,
+933,TMX,Terminix Global Holdings Inc,50.220001220703125,True,2014.0,,,,,,,,,,
+934,TEX,Terex Corp,30.600000381469727,False,2009.0,,10-15,12-29,7.0,7.0,4.0,4.0,10-15,12-29,7.701330528889183
+935,TRARF,Teras Resources Inc,0.06300000101327896,True,2012.0,,,,,,,,,,
+936,TGCDF,Teranga Gold Corp,10.979999542236328,True,2012.0,,,,,,,,,,
+937,TRAGF,TeraGo Inc,5.063000202178955,True,2018.0,,,,,,,,,,
+938,TER,Teradyne Inc,106.47000122070312,False,2009.0,,10-02,12-16,7.0,7.0,4.0,4.0,10-02,12-16,11.44654275395431
+939,TDC,Teradata Corp,21.079999923706055,False,2009.0,,05-17,07-31,6.0,6.0,5.0,5.0,05-17,07-31,3.404248400897329
+940,TZAC,Tenzing Acquisition Corp,10.890000343322754,True,2018.0,,,,,,,,,,
+941,URXZF,Tenth Avenue Petroleum Corp,0.024129999801516533,True,2013.0,,,,,,,,,,
+942,TVLF,Tennessee Valley Financial Holdings Inc,4.360000133514404,True,2012.0,,,,,,,,,,
+943,TVLFA,Tennessee Valley Financial Holdings Inc,$0.50 ,True,,No data fetched for symbol TVLFA using YahooDailyReader,,,,,,,,,
+944,TVC,Tennessee Valley Authority Tva,26.450000762939453,False,2009.0,,12-17,03-02,10.0,10.0,1.0,1.0,06-13,08-27,1.8242927167577108
+945,TEN,Tenneco Inc,10.069999694824219,False,2009.0,,09-27,12-11,7.0,7.0,4.0,4.0,09-27,12-11,7.710069431533633
+946,TNC,Tennant Co,66.23999786376953,False,2009.0,,05-20,08-03,5.0,4.0,6.0,7.0,05-20,08-03,7.729841721065718
+947,TNMAF,Tenma Corp,17.649999618530273,True,2013.0,,,,,,,,,,
+948,TJBH,Tengjun Biotechnology Corp,55.0,True,2014.0,,,,,,,,,,
+949,TGC,Tengasco Inc,1.0700000524520874,False,2009.0,,12-18,03-03,8.0,8.0,3.0,3.0,12-18,03-03,6.09938265095528
+950,TNFYF,Tenfu (Cayman) Holdings Co Ltd,$0.45 ,True,,No data fetched for symbol TNFYF using YahooDailyReader,,,,,,,,,
+951,THC,Tenet Healthcare Corp,31.829999923706055,False,2009.0,,05-18,08-01,6.0,6.0,5.0,5.0,05-18,08-01,9.33287494236952
+952,TME,Tencent Music Entertainment Group,16.399999618530273,True,2018.0,,,,,,,,,,
+953,TCTZF,Tencent Holdings Ltd,75.19999694824219,False,2009.0,,11-12,01-26,8.0,8.0,3.0,3.0,11-12,01-26,11.024750198103654
+954,TCEHY,Tencent Holdings Ltd,75.18000030517578,False,2010.0,,11-12,01-26,8.0,8.0,2.0,2.0,11-12,01-26,11.883435231316929
+955,TENX,Tenax Therapeutics Inc,1.0199999809265137,False,2009.0,,05-07,07-21,4.0,4.0,7.0,7.0,05-07,07-21,-0.3360880142817771
+956,TNRSF,Tenaris SA,6.510000228881836,True,2013.0,,,,,,,,,,
+957,TS,Tenaris SA,15.010000228881836,False,2009.0,,03-09,05-23,5.0,5.0,6.0,6.0,03-11,05-25,2.8491697432736087
+958,TNABY,Tenaga Nasional Bhd,10.699999809265137,False,2009.0,,10-30,01-13,8.0,8.0,3.0,3.0,06-13,08-27,7.3076642671183905
+959,TNABF,Tenaga Nasional Bhd,2.7300000190734863,True,2013.0,,,,,,,,,,
+960,TENB,Tenable Holdings Inc,35.459999084472656,True,2018.0,,,,,,,,,,
+961,TMPS,Tempus Applied Solutions Holdings Inc,0.20000000298023224,True,2015.0,,,,,,,,,,
+962,TPX,Tempur Sealy International Inc,102.22000122070312,False,2009.0,,11-15,01-29,6.0,6.0,5.0,5.0,11-15,01-29,6.741386372514629
+963,PEXXF,Tempo Scan Pacific Tbk,0.09000000357627869,True,2012.0,,,,,,,,,,
+964,GIM,Templeton Global Income Fund,5.320000171661377,False,2009.0,,02-20,05-05,9.0,8.0,2.0,3.0,12-17,03-02,2.9568192910208637
+965,TEI,Templeton Emerging Markets Income Fund,7.590000152587891,False,2009.0,,12-17,03-02,9.0,9.0,2.0,2.0,12-17,03-02,3.2013479728143706
+966,EMF,Templeton Emerging Markets Fund,16.979999542236328,False,2009.0,,05-22,08-05,6.0,6.0,5.0,5.0,05-24,08-07,4.2338204671695365
+967,TDF,Templeton Dragon Fund Inc,24.059999465942383,False,2009.0,,08-26,11-09,4.0,4.0,7.0,7.0,10-01,12-15,1.942718886410504
+968,TMPHF,Temple Hotels Inc,$1.59 ,True,,No data fetched for symbol TMPHF using YahooDailyReader,,,,,,,,,
+969,TPLWF,Temple & Webster Group Ltd,7.25,True,2018.0,,,,,,,,,,
+970,TMRR,Temir Corp,18.100000381469727,True,2018.0,,,,,,,,,,
+971,TMSNY,Temenos AG,124.80799865722656,True,2019.0,,,,,,,,,,
+972,TMNSF,Temenos AG,110.2300033569336,False,2010.0,,03-30,06-13,5.0,5.0,5.0,5.0,03-30,06-13,9.986870852440173
+973,TMCO,Temco Service Industries Inc,$28.75 ,True,,'Date',,,,,,,,,
+974,TBGPF,Tembo Gold Corp,0.10570000112056732,True,2012.0,,,,,,,,,,
+975,TMBCF,Tembec Inc,$3.99 ,True,,No data fetched for symbol TMBCF using YahooDailyReader,,,,,,,,,
+976,TMASF,Temas Resources Corp,0.6322000026702881,True,2020.0,,,,,,,,,,
+977,TEVE,Telvue Corp,$0.04 ,True,,'Date',,,,,,,,,
+978,TU,TELUS Corp,18.75,False,2009.0,,03-23,06-06,7.0,7.0,4.0,4.0,03-23,06-06,5.214461613248308
+979,TTRAF,Telstra Corp Ltd,2.240000009536743,False,2010.0,,11-22,02-05,7.0,2.0,3.0,8.0,11-22,02-05,5.46737444755965
+980,TLSYY,Telstra Corp Ltd,11.279999732971191,False,2009.0,,11-11,01-25,5.0,2.0,6.0,9.0,11-11,01-25,3.8725452799717885
+981,SOHFF,Telson Mining Corp,0.11879999935626984,True,2012.0,,,,,,,,,,
+982,TLPC,Telpac Industries Inc,0.03999999910593033,True,2012.0,,,,,,,,,,
+983,TLS,Telos Corp,20.290000915527344,False,2010.0,,01-13,03-28,4.0,4.0,6.0,6.0,01-13,03-28,13.013462929322527
+984,TDSGF,Telo Genomics Corp,0.16078999638557434,True,2016.0,,,,,,,,,,
+985,TELL,Tellurian Inc,1.090000033378601,False,2009.0,,12-16,03-01,7.0,7.0,4.0,4.0,12-16,03-01,15.15625900797525
+986,TKOI,Telkonet Inc,0.019999999552965164,False,2009.0,,01-17,04-01,7.0,7.0,4.0,4.0,01-17,04-01,10.35771266026898
+987,TLKGY,Telkom SA SOC Ltd,8.739999771118164,False,2009.0,,02-14,04-29,4.0,4.0,7.0,7.0,02-14,04-29,-4.500158905285637
+988,TKMJF,Telkom SA SOC Ltd,$1.98 ,True,,'Date',,,,,,,,,
+989,TLPPF,Telix Pharmaceuticals Ltd,1.2799999713897705,True,2019.0,,,,,,,,,,
+990,TTCNF,Telit Communications PLC,2.2200000286102295,False,2010.0,,02-09,04-24,8.0,8.0,2.0,2.0,02-09,04-24,9.02089783193129
+991,TLGT,Teligent Inc,0.5400000214576721,False,2009.0,,06-15,08-29,5.0,5.0,6.0,6.0,06-15,08-29,-0.6541569524996239
+992,TLDN,Telidyne Inc,2.25,True,2012.0,,,,,,,,,,
+993,TLSNY,Telia Company AB,8.369999885559082,False,2010.0,,02-15,04-30,5.0,5.0,5.0,5.0,05-29,08-12,4.738161940627748
+994,TLSNF,Telia Company AB,4.199999809265137,False,2009.0,,02-16,05-01,5.0,5.0,6.0,6.0,05-26,08-09,6.601789337083244
+995,TVFCF,Television Francaise 1 SA,4.590000152587891,True,2012.0,,,,,,,,,,
+996,TVBCY,Television Broadcasts Ltd,1.8300000429153442,False,2009.0,,02-09,04-24,6.0,6.0,5.0,5.0,02-09,04-24,2.797817167340394
+997,TVBCF,Television Broadcasts Ltd,0.8600000143051147,True,2012.0,,,,,,,,,,
+998,BNHLF,Telesta Therapeutics Inc,$0.10 ,True,,'Date',,,,,,,,,
+999,TLSW,TeleSpectrum Worldwide Inc,$0.01 ,True,,'Date',,,,,,,,,
+1000,TSSLF,Telesites SAB de CV,1.059999942779541,True,2016.0,,,,,,,,,,
+1001,TLSTF,Telesites SAB de CV,$0.50 ,True,,No data fetched for symbol TLSTF using YahooDailyReader,,,,,,,,,
+1002,TDSNA,Telephone and Data Systems Inc,$10.39 ,True,,No data fetched for symbol TDSNA using YahooDailyReader,,,,,,,,,
+1003,TDS,Telephone and Data Systems Inc,18.829999923706055,False,2009.0,,08-21,11-04,6.0,6.0,5.0,5.0,10-09,12-23,2.4506026646805403
+1004,TLPFY,Teleperformance SE,164.75,True,2015.0,,,,,,,,,,
+1005,TLPFF,Teleperformance SE,250.0,False,2010.0,,03-26,06-09,9.0,9.0,1.0,1.0,11-26,02-09,8.451812454864347
+1006,TELNY,Telenor ASA,16.860000610351562,False,2009.0,,05-14,07-28,5.0,5.0,6.0,6.0,02-15,04-30,4.344731259009691
+1007,TELNF,Telenor ASA,16.899999618530273,False,2010.0,,02-12,04-27,5.0,5.0,5.0,5.0,02-12,04-27,2.8957669168676765
+1008,TLGHY,Telenet Group Holding NV,20.282499313354492,True,2013.0,,,,,,,,,,
+1009,TLGHF,Telenet Group Holding NV,40.040000915527344,False,2010.0,,08-15,10-29,4.0,4.0,6.0,6.0,08-15,10-29,4.291964997190494
+1010,TNAV,Telenav Inc,4.760000228881836,False,2010.0,,12-22,03-07,7.0,7.0,3.0,3.0,12-22,03-07,10.252806556383014
+1011,MYTEF,Telekom Malaysia Bhd,1.0532000064849854,True,2013.0,,,,,,,,,,
+1012,TKMAF,Telekom Austria AG,$6.00 ,True,,'Date',,,,,,,,,
+1013,TKAGY,Telekom Austria AG,13.699999809265137,False,2009.0,,02-22,05-07,5.0,5.0,6.0,6.0,02-22,05-07,2.2031404712642426
+1014,TGRAF,Telegraaf Media Groep NV,$6.45 ,True,,No data fetched for symbol TGRAF using YahooDailyReader,,,,,,,,,
+1015,TEFOF,Telefonica SA,3.9700000286102295,False,2009.0,,02-16,05-01,5.0,5.0,6.0,6.0,02-16,05-01,-1.0922035025869767
+1016,TEF,Telefonica SA,4.159999847412109,False,2009.0,,02-11,04-26,6.0,6.0,5.0,5.0,02-11,04-26,-0.5995007424276562
+1017,TELDF,Telefonica Deutschland Holding AG,2.799999952316284,True,2014.0,,,,,,,,,,
+1018,CPNBF,Telefonica del Peru SAA,0.4157699942588806,True,2012.0,,,,,,,,,,
+1019,TFBRF,Telefonica Brasil SA,9.011933326721191,True,2020.0,,,,,,,,,,
+1020,VIV,Telefonica Brasil SA,8.649999618530273,False,2009.0,,11-12,01-26,8.0,7.0,3.0,4.0,11-12,01-26,3.058475807963912
+1021,ERIXF,Telefonaktiebolaget L M Ericsson,12.050000190734863,False,2010.0,,02-08,04-23,7.0,7.0,3.0,3.0,12-18,03-03,5.1511444825109605
+1022,ERIAF,Telefonaktiebolaget L M Ericsson,$8.60 ,True,,No data fetched for symbol ERIAF using YahooDailyReader,,,,,,,,,
+1023,ERIC,Telefonaktiebolaget L M Ericsson,12.130000114440918,False,2009.0,,01-31,04-15,8.0,8.0,3.0,3.0,01-31,04-15,6.321196702836522
+1024,TFX,Teleflex Inc,372.2699890136719,False,2009.0,,10-27,01-10,9.0,9.0,2.0,2.0,10-27,01-10,7.192626923819074
+1025,TLFX,Telefix Communications Holdings Inc,0.019999999552965164,False,2009.0,,02-11,04-26,4.0,4.0,7.0,7.0,02-11,04-26,-9.494615604509072
+1026,TDY,Teledyne Technologies Inc,390.82000732421875,False,2009.0,,07-09,09-22,8.0,8.0,3.0,3.0,07-09,09-22,6.932936217386918
+1027,TLCO,Teleconnect Inc,0.03500000014901161,False,2009.0,,01-19,04-03,3.0,3.0,8.0,8.0,01-19,04-03,-0.4113092066672645
+1028,TSYS,TeleCommunication Systems Inc,$4.99 ,True,,'Date',,,,,,,,,
+1029,TIAOF,Telecom Italia SpA,0.38999998569488525,False,2009.0,,07-08,09-21,6.0,6.0,5.0,5.0,07-08,09-21,4.441573968423024
+1030,TIAJF,Telecom Italia SpA,0.3752000033855438,True,2013.0,,,,,,,,,,
+1031,TIAIY,Telecom Italia SpA,4.46999979019165,True,2012.0,,,,,,,,,,
+1032,TIIAY,Telecom Italia SpA,4.230000019073486,True,2012.0,,,,,,,,,,
+1033,TEGPY,Telecom Egypt SAE,$7.72 ,True,,No data fetched for symbol TEGPY using YahooDailyReader,,,,,,,,,
+1034,TCMFF,Telecom Argentina SA,1.25,False,2009.0,,09-24,12-08,7.0,7.0,4.0,4.0,09-24,12-08,5.7604105070645595
+1035,TEO,Telecom Argentina SA,7.429999828338623,False,2009.0,,08-29,11-12,6.0,6.0,5.0,5.0,09-30,12-14,5.273988408720018
+1036,TLCTF,Telecity Group PLC,$18.60 ,True,,No data fetched for symbol TLCTF using YahooDailyReader,,,,,,,,,
+1037,TLEIY,Telecity Group Ltd,$36.80 ,True,,No data fetched for symbol TLEIY using YahooDailyReader,,,,,,,,,
+1038,TLTZY,Tele2 AB,6.239999771118164,True,2012.0,,,,,,,,,,
+1039,TLTZF,Tele2 AB,12.529999732971191,True,2011.0,,,,,,,,,,
+1040,TLQGF,Tele Columbus AG,$7.70 ,True,,No data fetched for symbol TLQGF using YahooDailyReader,,,,,,,,,
+1041,TLRA,Telaria Inc,$6.00 ,True,,No data fetched for symbol TLRA using YahooDailyReader,,,,,,,,,
+1042,TDOC,Teladoc Health Inc,191.19000244140625,True,2015.0,,,,,,,,,,
+1043,TELA,TELA Bio Inc,16.399999618530273,True,2019.0,,,,,,,,,,
+1044,TELOZ,Tel Offshore Trust,$1.00 ,True,,'Date',,,,,,,,,
+1045,TIKK,Tel Instrument Electronics Corp,3.200000047683716,False,2009.0,,12-02,02-15,5.0,5.0,6.0,6.0,12-02,02-15,14.812292867620805
+1046,TVAVF,Tel Aviv Stock Exchange Ltd,4.690000057220459,True,2019.0,,,,,,,,,,
+1047,THW,Tekla World Healthcare Fund,15.1899995803833,True,2015.0,,,,,,,,,,
+1048,HQL,Tekla Life Sciences Investors,18.329999923706055,False,2009.0,,10-29,01-12,9.0,9.0,2.0,2.0,06-07,08-21,2.2041354700185884
+1049,THQ,Tekla Healthcare Opportunities Fund,19.31999969482422,True,2014.0,,,,,,,,,,
+1050,HQH,Tekla Healthcare Investors,21.6299991607666,False,2009.0,,05-08,07-22,9.0,9.0,2.0,2.0,10-29,01-12,4.554384909262218
+1051,TKKRF,Tekken Corp,$0.92 ,True,,No data fetched for symbol TKKRF using YahooDailyReader,,,,,,,,,
+1052,TKFNF,Tekfen Holding AS,$3.21 ,True,,No data fetched for symbol TKFNF using YahooDailyReader,,,,,,,,,
+1053,TKFHY,Tekfen Holding AS,4,True,2020.0,,,,,,,,,,
+1054,TKGL,TekeGldMpire Inc,0.10000000149011612,False,2010.0,,03-25,06-08,2.0,2.0,8.0,8.0,03-25,06-08,15.346836648096836
+1055,TRC,Tejon Ranch Co,14.579999923706055,False,2009.0,,10-21,01-04,7.0,7.0,4.0,4.0,10-21,01-04,1.8928137072844569
+1056,TINLY,Teijin Ltd,18.079999923706055,False,2009.0,,11-12,01-26,4.0,4.0,7.0,7.0,11-12,01-26,5.3905892408441485
+1057,TINLF,Teijin Ltd,16.25,True,2014.0,,,,,,,,,,
+1058,TGNA,Tegna Inc,14.010000228881836,False,2009.0,,10-06,12-20,7.0,7.0,4.0,4.0,10-06,12-20,9.052232750632887
+1059,TGGMF,Tegma Gestao Logistica SA,$4.08 ,True,,No data fetched for symbol TGGMF using YahooDailyReader,,,,,,,,,
+1060,TFRFF,Tefron Ltd,1.090000033378601,False,2009.0,,12-14,02-27,9.0,9.0,2.0,2.0,12-14,02-27,14.12034509431816
+1061,TNK,Teekay Tankers Ltd,11.180000305175781,False,2009.0,,02-10,04-25,5.0,5.0,6.0,6.0,02-12,04-27,5.858599796866264
+1062,TOO,Teekay Offshore Partners LP,$1.55 ,True,,No data fetched for symbol TOO using YahooDailyReader,,,,,,,,,
+1063,TGP,Teekay LNG Partners LP,11.970000267028809,False,2009.0,,10-29,01-12,6.0,5.0,5.0,6.0,11-06,01-20,-6.368952733574817
+1064,TK,Teekay Corp,2.1500000953674316,False,2009.0,,02-26,05-11,7.0,7.0,4.0,4.0,02-23,05-08,4.713577489367977
+1065,TBAKF,Ted Baker PLC,1.7999999523162842,True,2014.0,,,,,,,,,,
+1066,TETOF,Tectonic Metals Inc,0.07800000160932541,True,2020.0,,,,,,,,,,
+1067,TCYSF,Tecsys Inc,27.67840003967285,True,2013.0,,,,,,,,,,
+1068,TGEN,Tecogen Inc,1.2050000429153442,True,2014.0,,,,,,,,,,
+1069,TE,TECO Energy Inc,$27.64 ,True,,'Date',,,,,,,,,
+1070,TGLS,Tecnoglass Inc,6.150000095367432,True,2012.0,,,,,,,,,,
+1071,TNSZY,Tecnisa SA,$5.30 ,True,,'Date',,,,,,,,,
+1072,TNSAY,Tecnisa SA,0.20000000298023224,True,2013.0,,,,,,,,,,
+1073,TNISY,Tecnicas Reunidas SA,5.099999904632568,True,2012.0,,,,,,,,,,
+1074,TNISF,Tecnicas Reunidas SA,17.100000381469727,True,2013.0,,,,,,,,,,
+1075,TCKRF,Teck Resources Ltd,17.020000457763672,False,2009.0,,10-13,12-27,5.0,5.0,6.0,6.0,10-25,01-08,6.220765988618018
+1076,TECK,Teck Resources Ltd,14.829999923706055,False,2009.0,,05-18,08-01,5.0,5.0,6.0,6.0,10-31,01-14,4.748559410685048
+1077,TTNDY,Techtronic Industries Co Ltd,67.26000213623047,False,2009.0,,03-16,05-30,7.0,7.0,4.0,4.0,03-24,06-07,11.411113687877341
+1078,TTNDF,Techtronic Industries Co Ltd,13.5,True,2012.0,,,,,,,,,,
+1079,TTGT,TechTarget Inc,51.400001525878906,False,2009.0,,05-06,07-20,5.0,5.0,6.0,6.0,05-06,07-20,9.246821966848367
+1080,TPCS,Techprecision Corp,1.2999999523162842,False,2009.0,,10-25,01-08,4.0,4.0,7.0,7.0,10-25,01-08,19.042113707801107
+1081,TINNF,Technovator International Ltd,$0.05 ,True,,No data fetched for symbol TINNF using YahooDailyReader,,,,,,,,,
+1082,TEHG,Technovative Group Inc,0.01600000075995922,True,2015.0,,,,,,,,,,
+1083,TCCPY,TechnoPro Holdings Inc,14.609999656677246,True,2019.0,,,,,,,,,,
+1084,TXHPF,TechnoPro Holdings Inc,74.01000213623047,True,2015.0,,,,,,,,,,
+1085,TCOSF,Technopolis Oyj,5.25,True,2019.0,,,,,,,,,,
+1086,TSCC,Technology Solutions Co,0.04500000178813934,True,2012.0,,,,,,,,,,
+1087,TCGN,Technology General Corp,0.03999999910593033,True,2012.0,,,,,,,,,,
+1088,TCCHF,Technogym SpA,8.15999984741211,True,2019.0,,,,,,,,,,
+1089,FTI,TechnipFMC PLC,8.479999542236328,False,2009.0,,02-09,04-24,4.0,4.0,7.0,7.0,02-09,04-24,0.04312801323446417
+1090,TKPPY,Technip,$17.85 ,True,,'Date',,,,,,,,,
+1091,THNRF,Technicolor SA,$0.20 ,True,,No data fetched for symbol THNRF using YahooDailyReader,,,,,,,,,
+1092,TCLRY,Technicolor SA,0.18000000715255737,False,2009.0,,07-22,10-05,7.0,7.0,4.0,4.0,07-22,10-05,5.298261830599898
+1093,TCCO,Technical Communications Corp,3.700000047683716,False,2009.0,,11-07,01-21,5.0,5.0,6.0,6.0,11-06,01-20,11.565298439193109
+1094,TCRI,Techcom Inc,0.048500001430511475,True,2020.0,,,,,,,,,,
+1095,TECD,Tech Data Corp,144.89999389648438,False,2009.0,,09-29,12-13,7.0,7.0,4.0,4.0,09-29,12-13,7.550303129557379
+1096,TCHBF,Tecan Group Ltd,440.5,True,2013.0,,,,,,,,,,
+1097,TBBA,TEB Bancorp Inc,6.5,True,2019.0,,,,,,,,,,
+1098,THRLF,Tearlach Resources Ltd,$0.03 ,True,,'Date',,,,,,,,,
+1099,TEAR,TearLab Corp,0.05790000036358833,False,2009.0,,02-09,04-24,4.0,4.0,7.0,7.0,02-09,04-24,1.193667459390367
+1100,TMVWY,TeamViewer AG,22.940000534057617,True,2020.0,,,,,,,,,,
+1101,TMVWF,TeamViewer AG,45.5,True,2020.0,,,,,,,,,,
+1102,TISI,Team Inc,10.079999923706055,False,2009.0,,06-03,08-17,6.0,6.0,5.0,5.0,06-03,08-17,0.7859872576885726
+1103,TMH,Team Health Holdings Inc,$43.50 ,True,,'Date',,,,,,,,,
+1104,TSPO,Team 360 Sports Inc,5.5,True,2020.0,,,,,,,,,,
+1105,TEL,TE Connectivity Ltd,111.33999633789062,False,2009.0,,10-02,12-16,8.0,8.0,3.0,3.0,10-02,12-16,6.873505461311112
+1106,TTDKY,TDK Corp,131.8800048828125,False,2009.0,,10-02,12-16,5.0,5.0,6.0,6.0,10-02,12-16,9.832439886688825
+1107,TTDKF,TDK Corp,131.5749969482422,True,2013.0,,,,,,,,,,
+1108,PETZ,TDH Holdings Inc,1.340000033378601,True,2017.0,,,,,,,,,,
+1109,TDCAF,TDC A/S,7.739999771118164,True,2011.0,,,,,,,,,,
+1110,TDBSF,TDb Split Corp,1.6150000095367432,True,2017.0,,,,,,,,,,
+1111,GLG,TD Holdings Inc,2.0899999141693115,True,2013.0,,,,,,,,,,
+1112,AMTD,TD Ameritrade Holding Corp,39.970001220703125,False,2009.0,,09-22,12-06,7.0,7.0,4.0,4.0,09-21,12-05,6.780164018723181
+1113,TSI,Tcw Strategic Income Fund Inc,5.699999809265137,False,2009.0,,03-16,05-30,8.0,8.0,3.0,3.0,02-09,04-24,1.5422367109813162
+1114,TCRR,TCR2 Therapeutics Inc,26.719999313354492,True,2019.0,,,,,,,,,,
+1115,TCPN,TCP Reliable Inc,0.03999999910593033,True,2009.0,,,,,,,,,,
+1116,TCPIF,TCP International Holdings Ltd,1.0,True,2014.0,,,,,,,,,,
+1117,TCLHF,TCL Electronics Holdings Ltd,0.800000011920929,False,2010.0,,11-30,02-13,4.0,4.0,6.0,6.0,11-29,02-12,6.247090557187607
+1118,TCCLF,TCL Communication Technology Holdings Ltd,$0.99 ,True,,No data fetched for symbol TCCLF using YahooDailyReader,,,,,,,,,
+1119,CGBD,TCG BDC Inc,10.670000076293945,True,2017.0,,,,,,,,,,
+1120,TCF,TCF Financial Corp,33.9900016784668,False,2009.0,,10-21,01-04,7.0,6.0,4.0,5.0,10-21,01-04,7.609209242420512
+1121,TCP,TC Pipelines LP,29.959999084472656,False,2009.0,,05-09,07-23,6.0,5.0,5.0,6.0,05-09,07-23,6.121369198330019
+1122,TRP,TC Energy Corp,42.459999084472656,False,2009.0,,06-26,09-09,6.0,6.0,5.0,5.0,06-25,09-08,2.556342744710483
+1123,TDLAF,TBG Diagnostics Ltd,0.09000000357627869,False,2009.0,,01-15,03-30,7.0,7.0,4.0,4.0,01-15,03-30,21.40365588846302
+1124,TBCCF,TBC Bank Group PLC,9.194700241088867,True,2018.0,,,,,,,,,,
+1125,TSHA,Taysha Gene Therapies Inc,21.5,True,2020.0,,,,,,,,,,
+1126,TWODY,Taylor Wimpey PLC,22.389999389648438,True,2013.0,,,,,,,,,,
+1127,TWODF,Taylor Wimpey PLC,2.049999952316284,False,2010.0,,11-09,01-23,8.0,8.0,2.0,2.0,11-09,01-23,12.865950143542134
+1128,TMHC,Taylor Morrison Home Corp,25.309999465942383,True,2013.0,,,,,,,,,,
+1129,TAYD,Taylor Devices Inc,9.619999885559082,False,2009.0,,11-16,01-30,6.0,6.0,5.0,5.0,11-16,01-30,4.651634771420468
+1130,TXSP,Taxus Pharmaceuticals Holdings Inc,3.3499999046325684,True,2015.0,,,,,,,,,,
+1131,TWNAF,Tawana Resources NL,$0.35 ,True,,No data fetched for symbol TWNAF using YahooDailyReader,,,,,,,,,
+1132,TAVHY,TAV Havalimanlari Holding AS,8.949999809265137,True,2014.0,,,,,,,,,,
+1133,TTCM,Tautachrome Inc,0.005200000014156103,False,2010.0,,11-17,01-31,4.0,4.0,5.0,5.0,11-17,01-31,-113.19844490866815
+1134,TAUG,Tauriga Sciences Inc,0.025299999862909317,True,2012.0,,,,,,,,,,
+1135,TCO,Taubman Centers Inc,42.810001373291016,False,2009.0,,11-07,01-21,7.0,7.0,4.0,4.0,11-07,01-21,3.5526083629891447
+1136,TTSLF,Tatts Group Ltd,$3.32 ,True,,No data fetched for symbol TTSLF using YahooDailyReader,,,,,,,,,
+1137,TTCF,Tattooed Chef Inc,15.699999809265137,True,2020.0,,,,,,,,,,
+1138,OAOFY,Tatneft PJSC,40.369998931884766,False,2010.0,,12-04,02-17,7.0,7.0,3.0,3.0,12-04,02-17,6.781823544166692
+1139,TATYY,Tate & Lyle PLC,34.38999938964844,False,2009.0,,03-15,05-29,5.0,5.0,6.0,6.0,03-15,05-29,7.05645578881018
+1140,TATYF,Tate & Lyle PLC,8.59000015258789,False,2010.0,,09-26,12-10,3.0,3.0,7.0,7.0,10-14,12-28,5.587467944353595
+1141,TATLY,Tata Steel Ltd,4.349999904632568,False,2010.0,,03-13,05-27,0.0,0.0,10.0,10.0,03-13,05-27,0.0
+1142,TTM,Tata Motors Ltd,11.579999923706055,False,2009.0,,08-24,11-07,6.0,6.0,5.0,5.0,08-24,11-07,10.326796402688656
+1143,TTAZF,Tata Consumer Products Ltd,$5.00 ,True,,No data fetched for symbol TTAZF using YahooDailyReader,,,,,,,,,
+1144,TATT,TAT Technologies Ltd,4.539999961853027,False,2009.0,,08-31,11-14,6.0,6.0,5.0,5.0,08-31,11-14,1.2038572904551788
+1145,TTSNF,Tat Seng Packaging Group Ltd,$0.23 ,True,,No data fetched for symbol TTSNF using YahooDailyReader,,,,,,,,,
+1146,TSLLF,Tassal Group Ltd,2.680000066757202,False,2009.0,,08-09,10-23,6.0,6.0,5.0,5.0,01-13,03-28,3.5756423848826926
+1147,TASEF,Tasman Resources Ltd,0.03400000184774399,True,2012.0,,,,,,,,,,
+1148,TASIF,Tasman Metals Ltd,$0.21 ,True,,'Date',,,,,,,,,
+1149,TGB,Taseko Mines Ltd,0.7900000214576721,False,2009.0,,12-10,02-23,6.0,6.0,5.0,5.0,12-10,02-23,7.91798214451441
+1150,TASZF,TAS Tecnologia Avanzata dei Sistemi SpA,1.760200023651123,True,2020.0,,,,,,,,,,
+1151,TTSRF,Tartisan Nickel Corp,0.25270000100135803,True,2018.0,,,,,,,,,,
+1152,TARS,Tarsus Pharmaceuticals Inc,23.399999618530273,True,2020.0,,,,,,,,,,
+1153,NTARF,Tarsus Group PLC,$3.40 ,True,,No data fetched for symbol NTARF using YahooDailyReader,,,,,,,,,
+1154,TMIX,Tarsin Mobile Inc,0.5099999904632568,True,2012.0,,,,,,,,,,
+1155,TAPNF,Tarpon Investimentos SA,$6.68 ,True,,No data fetched for symbol TAPNF using YahooDailyReader,,,,,,,,,
+1156,TRNF,Taronis Fuels Inc,0.11299999803304672,True,2020.0,,,,,,,,,,
+1157,TARO,Taro Pharmaceutical Industries Ltd,63.83000183105469,False,2009.0,,10-18,01-01,6.0,6.0,5.0,5.0,10-18,01-01,6.509271432638288
+1158,TKFTF,Tarkett SA,13.899999618530273,True,2015.0,,,,,,,,,,
+1159,TGTMF,Targeted Microwave Solutions Inc,0.015300000086426735,True,2015.0,,,,,,,,,,
+1160,TRGM,Targeted Medical Pharma Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+1161,TH,Target Hospitality Corp,1.5700000524520874,True,2018.0,,,,,,,,,,
+1162,CBDY,Target Group Inc,0.010499999858438969,True,2015.0,,,,,,,,,,
+1163,TEXQY,Target Energy Ltd,$0.05 ,True,,No data fetched for symbol TEXQY using YahooDailyReader,,,,,,,,,
+1164,TGT,Target Corp,171.3699951171875,False,2009.0,,05-23,08-06,7.0,7.0,4.0,4.0,05-23,08-06,4.854860337289441
+1165,NGLS,Targa Resources Partners LP,$10.65 ,True,,'Date',,,,,,,,,
+1166,TRGP,Targa Resources Corp,23.239999771118164,False,2010.0,,12-07,02-20,6.0,6.0,4.0,4.0,12-07,02-20,6.514014348676289
+1167,TEDU,Tarena International Inc,2.140000104904175,True,2014.0,,,,,,,,,,
+1168,TNREF,Taranis Resources Inc,0.11999999731779099,False,2009.0,,07-05,09-18,1.0,1.0,10.0,10.0,07-05,09-18,14.115321087233665
+1170,TAPM,Tapinator Inc,3.619999885559082,False,2009.0,,06-12,08-26,4.0,4.0,7.0,7.0,06-12,08-26,-64.70297216870165
+1171,TPR,Tapestry Inc,28.399999618530273,False,2009.0,,10-02,12-16,7.0,7.0,4.0,4.0,10-02,12-16,6.901854877298594
+1172,TAPOF,Tap Oil Ltd,0.05000000074505806,False,2009.0,,07-14,09-27,4.0,4.0,7.0,7.0,07-14,09-27,6.154152241735492
+1173,TAOP,Taoping Inc,2.859999895095825,False,2009.0,,08-09,10-23,2.0,2.0,9.0,9.0,08-09,10-23,2.650211792931793
+1174,TAOM,Taomee Holdings Ltd,$3.70 ,True,,'Date',,,,,,,,,
+1175,TRX,Tanzanian Gold Corp,0.6399999856948853,False,2009.0,,05-07,07-21,4.0,4.0,7.0,7.0,05-07,07-21,6.237078423386861
+1176,TASY,Tanxia System Inc,$0.55 ,True,,No data fetched for symbol TASY using YahooDailyReader,,,,,,,,,
+1177,TANH,Tantech Holdings Ltd,2.759999990463257,True,2015.0,,,,,,,,,,
+1178,TEATF,Tantalus Rare Earths AG,$0.46 ,True,,No data fetched for symbol TEATF using YahooDailyReader,,,,,,,,,
+1179,TNBI,Tanke Biosciences Corp,0.009999999776482582,True,2012.0,,,,,,,,,,
+1180,TNGO,Tangoe Inc,$6.35 ,True,,'Date',,,,,,,,,
+1181,SKT,Tanger Factory Outlet Centers Inc,8.9399995803833,False,2009.0,,09-27,12-11,7.0,7.0,4.0,4.0,09-01,11-15,5.454438770282535
+1182,IPRSF,Tangelo Games Corp,$0.01 ,True,,No data fetched for symbol IPRSF using YahooDailyReader,,,,,,,,,
+1183,TFROF,Tanfield Group PLC,0.05999999865889549,True,2012.0,,,,,,,,,,
+1184,TLFA,Tandy Leather Factory Inc,3.1700000762939453,True,2020.0,,,,,,,,,,
+1185,TDUFF,Tandou Ltd,$0.35 ,True,,'Date',,,,,,,,,
+1186,TNDM,Tandem Diabetes Care Inc,93.79000091552734,True,2013.0,,,,,,,,,,
+1187,TMRNF,Tamron Co Ltd,$2.75 ,True,,'Date',,,,,,,,,
+1188,TNEYF,Tamarack Valley Energy Ltd,0.7200000286102295,False,2010.0,,07-09,09-22,4.0,4.0,6.0,6.0,07-09,09-22,4.692056948271908
+1189,TALO,Talos Energy Inc,8.300000190734863,True,2018.0,,,,,,,,,,
+1190,TALR,Talon Real Estate Holding Corp,$0.01 ,True,,No data fetched for symbol TALR using YahooDailyReader,,,,,,,,,
+1191,TPDDF,Talon Petroleum Ltd,0.012400000356137753,True,2019.0,,,,,,,,,,
+1192,TLOFF,Talon Metals Corp,0.3199999928474426,True,2014.0,,,,,,,,,,
+1193,TALN,Talon International Inc,0.03999999910593033,False,2009.0,,01-27,04-11,4.0,4.0,7.0,7.0,01-27,04-11,21.428377411295692
+1194,TLMR,Talmer Bancorp Inc,$23.26 ,True,,'Date',,,,,,,,,
+1195,TINKF,Tallink Grupp AS,$1.15 ,True,,No data fetched for symbol TINKF using YahooDailyReader,,,,,,,,,
+1196,TEP,Tallgrass Energy Partners LP,43.310001373291016,True,2013.0,,,,,,,,,,
+1197,TGE,Tallgrass Energy LP,$22.39 ,True,,No data fetched for symbol TGE using YahooDailyReader,,,,,,,,,
+1198,AGDNF,Tallgrass Energy Corp,$0.04 ,True,,No data fetched for symbol AGDNF using YahooDailyReader,,,,,,,,,
+1199,TLKTF,TalkTalk Telecom Group PLC,1.149999976158142,True,2013.0,,,,,,,,,,
+1200,TKTCY,TalkTalk Telecom Group PLC,$6.80 ,True,,No data fetched for symbol TKTCY using YahooDailyReader,,,,,,,,,
+1201,TLSMF,Talisman Mining Ltd,0.08500000089406967,True,2018.0,,,,,,,,,,
+1202,TSKFF,Talisker Resources Ltd,0.2523300051689148,True,2013.0,,,,,,,,,,
+1203,AVXAF,TALI Digital Ltd,$0.04 ,True,,No data fetched for symbol AVXAF using YahooDailyReader,,,,,,,,,
+1204,TLLGF,Talgo SA,4.343800067901611,True,2016.0,,,,,,,,,,
+1205,TLGRF,Talga Group Ltd,1.350000023841858,True,2016.0,,,,,,,,,,
+1206,TLND,Talend SA,40.310001373291016,True,2016.0,,,,,,,,,,
+1207,TLN,Talen Energy Corp,$14.00 ,True,,'Date',,,,,,,,,
+1208,TNXXF,Talanx AG,36.87030029296875,True,2017.0,,,,,,,,,,
+1209,TALC,Tal-Cap Inc,0.026799999177455902,True,2012.0,,,,,,,,,,
+1210,TAL,TAL Education Group,74.75,False,2010.0,,12-14,02-27,8.0,8.0,2.0,2.0,12-14,02-27,9.247063596738936
+1211,TKAT,Takung Art Co Ltd,1.0219999551773071,True,2015.0,,,,,,,,,,
+1212,TKUMF,Takuma Co Ltd,15.369999885559082,True,2020.0,,,,,,,,,,
+1213,TAKUF,Taku Gold Corp,0.10599999874830246,False,2010.0,,07-09,09-22,6.0,6.0,4.0,4.0,07-09,09-22,-0.2158224592957789
+1214,TAUKF,Takkt AG,13.550000190734863,True,2019.0,,,,,,,,,,
+1215,TAK,Takeda Pharmaceutical Co Ltd,17.450000762939453,False,2010.0,,06-06,08-20,5.0,5.0,5.0,5.0,06-06,08-20,4.9561053740488425
+1216,TKPHF,Takeda Pharmaceutical Co Ltd,34.65999984741211,False,2009.0,,09-28,12-12,6.0,7.0,5.0,4.0,06-05,08-19,4.719207419215008
+1217,TTWO,Take-Two Interactive Software Inc,161.57000732421875,False,2009.0,,07-11,09-24,7.0,7.0,4.0,4.0,07-11,09-24,10.351416279618231
+1218,TKTDQ,Takata Corp,$1.39 ,True,,No data fetched for symbol TKTDQ using YahooDailyReader,,,,,,,,,
+1219,TKSKF,Takasho Co Ltd,$4.36 ,True,,No data fetched for symbol TKSKF using YahooDailyReader,,,,,,,,,
+1220,TKSHF,Takashimaya Co Ltd,11.100000381469727,True,2019.0,,,,,,,,,,
+1221,TKINF,Takasago International Corp,19.5,True,2020.0,,,,,,,,,,
+1222,TKBIF,Takara Bio Inc,28.25,True,2020.0,,,,,,,,,,
+1223,TKNOF,Takano Co Ltd,$8.55 ,True,,No data fetched for symbol TKNOF using YahooDailyReader,,,,,,,,,
+1224,TAJIF,Tajiri Resources Corp,0.10689999908208847,True,2020.0,,,,,,,,,,
+1225,TYOYY,Taiyo Yuden Co Ltd,147.97000122070312,False,2010.0,,10-06,12-20,7.0,7.0,3.0,3.0,10-06,12-20,7.286972394940926
+1226,TYOYF,Taiyo Yuden Co Ltd,$9.02 ,True,,'Date',,,,,,,,,
+1227,TYUCF,Taiyo Kagaku Co Ltd,$7.45 ,True,,No data fetched for symbol TYUCF using YahooDailyReader,,,,,,,,,
+1228,TSM,Taiwan Semiconductor Manufacturing Co Ltd,96.61000061035156,False,2009.0,,09-25,12-09,8.0,8.0,3.0,3.0,09-25,12-09,7.727369307447767
+1229,TLC,Taiwan Liposome Co Ltd,4.380000114440918,True,2018.0,,,,,,,,,,
+1230,TWN,Taiwan Fund Inc,25.719999313354492,False,2009.0,,11-11,01-25,7.0,7.0,4.0,4.0,05-23,08-06,4.791724041809045
+1231,TAIT,Taitron Components Inc,2.8299999237060547,False,2009.0,,10-28,01-11,3.0,3.0,8.0,8.0,10-28,01-11,8.564071116562962
+1232,TAIPY,Taisho Pharmaceutical Holding Co Ltd,15.5600004196167,True,2017.0,,,,,,,,,,
+1233,TAISF,Taisho Pharmaceutical Holding Co Ltd,61.29999923706055,True,2012.0,,,,,,,,,,
+1234,TSOCF,Taisei Oncho Co Ltd,17.899999618530273,True,2013.0,,,,,,,,,,
+1235,TISCY,Taisei Corp,8.595000267028809,True,2012.0,,,,,,,,,,
+1236,TISCF,Taisei Corp,34.369998931884766,True,2011.0,,,,,,,,,,
+1237,TWND,Tailwind Acquisition Corp,9.680000305175781,True,2020.0,,,,,,,,,,
+1238,TLRDQ,Tailored Brands Inc,0.23000000417232513,False,2009.0,,02-02,04-17,7.0,7.0,4.0,4.0,02-02,04-17,-6.9900555391756045
+1239,TKIAF,Taikisha Ltd,22.40999984741211,True,2019.0,,,,,,,,,,
+1240,THYCY,Taiheiyo Cement Corp,7.070000171661377,False,2009.0,,09-06,11-20,4.0,4.0,7.0,7.0,03-09,05-23,5.09885148769362
+1241,THYCF,Taiheiyo Cement Corp,28.020000457763672,True,2011.0,,,,,,,,,,
+1242,TGGDF,Taiga Gold Corp,0.16277000308036804,True,2018.0,,,,,,,,,,
+1243,TGAFF,Taiga Building Products Ltd,1.2000000476837158,True,2014.0,,,,,,,,,,
+1244,TAPCF,Tai Ping Carpets International Ltd,$0.15 ,True,,No data fetched for symbol TAPCF using YahooDailyReader,,,,,,,,,
+1245,TAICF,Tai Cheung Holdings Ltd,0.6481000185012817,True,2020.0,,,,,,,,,,
+1246,TAICY,Tai Cheung Holdings Ltd,$3.55 ,True,,No data fetched for symbol TAICY using YahooDailyReader,,,,,,,,,
+1247,TAHO,Tahoe Resources Inc,$3.64 ,True,,No data fetched for symbol TAHO using YahooDailyReader,,,,,,,,,
+1248,TAGMF,TagMaster AB,0.08290000259876251,True,2020.0,,,,,,,,,,
+1249,TAOIF,TAG Oil Ltd,0.14000000059604645,False,2010.0,,04-20,07-04,6.0,4.0,4.0,6.0,06-28,09-11,6.050522374074205
+1250,TAGOF,TAG Immobilien AG,30.142799377441406,True,2014.0,,,,,,,,,,
+1251,TDNOF,Tadano Ltd,10.5,True,2019.0,,,,,,,,,,
+1252,TCMD,Tactile Systems Technology Inc,42.91999816894531,True,2016.0,,,,,,,,,,
+1253,TTSI,Tactical Services Inc,0.008999999612569809,True,2017.0,,,,,,,,,,
+1254,TKWAF,Tachikawa Corp,$6.80 ,True,,No data fetched for symbol TKWAF using YahooDailyReader,,,,,,,,,
+1255,TBNAF,Tachibana Eletech Co Ltd,$20.20 ,True,,No data fetched for symbol TBNAF using YahooDailyReader,,,,,,,,,
+1256,TCISF,Tachi-S Co Ltd,7.5,True,2014.0,,,,,,,,,,
+1257,TRHC,Tabula Rasa HealthCare Inc,33.939998626708984,True,2016.0,,,,,,,,,,
+1258,DATA,Tableau Software Inc,$169.53 ,True,,No data fetched for symbol DATA using YahooDailyReader,,,,,,,,,
+1259,TBTC,Table Trac Inc,2.8499999046325684,False,2009.0,,06-26,09-09,4.0,4.0,7.0,7.0,06-26,09-09,12.294845788436904
+1260,TACBY,Tabcorp Holdings Ltd,5.960000038146973,False,2010.0,,06-09,08-23,7.0,3.0,3.0,7.0,11-08,01-22,8.170829081626742
+1261,TABCF,Tabcorp Holdings Ltd,2.4700000286102295,False,2010.0,,12-21,03-06,8.0,5.0,2.0,5.0,12-04,02-17,5.874989630055069
+1262,TOBAF,TAAT Lifestyle & Wellness Ltd,3.1098999977111816,True,2013.0,,,,,,,,,,
+1263,TAALF,Taal Distributed Information Technologies Inc,1.2044999599456787,True,2020.0,,,,,,,,,,
+1264,TFIV,T5 Corp,23.100000381469727,True,2018.0,,,,,,,,,,
+1265,TTOO,T2 Biosystems Inc,1.149999976158142,True,2014.0,,,,,,,,,,
+1266,TROW,T. Rowe Price Group Inc,139.52999877929688,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-26,12-10,8.71028772523576
+1267,TMUS,T-Mobile US Inc,129.19000244140625,False,2009.0,,02-06,04-21,8.0,8.0,3.0,3.0,02-06,04-21,8.675532238323031
+1268,TDHOY,T&D Holdings Inc,5.880000114440918,True,2011.0,,,,,,,,,,
+1269,TDHOF,T&D Holdings Inc,10.0,True,2013.0,,,,,,,,,,
+1270,HASGF,T Hasegawa Co Ltd,20.950000762939453,True,2014.0,,,,,,,,,,
+1271,THLM,T H Lehman & Co Inc,0.041999999433755875,False,2009.0,,07-20,10-03,0.0,0.0,8.0,8.0,07-20,10-03,22.38281803758466
+1272,TBNC,T Bancshares Inc,$8.50 ,True,,'Date',,,,,,,,,

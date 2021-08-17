@@ -1,0 +1,2000 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,SYMJF,SYSTEMS DESIGN Co Ltd,$5.25 ,True,,No data fetched for symbol SYMJF using YahooDailyReader,,,,,,,,,
+1,SYX,Systemax Inc,29.96500015258789,False,2009.0,,10-02,12-16,5.0,5.0,6.0,6.0,10-02,12-16,9.762290498226374
+2,SYSX,Sysorex Inc,0.22499999403953552,True,2018.0,,,,,,,,,,
+3,SSMXY,Sysmex Corp,48.68000030517578,True,2011.0,,,,,,,,,,
+4,SSMXF,Sysmex Corp,86.05000305175781,False,2009.0,,01-18,04-02,10.0,10.0,1.0,1.0,01-18,04-02,9.428870774913275
+5,SYY,Sysco Corp,71.625,False,2009.0,,10-01,12-15,6.0,6.0,5.0,5.0,10-01,12-15,7.713282660479352
+6,SYRS,Syros Pharmaceuticals Inc,7.840000152587891,True,2016.0,,,,,,,,,,
+7,SYAAF,Syrah Resources Ltd,0.47999998927116394,True,2013.0,,,,,,,,,,
+8,SRHYY,Syrah Resources Ltd,0.30000001192092896,True,2017.0,,,,,,,,,,
+9,SYPR,Sypris Solutions Inc,1.4299999475479126,False,2009.0,,05-21,08-04,5.0,5.0,6.0,6.0,05-21,08-04,10.722739207961187
+10,SYUT,Synutra International Inc,$6.05 ,True,,'Date',,,,,,,,,
+11,SNLP,Syntrol Corp,0.006599999964237213,True,2012.0,,,,,,,,,,
+12,SNTTF,Syntonic Ltd,$0.03 ,True,,No data fetched for symbol SNTTF using YahooDailyReader,,,,,,,,,
+13,SYNYY,Synthos SA,$16.40 ,True,,No data fetched for symbol SYNYY using YahooDailyReader,,,,,,,,,
+14,THOR,Synthorx Inc,$67.99 ,True,,No data fetched for symbol THOR using YahooDailyReader,,,,,,,,,
+15,SYNMF,Synthetic MR AB,$29.50 ,True,,No data fetched for symbol SYNMF using YahooDailyReader,,,,,,,,,
+16,SYN,Synthetic Biologics Inc,0.3499999940395355,False,2009.0,,12-30,03-15,6.0,6.0,5.0,5.0,12-30,03-15,9.138273295883863
+17,SYNE,Synthesis Energy Systems Inc,0.29100000858306885,False,2009.0,,01-23,04-07,4.0,4.0,7.0,7.0,01-23,04-07,-5.737953401970628
+18,SYNT,Syntel Inc,40.9900016784668,True,2012.0,,,,,,,,,,
+19,SYBF,Syntec Biofuel Inc,0.004999999888241291,True,2012.0,,,,,,,,,,
+20,SNGY,Synrgy Corp,0.20000000298023224,True,2012.0,,,,,,,,,,
+21,SNV,Synovus Financial Corp,30.6200008392334,False,2009.0,,10-30,01-13,7.0,7.0,4.0,4.0,10-31,01-14,8.01439484696005
+22,SNPS,Synopsys Inc,220.08999633789062,False,2009.0,,06-22,09-05,9.0,9.0,2.0,2.0,06-22,09-05,8.165356282445881
+23,SYXXF,Synodon Inc,0.0074800001457333565,True,2012.0,,,,,,,,,,
+24,SNX,Synnex Corp,150.31500244140625,False,2009.0,,10-21,01-04,5.0,5.0,6.0,6.0,10-21,01-04,8.027524591990343
+25,SYBX,Synlogic Inc,2.0799999237060547,True,2015.0,,,,,,,,,,
+26,SYENF,Syngenta AG,557.469970703125,True,2019.0,,,,,,,,,,
+27,SYT,Syngenta AG,$92.90 ,True,,'Date',,,,,,,,,
+28,SYITF,Synex International Inc,0.15524999797344208,True,2018.0,,,,,,,,,,
+29,ELOS,Syneron Medical Ltd,$11.00 ,True,,'Date',,,,,,,,,
+30,SGYPQ,Synergy Pharmaceuticals Inc,$0.01 ,True,,No data fetched for symbol SGYPQ using YahooDailyReader,,,,,,,,,
+31,SYHEF,Synergy Health PLC,$26.41 ,True,,'Date',,,,,,,,,
+32,SNYR,Synergy CHC Corp,0.03799999877810478,True,2014.0,,,,,,,,,,
+33,SYNH,Syneos Health Inc,61.75,True,2014.0,,,,,,,,,,
+34,SNDX,Syndax Pharmaceuticals Inc,22.030000686645508,True,2016.0,,,,,,,,,,
+35,SYCRF,Syncora Holdings Ltd,0.28040000796318054,False,2009.0,,12-19,03-04,8.0,7.0,3.0,4.0,07-12,09-25,5.585120550257691
+36,SYF,Synchrony Financial,29.780000686645508,True,2014.0,,,,,,,,,,
+37,SNCR,Synchronoss Technologies Inc,2.990000009536743,False,2009.0,,05-24,08-07,8.0,8.0,3.0,3.0,05-24,08-07,7.775792240383399
+38,SYNA,Synaptics Inc,77.80000305175781,False,2009.0,,12-09,02-22,7.0,7.0,4.0,4.0,12-09,02-22,11.405813201841527
+39,SYNL,Synalloy Corp,6.550000190734863,False,2009.0,,03-01,05-15,4.0,4.0,7.0,7.0,03-01,05-15,8.739131380115504
+40,SYGGF,Synairgen PLC,1.4500000476837158,True,2020.0,,,,,,,,,,
+41,SYNC,Synacor Inc,1.375,True,2012.0,,,,,,,,,,
+42,SYIEY,Symrise AG,31.104999542236328,False,2010.0,,02-27,05-12,7.0,7.0,3.0,3.0,02-27,05-12,7.092350251711423
+43,SYIEF,Symrise AG,122.5,False,2009.0,,03-19,06-02,7.0,7.0,4.0,4.0,03-24,06-07,8.193054359276445
+44,SYNNF,Symphony International Holdings Ltd,0.334199994802475,True,2011.0,,,,,,,,,,
+45,SYHLF,Symphony Holdings Ltd,0.10000000149011612,True,2015.0,,,,,,,,,,
+46,SETPY,Symphony Environmental Technologies PLC,$19.01 ,True,,No data fetched for symbol SETPY using YahooDailyReader,,,,,,,,,
+47,SMMR,Symmetry Technologies Inc,0.006940000224858522,True,2012.0,,,,,,,,,,
+48,SSRG,Symmetry Surgical Inc,$13.18 ,True,,'Date',,,,,,,,,
+49,SYA,Symetra Financial Corp,$32.02 ,True,,'Date',,,,,,,,,
+50,SBIZF,SymBio Pharmaceuticals Ltd,2.9000000953674316,True,2020.0,,,,,,,,,,
+51,SYMQY,SymBio Pharmaceuticals Ltd,$2.45 ,True,,No data fetched for symbol SYMQY using YahooDailyReader,,,,,,,,,
+52,ATBEF,Symbility Solutions Inc,0.4551999866962433,True,2013.0,,,,,,,,,,
+53,SAPLF,Sylvania Platinum Ltd,1.100000023841858,True,2012.0,,,,,,,,,,
+54,SYZLF,Sylogist Ltd,8.010000228881836,True,2012.0,,,,,,,,,,
+55,SYKE,Sykes Enterprises Inc,37.61000061035156,False,2009.0,,09-20,12-04,2.0,2.0,9.0,9.0,09-20,12-04,11.824420200782518
+56,SYYC,Sydys Corp,1.875,True,2019.0,,,,,,,,,,
+57,SYDDF,Sydney Airport,4.949999809265137,True,2012.0,,,,,,,,,,
+58,SYANY,Sydbank A/S,3.5,True,2014.0,,,,,,,,,,
+59,SYANF,Sydbank A/S,$37.79 ,True,,No data fetched for symbol SYANF using YahooDailyReader,,,,,,,,,
+60,SCMR,Sycamore Networks Inc,$0.23 ,True,,'Date',,,,,,,,,
+61,SWKH,SWK Holdings Corp,14.739999771118164,False,2009.0,,03-18,06-01,4.0,4.0,7.0,7.0,03-18,06-01,6.029424115380888
+62,SBE,Switchback Energy Acquisition Corp,23.889999389648438,True,2019.0,,,,,,,,,,
+63,SWCH,Switch Inc,15.180000305175781,True,2017.0,,,,,,,,,,
+64,SWSQY,Swissquote Group Holding SA,$51.61 ,True,,No data fetched for symbol SWSQY using YahooDailyReader,,,,,,,,,
+65,SWHN,SwissINSO Holding Inc,$0.01 ,True,,'Date',,,,,,,,,
+66,SWZCF,Swisscom AG,531.0,False,2010.0,,11-13,01-27,8.0,8.0,2.0,2.0,11-13,01-27,3.3738749670886894
+67,SCMWY,Swisscom AG,52.369998931884766,False,2009.0,,05-31,08-14,8.0,8.0,3.0,3.0,05-31,08-14,4.745825381225049
+68,SWSSF,Swiss Water Decaffeinated Coffee Inc,2.059523105621338,True,2012.0,,,,,,,,,,
+69,SZBHF,Swiss Steel Holding AG,$0.30 ,True,,No data fetched for symbol SZBHF using YahooDailyReader,,,,,,,,,
+70,SSREY,Swiss Re AG,22.246999740600586,True,2011.0,,,,,,,,,,
+71,SSREF,Swiss Re AG,89.41999816894531,True,2012.0,,,,,,,,,,
+72,SWPRF,Swiss Prime Site AG,91.19599914550781,True,2015.0,,,,,,,,,,
+73,SZLMY,Swiss Life Holding AG,22.049999237060547,False,2010.0,,03-30,06-13,6.0,6.0,4.0,4.0,10-28,01-11,6.007649912328856
+74,SWSDF,Swiss Life Holding AG,436.3399963378906,True,2012.0,,,,,,,,,,
+75,SWZ,Swiss Helvetia Fund Inc,8.470000267028809,False,2009.0,,05-23,08-06,7.0,7.0,4.0,4.0,03-29,06-12,2.223528799249684
+76,SWSH,Swisher Hygiene Inc,0.9361500144004822,True,2012.0,,,,,,,,,,
+77,SWROY,Swire Properties Ltd,$17.25 ,True,,No data fetched for symbol SWROY using YahooDailyReader,,,,,,,,,
+78,SWPFF,Swire Properties Ltd,2.9000000953674316,True,2013.0,,,,,,,,,,
+79,SWRBY,Swire Pacific Ltd,4.829999923706055,False,2009.0,,04-01,06-15,7.0,6.0,4.0,5.0,02-08,04-23,1.5547241811025592
+80,SWRBF,Swire Pacific Ltd,0.902999997138977,False,2009.0,,04-05,06-19,1.0,1.0,10.0,10.0,05-18,08-01,2.172188142741747
+81,SWRAY,Swire Pacific Ltd,6.03000020980835,False,2009.0,,03-21,06-04,6.0,5.0,5.0,6.0,01-23,04-07,1.0858653082870784
+82,SWRAF,Swire Pacific Ltd,5.949999809265137,False,2010.0,,04-05,06-19,4.0,4.0,6.0,6.0,02-11,04-26,1.3515293645402162
+83,HLMB,Swiftsure International Inc,0.010999999940395355,True,2013.0,,,,,,,,,,
+84,SWFT,Swift Transportation Co,$40.96 ,True,,'Date',,,,,,,,,
+85,SWCKF,Swick Mining Services Ltd,0.11999999731779099,True,2012.0,,,,,,,,,,
+86,SWBRF,Swiber Holdings Ltd,$0.14 ,True,,No data fetched for symbol SWBRF using YahooDailyReader,,,,,,,,,
+87,SEHCF,Sweet Earth Holdings Corp,0.12729999423027039,True,2020.0,,,,,,,,,,
+88,SWEE,SweeGen Inc,1.0,True,2017.0,,,,,,,,,,
+89,BIOVF,Swedish Orphan Biovitrum AB,17.950000762939453,True,2017.0,,,,,,,,,,
+90,SWTUY,Swedish Orphan Biovitrum AB,$24.38 ,True,,No data fetched for symbol SWTUY using YahooDailyReader,,,,,,,,,
+91,SWMAY,Swedish Match AB,41.0099983215332,False,2009.0,,02-18,05-03,7.0,7.0,4.0,4.0,03-14,05-28,4.802415207787464
+92,SWMAF,Swedish Match AB,81.19999694824219,False,2010.0,,02-20,05-05,6.0,6.0,4.0,4.0,02-11,04-26,6.255987843583969
+93,SWDBY,Swedbank AB,18.013200759887695,False,2009.0,,08-26,11-09,8.0,8.0,3.0,3.0,11-02,01-16,3.666706725479879
+94,SWDBF,Swedbank AB,18.149999618530273,False,2009.0,,07-09,09-22,5.0,5.0,6.0,6.0,07-07,09-20,11.81680693067282
+95,SWNG,Swan Group of Companies Inc,$0.02 ,True,,No data fetched for symbol SWNG using YahooDailyReader,,,,,,,,,
+96,SVMK,SVMK Inc,21.229999542236328,True,2018.0,,,,,,,,,,
+97,SVNLY,Svenska Handelsbanken,4.90500020980835,False,2010.0,,12-08,02-21,8.0,8.0,2.0,2.0,12-08,02-21,7.526280524269074
+98,SVNLF,Svenska Handelsbanken,9.944000244140625,True,2012.0,,,,,,,,,,
+99,SVCBY,Svenska Cellulosa AB,15.739999771118164,False,2010.0,,12-13,02-26,7.0,7.0,3.0,3.0,12-13,02-26,8.499435747681577
+100,SVCBF,Svenska Cellulosa AB,13.133000373840332,True,2012.0,,,,,,,,,,
+101,SVBT,SVB&T Corp,65.0999984741211,True,2018.0,,,,,,,,,,
+102,SIVB,SVB Financial Group,351.8500061035156,False,2009.0,,08-22,11-05,9.0,9.0,2.0,2.0,08-22,11-05,6.5672882507789625
+103,SZKMY,Suzuki Motor Corp,205.22999572753906,True,2012.0,,,,,,,,,,
+104,SZKMF,Suzuki Motor Corp,50.72999954223633,False,2009.0,,07-22,10-05,4.0,4.0,7.0,7.0,10-20,01-03,4.919604158466262
+105,SZUKF,Suzuken Co Ltd,$29.09 ,True,,No data fetched for symbol SZUKF using YahooDailyReader,,,,,,,,,
+106,SUZ,Suzano SA,9.40999984741211,False,2009.0,,03-02,05-16,5.0,5.0,6.0,6.0,07-03,09-16,7.702275953196324
+107,SUVZ,Suvanza,0.006300000008195639,True,2012.0,,,,,,,,,,
+108,SUTB,Sutter Community Bank,$8.35 ,True,,No data fetched for symbol SUTB using YahooDailyReader,,,,,,,,,
+109,STRO,Sutro Biopharma Inc,17.600000381469727,True,2018.0,,,,,,,,,,
+110,SPGX,Sustainable Projects Group Inc,0.44999998807907104,True,2017.0,,,,,,,,,,
+111,SOAC,Sustainable Opportunities Acquisition Corp,10.010100364685059,True,2020.0,,,,,,,,,,
+112,SGTM,Sustainable Green Team Ltd,1.2200000286102295,True,2020.0,,,,,,,,,,
+113,SQCF,Susquehanna Community Financial Inc,17.649999618530273,False,2009.0,,05-05,07-19,6.0,6.0,5.0,5.0,05-09,07-23,2.2283904359584685
+114,SDSS,Suspect Detection Systems Inc,0.005200000014156103,False,2009.0,,01-16,03-31,4.0,4.0,7.0,7.0,01-16,03-31,2.9967968404989764
+115,SGLOF,Sushiro Global Holdings Ltd,15.65250015258789,True,2019.0,,,,,,,,,,
+116,SNRG,Susglobal Energy Corp,0.03500000014901161,True,2018.0,,,,,,,,,,
+117,SUGBY,Suruga Bank Ltd,40.25,True,2012.0,,,,,,,,,,
+118,SCOCF,Surteco Group SE,$24.40 ,True,,No data fetched for symbol SCOCF using YahooDailyReader,,,,,,,,,
+119,SRYB,Surrey Bancorp,11.5,False,2009.0,,12-01,02-14,4.0,4.0,7.0,7.0,02-28,05-13,1.5883146253111315
+120,SSSS,SuRo Capital Corp,11.152400016784668,True,2011.0,,,,,,,,,,
+121,SRNA,Surna Inc,0.02500000037252903,True,2014.0,,,,,,,,,,
+122,SRDX,Surmodics Inc,36.709999084472656,False,2009.0,,06-26,09-09,6.0,6.0,5.0,5.0,06-26,09-09,4.541144839186691
+123,SGTZY,Surgutneftegas PJSC,4.75,False,2009.0,,08-25,11-08,6.0,6.0,5.0,5.0,08-25,11-08,7.477898370412247
+124,SGTPY,Surgutneftegas PJSC,5.03000020980835,False,2009.0,,08-06,10-20,8.0,8.0,3.0,3.0,08-06,10-20,8.326241217752935
+125,SCAI,Surgical Care Affiliates Inc,$55.87 ,True,,'Date',,,,,,,,,
+126,SGRY,Surgery Partners Inc,23.56999969482422,True,2015.0,,,,,,,,,,
+127,SURG,Surge Holdings Inc,0.11299999803304672,True,2018.0,,,,,,,,,,
+128,SURJF,Surge Exploration Inc,0.06414999812841415,True,2013.0,,,,,,,,,,
+129,ZPTAF,Surge Energy Inc,0.20900000631809235,False,2010.0,,03-14,05-28,4.0,3.0,6.0,7.0,03-14,05-28,4.4477526985924785
+130,GRJVF,Surge Copper Corp,0.25,True,2012.0,,,,,,,,,,
+131,SPRS,Surge Components Inc,1.659999966621399,False,2010.0,,12-16,03-01,6.0,6.0,4.0,4.0,12-16,03-01,9.55304943735752
+132,SRGA,Surgalign Holdings Inc,2.0899999141693115,False,2009.0,,02-24,05-09,8.0,8.0,3.0,3.0,02-24,05-09,3.3286142948850874
+133,SURF,Surface Oncology Inc,7.659999847412109,True,2018.0,,,,,,,,,,
+134,SHDC,Surety Holdings Corp,2.0,True,2012.0,,,,,,,,,,
+135,SRYP,Surety Capital Corp,$0.01 ,True,,'Date',,,,,,,,,
+136,SUQU,SureQuest Systems Inc,0.014999999664723873,True,2012.0,,,,,,,,,,
+137,SUMXF,Supremex Inc,1.0099999904632568,False,2009.0,,03-23,06-06,7.0,6.0,4.0,5.0,03-15,05-29,9.972277577975996
+138,STS,Supreme Industries Inc,23.0,True,2012.0,,,,,,,,,,
+139,SPRT,Support.com Inc,1.9500000476837158,False,2009.0,,05-14,07-28,3.0,3.0,8.0,8.0,05-14,07-28,2.075858557459023
+140,SVU,SUPERVALU Inc,32.4900016784668,True,2012.0,,,,,,,,,,
+141,SUPN,Supernus Pharmaceuticals Inc,21.0,True,2012.0,,,,,,,,,,
+142,ABETF,Supernova Metals Corp,0.12961000204086304,True,2018.0,,,,,,,,,,
+143,SPMXF,Supermax Corp Bhd,2.130000114440918,True,2020.0,,,,,,,,,,
+144,SUUIF,Superior Plus Corp,8.680000305175781,False,2009.0,,02-18,05-03,7.0,6.0,4.0,5.0,03-03,05-17,5.236993858030352
+145,SUIFF,Superior Mining International Corp,0.4020000100135803,True,2013.0,,,,,,,,,,
+146,SUP,Superior Industries International Inc,4.369999885559082,False,2009.0,,11-09,01-23,5.0,5.0,6.0,6.0,11-04,01-18,3.4525286381113776
+147,SGC,Superior Group Of Companies Inc,25.170000076293945,False,2009.0,,08-03,10-17,7.0,6.0,4.0,5.0,08-13,10-27,5.456631031896577
+148,SUPGF,Superior Gold Inc,0.48634999990463257,True,2017.0,,,,,,,,,,
+149,SPNX,Superior Energy Services Inc,0.2592499852180481,True,2020.0,,,,,,,,,,
+150,SDPI,Superior Drilling Products Inc,0.4399999976158142,True,2014.0,,,,,,,,,,
+151,CNTGF,Superior Copper Corp,$0.01 ,True,,'Date',,,,,,,,,
+152,SPPLF,Superglass Holdings PLC,$43.45 ,True,,No data fetched for symbol SPPLF using YahooDailyReader,,,,,,,,,
+153,SEPGY,Superdry PLC,3.2200000286102295,True,2012.0,,,,,,,,,,
+154,SEPGF,Superdry PLC,1.649999976158142,True,2013.0,,,,,,,,,,
+155,SCON,Superconductor Technologies Inc,0.9850500226020813,False,2009.0,,11-22,02-05,8.0,8.0,3.0,3.0,11-22,02-05,3.2886945806372028
+156,SPCB,SuperCom Ltd,0.8064000010490417,False,2009.0,,03-02,05-16,4.0,4.0,7.0,7.0,03-02,05-16,13.31348240445857
+157,SBOX,Superbox Inc,0.029999999329447746,False,2009.0,,07-23,10-06,2.0,2.0,9.0,9.0,07-23,10-06,10.837156473025415
+158,SSGRF,Super Retail Group Ltd,$6.48 ,True,,No data fetched for symbol SSGRF using YahooDailyReader,,,,,,,,,
+159,SMCI,Super Micro Computer Inc,29.850000381469727,False,2009.0,,11-16,01-30,9.0,9.0,2.0,2.0,11-16,01-30,17.28697591220018
+160,SLGG,Super League Gaming Inc,1.8600000143051147,True,2019.0,,,,,,,,,,
+161,SSGPY,Super Group Ltd,$2.06 ,True,,No data fetched for symbol SSGPY using YahooDailyReader,,,,,,,,,
+162,SUPCF,Supalai PCL,$0.48 ,True,,No data fetched for symbol SUPCF using YahooDailyReader,,,,,,,,,
+163,SMNCF,Suominen Oyj,$2.39 ,True,,No data fetched for symbol SMNCF using YahooDailyReader,,,,,,,,,
+164,SCIXF,Suny Cellular Communication Ltd,0.20000000298023224,False,2009.0,,08-28,11-11,3.0,3.0,8.0,8.0,08-28,11-11,12.097990073224144
+165,SUNW,Sunworks Inc,4.480000019073486,False,2010.0,,08-26,11-09,3.0,3.0,7.0,7.0,08-26,11-09,13.036094664601126
+166,SUWN,Sunwin Stevia International Inc,0.09000000357627869,False,2009.0,,03-25,06-08,4.0,4.0,7.0,7.0,03-25,06-08,15.222196599458425
+167,SWBC,Sunwest Bank,"$51,000.00 ",True,,'Date',,,,,,,,,
+168,SWYAF,sunways AG,$0.65 ,True,,'Date',,,,,,,,,
+169,SUWG,Sunway Global Inc,$0.10 ,True,,'Date',,,,,,,,,
+170,SVLT,Sunvault Energy Inc,0.01600000075995922,True,2013.0,,,,,,,,,,
+171,SSOL,Sunvalley Solar Inc,0.4350000023841858,True,2012.0,,,,,,,,,,
+172,STBFY,Suntory Beverage & Food Ltd,18.729999542236328,True,2014.0,,,,,,,,,,
+173,STBFF,Suntory Beverage & Food Ltd,35.599998474121094,True,2014.0,,,,,,,,,,
+174,SNTX,Suntex Enterprises Inc,0.019999999552965164,True,2015.0,,,,,,,,,,
+175,SURVF,Suntec Real Estate Investment Trust,1.0499999523162842,False,2010.0,,11-25,02-08,6.0,5.0,4.0,5.0,11-25,02-08,5.3899430792280265
+176,SHO,Sunstone Hotel Investors Inc,10.595000267028809,False,2009.0,,09-26,12-10,6.0,6.0,5.0,5.0,09-26,12-10,9.400507157080193
+177,SSHN,Sunshine-Fifty Inc,1.149999976158142,True,2009.0,,,,,,,,,,
+178,SUNYF,Sunshine Oilsands Ltd,0.28999999165534973,True,2013.0,,,,,,,,,,
+179,SSNF,Sunshine Financial Inc,29.0,True,2012.0,,,,,,,,,,
+180,SBFM,Sunshine Biopharma Inc,0.012900000438094139,False,2009.0,,03-28,06-11,1.0,1.0,10.0,10.0,03-28,06-11,1.164214285928214
+181,SBCP,Sunshine Bancorp Inc,$22.94 ,True,,'Date',,,,,,,,,
+182,SSPAF,Sunset Pacific Petroleum Ltd,$0.02 ,True,,No data fetched for symbol SSPAF using YahooDailyReader,,,,,,,,,
+183,SIGO,Sunset Island Group Inc,0.08399999886751175,True,2017.0,,,,,,,,,,
+184,SNST,Sunset Capital Assets Inc,1.4900000095367432,True,2012.0,,,,,,,,,,
+185,RUN,Sunrun Inc,59.290000915527344,True,2015.0,,,,,,,,,,
+186,CDOOF,Sunrise Resources Ltd,$0.01 ,True,,No data fetched for symbol CDOOF using YahooDailyReader,,,,,,,,,
+187,SRRE,Sunrise Real Estate Group Inc,0.30000001192092896,False,2009.0,,10-06,12-20,4.0,4.0,7.0,7.0,10-06,12-20,25.629152925537394
+188,SNMMF,Sunrise Communications Group AG,120.0999984741211,True,2015.0,,,,,,,,,,
+189,SGCNF,Sunridge Gold Corp,$0.03 ,True,,'Date',,,,,,,,,
+190,SRGRF,Sunpower Group Ltd,$0.23 ,True,,No data fetched for symbol SRGRF using YahooDailyReader,,,,,,,,,
+191,SPWR,SunPower Corp,20.690000534057617,False,2009.0,,03-31,06-14,7.0,7.0,4.0,4.0,03-31,06-14,4.788126168357024
+192,STKL,SunOpta Inc,9.350000381469727,False,2009.0,,03-28,06-11,4.0,4.0,7.0,7.0,03-28,06-11,15.622195829215189
+193,SUN,Sunoco LP,28.548099517822266,True,2012.0,,,,,,,,,,
+194,SNNY,Sunnyside Bancorp Inc,13.699999809265137,True,2013.0,,,,,,,,,,
+195,SOTGY,Sunny Optical Technology (Group) Co Ltd,202.83999633789062,True,2018.0,,,,,,,,,,
+196,SNPTF,Sunny Optical Technology (Group) Co Ltd,20.299999237060547,True,2015.0,,,,,,,,,,
+197,NOVA,Sunnova Energy International Inc,32.244998931884766,True,2019.0,,,,,,,,,,
+198,SNNVF,Sunniva Inc,0.0925000011920929,True,2018.0,,,,,,,,,,
+199,SSY,SunLink Health Systems Inc,1.2400000095367432,False,2009.0,,02-28,05-13,5.0,5.0,6.0,6.0,02-28,05-13,16.623444629399277
+200,SHTRF,Sunlight Real Estate Investment Trust,0.5199999809265137,True,2014.0,,,,,,,,,,
+201,STG,Sunlands Technology Group,1.5399999618530273,True,2018.0,,,,,,,,,,
+202,SNLGF,Sunland Group Ltd,$1.05 ,True,,'Date',,,,,,,,,
+203,HYSR,SunHydrogen Inc,0.025200000032782555,False,2010.0,,12-31,03-16,6.0,6.0,4.0,4.0,12-31,03-16,11.510350976552106
+204,SGMZ,Sungame Corp,$0.01 ,True,,'Date',,,,,,,,,
+205,SVNHF,Sunevision Holdings Ltd,$0.18 ,True,,No data fetched for symbol SVNHF using YahooDailyReader,,,,,,,,,
+206,SNSS,Sunesis Pharmaceuticals Inc,1.2699999809265137,False,2009.0,,11-08,01-22,6.0,6.0,5.0,5.0,11-08,01-22,14.92374393674834
+207,SEMI,SunEdison Semiconductor Ltd,$11.95 ,True,,'Date',,,,,,,,,
+208,SUNEQ,SunEdison Inc,$0.01 ,True,,'Date',,,,,,,,,
+209,SDGCF,Sundrug Co Ltd,37.75,True,2014.0,,,,,,,,,,
+210,SNDL,Sundial Growers Inc,0.2671999931335449,True,2019.0,,,,,,,,,,
+211,SUND,Sundance Strategies Inc,4.199999809265137,True,2012.0,,,,,,,,,,
+212,SUDCF,Sundance Resources Ltd,$0.01 ,True,,No data fetched for symbol SUDCF using YahooDailyReader,,,,,,,,,
+213,SNDE,Sundance Energy Inc,1.9600000381469727,True,2016.0,,,,,,,,,,
+215,SDCJF,Sundance Energy Inc,$0.05 ,True,,No data fetched for symbol SDCJF using YahooDailyReader,,,,,,,,,
+216,SBKK,Suncrest Bank,9.130000114440918,False,2010.0,,09-18,12-02,6.0,6.0,4.0,4.0,09-18,12-02,5.3156256245492415
+217,SUNTF,SunCorp Technologies Ltd,0.009999999776482582,False,2010.0,,02-14,04-29,5.0,5.0,4.0,4.0,02-14,04-29,24.417685988747284
+218,SNMYF,Suncorp Group Ltd,6.5,True,2014.0,,,,,,,,,,
+219,SNMCY,Suncorp Group Ltd,7.070000171661377,False,2010.0,,06-28,09-11,6.0,6.0,4.0,4.0,08-18,11-01,2.1905136123889477
+220,SU,Suncor Energy Inc,15.239999771118164,False,2009.0,,03-23,06-06,4.0,4.0,7.0,7.0,03-23,06-06,5.4509623090587125
+221,SXCP,SunCoke Energy Partners LP,$12.41 ,True,,No data fetched for symbol SXCP using YahooDailyReader,,,,,,,,,
+222,SXC,SunCoke Energy Inc,4.210000038146973,True,2011.0,,,,,,,,,,
+223,SCCCF,Sunac China Holdings Ltd,3.7316501140594482,True,2018.0,,,,,,,,,,
+224,SMREF,Sun Summit Minerals Corp,0.17249999940395355,False,2010.0,,11-26,02-09,5.0,5.0,5.0,5.0,11-26,02-09,11.813544801319681
+225,SUNPF,Sun Peak Metals Corp,104.8010025024414,True,2017.0,,,,,,,,,,
+226,SMTTF,Sun Metals Corp,0.07999999821186066,True,2018.0,,,,,,,,,,
+227,SLF,Sun Life Financial Inc,44.810001373291016,False,2009.0,,07-10,09-23,7.0,7.0,4.0,4.0,05-26,08-09,4.434583175877083
+228,SVUFF,Sun International Ltd,2.2100000381469727,True,2018.0,,,,,,,,,,
+229,SUHJY,Sun Hung Kai Properties Ltd,13.82800006866455,False,2009.0,,08-24,11-07,5.0,5.0,6.0,6.0,08-24,11-07,4.008144640764281
+230,SUHJF,Sun Hung Kai Properties Ltd,14.229999542236328,False,2009.0,,10-31,01-14,9.0,8.0,2.0,3.0,07-05,09-18,2.6841200305262727
+231,SHGKY,Sun Hung Kai & Co Ltd,2.9100000858306885,True,2013.0,,,,,,,,,,
+232,SHGKF,Sun Hung Kai & Co Ltd,0.6299999952316284,True,2012.0,,,,,,,,,,
+233,SNCPF,Sun Corp,20.600000381469727,True,2017.0,,,,,,,,,,
+234,SUI,Sun Communities Inc,139.97999572753906,False,2009.0,,04-08,06-22,10.0,10.0,1.0,1.0,04-08,06-22,6.4473151066131935
+235,SNBP,Sun BioPharma Inc,3.299999952316284,True,2017.0,,,,,,,,,,
+236,SNBC,Sun Bancorp Inc,$24.50 ,True,,'Date',,,,,,,,,
+237,SURRY,Sun Art Retail Group Ltd,10.649999618530273,True,2014.0,,,,,,,,,,
+238,SURRF,Sun Art Retail Group Ltd,1.0700000524520874,True,2013.0,,,,,,,,,,
+239,SUMO,Sumo Logic Inc,18.879499435424805,True,2020.0,,,,,,,,,,
+240,SUMGF,Sumo Group PLC,3.262399911880493,True,2019.0,,,,,,,,,,
+241,SBKT,Sumner Bank & Trust,$16.70 ,True,,No data fetched for symbol SBKT using YahooDailyReader,,,,,,,,,
+242,WENEF,Summus Solutions NV,0.17000000178813934,False,2009.0,,09-13,11-27,3.0,3.0,8.0,8.0,09-13,11-27,9.851857609184304
+243,WISA,Summit Wireless Technologies Inc,2.8450000286102295,True,2018.0,,,,,,,,,,
+244,SMXXF,Summit Therapeutics PLC,$0.40 ,True,,No data fetched for symbol SMXXF using YahooDailyReader,,,,,,,,,
+245,SMMT,Summit Therapeutics Inc,4.255000114440918,True,2015.0,,,,,,,,,,
+246,SSBI,Summit State Bank,13.079999923706055,False,2009.0,,12-10,02-23,8.0,7.0,3.0,4.0,11-28,02-11,4.876164205826041
+247,SRCSF,Summit Resources Ltd,$0.14 ,True,,No data fetched for symbol SRCSF using YahooDailyReader,,,,,,,,,
+248,SNTW,Summit Networks Inc,0.30000001192092896,True,2017.0,,,,,,,,,,
+249,SMLP,Summit Midstream Partners LP,13.595000267028809,True,2012.0,,,,,,,,,,
+250,SUM,Summit Materials Inc,18.600000381469727,True,2015.0,,,,,,,,,,
+251,SMMCF,Summit Industrial Income REIT,10.270000457763672,True,2014.0,,,,,,,,,,
+252,INN,Summit Hotel Properties Inc,8.029999732971191,True,2011.0,,,,,,,,,,
+253,SMMF,Summit Financial Group Inc,20.65999984741211,False,2009.0,,10-25,01-08,8.0,8.0,3.0,3.0,10-25,01-08,5.598260890899287
+254,SBKO,Summit Bank OR,11.359999656677246,False,2009.0,,01-12,03-27,9.0,9.0,2.0,2.0,01-12,03-27,3.8305656282754468
+255,SMAL,"Summit Bancshares, Inc.",26.0,False,2009.0,,02-19,05-04,7.0,7.0,4.0,4.0,02-19,05-04,-1.4527179892152546
+256,SMTNF,Summit Ascent Holdings Ltd,$0.13 ,True,,No data fetched for symbol SMTNF using YahooDailyReader,,,,,,,,,
+257,SMGRF,Summerset Group Holdings Ltd,4.0,True,2017.0,,,,,,,,,,
+258,SUMR,Summer Infant Inc,16.59000015258789,False,2009.0,,06-14,08-28,4.0,4.0,7.0,7.0,06-14,08-28,13.975972242808284
+259,SUME,Summer Energy Holdings Inc,1.0199999809265137,True,2012.0,,,,,,,,,,
+260,PSAHF,Summarecon Agung Tbk,$0.10 ,True,,No data fetched for symbol PSAHF using YahooDailyReader,,,,,,,,,
+261,SSVRF,Summa Silver Corp,0.699999988079071,True,2020.0,,,,,,,,,,
+262,SMTUY,Sumitomo Rubber Industries Ltd,$18.45 ,True,,No data fetched for symbol SMTUY using YahooDailyReader,,,,,,,,,
+263,SMTUF,Sumitomo Rubber Industries Ltd,9.399999618530273,True,2013.0,,,,,,,,,,
+264,SURDF,Sumitomo Realty & Development Co Ltd,27.110000610351562,True,2015.0,,,,,,,,,,
+265,SUCEF,Sumitomo Osaka Cement Co Ltd,$42.44 ,True,,No data fetched for symbol SUCEF using YahooDailyReader,,,,,,,,,
+266,SUTNY,Sumitomo Mitsui Trust Holdings Inc,2.9800000190734863,True,2011.0,,,,,,,,,,
+267,CMTDF,Sumitomo Mitsui Trust Holdings Inc,30.780000686645508,False,2009.0,,03-18,06-01,5.0,6.0,6.0,5.0,09-13,11-27,4.32123679665131
+268,SMFNF,Sumitomo Mitsui Financial Group Inc,31.450000762939453,False,2010.0,,03-07,05-21,3.0,4.0,7.0,6.0,05-22,08-05,2.545491476358872
+269,SMFG,Sumitomo Mitsui Financial Group Inc,6.110000133514404,False,2009.0,,05-21,08-04,5.0,5.0,6.0,6.0,05-21,08-04,3.790965609465831
+270,SMCKF,Sumitomo Mitsui Construction Co Ltd,$1.10 ,True,,No data fetched for symbol SMCKF using YahooDailyReader,,,,,,,,,
+271,STMNF,Sumitomo Metal Mining Co Ltd,30.200000762939453,True,2012.0,,,,,,,,,,
+272,SMMYY,Sumitomo Metal Mining Co Ltd,8.859999656677246,True,2013.0,,,,,,,,,,
+273,SOHVY,Sumitomo Heavy Industries Ltd,5.800000190734863,True,2012.0,,,,,,,,,,
+274,SOHVF,Sumitomo Heavy Industries Ltd,23.5,True,2011.0,,,,,,,,,,
+275,SMFRF,Sumitomo Forestry Co Ltd,13.75,True,2015.0,,,,,,,,,,
+276,SMTOY,Sumitomo Electric Industries Ltd,12.4399995803833,False,2009.0,,03-15,05-29,7.0,7.0,4.0,4.0,11-22,02-05,1.2086691862324124
+277,SMTOF,Sumitomo Electric Industries Ltd,11.6899995803833,True,2013.0,,,,,,,,,,
+278,DNPUF,Sumitomo Dainippon Pharma Co Ltd,13.300000190734863,True,2012.0,,,,,,,,,,
+279,SSUMY,Sumitomo Corp,12.73009967803955,False,2009.0,,12-15,02-28,7.0,7.0,4.0,4.0,12-15,02-28,4.823166634975782
+280,SSUMF,Sumitomo Corp,12.6899995803833,False,2010.0,,07-18,10-01,4.0,8.0,6.0,2.0,12-29,03-14,1.4403724521363839
+281,SOMMY,Sumitomo Chemical Co Ltd,18.110000610351562,False,2010.0,,09-23,12-07,5.0,5.0,5.0,5.0,10-06,12-20,5.9085778082028115
+282,SOMMF,Sumitomo Chemical Co Ltd,3.0899999141693115,True,2012.0,,,,,,,,,,
+283,SUOPY,SUMCO Corp,32.029998779296875,False,2010.0,,12-10,02-23,8.0,8.0,2.0,2.0,12-10,02-23,8.558851808019213
+284,SUMCF,SUMCO Corp,15.289999961853027,False,2009.0,,05-13,07-27,5.0,6.0,6.0,5.0,03-09,05-23,2.8147401660829856
+285,PTMSF,Sumber Alfaria Trijaya Tbk,$0.62 ,True,,No data fetched for symbol PTMSF using YahooDailyReader,,,,,,,,,
+286,SUZRY,Sulzer AG,$16.46 ,True,,No data fetched for symbol SUZRY using YahooDailyReader,,,,,,,,,
+287,SULZF,Sulzer AG,99.0,True,2012.0,,,,,,,,,,
+288,SULMF,Sulliden Mining Capital Inc,0.032600000500679016,True,2020.0,,,,,,,,,,
+289,SGIAF,Sugimoto & Co Ltd,$8.85 ,True,,No data fetched for symbol SGIAF using YahooDailyReader,,,,,,,,,
+290,SGIPF,Sugi Holdings Co Ltd,$40.18 ,True,,'Date',,,,,,,,,
+291,SGTB,Suggestion Box Inc,0.005900000222027302,False,2009.0,,04-12,06-26,6.0,6.0,5.0,5.0,04-12,06-26,14.071314554324065
+292,RLLRF,SugarBud Craft Growers Corp,0.03407999873161316,True,2018.0,,,,,,,,,,
+293,SUGR,Sugar Creek Financial Corp,7.949999809265137,False,2009.0,,08-15,10-29,4.0,4.0,7.0,7.0,09-04,11-18,2.1447747524650107
+294,SCNB,Suffolk Bancorp,$40.41 ,True,,'Date',,,,,,,,,
+295,SZSAY,Suez SA,9.49429988861084,False,2009.0,,07-08,09-21,6.0,6.0,5.0,5.0,07-08,09-21,8.189763631589955
+296,SZEVF,Suez SA,18.649999618530273,False,2010.0,,03-15,05-29,6.0,6.0,4.0,4.0,02-19,05-04,-0.6031004248842491
+297,SUZQF,Suez Cement Co SAE,$0.25 ,True,,No data fetched for symbol SUZQF using YahooDailyReader,,,,,,,,,
+298,SESMF,SUESS MicroTec SE,19.680099487304688,True,2016.0,,,,,,,,,,
+299,SUEZY,Suedzucker AG,9.680000305175781,True,2014.0,,,,,,,,,,
+300,SUEZF,Suedzucker AG,16.75,True,2012.0,,,,,,,,,,
+301,SHGT,Success Holding Group International Inc,$0.10 ,True,,'Date',,,,,,,,,
+302,SHGR,Success Holding Group Corp,$6.50 ,True,,No data fetched for symbol SHGR using YahooDailyReader,,,,,,,,,
+303,SCMP,Sucampo Pharmaceuticals Inc,18.0,True,2012.0,,,,,,,,,,
+304,SBVRF,Subversive Real Estate Acquisition REIT LP,9.885000228881836,True,2020.0,,,,,,,,,,
+305,SBVCF,Subversive Capital Acquisition Corp,9.895990371704102,True,2020.0,,,,,,,,,,
+306,SPH,Suburban Propane Partners LP,16.149900436401367,False,2009.0,,08-08,10-22,6.0,5.0,5.0,6.0,08-08,10-22,6.19999984417855
+307,SUBCY,Subsea 7 SA,8.680000305175781,False,2009.0,,02-15,04-30,6.0,6.0,5.0,5.0,02-10,04-25,3.3384425569172005
+308,ACGYF,Subsea 7 SA,6.980000019073486,False,2010.0,,03-26,06-09,7.0,7.0,3.0,3.0,03-26,06-09,6.179519365974143
+309,FUJHY,Subaru Corp,10.225000381469727,False,2009.0,,08-06,10-20,5.0,5.0,6.0,6.0,04-19,07-03,6.243574627754103
+310,FUJHF,Subaru Corp,21.020000457763672,False,2010.0,,03-21,06-04,4.0,4.0,6.0,6.0,05-14,07-28,5.170677289896539
+311,STWSQ,STW Resources Holding Corp,$0.01 ,True,,No data fetched for symbol STWSQ using YahooDailyReader,,,,,,,,,
+312,RGR,Sturm Ruger & Co Inc,62.599998474121094,False,2009.0,,01-30,04-14,6.0,6.0,5.0,5.0,02-01,04-16,12.83435917656474
+313,STBI,Sturgis Bancorp Inc,19.190000534057617,False,2009.0,,09-17,12-01,7.0,7.0,4.0,4.0,09-04,11-18,5.7209941126093335
+314,STXPF,Stuhini Exploration Ltd,0.37940001487731934,True,2020.0,,,,,,,,,,
+315,STBD,Studio II Brands Inc,$0.89 ,True,,'Date',,,,,,,,,
+316,MSC,Studio City International Holdings Ltd,16.0,True,2018.0,,,,,,,,,,
+317,STB,Student Transportation Inc,3.319999933242798,True,2015.0,,,,,,,,,,
+318,CUUHF,Stuart Olson Inc,0.11999999731779099,False,2009.0,,12-15,02-28,3.0,3.0,8.0,8.0,12-06,02-19,6.341183619863252
+319,SYK,Stryker Corp,231.46499633789062,False,2009.0,,12-11,02-24,9.0,9.0,2.0,2.0,12-11,02-24,7.769101701336884
+320,STTLF,Structural Monitoring Systems PLC,0.32499998807907104,True,2018.0,,,,,,,,,,
+321,SDURF,Stroud Resources Ltd,0.5324509739875793,True,2018.0,,,,,,,,,,
+322,STGCF,Strongco Corp,$1.39 ,True,,No data fetched for symbol STGCF using YahooDailyReader,,,,,,,,,
+323,SBBP,Strongbridge Biopharma PLC,2.5250000953674316,True,2015.0,,,,,,,,,,
+324,SOTDF,Stroeer SE & Co KGaA,$56.14 ,True,,No data fetched for symbol SOTDF using YahooDailyReader,,,,,,,,,
+325,STXXF,Strix Group PLC,$1.90 ,True,,No data fetched for symbol STXXF using YahooDailyReader,,,,,,,,,
+326,SKKFF,Strikewell Energy Corp,0.0949999988079071,True,2018.0,,,,,,,,,,
+327,EKWFF,Striker Exploration Corp,$1.26 ,True,,No data fetched for symbol EKWFF using YahooDailyReader,,,,,,,,,
+328,STKXF,Strikepoint Gold Inc,0.14499999582767487,False,2010.0,,12-17,03-02,5.0,5.0,5.0,5.0,12-17,03-02,20.364779660730672
+329,SRKRF,Strike Resources Ltd,$0.07 ,True,,No data fetched for symbol SRKRF using YahooDailyReader,,,,,,,,,
+330,STKKF,Strike Energy Ltd,$0.11 ,True,,No data fetched for symbol STKKF using YahooDailyReader,,,,,,,,,
+331,SKAX,Strike Axe Inc,$0.10 ,True,,No data fetched for symbol SKAX using YahooDailyReader,,,,,,,,,
+332,SRCAF,Stria Lithium Inc,0.018039999529719353,True,2014.0,,,,,,,,,,
+333,CXSNF,Street Capital Group Inc,$0.51 ,True,,No data fetched for symbol CXSNF using YahooDailyReader,,,,,,,,,
+334,STRM,Streamline Health Solutions Inc,1.5540000200271606,False,2009.0,,05-09,07-23,4.0,4.0,7.0,7.0,05-09,07-23,9.97692027000297
+335,SGLJF,Strauss Group Ltd,29.670000076293945,True,2013.0,,,,,,,,,,
+336,SAUHY,Straumann Holding AG,58.11000061035156,True,2014.0,,,,,,,,,,
+337,SAUHF,Straumann Holding AG,1140.8399658203125,False,2010.0,,03-24,06-07,7.0,7.0,3.0,3.0,03-24,06-07,6.4595240535587655
+338,STRS,Stratus Properties Inc,25.110000610351562,False,2009.0,,10-25,01-08,6.0,6.0,5.0,5.0,10-25,01-08,7.866621527323486
+339,SRUS,Stratus Capital Corp,0.0430000014603138,True,2012.0,,,,,,,,,,
+340,STRT,Strattec Security Corp,34.314998626708984,False,2009.0,,09-16,11-30,5.0,5.0,6.0,6.0,09-16,11-30,11.836736296952006
+341,STTX,Stratex Oil & Gas Holdings Inc,0.004999999888241291,True,2012.0,,,,,,,,,,
+342,SCCFF,"Strategic Resources, Inc.",$0.14 ,True,,'Date',,,,,,,,,
+343,SRSN,Strategic Resources International Inc,0.20000000298023224,True,2012.0,,,,,,,,,,
+344,SMCDY,Strategic Minerals PLC,$2.22 ,True,,No data fetched for symbol SMCDY using YahooDailyReader,,,,,,,,,
+345,SMCDF,Strategic Minerals PLC,0.006099999882280827,True,2012.0,,,,,,,,,,
+346,SGMLF,Strategic Minerals Corp NL,$2.04 ,True,,'Date',,,,,,,,,
+347,SMDZF,Strategic Metals Ltd,0.30959999561309814,False,2009.0,,11-23,02-06,4.0,4.0,7.0,7.0,11-23,02-06,12.829492655928716
+348,SMPP,Strategic Management & Opportunity Corp,0.006800000090152025,False,2009.0,,05-08,07-22,2.0,2.0,9.0,9.0,05-08,07-22,31.650415958420954
+349,SIII,Strategic Internet Investments Inc,0.006000000052154064,False,2009.0,,10-28,01-11,4.0,4.0,7.0,7.0,10-28,01-11,17.129607220620347
+350,BEE,Strategic Hotels & Resorts Inc,$14.22 ,True,,'Date',,,,,,,,,
+351,SENR,Strategic Environmental & Energy Resources Inc,0.17000000178813934,False,2009.0,,12-04,02-17,7.0,7.0,4.0,4.0,12-04,02-17,26.387687367903194
+352,EGBRF,Strategic Energy Resources Ltd,$0.01 ,True,,No data fetched for symbol EGBRF using YahooDailyReader,,,,,,,,,
+353,STRA,Strategic Education Inc,87.75,False,2009.0,,03-25,06-08,5.0,5.0,6.0,6.0,03-25,06-08,8.246599823079237
+354,STQN,Strategic Acquisitions Inc,0.1509999930858612,True,2012.0,,,,,,,,,,
+355,STSEY,Stratec SE,19.350000381469727,True,2020.0,,,,,,,,,,
+356,SRBZF,Stratec SE,72.9551010131836,True,2017.0,,,,,,,,,,
+357,SSYS,Stratasys Ltd,13.875,False,2009.0,,11-20,02-03,7.0,7.0,4.0,4.0,11-20,02-03,2.648330332094082
+358,SBMIF,Stratabound Minerals Corp,0.23739999532699585,True,2020.0,,,,,,,,,,
+359,STRXF,Strata-X Energy Ltd,0.05700000002980232,True,2013.0,,,,,,,,,,
+360,SSKN,Strata Skin Sciences Inc,1.5398999452590942,False,2009.0,,08-11,10-25,6.0,6.0,5.0,5.0,08-11,10-25,1.7239357083948306
+361,SPOWF,Strata Power Corp,0.007799999788403511,False,2009.0,,06-26,09-09,3.0,3.0,8.0,8.0,06-26,09-09,11.850287808402891
+362,STRB,Strasbaugh,0.019999999552965164,True,2012.0,,,,,,,,,,
+363,STQNF,Strandline Resources Ltd,0.13500000536441803,True,2016.0,,,,,,,,,,
+364,STTSY,Straits Trading Co Ltd,15.5,True,2014.0,,,,,,,,,,
+365,EBYH,Strainsforpains Inc,0.20000000298023224,False,2009.0,,05-27,08-10,5.0,5.0,6.0,6.0,05-27,08-10,14.688354997508462
+366,STUPF,Straightup Resources Inc,1.6863000392913818,True,2018.0,,,,,,,,,,
+367,STRU,Straight Up Brands Inc,$1.38 ,True,,'Date',,,,,,,,,
+368,STRP,Straight Path Communications Inc,183.3699951171875,True,2013.0,,,,,,,,,,
+369,STRDF,Strad Inc,$1.65 ,True,,No data fetched for symbol STRDF using YahooDailyReader,,,,,,,,,
+370,STBBF,STRABAG SE,37.0890007019043,True,2018.0,,,,,,,,,,
+371,SBAGY,STRABAG SE,$32.39 ,True,,No data fetched for symbol SBAGY using YahooDailyReader,,,,,,,,,
+372,STAGF,Strabag AG,$428.53 ,True,,No data fetched for symbol STAGF using YahooDailyReader,,,,,,,,,
+373,STRI,STR Holdings Inc,0.09049999713897705,False,2009.0,,11-20,02-03,6.0,6.0,5.0,5.0,11-20,02-03,-1.2483657137306807
+374,STRYF,Storytel AB,25.950000762939453,True,2020.0,,,,,,,,,,
+375,SRMLF,Storm Resources Ltd,1.722000002861023,True,2014.0,,,,,,,,,,
+376,SREDY,Storebrand ASA,10.789999961853027,True,2012.0,,,,,,,,,,
+377,SREDF,Storebrand ASA,5.769999980926514,True,2012.0,,,,,,,,,,
+378,STOR,STORE Capital Corp,31.719999313354492,True,2014.0,,,,,,,,,,
+379,SVAUF,StorageVault Canada Inc,2.9442009925842285,True,2017.0,,,,,,,,,,
+380,SEOJF,Stora Enso Oyj,13.79069995880127,True,2013.0,,,,,,,,,,
+381,SEOFF,Stora Enso Oyj,$10.22 ,True,,No data fetched for symbol SEOFF using YahooDailyReader,,,,,,,,,
+382,SEOAY,Stora Enso Oyj,16.149999618530273,False,2009.0,,09-24,12-08,8.0,8.0,3.0,3.0,09-24,12-08,3.32057826405868
+383,SNEX,StoneX Group Inc,59.560699462890625,False,2009.0,,06-13,08-27,7.0,7.0,4.0,4.0,06-13,08-27,3.1013897889904576
+384,SRI,Stoneridge Inc,26.90999984741211,False,2009.0,,10-01,12-15,5.0,5.0,6.0,6.0,10-01,12-15,10.662930349676714
+385,STON,StoneMor Inc,1.0149999856948853,False,2009.0,,08-17,10-31,7.0,6.0,4.0,5.0,08-17,10-31,8.639450787499515
+386,SGM,Stonegate Mortgage Corp,$7.99 ,True,,'Date',,,,,,,,,
+387,SGBK,Stonegate Bank,$51.62 ,True,,'Date',,,,,,,,,
+388,SNRCF,Stonegate Agricom Ltd,$0.01 ,True,,No data fetched for symbol SNRCF using YahooDailyReader,,,,,,,,,
+389,STCMB,Stonecutter Mills Corp,$175.25 ,True,,No data fetched for symbol STCMB using YahooDailyReader,,,,,,,,,
+390,STCMA,Stonecutter Mills Corp,$194.00 ,True,,No data fetched for symbol STCMA using YahooDailyReader,,,,,,,,,
+391,STNE,StoneCo Ltd,68.80000305175781,True,2018.0,,,,,,,,,,
+392,BANX,StoneCastle Financial Corp,19.362899780273438,True,2013.0,,,,,,,,,,
+393,SRCX,Stonebridge Resources Explorations Ltd,0.009999999776482582,True,2013.0,,,,,,,,,,
+394,EDI,Stone Harbor Emg Mkts Total Income Fund,7.928999900817871,True,2012.0,,,,,,,,,,
+395,EDF,Stone Harbor Emerging Markets Income Fund,7.087399959564209,False,2010.0,,12-13,02-26,7.0,7.0,3.0,3.0,12-20,03-05,4.1149789338711935
+396,SOIEF,Stolt-Nielsen Ltd,10.138500213623047,True,2011.0,,,,,,,,,,
+397,STOK,Stoke Therapeutics Inc,42.0099983215332,True,2019.0,,,,,,,,,,
+398,SKMBF,Stockmann Oyj Abp,$15.84 ,True,,'Date',,,,,,,,,
+399,STKAF,Stockland Corp Ltd,3.2850000858306885,True,2012.0,,,,,,,,,,
+400,SYBT,Stock Yards Bancorp Inc,41.0,False,2009.0,,10-21,01-04,6.0,6.0,5.0,5.0,10-21,01-04,6.333854673111591
+401,SPPGF,Stock Spirits Group PLC,3.1500000953674316,True,2014.0,,,,,,,,,,
+402,STGWF,Sto SE & Co KGaA,$197.78 ,True,,No data fetched for symbol STGWF using YahooDailyReader,,,,,,,,,
+403,STMEF,STMicroelectronics NV,35.290000915527344,True,2012.0,,,,,,,,,,
+404,STM,STMicroelectronics NV,36.22999954223633,False,2009.0,,11-10,01-24,8.0,8.0,3.0,3.0,11-10,01-24,9.369524817306434
+405,SFIX,Stitch Fix Inc,36.75,True,2017.0,,,,,,,,,,
+406,STYS,Stinger Systems Inc,0.005400000140070915,False,2009.0,,01-16,03-31,6.0,6.0,5.0,5.0,01-16,03-31,15.945768647661449
+407,SWC,Stillwater Mining Co,8.600000381469727,False,2009.0,,12-15,02-28,7.0,7.0,3.0,3.0,12-15,02-28,11.707865944275627
+408,STLFF,Stillfront Group AB,108.2925033569336,True,2020.0,,,,,,,,,,
+409,SF,Stifel Financial Corp,69.26000213623047,False,2009.0,,10-30,01-13,8.0,8.0,3.0,3.0,10-30,01-13,9.728479453931266
+410,STREF,SThree PLC,3.440000057220459,True,2016.0,,,,,,,,,,
+411,SERTY,SThree PLC,$4.38 ,True,,No data fetched for symbol SERTY using YahooDailyReader,,,,,,,,,
+412,STGGQ,STG Group Inc,0.008999999612569809,True,2013.0,,,,,,,,,,
+413,STC,Stewart Information Services Corp,44.3849983215332,False,2009.0,,10-26,01-09,5.0,5.0,6.0,6.0,11-02,01-16,5.591053284650407
+414,SSFN,Stewardship Financial Corp,$15.75 ,True,,No data fetched for symbol SSFN using YahooDailyReader,,,,,,,,,
+415,STNT,Stevia Nutra Corp,3.25,True,2012.0,,,,,,,,,,
+416,SHOO,Steven Madden Ltd,30.125,False,2009.0,,05-18,08-01,8.0,8.0,3.0,3.0,05-18,08-01,5.816651360447988
+417,SBHO,Steuben Trust Co,$61.50 ,True,,No data fetched for symbol SBHO using YahooDailyReader,,,,,,,,,
+418,SRLRY,Sterlite Technologies Ltd,$1.85 ,True,,No data fetched for symbol SRLRY using YahooDailyReader,,,,,,,,,
+419,LATND,Sterling Metals Corp,0.30184099078178406,True,2020.0,,,,,,,,,,
+420,SGGV,Sterling Group Ventures Inc,$0.01 ,True,,No data fetched for symbol SGGV using YahooDailyReader,,,,,,,,,
+421,SGER,Sterling Energy Resources Inc,0.006000000052154064,False,2009.0,,02-02,04-17,4.0,4.0,7.0,7.0,02-02,04-17,1.1229259379920358
+422,STGAF,Sterling Energy PLC,0.1599999964237213,False,2010.0,,05-15,07-29,3.0,3.0,7.0,7.0,05-15,07-29,-4.342535441338108
+423,STRL,Sterling Construction Co Inc,15.720000267028809,False,2009.0,,09-25,12-09,4.0,4.0,7.0,7.0,09-25,12-09,7.310251738855653
+424,STCC,Sterling Consolidated Corp,0.04645000025629997,True,2013.0,,,,,,,,,,
+425,SBT,Sterling Bancorp Inc,3.549999952316284,True,2017.0,,,,,,,,,,
+426,STL,Sterling Bancorp,15.890000343322754,False,2009.0,,09-20,12-04,5.0,5.0,6.0,6.0,09-20,12-04,7.967354057897864
+427,STE,Steris PLC,195.25,False,2009.0,,03-09,05-23,7.0,7.0,4.0,4.0,03-09,05-23,7.999800582927837
+428,SRCL,Stericycle Inc,70.88999938964844,False,2009.0,,05-07,07-21,6.0,6.0,5.0,5.0,05-07,07-21,3.8986690481931134
+429,STXS,Stereotaxis Inc,4.111999988555908,False,2009.0,,08-19,11-02,5.0,5.0,6.0,6.0,08-19,11-02,6.910853798504231
+430,STEP,StepStone Group Inc,26.1200008392334,True,2020.0,,,,,,,,,,
+431,STPGF,Steppe Gold Ltd,1.6359299421310425,True,2020.0,,,,,,,,,,
+432,SCL,Stepan Co,123.55000305175781,False,2009.0,,09-19,12-03,5.0,5.0,6.0,6.0,09-19,12-03,5.766102106118648
+433,SNVVF,STEP Energy Services Ltd,0.34775999188423157,True,2018.0,,,,,,,,,,
+434,STNYF,Stentys,$13.62 ,True,,No data fetched for symbol STNYF using YahooDailyReader,,,,,,,,,
+435,STEOF,Stenocare AS,$6.50 ,True,,No data fetched for symbol STEOF using YahooDailyReader,,,,,,,,,
+436,STSN,Stemsation International Inc,0.01899999938905239,False,2009.0,,01-19,04-03,4.0,4.0,7.0,7.0,01-19,04-03,17.589948227451316
+437,STML,Stemline Therapeutics Inc,$11.83 ,True,,No data fetched for symbol STML using YahooDailyReader,,,,,,,,,
+438,SGNI,StemGen Inc,1.2300000190734863,True,2012.0,,,,,,,,,,
+439,STMM,Stemcell Holdings Inc,0.05999999865889549,True,2020.0,,,,,,,,,,
+440,STMH,Stem Holdings Inc,0.3959999978542328,True,2018.0,,,,,,,,,,
+441,SCAL,Stem Cell Authority Ltd,0.008700000122189522,True,2012.0,,,,,,,,,,
+442,STLZF,Stelmine Canada Ltd,$0.12 ,True,,No data fetched for symbol STLZF using YahooDailyReader,,,,,,,,,
+443,SCM,Stellus Capital Investment Corp,11.149999618530273,True,2012.0,,,,,,,,,,
+444,SLROF,Stellar Resources Ltd,0.004999999888241291,True,2016.0,,,,,,,,,,
+445,STLXF,Stellar AfricaGold Inc,0.04106000065803528,False,2009.0,,01-15,03-30,5.0,5.0,5.0,5.0,01-15,03-30,-12.98991216750241
+446,STLR,Stellar Acquisition III Inc,$10.50 ,True,,No data fetched for symbol STLR using YahooDailyReader,,,,,,,,,
+447,STLJF,Stella-Jones Inc,33.0,True,2011.0,,,,,,,,,,
+448,SLNLY,Stella International Holdings Ltd,11.0,True,2012.0,,,,,,,,,,
+449,SLNLF,Stella International Holdings Ltd,0.8500000238418579,False,2009.0,,05-19,08-02,5.0,5.0,5.0,5.0,03-04,05-18,2.3783533201835847
+450,SLAHF,Stella Chemifa Corp,$44.70 ,True,,No data fetched for symbol SLAHF using YahooDailyReader,,,,,,,,,
+451,STZHF,Stelco Holdings Inc,12.420000076293945,True,2017.0,,,,,,,,,,
+452,SNHFY,Steinhoff International Holdings NV,$25.95 ,True,,No data fetched for symbol SNHFY using YahooDailyReader,,,,,,,,,
+453,STHHF,Steinhoff International Holdings NV,0.054999999701976776,True,2017.0,,,,,,,,,,
+454,STNR,Steiner Leisure Ltd,$62.73 ,True,,'Date',,,,,,,,,
+455,SMRTQ,Stein Mart Inc,0.009750000201165676,True,2020.0,,,,,,,,,,
+456,SELR,Steele Oceanic Corp,0.05000000074505806,False,2010.0,,12-22,03-07,5.0,5.0,5.0,5.0,12-22,03-07,21.91033899046775
+457,SCS,Steelcase Inc,12.303199768066406,False,2009.0,,09-06,11-20,5.0,5.0,6.0,6.0,09-06,11-20,8.383799521080318
+458,SPLP,Steel Partners Holdings LP,8.15999984741211,True,2012.0,,,,,,,,,,
+459,SXCL,Steel Excel Inc,$16.33 ,True,,'Date',,,,,,,,,
+460,STLD,Steel Dynamics Inc,35.6150016784668,False,2009.0,,10-01,12-15,7.0,7.0,4.0,4.0,10-01,12-15,9.890356671388872
+461,STCN,Steel Connect Inc,0.7021039724349976,False,2009.0,,12-15,02-28,4.0,4.0,7.0,7.0,12-15,02-28,5.5853461954472
+462,SAUKF,Steel Authority Of India Ltd,$1.18 ,True,,No data fetched for symbol SAUKF using YahooDailyReader,,,,,,,,,
+463,STHLY,Steel & Tube Holdings Ltd,$16.28 ,True,,'Date',,,,,,,,,
+464,GASS,StealthGas Inc,2.5,False,2009.0,,12-20,03-05,5.0,5.0,6.0,6.0,12-20,03-05,2.0889173177110205
+465,STTH,Stealth Technologies Inc,0.00800000037997961,True,2012.0,,,,,,,,,,
+466,MITO,Stealth BioTherapeutics Corp,1.4800000190734863,True,2019.0,,,,,,,,,,
+467,STDY,SteadyMed Ltd,4.724999904632568,True,2015.0,,,,,,,,,,
+468,SFGLF,Steadfast Group Ltd,$1.83 ,True,,No data fetched for symbol SFGLF using YahooDailyReader,,,,,,,,,
+469,STVMF,Stavely Minerals Ltd,0.5,True,2019.0,,,,,,,,,,
+470,SSUR,StatSure Diagnostic Systems Inc,0.23000000417232513,True,2012.0,,,,,,,,,,
+471,SCIPF,STATS ChipPAC Ltd,$0.33 ,True,,No data fetched for symbol SCIPF using YahooDailyReader,,,,,,,,,
+473,STT,State Street Corporation,68.79499816894531,False,2009.0,,10-29,01-12,5.0,5.0,6.0,6.0,10-29,01-12,6.601071171217352
+474,SNC,State National Companies Inc,$21.02 ,True,,'Date',,,,,,,,,
+475,SIBC,State Investors Bancorp Inc,2700.0,True,2016.0,,,,,,,,,,
+476,SBKFF,State Bank of India,26.010000228881836,False,2009.0,,05-11,07-25,4.0,4.0,7.0,7.0,09-07,11-21,8.082770235413026
+477,STBZ,State Bank Financial Corp,21.59000015258789,True,2012.0,,,,,,,,,,
+478,SBAZ,State Bank Corp,$15.28 ,True,,No data fetched for symbol SBAZ using YahooDailyReader,,,,,,,,,
+479,STFC,State Auto Financial Corp,15.359999656677246,False,2009.0,,10-25,01-08,7.0,7.0,4.0,4.0,10-25,01-08,4.307291465466931
+480,STRZB,Starz,$40.17 ,True,,'Date',,,,,,,,,
+481,STRZA,Starz,$35.52 ,True,,'Date',,,,,,,,,
+482,SFR,Starwood Waypoint Homes,$37.13 ,True,,'Date',,,,,,,,,
+483,STWD,Starwood Property Trust Inc,17.399999618530273,False,2009.0,,11-04,01-18,9.0,9.0,2.0,2.0,10-15,12-29,3.740046493955292
+484,HOT,Starwood Hotels & Resorts Worldwide Inc,27050.0,True,2012.0,,,,,,,,,,
+485,STGC,Startengine Crowdfunding Inc,13.5,True,2020.0,,,,,,,,,,
+486,SRT,StarTek Inc,7.429999828338623,False,2009.0,,11-13,01-27,7.0,7.0,4.0,4.0,11-13,01-27,12.408950492672744
+487,LAAB,Startech Labs Inc,0.23000000417232513,True,2018.0,,,,,,,,,,
+488,STSC,Start Scientific Inc,0.029999999329447746,False,2009.0,,03-07,05-21,4.0,4.0,6.0,6.0,03-07,05-21,7.5678937153218335
+489,SSET,Starstream Entertainment Inc,0.030799999833106995,True,2013.0,,,,,,,,,,
+490,STXMF,Starrex International Ltd,0.5800700187683105,True,2015.0,,,,,,,,,,
+491,SRBGF,Starrag Group Holding AG,39.29999923706055,True,2013.0,,,,,,,,,,
+492,STRPF,Starr Peak Exploration Ltd,1.475000023841858,True,2012.0,,,,,,,,,,
+493,SPHRY,Starpharma Holdings Ltd,9.789999961853027,False,2009.0,,07-12,09-25,2.0,2.0,9.0,9.0,07-12,09-25,9.23346153337422
+494,SPHRF,Starpharma Holdings Ltd,0.9399999976158142,False,2009.0,,07-18,10-01,4.0,4.0,7.0,7.0,07-18,10-01,8.28166346745929
+495,SAEC,Starlight Energy Corp,0.10999999940395355,True,2012.0,,,,,,,,,,
+496,SRHBY,StarHub Ltd,9.170000076293945,False,2010.0,,12-06,02-19,5.0,5.0,5.0,5.0,12-06,02-19,2.736262231031164
+497,SRHBF,StarHub Ltd,0.9900000095367432,True,2012.0,,,,,,,,,,
+498,SGLMF,Starhill Global Real Estate Investment Trust,0.32499998807907104,True,2012.0,,,,,,,,,,
+499,SGGGF,Stargroup Ltd,$0.01 ,True,,No data fetched for symbol SGGGF using YahooDailyReader,,,,,,,,,
+500,STFMF,Starfire Minerals Inc,$0.03 ,True,,'Date',,,,,,,,,
+501,SHVLF,Starcore International Mines Ltd,0.22190000116825104,True,2012.0,,,,,,,,,,
+502,STCB,Starco Brands Inc,2.299999952316284,True,2012.0,,,,,,,,,,
+503,SBUX,Starbucks Corp,97.20999908447266,False,2009.0,,10-06,12-20,7.0,7.0,4.0,4.0,10-06,12-20,8.366070448929605
+504,STBEF,Starbreeze AB,0.12999999523162842,True,2020.0,,,,,,,,,,
+505,SVAC,Starboard Value Acquisition Corp,9.839900016784668,True,2020.0,,,,,,,,,,
+506,SWGI,Star Wealth Group Inc,0.5099999904632568,True,2016.0,,,,,,,,,,
+507,SRVTF,Star Vault AB,0.07500000298023224,True,2016.0,,,,,,,,,,
+508,SRSK,Star Struck Ltd,0.03099999949336052,True,2012.0,,,,,,,,,,
+509,RGRLF,Star Phoenix Group Ltd,0.014999999664723873,True,2018.0,,,,,,,,,,
+510,RGRYY,Star Phoenix Group Ltd,$0.16 ,True,,No data fetched for symbol RGRYY using YahooDailyReader,,,,,,,,,
+511,STPK,Star Peak Energy Transition Corp,9.760000228881836,True,2020.0,,,,,,,,,,
+512,STAU,Star Nutrition Inc,0.008249999955296516,False,2010.0,,02-24,05-09,2.0,2.0,8.0,8.0,02-24,05-09,28.81060630336723
+513,SNAVF,Star Navigation Systems Group Ltd,0.007000000216066837,False,2010.0,,05-18,08-01,2.0,2.0,5.0,5.0,05-18,08-01,16.589905198432483
+514,SMRS,Star Mountain Resources Inc,$0.01 ,True,,No data fetched for symbol SMRS using YahooDailyReader,,,,,,,,,
+515,JETR,Star Jets International Inc,0.10000000149011612,False,2010.0,,06-17,08-31,8.0,8.0,2.0,2.0,06-17,08-31,19.797130784271893
+516,SGU,Star Group LP,9.78499984741211,False,2009.0,,03-21,06-04,7.0,7.0,4.0,4.0,03-22,06-05,7.74049008896407
+517,SRGZ,Star Gold Corp.,0.05999999865889549,False,2009.0,,05-04,07-18,1.0,1.0,10.0,10.0,05-04,07-18,-0.2430859486924873
+518,SFIGA,Star Financial Group Inc,62.040000915527344,True,2012.0,,,,,,,,,,
+519,SHGDF,Star Diamond Corp,0.13300000131130219,False,2009.0,,07-03,09-16,3.0,3.0,8.0,8.0,07-03,09-16,7.454135193104437
+520,SBLK,Star Bulk Carriers Corp.,7.025000095367432,False,2009.0,,02-18,05-03,5.0,5.0,6.0,6.0,02-17,05-02,4.866918908282769
+521,STRZ,Star Buffet Inc,0.057500001043081284,False,2009.0,,11-23,02-06,6.0,6.0,5.0,5.0,11-23,02-06,17.066418512796762
+522,SAFJZ,Star Asia Finance Ltd,$1.40 ,True,,No data fetched for symbol SAFJZ using YahooDailyReader,,,,,,,,,
+523,STAL,Star Alliance International Corp,0.75,True,2020.0,,,,,,,,,,
+524,SPLS,Staples Inc,$10.25 ,True,,'Date',,,,,,,,,
+525,STN,Stantec Inc,29.850000381469727,False,2009.0,,03-07,05-21,4.0,4.0,7.0,7.0,03-07,05-21,4.68363000681
+526,SYYGF,Stanley Gibbons Group (The) PLC,$0.02 ,True,,No data fetched for symbol SYYGF using YahooDailyReader,,,,,,,,,
+527,STAEF,Stanley Electric Co Ltd,28.450000762939453,True,2012.0,,,,,,,,,,
+528,SWK,Stanley Black & Decker Inc,184.56500244140625,False,2009.0,,10-28,01-11,8.0,7.0,3.0,4.0,10-28,01-11,7.053241329225802
+529,SXI,Standex International Corp,74.11000061035156,False,2009.0,,09-01,11-15,7.0,7.0,4.0,4.0,09-01,11-15,7.239653660553789
+530,SVAP,Standard Vape Corp,0.07500000298023224,True,2017.0,,,,,,,,,,
+531,STTDF,Standard Uranium Ltd,0.14000000059604645,True,2020.0,,,,,,,,,,
+532,SMP,Standard Motor Products Inc,46.54999923706055,False,2009.0,,09-19,12-03,5.0,4.0,6.0,7.0,09-19,12-03,9.060492412451543
+533,SMPR,Standard Metals Processing Inc,0.029999999329447746,False,2009.0,,02-14,04-29,6.0,6.0,5.0,5.0,02-14,04-29,10.816918996150001
+534,STLHF,Standard Lithium Corp,2.119999885559082,True,2018.0,,,,,,,,,,
+535,SLFPY,Standard Life Aberdeen PLC,14.25,False,2010.0,,03-20,06-03,7.0,7.0,3.0,3.0,12-13,02-26,3.4958884815431035
+536,SLFPF,Standard Life Aberdeen PLC,3.200000047683716,False,2009.0,,08-10,10-24,6.0,6.0,5.0,5.0,08-10,10-24,5.673714469092122
+537,STFYF,Standard Foods Corp,$9.51 ,True,,No data fetched for symbol STFYF using YahooDailyReader,,,,,,,,,
+538,SDOIB,Standard Diversified Inc,$10.25 ,True,,No data fetched for symbol SDOIB using YahooDailyReader,,,,,,,,,
+539,SDI,Standard Diversified Inc,15.0,True,2018.0,,,,,,,,,,
+540,SCBFY,Standard Chartered PLC,11.76099967956543,True,2019.0,,,,,,,,,,
+541,SCBFF,Standard Chartered PLC,5.795000076293945,False,2009.0,,02-23,05-08,7.0,6.0,4.0,5.0,12-22,03-07,2.6665165485793465
+542,SGBLY,Standard Bank Group Ltd,8.3149995803833,False,2010.0,,11-01,01-15,6.0,6.0,4.0,4.0,11-01,01-15,2.366591817817204
+543,SBGOF,Standard Bank Group Ltd,6.139999866485596,True,2011.0,,,,,,,,,,
+544,STND,Standard AVB Financial Corp,32.8650016784668,False,2010.0,,10-12,12-26,6.0,5.0,4.0,5.0,10-12,12-26,4.7475538924491785
+545,SFG,StanCorp Financial Group Inc,6650.0,True,2014.0,,,,,,,,,,
+546,STMP,Stamps.com Inc,181.0500030517578,False,2009.0,,07-31,10-14,7.0,7.0,4.0,4.0,07-31,10-14,12.01755431590043
+547,STMGF,Stamper Oil & Gas Corp,0.006099999882280827,False,2009.0,,05-29,08-12,3.0,3.0,8.0,8.0,05-29,08-12,0.7211516702434569
+548,SSYR,Stallion Synergies Inc,0.23999999463558197,True,2016.0,,,,,,,,,,
+549,STLLF,Stallergenes Greer PLC,$29.62 ,True,,No data fetched for symbol STLLF using YahooDailyReader,,,,,,,,,
+550,STXAF,Stalexport Autostrady SA,$1.14 ,True,,No data fetched for symbol STXAF using YahooDailyReader,,,,,,,,,
+551,SKHRF,Stakeholder Gold Corp,0.3111000061035156,True,2011.0,,,,,,,,,,
+552,GNWSF,StageZero Life Sciences Ltd,0.5870000123977661,False,2009.0,,12-27,03-12,6.0,6.0,5.0,5.0,12-27,03-12,12.197337043295825
+553,SAGKF,Stagecoach Group PLC,0.8100000023841858,True,2011.0,,,,,,,,,,
+554,SSINQ,Stage Stores Inc,0.009999999776482582,False,2009.0,,01-17,04-01,8.0,8.0,3.0,3.0,01-17,04-01,3.0223779916286007
+555,STAG,Stag Industrial Inc,29.81999969482422,True,2011.0,,,,,,,,,,
+556,STAF,Staffing 360 Solutions Inc,0.9402999877929688,True,2013.0,,,,,,,,,,
+557,SEHI,Stadium Entertainment Holdings Inc,$0.01 ,True,,No data fetched for symbol SEHI using YahooDailyReader,,,,,,,,,
+558,STDAY,STADA Arzneimittel AG,95.75,True,2017.0,,,,,,,,,,
+559,STDAF,STADA Arzneimittel AG,110.41999816894531,True,2012.0,,,,,,,,,,
+560,SRAC,Stable Road Acquisition Corp,10.755000114440918,True,2020.0,,,,,,,,,,
+561,SBLUY,Stabilus SA,13.890000343322754,True,2019.0,,,,,,,,,,
+562,SIUAF,Stabilus SA,58.79439926147461,True,2019.0,,,,,,,,,,
+563,SLNG,Stabilis Solutions Inc,2.299999952316284,False,2009.0,,05-20,08-03,4.0,4.0,7.0,7.0,05-20,08-03,6.862018700700502
+564,STAA,Staar Surgical Co,81.91999816894531,False,2009.0,,08-08,10-22,4.0,4.0,7.0,7.0,08-08,10-22,12.22279704226061
+565,STJO,St. Joseph Inc,0.019999999552965164,False,2009.0,,01-17,04-01,4.0,4.0,7.0,7.0,01-17,04-01,13.094081126757596
+566,BVTLF,St. James Gold Corp,0.15389999747276306,True,2012.0,,,,,,,,,,
+567,RTLGF,St. Augustine Gold and Copper Ltd,0.052799999713897705,True,2013.0,,,,,,,,,,
+568,SXOOF,St-Georges Eco-Mining Corp,0.06400000303983688,True,2018.0,,,,,,,,,,
+569,STMWF,St Modwen Properties PLC,$5.35 ,True,,No data fetched for symbol STMWF using YahooDailyReader,,,,,,,,,
+570,STJ,St Jude Medical Inc,$80.82 ,True,,'Date',,,,,,,,,
+571,SJKI,St John Knits International Inc,300.0,True,2015.0,,,,,,,,,,
+572,STJPF,St James's Place PLC,14.390000343322754,True,2015.0,,,,,,,,,,
+573,SGKBF,St Galler Kantonalbank AG,$355.00 ,True,,No data fetched for symbol SGKBF using YahooDailyReader,,,,,,,,,
+574,STLM,St Elmo Silver Mines Corp,0.1850000023841858,False,2009.0,,05-23,08-06,5.0,5.0,6.0,6.0,05-23,08-06,7.891865084459872
+575,STBMY,St Barbara Ltd,9.529999732971191,True,2011.0,,,,,,,,,,
+576,STBMF,St Barbara Ltd,2.5,True,2012.0,,,,,,,,,,
+577,STADF,St Andrew Goldfields Ltd,$0.31 ,True,,No data fetched for symbol STADF using YahooDailyReader,,,,,,,,,
+578,LJUIF,SSY Group Ltd,0.531000018119812,True,2015.0,,,,,,,,,,
+579,SSTT,SStartrade Tech Inc,0.05009999871253967,False,2009.0,,05-16,07-30,5.0,5.0,5.0,5.0,05-16,07-30,25.65978405686334
+580,SSRM,SSR Mining Inc,18.209999084472656,False,2009.0,,06-24,09-07,6.0,6.0,5.0,5.0,06-24,09-07,7.517964786997241
+581,SSZZF,SSP Offshore Inc,$0.02 ,True,,No data fetched for symbol SSZZF using YahooDailyReader,,,,,,,,,
+582,SSPPF,SSP Group PLC,4.0,True,2018.0,,,,,,,,,,
+583,SDGB,SSNB Inc,20.75,True,2013.0,,,,,,,,,,
+584,YGTYF,SSLJ.com Ltd,0.009999999776482582,True,2018.0,,,,,,,,,,
+585,SSIT,SSI International Ltd,$1.15 ,True,,No data fetched for symbol SSIT using YahooDailyReader,,,,,,,,,
+586,SCSYF,SSH Communications Security Oyj,$3.13 ,True,,No data fetched for symbol SCSYF using YahooDailyReader,,,,,,,,,
+587,SSEZY,SSE PLC,18.06999969482422,False,2010.0,,03-14,05-28,4.0,3.0,6.0,7.0,03-14,05-28,3.653215333550241
+588,SSEZF,SSE PLC,18.149999618530273,True,2012.0,,,,,,,,,,
+589,SSBP,SSB Bancorp Inc,6.875,True,2018.0,,,,,,,,,,
+590,SSAAY,SSAB AB,1.6799999475479126,True,2012.0,,,,,,,,,,
+591,SSAAF,SSAB AB,3.4200000762939453,True,2012.0,,,,,,,,,,
+592,SSNC,SS&C Technologies Holdings Inc,68.33000183105469,False,2010.0,,05-13,07-27,6.0,6.0,4.0,4.0,05-13,07-27,7.3967154031758175
+593,SRTI,SRTI BlockChain Generation Inc,$0.03 ,True,,No data fetched for symbol SRTI using YahooDailyReader,,,,,,,,,
+594,SFTWF,SRT Marine Systems PLC,$0.36 ,True,,No data fetched for symbol SFTWF using YahooDailyReader,,,,,,,,,
+595,SRAWY,Srisawad Corp PCL,$14.07 ,True,,No data fetched for symbol SRAWY using YahooDailyReader,,,,,,,,,
+596,SLJUY,Sri Trang Agro-Industry PLC,$13.68 ,True,,No data fetched for symbol SLJUY using YahooDailyReader,,,,,,,,,
+597,SRTRF,Sri Trang Agro-Industry PLC,$0.10 ,True,,No data fetched for symbol SRTRF using YahooDailyReader,,,,,,,,,
+598,SRHIF,SRHI Inc,0.25,False,2009.0,,10-13,12-27,7.0,6.0,4.0,5.0,10-14,12-28,3.930407547140192
+599,SRGMF,SRG Mining Inc,0.35670000314712524,True,2019.0,,,,,,,,,,
+600,SRCI,SRC Energy Inc,$4.00 ,True,,No data fetched for symbol SRCI using YahooDailyReader,,,,,,,,,
+601,SRAX,SRAX Inc,3.017400026321411,True,2012.0,,,,,,,,,,
+602,SQZ,SQZ Biotechnologies Co,30.46500015258789,True,2020.0,,,,,,,,,,
+603,SQ,Square Inc,191.69000244140625,True,2015.0,,,,,,,,,,
+604,SQNNY,Square Enix Holdings Co Ltd,26.110000610351562,True,2018.0,,,,,,,,,,
+605,SQNXF,Square Enix Holdings Co Ltd,53.060001373291016,False,2010.0,,06-25,09-08,5.0,5.0,5.0,5.0,06-25,09-08,11.639824480807333
+606,SQCC,Square Chain Corp,0.014949999749660492,False,2009.0,,08-13,10-27,3.0,3.0,8.0,8.0,08-13,10-27,2.3653676676423294
+607,SQBK,Square 1 Financial Inc,$26.32 ,True,,No data fetched for symbol SQBK using YahooDailyReader,,,,,,,,,
+608,SQSLF,SQS Software Quality Systems AG,$10.95 ,True,,No data fetched for symbol SQSLF using YahooDailyReader,,,,,,,,,
+609,SQFL,SQL Technologies Corp,2.25,True,2016.0,,,,,,,,,,
+610,SQIDF,SQI Diagnostics Inc,0.18299999833106995,False,2009.0,,03-21,06-04,5.0,5.0,6.0,6.0,03-21,06-04,20.898807677178308
+611,SPYR,SPYR Technologies,0.09000000357627869,True,2016.0,,,,,,,,,,
+612,SPYKF,Spyker NV,$1.09 ,True,,No data fetched for symbol SPYKF using YahooDailyReader,,,,,,,,,
+613,XSPY,SPY Inc,$0.09 ,True,,No data fetched for symbol XSPY using YahooDailyReader,,,,,,,,,
+614,FLOW,SPX FLOW Inc,52.029998779296875,True,2015.0,,,,,,,,,,
+615,SPXC,SPX Corp,47.880001068115234,False,2009.0,,12-09,02-22,7.0,7.0,4.0,4.0,12-09,02-22,9.436816866566284
+616,SPNI,Sputnik Enterprises Inc,$1.00 ,True,,No data fetched for symbol SPNI using YahooDailyReader,,,,,,,,,
+617,SEGYY,SPT Energy Group Inc,0.9298999905586243,True,2017.0,,,,,,,,,,
+618,SPSC,SPS Commerce Inc,94.01000213623047,False,2010.0,,04-10,06-24,6.0,6.0,4.0,4.0,04-10,06-24,12.806086158557186
+619,SRCGF,Spruce Ridge Resources Ltd,0.06620000302791595,False,2009.0,,09-06,11-20,2.0,2.0,9.0,9.0,09-06,11-20,9.781496362683864
+620,SPRB,Spruce Biosciences Inc,26.639999389648438,True,2020.0,,,,,,,,,,
+621,SFM,Sprouts Farmers Market Inc,20.350000381469727,True,2013.0,,,,,,,,,,
+622,SRUTF,Sproutly Canada Inc,0.041099999099969864,True,2018.0,,,,,,,,,,
+623,SPT,Sprout Social Inc,44.13999938964844,True,2019.0,,,,,,,,,,
+624,PSLV,Sprott Physical Silver Trust,8.364999771118164,False,2010.0,,12-17,03-02,5.0,5.0,5.0,5.0,12-17,03-02,6.63793478639439
+625,SPPP,Sprott Physical Platinum & Palladium Tr,16.309900283813477,True,2012.0,,,,,,,,,,
+626,PHYS,Sprott Physical Gold Trust,14.689900398254395,False,2010.0,,12-15,02-28,8.0,8.0,2.0,2.0,12-15,02-28,5.6278804468976995
+627,CEF,Sprott Physical Gold and Silver Trust,18.315000534057617,False,2009.0,,12-21,03-06,8.0,8.0,3.0,3.0,12-21,03-06,5.671696873899398
+628,SII,Sprott Inc,29.489999771118164,False,2010.0,,12-16,03-01,5.0,5.0,5.0,5.0,12-16,03-01,9.305788331202727
+629,FUND,Sprott Focus Trust Inc,6.570000171661377,False,2009.0,,12-11,02-24,9.0,9.0,2.0,2.0,12-13,02-26,4.747790945304373
+630,S,Sprint Corp,$8.62 ,True,,No data fetched for symbol S using YahooDailyReader,,,,,,,,,
+631,SWTX,SpringWorks Therapeutics Inc,63.084999084472656,True,2019.0,,,,,,,,,,
+632,SPRHY,Springland International Holdings Ltd,$4.44 ,True,,No data fetched for symbol SPRHY using YahooDailyReader,,,,,,,,,
+633,SGILF,Springland International Holdings Ltd,$0.21 ,True,,No data fetched for symbol SGILF using YahooDailyReader,,,,,,,,,
+634,CYIG,Spring Pharmaceutical Group Inc,0.04500000178813934,True,2013.0,,,,,,,,,,
+635,SBPH,Spring Bank Pharmaceuticals Inc,1.190000057220459,True,2016.0,,,,,,,,,,
+636,SRLP,Sprague Resources LP,16.895000457763672,True,2013.0,,,,,,,,,,
+637,STLT,Spotlight Innovation Inc,0.029999999329447746,True,2014.0,,,,,,,,,,
+638,SLCH,spotlight Capital Holdings Inc,0.013249999843537807,False,2009.0,,06-11,08-25,3.0,3.0,8.0,8.0,06-11,08-25,13.416140858535336
+639,SPOT,Spotify Technology SA,250.63999938964844,True,2018.0,,,,,,,,,,
+640,SCFFF,Spot Coffee (Canada) Ltd,0.01640000008046627,True,2012.0,,,,,,,,,,
+641,SPWH,Sportsman's Warehouse Holdings Inc,13.90999984741211,True,2014.0,,,,,,,,,,
+642,NIROF,Sportshero Ltd,0.014999999664723873,True,2013.0,,,,,,,,,,
+643,BTHR,Sports Venues of Florida Inc,0.03750000149011612,True,2014.0,,,,,,,,,,
+644,SFHI,Sports Field Holdings Inc,0.05000000074505806,True,2014.0,,,,,,,,,,
+645,SPBTF,Sportingbet PLC,0.8339999914169312,True,2018.0,,,,,,,,,,
+646,SPOZF,Sportech PLC,0.23999999463558197,True,2015.0,,,,,,,,,,
+647,SPORQ,Sport-Haley Holdings Inc,$0.02 ,True,,'Date',,,,,,,,,
+648,SPPKF,Spookfish Ltd,$0.06 ,True,,No data fetched for symbol SPPKF using YahooDailyReader,,,,,,,,,
+649,SPONF,SponsorsOne Inc,0.006000000052154064,True,2019.0,,,,,,,,,,
+650,SPOYF,Sponda Oyj,$5.95 ,True,,No data fetched for symbol SPOYF using YahooDailyReader,,,,,,,,,
+651,SPOK,Spok Holdings Inc,9.710000038146973,False,2009.0,,02-06,04-21,4.0,4.0,7.0,7.0,02-07,04-22,4.850953570425972
+652,SPOM,SPO Global Inc,0.07460000365972519,False,2009.0,,01-24,04-08,6.0,6.0,5.0,5.0,01-24,04-08,23.500660186902746
+653,SPLK,Splunk Inc,199.3699951171875,True,2012.0,,,,,,,,,,
+654,STTTF,Splitit Payments Ltd,0.8999999761581421,True,2019.0,,,,,,,,,,
+655,SBEV,Splash Beverage Group Inc,1.0499999523162842,True,2020.0,,,,,,,,,,
+656,SRSG,Spirits Time International Inc,1.3700000047683716,True,2012.0,,,,,,,,,,
+657,SRC,Spirit Realty Capital Inc,35.560001373291016,True,2012.0,,,,,,,,,,
+658,STXB,Spirit of Texas Bancshares Inc,15.880000114440918,True,2018.0,,,,,,,,,,
+659,SMTA,Spirit MTA REIT,$0.77 ,True,,No data fetched for symbol SMTA using YahooDailyReader,,,,,,,,,
+660,SAVE,Spirit Airlines Inc,20.540000915527344,True,2011.0,,,,,,,,,,
+661,SPR,Spirit AeroSystems Holdings Inc,31.94499969482422,False,2009.0,,08-26,11-09,6.0,6.0,5.0,5.0,08-26,11-09,4.187803228827836
+662,SPNUF,Spirent Communications PLC,3.569999933242798,True,2012.0,,,,,,,,,,
+663,SPMYY,Spirent Communications PLC,13.505000114440918,False,2009.0,,12-16,03-01,9.0,9.0,2.0,2.0,12-16,03-01,10.743866096689672
+664,LGPRU,Spire Inc,$58.00 ,True,,No data fetched for symbol LGPRU using YahooDailyReader,,,,,,,,,
+665,SR,Spire Inc,62.61000061035156,False,2009.0,,05-17,07-31,8.0,7.0,3.0,4.0,10-06,12-20,3.070820328471905
+666,SRRHF,Spire Healthcare Group PLC,$1.15 ,True,,No data fetched for symbol SRRHF using YahooDailyReader,,,,,,,,,
+667,SPIR,Spire Corp,0.009999999776482582,False,2009.0,,12-21,03-06,7.0,7.0,4.0,4.0,12-21,03-06,13.074700619935262
+668,SPXSF,Spirax-Sarco Engineering PLC,145.52999877929688,True,2011.0,,,,,,,,,,
+669,SPXSY,Spirax-Sarco Engineering PLC,57.29999923706055,True,2014.0,,,,,,,,,,
+670,SPGRF,Spineguard,$0.80 ,True,,No data fetched for symbol SPGRF using YahooDailyReader,,,,,,,,,
+671,SPIN,Spine Injury Solutions Inc,0.029999999329447746,False,2009.0,,01-18,04-02,5.0,5.0,6.0,6.0,01-18,04-02,10.405695103551162
+672,SPND,Spindletop Oil & Gas Co,2.440000057220459,False,2009.0,,08-29,11-12,2.0,2.0,9.0,9.0,08-29,11-12,11.429748101692253
+673,SNMSF,Spin Master Corp,23.022899627685547,True,2015.0,,,,,,,,,,
+674,SPIWF,SPIE SA,$19.20 ,True,,No data fetched for symbol SPIWF using YahooDailyReader,,,,,,,,,
+675,PPXXY,Spicers Ltd,$0.23 ,True,,No data fetched for symbol PPXXY using YahooDailyReader,,,,,,,,,
+676,PPXLF,Spicers Ltd,$0.02 ,True,,'Date',,,,,,,,,
+677,SPI,SPI Energy Co Ltd,8.140000343322754,True,2016.0,,,,,,,,,,
+678,DONFF,Sphinx Resources Ltd,0.019999999552965164,True,2012.0,,,,,,,,,,
+679,ANY,Sphere 3D Corp,1.4570000171661377,True,2013.0,,,,,,,,,,
+680,SPRO,Spero Therapeutics Inc,14.819999694824219,True,2017.0,,,,,,,,,,
+681,TRK,Speedway Motorsports Inc,$19.78 ,True,,No data fetched for symbol TRK using YahooDailyReader,,,,,,,,,
+682,SPDE,Speedus Corp,0.014000000432133675,False,2009.0,,05-09,07-23,4.0,4.0,7.0,7.0,05-09,07-23,7.589158852143777
+683,SPDC,Speed Commerce Inc,0.017999999225139618,False,2009.0,,04-25,07-09,6.0,6.0,5.0,5.0,04-25,07-09,17.920231109027004
+684,SPXA,SpectrumDNA Inc,0.01979999989271164,False,2009.0,,02-19,05-04,5.0,5.0,6.0,6.0,02-19,05-04,15.555816844210698
+685,SPPI,Spectrum Pharmaceuticals Inc,4.275000095367432,False,2009.0,,05-05,07-19,4.0,4.0,7.0,7.0,05-05,07-19,13.634943149384208
+686,TRYUF,Spectrum Metals Ltd,$0.06 ,True,,No data fetched for symbol TRYUF using YahooDailyReader,,,,,,,,,
+687,SPGZ,Spectrum Group International Inc,611.0,False,2009.0,,05-22,08-05,8.0,8.0,3.0,3.0,05-22,08-05,5.0777940714021055
+688,SGSI,Spectrum Global Solutions Inc,0.04149999842047691,False,2009.0,,03-14,05-28,2.0,2.0,9.0,9.0,03-14,05-28,28.29913717058753
+689,SPB,Spectrum Brands Holdings Inc,64.97000122070312,False,2009.0,,06-27,09-10,5.0,5.0,6.0,6.0,06-27,09-10,4.554780968744125
+690,SPTYF,Spectrum ASA,$6.97 ,True,,No data fetched for symbol SPTYF using YahooDailyReader,,,,,,,,,
+691,SEPJY,Spectris PLC,14.770000457763672,True,2012.0,,,,,,,,,,
+692,SEPJF,Spectris PLC,34.70000076293945,True,2012.0,,,,,,,,,,
+693,SPEC,SpectralCast Inc,0.10999999940395355,True,2014.0,,,,,,,,,,
+694,EDTXF,Spectral Medical Inc,0.28999999165534973,False,2009.0,,10-23,01-06,6.0,6.0,5.0,5.0,10-23,01-06,10.064850232500758
+695,SPVNF,Spectra7 Microsystems Inc,0.026000000536441803,True,2013.0,,,,,,,,,,
+696,SCTQ,Spectra Systems Corp,$1.56 ,True,,No data fetched for symbol SCTQ using YahooDailyReader,,,,,,,,,
+697,SPKTF,Spectra Products Inc,0.033900000154972076,True,2017.0,,,,,,,,,,
+698,SEP,Spectra Energy Partners LP,78.0,True,2012.0,,,,,,,,,,
+699,SPSO,Spectacular Solar Inc,0.039500001817941666,True,2012.0,,,,,,,,,,
+700,SPQDF,Specialty Liquid Transportation Corp,0.20000000298023224,True,2019.0,,,,,,,,,,
+701,SPE,Special Opportunities Fund Inc,12.444999694824219,False,2009.0,,11-07,01-21,6.0,6.0,5.0,5.0,02-19,05-04,-0.609016164901424
+702,SPMTF,Spearmint Resources Inc,0.03799999877810478,True,2016.0,,,,,,,,,,
+703,SPBBF,Speakeasy Cannabis Club Ltd,0.2980000078678131,True,2018.0,,,,,,,,,,
+704,SRXXF,SPARX Group Co Ltd,1.940000057220459,False,2010.0,,01-24,04-08,3.0,3.0,7.0,7.0,02-16,05-01,8.908657429364329
+705,SPNRF,Sparton Resources Inc,0.05280999839305878,False,2010.0,,09-01,11-15,3.0,3.0,4.0,4.0,09-01,11-15,15.409629745667505
+706,SPA,Sparton Corp,$18.51 ,True,,No data fetched for symbol SPA using YahooDailyReader,,,,,,,,,
+707,SPTN,SpartanNash Co,18.280000686645508,False,2009.0,,10-31,01-14,4.0,3.0,7.0,8.0,10-31,01-14,2.943532513182188
+708,PTORF,Spartan Energy Corp,$5.07 ,True,,No data fetched for symbol PTORF using YahooDailyReader,,,,,,,,,
+709,SPAQ,Spartan Energy Acquisition Corp,8.960000038146973,True,2018.0,,,,,,,,,,
+710,DALXF,Spartan Delta Corp,2.380000114440918,False,2009.0,,09-11,11-25,5.0,5.0,6.0,6.0,09-11,11-25,-82.88768897705566
+711,TMTS,Spartacus Acquisition Corp,9.880000114440918,True,2020.0,,,,,,,,,,
+712,SCAXF,Sparta Capital Ltd,0.028699999675154686,True,2019.0,,,,,,,,,,
+713,ONCE,Spark Therapeutics Inc,$113.57 ,True,,No data fetched for symbol ONCE using YahooDailyReader,,,,,,,,,
+714,SKPGF,Spark Power Group Inc,1.1026999950408936,True,2020.0,,,,,,,,,,
+715,SPKKY,Spark New Zealand Ltd,15.520000457763672,False,2009.0,,06-30,09-13,5.0,5.0,6.0,6.0,06-30,09-13,6.055536220875816
+716,NZTCF,Spark New Zealand Ltd,3.0799999237060547,True,2012.0,,,,,,,,,,
+717,LOV,Spark Networks SE,4.309999942779541,False,2009.0,,12-03,02-16,7.0,7.0,4.0,4.0,12-03,02-16,8.489528439308637
+718,SFDPF,Spark Infrastructure Group,1.4199999570846558,True,2011.0,,,,,,,,,,
+719,SPKE,Spark Energy Inc,9.329999923706055,True,2014.0,,,,,,,,,,
+720,SPIZF,Sparebanken Vest AS,5.909999847412109,True,2012.0,,,,,,,,,,
+721,SPXXF,Sparebanken Nord Norge,7.199999809265137,True,2018.0,,,,,,,,,,
+722,EKSKF,Sparebanken ÃƒËœst,7.133699893951416,True,2019.0,,,,,,,,,,
+723,SBRKF,SpareBank 1 SR Bank ASA,7.75,True,2014.0,,,,,,,,,,
+724,SRMGF,SpareBank 1 SMN,5.39300012588501,True,2014.0,,,,,,,,,,
+725,SPRBF,SpareBank 1 Ostlandet,10.600000381469727,True,2018.0,,,,,,,,,,
+727,SGPPY,Spar Group Ltd,$13.66 ,True,,No data fetched for symbol SGPPY using YahooDailyReader,,,,,,,,,
+728,SGPPF,Spar Group Ltd,11.399999618530273,True,2013.0,,,,,,,,,,
+729,SGRP,SPAR Group Inc,0.8518999814987183,False,2009.0,,12-30,03-15,10.0,10.0,1.0,1.0,12-30,03-15,9.93341552674574
+730,SPAZF,Spanish Mountain Gold Ltd,0.2904999852180481,False,2009.0,,07-05,09-18,5.0,5.0,6.0,6.0,07-05,09-18,18.763230115815272
+731,SBSAA,Spanish Broadcasting System Inc,0.25999999046325684,False,2009.0,,12-28,03-13,8.0,8.0,3.0,3.0,12-28,03-13,4.208156412566276
+732,SPAN,Span-America Medical Systems Inc,$29.99 ,True,,'Date',,,,,,,,,
+733,SPKMF,Spackman Equities Group Inc,$0.03 ,True,,No data fetched for symbol SPKMF using YahooDailyReader,,,,,,,,,
+734,SPFYF,Spacefy Inc,0.014750000089406967,True,2019.0,,,,,,,,,,
+735,SPMMF,Space Communication Ltd,1.149999976158142,True,2016.0,,,,,,,,,,
+736,SP,SP Plus Corp,28.1299991607666,False,2009.0,,06-26,09-09,5.0,5.0,6.0,6.0,06-26,09-09,5.210287989820404
+737,SWN,Southwestern Energy Co,2.9649999141693115,False,2009.0,,02-06,04-21,6.0,6.0,5.0,5.0,02-06,04-21,4.170385169280649
+738,SGB,Southwest Georgia Financial Corp,$18.95 ,True,,No data fetched for symbol SGB using YahooDailyReader,,,,,,,,,
+739,SWX,Southwest Gas Holdings Inc,66.69499969482422,False,2009.0,,08-26,11-09,7.0,7.0,4.0,4.0,08-26,11-09,5.982237101616195
+740,OKSB,Southwest Bancorp Inc,$28.45 ,True,,'Date',,,,,,,,,
+741,LUV,Southwest Airlines Co,45.83000183105469,False,2009.0,,10-11,12-25,8.0,7.0,3.0,4.0,10-11,12-25,10.208654347234152
+742,FDGMF,Southstone Minerals Ltd,0.03500000014901161,True,2018.0,,,,,,,,,,
+743,SBSI,Southside Bancshares Inc,30.770000457763672,False,2009.0,,02-08,04-23,9.0,8.0,2.0,3.0,02-08,04-23,3.698391745226497
+744,SSHC,Southshore Community Bank,0.03500000014901161,False,2009.0,,03-02,05-16,1.0,1.0,10.0,10.0,03-02,05-16,-23.436383209035696
+745,SOUB,Southpoint Bancshares Inc,19.75,True,2019.0,,,,,,,,,,
+746,SOPYW,SouthPeak Interactive Corp,$0.01 ,True,,No data fetched for symbol SOPYW using YahooDailyReader,,,,,,,,,
+747,SZBI,SouthFirst Bancshares Inc,3.4000000953674316,False,2009.0,,12-22,03-07,6.0,6.0,5.0,5.0,12-22,03-07,5.0234209931417855
+748,SOST,Southern States Sign Co,0.10499999672174454,True,2012.0,,,,,,,,,,
+749,SSVFF,Southern Silver Exploration Corp,0.3799999952316284,True,2012.0,,,,,,,,,,
+750,SRLY,Southern Realty Co,15.109999656677246,True,2012.0,,,,,,,,,,
+751,SONA,Southern National Bancorp of Virginia Inc,10.960000038146973,False,2009.0,,11-01,01-15,8.0,8.0,3.0,3.0,11-01,01-15,6.690131668602315
+752,SMBC,Southern Missouri Bancorp Inc,29.78499984741211,False,2009.0,,09-19,12-03,7.0,7.0,4.0,4.0,09-19,12-03,9.287477374743547
+753,SOMC,Southern Michigan Bancorp Inc,30.049999237060547,False,2009.0,,10-06,12-20,6.0,5.0,5.0,6.0,10-06,12-20,6.035099570272656
+754,SITS,Southern ITS International Inc,0.012000000104308128,True,2012.0,,,,,,,,,,
+755,SUTHF,Southern Gold Ltd,$0.22 ,True,,No data fetched for symbol SUTHF using YahooDailyReader,,,,,,,,,
+756,SFST,Southern First Bancshares Inc,30.579999923706055,False,2009.0,,03-22,06-05,8.0,8.0,3.0,3.0,03-22,06-05,7.448125559127103
+757,MAXMF,Southern Energy Corp,0.023000000044703484,False,2010.0,,06-16,08-30,3.0,3.0,4.0,4.0,06-16,08-30,4.77845827702579
+758,SMPEF,Southern Empire Resources Corp,0.18529999256134033,True,2020.0,,,,,,,,,,
+759,SOUTF,Southern Cross Media Group Ltd,$0.89 ,True,,No data fetched for symbol SOUTF using YahooDailyReader,,,,,,,,,
+760,SCCO,Southern Copper Corp,55.689998626708984,False,2009.0,,08-25,11-08,6.0,6.0,5.0,5.0,08-25,11-08,7.885898550072813
+761,RIBS,Southern Concepts Restaurant Group Inc,0.013000000268220901,True,2015.0,,,,,,,,,,
+762,SCBS,Southern Community Bancshares Inc,9.0,True,2012.0,,,,,,,,,,
+763,SO,Southern Co,60.790000915527344,False,2009.0,,10-06,12-20,6.0,6.0,5.0,5.0,09-01,11-15,4.204371980635658
+764,BCAL,Southern Calif Bancorp,12.25,False,2009.0,,05-26,08-09,5.0,5.0,6.0,6.0,05-26,08-09,5.969959121382947
+765,SBNC,Southern Bancshares NC Inc,3900.0,True,2016.0,,,,,,,,,,
+766,SRNN,Southern Banc Co Inc,6.96999979019165,False,2009.0,,12-31,03-16,9.0,9.0,2.0,2.0,12-31,03-16,5.440781198473146
+767,SOACF,Southern Arc Minerals Inc,0.1899999976158142,False,2010.0,,12-22,03-07,3.0,3.0,7.0,7.0,12-22,03-07,1.5066245833871408
+768,SEBC,Southeastern Banking Corp,18.0,False,2009.0,,09-03,11-17,8.0,8.0,3.0,3.0,01-18,04-02,6.552792878615012
+769,SBFC,Southeastern Bank Financial Corp,$63.25 ,True,,'Date',,,,,,,,,
+770,SXEEQ,Southcross Energy Partners LP,$0.01 ,True,,No data fetched for symbol SXEEQ using YahooDailyReader,,,,,,,,,
+771,SCSG,Southcrest Financial Group Inc,7.0,False,2009.0,,09-17,12-01,4.0,4.0,7.0,7.0,09-17,12-01,7.269653644743432
+772,STHC,Southcorp Capital Inc,0.016200000420212746,True,2012.0,,,,,,,,,,
+773,SOCB,Southcoast Financial Corp,$14.02 ,True,,'Date',,,,,,,,,
+774,SOUHY,South32 Ltd,8.3100004196167,True,2015.0,,,,,,,,,,
+775,SHTLF,South32 Ltd,1.6449999809265137,True,2015.0,,,,,,,,,,
+776,SSB,South State Corp,67.52999877929688,False,2009.0,,09-22,12-06,7.0,7.0,4.0,4.0,09-22,12-06,6.408281799760489
+777,STSBF,South Star Mining Corp,0.042100001126527786,True,2013.0,,,,,,,,,,
+778,LOUIF,South Shore Holdings Ltd,0.009999999776482582,True,2014.0,,,,,,,,,,
+779,SPNZF,South Port New Zealand Ltd,$3.19 ,True,,No data fetched for symbol SPNZF using YahooDailyReader,,,,,,,,,
+780,SPFI,South Plains Financial Inc,17.709999084472656,True,2019.0,,,,,,,,,,
+781,SMMC,South Mountain Merger Corp,12.119999885559082,True,2019.0,,,,,,,,,,
+782,SJI,South Jersey Industries Inc,22.424999237060547,False,2009.0,,03-10,05-24,5.0,5.0,6.0,6.0,03-10,05-24,3.960042425195063
+783,SABK,South Atlantic Bancshares Inc,10.25,True,2018.0,,,,,,,,,,
+784,SRNXF,Sourcenext Corp,2.8499999046325684,True,2019.0,,,,,,,,,,
+785,SCEYF,Source Energy Services Ltd,0.048170000314712524,True,2017.0,,,,,,,,,,
+786,SOR,Source Capital Inc,39.0099983215332,False,2009.0,,12-11,02-24,9.0,9.0,2.0,2.0,12-08,02-21,5.799688576836946
+787,SDWHF,Soundwill Holdings Ltd,0.8450000286102295,True,2013.0,,,,,,,,,,
+788,SGXXY,Sound Global Ltd,$9.90 ,True,,No data fetched for symbol SGXXY using YahooDailyReader,,,,,,,,,
+789,SGXXF,Sound Global Ltd,0.44999998807907104,True,2012.0,,,,,,,,,,
+790,SFBC,Sound Financial Bancorp Inc,30.649999618530273,False,2009.0,,11-06,01-20,8.0,8.0,3.0,3.0,11-06,01-20,5.6165150873041245
+791,SNEGF,Sound Energy PLC,0.009999999776482582,True,2016.0,,,,,,,,,,
+792,SOUG,Sou 300 Group Holding Co,$15.87 ,True,,No data fetched for symbol SOUG using YahooDailyReader,,,,,,,,,
+793,STKMF,Sotkamo Silver AB,0.32499998807907104,True,2020.0,,,,,,,,,,
+794,SOHO,Sotherly Hotels Inc,2.140000104904175,False,2009.0,,03-31,06-14,7.0,7.0,4.0,4.0,03-31,06-14,13.860695819283107
+795,BID,Sothebys,$56.99 ,True,,No data fetched for symbol BID using YahooDailyReader,,,,,,,,,
+796,SOLTF,Sosei Group Corp,13.739999771118164,True,2013.0,,,,,,,,,,
+797,SOS,SOS Ltd,2.0144999027252197,True,2017.0,,,,,,,,,,
+798,SOHI,Sortis Holdings Inc,0.4300000071525574,False,2009.0,,03-10,05-24,7.0,7.0,4.0,4.0,03-10,05-24,19.094424088903185
+799,SRNE,Sorrento Therapeutics Inc,7.369999885559082,False,2009.0,,05-26,08-09,7.0,7.0,4.0,4.0,05-26,08-09,17.638765579195994
+800,ROKA,Sorrento Tech Inc,$0.65 ,True,,'Date',,,,,,,,,
+801,SORL,SORL Auto Parts Inc,$4.71 ,True,,No data fetched for symbol SORL using YahooDailyReader,,,,,,,,,
+802,SORJF,Sorin,$3.14 ,True,,'Date',,,,,,,,,
+803,SPSAF,Sopra Steria Group SA,160.5,True,2018.0,,,,,,,,,,
+804,SHPPY,Sophos Group PLC,$23.32 ,True,,No data fetched for symbol SHPPY using YahooDailyReader,,,,,,,,,
+805,SPHHF,Sophos Group PLC,$7.00 ,True,,No data fetched for symbol SPHHF using YahooDailyReader,,,,,,,,,
+806,SPHS,Sophiris Bio Inc,0.012000000104308128,False,2010.0,,12-20,03-05,5.0,5.0,5.0,5.0,12-20,03-05,11.301396392802632
+807,SOPEF,Sopheon PLC,$11.58 ,True,,No data fetched for symbol SOPEF using YahooDailyReader,,,,,,,,,
+808,POTRF,SOPerior Fertilizer Corp,0.017750000581145287,True,2013.0,,,,,,,,,,
+809,SYFHF,Sony Financial Holdings Inc,24.5,True,2013.0,,,,,,,,,,
+810,SNYFY,Sony Financial Holdings Inc,24.110000610351562,False,2010.0,,05-15,07-29,4.0,4.0,6.0,6.0,05-15,07-29,6.661966150970758
+811,SNEJF,Sony Corp,88.83999633789062,False,2010.0,,08-21,11-04,6.0,6.0,4.0,4.0,11-10,01-24,1.8164025081298505
+812,SNE,Sony Corp,88.81999969482422,False,2009.0,,11-10,01-24,7.0,7.0,4.0,4.0,11-10,01-24,3.4476133292121878
+813,SONVY,Sonova Holding AG,49.005001068115234,True,2011.0,,,,,,,,,,
+814,SONVF,Sonova Holding AG,242.5800018310547,False,2009.0,,05-23,08-06,7.0,7.0,4.0,4.0,04-07,06-21,6.023087255898568
+815,SONO,Sonos Inc,22.021699905395508,True,2018.0,,,,,,,,,,
+816,SMOFF,Sonoro Gold Corp,0.20000000298023224,True,2014.0,,,,,,,,,,
+817,SNVFF,Sonoro Energy Ltd,0.05350000038743019,True,2013.0,,,,,,,,,,
+818,SOCJF,Sonora Gold & Silver Corp,0.033399999141693115,True,2018.0,,,,,,,,,,
+819,SNOA,Sonoma Pharmaceuticals Inc,6.532700061798096,False,2009.0,,02-09,04-24,7.0,7.0,4.0,4.0,02-09,04-24,0.8401122549467832
+820,SON,Sonoco Products Co,57.5,False,2009.0,,08-28,11-11,8.0,7.0,3.0,4.0,10-01,12-15,5.588475537747527
+821,SOTK,Sono-Tek Corp,4.400000095367432,False,2009.0,,04-21,07-05,4.0,4.0,7.0,7.0,04-21,07-05,9.530082634434564
+822,SONN,Sonnet BioTherapeutics Holdings Inc,2.380000114440918,False,2009.0,,07-30,10-13,3.0,3.0,8.0,8.0,07-30,10-13,-0.8652497536930498
+823,SONM,Sonim Technologies Inc,0.5687999725341797,True,2019.0,,,,,,,,,,
+824,SIMA,Sonics & Materials Inc,8.25,True,2012.0,,,,,,,,,,
+825,SKHHY,Sonic Healthcare Ltd,24.850000381469727,False,2010.0,,06-09,08-23,8.0,6.0,2.0,4.0,06-09,08-23,4.743329667762578
+826,SKHCF,Sonic Healthcare Ltd,24.670000076293945,False,2010.0,,05-09,07-23,8.0,7.0,2.0,3.0,05-09,07-23,7.876599208666517
+827,SOFO,Sonic Foundry Inc,3.009999990463257,False,2009.0,,01-09,03-24,10.0,10.0,1.0,1.0,01-09,03-24,15.394612330521838
+828,SONC,Sonic Corp,43.4900016784668,True,2012.0,,,,,,,,,,
+829,SAH,Sonic Automotive Inc,41.36000061035156,False,2009.0,,05-05,07-19,6.0,6.0,5.0,5.0,05-05,07-19,8.660948528867983
+830,SGAZF,SONGA OFFSHORE SE,7.919000148773193,True,2012.0,,,,,,,,,,
+831,SSFT,Sonasoft Corp,0.06858000159263611,True,2014.0,,,,,,,,,,
+832,SONR,Sonar Radio Corp,2.509999990463257,True,2013.0,,,,,,,,,,
+833,SOVTF,Sonaecom SA,$7.58 ,True,,No data fetched for symbol SOVTF using YahooDailyReader,,,,,,,,,
+834,SOSSF,Sonae SGPS SA,0.699999988079071,True,2013.0,,,,,,,,,,
+835,SREZF,Sona Resources Corp,$0.08 ,True,,No data fetched for symbol SREZF using YahooDailyReader,,,,,,,,,
+836,SNANF,Sona Nanotech Inc,2.0,True,2017.0,,,,,,,,,,
+837,SMPNY,Sompo Holdings Inc,19.790000915527344,True,2016.0,,,,,,,,,,
+838,NHOLF,Sompo Holdings Inc,37.0,True,2012.0,,,,,,,,,,
+839,SOMNF,SomnoMed Ltd,1.5499999523162842,False,2010.0,,08-23,11-06,5.0,5.0,5.0,5.0,08-23,11-06,7.1388019421443705
+840,SOME,Somerset Trust Holding Co,35.0,False,2009.0,,10-05,12-19,8.0,8.0,3.0,3.0,01-09,03-24,-0.4649004326278424
+841,PRSRF,Soma Gold Corp,0.23999999463558197,True,2016.0,,,,,,,,,,
+842,SVYSF,Solvay SA,100.29000091552734,True,2012.0,,,,,,,,,,
+843,SOLVY,Solvay SA,10.579999923706055,True,2011.0,,,,,,,,,,
+844,SOBS,Solvay Bank,36.0,False,2009.0,,02-24,05-09,8.0,8.0,3.0,3.0,02-24,05-09,5.834293899805781
+845,SLUNF,Solutions 30 SE,20.848800659179688,True,2020.0,,,,,,,,,,
+846,SLNTY,Solutions 30 SE,16.809999465942383,True,2019.0,,,,,,,,,,
+847,SLTA,Soltera Mining Corp,$0.02 ,True,,No data fetched for symbol SLTA using YahooDailyReader,,,,,,,,,
+848,SGCPF,Solstice Gold Corp,0.06419999897480011,True,2020.0,,,,,,,,,,
+849,SLOFF,Solstad Offshore ASA,50.0,True,2017.0,,,,,,,,,,
+850,SGFRF,SOLON SE,$0.03 ,True,,No data fetched for symbol SGFRF using YahooDailyReader,,,,,,,,,
+851,BNRQY,Solon Eiendom ASA,$1.93 ,True,,No data fetched for symbol BNRQY using YahooDailyReader,,,,,,,,,
+852,BNRPF,Solon Eiendom ASA,4.75,True,2012.0,,,,,,,,,,
+853,SLLGF,Solocal Group SA,$1.19 ,True,,No data fetched for symbol SLLGF using YahooDailyReader,,,,,,,,,
+854,SOLSD,Sollensys Corp,5,True,2020.0,,,,,,,,,,
+855,SIUMF,Solium Capital Inc,$14.22 ,True,,No data fetched for symbol SIUMF using YahooDailyReader,,,,,,,,,
+856,SODI,Solitron Devices Inc,4.050000190734863,False,2009.0,,08-25,11-08,6.0,6.0,5.0,5.0,08-25,11-08,7.614514894385517
+857,SYKKF,Soliton Systems KK,$8.75 ,True,,No data fetched for symbol SYKKF using YahooDailyReader,,,,,,,,,
+858,SOLY,Soliton Inc,7.699999809265137,True,2019.0,,,,,,,,,,
+859,XPL,Solitario Zinc Corp,0.4230000078678131,False,2009.0,,12-13,02-26,4.0,4.0,7.0,7.0,12-13,02-26,11.766400751219564
+860,SNGX,Soligenix Inc,2.430000066757202,False,2009.0,,12-13,02-26,7.0,7.0,4.0,4.0,12-13,02-26,18.455587380557933
+861,SLDGF,SolidusGold Inc,$0.07 ,True,,'Date',,,,,,,,,
+862,SLDB,Solid Biosciences Inc,3.265000104904175,True,2018.0,,,,,,,,,,
+863,SLGGF,SolGold PLC,0.5,True,2016.0,,,,,,,,,,
+864,SLRK,Solera National Bancorp Inc,10.960000038146973,True,2012.0,,,,,,,,,,
+865,SLH,Solera Holdings Inc,$55.84 ,True,,'Date',,,,,,,,,
+866,SLNO,Soleno Therapeutics Inc,2.009999990463257,True,2014.0,,,,,,,,,,
+867,SOLI,Solei Systems Inc,0.4099999964237213,True,2012.0,,,,,,,,,,
+868,SRWRY,SolarWorld AG,$0.01 ,True,,No data fetched for symbol SRWRY using YahooDailyReader,,,,,,,,,
+869,SRWRF,SolarWorld AG,0.5,False,2009.0,,08-26,11-09,5.0,5.0,6.0,6.0,08-26,11-09,3.2327550639583382
+870,SWI,SolarWinds Corp,21.719999313354492,True,2018.0,,,,,,,,,,
+871,WNDW,SolarWindow Technologies Inc,5.199999809265137,False,2009.0,,10-30,01-13,7.0,7.0,4.0,4.0,10-30,01-13,15.047741300376972
+872,SLSSF,Solaris Resources Inc,3.936800003051758,True,2020.0,,,,,,,,,,
+873,SOI,Solaris Oilfield Infrastructure Inc,6.869999885559082,True,2017.0,,,,,,,,,,
+874,SEYMF,Solaria Energia y Medio Ambiente SA,20.37969970703125,True,2012.0,,,,,,,,,,
+875,SEDG,SolarEdge Technologies Inc,243.6750030517578,True,2015.0,,,,,,,,,,
+876,SCTY,SolarCity Corp,7.989999771118164,True,2019.0,,,,,,,,,,
+877,SLFBF,Solar-Fabrik AG,0.029999999329447746,True,2019.0,,,,,,,,,,
+878,SUNS,Solar Senior Capital Ltd,$14.40 ,True,,'Date',,,,,,,,,
+879,SQTI,Solar Quartz Technologies Inc,$0.50 ,True,,No data fetched for symbol SQTI using YahooDailyReader,,,,,,,,,
+880,SIRC,Solar Integrated Roofing Corp,0.05620000138878822,True,2016.0,,,,,,,,,,
+881,PLKT,Solar Gold Ltd,0.20000000298023224,True,2014.0,,,,,,,,,,
+882,SOEN,Solar Enertech Corp,0.011599999852478504,False,2009.0,,12-16,03-01,7.0,7.0,4.0,4.0,12-16,03-01,21.63940433481489
+883,SLRC,Solar Capital Ltd,17.135000228881836,False,2010.0,,10-26,01-09,7.0,7.0,3.0,3.0,10-15,12-29,2.0844609647470502
+884,SAENF,Solar Alliance Energy Inc,0.027899999171495438,False,2010.0,,01-14,03-29,8.0,8.0,2.0,2.0,01-14,03-29,23.961490067289997
+885,SLGL,Sol-Gel Technologies Ltd,7.929999828338623,True,2018.0,,,,,,,,,,
+886,SOSPF,SOL SpA,$5.76 ,True,,No data fetched for symbol SOSPF using YahooDailyReader,,,,,,,,,
+887,SOLCF,SOL Global Investments Corp,1.8700000047683716,True,2018.0,,,,,,,,,,
+888,SICNF,Sokoman Minerals Corp,0.1467999964952469,True,2011.0,,,,,,,,,,
+889,SZHFF,Sojitz Corp,2.2100000381469727,True,2012.0,,,,,,,,,,
+890,SLOIY,Soitec SA,83.83999633789062,True,2020.0,,,,,,,,,,
+891,SLOIF,Soitec SA,152.0,True,2012.0,,,,,,,,,,
+892,SBBZF,Soilbuild Business Space REIT,0.30000001192092896,True,2020.0,,,,,,,,,,
+893,SOHU,Sohu.com Ltd,19.979999542236328,False,2009.0,,10-29,01-12,5.0,5.0,6.0,6.0,10-29,01-12,4.0439308134418575
+894,SOHOF,SOHO China Ltd,0.25999999046325684,False,2009.0,,11-14,01-28,8.0,5.0,3.0,6.0,02-18,05-03,10.798960678601484
+895,SOHGF,Sohgo Security Service Co Ltd,49.25,True,2020.0,,,,,,,,,,
+896,SOGO,Sogou Inc,8.859999656677246,True,2017.0,,,,,,,,,,
+897,SFSVF,Software Service Inc,$18.50 ,True,,No data fetched for symbol SFSVF using YahooDailyReader,,,,,,,,,
+898,SWDAF,Software AG,39.5,True,2019.0,,,,,,,,,,
+899,STWRY,Software AG,11.140000343322754,False,2009.0,,01-02,03-17,9.0,9.0,2.0,2.0,01-02,03-17,6.107056870211243
+900,SAII,Software Acquisition Group Inc II,9.765000343322754,True,2020.0,,,,,,,,,,
+901,SOFSF,Softlab9 Technologies Inc,0.37940001487731934,True,2020.0,,,,,,,,,,
+902,SFTNF,Softing AG,$11.25 ,True,,No data fetched for symbol SFTNF using YahooDailyReader,,,,,,,,,
+903,SOFT,SofTech Inc,0.4300000071525574,False,2009.0,,12-30,03-15,9.0,9.0,2.0,2.0,12-30,03-15,18.21220519834395
+904,SFTBY,SoftBank Group Corp,31.75,True,2011.0,,,,,,,,,,
+905,SFTBF,SoftBank Group Corp,62.79999923706055,False,2009.0,,03-26,06-09,5.0,6.0,6.0,5.0,04-10,06-24,8.853660042662275
+906,SFBQF,SoftBank Corp,11.619999885559082,True,2020.0,,,,,,,,,,
+907,SOBKY,SoftBank Corp,12.3100004196167,True,2019.0,,,,,,,,,,
+908,SLNZ,Soft Landing Laboratories Ltd,$0.45 ,True,,No data fetched for symbol SLNZ using YahooDailyReader,,,,,,,,,
+909,SFNXF,Sofina SA,289.0199890136719,True,2012.0,,,,,,,,,,
+910,SLLV,Soellingen Advisory Group Inc,$0.10 ,True,,'Date',,,,,,,,,
+911,SDCKF,Sodick Co Ltd,$2.11 ,True,,No data fetched for symbol SDCKF using YahooDailyReader,,,,,,,,,
+912,SDXOF,Sodexo,80.61000061035156,False,2009.0,,10-27,01-10,8.0,7.0,3.0,4.0,10-27,01-10,4.848778860340347
+913,SDXAY,Sodexo,16.665000915527344,False,2009.0,,10-21,01-04,7.0,7.0,4.0,4.0,10-21,01-04,5.379544447212496
+914,SODA,SodaStream International Ltd,143.67999267578125,True,2012.0,,,,,,,,,,
+915,SOYIF,Soda Sanayii AS,0.7516999840736389,True,2019.0,,,,,,,,,,
+916,SCKT,Socket Mobile Inc,2.869999885559082,False,2009.0,,12-28,03-13,6.0,6.0,5.0,5.0,12-28,03-13,9.658965844202363
+917,SCGLY,Societe Generale SA,3.8450000286102295,False,2009.0,,06-27,09-10,5.0,5.0,6.0,6.0,06-27,09-10,1.8213493666562772
+918,SCGLF,Societe Generale SA,19.5,False,2009.0,,07-09,09-22,7.0,7.0,4.0,4.0,07-09,09-22,4.55932037749886
+919,STEFF,Societe de la Tour Eiffel SA,$75.00 ,True,,No data fetched for symbol STEFF using YahooDailyReader,,,,,,,,,
+920,SXMVF,Societe d'exploration miniere Vior Inc,0.10999999940395355,True,2014.0,,,,,,,,,,
+921,SSLZF,Societa Sportiva Lazio SPA,1.2000000476837158,True,2019.0,,,,,,,,,,
+922,SCZZF,Societa Cattolica di Assicurazione - Societa Coope,$9.22 ,True,,No data fetched for symbol SCZZF using YahooDailyReader,,,,,,,,,
+923,SQM,Sociedad Quimica Y Minera De Chile SA,44.84000015258789,False,2009.0,,12-06,02-19,6.0,6.0,5.0,5.0,12-08,02-21,5.600857607456413
+924,CVVIF,Sociedad Comercial del Plata SA,0.009999999776482582,True,2012.0,,,,,,,,,,
+925,SODE,Social Detention Inc,0.009999999776482582,True,2012.0,,,,,,,,,,
+926,SOCC,Social Cube Inc,4.900000095367432,True,2009.0,,,,,,,,,,
+927,IPOC,Social Capital Hedosophia Holdings Corp III,9.98390007019043,True,2020.0,,,,,,,,,,
+928,IPOB,Social Capital Hedosophia Holdings Corp II,19.59000015258789,True,2020.0,,,,,,,,,,
+929,SHONF,SOCAM Development Ltd,0.28999999165534973,True,2012.0,,,,,,,,,,
+930,TLMD,SOC Telemed Inc,8.494999885559082,True,2020.0,,,,,,,,,,
+931,SOBR,Sobr Safe Inc,2.9700000286102295,True,2020.0,,,,,,,,,,
+932,SY,So-Young International Inc,13.039999961853027,True,2019.0,,,,,,,,,,
+933,LNCE,Snyder?s-Lance Inc,49.97999954223633,True,2012.0,,,,,,,,,,
+934,SNPXF,SNP Schneider-Neureither & Partner SE,62.25,True,2018.0,,,,,,,,,,
+935,SNOW,Snowflake Inc,267.739990234375,True,2020.0,,,,,,,,,,
+936,SWFCF,Snowfield Development Corp,0.0142000000923872,True,2018.0,,,,,,,,,,
+937,SZBXY,Snoozebox Holdings PLC,$3.02 ,True,,No data fetched for symbol SZBXY using YahooDailyReader,,,,,,,,,
+938,SNIPF,Snipp Interactive Inc,0.04019999876618385,True,2014.0,,,,,,,,,,
+939,SYGCF,SnipGold Corp,$0.22 ,True,,'Date',,,,,,,,,
+940,SLTQY,SNGN Romgaz SA,$5.39 ,True,,No data fetched for symbol SLTQY using YahooDailyReader,,,,,,,,,
+941,SNCAF,SNC-Lavalin Group Inc,16.915700912475586,False,2010.0,,10-28,01-11,3.0,3.0,7.0,7.0,10-28,01-11,5.293794560251577
+942,SNCXF,Snc Former PLC,$0.50 ,True,,No data fetched for symbol SNCXF using YahooDailyReader,,,,,,,,,
+943,SNA,Snap-on Inc,171.9499969482422,False,2009.0,,09-25,12-09,7.0,7.0,4.0,4.0,09-25,12-09,8.975593655091131
+944,SNAP,Snap Inc,41.98500061035156,True,2017.0,,,,,,,,,,
+945,SNMRY,Snam SpA,11.079999923706055,False,2010.0,,11-16,01-30,6.0,6.0,4.0,4.0,02-12,04-27,1.8344857663184777
+946,SNMRF,Snam SpA,5.75,True,2012.0,,,,,,,,,,
+947,SMXP,SMX Corp,0.029999999329447746,False,2009.0,,01-02,03-17,0.0,0.0,11.0,11.0,01-02,03-17,0.0
+948,SMFTF,Smurfit Kappa Group PLC,41.650001525878906,False,2009.0,,02-09,04-24,8.0,8.0,3.0,3.0,07-05,09-18,6.554137720409888
+949,SMFKY,Smurfit Kappa Group PLC,41.939998626708984,True,2014.0,,,,,,,,,,
+950,SMTX,SMTC Corp,4.454999923706055,False,2009.0,,10-04,12-18,5.0,5.0,6.0,6.0,10-04,12-18,11.106529953016583
+951,SMTAF,SMT Scharf AG,$14.00 ,True,,No data fetched for symbol SMTAF using YahooDailyReader,,,,,,,,,
+952,SSCR,SMSA Crane Acquisition Corp,0.800000011920929,True,2018.0,,,,,,,,,,
+953,SMSUY,SMS Management & Technology Ltd,$2.68 ,True,,'Date',,,,,,,,,
+954,SMSUF,SMS Management & Technology Ltd,$1.40 ,True,,'Date',,,,,,,,,
+955,SMSZF,SMS Co Ltd,23,True,2020.0,,,,,,,,,,
+956,SPMRY,SMRT Corp Ltd,$11.01 ,True,,No data fetched for symbol SPMRY using YahooDailyReader,,,,,,,,,
+957,SPMRF,SMRT Corp Ltd,$0.73 ,True,,'Date',,,,,,,,,
+958,SMRVF,Smooth Rock Ventures Corp,0.07500000298023224,True,2020.0,,,,,,,,,,
+959,SMKC,Smoke Cartel Inc,0.2199999988079071,True,2017.0,,,,,,,,,,
+960,SMKRF,SMK Corp,$5.60 ,True,,No data fetched for symbol SMKRF using YahooDailyReader,,,,,,,,,
+961,CNNGF,Smiths News PLC,0.25,True,2018.0,,,,,,,,,,
+962,SMWPY,Smiths News PLC,4.130000114440918,True,2012.0,,,,,,,,,,
+963,SMGZY,Smiths Group PLC,20.290000915527344,False,2010.0,,12-10,02-23,7.0,7.0,3.0,3.0,12-10,02-23,7.990955756636523
+964,SMGKF,Smiths Group PLC,20.197999954223633,False,2010.0,,12-12,02-25,8.0,8.0,2.0,2.0,12-12,02-25,5.812933858550784
+965,SMID,Smith-Midland Corp,7.894999980926514,False,2009.0,,08-28,11-11,5.0,5.0,6.0,6.0,08-28,11-11,6.45682131688766
+966,SMSI,Smith Micro Software Inc,5.179999828338623,False,2009.0,,10-27,01-10,5.0,5.0,6.0,6.0,10-27,01-10,16.032877568471886
+967,DITHF,Smith (DS) PLC,4.550000190734863,True,2013.0,,,,,,,,,,
+968,SWBI,Smith & Wesson Brands Inc,16.18000030517578,False,2009.0,,05-08,07-22,6.0,6.0,5.0,5.0,05-08,07-22,10.16266030968218
+969,SNNUF,Smith & Nephew PLC,19.93000030517578,False,2009.0,,10-16,12-30,7.0,7.0,4.0,4.0,10-16,12-30,6.008543013091445
+970,SNN,Smith & Nephew PLC,38.77000045776367,False,2009.0,,11-12,01-26,6.0,6.0,5.0,5.0,11-12,01-26,6.917903419925853
+971,SMHLF,SMIT Holdings Ltd,$0.43 ,True,,No data fetched for symbol SMHLF using YahooDailyReader,,,,,,,,,
+972,SMIFF,Smiles Fidelidade SA,$16.12 ,True,,No data fetched for symbol SMIFF using YahooDailyReader,,,,,,,,,
+973,SDC,SmileDirectClub Inc,11.125,True,2019.0,,,,,,,,,,
+974,QJYMF,SMI Culture & Travel Group Holdings Ltd,0.017999999225139618,True,2014.0,,,,,,,,,,
+975,SMGI,SMG Industries Inc,0.11999999731779099,True,2018.0,,,,,,,,,,
+976,SMCSF,SMCP SA,$25.10 ,True,,No data fetched for symbol SMCSF using YahooDailyReader,,,,,,,,,
+977,SMECF,SMC Corp,585.0,True,2011.0,,,,,,,,,,
+978,SMCAY,SMC Corp,29.450000762939453,True,2014.0,,,,,,,,,,
+979,COMSF,Smartspace Software PLC,$0.10 ,True,,No data fetched for symbol COMSF using YahooDailyReader,,,,,,,,,
+980,SMAR,Smartsheet Inc,53.439998626708984,True,2018.0,,,,,,,,,,
+981,STTFY,SmarTone Telecommunications Holdings Ltd,$4.75 ,True,,No data fetched for symbol STTFY using YahooDailyReader,,,,,,,,,
+982,STTFF,SmarTone Telecommunications Holdings Ltd,$1.08 ,True,,No data fetched for symbol STTFF using YahooDailyReader,,,,,,,,,
+983,SMME,SmartMetric Inc,0.013100000098347664,False,2009.0,,03-29,06-12,5.0,5.0,6.0,6.0,03-29,06-12,15.332391611090252
+984,SMBK,SmartFinancial Inc,17.030000686645508,False,2009.0,,02-15,04-30,8.0,8.0,3.0,3.0,02-15,04-30,5.505756715659124
+985,SSCFF,SmartCool Systems Inc,0.007499999832361937,False,2009.0,,12-13,02-26,5.0,5.0,6.0,6.0,12-13,02-26,7.9330626107821285
+986,CWYUF,SmartCentres Real Estate Investment Trust,18.799999237060547,False,2009.0,,11-12,01-26,5.0,5.0,6.0,6.0,11-12,01-26,3.0676408523881364
+987,SMRN,Smartag International Inc,0.050999999046325684,True,2012.0,,,,,,,,,,
+988,SMT,SMART Technologies Inc,$4.49 ,True,,'Date',,,,,,,,,
+989,SND,Smart Sand Inc,1.690000057220459,True,2016.0,,,,,,,,,,
+990,STMTF,Smart Metering Systems PLC,8.079999923706055,True,2019.0,,,,,,,,,,
+991,SGH,SMART Global Holdings Inc,29.75,True,2017.0,,,,,,,,,,
+992,SMEYF,Smart Employee Benefits Inc,0.09617000073194504,True,2014.0,,,,,,,,,,
+993,SDEC,Smart Decision Inc,0.007000000216066837,True,2019.0,,,,,,,,,,
+994,ZSYC,Smart Closet Inc,1.0,False,2010.0,,01-28,04-12,6.0,6.0,4.0,4.0,01-28,04-12,-30.86983443450655
+995,SMKG,Smart Card Marketing Systems Inc,0.03959999978542328,False,2009.0,,11-07,01-21,2.0,2.0,9.0,9.0,11-07,01-21,24.440762076161157
+996,SFS,Smart & Final Stores Inc,$6.50 ,True,,No data fetched for symbol SFS using YahooDailyReader,,,,,,,,,
+997,SMWK,Small World Kids Inc,$0.04 ,True,,'Date',,,,,,,,,
+998,SBDG,Small Business Development Group Inc,0.11100000143051147,True,2013.0,,,,,,,,,,
+999,SMTGY,SMA Solar Technology AG,5.699999809265137,True,2020.0,,,,,,,,,,
+1000,SMTGF,SMA Solar Technology AG,55.5,True,2012.0,,,,,,,,,,
+1001,SMWZF,SM Wirtschaftsberatungs AG,6.079500198364258,True,2019.0,,,,,,,,,,
+1002,SPHXF,SM Prime Holdings Inc,0.5199999809265137,False,2009.0,,04-15,06-29,4.0,4.0,7.0,7.0,09-01,11-15,8.008826085601195
+1003,SVTMF,SM Investments Corp,21.59000015258789,True,2012.0,,,,,,,,,,
+1004,SMIVY,SM Investments Corp,$9.01 ,True,,No data fetched for symbol SMIVY using YahooDailyReader,,,,,,,,,
+1005,SM,SM Energy Co,3.3550000190734863,False,2009.0,,08-06,10-20,6.0,6.0,5.0,5.0,08-06,10-20,-2.2007377287105725
+1006,SLGRF,SLM Solutions Group AG,13.0,True,2014.0,,,,,,,,,,
+1007,SLM,SLM Corp,10.78499984741211,False,2009.0,,10-30,01-13,7.0,7.0,4.0,4.0,10-06,12-20,7.212288219711421
+1008,SLBG,Slinger Bag Inc,1.0,True,2019.0,,,,,,,,,,
+1009,SNBR,Sleep Number Corp,71.28500366210938,False,2009.0,,10-01,12-15,6.0,6.0,5.0,5.0,10-01,12-15,11.586204281521766
+1010,SCCAF,Sleep Country Canada Holdings Inc,14.919500350952148,True,2016.0,,,,,,,,,,
+1011,SLCJY,SLC Agricola SA,4.71999979019165,True,2012.0,,,,,,,,,,
+1012,SLCJF,SLC Agricola SA,6.175600051879883,True,2013.0,,,,,,,,,,
+1013,SLZNF,Slave Lake Zinc Corp,0.06159999966621399,True,2019.0,,,,,,,,,,
+1014,STGNF,Slater & Gordon Ltd,$0.87 ,True,,No data fetched for symbol STGNF using YahooDailyReader,,,,,,,,,
+1015,SLTTF,Slate Office REIT,3.121500015258789,True,2017.0,,,,,,,,,,
+1016,SRRTF,Slate Grocery REIT,9.289999961853027,True,2015.0,,,,,,,,,,
+1017,SLGWF,SLANG Worldwide Inc,0.1931000053882599,True,2019.0,,,,,,,,,,
+1018,SLMXF,Slam Exploration Ltd,0.07370000332593918,False,2009.0,,07-30,10-13,5.0,5.0,6.0,6.0,07-30,10-13,19.40980070563069
+1019,WORK,Slack Technologies Inc,27.565000534057617,True,2019.0,,,,,,,,,,
+1020,SLI,SL Industries Inc,1445.780029296875,True,2019.0,,,,,,,,,,
+1021,SLG,SL Green Realty Corp,57.599998474121094,False,2009.0,,09-29,12-13,7.0,7.0,4.0,4.0,09-29,12-13,5.648454272941951
+1022,SWDHY,Skyworth Group Ltd,8.020000457763672,True,2013.0,,,,,,,,,,
+1023,SWDHF,Skyworth Group Ltd,0.33000001311302185,False,2010.0,,07-02,09-15,5.0,5.0,5.0,5.0,12-12,02-25,9.423101183969443
+1024,SWKS,Skyworks Solutions Inc,138.88999938964844,False,2009.0,,01-07,03-22,9.0,9.0,2.0,2.0,01-07,03-22,12.068262160701465
+1025,SKYW,SkyWest Inc,38.970001220703125,False,2009.0,,10-14,12-28,6.0,6.0,5.0,5.0,10-14,12-28,13.106351554979744
+1026,SKTP,Skytop Lodge Corp,625.0,True,2012.0,,,,,,,,,,
+1027,SKALF,Skymark Airlines Inc,$0.18 ,True,,No data fetched for symbol SKALF using YahooDailyReader,,,,,,,,,
+1028,SKY,Skyline Champion Corp,31.889999389648438,False,2009.0,,11-14,01-28,7.0,7.0,4.0,4.0,01-23,04-07,-5.858440222054874
+1029,SKLYF,Skylark Holdings Co Ltd,15.050000190734863,True,2016.0,,,,,,,,,,
+1030,SYHBF,Skyharbour Resources Ltd,0.13349999487400055,True,2013.0,,,,,,,,,,
+1031,SFIIF,SkyFii Ltd,0.10899999737739563,True,2020.0,,,,,,,,,,
+1032,SKYEY,Skyepharma PLC,$6.28 ,True,,'Date',,,,,,,,,
+1033,SKYEF,Skyepharma PLC,$6.40 ,True,,'Date',,,,,,,,,
+1034,SKPO,Skye Petroleum Inc,0.007300000172108412,True,2012.0,,,,,,,,,,
+1035,SKLV,SKYE Life Ventures Ltd,0.1599999964237213,True,2013.0,,,,,,,,,,
+1036,SKYZF,SkyCity Entertainment Group Ltd,1.8200000524520874,False,2009.0,,02-06,04-21,5.0,3.0,6.0,8.0,04-02,06-16,3.836005142814095
+1037,SKYTY,SkyCity Entertainment Group Ltd,10.029999732971191,True,2013.0,,,,,,,,,,
+1038,MOBI,Sky-mobi Ltd,$2.14 ,True,,'Date',,,,,,,,,
+1039,SKYS,Sky Solar Holdings Ltd,7.170000076293945,True,2014.0,,,,,,,,,,
+1040,SKYL,Sky Resort International Ltd,4.75,True,2020.0,,,,,,,,,,
+1041,SKPI,Sky Petroleum Inc,0.020099999383091927,False,2009.0,,03-24,06-07,6.0,6.0,5.0,5.0,03-24,06-07,14.398230446107547
+1042,SKPJY,SKY Perfect JSAT Corp,7.25,True,2013.0,,,,,,,,,,
+1043,SKPJF,SKY Perfect JSAT Corp,$5.32 ,True,,No data fetched for symbol SKPJF using YahooDailyReader,,,,,,,,,
+1044,SYKWF,Sky Network Television Ltd,0.10999999940395355,True,2014.0,,,,,,,,,,
+1045,SKYAY,Sky Ltd,87.16000366210938,True,2012.0,,,,,,,,,,
+1046,BSYBF,Sky Ltd,21.329999923706055,True,2012.0,,,,,,,,,,
+1047,SRKZF,Sky Gold Corp,0.11479999870061874,True,2011.0,,,,,,,,,,
+1048,SKDTY,Sky Deutschland AG,$6.00 ,True,,No data fetched for symbol SKDTY using YahooDailyReader,,,,,,,,,
+1049,SKYI,Sky Century Investment Inc,0.029999999329447746,True,2014.0,,,,,,,,,,
+1050,BENGF,Sky and Space Global Ltd,0.009999999776482582,True,2013.0,,,,,,,,,,
+1051,SKUL,Skullcandy Inc,$6.35 ,True,,'Date',,,,,,,,,
+1052,SKKRF,SKRR Exploration Inc,0.1881999969482422,True,2017.0,,,,,,,,,,
+1053,SKSK,Skookum Safety Solutions Corp,0.10000000149011612,True,2020.0,,,,,,,,,,
+1054,SKKY,Skkynet Cloud Systems Inc,0.6800000071525574,True,2013.0,,,,,,,,,,
+1055,SKVI,Skinvisible Inc,0.06300000101327896,False,2009.0,,06-19,09-02,2.0,2.0,9.0,9.0,06-19,09-02,10.82038562710923
+1056,EDTK,Skillful Craftsman Education Technology Ltd,3.039799928665161,True,2020.0,,,,,,,,,,
+1057,SKUFF,SKF AB,20.5,True,2012.0,,,,,,,,,,
+1058,SKFRY,SKF AB,23.459999084472656,False,2009.0,,11-01,01-15,8.0,8.0,3.0,3.0,11-01,01-15,4.000102579367332
+1059,SKLMF,Skellerup Holdings Ltd,1.2599999904632568,True,2017.0,,,,,,,,,,
+1060,SKLUY,Skellerup Holdings Ltd,29.700000762939453,True,2016.0,,,,,,,,,,
+1061,SKREF,Skeena Resources Ltd,1.8841420412063599,False,2010.0,,07-01,09-14,5.0,5.0,5.0,5.0,07-01,09-14,18.522267873680406
+1062,SKX,Skechers USA Inc,33.16999816894531,False,2009.0,,05-09,07-23,9.0,9.0,2.0,2.0,05-09,07-23,8.751683240195545
+1063,SKSBF,Skanska AB,24.25,True,2012.0,,,,,,,,,,
+1064,SKBSY,Skanska AB,23.542499542236328,False,2010.0,,11-01,01-15,7.0,7.0,3.0,3.0,11-01,01-15,8.062852026393328
+1065,SVKEF,Skandinaviska Enskilda Banken AB,9.5,True,2011.0,,,,,,,,,,
+1066,SVKAF,Skandinaviska Enskilda Banken AB,$12.65 ,True,,No data fetched for symbol SVKAF using YahooDailyReader,,,,,,,,,
+1067,SKVKY,Skandinaviska Enskilda Banken AB,10.010000228881836,True,2013.0,,,,,,,,,,
+1068,SKAJ,Skajaquoda Group Inc,$13.00 ,True,,No data fetched for symbol SKAJ using YahooDailyReader,,,,,,,,,
+1069,SKMTF,SK Telecom Co Ltd,$213.91 ,True,,'Date',,,,,,,,,
+1070,SKM,SK Telecom Co Ltd,22.899999618530273,False,2009.0,,08-12,10-26,5.0,5.0,6.0,6.0,08-12,10-26,5.854287599149184
+1071,SKKAF,SK Kaken Co Ltd,410.0,True,2013.0,,,,,,,,,,
+1072,HXSCL,SK Hynix Inc,$41.71 ,True,,No data fetched for symbol HXSCL using YahooDailyReader,,,,,,,,,
+1073,SJW,SJW Group,64.80999755859375,False,2009.0,,08-28,11-11,6.0,6.0,5.0,5.0,08-28,11-11,5.6982402858907655
+1074,SJMHY,SJM Holdings Ltd,4.820000171661377,True,2015.0,,,,,,,,,,
+1075,SJMHF,SJM Holdings Ltd,1.2999999523162842,False,2010.0,,05-11,07-25,5.0,5.0,5.0,5.0,10-23,01-06,2.7486755717629463
+1076,SZMK,Sizmek Inc,$3.90 ,True,,'Date',,,,,,,,,
+1077,SYTA,Siyata Mobile Inc,5.849999904632568,True,2020.0,,,,,,,,,,
+1078,SIXX,Sixx Holdings Inc,$4.55 ,True,,'Date',,,,,,,,,
+1079,SXNTF,Sixty North Gold Mining Ltd,0.059300001710653305,True,2018.0,,,,,,,,,,
+1080,ATURF,Sixth Wave Innovations Inc,0.20082999765872955,False,2010.0,,12-18,03-03,4.0,4.0,6.0,6.0,12-18,03-03,-9.790498211056985
+1081,TSLX,Sixth Street Specialty Lending Inc,19.993099212646484,True,2014.0,,,,,,,,,,
+1082,SIXGF,Sixt SE,90.5,True,2015.0,,,,,,,,,,
+1083,SIX,Six Flags Entertainment Corp,29.139999389648438,False,2010.0,,10-25,01-08,5.0,5.0,5.0,5.0,10-25,01-08,9.896818994450241
+1084,STYDF,Sitoy Group Holdings Ltd,$0.42 ,True,,No data fetched for symbol STYDF using YahooDailyReader,,,,,,,,,
+1085,SITOQ,SITO Mobile Ltd,0.011599999852478504,True,2020.0,,,,,,,,,,
+1086,SITKF,Sitka Gold Corp,0.1599999964237213,True,2019.0,,,,,,,,,,
+1087,SITM,SiTime Corp,82.08499908447266,True,2019.0,,,,,,,,,,
+1088,SITE,SiteOne Landscape Supply Inc,139.89999389648438,True,2016.0,,,,,,,,,,
+1089,SITC,SITE Centers Corp,10.204999923706055,False,2009.0,,05-20,08-03,7.0,7.0,4.0,4.0,05-20,08-03,7.2444604764582685
+1090,SITIY,SITC International Holdings Co Ltd,20.200000762939453,True,2018.0,,,,,,,,,,
+1091,JSFCY,Sistema PJSFC,$17.97 ,True,,No data fetched for symbol JSFCY using YahooDailyReader,,,,,,,,,
+1092,JSFCF,Sistema PJSFC,5.949999809265137,True,2012.0,,,,,,,,,,
+1093,SRAMF,Sisram Medical Ltd,0.3799999952316284,True,2020.0,,,,,,,,,,
+1094,SIXHF,SiS International Holdings Ltd,$0.35 ,True,,No data fetched for symbol SIXHF using YahooDailyReader,,,,,,,,,
+1095,SXMDF,Sirtex Medical Ltd,$24.90 ,True,,No data fetched for symbol SXMDF using YahooDailyReader,,,,,,,,,
+1096,SIRO,Sirona Dental Systems Inc,$109.97 ,True,,'Date',,,,,,,,,
+1097,SRBCF,Sirona Biochem Corp,0.19030000269412994,True,2013.0,,,,,,,,,,
+1098,SIRI,Sirius XM Holdings Inc,6.385000228881836,False,2009.0,,05-23,08-06,8.0,8.0,3.0,3.0,05-23,08-06,8.203628930152247
+1099,SIICF,Sirius XM Canada Holdings Inc,$3.35 ,True,,No data fetched for symbol SIICF using YahooDailyReader,,,,,,,,,
+1100,SRRLF,Sirius Real Estate Ltd,$0.91 ,True,,No data fetched for symbol SRRLF using YahooDailyReader,,,,,,,,,
+1101,SRUXY,Sirius Minerals PLC,$3.17 ,True,,No data fetched for symbol SRUXY using YahooDailyReader,,,,,,,,,
+1102,SRUXF,Sirius Minerals PLC,$0.05 ,True,,No data fetched for symbol SRUXF using YahooDailyReader,,,,,,,,,
+1103,SG,Sirius International Insurance Group Ltd,11.630000114440918,True,2018.0,,,,,,,,,,
+1104,SIREF,Sirios Resources Inc,0.125,False,2010.0,,06-04,08-18,3.0,3.0,6.0,6.0,06-04,08-18,10.808676623449298
+1105,BLLXF,Sire Biosciences Inc,0.06194999814033508,True,2018.0,,,,,,,,,,
+1106,SIRZF,SIR Royalty Income Fund,1.75,False,2010.0,,03-25,06-08,6.0,5.0,4.0,5.0,03-19,06-02,3.768756418258068
+1107,SPUP,Sipup Corp,0.07999999821186066,True,2014.0,,,,,,,,,,
+1108,SIPN,SIPP International Industries Inc,0.012600000016391277,False,2009.0,,02-19,05-04,1.0,1.0,9.0,9.0,02-19,05-04,16.2567611468456
+1109,SPHVF,SIPH (Internationale de Plantations d?HÃƒÆ’Ã‚Â©vÃƒÆ’Ã‚Â©,$99.50 ,True,,No data fetched for symbol SPHVF using YahooDailyReader,,,,,,,,,
+1110,SISAF,Sipef SA,54.29999923706055,True,2013.0,,,,,,,,,,
+1111,SIXN,Siouxland Energy & Livestock Coop,1900.0,True,2012.0,,,,,,,,,,
+1112,SIOX,Sio Gene Therapies Inc,2.2899999618530273,True,2020.0,,,,,,,,,,
+1113,SINT,SINTX Technologies Inc,1.5800000429153442,True,2014.0,,,,,,,,,,
+1114,SILDF,Sintokogio Ltd,6.985000133514404,True,2016.0,,,,,,,,,,
+1115,SRVQF,SinterCast AB,7.650000095367432,True,2015.0,,,,,,,,,,
+1116,ZDEXF,Sintana Energy Inc,0.07524999976158142,True,2012.0,,,,,,,,,,
+1117,SNGYF,Sinpas Gayrimenkul Yatirim Ortakligi AS,$0.41 ,True,,No data fetched for symbol SNGYF using YahooDailyReader,,,,,,,,,
+1118,SVA,Sinovac Biotech Ltd,6.46999979019165,True,2012.0,,,,,,,,,,
+1119,SHKLY,Sinotruk (Hong Kong) Ltd,122.6500015258789,True,2012.0,,,,,,,,,,
+1120,SHKLF,Sinotruk (Hong Kong) Ltd,$0.74 ,True,,No data fetched for symbol SHKLF using YahooDailyReader,,,,,,,,,
+1121,SSLYF,Sinotrans Shipping Ltd,0.3400000035762787,True,2013.0,,,,,,,,,,
+1122,SNOTY,Sinotrans Ltd,$0.24 ,True,,No data fetched for symbol SNOTY using YahooDailyReader,,,,,,,,,
+1123,SNOTF,Sinotrans Ltd,0.3619999885559082,True,2012.0,,,,,,,,,,
+1124,SNOXY,Sinotel Technologies Ltd,$1.28 ,True,,No data fetched for symbol SNOXY using YahooDailyReader,,,,,,,,,
+1125,SNNN,Sinorama Corp,0.21070000529289246,True,2017.0,,,,,,,,,,
+1126,SHTDY,Sinopharm Group Co Ltd,12.399999618530273,True,2016.0,,,,,,,,,,
+1127,SHTDF,Sinopharm Group Co Ltd,2.5,True,2011.0,,,,,,,,,,
+1128,SPTJF,Sinopec Shanghai Petrochemical Co Ltd,0.20000000298023224,True,2013.0,,,,,,,,,,
+1129,SHI,Sinopec Shanghai Petrochemical Co Ltd,20.81999969482422,False,2009.0,,12-28,03-13,10.0,10.0,1.0,1.0,12-28,03-13,8.198038583841187
+1130,YZCFF,Sinopec Oilfield Service Corp,0.09000000357627869,True,2012.0,,,,,,,,,,
+1131,SPKOY,Sinopec Kantons Holdings Ltd,17.790000915527344,True,2015.0,,,,,,,,,,
+1132,SNPKF,Sinopec Kantons Holdings Ltd,0.47999998927116394,True,2016.0,,,,,,,,,,
+1133,SMZZF,SinoMedia Holding Ltd,$0.60 ,True,,No data fetched for symbol SMZZF using YahooDailyReader,,,,,,,,,
+1134,SNLKF,Sinolink Worldwide Holdings Ltd,$0.08 ,True,,No data fetched for symbol SNLKF using YahooDailyReader,,,,,,,,,
+1135,SNFRY,Sinofert Holdings Ltd,3.9110000133514404,True,2012.0,,,,,,,,,,
+1136,SNFRF,Sinofert Holdings Ltd,0.08669999986886978,False,2009.0,,05-18,08-01,7.0,7.0,4.0,4.0,12-24,03-09,8.703156361102018
+1137,SINOF,Sino-Thai Engineering and Construction PCL,0.699999988079071,True,2016.0,,,,,,,,,,
+1138,SIOLY,Sino-Ocean Group Holding Ltd,7.760000228881836,True,2012.0,,,,,,,,,,
+1139,SIOLF,Sino-Ocean Group Holding Ltd,0.1899999976158142,True,2012.0,,,,,,,,,,
+1140,SINO,Sino-Global Shipping America Ltd,2.559999942779541,False,2009.0,,07-15,09-28,4.0,4.0,7.0,7.0,07-15,09-28,9.53791804290216
+1141,SUIC,Sino United Worldwide Consolidated Ltd,0.2800000011920929,True,2015.0,,,,,,,,,,
+1142,SMACU,Sino Mercury Acquisition Corp,$10.20 ,True,,No data fetched for symbol SMACU using YahooDailyReader,,,,,,,,,
+1143,SNLAY,Sino Land Co Ltd,6.5,False,2009.0,,08-27,11-10,7.0,7.0,4.0,4.0,08-29,11-12,2.5242583937869862
+1144,SNLAF,Sino Land Co Ltd,1.2300000190734863,True,2012.0,,,,,,,,,,
+1145,SFOOF,Sino Grandness Food Industry Group Ltd,$0.43 ,True,,No data fetched for symbol SFOOF using YahooDailyReader,,,,,,,,,
+1146,IGEHF,Sino Gas & Energy Holdings Ltd,$0.13 ,True,,No data fetched for symbol IGEHF using YahooDailyReader,,,,,,,,,
+1147,SBHMY,Sino Biopharmaceutical Ltd,20.90999984741211,True,2017.0,,,,,,,,,,
+1148,SBMFF,Sino Biopharmaceutical Ltd,0.9599999785423279,False,2010.0,,02-07,04-22,5.0,5.0,5.0,5.0,02-07,04-22,13.925025440071142
+1149,SNAS,Sino Assurance Inc,0.014999999664723873,False,2010.0,,03-02,05-16,0.0,0.0,10.0,10.0,03-02,05-16,9.868083240082084
+1150,OILY,Sino American Oil Co,4.099999904632568,False,2009.0,,03-11,05-25,2.0,2.0,9.0,9.0,03-11,05-25,42.38633576043785
+1151,SIAF,Sino Agro Food Inc,0.14890000224113464,False,2010.0,,07-12,09-25,3.0,3.0,7.0,7.0,07-12,09-25,17.72843212721118
+1152,SGTSY,Singulus Technologies AG,$2.38 ,True,,No data fetched for symbol SGTSY using YahooDailyReader,,,,,,,,,
+1153,SGTSF,Singulus Technologies AG,$18.60 ,True,,'Date',,,,,,,,,
+1154,SGSP,Single Source Investment Group Inc,$5.25 ,True,,No data fetched for symbol SGSP using YahooDailyReader,,,,,,,,,
+1155,SMDM,Singing Machine Co Inc,0.29109999537467957,False,2009.0,,09-28,12-12,4.0,4.0,7.0,7.0,09-28,12-12,19.849529346207763
+1156,SNGNF,Singapore Telecommunications Ltd,1.7680000066757202,False,2009.0,,05-29,08-12,7.0,7.0,4.0,4.0,02-19,05-04,4.755694179910626
+1157,SGTCF,Singapore Telecommunications Ltd,$2.82 ,True,,'Date',,,,,,,,,
+1158,SGAPY,Singapore Telecommunications Ltd,17.854999542236328,False,2009.0,,03-02,05-16,7.0,7.0,4.0,4.0,03-02,05-16,4.076579834394111
+1159,SGGKY,Singapore Technologies Engineering Ltd,28.020000457763672,False,2010.0,,02-16,05-01,7.0,7.0,3.0,3.0,02-23,05-08,4.065258327834099
+1160,SGGKF,Singapore Technologies Engineering Ltd,2.799999952316284,True,2012.0,,,,,,,,,,
+1161,SGPRY,Singapore Press Holdings Ltd,3.7699999809265137,False,2010.0,,09-26,12-10,4.0,4.0,6.0,6.0,02-07,04-22,0.8021718660440716
+1162,SGPRF,Singapore Press Holdings Ltd,0.7450000047683716,True,2012.0,,,,,,,,,,
+1163,SPSTY,Singapore Post Ltd,9.65999984741211,True,2012.0,,,,,,,,,,
+1164,SPSTF,Singapore Post Ltd,0.5099999904632568,False,2009.0,,09-19,12-03,7.0,5.0,4.0,6.0,03-16,05-30,4.761638787466853
+1165,SPXCY,Singapore Exchange Ltd,101.19499969482422,True,2012.0,,,,,,,,,,
+1166,SPXCF,Singapore Exchange Ltd,6.690000057220459,False,2009.0,,06-29,09-12,6.0,6.0,5.0,5.0,06-29,09-12,4.523809639741817
+1167,SINGY,Singapore Airlines Ltd,6.043399810791016,False,2010.0,,11-12,01-26,5.0,5.0,5.0,5.0,02-15,04-30,-1.7054217909869909
+1168,SINGF,Singapore Airlines Ltd,3.0399999618530273,False,2009.0,,02-15,04-30,7.0,7.0,4.0,4.0,02-15,04-30,0.5764405155562139
+1169,SNGSF,Singamas Container Holdings Ltd,0.04100000113248825,True,2013.0,,,,,,,,,,
+1170,SCLRF,Sinclair Pharma PLC,0.38999998569488525,True,2013.0,,,,,,,,,,
+1171,SBGI,Sinclair Broadcast Group Inc,25.975000381469727,False,2009.0,,10-02,12-16,8.0,7.0,3.0,4.0,09-25,12-09,9.00625442826397
+1172,CLCMF,Sinch AB,94.5,True,2018.0,,,,,,,,,,
+1173,SINC,Sincerity Applied Materials Holdings Corp,1.100000023841858,True,2014.0,,,,,,,,,,
+1174,SWHZF,Sincere Watch (Hong Kong) Ltd,$0.02 ,True,,No data fetched for symbol SWHZF using YahooDailyReader,,,,,,,,,
+1175,SINA,SINA Corp,43.32500076293945,False,2009.0,,08-04,10-18,5.0,5.0,6.0,6.0,08-04,10-18,7.174126690704164
+1176,SLP,Simulations Plus Inc,58.380001068115234,False,2009.0,,07-16,09-29,8.0,8.0,3.0,3.0,07-16,09-29,11.173380863069019
+1177,SMRL,Simtrol Inc,0.01744999922811985,True,2012.0,,,,,,,,,,
+1178,SMUPF,Sims Ltd,6.400000095367432,True,2012.0,,,,,,,,,,
+1179,SMSMY,Sims Ltd,7.559999942779541,False,2009.0,,06-28,09-11,6.0,5.0,5.0,6.0,07-03,09-16,3.5701692420850937
+1180,SSD,Simpson Manufacturing Co Inc,94.7699966430664,False,2009.0,,10-06,12-20,5.0,5.0,6.0,6.0,10-06,12-20,5.599390961512203
+1181,SIMP,Simply Inc,1.2259999513626099,True,2016.0,,,,,,,,,,
+1182,WINR,Simplicity Esports and Gaming Co,1.6799999475479126,True,2017.0,,,,,,,,,,
+1183,SPG,Simon Property Group Inc,80.7666015625,False,2009.0,,05-20,08-03,8.0,8.0,3.0,3.0,05-20,08-03,5.267451330385306
+1184,SFNC,Simmons First National Corp,20.045000076293945,False,2009.0,,07-08,09-21,5.0,4.0,6.0,7.0,07-02,09-15,2.3269136183431134
+1185,SMGNF,SimiGon Ltd,$0.26 ,True,,No data fetched for symbol SMGNF using YahooDailyReader,,,,,,,,,
+1186,SMAYF,SIMEC Atlantis Energy Ltd,0.2919999957084656,True,2020.0,,,,,,,,,,
+1187,SIMEF,Sime Darby Property Bhd,0.10000000149011612,True,2019.0,,,,,,,,,,
+1188,SDPNF,Sime Darby Plantation Bhd,1.100000023841858,True,2019.0,,,,,,,,,,
+1189,SMEBF,Sime Darby Bhd,0.6000000238418579,False,2009.0,,03-21,06-04,8.0,8.0,3.0,3.0,08-28,11-11,3.693796121526125
+1190,SICRY,SimCorp A/S,$13.16 ,True,,No data fetched for symbol SICRY using YahooDailyReader,,,,,,,,,
+1191,SICRF,SimCorp A/S,115.94999694824219,True,2013.0,,,,,,,,,,
+1192,SIMC,Simclar Inc,0.010999999940395355,False,2009.0,,01-07,03-22,6.0,6.0,5.0,5.0,01-07,03-22,12.995170952680256
+1193,GCHIF,Simavita Ltd,$0.25 ,True,,'Date',,,,,,,,,
+1194,SIMTF,SIM Technology Group Ltd,0.07500000298023224,True,2011.0,,,,,,,,,,
+1195,SLTN,Silverton Energy Inc,0.007000000216066837,True,2013.0,,,,,,,,,,
+1196,SSNT,SilverSun Technologies Inc,2.9600000381469727,True,2012.0,,,,,,,,,,
+1197,SVMN,Silverore Mines Inc,0.2199999988079071,True,2012.0,,,,,,,,,,
+1198,SLVFF,Silverlake Axis Ltd,0.20000000298023224,True,2013.0,,,,,,,,,,
+1199,SVGP,Silvergraph International Inc,$0.18 ,True,,'Date',,,,,,,,,
+1200,SI,Silvergate Capital Corp,30.645000457763672,True,2019.0,,,,,,,,,,
+1201,SVLC,SilverCrest Mines Inc,$0.86 ,True,,'Date',,,,,,,,,
+1202,SILV,SilverCrest Metals Inc,9.149999618530273,True,2018.0,,,,,,,,,,
+1203,SAMG,Silvercrest Asset Management Group Inc,12.5,True,2013.0,,,,,,,,,,
+1204,SVM,Silvercorp Metals Inc,7.090000152587891,True,2017.0,,,,,,,,,,
+1205,SBOW,SilverBow Resources Inc,5.909999847412109,True,2017.0,,,,,,,,,,
+1206,GYRRF,Silver Wolf Exploration Ltd,0.06520000100135803,True,2017.0,,,,,,,,,,
+1207,VIPRF,Silver Viper Minerals Corp,0.31029999256134033,True,2018.0,,,,,,,,,,
+1208,SIVE,Silver Verde May Mining Co,0.019999999552965164,False,2009.0,,08-28,11-11,2.0,2.0,9.0,9.0,08-28,11-11,7.736189206440521
+1209,SLVTF,Silver Tiger Metals Inc,0.3424000144004822,True,2020.0,,,,,,,,,,
+1210,SLSR,Silver Surprize Inc,0.01575000025331974,True,2012.0,,,,,,,,,,
+1211,AGSM,Silver Stream Mining Corp,8.0,True,2012.0,,,,,,,,,,
+1212,SSEBF,Silver Spruce Resources Inc,0.04699999839067459,False,2010.0,,02-27,05-12,2.0,2.0,6.0,6.0,02-27,05-12,-206.80075256427202
+1213,SSNI,Silver Spring Networks Inc,$16.26 ,True,,'Date',,,,,,,,,
+1214,SSPK,Silver Spike Acquisition Corp,10.15999984741211,True,2019.0,,,,,,,,,,
+1215,SILS,Silver Scott Mines Inc,0.10999999940395355,True,2012.0,,,,,,,,,,
+1216,SSRSF,Silver Sands Resources Corp,0.18253999948501587,True,2020.0,,,,,,,,,,
+1217,SLRRF,Silver Range Resources Ltd,0.13699300587177277,True,2011.0,,,,,,,,,,
+1218,SVROF,Silver Predator Corp,0.2540000081062317,True,2011.0,,,,,,,,,,
+1219,SLVRF,Silver One Resources Inc,0.4699999988079071,True,2016.0,,,,,,,,,,
+1220,SVMMF,Silver Mountain Mines Inc,0.2150000035762787,True,2016.0,,,,,,,,,,
+1221,SLVMF,Silver Mines Ltd,0.15000000596046448,True,2020.0,,,,,,,,,,
+1222,SVLKF,Silver Lake Resources Ltd,1.3370000123977661,False,2010.0,,12-20,03-05,4.0,4.0,6.0,6.0,12-20,03-05,13.109465848212393
+1223,SLVH,Silver Hill Mines Inc,$0.05 ,True,,No data fetched for symbol SLVH using YahooDailyReader,,,,,,,,,
+1224,SLGVF,Silver Grant International Holdings Group Ltd,$0.19 ,True,,No data fetched for symbol SLGVF using YahooDailyReader,,,,,,,,,
+1225,SVGAF,Silver Grail Resources Ltd,0.1599999964237213,False,2009.0,,07-06,09-19,5.0,5.0,6.0,6.0,07-06,09-19,32.2594792637831
+1226,SVFL,Silver Falls Bank,$0.01 ,True,,No data fetched for symbol SVFL using YahooDailyReader,,,,,,,,,
+1227,SILEF,Silver Elephant Mining Corp,0.3375000059604645,False,2010.0,,12-14,02-27,2.0,2.0,8.0,8.0,12-14,02-27,10.112565111710207
+1228,SLVDF,Silver Dollar Resources Inc,1.100000023841858,True,2020.0,,,,,,,,,,
+1229,SVBL,Silver Bull Resources Inc,0.5220000147819519,False,2009.0,,06-27,09-10,4.0,4.0,7.0,7.0,06-27,09-10,14.1582017241007
+1230,SBUM,Silver Buckle Mines Inc,0.18000000715255737,False,2009.0,,07-09,09-22,3.0,3.0,8.0,8.0,07-09,09-22,16.33102399777569
+1231,SVBRF,Silver Bear Resources PLC,0.09000000357627869,False,2009.0,,12-27,03-12,7.0,7.0,4.0,4.0,12-27,03-12,19.94377380478961
+1232,SBY,Silver Bay Realty Trust Corp,$21.49 ,True,,'Date',,,,,,,,,
+1233,SLVA,Silvan Industries Inc,$0.01 ,True,,No data fetched for symbol SLVA using YahooDailyReader,,,,,,,,,
+1234,SSLLF,Siltronic AG,107.94999694824219,True,2018.0,,,,,,,,,,
+1235,SILO,SILO Pharma Inc,0.33000001311302185,True,2016.0,,,,,,,,,,
+1236,SLGX,Sillenger Exploration Corp,0.05299999937415123,False,2009.0,,03-04,05-18,5.0,5.0,6.0,6.0,03-04,05-18,11.446824951426127
+1237,SILK,Silk Road Medical Inc,59.78499984741211,True,2019.0,,,,,,,,,,
+1238,SKRJ,Silk Road Entertainment Inc,0.009999999776482582,False,2009.0,,05-03,07-17,0.0,0.0,11.0,11.0,05-03,07-17,4.166666666666667
+1239,SPIL,Siliconware Precision Industries Co Ltd,8.59000015258789,True,2012.0,,,,,,,,,,
+1240,SIMO,Silicon Motion Technology Corp,37.52000045776367,False,2009.0,,03-29,06-12,7.0,6.0,4.0,5.0,03-29,06-12,8.775620097528725
+1241,SLAB,Silicon Laboratories Inc,111.70999908447266,False,2009.0,,10-22,01-05,5.0,5.0,6.0,6.0,10-22,01-05,9.534702599014748
+1242,SGI,Silicon Graphics International Corp,1.3700000047683716,True,2018.0,,,,,,,,,,
+1243,SILC,Silicom Ltd,37.81999969482422,False,2009.0,,08-16,10-30,6.0,6.0,5.0,5.0,08-16,10-30,14.52766557679697
+1244,SLGN,Silgan Holdings Inc,34.599998474121094,False,2009.0,,02-14,04-29,8.0,8.0,3.0,3.0,01-31,04-15,6.416098371434918
+1245,SILXY,Silex Systems Ltd,1.899999976158142,False,2009.0,,06-27,09-10,7.0,7.0,4.0,4.0,06-27,09-10,-1.0352951954092189
+1246,SILXF,Silex Systems Ltd,0.4000000059604645,False,2009.0,,01-21,04-05,4.0,4.0,7.0,7.0,01-21,04-05,-0.5252019545937898
+1247,SLN,Silence Therapeutics PLC,16.700000762939453,True,2020.0,,,,,,,,,,
+1248,SLNCF,Silence Therapeutics PLC,5.800000190734863,True,2012.0,,,,,,,,,,
+1249,SXYAY,Sika AG,26.0,True,2015.0,,,,,,,,,,
+1250,SKFOF,Sika AG,260.0,True,2018.0,,,,,,,,,,
+1251,AWAEF,SIIC Environment Holdings Ltd,$0.15 ,True,,No data fetched for symbol AWAEF using YahooDailyReader,,,,,,,,,
+1252,SHPHF,Sihuan Pharmaceutical Holdings Group Ltd,0.09000000357627869,True,2012.0,,,,,,,,,,
+1253,SIGY,Sigyn Therapeutics Inc,1.2999999523162842,True,2020.0,,,,,,,,,,
+1254,SGTH,SignPath Pharma Inc,$44.72 ,True,,'Date',,,,,,,,,
+1255,SFFYF,Signify NV,41.349998474121094,True,2018.0,,,,,,,,,,
+1256,PHPPY,Signify NV,21.389999389648438,True,2018.0,,,,,,,,,,
+1257,SIG,Signet Jewelers Ltd,28.684999465942383,False,2009.0,,08-26,11-09,4.0,4.0,7.0,7.0,08-26,11-09,14.155522051996849
+1258,SIGN,Signet International Holdings Inc,0.18000000715255737,False,2009.0,,07-14,09-27,2.0,2.0,9.0,9.0,07-14,09-27,28.138336513187905
+1259,SGGTF,Signature Resources Ltd,0.052299998700618744,True,2016.0,,,,,,,,,,
+1260,SEYE,Signature Eyewear Inc,0.004999999888241291,False,2009.0,,03-11,05-25,2.0,2.0,9.0,9.0,03-11,05-25,19.25366235214705
+1261,SGBG,Signature Bank Georgia Sandy Springs,0.8500000238418579,True,2019.0,,,,,,,,,,
+1262,SBNY,Signature Bank,105.74500274658203,False,2009.0,,09-26,12-10,9.0,9.0,2.0,2.0,09-26,12-10,12.15864225362242
+1263,BBAVY,Signature Aviation PLC,13.5600004196167,False,2009.0,,04-03,06-17,7.0,6.0,4.0,5.0,12-20,03-05,3.346552058042348
+1264,BBAVF,Signature Aviation PLC,3.4200000762939453,False,2010.0,,03-12,05-26,7.0,7.0,3.0,3.0,09-01,11-15,0.5602205384590794
+1265,SIGL,Signal Advance Inc,0.2650499939918518,True,2014.0,,,,,,,,,,
+1266,SGMA,Sigmatron International Inc,3.3315999507904053,False,2009.0,,06-13,08-27,6.0,6.0,5.0,5.0,06-13,08-27,5.6904271700114215
+1267,SGRB,Sigmabroadband Co,0.16509999334812164,True,2014.0,,,,,,,,,,
+1269,SGLB,Sigma Labs Inc,2.4100000858306885,False,2010.0,,01-17,04-01,6.0,6.0,4.0,4.0,01-17,04-01,20.979927842134266
+1270,SHTPY,Sigma Healthcare Ltd,$14.01 ,True,,No data fetched for symbol SHTPY using YahooDailyReader,,,,,,,,,
+1271,SGMFF,Sigma Healthcare Ltd,$0.58 ,True,,No data fetched for symbol SGMFF using YahooDailyReader,,,,,,,,,
+1272,SIGM,Sigma Designs Inc,0.28220000863075256,False,2009.0,,02-18,05-03,5.0,4.0,6.0,7.0,05-28,08-11,7.714741911965247
+1273,SGMGF,Sigma Capital Group PLC,$1.33 ,True,,No data fetched for symbol SGMGF using YahooDailyReader,,,,,,,,,
+1274,SIGA,SIGA Technologies Inc,7.630000114440918,False,2009.0,,12-23,03-08,7.0,7.0,4.0,4.0,12-23,03-08,16.27005120430744
+1275,SIIGF,SIG PLC,$3.12 ,True,,'Date',,,,,,,,,
+1276,SIFY,Sify Technologies Ltd,1.0800000429153442,False,2009.0,,05-08,07-22,8.0,8.0,3.0,3.0,05-08,07-22,4.746421789304961
+1277,SIF,SIFCO Industries Inc,3.600100040435791,False,2009.0,,09-29,12-13,6.0,6.0,5.0,5.0,09-29,12-13,5.627332632557214
+1278,SWIR,Sierra Wireless Inc,11.140000343322754,False,2009.0,,11-12,01-26,3.0,3.0,8.0,8.0,11-12,01-26,9.141292178917745
+1279,SVBA,Sierra Vista Bank CA,$5.45 ,True,,'Date',,,,,,,,,
+1280,SRRA,Sierra Oncology Inc,14.79800033569336,True,2015.0,,,,,,,,,,
+1281,SRMC,Sierra Monitor Corp,$3.24 ,True,,No data fetched for symbol SRMC using YahooDailyReader,,,,,,,,,
+1282,SMTS,Sierra Metals Inc,2.995699882507324,False,2009.0,,11-07,01-21,4.0,4.0,7.0,7.0,08-15,10-29,4.343562627961597
+1283,SMDXF,Sierra Madre Developments Inc,0.032600000500679016,True,2013.0,,,,,,,,,,
+1284,SIRR,Sierra Income Corp,0.009999999776482582,True,2020.0,,,,,,,,,,
+1285,SIERF,Sierra Growth Corp,0.10220000147819519,True,2012.0,,,,,,,,,,
+1286,BSRR,Sierra Bancorp,21.969999313354492,False,2009.0,,07-08,09-21,8.0,8.0,3.0,3.0,12-13,02-26,4.922043464664661
+1287,SIEN,Sientra Inc,4.929999828338623,True,2014.0,,,,,,,,,,
+1288,LWSCF,Sienna Senior Living Inc,10.399999618530273,False,2010.0,,11-05,01-19,7.0,6.0,3.0,4.0,11-05,01-19,1.9787134309242504
+1289,SNNAF,Sienna Resources Inc,0.05730000138282776,False,2009.0,,11-08,01-22,7.0,7.0,4.0,4.0,11-08,01-22,21.99408556485217
+1290,SNNAQ,Sienna Biopharmaceuticals Inc,0.006335000041872263,True,2017.0,,,,,,,,,,
+1291,SEMHF,Siemens Healthineers AG,44.27880096435547,True,2018.0,,,,,,,,,,
+1292,SMMNY,Siemens Healthineers AG,22.699899673461914,True,2018.0,,,,,,,,,,
+1293,GCTAY,Siemens Gamesa Renewable Energy SA,6.585000038146973,False,2010.0,,11-29,02-12,8.0,8.0,2.0,2.0,11-29,02-12,8.620135470406076
+1294,GCTAF,Siemens Gamesa Renewable Energy SA,32.75,False,2009.0,,11-27,02-10,8.0,8.0,3.0,3.0,11-27,02-10,2.6591856962715394
+1295,SMEGF,Siemens Energy AG,28.479999542236328,True,2020.0,,,,,,,,,,
+1296,SMAWF,Siemens AG,131.0800018310547,True,2011.0,,,,,,,,,,
+1297,SIEGY,Siemens AG,65.42009735107422,False,2009.0,,03-09,05-23,8.0,5.0,3.0,6.0,03-09,05-23,5.449479424884424
+1298,SEMUF,Siem Industries Inc,19.0,True,2011.0,,,,,,,,,,
+1299,SGFEF,Siegfried Holding AG,508.13800048828125,True,2014.0,,,,,,,,,,
+1300,SIEB,Siebert Financial Corp,3.944000005722046,False,2009.0,,02-24,05-09,4.0,4.0,7.0,7.0,02-24,05-09,5.1077688979368325
+1301,SDRC,Sidney Resources Corp,0.04749999940395355,False,2010.0,,12-24,03-09,6.0,6.0,4.0,4.0,12-24,03-09,23.149686500211306
+1302,SFSA,Sidney Federal Savings & Loan Association,9.0,True,2020.0,,,,,,,,,,
+1303,SDNWY,Siderurgica Venezolana Sivensa SA,$0.05 ,True,,No data fetched for symbol SDNWY using YahooDailyReader,,,,,,,,,
+1304,SEXHF,Sichuan Expressway Co Ltd,0.25,False,2009.0,,08-22,11-05,6.0,6.0,5.0,5.0,08-22,11-05,5.772421827300732
+1305,SBRN,Siberian Natural Gas Corp,$0.01 ,True,,No data fetched for symbol SBRN using YahooDailyReader,,,,,,,,,
+1306,SBYSF,Sibanye Stillwater Ltd,3.4000000953674316,True,2020.0,,,,,,,,,,
+1307,SBGLF,Sibanye Stillwater Ltd,$3.00 ,True,,No data fetched for symbol SBGLF using YahooDailyReader,,,,,,,,,
+1308,SBSW,Sibanye Stillwater Ltd,13.289999961853027,True,2013.0,,,,,,,,,,
+1309,SNNC,Sibannac Inc,0.020400000736117363,True,2014.0,,,,,,,,,,
+1310,SSPUF,Siam Steel Service Center PCL,$1.60 ,True,,No data fetched for symbol SSPUF using YahooDailyReader,,,,,,,,,
+1311,SMKUY,Siam Makro PCL,1.159999966621399,True,2013.0,,,,,,,,,,
+1312,SMKUF,Siam Makro PCL,$1.09 ,True,,No data fetched for symbol SMKUF using YahooDailyReader,,,,,,,,,
+1313,SMKPF,Siam Makro PCL,$17.90 ,True,,'Date',,,,,,,,,
+1314,SCVUF,Siam Cement PCL,11.300000190734863,True,2013.0,,,,,,,,,,
+1315,SCVPY,Siam Cement PCL,12.670000076293945,True,2017.0,,,,,,,,,,
+1316,SCVPF,Siam Cement PCL,11.800000190734863,True,2012.0,,,,,,,,,,
+1317,SEGSY,SIA Engineering Co Ltd,$16.37 ,True,,No data fetched for symbol SEGSY using YahooDailyReader,,,,,,,,,
+1318,SEGSF,SIA Engineering Co Ltd,1.649999976158142,True,2012.0,,,,,,,,,,
+1319,SIBN,SI-BONE Inc,21.6200008392334,True,2018.0,,,,,,,,,,
+1320,SIFI,SI Financial Group Inc,$14.86 ,True,,No data fetched for symbol SIFI using YahooDailyReader,,,,,,,,,
+1321,SSTK,Shutterstock Inc,68.97000122070312,True,2012.0,,,,,,,,,,
+1322,SFLY,Shutterfly Inc,$50.97 ,True,,No data fetched for symbol SFLY using YahooDailyReader,,,,,,,,,
+1323,SSSAF,Shurgard Self Storage SA,43.5,True,2020.0,,,,,,,,,,
+1324,SHUNF,Shunfeng International Clean Energy Ltd,0.014000000432133675,True,2014.0,,,,,,,,,,
+1325,SHTGY,Shun Tak Holdings Ltd,3.9075000286102295,True,2012.0,,,,,,,,,,
+1326,SHTGF,Shun Tak Holdings Ltd,0.3499999940395355,True,2012.0,,,,,,,,,,
+1327,SZUNF,Shun Ho Property Investments Ltd,$0.33 ,True,,No data fetched for symbol SZUNF using YahooDailyReader,,,,,,,,,
+1328,SOLLY,Shui On Land Ltd,7.079999923706055,True,2018.0,,,,,,,,,,
+1329,SOLLF,Shui On Land Ltd,0.1289999932050705,True,2013.0,,,,,,,,,,
+1330,SHUFF,Shufersal Ltd,5.449999809265137,True,2013.0,,,,,,,,,,
+1331,SWEGF,Showa System Engineering Corp,$3.81 ,True,,No data fetched for symbol SWEGF using YahooDailyReader,,,,,,,,,
+1332,SWSKF,Showa Shell Sekiyu KK,22.600000381469727,True,2013.0,,,,,,,,,,
+1333,SHWDY,Showa Denko KK,18.739999771118164,True,2012.0,,,,,,,,,,
+1334,SHWDF,Showa Denko KK,18.639999389648438,True,2012.0,,,,,,,,,,
+1335,SMCLF,Showa Corp,$0.16 ,True,,No data fetched for symbol SMCLF using YahooDailyReader,,,,,,,,,
+1336,FSHYF,Shougang Fushan Resources Group Ltd,0.20509999990463257,True,2020.0,,,,,,,,,,
+1337,SCGEY,Shoucheng Holdings Ltd,$4.19 ,True,,No data fetched for symbol SCGEY using YahooDailyReader,,,,,,,,,
+1338,SSTI,ShotSpotter Inc,31.635000228881836,True,2017.0,,,,,,,,,,
+1339,SHOR,ShoreTel Inc,$7.50 ,True,,'Date',,,,,,,,,
+1340,SHRC,Shore Community Bank Toms River NJ,$16.53 ,True,,No data fetched for symbol SHRC using YahooDailyReader,,,,,,,,,
+1341,SHOCF,Shore Capital Group Ltd,$0.27 ,True,,No data fetched for symbol SHOCF using YahooDailyReader,,,,,,,,,
+1342,SHBI,Shore Bancshares Inc,13.520000457763672,False,2009.0,,11-04,01-18,7.0,7.0,4.0,4.0,11-04,01-18,4.398256187187791
+1343,SRHGF,Shoprite Holdings Ltd,8.960000038146973,True,2012.0,,,,,,,,,,
+1344,SRGHY,Shoprite Holdings Ltd,8.470000267028809,False,2010.0,,01-30,04-14,4.0,4.0,6.0,6.0,01-30,04-14,6.50278294702292
+1345,SCPAF,Shopping Centres Australasia Property Group,1.5700000524520874,True,2013.0,,,,,,,,,,
+1346,SHOP,Shopify Inc,967.5499877929688,True,2015.0,,,,,,,,,,
+1347,SAEYY,Shop Apotheke Europe NV,17.496000289916992,True,2020.0,,,,,,,,,,
+1348,SNHO,Shonghoya Intl Group Inc,2,True,2020.0,,,,,,,,,,
+1349,SCVL,Shoe Carnival Inc,36.4900016784668,False,2009.0,,08-02,10-16,4.0,4.0,7.0,7.0,10-19,01-02,8.268192521228041
+1350,SWAV,ShockWave Medical Inc,96.1500015258789,True,2019.0,,,,,,,,,,
+1351,SHPNF,Shoal Point Energy Ltd,0.07000000029802322,True,2018.0,,,,,,,,,,
+1352,SBHCF,SHO-BOND Holdings Co Ltd,$69.00 ,True,,No data fetched for symbol SBHCF using YahooDailyReader,,,,,,,,,
+1353,SMDCY,SHL Telemedicine Ltd,$7.52 ,True,,No data fetched for symbol SMDCY using YahooDailyReader,,,,,,,,,
+1354,SMDCF,SHL Telemedicine Ltd,8.300000190734863,True,2016.0,,,,,,,,,,
+1355,SZKBF,Shizuoka Bank Ltd,6.800000190734863,True,2013.0,,,,,,,,,,
+1356,SHZUY,Shizuoka Bank Ltd,74.7300033569336,False,2009.0,,08-22,11-05,1.0,1.0,10.0,10.0,08-22,11-05,6.431964108293344
+1357,SSDOY,Shiseido Co Ltd,69.20050048828125,False,2009.0,,04-11,06-25,7.0,7.0,4.0,4.0,04-11,06-25,8.358521713112196
+1358,SSDOF,Shiseido Co Ltd,69.7249984741211,True,2012.0,,,,,,,,,,
+1359,SHPGF,Shire PLC,$63.00 ,True,,No data fetched for symbol SHPGF using YahooDailyReader,,,,,,,,,
+1360,SHPG,Shire PLC,179.1999969482422,True,2012.0,,,,,,,,,,
+1361,SHHPF,Ship Healthcare Holdings Co Ltd,$29.40 ,True,,No data fetched for symbol SHHPF using YahooDailyReader,,,,,,,,,
+1362,SGIOY,Shionogi & Co Ltd,13.255999565124512,True,2015.0,,,,,,,,,,
+1363,SGIOF,Shionogi & Co Ltd,54.970001220703125,True,2018.0,,,,,,,,,,
+1364,SKLKY,Shinsei Bank Ltd,2.4790000915527344,False,2009.0,,02-28,05-13,6.0,6.0,5.0,5.0,02-28,05-13,7.304517113936093
+1365,SKLKF,Shinsei Bank Ltd,13.0600004196167,False,2009.0,,02-15,04-30,7.0,7.0,4.0,4.0,02-12,04-27,6.499812024840812
+1366,SHIOF,Shinoken Group Co Ltd,11.425000190734863,True,2020.0,,,,,,,,,,
+1367,SHMYF,ShinMaywa Industries Ltd,$4.50 ,True,,No data fetched for symbol SHMYF using YahooDailyReader,,,,,,,,,
+1368,SKSJF,Shinko Shoji Co Ltd,8.380000114440918,True,2013.0,,,,,,,,,,
+1369,SHEGF,Shinko Electric Industries Co Ltd,$6.49 ,True,,No data fetched for symbol SHEGF using YahooDailyReader,,,,,,,,,
+1370,SKCBY,Shinkin Central Bank,9.8100004196167,True,2012.0,,,,,,,,,,
+1371,SHG,Shinhan Financial Group Co Ltd,30.06999969482422,False,2009.0,,09-06,11-20,6.0,6.0,5.0,5.0,09-06,11-20,3.6157821679430655
+1372,UECN,Shiner International Inc,0.006200000178068876,False,2009.0,,07-21,10-04,4.0,4.0,7.0,7.0,07-21,10-04,7.4751509397977
+1373,TYHT,Shineco Inc,2.9800000190734863,True,2016.0,,,,,,,,,,
+1374,PAUFF,Shine Minerals Corp,0.08150000125169754,False,2009.0,,12-30,03-15,7.0,7.0,4.0,4.0,12-30,03-15,10.017946576656387
+1375,SETUF,Shin-Etsu Polymer Co Ltd,$3.41 ,True,,No data fetched for symbol SETUF using YahooDailyReader,,,,,,,,,
+1376,SHECY,Shin-Etsu Chemical Co Ltd,36.13999938964844,False,2009.0,,09-12,11-26,7.0,7.0,4.0,4.0,10-26,01-09,2.062181295245741
+1377,SHECF,Shin-Etsu Chemical Co Ltd,145.9499969482422,False,2010.0,,09-01,11-15,6.0,6.0,4.0,4.0,10-24,01-07,3.614468729465907
+1378,SHMUY,Shimizu Corp,30.600000381469727,True,2015.0,,,,,,,,,,
+1379,SHMUF,Shimizu Corp,8.399999618530273,False,2009.0,,08-10,10-24,4.0,4.0,7.0,7.0,05-29,08-12,2.986992113417174
+1380,SIOPF,Shimao Group Holdings Ltd,4.769999980926514,False,2009.0,,05-18,08-01,3.0,3.0,8.0,8.0,07-05,09-18,1.9849157834240887
+1381,SHMAY,Shimao Group Holdings Ltd,41.79999923706055,True,2015.0,,,,,,,,,,
+1382,SMNNY,Shimano Inc,22.489999771118164,True,2015.0,,,,,,,,,,
+1383,SHMDF,Shimano Inc,225.0,True,2011.0,,,,,,,,,,
+1384,SHMZF,Shimadzu Corp,28.25,True,2014.0,,,,,,,,,,
+1385,SHMHF,Shimachu Co Ltd,27.100000381469727,True,2019.0,,,,,,,,,,
+1386,SHSMF,Shima Seiki Mfg Ltd,16.0,True,2017.0,,,,,,,,,,
+1387,SHLOQ,Shiloh Industries Inc,0.07999999821186066,True,2020.0,,,,,,,,,,
+1388,SHEKF,Shikoku Electric Power Co Inc,$9.72 ,True,,No data fetched for symbol SHEKF using YahooDailyReader,,,,,,,,,
+1389,PIXY,ShiftPixy Inc,2.4700000286102295,True,2017.0,,,,,,,,,,
+1390,FOUR,Shift4 Payments Inc,56.099998474121094,True,2020.0,,,,,,,,,,
+1391,SFT,Shift Technologies Inc,6.715000152587891,True,2020.0,,,,,,,,,,
+1392,SHIEF,Shield Therapeutics PLC,1.334149956703186,True,2019.0,,,,,,,,,,
+1393,TSHMY,Shibaura Machine Co Ltd,11.640000343322754,True,2016.0,,,,,,,,,,
+1394,TSHMF,Shibaura Machine Co Ltd,$4.25 ,True,,No data fetched for symbol TSHMF using YahooDailyReader,,,,,,,,,
+1395,SHCC,Shi Corp,0.23000000417232513,False,2009.0,,03-30,06-13,1.0,1.0,10.0,10.0,03-30,06-13,17.143024941788813
+1396,SHW,Sherwin-Williams Co,728.72998046875,False,2009.0,,03-23,06-06,8.0,8.0,3.0,3.0,03-24,06-07,7.386493455224549
+1397,SHERF,Sherritt International Corp,0.21050000190734863,False,2009.0,,12-15,02-28,3.0,3.0,8.0,8.0,12-15,02-28,3.1470482524611607
+1398,SHZHY,Shenzhou International Group Holdings Ltd,18.31999969482422,True,2017.0,,,,,,,,,,
+1399,SZHIF,Shenzhou International Group Holdings Ltd,18.40999984741211,True,2012.0,,,,,,,,,,
+1400,ZRMG,Shenzhen-ZhongRong Morgan Investment Holding Group,0.009999999776482582,True,2017.0,,,,,,,,,,
+1401,SYDW,Shenzhen Yidian Double Way of Innovation Culture M,$0.07 ,True,,'Date',,,,,,,,,
+1402,SZNTY,Shenzhen Investment Ltd,$26.01 ,True,,No data fetched for symbol SZNTY using YahooDailyReader,,,,,,,,,
+1403,SZNTF,Shenzhen Investment Ltd,0.34950000047683716,True,2013.0,,,,,,,,,,
+1404,SIHBY,Shenzhen Investment Holdings Bay Area Development,3.200000047683716,False,2009.0,,06-24,09-07,5.0,4.0,6.0,7.0,06-21,09-04,7.702930372366175
+1405,HHILF,Shenzhen Investment Holdings Bay Area Development,0.2750000059604645,True,2012.0,,,,,,,,,,
+1406,SZIHF,Shenzhen International Holdings Ltd,1.5199999809265137,True,2017.0,,,,,,,,,,
+1407,SHZNY,Shenzhen Expressway Co Ltd,47.97999954223633,True,2012.0,,,,,,,,,,
+1408,SHZNF,Shenzhen Expressway Co Ltd,1.0099999904632568,False,2010.0,,05-16,07-30,5.0,5.0,5.0,5.0,08-14,10-28,3.361812290591564
+1409,SZHNF,Shenzhen China Bicycle Co Holding Ltd,$0.52 ,True,,'Date',,,,,,,,,
+1410,SYGUF,Shenyang Public Utility Holdings Co Ltd,$0.01 ,True,,No data fetched for symbol SYGUF using YahooDailyReader,,,,,,,,,
+1411,SYWGF,Shenwan Hongyuan (HK) Ltd,$0.81 ,True,,No data fetched for symbol SYWGF using YahooDailyReader,,,,,,,,,
+1412,SHNL,Shentang International Inc,0.061000000685453415,True,2012.0,,,,,,,,,,
+1413,SHGXY,Shenguan Holdings Group Ltd,0.5163000226020813,True,2012.0,,,,,,,,,,
+1414,SGTI,Shengtai Pharmaceutical Inc,0.029999999329447746,False,2009.0,,02-21,05-06,4.0,4.0,7.0,7.0,02-21,05-06,7.061438807393035
+1415,SSDT,Shengshi Elevator International Holding Group Inc,0.6000000238418579,True,2019.0,,,,,,,,,,
+1416,VALV,Shengkai Innovations Inc,0.005200000014156103,False,2009.0,,12-06,02-19,3.0,3.0,8.0,8.0,12-06,02-19,5.566845385475017
+1417,SDWL,Shengda Network Technology Inc,$7.50 ,True,,No data fetched for symbol SDWL using YahooDailyReader,,,,,,,,,
+1418,SHEN,Shenandoah Telecommunications Co,45.11000061035156,False,2009.0,,02-01,04-16,4.0,4.0,7.0,7.0,02-01,04-16,9.131285135179645
+1419,SHLX,Shell Midstream Partners LP,9.880000114440918,True,2014.0,,,,,,,,,,
+1420,SHLLF,Shelf Drilling Ltd,0.22660000622272491,True,2020.0,,,,,,,,,,
+1421,SVSO,SheerVision Inc,0.03750000149011612,False,2009.0,,05-19,08-02,5.0,5.0,6.0,6.0,05-19,08-02,21.819094213334736
+1422,SAWLF,Shawcor Ltd,2.369999885559082,False,2010.0,,01-30,04-14,5.0,5.0,5.0,5.0,01-30,04-14,-51.25349685246479
+1423,SJRWF,Shaw Communications Inc,18.450000762939453,True,2017.0,,,,,,,,,,
+1424,SJR,Shaw Communications Inc,17.68000030517578,False,2009.0,,05-04,07-18,5.0,5.0,6.0,6.0,05-18,08-01,4.1823251868114335
+1425,STTK,Shattuck Labs Inc,30.15999984741211,True,2020.0,,,,,,,,,,
+1426,SHSP,SharpSpring Inc,16.18000030517578,True,2011.0,,,,,,,,,,
+1427,SMED,Sharps Compliance Corp,8.4399995803833,False,2009.0,,07-15,09-28,7.0,7.0,4.0,4.0,07-15,09-28,8.394800528434192
+1428,SHGP,Sharpe Resources Corp,0.009399999864399433,True,2012.0,,,,,,,,,,
+1429,SHCAY,Sharp Corp,3.0999999046325684,False,2009.0,,11-12,01-26,3.0,3.0,8.0,8.0,11-12,01-26,6.47219975022032
+1430,SHCAF,Sharp Corp,12.482000350952148,True,2012.0,,,,,,,,,,
+1431,SHRG,Sharing Services Global Corp,0.22100000083446503,True,2016.0,,,,,,,,,,
+1432,SEII,Sharing Economy International Inc,0.11100000143051147,False,2009.0,,11-30,02-13,5.0,5.0,6.0,6.0,11-30,02-13,-7.873236621671543
+1433,INTWF,Sharc International Systems Inc,0.2513999938964844,True,2016.0,,,,,,,,,,
+1434,SAAGF,Shanta Gold Ltd,0.22499999403953552,True,2018.0,,,,,,,,,,
+1435,SRBT,Shanrong Biotechnology Corp,0.07800000160932541,True,2018.0,,,,,,,,,,
+1436,SHALY,Shangri-La Asia Ltd,19.010000228881836,False,2009.0,,09-10,11-24,6.0,6.0,5.0,5.0,09-10,11-24,6.686747975708189
+1437,SHALF,Shangri-La Asia Ltd,0.7857000231742859,True,2012.0,,,,,,,,,,
+1438,SHFGY,Shanghai Shibei Hi-Tech Co Ltd,$1.06 ,True,,'Date',,,,,,,,,
+1439,SHPMY,Shanghai Pharmaceuticals Holding Co Ltd,8.569999694824219,True,2013.0,,,,,,,,,,
+1440,SHPMF,Shanghai Pharmaceuticals Holding Co Ltd,1.7200000286102295,True,2013.0,,,,,,,,,,
+1441,SJJIF,Shanghai Jin Jiang Capital Co Ltd,$0.14 ,True,,No data fetched for symbol SJJIF using YahooDailyReader,,,,,,,,,
+1442,SIUDF,Shanghai Industrial Urban Development Group Ltd,0.05999999865889549,True,2014.0,,,,,,,,,,
+1443,SGHIY,Shanghai Industrial Holdings Ltd,14.300000190734863,True,2012.0,,,,,,,,,,
+1444,SGHIF,Shanghai Industrial Holdings Ltd,1.5210000276565552,True,2012.0,,,,,,,,,,
+1445,DCHLF,Shanghai Huayi Group Corp Ltd,$0.76 ,True,,No data fetched for symbol DCHLF using YahooDailyReader,,,,,,,,,
+1446,DCHLY,Shanghai Huayi Group Corp Ltd,$1.33 ,True,,No data fetched for symbol DCHLY using YahooDailyReader,,,,,,,,,
+1447,SFZGF,Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co Lt,$0.47 ,True,,No data fetched for symbol SFZGF using YahooDailyReader,,,,,,,,,
+1448,SFDMY,Shanghai Fudan Microelectronics Group Co Ltd,25.5,True,2014.0,,,,,,,,,,
+1449,SFOSF,Shanghai Fosun Pharmaceutical (Group) Co Ltd,4.239999771118164,True,2014.0,,,,,,,,,,
+1450,SIELY,Shanghai Electric Group Co Ltd,5.960000038146973,True,2012.0,,,,,,,,,,
+1451,SIELF,Shanghai Electric Group Co Ltd,$0.35 ,True,,No data fetched for symbol SIELF using YahooDailyReader,,,,,,,,,
+1452,SGHDF,Shanghai Diesel Engine Co Ltd,$0.76 ,True,,No data fetched for symbol SGHDF using YahooDailyReader,,,,,,,,,
+1453,SLLBY,Shanghai Chlor-alkali Chemical Co Ltd,6.0,True,2012.0,,,,,,,,,,
+1454,SLLBF,Shanghai Chlor-alkali Chemical Co Ltd,$0.47 ,True,,'Date',,,,,,,,,
+1455,SHNGF,Shang Properties Inc,$0.05 ,True,,No data fetched for symbol SHNGF using YahooDailyReader,,,,,,,,,
+1456,SHWGY,Shandong Weigao Group Medical Polymer Co Ltd,8.779999732971191,True,2012.0,,,,,,,,,,
+1457,SHWGF,Shandong Weigao Group Medical Polymer Co Ltd,2.450000047683716,False,2010.0,,05-05,07-19,1.0,1.0,9.0,9.0,05-05,07-19,9.712697725007358
+1458,SHANF,Shandong Molong Petroleum Machinery Co Ltd,0.09000000357627869,False,2009.0,,02-09,04-24,6.0,6.0,5.0,5.0,02-09,04-24,6.226817670347863
+1459,SLUXY,Shandong Luoxin Pharmaceutical Group Stock Co Ltd,11.0,True,2012.0,,,,,,,,,,
+1460,SLUXF,Shandong Luoxin Pharmaceutical Group Stock Co Ltd,2.109999895095825,True,2012.0,,,,,,,,,,
+1461,SDGMF,Shandong Gold Mining Co Ltd,2.5,True,2020.0,,,,,,,,,,
+1462,GAME,Shanda Games Ltd,$6.98 ,True,,'Date',,,,,,,,,
+1463,SRSEF,Shamrock Enterprises Inc,$0.04 ,True,,No data fetched for symbol SRSEF using YahooDailyReader,,,,,,,,,
+1464,SHASF,ShaMaran Petroleum Corp,0.019999999552965164,False,2009.0,,05-20,08-03,2.0,2.0,9.0,9.0,05-20,08-03,8.815796147345017
+1465,SKLEF,Shaklee Global Group Inc,$7.65 ,True,,'Date',,,,,,,,,
+1466,SHYYF,Shakey's Pizza Asia Ventures Inc,0.1599999964237213,True,2019.0,,,,,,,,,,
+1467,SHAK,Shake Shack Inc,78.37999725341797,True,2015.0,,,,,,,,,,
+1468,SRRPF,Shagrir Group Vehicle Services Ltd,3.5999999046325684,True,2016.0,,,,,,,,,,
+1469,SHABF,Shaftesbury PLC,5.800000190734863,True,2016.0,,,,,,,,,,
+1470,SHDH,Shades Holdings Inc,$0.02 ,True,,No data fetched for symbol SHDH using YahooDailyReader,,,,,,,,,
+1471,SGXRF,SGX Resources Inc,$0.01 ,True,,No data fetched for symbol SGXRF using YahooDailyReader,,,,,,,,,
+1472,SGSOY,SGS AG,29.02750015258789,False,2009.0,,02-07,04-22,8.0,8.0,3.0,3.0,11-16,01-30,3.9255473710342152
+1473,SGSOF,SGS AG,2527.81005859375,True,2012.0,,,,,,,,,,
+1474,SGOC,SGOCO Group Ltd,1.149999976158142,False,2009.0,,04-16,06-30,4.0,4.0,7.0,7.0,04-16,06-30,7.404959327562664
+1475,SGLFF,SGL Carbon SE,4.179999828338623,False,2009.0,,08-24,11-07,7.0,7.0,4.0,4.0,08-24,11-07,-3.588625529631462
+1476,SGDH,SGD Holdings Ltd,0.027000000700354576,False,2009.0,,03-01,05-15,5.0,5.0,6.0,6.0,03-01,05-15,8.191580377405234
+1477,SGBX,SG Blocks Inc,2.8499999046325684,True,2017.0,,,,,,,,,,
+1478,SGBXQ,SG Blocks Inc,$0.01 ,True,,'Date',,,,,,,,,
+1479,SFXEQ,SFX Entertainment Inc,$0.01 ,True,,'Date',,,,,,,,,
+1480,SFBI,SFSB Inc,0.0213600005954504,True,2012.0,,,,,,,,,,
+1481,SFSLF,SFS Group AG,91.4000015258789,True,2017.0,,,,,,,,,,
+1482,NUMCF,SFR Group SA,$39.42 ,True,,'Date',,,,,,,,,
+1483,SFL,SFL Corp Ltd,7.03000020980835,False,2009.0,,07-07,09-20,5.0,5.0,6.0,6.0,03-24,06-07,8.258402271719655
+1484,SSMFF,SFC Energy AG,13.699999809265137,True,2012.0,,,,,,,,,,
+1485,SFBK,SFB Bancorp Inc,43.45000076293945,True,2012.0,,,,,,,,,,
+1486,SEZNL,Sezzle Inc,4.400000095367432,True,2020.0,,,,,,,,,,
+1487,SYEV,Seychelle Environmental Technologies Inc,0.05950000137090683,False,2009.0,,01-29,04-13,8.0,8.0,3.0,3.0,01-29,04-13,12.660665815035024
+1488,SVRH,Sevier County Bancshares Inc,$15.36 ,True,,No data fetched for symbol SVRH using YahooDailyReader,,,,,,,,,
+1489,SVJTY,Severstal PAO,12.769000053405762,True,2013.0,,,,,,,,,,
+1490,STBWY,Seversky Tube Works PJSC,100.0,True,2018.0,,,,,,,,,,
+1491,SVTRF,Severn Trent PLC,32.4900016784668,False,2010.0,,03-27,06-10,6.0,6.0,4.0,4.0,03-27,06-10,7.327219339865621
+1492,STRNY,Severn Trent PLC,33.150001525878906,False,2010.0,,04-04,06-18,5.0,5.0,5.0,5.0,03-30,06-13,6.5091458328876355
+1493,SVBI,Severn Bancorp Inc,6.800000190734863,False,2009.0,,12-22,03-07,7.0,7.0,4.0,4.0,12-22,03-07,12.722315962300046
+1494,SVNT,Seventy Seven Energy Inc,$40.05 ,True,,'Date',,,,,,,,,
+1495,WANHF,Seven West Media Ltd,$0.40 ,True,,No data fetched for symbol WANHF using YahooDailyReader,,,,,,,,,
+1496,SVJJ,Seven J Stock Farm Inc,3100.0,True,2018.0,,,,,,,,,,
+1497,SVNWF,Seven Group Holdings Ltd,$13.68 ,True,,No data fetched for symbol SVNWF using YahooDailyReader,,,,,,,,,
+1498,SVRGF,Seven Generations Energy Ltd,3.7660000324249268,True,2014.0,,,,,,,,,,
+1499,SVNBY,Seven Bank Ltd,22.43000030517578,True,2012.0,,,,,,,,,,
+1500,SEBNF,Seven Bank Ltd,2.5299999713897705,True,2012.0,,,,,,,,,,
+1501,ACEXF,Seven Aces Ltd,2.059299945831299,True,2017.0,,,,,,,,,,
+1502,SVNDY,Seven & i Holdings Co Ltd,15.993499755859375,False,2009.0,,09-12,11-26,4.0,5.0,7.0,6.0,03-18,06-01,5.027965174257248
+1503,SVNDF,Seven & i Holdings Co Ltd,32.5,False,2009.0,,08-01,10-15,6.0,7.0,5.0,4.0,03-19,06-02,6.384832166978142
+1504,SEV,Sevcon Inc,$21.97 ,True,,'Date',,,,,,,,,
+1505,SETO,SETO Holdings Inc,0.017999999225139618,False,2009.0,,06-06,08-20,6.0,6.0,5.0,5.0,06-06,08-20,11.824658754517932
+1506,SETC,Setech Inc,$0.50 ,True,,'Date',,,,,,,,,
+1507,SESN,Sesen Bio Inc,1.1749999523162842,True,2014.0,,,,,,,,,,
+1508,SRBEF,SES-imagotag SA,29.700000762939453,True,2020.0,,,,,,,,,,
+1509,SESI,SES Solar Inc,0.007400000002235174,False,2009.0,,12-10,02-23,7.0,7.0,4.0,4.0,12-10,02-23,26.839549966129628
+1510,SGBAF,SES SA,9.670000076293945,False,2009.0,,03-07,05-21,4.0,4.0,7.0,7.0,08-08,10-22,0.4643063294992909
+1511,SVT,Servotronics Inc,7.310500144958496,False,2009.0,,06-13,08-27,5.0,5.0,6.0,6.0,06-13,08-27,8.176451841897157
+1512,SFBS,Servisfirst Bancshares Inc,38.400001525878906,True,2014.0,,,,,,,,,,
+1513,SVCJF,Servicios Corporativos Javer SAPI de CV,$0.63 ,True,,No data fetched for symbol SVCJF using YahooDailyReader,,,,,,,,,
+1514,SREV,ServiceSource International Inc,1.3799999952316284,True,2011.0,,,,,,,,,,
+1515,NOW,ServiceNow Inc,514.77001953125,True,2012.0,,,,,,,,,,
+1516,SVC,Service Properties Trust,11.46500015258789,False,2009.0,,03-06,05-20,7.0,5.0,4.0,6.0,11-12,01-26,5.17983943091941
+1517,SCI,Service Corp International,48.5099983215332,False,2009.0,,05-22,08-05,9.0,9.0,2.0,2.0,05-22,08-05,6.7706027903444586
+1518,SVLQF,Servelec Group PLC,$3.45 ,True,,No data fetched for symbol SVLQF using YahooDailyReader,,,,,,,,,
+1519,MIRXF,Serrano Resources Ltd,0.042830001562833786,True,2013.0,,,,,,,,,,
+1520,SEOVF,Sernova Corp,0.22200000286102295,False,2009.0,,12-26,03-11,5.0,5.0,6.0,6.0,12-26,03-11,7.840672107328459
+1521,SERKF,Serko Ltd,$2.96 ,True,,No data fetched for symbol SERKF using YahooDailyReader,,,,,,,,,
+1522,SRG,Seritage Growth Properties,15.604999542236328,True,2015.0,,,,,,,,,,
+1523,SNUYF,Serinus Energy PLC,0.029999999329447746,True,2014.0,,,,,,,,,,
+1524,SQZZF,Serica Energy PLC,1.25,False,2009.0,,02-16,05-01,5.0,5.0,6.0,6.0,02-16,05-01,23.082753444988068
+1525,SAOGF,Seria Co Ltd,38.5,True,2019.0,,,,,,,,,,
+1526,MCRB,Seres Therapeutics Inc,32.56829833984375,True,2015.0,,,,,,,,,,
+1527,SGRNF,Serengeti Resources Inc,0.23000000417232513,False,2009.0,,12-21,03-06,7.0,7.0,4.0,4.0,12-21,03-06,27.074577965229537
+1528,SECCF,Serco Group PLC,1.565000057220459,True,2012.0,,,,,,,,,,
+1529,SCGPY,Serco Group PLC,1.7599999904632568,False,2010.0,,02-12,04-27,6.0,6.0,4.0,4.0,02-12,04-27,-2.969296517648485
+1530,SRBIF,Serabi Gold PLC,1.149999976158142,True,2013.0,,,,,,,,,,
+1531,SQBG,Sequential Brands Group Inc,9.020000457763672,False,2009.0,,01-16,03-31,6.0,6.0,5.0,5.0,01-16,03-31,4.610276458361779
+1532,SQNM,Sequenom Inc,$2.39 ,True,,'Date',,,,,,,,,
+1533,SQNS,Sequans Communications SA,4.228899955749512,True,2011.0,,,,,,,,,,
+1534,SPIDY,Septeni Holdings Co Ltd,$1.60 ,True,,No data fetched for symbol SPIDY using YahooDailyReader,,,,,,,,,
+1535,SNZZF,Senzime AB,2.700000047683716,True,2017.0,,,,,,,,,,
+1536,SZGEF,SenzaGen AB,1.600000023841858,True,2019.0,,,,,,,,,,
+1537,SVCTF,Senvest Capital Inc,115.95999908447266,True,2012.0,,,,,,,,,,
+1538,SENI,Sentinel Security Life Insurance Co,$62.00 ,True,,'Date',,,,,,,,,
+1539,SNLRF,Sentinel Resources Corp,0.3765000104904175,True,2020.0,,,,,,,,,,
+1540,STNL,Sentinel Energy Services Inc,$10.31 ,True,,No data fetched for symbol STNL using YahooDailyReader,,,,,,,,,
+1541,SDTC,Sentaida Tire Co Ltd,0.17219999432563782,True,2012.0,,,,,,,,,,
+1542,SEFCF,Sensys Gatso Group AB,$0.14 ,True,,No data fetched for symbol SEFCF using YahooDailyReader,,,,,,,,,
+1543,SSYNF,Sensyne Health PLC,0.9511500000953674,True,2020.0,,,,,,,,,,
+1544,SRTSU,Sensus Healthcare Inc,$6.45 ,True,,'Date',,,,,,,,,
+1545,SRTS,Sensus Healthcare Inc,2.7300000190734863,True,2016.0,,,,,,,,,,
+1546,SXT,Sensient Technologies Corp,69.3499984741211,False,2009.0,,05-03,07-17,6.0,6.0,5.0,5.0,05-03,07-17,2.7605919924366407
+1547,SENFF,Sensera Ltd,0.04699999839067459,True,2018.0,,,,,,,,,,
+1548,SENS,Senseonics Holdings Inc,0.37369999289512634,True,2015.0,,,,,,,,,,
+1549,SNNSF,SenSen Networks Ltd,0.07500000298023224,True,2017.0,,,,,,,,,,
+1550,SNSGF,Sense Technologies Inc,0.2150000035762787,False,2009.0,,09-13,11-27,4.0,4.0,7.0,7.0,09-13,11-27,15.527408656002445
+1551,ST,Sensata Technologies Holding PLC,47.720001220703125,False,2010.0,,09-25,12-09,8.0,8.0,2.0,2.0,09-25,12-09,6.27097829667843
+1552,SNMX,Senomyx Inc,1.4900000095367432,True,2012.0,,,,,,,,,,
+1553,SNNJF,Sennen Potash Corp,0.3100999891757965,False,2009.0,,03-22,06-05,5.0,5.0,6.0,6.0,03-22,06-05,18.64441230156805
+1554,AIHS,Senmiao Technology Ltd,1.0750000476837158,True,2018.0,,,,,,,,,,
+1555,SNIRF,Senior PLC,0.5720000267028809,True,2013.0,,,,,,,,,,
+1556,VPTOF,Senex Energy Ltd,0.15309999883174896,False,2010.0,,09-24,12-08,4.0,4.0,6.0,6.0,09-24,12-08,-5.407601046740918
+1557,SXYEY,Senex Energy Ltd,$2.08 ,True,,No data fetched for symbol SXYEY using YahooDailyReader,,,,,,,,,
+1558,SNESF,Senetas Corp Ltd,0.06499999761581421,True,2017.0,,,,,,,,,,
+1559,SNES,SenesTech Inc,1.399999976158142,True,2016.0,,,,,,,,,,
+1560,SCAY,Seneca-cayuga Bancorp Inc,9.800000190734863,False,2009.0,,12-26,03-11,9.0,9.0,2.0,2.0,12-26,03-11,10.002782923904574
+1561,SENEB,Seneca Foods Corp,38.08000183105469,False,2009.0,,11-23,02-06,6.0,6.0,5.0,5.0,11-23,02-06,5.537566704696013
+1562,SENEA,Seneca Foods Corp,40.54999923706055,False,2009.0,,11-12,01-26,6.0,6.0,5.0,5.0,11-12,01-26,5.9666148686230285
+1563,SNNF,Seneca Financial Corp,7.519999980926514,True,2017.0,,,,,,,,,,
+1564,SNCA,Seneca Biopharma Inc,0.60589998960495,False,2009.0,,12-23,03-08,6.0,6.0,5.0,5.0,12-23,03-08,7.011729423424523
+1565,SEND,SendGrid Inc,54.08000183105469,True,2017.0,,,,,,,,,,
+1566,SMTC,Semtech Corp,67.79910278320312,False,2009.0,,01-04,03-19,10.0,10.0,1.0,1.0,01-04,03-19,4.469991502048853
+1567,SRE,Sempra Energy,129.9687042236328,False,2009.0,,08-27,11-10,8.0,8.0,3.0,3.0,05-06,07-20,3.8718461249582607
+1568,SEIGY,Semperit AG Holding,3.009999990463257,True,2016.0,,,,,,,,,,
+1569,SEIGF,Semperit AG Holding,11.619999885559082,True,2012.0,,,,,,,,,,
+1570,SMLR,Semler Scientific Inc,77.0,True,2014.0,,,,,,,,,,
+1571,LEDS,SemiLEDs Corp,3.049999952316284,False,2010.0,,10-31,01-14,5.0,5.0,5.0,5.0,10-31,01-14,1.010761208771501
+1572,SIUIF,Semiconductor Manufacturing International Corp,2.9600000381469727,True,2020.0,,,,,,,,,,
+1573,SMICY,Semiconductor Manufacturing International Corp,14.84000015258789,True,2019.0,,,,,,,,,,
+1574,SMBMY,SembCorp Marine Ltd,0.9100000262260437,True,2012.0,,,,,,,,,,
+1575,SMBMF,SembCorp Marine Ltd,0.10019999742507935,False,2009.0,,02-13,04-28,5.0,5.0,6.0,6.0,02-10,04-25,1.5137883718723952
+1576,SCRPF,Sembcorp Industries Ltd,0.8795999884605408,True,2012.0,,,,,,,,,,
+1577,SEMFF,Semafo Inc,3.4700000286102295,False,2010.0,,05-22,08-05,4.0,4.0,6.0,6.0,05-22,08-05,3.095861990623446
+1578,SVGGF,Selvaag Bolig ASA,$3.73 ,True,,No data fetched for symbol SVGGF using YahooDailyReader,,,,,,,,,
+1579,SLS,SELLAS Life Sciences Group Inc,2.8719000816345215,False,2009.0,,03-24,06-07,5.0,5.0,6.0,6.0,03-24,06-07,-3.3582430144649136
+1580,SLQT,SelectQuote Inc,21.264999389648438,True,2020.0,,,,,,,,,,
+1581,SIGI,Selective Insurance Group Inc,60.540000915527344,False,2009.0,,09-25,12-09,7.0,7.0,4.0,4.0,09-25,12-09,7.9259394161457015
+1582,SELB,Selecta Biosciences Inc,3.119999885559082,True,2016.0,,,,,,,,,,
+1583,SLSDF,Select Sands Corp,0.014000000432133675,False,2009.0,,09-29,12-13,7.0,7.0,4.0,4.0,09-29,12-13,-0.05627663618380533
+1584,SEM,Select Medical Holdings Corp,24.649999618530273,False,2009.0,,03-14,05-28,3.0,3.0,8.0,8.0,03-14,05-28,7.346714307052825
+1585,SIC,Select Interior Concepts Inc,7.400000095367432,True,2018.0,,,,,,,,,,
+1586,SIR,Select Income REIT,7.360000133514404,True,2012.0,,,,,,,,,,
+1587,SHVTF,Select Harvests Ltd,4.349999904632568,False,2010.0,,03-02,05-16,5.0,4.0,5.0,6.0,02-27,05-12,11.175448312233089
+1588,WTTR,Select Energy Services Inc,4.239999771118164,True,2017.0,,,,,,,,,,
+1589,SLCT,Select Bancorp Inc,9.350099563598633,False,2009.0,,02-25,05-10,5.0,5.0,6.0,6.0,02-25,05-10,4.789756538255513
+1590,SKCZF,Selcuk Ecza Deposu Ticaret ve Sanayi AS,1.3164000511169434,True,2019.0,,,,,,,,,,
+1591,SKHSY,Sekisui House Ltd,18.31999969482422,False,2009.0,,10-26,01-09,8.0,7.0,3.0,4.0,10-26,01-09,5.080597009011856
+1592,SKHSF,Sekisui House Ltd,18.54400062561035,True,2013.0,,,,,,,,,,
+1593,SKSUY,Sekisui Chemical Co Ltd,80.69999694824219,True,2013.0,,,,,,,,,,
+1594,SKSUF,Sekisui Chemical Co Ltd,16.18000030517578,True,2014.0,,,,,,,,,,
+1595,SERNF,Seiren Co Ltd,$7.00 ,True,,No data fetched for symbol SERNF using YahooDailyReader,,,,,,,,,
+1596,SEOTF,Seino Holdings Co Ltd,$13.50 ,True,,No data fetched for symbol SEOTF using YahooDailyReader,,,,,,,,,
+1597,SEKEY,Seiko Epson Corp,6.900000095367432,False,2009.0,,10-06,12-20,7.0,7.0,4.0,4.0,10-06,12-20,8.053986459418107
+1598,SEKEF,Seiko Epson Corp,12.90999984741211,True,2012.0,,,,,,,,,,
+1599,SKUNF,Seikagaku Corp,16.0,True,2019.0,,,,,,,,,,
+1600,SBBG,Seibels Bruce Group Inc,4595.0,True,2012.0,,,,,,,,,,
+1601,SEIC,SEI Investments Co,54.13169860839844,False,2009.0,,10-24,01-07,7.0,7.0,4.0,4.0,09-26,12-10,5.73110185097639
+1602,SEGXF,Segro PLC,11.960000038146973,False,2009.0,,07-17,09-30,7.0,7.0,4.0,4.0,04-05,06-19,9.098377255254592
+1603,SGAMY,Sega Sammy Holdings Inc,3.5899999141693115,False,2009.0,,05-25,08-08,5.0,5.0,6.0,6.0,05-25,08-08,5.1721187824678365
+1604,SGAMF,Sega Sammy Holdings Inc,11.829999923706055,True,2011.0,,,,,,,,,,
+1605,SEEL,Seelos Therapeutics Inc,0.8100000023841858,False,2009.0,,11-20,02-03,6.0,6.0,5.0,5.0,11-20,02-03,11.142635995023065
+1606,SKWIF,Seeka Ltd,$2.40 ,True,,No data fetched for symbol SKWIF using YahooDailyReader,,,,,,,,,
+1607,SKLTY,Seek Ltd,34.91999816894531,True,2011.0,,,,,,,,,,
+1608,SKLTF,Seek Ltd,13.718199729919434,True,2013.0,,,,,,,,,,
+1609,SEEMF,Seeing Machines Ltd,0.07500000298023224,True,2013.0,,,,,,,,,,
+1610,SEDO,Seedo Corp,0.05999999865889549,True,2018.0,,,,,,,,,,
+1611,SEDN,SED International Holdings Inc,0.004999999888241291,True,2012.0,,,,,,,,,,
+1612,SNFCA,Security National Financial Corp,8.070099830627441,False,2009.0,,10-13,12-27,3.0,3.0,8.0,8.0,10-13,12-27,6.843336475031344
+1613,SNLC,Security National Bank of Sioux City,115.0,False,2009.0,,03-04,05-18,7.0,6.0,4.0,5.0,03-04,05-18,2.0114810431157966
+1614,SCFR,Security First International Holdings Inc,0.025499999523162842,False,2009.0,,05-30,08-13,5.0,5.0,5.0,5.0,05-30,08-13,3.2370881706597032
+1615,SFRK,Security First Bank Ca,$9.92 ,True,,No data fetched for symbol SFRK using YahooDailyReader,,,,,,,,,
+1616,SFDL,Security Federal Corp,24.5,False,2009.0,,11-05,01-19,7.0,6.0,4.0,5.0,06-29,09-12,3.8519009734418033
+1617,SCAF,Security California Bancorp,$19.50 ,True,,'Date',,,,,,,,,
+1618,SYBJF,Security Bank Corp,2.0299999713897705,False,2009.0,,09-20,12-04,3.0,3.0,8.0,8.0,03-22,06-05,-3.7417820215898683
+1619,SCYT,Security Bancorp Inc,52.0,True,2012.0,,,,,,,,,,
+1620,SCTBY,Securitas AB,16.700000762939453,True,2015.0,,,,,,,,,,
+1621,SCTBF,Securitas AB,16.860000610351562,True,2012.0,,,,,,,,,,
+1622,SCWX,SecureWorks Corp,11.430000305175781,True,2016.0,,,,,,,,,,
+1623,VTDI,Secured Technology Innovations Corp,$0.01 ,True,,No data fetched for symbol VTDI using YahooDailyReader,,,,,,,,,
+1624,SPPYF,Secure Property Development & Investment PLC,$0.45 ,True,,No data fetched for symbol SPPYF using YahooDailyReader,,,,,,,,,
+1625,IMSCQ,Secure Point Technologies Inc,$0.07 ,True,,'Date',,,,,,,,,
+1626,SECYF,Secure Energy Services Inc,1.4646999835968018,True,2012.0,,,,,,,,,,
+1627,CQER,SecurCapital Holdings Corp,0.4000000059604645,True,2012.0,,,,,,,,,,
+1628,SFIV,Sector 5 Inc,0.08150000125169754,True,2014.0,,,,,,,,,,
+1629,SECI,Sector 10 Inc,9.0,False,2009.0,,08-06,10-20,1.0,1.0,10.0,10.0,08-06,10-20,34.90797859037404
+1630,SECO,Secoo Holding Ltd,2.609999895095825,True,2017.0,,,,,,,,,,
+1631,CTON,Second Street Capital Inc,0.02500000037252903,True,2012.0,,,,,,,,,,
+1632,EYES,Second Sight Medical Products Inc,0.8317000269889832,True,2014.0,,,,,,,,,,
+1633,SOMLY,SECOM Co Ltd,24.280000686645508,False,2009.0,,02-10,04-25,5.0,5.0,6.0,6.0,04-11,06-25,2.634179175389473
+1634,SOMLF,SECOM Co Ltd,93.47000122070312,False,2009.0,,08-03,10-17,5.0,5.0,6.0,6.0,08-23,11-06,4.515499804975052
+1635,SECVY,Seche Environnement SA,6.519999980926514,False,2010.0,,05-27,08-10,3.0,3.0,7.0,7.0,03-23,06-06,-1.1149843734047564
+1636,SEBYY,SEB SA,12.970000267028809,True,2018.0,,,,,,,,,,
+1637,SEBYF,SEB SA,173.0,True,2013.0,,,,,,,,,,
+1638,SEAS,SeaWorld Entertainment Inc,26.889999389648438,True,2013.0,,,,,,,,,,
+1639,SPNE,SeaSpine Holdings Corp,13.744999885559082,True,2015.0,,,,,,,,,,
+1640,SHOS,Sears Hometown and Outlet Stores Inc,$3.40 ,True,,No data fetched for symbol SHOS using YahooDailyReader,,,,,,,,,
+1641,SHLDQ,Sears Holdings Corp,0.17000000178813934,False,2009.0,,02-02,04-17,6.0,6.0,5.0,5.0,02-02,04-17,9.142806865462402
+1642,CNYCF,Searchlight Resources Inc,0.04800000041723251,False,2009.0,,12-18,03-03,6.0,6.0,5.0,5.0,12-18,03-03,15.046518842976846
+1643,SRCH,Searchlight Minerals Corp,0.009999999776482582,False,2009.0,,12-30,03-15,6.0,6.0,5.0,5.0,12-30,03-15,20.46817860179484
+1644,SHCMF,Search Minerals Inc,0.04230000078678131,True,2018.0,,,,,,,,,,
+1645,SHIP,Seanergy Maritime Holdings Corp,0.44279998540878296,False,2009.0,,06-19,09-02,3.0,3.0,8.0,8.0,06-19,09-02,-35.253577148274864
+1646,SEE,Sealed Air Corp,44.36000061035156,False,2009.0,,11-06,01-20,6.0,6.0,5.0,5.0,11-06,01-20,4.704775615728064
+1647,SLNR,Sealand Natural Resources Inc,$0.30 ,True,,'Date',,,,,,,,,
+1648,SEHKF,Seahawk Gold Corp,0.33500000834465027,True,2014.0,,,,,,,,,,
+1649,SGEN,Seagen Inc,173.88589477539062,False,2009.0,,07-23,10-06,8.0,8.0,3.0,3.0,07-23,10-06,10.737910491785467
+1650,STX,Seagate Technology PLC,55.51499938964844,False,2009.0,,10-28,01-11,7.0,6.0,4.0,5.0,10-28,01-11,9.626476454269179
+1651,COPLF,Seafarms Group Ltd,0.029999999329447746,True,2013.0,,,,,,,,,,
+1652,SFRX,Seafarer Exploration Corp,0.006500000134110451,False,2009.0,,01-25,04-09,6.0,6.0,5.0,5.0,01-25,04-09,21.560262365550734
+1653,SDLPF,Seadrill Partners LLC,0.14000000059604645,True,2012.0,,,,,,,,,,
+1654,SDRLF,Seadrill Ltd,0.23000000417232513,True,2020.0,,,,,,,,,,
+1655,SMHI,Seacor Marine Holdings Inc,2.0299999713897705,True,2017.0,,,,,,,,,,
+1656,CKH,SEACOR Holdings Inc,33.689998626708984,False,2009.0,,08-06,10-20,4.0,4.0,7.0,7.0,08-06,10-20,3.9630211950704033
+1657,SCBH,Seacoast Commerce Banc Holdings,17.25,False,2009.0,,06-16,08-30,5.0,5.0,6.0,6.0,06-16,08-30,6.692905468344227
+1658,SBCF,Seacoast Banking Corp of Florida,24.83009910583496,False,2009.0,,10-30,01-13,9.0,9.0,2.0,2.0,10-30,01-13,10.304299697760117
+1659,SEAC,SeaChange International Inc,0.8770999908447266,False,2009.0,,05-09,07-23,6.0,6.0,5.0,5.0,05-09,07-23,-2.411742383219984
+1660,SA,Seabridge Gold Inc,18.079999923706055,False,2009.0,,12-17,03-02,6.0,6.0,5.0,5.0,12-17,03-02,7.773251948615539
+1661,SEB,Seaboard Corp,3241.510009765625,False,2009.0,,08-19,11-02,4.0,4.0,7.0,7.0,08-19,11-02,7.229384379818691
+1662,SBDXF,SeaBird Exploration PLC,$0.01 ,True,,No data fetched for symbol SBDXF using YahooDailyReader,,,,,,,,,
+1663,SE,Sea Ltd,171.92999267578125,True,2017.0,,,,,,,,,,
+1664,SDXEF,SDX Energy PLC,0.031099999323487282,True,2013.0,,,,,,,,,,
+1665,SDLLF,SDL PLC,9.699999809265137,True,2013.0,,,,,,,,,,
+1666,SDIIF,SDI Group PLC,0.9173499941825867,True,2019.0,,,,,,,,,,
+1667,SCYX,SCYNEXIS Inc,6.690000057220459,True,2014.0,,,,,,,,,,
+1668,WORX,SCWorx Corp,1.0807000398635864,True,2016.0,,,,,,,,,,
+1669,SCVX,SCVX Corp,10.010000228881836,True,2020.0,,,,,,,,,,
+1670,SCU,Sculptor Capital Management Inc,14.047900199890137,False,2009.0,,11-26,02-09,8.0,6.0,3.0,5.0,11-26,02-09,8.137445151363798
+1671,SRL,Scully Royalty Ltd,4.25,False,2009.0,,05-12,07-26,6.0,6.0,5.0,5.0,06-04,08-18,-0.8094435762571951
+1672,SYPT,Scrypt Inc,0.30000001192092896,True,2012.0,,,,,,,,,,
+1673,SNI,Scripps Networks Interactive Inc,90.04000091552734,True,2012.0,,,,,,,,,,
+1674,DINRF,Screen Holdings Co Ltd,$37.00 ,True,,No data fetched for symbol DINRF using YahooDailyReader,,,,,,,,,
+1675,SCPH,scPharmaceuticals Inc,9.140000343322754,True,2017.0,,,,,,,,,,
+1676,SWNLF,ScoZinc Mining Ltd,0.25999999046325684,False,2009.0,,05-19,08-02,4.0,4.0,7.0,7.0,05-19,08-02,2.631191646115569
+1677,SCTC,ScoutCam Inc,0.800000011920929,True,2020.0,,,,,,,,,,
+1678,SCOTF,Scout24 AG,64.25,True,2020.0,,,,,,,,,,
+1679,SCTSF,Scottie Resources Corp,0.2524000108242035,True,2019.0,,,,,,,,,,
+1680,SDLJ,Scottdale Bank & Trust Co,"$1,254.00 ",True,,'Date',,,,,,,,,
+1681,SLGD,Scott's Liquid Gold Inc,1.559999942779541,False,2009.0,,12-13,02-26,8.0,8.0,3.0,3.0,12-13,02-26,17.738544003178863
+1682,SCBLF,Scotiabank Peru SAA,$6.16 ,True,,No data fetched for symbol SCBLF using YahooDailyReader,,,,,,,,,
+1683,SRPOF,Scorpion Offshore Ltd,$6.40 ,True,,No data fetched for symbol SRPOF using YahooDailyReader,,,,,,,,,
+1684,STNG,Scorpio Tankers Inc,11.119999885559082,False,2010.0,,02-15,04-30,5.0,5.0,5.0,5.0,02-15,04-30,9.74240338902028
+1685,SRCRF,Scorpio Gold Corp,0.11259999871253967,True,2011.0,,,,,,,,,,
+1686,SALT,Scorpio Bulkers Inc,14.760000228881836,True,2013.0,,,,,,,,,,
+1687,TSCRF,Score Media and Gaming Inc,0.5149999856948853,True,2014.0,,,,,,,,,,
+1688,SZCRF,SCOR SE,33.04999923706055,True,2012.0,,,,,,,,,,
+1689,SCRYY,SCOR SE,3.369999885559082,False,2009.0,,09-19,12-03,7.0,7.0,4.0,4.0,09-19,12-03,5.093875759658364
+1690,SCPJ,Scope Industries,240.0,False,2009.0,,02-22,05-07,7.0,7.0,4.0,4.0,02-22,05-07,5.963584201254586
+1691,SCBZ,Scoobeez Global Inc,0.004999999888241291,False,2009.0,,09-29,12-13,6.0,6.0,5.0,5.0,09-29,12-13,16.192100956335107
+1692,SCVM,Scivanta Medical Corp,$0.05 ,True,,No data fetched for symbol SCVM using YahooDailyReader,,,,,,,,,
+1693,SIIYF,SCITI Trust,$5.81 ,True,,No data fetched for symbol SIIYF using YahooDailyReader,,,,,,,,,
+1694,SQI,SciQuest Inc,$17.75 ,True,,'Date',,,,,,,,,
+1695,SCPL,SciPlay Corp,13.859999656677246,True,2019.0,,,,,,,,,,
+1696,SCIO,Scio Diamond Technology Corp,$0.01 ,True,,No data fetched for symbol SCIO using YahooDailyReader,,,,,,,,,
+1697,SCIL,Scientific Learning Corp,0.20999999344348907,False,2009.0,,11-25,02-08,6.0,6.0,5.0,5.0,11-25,02-08,15.978392628229885
+1698,SCND,Scientific Industries Inc,8.199999809265137,False,2009.0,,08-23,11-06,7.0,7.0,4.0,4.0,08-23,11-06,11.17147851453656
+1699,SGMS,Scientific Games Corp,38.91999816894531,False,2009.0,,10-29,01-12,5.0,5.0,6.0,6.0,10-29,01-12,8.304762245202047
+1700,SCGY,Scientific Energy Inc,0.029999999329447746,True,2012.0,,,,,,,,,,
+1701,SJ,Scienjoy Holding Corp,9.819999694824219,True,2019.0,,,,,,,,,,
+1702,BEUT,Science to Consumers Inc,0.007899999618530273,True,2014.0,,,,,,,,,,
+1703,SISPF,Science in Sport PLC,Ãƒâ€šÃ‚Â£ 0.73,True,,No data fetched for symbol SISPF using YahooDailyReader,,,,,,,,,
+1704,SAIC,Science Applications International Corp,88.30999755859375,True,2013.0,,,,,,,,,,
+1705,ICLJY,SciDev Ltd,$0.15 ,True,,No data fetched for symbol ICLJY using YahooDailyReader,,,,,,,,,
+1706,SCLN,SciClone Pharmaceuticals Inc,$11.15 ,True,,'Date',,,,,,,,,
+1707,SCIA,SCI Engineered Materials Inc,1.2100000381469727,False,2009.0,,04-19,07-03,3.0,3.0,8.0,8.0,04-19,07-03,7.325277250952631
+1708,SWZNF,Schweizerische Nationalbank,5133.0,True,2014.0,,,,,,,,,,
+1709,SWM,Schweitzer-Mauduit International Inc,35.540000915527344,False,2009.0,,09-01,11-15,3.0,3.0,8.0,8.0,08-27,11-10,8.729712131049748
+1710,SCWTF,Schweiter Technologies AG,1170.0,True,2017.0,,,,,,,,,,
+1711,SAMA,Schultze Special Purpose Acquisition Corp,10.1899995803833,True,2019.0,,,,,,,,,,
+1712,SDGR,Schrodinger Inc,59.060001373291016,True,2020.0,,,,,,,,,,
+1713,SHRRF,Schroders PLC,32.70000076293945,True,2012.0,,,,,,,,,,
+1714,SHNWY,Schroders PLC,$23.40 ,True,,No data fetched for symbol SHNWY using YahooDailyReader,,,,,,,,,
+1715,SHNWF,Schroders PLC,39.75,False,2009.0,,12-13,02-26,7.0,7.0,4.0,4.0,12-13,02-26,6.114937098666765
+1716,SJGFF,Schroder Japan Growth Fund PLC,2.157900094985962,True,2020.0,,,,,,,,,,
+1717,SUWCF,Schouw & Co A/S,$76.01 ,True,,No data fetched for symbol SUWCF using YahooDailyReader,,,,,,,,,
+1718,SCOO,School Specialty Inc,0.06400000303983688,True,2018.0,,,,,,,,,,
+1719,SCHL,Scholastic Corp,22.87579917907715,False,2009.0,,10-21,01-04,6.0,6.0,5.0,5.0,10-15,12-29,5.666876396560325
+1720,SRRK,Scholar Rock Holding Corp,39.72999954223633,True,2018.0,,,,,,,,,,
+1721,SCEDF,Scholar Education Group,2.5095999240875244,True,2020.0,,,,,,,,,,
+1722,SBOEY,Schoeller-Bleckmann Oilfield Equipment AG,2.880000114440918,True,2015.0,,,,,,,,,,
+1723,SBOEF,Schoeller-Bleckmann Oilfield Equipment AG,25.989999771118164,True,2013.0,,,,,,,,,,
+1724,SCHN,Schnitzer Steel Industries Inc,23.774999618530273,False,2009.0,,09-29,12-13,4.0,4.0,7.0,7.0,09-29,12-13,9.559386947592461
+1725,SNDR,Schneider National Inc,21.895000457763672,True,2017.0,,,,,,,,,,
+1726,SBGSY,Schneider Electric SE,28.058000564575195,False,2010.0,,12-22,03-07,8.0,8.0,2.0,2.0,12-22,03-07,8.057655355811454
+1727,SBGSF,Schneider Electric SE,140.77999877929688,False,2009.0,,03-27,06-10,9.0,9.0,2.0,2.0,12-23,03-08,5.741317132383344
+1728,SMIT,Schmitt Industries Inc,5.670000076293945,False,2009.0,,04-29,07-13,3.0,3.0,8.0,8.0,04-29,07-13,6.278908078053068
+1729,SLB,Schlumberger Ltd,20.059999465942383,False,2009.0,,12-08,02-21,6.0,6.0,5.0,5.0,12-08,02-21,4.019895609060302
+1730,SHLRF,Schindler Holding AG,270.0,False,2009.0,,02-08,04-23,6.0,6.0,5.0,5.0,04-17,07-01,6.40437231152131
+1731,SHLAF,Schindler Holding AG,277.8500061035156,True,2012.0,,,,,,,,,,
+1732,SBSNY,Schibsted ASA,39.75,True,2012.0,,,,,,,,,,
+1733,SBSNF,Schibsted ASA,42.99250030517578,True,2012.0,,,,,,,,,,
+1734,SBBTF,Schibsted ASA,37.30500030517578,True,2015.0,,,,,,,,,,
+1735,SVIN,Scheid Vineyards Inc,16.0,False,2009.0,,01-08,03-23,8.0,8.0,3.0,3.0,01-08,03-23,4.234148859148698
+1736,SFFLY,Schaeffler AG,6.300000190734863,True,2020.0,,,,,,,,,,
+1737,SCFLF,Schaeffler AG,7.0,True,2015.0,,,,,,,,,,
+1738,BRZL,Scepter Holdings Inc,0.006500000134110451,False,2010.0,,07-11,09-24,2.0,2.0,7.0,7.0,07-11,09-24,18.482837616235766
+1739,STGPF,Scentre Group,2.0199999809265137,True,2014.0,,,,,,,,,,
+1740,STECF,Scatec ASA,24.200000762939453,True,2019.0,,,,,,,,,,
+1741,SXGAF,Scapa Group PLC,1.8899999856948853,True,2011.0,,,,,,,,,,
+1742,SVAFF,Scanvec Amiable Ltd,$0.02 ,True,,No data fetched for symbol SVAFF using YahooDailyReader,,,,,,,,,
+1743,SCSC,ScanSource Inc,24.270000457763672,False,2009.0,,05-30,08-13,5.0,5.0,6.0,6.0,05-30,08-13,1.3407686762839943
+1744,SVKBY,Scania AB,$10.00 ,True,,No data fetched for symbol SVKBY using YahooDailyReader,,,,,,,,,
+1745,SVKBF,Scania AB,$29.85 ,True,,'Date',,,,,,,,,
+1746,SCYYF,Scandium International Mining Corp,0.13840900361537933,False,2009.0,,09-21,12-05,4.0,4.0,7.0,7.0,09-21,12-05,3.858649853025136
+1747,SKNVY,Scandinavian Tobacco Group A/S,11.449999809265137,True,2019.0,,,,,,,,,,
+1748,SNDVF,Scandinavian Tobacco Group A/S,15.460000038146973,True,2017.0,,,,,,,,,,
+1749,SCNLF,Scancell Holdings PLC,0.08030000329017639,True,2013.0,,,,,,,,,,
+1750,SCG,SCANA Corp,0.05000000074505806,True,2015.0,,,,,,,,,,
+1751,SCNG,SC Holdings Corp,0.010599999688565731,True,2013.0,,,,,,,,,,
+1752,SCPE,SC Health Corp,10.079999923706055,True,2019.0,,,,,,,,,,
+1753,FDLPF,SC Fondul Proprietatea SA,15.600000381469727,True,2020.0,,,,,,,,,,
+1754,SBTB,SBT Bancorp Inc,$51.20 ,True,,No data fetched for symbol SBTB using YahooDailyReader,,,,,,,,,
+1755,SBFFY,SBM Offshore NV,18.469999313354492,False,2009.0,,08-07,10-21,5.0,5.0,6.0,6.0,08-07,10-21,10.734330456888491
+1756,SBFFF,SBM Offshore NV,18.260000228881836,False,2009.0,,08-13,10-27,5.0,5.0,6.0,6.0,08-13,10-27,5.079485821187761
+1757,SBHGF,SBI Holdings Inc,25.364999771118164,True,2012.0,,,,,,,,,,
+1758,SBRCY,Sberbank of Russia PJSC,12.956999778747559,True,2011.0,,,,,,,,,,
+1759,AKSJF,Sberbank of Russia PJSC,2.950000047683716,True,2013.0,,,,,,,,,,
+1760,SBDCF,SBD Capital Corp,0.019999999552965164,True,2018.0,,,,,,,,,,
+1761,MDRDF,Sbanken ASA,$8.45 ,True,,No data fetched for symbol MDRDF using YahooDailyReader,,,,,,,,,
+1762,SBAC,SBA Communications Corp,297.70001220703125,False,2009.0,,05-04,07-18,9.0,9.0,2.0,2.0,05-04,07-18,4.054676191251889
+1763,SFBTF,SB Technology Corp.,37.93000030517578,True,2016.0,,,,,,,,,,
+1764,SBBX,SB One Bancorp,18.510000228881836,False,2009.0,,04-11,06-25,8.0,8.0,3.0,3.0,12-24,03-09,9.346411707078811
+1765,SBFG,SB Financial Group Inc,18.209999084472656,False,2009.0,,10-12,12-26,8.0,8.0,3.0,3.0,10-12,12-26,7.10704506457854
+1766,DMNXF,Sayona Mining Ltd,0.006399999838322401,True,2013.0,,,,,,,,,,
+1767,SCGX,Saxon Capital Group Inc,1.100000023841858,True,2012.0,,,,,,,,,,
+1768,SWPIF,Sawai Pharmaceutical Co Ltd,46.09000015258789,True,2013.0,,,,,,,,,,
+1769,HSCEF,Sawada Holdings Co Ltd,$6.60 ,True,,No data fetched for symbol HSCEF using YahooDailyReader,,,,,,,,,
+1770,SCIV,Savings Bank,$45.75 ,True,,No data fetched for symbol SCIV using YahooDailyReader,,,,,,,,,
+1771,SVLPF,Savills PLC,10.159799575805664,True,2012.0,,,,,,,,,,
+1772,SVVB,Savi Financial Corp,7.800000190734863,True,2018.0,,,,,,,,,,
+1773,ADCC,Savenergy Holdings Inc,0.12999999523162842,True,2012.0,,,,,,,,,,
+1774,BNGRF,Savencia SA,64.1500015258789,True,2015.0,,,,,,,,,,
+1775,SAFO,Save Foods Inc,1.25,False,2010.0,,08-22,11-05,2.0,2.0,7.0,7.0,08-22,11-05,18.339360044240774
+1776,SVVYF,Savary Gold Corp,$0.08 ,True,,No data fetched for symbol SVVYF using YahooDailyReader,,,,,,,,,
+1777,SISXF,Savaria Corp,10.25,True,2012.0,,,,,,,,,,
+1778,SVRA,Savara Inc,1.1611000299453735,True,2017.0,,,,,,,,,,
+1779,SAVNF,Savannah Resources PLC,0.033195000141859055,True,2020.0,,,,,,,,,,
+1780,SVNNF,Savannah Energy PLC,0.10499999672174454,True,2014.0,,,,,,,,,,
+1781,SVGYF,Savanna Energy Services Corp,$1.34 ,True,,'Date',,,,,,,,,
+1782,BFS,Saul Centers Inc,30.030000686645508,False,2009.0,,05-13,07-27,5.0,4.0,6.0,7.0,05-13,07-27,6.059453909607707
+1783,GSEG,Satya Worldwide Inc,1.0099999904632568,True,2015.0,,,,,,,,,,
+1784,SAEUF,Saturn Oil & Gas Inc,0.07000000029802322,False,2009.0,,12-14,02-27,5.0,5.0,6.0,6.0,12-14,02-27,12.463922388000288
+1785,STSA,Satsuma Pharmaceuticals Inc,4.190000057220459,True,2019.0,,,,,,,,,,
+1786,SPASF,SATS Ltd,2.690000057220459,False,2010.0,,03-28,06-11,6.0,6.0,4.0,4.0,03-28,06-11,6.4038766813159445
+1787,STRRF,Satori Resources Inc,0.10000000149011612,True,2014.0,,,,,,,,,,
+1788,SAEEF,Satori Electric Co Ltd,$8.15 ,True,,No data fetched for symbol SAEEF using YahooDailyReader,,,,,,,,,
+1789,SATOF,Sato Holdings Corp,18.777099609375,True,2016.0,,,,,,,,,,
+1790,SCNNF,Sativa Wellness Group Inc,0.06310000270605087,True,2019.0,,,,,,,,,,
+1791,SATIF,Sativa Group PLC,0.07460000365972519,True,2019.0,,,,,,,,,,
+1792,SSYRF,Sassy Resources Corp,0.5697000026702881,True,2020.0,,,,,,,,,,
+1793,SASOF,Sasol Ltd,7.452000141143799,True,2012.0,,,,,,,,,,
+1794,SSL,Sasol Ltd,7.409999847412109,False,2009.0,,02-21,05-06,7.0,6.0,4.0,5.0,02-22,05-07,-12.234375594103525
+1795,SKENF,Sasakura Engineering Co Ltd,$20.20 ,True,,No data fetched for symbol SKENF using YahooDailyReader,,,,,,,,,
+1796,SASDY,SAS AB,0.6348999738693237,True,2012.0,,,,,,,,,,
+1797,SASDF,SAS AB,0.15000000596046448,True,2019.0,,,,,,,,,,
+1798,SDMHF,Sartorius Stedim Biotech SA,363.67999267578125,False,2009.0,,04-24,07-08,9.0,9.0,2.0,2.0,07-25,10-08,12.247332121343806
+1799,SOAGY,Sartorius AG,78.6416015625,True,2020.0,,,,,,,,,,
+1800,SUVPF,Sartorius AG,427.5,True,2014.0,,,,,,,,,,
+1801,SARTF,Sartorius AG,413.1000061035156,True,2012.0,,,,,,,,,,
+1802,AIOAF,Sarossa PLC,$15.00 ,True,,No data fetched for symbol AIOAF using YahooDailyReader,,,,,,,,,
+1803,SILLF,Sarine Technologies Ltd,0.3050000071525574,False,2009.0,,01-13,03-28,5.0,5.0,6.0,6.0,01-13,03-28,0.059794417755531924
+1804,SRPT,Sarepta Therapeutics Inc,135.3800048828125,False,2009.0,,05-12,07-26,6.0,6.0,5.0,5.0,05-12,07-26,19.50119747383181
+1805,SARHY,Sare Holding SAB de CV,$0.07 ,True,,'Date',,,,,,,,,
+1806,SARKF,Sarawak Oil Palms Bhd,$1.80 ,True,,No data fetched for symbol SARKF using YahooDailyReader,,,,,,,,,
+1807,SARA,Saratoga Resources Inc,$0.02 ,True,,No data fetched for symbol SARA using YahooDailyReader,,,,,,,,,
+1808,SAR,Saratoga Investment Corp,20.860000610351562,False,2009.0,,03-30,06-13,7.0,7.0,4.0,4.0,02-25,05-10,5.320987492878423
+1809,SAAFY,Saras SpA,3.190000057220459,True,2011.0,,,,,,,,,,
+1810,SAAFF,Saras SpA,$1.66 ,True,,No data fetched for symbol SAAFF using YahooDailyReader,,,,,,,,,
+1811,SRMMF,Sarama Resources Ltd,0.26499998569488525,True,2016.0,,,,,,,,,,
+1812,SVLSY,Saraiva Livreiros SA EM Recuperacao Judicial,$0.98 ,True,,'Date',,,,,,,,,
+1813,SVLOY,Saraiva Livreiros SA EM Recuperacao Judicial,$2.84 ,True,,No data fetched for symbol SVLOY using YahooDailyReader,,,,,,,,,
+1814,SCEXF,Saracen Mineral Holdings Ltd,3.7100000381469727,True,2013.0,,,,,,,,,,
+1815,SAPIF,Saputo Inc,25.99970054626465,False,2010.0,,09-05,11-19,5.0,5.0,5.0,5.0,09-05,11-19,3.3451544100959314
+1816,SKPBF,Sapura Energy Bhd,0.03999999910593033,True,2013.0,,,,,,,,,,
+1817,SOOBF,Sapporo Holdings Ltd,14.100000381469727,False,2009.0,,10-31,01-14,4.0,4.0,7.0,7.0,10-31,01-14,1.1388376835560827
+1818,SPPJY,Sappi Ltd,1.774999976158142,False,2009.0,,11-03,01-17,4.0,4.0,7.0,7.0,10-20,01-03,9.078071918781236
+1819,SPNS,Sapiens International Corp NV,29.290000915527344,False,2009.0,,07-07,09-20,7.0,7.0,4.0,4.0,07-07,09-20,7.935223692316946
+1820,SAPGF,SAP SE,117.3499984741211,False,2009.0,,02-12,04-27,5.0,5.0,6.0,6.0,02-12,04-27,5.942866626524474
+1821,SAP,SAP SE,118.24400329589844,False,2009.0,,05-15,07-29,5.0,5.0,6.0,6.0,02-11,04-26,5.860355771140625
+1822,SNYYF,Sany Heavy Equipment International Holdings Co Ltd,0.5799999833106995,True,2012.0,,,,,,,,,,
+1823,SNWR,Sanwire Corp,0.00827999971807003,True,2013.0,,,,,,,,,,
+1824,SNWAF,Sanwa Holdings Corp,9.172260284423828,True,2013.0,,,,,,,,,,
+1825,SNWV,SANUWAVE Health Inc,0.17389999330043793,False,2009.0,,01-11,03-26,6.0,6.0,5.0,5.0,01-11,03-26,11.398345773296564
+1826,STVAF,Santova Ltd,$0.11 ,True,,No data fetched for symbol STVAF using YahooDailyReader,,,,,,,,,
+1827,STOSF,Santos Ltd,3.440000057220459,False,2010.0,,06-18,09-01,5.0,5.0,5.0,5.0,06-28,09-11,3.2672669188116568
+1828,SSLZY,Santos Ltd,4.409999847412109,False,2009.0,,02-04,04-19,6.0,6.0,5.0,5.0,06-17,08-31,1.2619208187052575
+1829,SPHDF,Santhera Pharmaceuticals Holding AG,3.2904000282287598,True,2014.0,,,,,,,,,,
+1830,SANT,Santeon Group Inc,0.11999999731779099,True,2013.0,,,,,,,,,,
+1831,SNPHY,Santen Pharmaceutical Co Ltd,15.829999923706055,True,2011.0,,,,,,,,,,
+1832,SNPHF,Santen Pharmaceutical Co Ltd,16.049999237060547,False,2010.0,,02-16,05-01,5.0,5.0,5.0,5.0,02-16,05-01,12.889278868845329
+1833,SNTE,Sante Technology Holdings Inc,1.2400000095367432,True,2020.0,,,,,,,,,,
+1834,STIE,Santaro Interactive Entertainment Co,0.009999999776482582,True,2011.0,,,,,,,,,,
+1835,SC,Santander Consumer USA Holdings Inc,22.790000915527344,True,2014.0,,,,,,,,,,
+1836,BKZHY,Santander Bank Polska SA,9.058699607849121,True,2020.0,,,,,,,,,,
+1837,SNTNF,Santana Minerals Ltd,$0.03 ,True,,No data fetched for symbol SNTNF using YahooDailyReader,,,,,,,,,
+1838,SZSMF,Santacruz Silver Mining Ltd,0.20999999344348907,True,2012.0,,,,,,,,,,
+1839,SFEG,Santa Fe Gold Corp,0.05900000035762787,True,2012.0,,,,,,,,,,
+1840,SFEF,Santa Fe Financial Corp,40.0,False,2009.0,,10-16,12-30,6.0,6.0,5.0,5.0,10-16,12-30,7.221858724549463
+1841,SCZC,Santa Cruz County Bank,39.5,False,2009.0,,03-26,06-09,9.0,9.0,2.0,2.0,03-26,06-09,8.841755161623631
+1842,SABB,Santa Ana Business Bank,3.7699999809265137,True,2012.0,,,,,,,,,,
+1843,SNSUF,Sansiri PCL,$0.05 ,True,,No data fetched for symbol SNSUF using YahooDailyReader,,,,,,,,,
+1844,SSNEF,Sanshin Electronics Co Ltd,$17.55 ,True,,'Date',,,,,,,,,
+1845,LFYPF,Sansheng Holdings (Group) Co Ltd,$0.70 ,True,,No data fetched for symbol LFYPF using YahooDailyReader,,,,,,,,,
+1846,SKUYF,Sansei Technologies Inc,$5.56 ,True,,'Date',,,,,,,,,
+1847,SNROF,Sanrio Co Ltd,17.309999465942383,True,2012.0,,,,,,,,,,
+1848,SWYBY,Sanoma Oyj,$1.74 ,True,,No data fetched for symbol SWYBY using YahooDailyReader,,,,,,,,,
+1849,SWYBF,Sanoma Oyj,11.600000381469727,True,2012.0,,,,,,,,,,
+1850,SNYNF,Sanofi SA,100.0,False,2009.0,,02-21,05-06,5.0,5.0,6.0,6.0,05-21,08-04,4.432185066772041
+1851,SNY,Sanofi SA,50.724998474121094,False,2009.0,,02-28,05-13,6.0,6.0,5.0,5.0,02-14,04-29,3.8583755494350793
+1852,SNNRF,Sanne Group PLC,$7.65 ,True,,No data fetched for symbol SNNRF using YahooDailyReader,,,,,,,,,
+1853,SANM,Sanmina Corp,31.55500030517578,False,2009.0,,11-09,01-23,8.0,8.0,3.0,3.0,11-09,01-23,6.7216446994194525
+1854,SLMAF,Sanlam Ltd,4.5,True,2012.0,,,,,,,,,,
+1855,SLLDY,Sanlam Ltd,7.21999979019165,False,2010.0,,09-11,11-25,5.0,5.0,5.0,5.0,09-11,11-25,5.142295777761277
+1856,SNKUF,Sankyu Inc,$4.80 ,True,,No data fetched for symbol SNKUF using YahooDailyReader,,,,,,,,,
+1857,SKXJF,Sankyo Co Ltd,25.799999237060547,True,2012.0,,,,,,,,,,
+1858,SNKOF,Sanko Co Ltd,$3.75 ,True,,No data fetched for symbol SNKOF using YahooDailyReader,,,,,,,,,
+1859,SKIGF,Sanki Engineering Co Ltd,$11.00 ,True,,No data fetched for symbol SKIGF using YahooDailyReader,,,,,,,,,
+1860,SANJF,Sanken Electric Co Ltd,$2.95 ,True,,No data fetched for symbol SANJF using YahooDailyReader,,,,,,,,,
+1861,SNTLF,Sanistal A/S,$10.48 ,True,,No data fetched for symbol SNTLF using YahooDailyReader,,,,,,,,,
+1862,SGBI,Sangui Biotech International Inc,0.011099999770522118,True,2012.0,,,,,,,,,,
+1863,SAMOF,Sangoma Technologies Corp,2.1500000953674316,False,2010.0,,04-11,06-25,6.0,6.0,4.0,4.0,04-11,06-25,3.6559029843355337
+1864,SGSUF,Sangetsu Corp,$16.90 ,True,,No data fetched for symbol SGSUF using YahooDailyReader,,,,,,,,,
+1865,SGMO,Sangamo Therapeutics Inc,10.380000114440918,False,2009.0,,11-03,01-17,8.0,8.0,3.0,3.0,11-03,01-17,14.540181096364506
+1866,SARDY,Sanford Ltd,18.5,True,2015.0,,,,,,,,,,
+1867,SARDF,Sanford Ltd,$4.35 ,True,,No data fetched for symbol SARDF using YahooDailyReader,,,,,,,,,
+1868,SNHPF,Sanei Architecture Planning Co Ltd,11.899999618530273,True,2017.0,,,,,,,,,,
+1869,SASR,Sandy Spring Bancorp Inc,29.15999984741211,False,2009.0,,04-19,07-03,7.0,7.0,4.0,4.0,11-12,01-26,3.960451386325037
+1870,SNVNF,Sandvine Corp,$3.57 ,True,,'Date',,,,,,,,,
+1871,SDVKY,Sandvik AB,21.825000762939453,False,2009.0,,09-06,11-20,8.0,8.0,3.0,3.0,09-06,11-20,5.1328886950356525
+1872,SDVKF,Sandvik AB,21.0,False,2010.0,,04-14,06-28,7.0,7.0,3.0,3.0,11-21,02-04,6.480365642488173
+1873,SAND,Sandstorm Gold Ltd,7.53000020980835,False,2010.0,,12-06,02-19,6.0,6.0,4.0,4.0,12-06,02-19,12.538454518726224
+1874,SDON,Sandston Corp,0.05000000074505806,False,2009.0,,07-27,10-10,5.0,5.0,6.0,6.0,07-27,10-10,-15.971996528143988
+1875,SCHYY,Sands China Ltd,44.43000030517578,False,2010.0,,09-25,12-09,7.0,7.0,3.0,3.0,09-25,12-09,7.333953211502715
+1876,SCHYF,Sands China Ltd,4.40500020980835,True,2012.0,,,,,,,,,,
+1877,PERS,SandRidge Permian Trust,0.3700000047683716,True,2013.0,,,,,,,,,,
+1878,SDRMU,SandRidge Mississippian Trust II,0.12804999947547913,True,2012.0,,,,,,,,,,
+1879,SDTTU,SandRidge Mississippian Trust I,0.1599999964237213,True,2012.0,,,,,,,,,,
+1880,SD,SandRidge Energy Inc,2.680000066757202,True,2016.0,,,,,,,,,,
+1881,SSPBF,Sandnes Sparebank,$13.07 ,True,,No data fetched for symbol SSPBF using YahooDailyReader,,,,,,,,,
+1882,SNDK,SanDisk Corp,$76.18 ,True,,'Date',,,,,,,,,
+1883,SFRRF,Sandfire Resources Ltd,3.299999952316284,True,2012.0,,,,,,,,,,
+1884,SRAFF,Sandfire Resources America Inc,0.19580000638961792,False,2009.0,,01-02,03-17,8.0,8.0,3.0,3.0,01-02,03-17,11.651554226102727
+1885,SAFM,Sanderson Farms Inc,134.27000427246094,False,2009.0,,09-26,12-10,7.0,7.0,4.0,4.0,09-26,12-10,6.5676029604898485
+1886,SBG,Sandbridge Acquisition Corp,9.6899995803833,True,2020.0,,,,,,,,,,
+1887,SNMP,Sanchez Midstream Partners LP,0.5860000252723694,False,2009.0,,12-29,03-14,8.0,8.0,3.0,3.0,12-07,02-20,11.372587497479046
+1888,SNECQ,Sanchez Energy Corp,0.00800000037997961,True,2011.0,,,,,,,,,,
+1889,SNBIF,SanBio Co Ltd,16.200000762939453,True,2015.0,,,,,,,,,,
+1890,SADMF,Sanatana Resources Inc,0.2190999984741211,True,2013.0,,,,,,,,,,
+1891,SMTI,Sanara MedTech Inc,34.0,False,2009.0,,11-22,02-05,4.0,4.0,7.0,7.0,11-22,02-05,15.47904515770318
+1892,SGDBF,San-in Godo Bank Ltd,8.579999923706055,False,2009.0,,01-17,04-02,3.0,3.0,7.0,7.0,08-18,11-01,2.325516250673822
+1893,SNAAF,SAN-A CO Ltd,40.400001525878906,True,2013.0,,,,,,,,,,
+1894,SMPFF,San Miguel Food And Beverage Inc,1.2599999904632568,True,2018.0,,,,,,,,,,
+1895,SMGBY,San Miguel Corp,20.6200008392334,False,2009.0,,12-21,03-06,7.0,7.0,4.0,4.0,12-18,03-03,10.533489099427381
+1896,SMGBF,San Miguel Corp,2.450000047683716,True,2012.0,,,,,,,,,,
+1897,SLOT,San Lotus Holding Inc,0.2605000138282776,True,2013.0,,,,,,,,,,
+1898,SLGYY,San Leon Energy PLC,$11.70 ,True,,No data fetched for symbol SLGYY using YahooDailyReader,,,,,,,,,
+1899,SLGYF,San Leon Energy PLC,0.27000001072883606,True,2014.0,,,,,,,,,,
+1900,SJT,San Juan Basin Royalty Trust,3.75,False,2009.0,,12-16,03-01,7.0,6.0,4.0,5.0,12-16,03-01,6.1112791070419545
+1901,SSDIF,Samsung SDI Co Ltd,$56.51 ,True,,'Date',,,,,,,,,
+1902,SSNNF,Samsung Electronics Co Ltd,$840.98 ,True,,No data fetched for symbol SSNNF using YahooDailyReader,,,,,,,,,
+1903,SSNLF,Samsung Electronics Co Ltd,44.20000076293945,True,2012.0,,,,,,,,,,
+1904,SSNGY,Samsung Electronics Co Ltd,$208.25 ,True,,'Date',,,,,,,,,
+1905,SMSOF,Samsonite International SA,1.5199999809265137,True,2012.0,,,,,,,,,,
+1906,SMSEY,Samsonite International SA,7.679999828338623,True,2013.0,,,,,,,,,,
+1907,SSNYY,Samson Oil & Gas Ltd,0.03400000184774399,False,2009.0,,12-27,03-12,8.0,8.0,3.0,3.0,12-27,03-12,21.081601679501073
+1908,SNHLF,Samson Holding Ltd,$0.04 ,True,,No data fetched for symbol SNHLF using YahooDailyReader,,,,,,,,,
+1909,SAXPY,Sampo Oyj,21.6200008392334,False,2010.0,,01-08,03-23,8.0,8.0,2.0,2.0,01-08,03-23,1.4730583689996914
+1910,SAXPF,Sampo Oyj,43.20000076293945,False,2010.0,,12-11,02-24,8.0,8.0,2.0,2.0,12-13,02-26,6.19709322153249
+1911,SMHJF,Samho Development Co Ltd,$2.59 ,True,,'Date',,,,,,,,,
+1912,SGCLF,Samco Gold Ltd,$0.03 ,True,,No data fetched for symbol SGCLF using YahooDailyReader,,,,,,,,,
+1913,SAMMF,Sama Resources Inc/Ressources Sama Inc,0.09000000357627869,False,2010.0,,04-02,06-16,3.0,3.0,7.0,7.0,04-02,06-16,10.841676377432306
+1914,SZGPY,Salzgitter AG,1.6399999856948853,False,2009.0,,09-30,12-14,4.0,4.0,7.0,7.0,09-30,12-14,0.11761664073150932
+1915,SZGPF,Salzgitter AG,14.770000457763672,True,2012.0,,,,,,,,,,
+1916,SFRGY,Salvatore Ferragamo SpA,8.760000228881836,True,2013.0,,,,,,,,,,
+1917,SFRGF,Salvatore Ferragamo SpA,16.25,True,2012.0,,,,,,,,,,
+1918,SLVAF,SalvaRx Group PLC,$0.11 ,True,,No data fetched for symbol SLVAF using YahooDailyReader,,,,,,,,,
+1919,WHELF,Salt Lake Potash Ltd,0.38999998569488525,False,2010.0,,12-12,02-25,6.0,6.0,4.0,4.0,12-12,02-25,21.30960199190737
+1920,SLNM,Salon Media Group Inc,0.017000000923871994,False,2009.0,,05-09,07-23,5.0,5.0,6.0,6.0,05-09,07-23,-2.460318004973414
+1921,SLMCF,Salmones Camanchaca SA,5.5,True,2020.0,,,,,,,,,,
+1922,SALRY,SalMar ASA,13.760000228881836,True,2019.0,,,,,,,,,,
+1923,SALRF,SalMar ASA,52.0,True,2018.0,,,,,,,,,,
+1924,SBH,Sally Beauty Holdings Inc,10.34000015258789,False,2009.0,,10-24,01-07,6.0,6.0,5.0,5.0,10-24,01-07,8.46831922276075
+1925,SAL,Salisbury Bancorp Inc,40.0,False,2009.0,,12-16,03-01,8.0,8.0,3.0,3.0,12-16,03-01,6.533570685001668
+1926,SMM,Salient Midstream & MLP Fund,4.050000190734863,True,2012.0,,,,,,,,,,
+1927,CRM,Salesforce.com Inc,266.17999267578125,False,2009.0,,09-24,12-08,8.0,8.0,3.0,3.0,09-24,12-08,5.258589732854784
+1928,SALM,Salem Media Group Inc,1.0149999856948853,False,2009.0,,05-16,07-30,7.0,7.0,4.0,4.0,05-16,07-30,9.500869235124114
+1929,SRLZF,Salazar Resources Ltd,0.23999999463558197,False,2010.0,,07-21,10-04,3.0,3.0,7.0,7.0,07-21,10-04,2.568635788927207
+1930,SLRX,Salarius Pharmaceuticals Inc,0.7024999856948853,True,2015.0,,,,,,,,,,
+1931,SAKH,Sakha Enterprises Corp,0.011250000447034836,False,2010.0,,10-19,01-02,4.0,4.0,6.0,6.0,10-19,01-02,11.210192568954088
+1932,SKAS,Saker Aviation Services Inc,2.2699999809265137,False,2010.0,,11-05,01-19,7.0,7.0,3.0,3.0,11-05,01-19,12.184235278480177
+1933,SKSDF,Sakata Seed Corp,$15.00 ,True,,No data fetched for symbol SKSDF using YahooDailyReader,,,,,,,,,
+1934,SAJA,Sajan Inc,$5.82 ,True,,'Date',,,,,,,,,
+1935,SZRRF,Saizen Real Estate Investment Trust,$40.00 ,True,,No data fetched for symbol SZRRF using YahooDailyReader,,,,,,,,,
+1936,SAPMY,Saipem SpA,4.550000190734863,False,2010.0,,02-14,04-29,5.0,5.0,5.0,5.0,02-14,04-29,0.3299290090824443
+1937,SAPMF,Saipem SpA,2.190000057220459,True,2011.0,,,,,,,,,,
+1938,TORVF,Saint Jean Carbon Inc,0.029999999329447746,False,2010.0,,09-03,11-17,4.0,4.0,6.0,6.0,09-03,11-17,20.038235772036128
+1939,JSNSF,Sainsbury (J) PLC,2.880000114440918,False,2010.0,,08-19,11-02,4.0,4.0,6.0,6.0,08-18,11-01,0.6936931036334312
+1940,JSAIY,Sainsbury (J) PLC,12.399999618530273,False,2009.0,,03-15,05-29,4.0,4.0,7.0,7.0,08-25,11-08,2.2162880038096997
+1941,SAIL,SailPoint Technologies Holdings Inc,44.400001525878906,True,2017.0,,,,,,,,,,
+1942,SROYF,Sailfish Royalty Corp,0.8798999786376953,True,2018.0,,,,,,,,,,
+1943,SAIA,Saia Inc,169.875,False,2009.0,,03-15,05-29,6.0,6.0,5.0,5.0,03-15,05-29,11.18279858452883
+1945,SAVXY,Sahaviriya Steel Industries PLC,5.150000095367432,True,2012.0,,,,,,,,,,
+1946,SAHRF,Sahara Energy Ltd,0.008349999785423279,False,2010.0,,06-11,08-25,4.0,4.0,6.0,6.0,06-11,08-25,8.533859869795117
+1947,SGUJ,Saguaro Holdings Corp,0.10000000149011612,True,2012.0,,,,,,,,,,
+1948,SGCFF,Sagicor Financial Co Ltd,5.011000156402588,True,2020.0,,,,,,,,,,
+1949,SGNT,Sagent Pharmaceuticals Inc,$21.76 ,True,,'Date',,,,,,,,,
+1950,SAGE,Sage Therapeutics Inc,74.69149780273438,True,2014.0,,,,,,,,,,
+1951,SGPYY,Sage Group (The) PLC,37.70000076293945,False,2009.0,,11-15,01-29,8.0,7.0,3.0,4.0,11-15,01-29,7.425301139795923
+1952,SGGEF,Sage Group (The) PLC,8.949999809265137,False,2010.0,,11-05,01-19,6.0,4.0,4.0,6.0,11-05,01-19,5.5343895012954505
+1953,SGPLF,Saga PLC,2.754430055618286,True,2018.0,,,,,,,,,,
+1954,SAGA,Saga Energy Inc,$0.10 ,True,,No data fetched for symbol SAGA using YahooDailyReader,,,,,,,,,
+1955,SGA,Saga Communications Inc,21.469999313354492,False,2009.0,,09-23,12-07,6.0,6.0,5.0,5.0,09-23,12-07,9.904453165257443
+1956,SGPEY,Saft Groupe SA,$82.00 ,True,,No data fetched for symbol SGPEY using YahooDailyReader,,,,,,,,,
+1957,SGPEF,Saft Groupe SA,$40.25 ,True,,No data fetched for symbol SGPEF using YahooDailyReader,,,,,,,,,
+1958,SAFRY,Safran SA,35.619998931884766,False,2010.0,,04-08,06-22,7.0,7.0,3.0,3.0,04-08,06-22,8.187859296612482
+1959,SAFRF,Safran SA,142.91000366210938,False,2010.0,,06-30,09-13,7.0,7.0,3.0,3.0,06-30,09-13,5.932440805222843
+1960,SAFLY,Safilo Group SpA,1.5199999809265137,True,2013.0,,,,,,,,,,
+1961,SAFLF,Safilo Group SpA,0.7300000190734863,False,2010.0,,12-19,03-04,4.0,4.0,6.0,6.0,12-19,03-04,6.77973917028633
+1962,SAFT,Safety Insurance Group Inc,73.89700317382812,False,2009.0,,05-30,08-13,5.0,4.0,6.0,7.0,05-30,08-13,4.015910859828781
+1963,SFIN,Safetek International Inc,0.017000000923871994,True,2012.0,,,,,,,,,,
+1964,SFYLF,Safestyle UK PLC,$2.26 ,True,,No data fetched for symbol SFYLF using YahooDailyReader,,,,,,,,,
+1965,SFSHF,Safestore Holdings PLC,10.40999984741211,True,2012.0,,,,,,,,,,
+1966,ACAI,Safeplus International Holdings Ltd,1,True,2020.0,,,,,,,,,,
+1967,SAFE,Safehold Inc,67.69000244140625,True,2017.0,,,,,,,,,,
+1968,SFE,Safeguard Scientifics Inc,6.320000171661377,False,2009.0,,02-08,04-23,7.0,7.0,4.0,4.0,02-08,04-23,1.2317383603321421
+1969,SFECF,SafeCharge International Group Ltd,$3.18 ,True,,No data fetched for symbol SFECF using YahooDailyReader,,,,,,,,,
+1970,SFET,Safe-T Group Ltd,1.059999942779541,True,2018.0,,,,,,,,,,
+1971,SB,Safe Bulkers Inc,1.0549999475479126,False,2009.0,,05-06,07-20,6.0,4.0,5.0,7.0,05-06,07-20,8.966468300924424
+1972,SFRI,Safari Corp,0.75,True,2012.0,,,,,,,,,,
+1973,SFHLF,SAF Holland SA,10.012900352478027,False,2009.0,,03-18,06-01,5.0,5.0,6.0,6.0,03-18,06-01,9.470136168951782
+1974,SAEXQ,SAExploration Holdings Inc,0.2694999873638153,True,2020.0,,,,,,,,,,
+1975,SYRVF,Sacyr SA,2.5,True,2018.0,,,,,,,,,,
+1976,SACH,Sachem Capital Corp,4.090000152587891,True,2017.0,,,,,,,,,,
+1977,ATRLF,Sacgasco Ltd,0.06499999761581421,True,2017.0,,,,,,,,,,
+1978,SABR,Sabre Corp,10.204999923706055,True,2014.0,,,,,,,,,,
+1979,SBRA,Sabra Health Care REIT Inc,16.764999389648438,False,2009.0,,12-17,03-02,8.0,8.0,3.0,3.0,12-17,03-02,5.529119549874506
+1980,SBMRY,SABMiller Ltd,$54.86 ,True,,'Date',,,,,,,,,
+1981,SBMRF,SABMiller Ltd,$49.80 ,True,,'Date',,,,,,,,,
+1982,SBLRF,Sable Resources Ltd,0.12999999523162842,True,2013.0,,,,,,,,,,
+1983,SBR,Sabine Royalty Trust,29.14189910888672,False,2009.0,,04-01,06-15,8.0,7.0,3.0,4.0,03-31,06-14,7.078367680949326
+1984,SABN,Sabine Oil & Gas Holdings Inc,45.0,True,2017.0,,,,,,,,,,
+1985,SOGCQ,Sabine Oil & Gas Corp,$0.01 ,True,,'Date',,,,,,,,,
+1986,SGSVF,Sabina Gold & Silver Corp,1.940000057220459,False,2009.0,,08-15,10-29,6.0,6.0,5.0,5.0,08-15,10-29,-3.318229949112343
+1987,SBBSF,Sabana Shari'ah Compliant Industrial Real Estate I,0.2549999952316284,True,2012.0,,,,,,,,,,
+1988,SCAC,Saban Capital Acquisition Corp,10.279999732971191,True,2016.0,,,,,,,,,,
+1989,SAABY,Saab AB,25.0,True,2019.0,,,,,,,,,,
+1990,SAABF,Saab AB,27.200000762939453,True,2011.0,,,,,,,,,,
+1991,SAXJY,Sa SA International Holdings Ltd,3.740000009536743,True,2019.0,,,,,,,,,,
+1992,SSILF,Sa SA International Holdings Ltd,0.17000000178813934,True,2020.0,,,,,,,,,,
+1993,SIEVF,SA D'Ieteren NV,56.79999923706055,True,2013.0,,,,,,,,,,
+1994,SIETY,SA D'Ieteren NV,33.87300109863281,True,2015.0,,,,,,,,,,
+1995,SCPPF,S4 Capital PLC,5.900000095367432,True,2019.0,,,,,,,,,,
+1996,SDSDF,S.D. Standard Drilling PLC,$0.15 ,True,,No data fetched for symbol SDSDF using YahooDailyReader,,,,,,,,,
+1997,SOOCY,S-Oil Corp,$45.00 ,True,,No data fetched for symbol SOOCY using YahooDailyReader,,,,,,,,,
+1998,SANW,S&W Seed Company,2.180000066757202,False,2010.0,,12-13,02-26,8.0,8.0,2.0,2.0,12-13,02-26,12.116136097582205
+1999,STBA,S&T Bancorp Inc,23.3700008392334,False,2009.0,,09-25,12-09,6.0,5.0,5.0,6.0,11-01,01-15,5.492540333993008
+2000,SPGI,S&P Global Inc,338.20001220703125,False,2009.0,,05-13,07-27,8.0,8.0,3.0,3.0,05-13,07-27,6.8679166018590605
+2001,^GSPC,S&P 500,3575.820068359375,False,2009.0,,10-11,12-25,9.0,9.0,2.0,2.0,10-11,12-25,3.5228636035427177
+2002,SDAD,S H Research & Development Corp,0.00559999980032444,True,2012.0,,,,,,,,,,
+2003,SBBI,S b c p Bancorp Inc,64.25,True,2012.0,,,,,,,,,,

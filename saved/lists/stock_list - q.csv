@@ -1,0 +1,146 @@
+,symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+0,QYOUF,QYOU Media Inc,0.039299998,TRUE,2017,,,,,,,,,,
+1,QWIKF,Qwick Media Inc,$0.70 ,TRUE,,No data fetched for symbol QWIKF using YahooDailyReader,,,,,,,,,
+2,QUTR,Quture International Inc,0.0066,FALSE,2010,,31-Mar,14-Jun,3,3,7,7,31-Mar,14-Jun,28.09180606
+3,QTT,Qutoutiao Inc,2.329999924,TRUE,2018,,,,,,,,,,
+4,QRTEB,Qurate Retail Inc,8.93999958,FALSE,2009,,3-Sep,17-Nov,5,5,6,6,3-Sep,17-Nov,7.1978421
+5,QRTEA,Qurate Retail Inc,8.93999958,FALSE,2009,,1-Sep,15-Nov,5,5,6,6,1-Sep,15-Nov,5.976155624
+6,QUOT,Quotient Technology Inc,7.400000095,TRUE,2014,,,,,,,,,,
+7,QTNT,Quotient Ltd,5.949999809,TRUE,2014,,,,,,,,,,
+8,QMCI,QuoteMedia Inc,0.079999998,FALSE,2009,,25-Jun,8-Sep,4,4,7,7,25-Jun,8-Sep,14.29833991
+9,QIFTF,Quorum Information Technologies Inc,0.854290009,TRUE,2013,,,,,,,,,,
+10,QHCCQ,Quorum Health Corp,0.090000004,TRUE,2019,,,,,,,,,,
+11,YQUFF,Quonia SOCIMI SA,1.94690001,TRUE,2020,,,,,,,,,,
+12,QUNR,Qunar Cayman Islands Ltd,$30.41 ,TRUE,,'Date',,,,,,,,,
+13,QUMU,Qumu Corp,4.960000038,FALSE,2009,,17-Feb,2-May,4,4,7,7,17-Feb,2-May,9.695571581
+14,QQQFF,Quizam Media Corp,0.386099994,FALSE,2009,,7-Mar,21-May,1,1,10,10,7-Mar,21-May,7.638890493
+15,QUISF,Quisitive Technology Solutions Inc,0.649900019,TRUE,2018,,,,,,,,,,
+16,QES,Quintana Energy Services Inc,0.9278,TRUE,2018,,,,,,,,,,
+17,QUTDF,Quintain Estates & Development PLC,$1.66 ,TRUE,,No data fetched for symbol QUTDF using YahooDailyReader,,,,,,,,,
+18,QNST,QuinStreet Inc,17.19000053,FALSE,2010,,30-Oct,13-Jan,3,3,7,7,30-Oct,13-Jan,7.527145123
+19,QCAAF,Quinsam Capital Corp,0.07,TRUE,2018,,,,,,,,,,
+20,EQLMF,Quilvest SA,$97.31 ,TRUE,,'Date',,,,,,,,,
+21,QUILF,Quilter PLC,1.899999976,TRUE,2019,,,,,,,,,,
+22,QDEL,Quidel Corp,187.2799988,FALSE,2009,,7-May,21-Jul,5,5,6,6,7-May,21-Jul,13.07358471
+23,QCKSF,Quickstep Holdings Ltd,0.079999998,TRUE,2012,,,,,,,,,,
+24,QUIK,QuickLogic Corp,2.930000067,FALSE,2009,,25-Nov,8-Feb,5,5,6,6,25-Nov,8-Feb,17.41679115
+25,QMDT,Quick-Med Technologies Inc,0.0173,FALSE,2009,,7-Jan,22-Mar,7,7,4,4,7-Jan,22-Mar,38.81352318
+26,QH,Quhuo Ltd,7.199999809,TRUE,2020,,,,,,,,,,
+27,QGLOF,Questus Global Capital Market Ltd,$0.49 ,TRUE,,No data fetched for symbol QGLOF using YahooDailyReader,,,,,,,,,
+28,QUTIF,Questor Technology Inc,1.618000031,TRUE,2012,,,,,,,,,,
+29,CLASF,QuestEx Gold & Copper Ltd,0.389999986,TRUE,2011,,,,,,,,,,
+30,QTEYF,Questerre Energy Corp,0.090000004,FALSE,2009,,18-Aug,1-Nov,5,5,6,6,18-Aug,1-Nov,2.017224654
+31,COPRF,QuestCap Inc,0.112999998,FALSE,2009,,13-Aug,27-Oct,1,1,10,10,13-Aug,27-Oct,5.077777083
+32,STR,Questar Corp,14.98999977,TRUE,2012,,,,,,,,,,
+33,QUSA,Questar Assessment Inc,$2.71 ,TRUE,,'Date',,,,,,,,,
+34,QWTR,Quest Water Global Inc,0.039000001,TRUE,2012,,,,,,,,,,
+35,QRHC,Quest Resource Holding Corp,1.909999967,FALSE,2010,,5-Apr,19-Jun,6,6,4,4,5-Apr,19-Jun,9.066147537
+36,QRMLF,Quest Rare Minerals Ltd,0.01035,TRUE,2012,,,,,,,,,,
+37,QPTFF,Quest PharmaTech Inc,0.118050002,TRUE,2018,,,,,,,,,,
+38,QPRC,Quest Patent Research Corp,0.0077,FALSE,2009,,17-Sep,1-Dec,3,3,8,8,17-Sep,1-Dec,21.70906192
+39,QSMG,Quest Management Inc,0.007,TRUE,2017,,,,,,,,,,
+40,DGX,Quest Diagnostics Inc,122.2699966,FALSE,2009,,4-May,18-Jul,7,7,4,4,4-May,18-Jul,5.357213468
+41,BRSGF,QueenÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s Road Capital Investment Ltd,0.349999994,TRUE,2014,,,,,,,,,,
+42,QUCT,Queen City Investment Inc,879.7999878,TRUE,2012,,,,,,,,,,
+43,QBCRF,Quebecor Inc,25.35000038,FALSE,2010,,6-Nov,20-Jan,5,5,5,5,31-Aug,14-Nov,3.779207378
+44,QBCAF,Quebecor Inc,24.6067009,TRUE,2013,,,,,,,,,,
+45,CJCFF,Quebec Precious Metals Corp,0.159999996,FALSE,2010,,24-Dec,9-Mar,5,5,5,5,24-Dec,9-Mar,12.87975021
+46,QD,Qudian Inc,1.49000001,TRUE,2017,,,,,,,,,,
+47,RPPTF,Quattro Plus Real Estate,$1.19 ,TRUE,,No data fetched for symbol RPPTF using YahooDailyReader,,,,,,,,,
+48,QTRRF,Quaterra Resources Inc,0.059999999,FALSE,2009,,24-Jun,7-Sep,2,2,9,9,24-Jun,7-Sep,-3.073140355
+49,QZMRF,Quartz Mountain Resources Ltd,0.108999997,FALSE,2009,,8-May,22-Jul,1,1,10,10,8-May,22-Jul,12.24396681
+50,QRTXF,Quartix Holdings PLC,$2.26 ,TRUE,,No data fetched for symbol QRTXF using YahooDailyReader,,,,,,,,,
+51,QTRHF,Quarterhill Inc,2.039999962,TRUE,2011,,,,,,,,,,
+52,QURT,Quarta-Rad Inc,1.5,TRUE,2018,,,,,,,,,,
+53,QRRY,Quarry City Savings & Loan Association,11.90999985,TRUE,2013,,,,,,,,,,
+54,QTGI,Quark Technology Global Inc,3.5,TRUE,2020,,,,,,,,,,
+55,QSPW,Quantum Solar Power Corp,0.005,FALSE,2009,,7-Dec,20-Feb,6,6,5,5,7-Dec,20-Feb,12.77719343
+56,QNCCF,Quantum Numbers Corp,0.046,TRUE,2018,,,,,,,,,,
+57,QTMR,Quantum MRI Inc,0.029999999,TRUE,2012,,,,,,,,,,
+58,QTMM,Quantum Materials Corp,0.029999999,FALSE,2009,,3-Nov,17-Jan,2,2,9,9,3-Nov,17-Jan,3.900267231
+59,QUAN,Quantum International Corp,0.0152,FALSE,2009,,11-Jul,24-Sep,5,5,6,6,11-Jul,24-Sep,-101.7783368
+60,QTWWQ,Quantum Fuel Systems Technologies Worldwide Inc,$0.01 ,TRUE,,No data fetched for symbol QTWWQ using YahooDailyReader,,,,,,,,,
+61,QEGY,Quantum Energy Inc,0.219999999,FALSE,2009,,14-Feb,29-Apr,4,4,7,7,14-Feb,29-Apr,13.63773708
+62,QMCO,Quantum Corp,5.630000114,FALSE,2009,,12-Nov,26-Jan,4,4,7,7,12-Nov,26-Jan,5.329834042
+63,QUBT,Quantum Computing Inc,3.289999962,TRUE,2013,,,,,,,,,,
+64,BRVVF,Quantum Cobalt Corp,0.02,TRUE,2017,,,,,,,,,,
+65,QTCI,Quantum Capital Inc,0.077500001,TRUE,2012,,,,,,,,,,
+66,QTXB,Quantrx Biomedical Corp,0.0053,FALSE,2009,,20-Dec,5-Mar,5,5,6,6,20-Dec,5-Mar,19.97810913
+67,QATSF,Quantitative Alpha Trading Inc,$0.01 ,TRUE,,No data fetched for symbol QATSF using YahooDailyReader,,,,,,,,,
+68,QGSI,QuantGate Systems Inc,0.079999998,FALSE,2010,,27-Apr,11-Jul,1,1,8,8,27-Apr,11-Jul,4.784976481
+69,QTRX,Quanterix Corp,46.11999893,TRUE,2017,,,,,,,,,,
+70,QTNA,Quantenna Communications Inc,24.51000023,TRUE,2016,,,,,,,,,,
+71,QNTFF,Quantafuel ASA,5.75,TRUE,2020,,,,,,,,,,
+72,PWR,Quanta Services Inc,67.58000183,FALSE,2009,,27-Oct,10-Jan,7,7,4,4,27-Oct,10-Jan,3.257743403
+73,QNTA,Quanta Inc,0.090000004,TRUE,2018,,,,,,,,,,
+74,QUCCF,Quanta Computer Inc,$8.77 ,TRUE,,No data fetched for symbol QUCCF using YahooDailyReader,,,,,,,,,
+75,NX,Quanex Building Products Corp,20.29000092,FALSE,2009,,7-Oct,21-Dec,5,5,6,6,25-Aug,8-Nov,8.1818754
+76,QLYS,Qualys Inc,89.16999817,TRUE,2012,,,,,,,,,,
+77,QBAK,Qualstar Corp,2.369999886,FALSE,2009,,6-Dec,19-Feb,7,7,4,4,6-Dec,19-Feb,9.550209972
+78,QMRK,QualMark Corp,$1.00 ,TRUE,,'Date',,,,,,,,,
+79,QCP,Quality Care Properties Inc,20.73999977,TRUE,2016,,,,,,,,,,
+80,QUCOF,Qualitas Controladora SAB de CV,3.74000001,TRUE,2019,,,,,,,,,,
+81,QLIS,Qualis Innovations Inc,0.319999993,FALSE,2009,,13-Oct,27-Dec,4,4,7,7,13-Oct,27-Dec,5.391827568
+82,QLGN,Qualigen Therapeutics Inc,3.650000095,TRUE,2015,,,,,,,,,,
+83,QULRY,Qualicorp Consultoria E Corretora De Seguros SA,6.454800129,TRUE,2015,,,,,,,,,,
+84,QUAIF,Qualicorp Consultoria E Corretora De Seguros SA,$6.34 ,TRUE,,No data fetched for symbol QUAIF using YahooDailyReader,,,,,,,,,
+85,QCOM,Qualcomm Inc,147.0500031,FALSE,2009,,11-Oct,25-Dec,5,5,6,6,11-Oct,25-Dec,4.787314152
+86,KWR,Quaker Chemical Corp,253.4700012,FALSE,2009,,30-Aug,13-Nov,7,6,4,5,30-Aug,13-Nov,10.9310393
+87,QNTO,Quaint Oak Bancorp Inc,12.5,FALSE,2009,,15-Apr,29-Jun,9,8,2,3,15-Apr,29-Jun,3.949434623
+88,QUDCF,Quadron Cannatech Corp,$0.20 ,TRUE,,No data fetched for symbol QUDCF using YahooDailyReader,,,,,,,,,
+89,QDROF,Quadro Resources Ltd,0.116980001,TRUE,2020,,,,,,,,,,
+90,QDRSF,Quadrise Fuels International PLC,0.025,TRUE,2013,,,,,,,,,,
+91,QDLC,Quadlogic Controls Corp,0.449999988,TRUE,2013,,,,,,,,,,
+92,NPACY,Quadient SA,0.99000001,TRUE,2012,,,,,,,,,,
+93,NPACF,Quadient SA,23.29999924,TRUE,2012,,,,,,,,,,
+94,QUAD,Quad/Graphics Inc,2.970000029,FALSE,2010,,19-Dec,4-Mar,6,4,4,6,19-Dec,4-Mar,6.836088541
+95,MMMM,Quad M Solutions Inc,0.192000002,TRUE,2012,,,,,,,,,,
+96,CDID,Quad Energy Corp,0.2509,TRUE,2012,,,,,,,,,,
+97,QCCP,Quad County Corn Processors Cooperative,"$9,500.00 ",TRUE,,No data fetched for symbol QCCP using YahooDailyReader,,,,,,,,,
+98,QBTIF,Quabit Inmobiliaria SA,$6.00 ,TRUE,,No data fetched for symbol QBTIF using YahooDailyReader,,,,,,,,,
+99,QTS,QTS Realty Trust Inc,62.5,TRUE,2013,,,,,,,,,,
+100,QTVLF,QT Vascular Ltd,0.005,TRUE,2014,,,,,,,,,,
+101,QTGPF,Qt Group PLC,22.29899979,TRUE,2020,,,,,,,,,,
+102,QSLRF,QSolar Ltd,$0.06 ,TRUE,,No data fetched for symbol QSLRF using YahooDailyReader,,,,,,,,,
+103,QSAM,QSAM Biosciences Inc,0.425000012,TRUE,2020,,,,,,,,,,
+104,QSEP,QS Energy Inc,0.02,FALSE,2009,,9-Nov,23-Jan,5,5,6,6,9-Nov,23-Jan,11.3473406
+105,QRXPY,QRxPharma Ltd,$0.01 ,TRUE,,No data fetched for symbol QRXPY using YahooDailyReader,,,,,,,,,
+106,QRXPF,QRxPharma Ltd,0.005,FALSE,2009,,26-Jan,10-Apr,6,6,5,5,26-Jan,10-Apr,24.04225236
+107,QRSM,QRS Music Technologies Inc,0.109999999,FALSE,2009,,4-Mar,18-May,3,3,8,8,4-Mar,18-May,25.17728674
+108,QRON,Qrons Inc,0.949999988,TRUE,2017,,,,,,,,,,
+109,QPSF,QPS Die Cutters & Finishers Corp,0.177550003,TRUE,2012,,,,,,,,,,
+110,QRVO,Qorvo Inc,144.3699951,TRUE,2015,,,,,,,,,,
+111,FNKXF,QNB Finansbank AS,$4.95 ,TRUE,,No data fetched for symbol FNKXF using YahooDailyReader,,,,,,,,,
+112,QNBC,QNB Corp,30.5,FALSE,2009,,1-Apr,15-Jun,8,8,3,3,26-Sep,10-Dec,3.847987315
+113,QMXGF,QMX Gold Corp,0.129999995,FALSE,2009,,23-Nov,6-Feb,3,3,8,8,23-Nov,6-Feb,11.81607766
+114,QMIS,QMIS Finance Securities Corp,0.519999981,TRUE,2012,,,,,,,,,,
+115,QMCQF,QMC Quantum Minerals Corp,0.167879999,TRUE,2013,,,,,,,,,,
+116,QLGC,QLogic Corp,$16.07 ,TRUE,,'Date',,,,,,,,,
+117,QLIK,Qlik Technologies Inc,$30.50 ,TRUE,,'Date',,,,,,,,,
+118,QKLS,QKL Stores Inc,0.050000001,FALSE,2009,,4-Feb,19-Apr,6,6,5,5,4-Feb,19-Apr,9.792171044
+119,QIWI,QIWI PLC,16.75,TRUE,2013,,,,,,,,,,
+120,QQFSF,Qinqin Foodstuffs Group (Cayman) Co Ltd,0.270000011,TRUE,2016,,,,,,,,,,
+121,QGLHF,Qingling Motors Co Ltd,0.119999997,TRUE,2013,,,,,,,,,,
+122,QING,Qingdao Footwear Inc,0.01475,TRUE,2012,,,,,,,,,,
+123,QNTQY,QinetiQ Group PLC,16.34000015,FALSE,2009,,8-Sep,22-Nov,4,4,7,7,8-Sep,22-Nov,2.745848319
+124,QNTQF,QinetiQ Group PLC,4.190000057,FALSE,2009,,25-Aug,8-Nov,5,5,6,6,25-Aug,8-Nov,4.429506592
+125,QGEN,Qiagen NV,46.54999924,FALSE,2009,,17-May,31-Jul,9,9,2,2,17-May,31-Jul,4.458198259
+126,QHYG,QHY Group,0.137899995,FALSE,2009,,4-Jan,19-Mar,5,5,6,6,4-Jan,19-Mar,11.28393601
+127,QEP,QEP Resources Inc,1.309999943,FALSE,2010,,23-Sep,7-Dec,5,5,5,5,23-Sep,7-Dec,1.757400152
+128,QDMI,QDM International Inc,1,FALSE,2009,,24-Feb,9-May,4,4,7,7,24-Feb,9-May,14.83498336
+129,QCXGF,QCX Gold Corp,0.109999999,TRUE,2020,,,,,,,,,,
+130,QCRH,QCR Holdings Inc,36.97000122,FALSE,2009,,18-Apr,2-Jul,9,9,2,2,9-Apr,23-Jun,9.094778129
+131,QCCO,QC Holdings Inc,0.25,FALSE,2009,,15-Jan,30-Mar,7,6,4,5,24-Jan,8-Apr,7.552226176
+132,QBIEY,QBE Insurance Group Ltd,7.570000172,FALSE,2010,,30-Jan,14-Apr,5,5,5,5,10-Feb,25-Apr,1.191609882
+133,QBEIF,QBE Insurance Group Ltd,7.5,FALSE,2009,,31-Jan,15-Apr,7,6,4,5,4-Mar,18-May,0.946735486
+134,QUBSF,Qantas Airways Ltd,3.890000105,FALSE,2009,,6-Jul,19-Sep,6,6,5,5,19-Aug,2-Nov,7.853510377
+135,QABSY,Qantas Airways Ltd,19.43000031,TRUE,2014,,,,,,,,,,
+136,QADB,QAD Inc,31.79999924,FALSE,2009,,12-Jul,25-Sep,5,5,6,6,12-Jul,25-Sep,8.001377028
+137,QADA,QAD Inc,48.02999878,FALSE,2010,,5-Jul,18-Sep,5,5,5,5,5-Jul,18-Sep,3.934004545
+138,QTWO,Q2 Holdings Inc,109.2200012,TRUE,2014,,,,,,,,,,
+139,QEPC,Q.E.P. Co Inc,20.98999977,FALSE,2009,,23-May,6-Aug,4,4,7,7,23-May,6-Aug,4.853667122
+140,QSCGF,Q.Beyond AG,1.210000038,TRUE,2012,,,,,,,,,,
+141,QGLDF,Q-Gold Resources Ltd,0.379999995,FALSE,2009,,28-Jul,11-Oct,3,3,8,8,28-Jul,11-Oct,-1.889932159
+142,QFREF,Q-Free ASA,$0.95 ,TRUE,,No data fetched for symbol QFREF using YahooDailyReader,,,,,,,,,
+143,QK,Q&K International Group Ltd,4.179999828,TRUE,2019,,,,,,,,,,
+144,QBIO,Q BioMed Inc,1.159999967,TRUE,2015,,,,,,,,,,
