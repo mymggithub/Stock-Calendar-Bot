@@ -1,0 +1,9 @@
+symbol,company,price,ignore,start_yr,ignore_error,adj_up_start_schedule,adj_up_end_schedule,adj_ups,close_ups,adj_downs,close_downs,close_up_start_schedule,close_up_end_schedule,close_up_percent_avg
+NNCT,99 Cent Stuff Inc,$0.01 ,True,,'Date',,,,,,,,,
+TNGRY,88 Energy Ltd,$0.02 ,True,,No data fetched for symbol TNGRY using YahooDailyReader,,,,,,,,,
+FSCGF,4SC AG,$5.30 ,True,,No data fetched for symbol FSCGF using YahooDailyReader,,,,,,,,,
+FOREY,4imprint Group PLC,$47.31 ,True,,'Date',,,,,,,,,
+FUNWF,4Fun Media SA,$1.84 ,True,,No data fetched for symbol FUNWF using YahooDailyReader,,,,,,,,,
+SYGWF,4Basebio AG,$1.20 ,True,,No data fetched for symbol SYGWF using YahooDailyReader,,,,,,,,,
+FCTY,1st Century Bancshrs Inc,$11.22 ,True,,'Date',,,,,,,,,
+DRHKF,1&1 Drillisch AG,$39.44 ,True,,'Date',,,,,,,,,
