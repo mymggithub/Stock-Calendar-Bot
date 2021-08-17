@@ -54,7 +54,7 @@ Totaling around 7,083 stocks as seen in the [data/raw folder](https://github.com
 
 ### 7. Scan the excel. 
 
-![vlcsnap-2021-08-17-11h55m27s990](https://user-images.githubusercontent.com/21014768/129776244-6aedd226-b603-4775-8d44-73cbe6374adb.png
+![vlcsnap-2021-08-17-11h55m27s990](https://user-images.githubusercontent.com/21014768/129776244-6aedd226-b603-4775-8d44-73cbe6374adb.png)
 
 ### 8. His Conclusion. 
 
