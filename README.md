@@ -63,3 +63,16 @@ Totaling around 7,083 stocks as seen in the [data/raw folder](https://github.com
 
 ![image](https://user-images.githubusercontent.com/21014768/130073576-037c3299-039e-43a3-9ca9-e086de9cccdd.png)
 
+
+# How to use this bot.
+
+This script does all of Matt Choi steps.
+
+## Requirements
+- Python 3
+- jupyter notebook
+- pandas_datareader, numpy and pandas libraries 
+ 
+
+
+
