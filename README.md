@@ -26,7 +26,7 @@ Totaling around 7,083 stocks as seen in the [data/raw folder](https://github.com
 
 # How to use this bot.
 
-This script does all of [Matt Choi steps](https://github.com/mymggithub/Stock-Calendar-Bot/blob/main/saved/manual%20cal/README.md).
+This script does all of [Matt Choi steps](https://github.com/mymggithub/Stock-Calendar-Bot/blob/main/saved/manual%20cal).
 
 ## Requirements
 - Python 3
