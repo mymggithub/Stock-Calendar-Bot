@@ -1,10 +1,10 @@
 
-[Synergy Traders #10.2: "Best Options Strategy We’ve EVER Used!" with Matt Choi](https://www.youtube.com/watch?v=lVIdj3P9Dfc)
+
 
 
 #### Disclaimer: I am not clamming that I know the formula used in Matt Choi program, nor is this meant to give finacial advice. This is more only out of interest of data mining and data analisist.
 
-# The Steps Matt Choi recommends to get started.
+# The Steps Matt Choi recommends to get started. ([Video](https://youtu.be/lVIdj3P9Dfc?t=981))
 
 ### 1. Go to yahoo finance. 
 
