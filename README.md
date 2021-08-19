@@ -28,36 +28,38 @@ Totaling around 7,083 stocks as seen in the [data/raw folder](https://github.com
 
 ### 1. Go to yahoo finance. 
 
-![vlcsnap-2021-08-17-11h53m31s830](https://user-images.githubusercontent.com/21014768/129774105-6a2974f3-c432-4bd6-85f8-be1cff3e9fbf.png)
+![image](https://user-images.githubusercontent.com/21014768/130071447-7887499a-37fa-41d0-9548-1782f8cbb073.png)
 
 ### 2. Put in the ticker symbol. 
 
-![vlcsnap-2021-08-17-11h53m36s911](https://user-images.githubusercontent.com/21014768/129774182-68e35393-59e5-4575-9888-706aac205c59.png)
+![image](https://user-images.githubusercontent.com/21014768/130071854-60ec0462-9465-4e1a-9708-6f89384283a3.png)
 
 ### 3. Click Historical Data. 
 
-![vlcsnap-2021-08-17-11h54m09s535](https://user-images.githubusercontent.com/21014768/129774426-fd5f2c0e-2bcd-46c9-8231-9b295b39b69d.png)
+![image](https://user-images.githubusercontent.com/21014768/130072203-ce8da3a5-77a6-4cd3-b480-38c1f90586e4.png)
 
 ### 4. Put a range and click apply. 
 
-![vlcsnap-2021-08-17-11h54m17s720](https://user-images.githubusercontent.com/21014768/129774647-4f064823-da5b-40d1-b0cb-1a64521483ab.png)
+![image](https://user-images.githubusercontent.com/21014768/130072549-0a2c3d33-5a3b-4a74-9b73-d1c12e04284d.png)
+
 
 ### 5. Then you will get a download, then he says the improtant data is the "Data" and "Adj Close". 
 
-![vlcsnap-2021-08-17-11h54m31s864](https://user-images.githubusercontent.com/21014768/129774764-6e0df486-a86b-4538-92ec-80e8571dd5df.png)
-
+![image](https://user-images.githubusercontent.com/21014768/130072740-94805825-804c-4d69-8893-cf27634b15fc.png)
 
 ### 6. He pivots the Adj close with excel. 
 (What I ended up doing was having the script do it for me) results in [data/yearly](https://github.com/mymggithub/Stock-Calendar-Bot/tree/main/data/yearly)
 
-![vlcsnap-2021-08-17-11h55m11s576](https://user-images.githubusercontent.com/21014768/129775900-649b5297-28cf-46c8-8ef8-dedefb2fdb9f.png)
+![image](https://user-images.githubusercontent.com/21014768/130072913-e7f6c91e-9855-4a99-959d-3caf0b6b95dc.png)
 
 ### 7. Scan the excel. 
 
-![vlcsnap-2021-08-17-11h55m27s990](https://user-images.githubusercontent.com/21014768/129776244-6aedd226-b603-4775-8d44-73cbe6374adb.png)
+![image](https://user-images.githubusercontent.com/21014768/130073081-3977afbf-48a6-46c3-9ea5-a5ce891471a4.png)
+
 
 ### 8. His Conclusion. 
 
-![vlcsnap-2021-08-17-11h56m06s035](https://user-images.githubusercontent.com/21014768/129776582-211b4123-67dc-43c4-9bb6-b2dce679522c.png)
+![image](https://user-images.githubusercontent.com/21014768/130073405-0c6e4ae0-b4f7-402c-ac3a-46076fee4aef.png)
 
-![vlcsnap-2021-08-17-11h57m05s972](https://user-images.githubusercontent.com/21014768/129776591-9df435e0-18a5-405b-8b72-e64bcacac575.png)
+![image](https://user-images.githubusercontent.com/21014768/130073576-037c3299-039e-43a3-9ca9-e086de9cccdd.png)
+
