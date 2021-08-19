@@ -14,8 +14,9 @@ When it was time to download the data I put the range for about 10 years back of
 If I ran into problems with obtaining data the job of the bot was to skip that stock.
 
 After all of that I was left with a smaller list of stocks to work with.
-Totaling around 7,083 stocks as seen in the [data/raw folder](https://github.com/mymggithub/Stock-Calendar-Bot/tree/main/data/raw)
+Totaling around 7,083 stocks as seen in the [data/raw folder](https://github.com/mymggithub/Stock-Calendar-Bot/tree/main/data/raw).
 
+10,309 stocks that the script identified as companies under 10 years located in the [data/under_min](https://github.com/mymggithub/Stock-Calendar-Bot/tree/main/data/under_min) folder.
 
 # How to use this bot.
 
