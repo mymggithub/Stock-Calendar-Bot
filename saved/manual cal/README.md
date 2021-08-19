@@ -43,3 +43,9 @@
 
 ![image](https://user-images.githubusercontent.com/21014768/130073576-037c3299-039e-43a3-9ca9-e086de9cccdd.png)
 
+
+
+
+
+Another video:
+[Synergy Traders #13.07: Predicting Favorable Outcomes For Options Trades with Matt Choi](https://www.youtube.com/watch?v=RAzuPtb2JUg)
