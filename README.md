@@ -1,4 +1,4 @@
-# Stock-Calendar-Bot
+# Stock-Calendar
 
 I build this because of this video originally [Synergy Traders #10.2: "Best Options Strategy We’ve EVER Used!" with Matt Choi](https://www.youtube.com/watch?v=lVIdj3P9Dfc).
 
