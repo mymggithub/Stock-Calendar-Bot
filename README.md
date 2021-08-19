@@ -1,6 +1,6 @@
 # Stock-Calendar
 
-I build this because of this video originally [Synergy Traders #10.2: "Best Options Strategy We’ve EVER Used!" with Matt Choi](https://www.youtube.com/watch?v=lVIdj3P9Dfc).
+I build this because of this video: [Synergy Traders #10.2: "Best Options Strategy We’ve EVER Used!" with Matt Choi](https://www.youtube.com/watch?v=lVIdj3P9Dfc).
 
 
 #### Disclaimer: I am not clamming that I know the formula used in Matt Choi program, nor is this meant to give finacial advice. This is more only out of interest of data mining and data analisist.
