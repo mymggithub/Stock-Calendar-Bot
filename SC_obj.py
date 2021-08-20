@@ -247,6 +247,11 @@ class SC_bot():
         print("Done")
 
         
-if __name__ == "__main__":
-    scb = SC_bot(BOT={"NUM":1})
+# if __name__ == "__main__":
+#     scb = SC_bot(BOT={"NUM":1})
     
+def main():
+    pass
+
+if __name__ == "__main__":
+    main()
