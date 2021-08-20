@@ -24,7 +24,6 @@ This script does all of [Matt Choi steps](https://github.com/mymggithub/Stock-Ca
 
 ## Requirements
 - Python 3
-- jupyter notebook
 - pandas_datareader, numpy and pandas libraries 
  
 
