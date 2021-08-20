@@ -97,7 +97,6 @@ class SC_bot():
             
     def get_stock(self, SYMBOL, i=0):
         self.error = False
-        print(i+1, SYMBOL)
         try:        
             current_stock = pd.read_csv(r'{}/{}_{}.csv'.format(self.DIR['RAW'], SYMBOL, "history"), index_col=['Date'] , parse_dates=['Date'])
             self.tickers.at[i, "ignore"] = False
@@ -129,7 +128,7 @@ class SC_bot():
                 break
                 
             SYMBOL = row["symbol"]
-            
+            print(i+1, SYMBOL)
             if (pd.notnull(row['ignore']) and row['ignore'] and not self.REPASS):
                 print("--Ignore: {}".format(row['ignore'] and not self.REPASS))
                 continue
