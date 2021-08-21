@@ -1,1 +1,3 @@
+data/* linguist-vendored
+saved/* linguist-vendored
 *.py linguist-detectable=true
